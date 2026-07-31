@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:code-fonction_publique:2016-12-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/fonction_publique",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2016-12-31",
+  "valid_to": "2017-02-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2016-12-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-12-31",
+      "valid_to": "2017-02-27",
+      "valid_time_source": "publisher",
+      "title": "Code de la fonction publique",
+      "title_short": "Code de la fonction publique",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20161231/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20161231/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "416bc07e9900c829e50bd0adcb61715746cd330da72ad8a2e841452b733436fe"
+}

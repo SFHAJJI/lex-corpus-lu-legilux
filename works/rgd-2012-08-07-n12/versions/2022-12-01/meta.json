@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2012-08-07-n12:2022-12-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/08/07/n12",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-12-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/12/2022 : R\u00E8glement grand-ducal du 7 ao\u00FBt 2012 d\u00E9terminant les crit\u00E8res d\u0027\u00E9ligibilit\u00E9 \u00E0 l\u0027octroi de subsides au titre de l\u0027article 17bis de la loi modifi\u00E9e du 6 janvier 1996 sur la coop\u00E9ration au d\u00E9veloppement et l\u0027action humanitaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/08/07/n12/consolide/20221201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/08/07/n12/consolide/20221201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "356438af64a38eeff4ef1e3f0c05ea72c0eea28ad567547f4acf335c29ac4a54"
+}

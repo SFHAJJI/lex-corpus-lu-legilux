@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:agd-1995-05-18-n1:2026-06-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1995/05/18/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-06-30",
+  "valid_to": "2026-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-06-30",
+      "valid_to": "2026-07-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1995/05/18/n1/consolide/20260630",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1995/05/18/n1/consolide/20260630"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "453292925a456421fb0d10518bfde710ef05025d542d3b4cab02afabefb8ce79"
+}

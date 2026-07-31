@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2015-07-25-n1:2025-06-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/25/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-06-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-06-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-06-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/06/2025 : Loi du 25 juillet 2015 relative \u00E0 l\u0027archivage \u00E9lectronique et portant modification: 1. de l\u0027article 1334 du Code civil; 2. de l\u0027article 16 du Code de commerce; 3. de la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier.",
+      "title_short": "Loi du 25 juillet 2015 relative \u00E0 l\u0027archivage \u00E9lectronique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n1/consolide/20250617/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n1/consolide/20250617/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9613fa3cfdcec4525a72824695b0fe8b920c75560fdd0cef9d777afca0c7ab6b"
+}

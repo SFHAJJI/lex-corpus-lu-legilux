@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1998-09-08-n4:2024-03-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-03-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-09-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-03-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/03/2024 : Loi du 8 septembre 1998 r\u00E9glant les relations entre l\u0027Etat et les organismes oeuvrant dans les domaines social, familial et th\u00E9rapeutique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/20240301/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/20240301/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "eaa17458a9c22d477196e14cc3cd8f542482ac9992efaefe6ebcafc888b74f20"
+}

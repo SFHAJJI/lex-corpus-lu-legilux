@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1992-08-10-n1:2011-07-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2011-07-21",
+  "valid_to": "2025-11-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2011-07-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-07-21",
+      "valid_to": "2025-11-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/2010 : Loi du 10 ao\u00FBt 1992 portant cr\u00E9ation de l\u0027entreprise des postes et t\u00E9l\u00E9communications.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20110721/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20110721/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5b75e692bc1d01d8434fe7367d0e4335e0f864985f615fec5d6f36a5a570e33c"
+}

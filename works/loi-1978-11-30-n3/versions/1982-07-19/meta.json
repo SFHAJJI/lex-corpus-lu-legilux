@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1978-11-30-n3:1982-07-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1978/11/30/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1982-07-19",
+  "valid_to": "1985-07-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1982-07-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1982-07-19",
+      "valid_to": "1985-07-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/1981 : Loi du 30 novembre 1978 promouvant la modernisation de l\u2019agriculture.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/11/30/n3/consolide/19820719/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1978/11/30/n3/consolide/19820719/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "46df01ff01e02d52fef08dd77aef43c96ea7bbefad24b0b373387819d13ea9ba"
+}

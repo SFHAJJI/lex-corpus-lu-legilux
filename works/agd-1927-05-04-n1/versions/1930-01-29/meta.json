@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1927-05-04-n1:1930-01-29",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1927/05/04/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1930-01-29",
+  "valid_to": "2002-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-05-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1930-01-29",
+      "valid_to": "2002-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 29/01/1930 : Arr\u00EAt\u00E9 grand-ducal du 4 mai 1927 relatif \u00E0 la codification des dispositions d\u2019ex\u00E9cution aux lois des 29 mai 1906 et 14 d\u00E9cembre 1914 sur les habitations \u00E0 bon march\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1927/05/04/n1/consolide/19300129/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1927/05/04/n1/consolide/19300129/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "196e04fecc6ddd15682b51fc9ca0edf61d2b6b9717eb286ca687e9f653998521"
+}

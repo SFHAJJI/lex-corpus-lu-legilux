@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2011-05-24-n2:2026-04-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-04-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-04-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-04-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/04/2026 : Loi du 24 mai 2011 concernant l\u0027exercice de certains droits des actionnaires aux assembl\u00E9es g\u00E9n\u00E9rales de soci\u00E9t\u00E9s cot\u00E9es et portant transposition de la directive 2007/36/CE du Parlement europ\u00E9en et du Conseil du 11 juillet 2007 concernant l\u0027exercice de certains droits des actionnaires de soci\u00E9t\u00E9s cot\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20260403/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20260403/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2579e523c1444e0b235d9beafd2504aa0a1765a67afb8c48e9246c24aae92ac8"
+}

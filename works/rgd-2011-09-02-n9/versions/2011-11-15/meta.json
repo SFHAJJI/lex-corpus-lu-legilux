@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-09-02-n9:2011-11-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2011-11-15",
+  "valid_to": "2016-10-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-02-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-11-15",
+      "valid_to": "2016-10-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/11/2011 : R\u00E8glement grand-ducal du 2 septembre 2011 fixant la p\u00E9riode de l\u0027heure l\u00E9gale d\u0027\u00E9t\u00E9 pour les ann\u00E9es 2012, 2013, 2014, 2015 et 2016.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/consolide/20111115/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n9/consolide/20111115/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f26aaf19d4334fd113c6389faa878b53864185dd40f33489796c8b36e63b072d"
+}

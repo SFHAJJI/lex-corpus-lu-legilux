@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1984-11-27-n1:1986-02-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/11/27/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1986-02-07",
+  "valid_to": "1988-05-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1986-05-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1986-02-07",
+      "valid_to": "1988-05-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/12/1985 : R\u00E8glement grand-ducal du 27 novembre 1984 portant coordination des dispositions l\u00E9gales et r\u00E9glementaires relatives \u00E0 la surveillance du secteur financier.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/11/27/n1/consolide/19860207/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/11/27/n1/consolide/19860207/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ea6c386384d2ba3b5cd5baa601c36b572a3f2d24e08f600e80f8630d788197f8"
+}

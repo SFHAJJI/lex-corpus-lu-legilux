@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1963-08-05-n1:1998-03-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1963/08/05/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1998-03-14",
+  "valid_to": "2018-07-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1998-03-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1998-03-14",
+      "valid_to": "2018-07-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1997 : Loi du 5 ao\u00FBt 1963 concernant l\u0027importation, l\u0027exportation et le transit des marchandises.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1963/08/05/n1/consolide/19980314/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1963/08/05/n1/consolide/19980314/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "71acf28552b5279391986810173b5e4a1480427fca5f406230b9e0bea2abc1b9"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2022-06-09-a272:2022-06-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/09/a272",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-06-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-05-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-06-14",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 14/06/2022 : R\u00E8glement grand-ducal du 9 juin 2022 abrogeant le r\u00E8glement grand-ducal modifi\u00E9 du 30 juillet 2013 relatif aux d\u00E9chets d\u2019\u00E9quipements \u00E9lectriques et \u00E9lectroniques.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/09/a272/consolide/20220614/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/09/a272/consolide/20220614/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "52f034c16959933314ad12a7e4c7a73fbbc8428f43b37f44ce9db8717123dd6d"
+}

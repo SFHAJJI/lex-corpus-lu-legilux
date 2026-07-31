@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2023-01-23-a41:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/01/23/a41",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-07-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2023 : Loi du 23 janvier 2023 portant organisation du Conseil national de la justice et modification de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat.",
+      "title_short": "Loi du 23 janvier 2023 portant organisation du Conseil national de la justice.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a41/consolide/20230701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a41/consolide/20230701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0969d649f7af22eb564b29c85fc5375c3fc3b3060132812302c7cb464bba10a6"
+}

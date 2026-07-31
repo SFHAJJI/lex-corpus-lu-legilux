@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:ri-2023-10-24-a761:2026-01-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761",
+  "publisher": "lu-legilux",
+  "document_type": "RI",
+  "valid_from": "2026-01-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-01-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-21",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/01/2026 : R\u00E8glement de la Chambre des D\u00E9put\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20260121/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20260121/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cd33964f3b82046d290ab0bb00d22d755dec5c2a234cccd07a9ac9557d563505"
+}

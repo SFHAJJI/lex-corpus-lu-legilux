@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-11-06-a990:2023-02-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-02-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-02-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-02-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/02/2023 : R\u00E8glement grand-ducal du 6 novembre 2017 portant modification du r\u00E8glement grand-ducal du 29 ao\u00FBt 2003 relatif aux avertissements tax\u00E9s et aux consignations pour contrevenants non-r\u00E9sidents en mati\u00E8re de navigation int\u00E9rieure et du catalogue annex\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7f2f59311d01cca0ab1e88156ea82af6a5626489e7bd27add384286e0c838aed"
+}

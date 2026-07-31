@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2008-12-19-n9:2017-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2017-01-01",
+  "valid_to": "2026-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-05-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-01-01",
+      "valid_to": "2026-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2017 : R\u00E8glement grand-ducal du 19 d\u00E9cembre 2008 r\u00E9glant les modalit\u00E9s de la d\u00E9duction des frais de d\u00E9placement et autres frais d\u2019obtention, des d\u00E9penses sp\u00E9ciales, des charges extraordinaires, ainsi que de la bonification des cr\u00E9dits d\u2019imp\u00F4t.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20170101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20170101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "28eb9386d7eb6fa36318fc7978604800ce1532c348e7c452058e27646a02967a"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1987-02-17-n7:1997-12-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1997-12-27",
+  "valid_to": "2012-04-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1987-05-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1997-12-27",
+      "valid_to": "2012-04-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/12/1997 : R\u00E8glement grand-ducal du 17 f\u00E9vrier 1987 sur l\u0027identification des b\u00E2timents de plaisance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/19971227/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/19971227/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "076df221af56ed9968e2f3502586b16d6caf0ccab6229bada855be03db838eec"
+}

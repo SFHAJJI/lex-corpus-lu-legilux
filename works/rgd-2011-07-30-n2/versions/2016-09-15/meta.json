@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-07-30-n2:2016-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/30/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2016-09-15",
+  "valid_to": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-02-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-09-15",
+      "valid_to": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2016 : R\u00E8glement grand-ducal du 30 juillet 2011 portant institution et organisation des commissions nationales pour les programmes de l\u0027enseignement secondaire, ainsi que du cycle inf\u00E9rieur, du r\u00E9gime pr\u00E9paratoire et du r\u00E9gime technique de l\u0027enseignement secondaire technique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/30/n2/consolide/20160915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/30/n2/consolide/20160915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d61b589ad354d1ae13fb53e7242088ffb61cd65f685afca5c7ab36a439867ae0"
+}

@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2015-09-04-n1:2019-05-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2019-05-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-04-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-05-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/05/2019 : Loi du 4 septembre 2015\\na) concernant certaines modalit\u00E9s d\u0027application et les sanctions du r\u00E8glement (UE) n\u00B0 528/2012 du Parlement europ\u00E9en et du Conseil du 22 mai 2012 concernant la mise \u00E0 disposition sur le march\u00E9 et l\u0027utilisation des produits biocides;\\nb) relative \u00E0 l\u0027enregistrement de fabricants et de vendeurs;\\nc) abrogeant la loi modifi\u00E9e du 24 d\u00E9cembre 2002 relative aux produits biocides.",
+      "title_short": "Loi du 4 septembre 2015 relative aux produits biocides.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20190525/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20190525/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4ab29f682ee954c9699827f1a350f0c8fef3a113f54b6323a56524e2a413ca44"
+}

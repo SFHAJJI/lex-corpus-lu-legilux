@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1985-12-24-n3:2023-08-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-08-21",
+  "valid_to": "2024-08-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-12-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-08-21",
+      "valid_to": "2024-08-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/08/2023 : Loi du 24 d\u00E9cembre 1985 fixant le statut g\u00E9n\u00E9ral des fonctionnaires communaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/consolide/20230821/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/consolide/20230821/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "77a56927ee49699026d9ef9589756afe36de428efa59ba29ed32821d1268c7c4"
+}

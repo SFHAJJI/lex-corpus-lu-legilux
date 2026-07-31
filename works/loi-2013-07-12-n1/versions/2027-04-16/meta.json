@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2013-07-12-n1:2027-04-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2027-04-16",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2027-04-16",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20270416",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20270416"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "27182ebea6f2ee5acefe244301a23f9bcf37bd961857866e2a88046d7781c6e3"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2009-12-10-n1:2020-11-26",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-11-26",
+  "valid_to": "2022-08-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-11-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-11-26",
+      "valid_to": "2022-08-07",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 26/11/2020 : Loi du 10 d\u00E9cembre 2009 a) relative \u00E0 l\u0027hospitalisation sans leur consentement de personnes atteintes de troubles mentaux, b) modifiant la loi modifi\u00E9e du 31 mai 1999 sur la Police et l\u0027Inspection g\u00E9n\u00E9rale de la Police et c) modifiant l\u0027article 73 de la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988.",
+      "title_short": "Loi du 10 d\u00E9cembre 2009 relative \u00E0 l\u0027hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/consolide/20201126/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/10/n1/consolide/20201126/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ac21a23c45861f96e6c4c8f8fad803523296938e18111701a9d3e22089ffa641"
+}

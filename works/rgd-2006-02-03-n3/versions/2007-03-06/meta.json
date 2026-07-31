@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2006-02-03-n3:2007-03-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2007-03-06",
+  "valid_to": "2008-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-01-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2007-03-06",
+      "valid_to": "2008-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/03/2007 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2006 fixant les r\u00E8gles de la gestion financi\u00E8re et comptable applicables aux services de l\u0027Etat \u00E0 gestion s\u00E9par\u00E9e ainsi que les modalit\u00E9s du contr\u00F4le de cette gestion.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20070306/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20070306/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "65fe4c6bd128a42e3c1445a39ed6c9d7672a40861146b62841fdea6f84064471"
+}

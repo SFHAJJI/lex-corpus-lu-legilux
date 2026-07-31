@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2021-07-30-a601:2027-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601",
+  "publisher": "lu-legilux",
+  "valid_from": "2027-01-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2027-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20270101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20270101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "df975dba34122642840056c7043637546587cb67e6a9291340e8b348fac0e23e"
+}

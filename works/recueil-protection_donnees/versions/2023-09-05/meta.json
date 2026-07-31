@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-protection_donnees:2023-09-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/protection_donnees",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-09-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-03-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-05",
+      "valid_time_source": "publisher",
+      "title": "Protection des donn\u00E9es",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20230905/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20230905/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7759f51085fe45c9dc816cef61538cc395bfb443eaf19f12916cd592c9deb42b"
+}

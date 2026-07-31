@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1993-12-24-n2:2009-02-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2009-02-21",
+  "valid_to": "2017-03-26",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-03-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2009-02-21",
+      "valid_to": "2017-03-26",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/02/2009 : R\u00E8glement grand-ducal modifi\u00E9 du 24 d\u00E9cembre 1993 d\u00E9terminant en application de l\u0027article 455 du Code de la s\u00E9curit\u00E9 sociale la proc\u00E9dure \u00E0 suivre devant le Conseil arbitral des assurances sociales et le Conseil sup\u00E9rieur des assurances sociales, ainsi que les d\u00E9lais et frais de justice.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/consolide/20090221/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n2/consolide/20090221/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fa0d0ad44456b314612781071ff75dd3cfbe8607d49f7d7282527288a42690f7"
+}

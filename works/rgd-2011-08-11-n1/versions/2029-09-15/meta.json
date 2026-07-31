@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-08-11-n1:2029-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2029-09-15",
+  "valid_to": "2030-09-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-04-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2029-09-15",
+      "valid_to": "2030-09-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2029 : R\u00E8glement grand-ducal du 11 ao\u00FBt 2011 fixant le plan d\u2019\u00E9tudes pour les quatre cycles de l\u2019enseignement fondamental.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20290915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20290915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b597a43cbf3e9e54a0de1184473e58a25fc272758396a362ac3af4c2f381c5bf"
+}

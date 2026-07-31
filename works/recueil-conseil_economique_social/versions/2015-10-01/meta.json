@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-conseil_economique_social:2015-10-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2015-10-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2015-10-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-10-01",
+      "valid_time_source": "publisher",
+      "title": "Conseil \u00E9conomique et social",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "786579c37990432f4c1d91e64014b03c5c383ac9bbc784c841d746d3a8d53a6e"
+}

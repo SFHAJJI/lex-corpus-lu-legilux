@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-10-28-a541:2025-02-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/02/2025 : Loi du 28 octobre 2022 portant cr\u00E9ation de la proc\u00E9dure de dissolution administrative sans liquidation et modifiant :\\n1\u00B0 le Code de commerce ;\\n2\u00B0 le Nouveau Code de proc\u00E9dure civile ;\\n3\u00B0 la loi modifi\u00E9e du 19 d\u00E9cembre 2002 concernant le registre de commerce et des soci\u00E9t\u00E9s ainsi que la comptabilit\u00E9 et les comptes annuels des entreprises ;\\n4\u00B0 la loi modifi\u00E9e du 19 d\u00E9cembre 2008 ayant pour objet la coop\u00E9ration interadministrative et judiciaire et le renforcement des moyens de l\u2019Administration des contributions directes, de l\u2019Administration de l\u2019enregistrement et des domaines et de l\u2019Administration des douanes et accises et portant modification de\\n- la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e ;\\n- la loi g\u00E9n\u00E9rale des imp\u00F4ts (\u00AB\u00A0Abgabenordnung\u00A0\u00BB) ;\\n- la loi modifi\u00E9e du 17 avril 1964 portant r\u00E9organisation de l\u2019Administration des contributions directes ;\\n- la loi modifi\u00E9e du 20 mars 1970 portant r\u00E9organisation de l\u2019Administration de l\u2019enregistrement et des domaines ;\\n- la loi modifi\u00E9e du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d\u2019assurance sociale ;\\n5\u00B0 la loi modifi\u00E9e du 25 mars 2020 instituant un syst\u00E8me \u00E9lectronique central de recherche de donn\u00E9es concernant des comptes de paiement et des comptes bancaires identifi\u00E9s par un num\u00E9ro IBAN et des coffres-forts.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/consolide/20250201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/10/28/a541/consolide/20250201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "df1234cc5adcaa28845c82cc55bd42cba671b77a724ad93840436a242a6a7752"
+}

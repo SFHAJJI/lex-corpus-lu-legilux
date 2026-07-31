@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2009-02-06-n3:2023-07-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-31",
+  "valid_to": "2026-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-31",
+      "valid_to": "2026-09-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/07/2023 : Loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u0027enseignement fondamental.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20230731/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20230731/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "61ef41b7e5e89cf7dcb0e29e15504d897e3e63490c64adb4c2fe0d3b7850131a"
+}

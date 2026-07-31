@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-1999-06-08-n2:2026-07-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-07-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-07-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-07-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/07/2026 : Loi du 8 juin 1999\\n a) sur le Budget, la Comptabilit\u00E9 et la Tr\u00E9sorerie de l\u0027Etat;\\n b) portant modification de la loi du 10 mars 1969 portant institution d\u0027une inspection g\u00E9n\u00E9rale des finances;\\n c) portant modification de la loi modifi\u00E9e du 16 ao\u00FBt 1966 portant organisation des cadres de la tr\u00E9sorerie de l\u0027Etat, de la caisse g\u00E9n\u00E9rale de l\u0027Etat et du service du contr\u00F4le de la comptabilit\u00E9 des communes et de certains \u00E9tablissements publics.",
+      "title_short": "Loi du 8 juin 1999 sur le Budget, la Comptabilit\u00E9 et la Tr\u00E9sorerie de l\u0027\u00C9tat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20260727/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20260727/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "31b6d845f471e1f08b755d8acda26e8e3c9b119bb76f53dc86696faa17ffdd4b"
+}

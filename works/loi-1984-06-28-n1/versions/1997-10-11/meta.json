@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1984-06-28-n1:1997-10-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/06/28/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1997-10-11",
+  "valid_to": "2016-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1998-06-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1997-10-11",
+      "valid_to": "2016-12-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/1996 : Loi du 28 juin 1984 portant r\u00E9glementation de la police de la navigation int\u00E9rieure, des sports nautiques et de la natation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/06/28/n1/consolide/19971011/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1984/06/28/n1/consolide/19971011/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "23dd76fb1a0a50cd60c19e87022af002484820c7017e6270cf6e43f2412c16a7"
+}

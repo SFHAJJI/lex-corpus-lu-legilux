@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2014-12-19-n7:2023-10-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-10-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/10/2023 : Loi du 19 d\u00E9cembre 2014 facilitant l\u0027\u00E9change transfrontalier d\u0027informations concernant les infractions en mati\u00E8re de s\u00E9curit\u00E9 routi\u00E8re.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/consolide/20231024/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n7/consolide/20231024/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e67818e6a55a0c9e03b8d90bff591757580558e215117ac1a6f77ce4ddbbf942"
+}

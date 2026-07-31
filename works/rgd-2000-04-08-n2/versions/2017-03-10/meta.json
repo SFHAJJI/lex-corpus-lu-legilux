@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2000-04-08-n2:2017-03-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/04/08/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2017-03-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-03-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/03/2017 : R\u00E8glement grand-ducal du 8 avril 2000 fixant la proc\u00E9dure \u00E0 suivre pour obtenir l\u0027autorisation d\u0027exercer au Grand-Duch\u00E9 certaines professions de sant\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/04/08/n2/consolide/20170310/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/04/08/n2/consolide/20170310/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "962bc7da776056dc34e25f3fdd2ea783bf73a38f6f7a211cfaa9b077b158a2ff"
+}

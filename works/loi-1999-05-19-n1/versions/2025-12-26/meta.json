@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-1999-05-19-n1:2025-12-26",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/05/19/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-12-26",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-12-26",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/05/19/n1/consolide/20251226",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/05/19/n1/consolide/20251226"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f7a8279485b647b7126fc9016ab917a6161f3e5ba105dcde748664740ff17b37"
+}

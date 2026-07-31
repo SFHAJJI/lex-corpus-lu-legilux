@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgc-1974-11-15-n2:1977-12-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGC",
+  "valid_from": "1977-12-01",
+  "valid_to": "1982-04-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-08-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1977-12-01",
+      "valid_to": "1982-04-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/12/1977 : R\u00E8glement du Gouvernement en conseil du 15 novembre 1974 fixant le r\u00E9gime des indemnit\u00E9s des charg\u00E9s de cours des \u00E9tablissements d\u0027enseignement publics qui d\u00E9pendent du minist\u00E8re de l\u0027Education nationale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "22be00d74b4c397b3e77aac1e6c67438f3c662afd3c33345dbddf4947cc7808a"
+}

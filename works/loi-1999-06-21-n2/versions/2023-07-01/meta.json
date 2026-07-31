@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-1999-06-21-n2:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2",
+  "publisher": "lu-legilux",
+  "valid_from": "2023-07-01",
+  "valid_to": "2023-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_to": "2023-09-16",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/consolide/20230701",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/consolide/20230701"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a4db0448e230baad160bd46f05cc3689a176192289d2a0f4b0f5e67ec94d2edf"
+}

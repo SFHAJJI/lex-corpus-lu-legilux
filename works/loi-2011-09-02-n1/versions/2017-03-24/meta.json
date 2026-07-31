@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2011-09-02-n1:2017-03-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2017-03-24",
+  "valid_to": "2018-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-09-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-03-24",
+      "valid_to": "2018-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/03/2017 : Loi du 2 septembre 2011 r\u00E9glementant l\u2019acc\u00E8s aux professions d\u2019artisan, de commer\u00E7ant, d\u2019industriel ainsi qu\u2019\u00E0 certaines professions lib\u00E9rales et \\n- modifiant l\u2019article 542-2 du Code du travail; \\n- modifiant la loi modifi\u00E9e du 16 juillet 1987 concernant le colportage, la vente ambulante, l\u2019\u00E9talage de marchandises et la sollicitation de commandes; \\n- modifiant la loi modifi\u00E9e du 10 juin 1999 relative \u00E0 la profession d\u2019expert-comptable; \\n- portant abrogation de la loi modifi\u00E9e du 21 f\u00E9vrier 1976 ayant pour objet d\u2019instaurer un jour de fermeture hebdomadaire dans les stations de vente de carburant et de lubrifiant pour v\u00E9hicules automoteurs.",
+      "title_short": "Loi du 2 septembre 2011 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20170324/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20170324/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e08839a4b9996bc6b57c59119e47e9a3613366367c4112f7b9b7a1b4ca378371"
+}

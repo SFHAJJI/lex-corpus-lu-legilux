@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-06-08-a286:2023-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/06/08/a286",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-07-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2023 : Loi du 8 juin 2022 relative aux aides \u00E0 des pr\u00EAts climatiques.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/06/08/a286/consolide/20230901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/06/08/a286/consolide/20230901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2d678d18e4dda5821216a412c60e0aa3250698d11bd353c7d89e2f3a66d90e38"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2016-07-23-n8:2023-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-01-01",
+  "valid_to": "2026-04-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-02-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-01-01",
+      "valid_to": "2026-04-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 23 juillet 2016 relative \u00E0 la profession de l\u2019audit portant: - transposition de la directive 2014/56/UE du Parlement europ\u00E9en et du Conseil du 16 avril 2014 modifiant la directive 2006/43/CE concernant les contr\u00F4les l\u00E9gaux des comptes annuels et des comptes consolid\u00E9s; - mise en oeuvre du r\u00E8glement (UE) n\u00B0 537/2014 du Parlement europ\u00E9en et du Conseil du 16 avril 2014 relatif aux exigences sp\u00E9cifiques applicables au contr\u00F4le l\u00E9gal des comptes des entit\u00E9s d\u2019int\u00E9r\u00EAt public et abrogeant la d\u00E9cision 2005/909/CE de la Commission; - modification de la loi modifi\u00E9e du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de sepcav et assep; - modification de la loi modifi\u00E9e du 10 ao\u00FBt 1915 concernant les soci\u00E9t\u00E9s commerciales; - abrogation de la loi modifi\u00E9e du 18 d\u00E9cembre 2009 relative \u00E0 la profession de l\u2019audit.",
+      "title_short": "Loi du 23 juillet 2016 relative \u00E0 la profession de l\u0027audit.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20230101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20230101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "dec96e31b50083a804e43fcddd11aedc14a3e19e70ae62fd3cda092a5a040ef2"
+}

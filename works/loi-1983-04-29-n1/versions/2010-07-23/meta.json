@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1983-04-29-n1:2010-07-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2010-07-23",
+  "valid_to": "2014-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1995-10-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-07-23",
+      "valid_to": "2014-08-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/2009 : Loi du 29 avril 1983 concernant l\u0027exercice des professions de m\u00E9decin, de m\u00E9decin-dentiste et de m\u00E9decin-v\u00E9t\u00E9rinaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20100723/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20100723/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3b39ebe76558992faa9178047e0523ddc110838005eaee8e70d889c88dd50825"
+}

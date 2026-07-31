@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1968-02-22-n1:2002-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1968/02/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2002-01-01",
+  "valid_to": "2006-09-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2001-10-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-01-01",
+      "valid_to": "2006-09-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/12/2001 : Loi du 22 f\u00E9vrier 1968 sur la nationalit\u00E9 luxembourgeoise.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1968/02/22/n1/consolide/20020101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1968/02/22/n1/consolide/20020101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8a3083d3b04ed9a919d651b4d3e4d52a05373aac56cba028c8ab1b1400e7e429"
+}

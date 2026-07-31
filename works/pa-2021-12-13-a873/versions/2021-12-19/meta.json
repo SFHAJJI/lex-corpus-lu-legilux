@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:pa-2021-12-13-a873:2021-12-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/pa/2021/12/13/a873",
+  "publisher": "lu-legilux",
+  "document_type": "PA",
+  "valid_from": "2021-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-05-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-12-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 19/12/2021 : Avis de publication conform\u00E9ment \u00E0 l\u2019article 11bis du r\u00E8glement grand-ducal modifi\u00E9 du 2 ao\u00FBt 2006 portant application de la directive 2002/49/CE du Parlement europ\u00E9en et du Conseil du 25 juin 2002 relative \u00E0 l\u2019\u00E9valuation et \u00E0 la gestion du bruit dans l\u2019environnement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/pa/2021/12/13/a873/consolide/20211219/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/pa/2021/12/13/a873/consolide/20211219/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1b23931eecc62bc6dba89c15deb80414c69e0821a643916e950b6991cabac9ed"
+}

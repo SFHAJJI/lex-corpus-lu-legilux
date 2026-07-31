@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1993-01-15-n1:2001-12-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2001-12-31",
+  "valid_to": "2006-10-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-02-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2001-12-31",
+      "valid_to": "2006-10-21",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/12/2001 : R\u00E8glement grand-ducal du 15 janvier 1993 relatif \u00E0 la mise sur le march\u00E9 des m\u00E9dicaments v\u00E9t\u00E9rinaires.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/20011231/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/20011231/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "13b3eeb6d34b6d6d1892ba4634d5b0d4e425f393337596ca33aeaa6083970449"
+}

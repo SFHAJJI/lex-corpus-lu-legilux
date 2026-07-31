@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2010-11-10-n1:2018-07-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-07-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-07-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-07-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/07/2018 : Loi du 10 novembre 2010 relative aux recours en mati\u00E8re de march\u00E9s publics et d\u2019attribution de contrats de concession.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20180709/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20180709/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "891f53139ed944914bf6f43be1a7b3508c543c9b03b517492b09d37444af92f8"
+}

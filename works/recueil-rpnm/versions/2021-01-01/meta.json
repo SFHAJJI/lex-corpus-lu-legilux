@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-rpnm:2021-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/rpnm",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2021-01-01",
+  "valid_to": "2022-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-01-01",
+      "valid_to": "2022-01-01",
+      "valid_time_source": "publisher",
+      "title": "R\u00E8glement de Police pour la Navigation de la Moselle",
+      "title_short": "R\u00E8glement de Police pour la Navigation de la Moselle",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/rpnm/20210101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/rpnm/20210101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "84a053f83e3394f17d7238c3e640befd6cc5f8d2fdcf305e614fa602c4ffb23e"
+}

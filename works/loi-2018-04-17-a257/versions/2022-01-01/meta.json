@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2018-04-17-a257:2022-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-01-01",
+  "valid_to": "2022-03-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-08-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-01-01",
+      "valid_to": "2022-03-08",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2022 : Loi du 17 avril 2018 portant mise en \u0153uvre du r\u00E8glement (UE) 2016/1011 du Parlement europ\u00E9en et du Conseil du 8 juin 2016 concernant les indices utilis\u00E9s comme indices de r\u00E9f\u00E9rence dans le cadre d\u0027instruments et de contrats financiers ou pour mesurer la performance de fonds d\u0027investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le r\u00E8glement (UE) n\u00B0 596/2014, et portant:\\n1. modification du Code de la consommation ;\\n2. modification de la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier ;\\n3. modification de la loi modifi\u00E9e du 12 novembre 2004 relative \u00E0 la lutte contre le blanchiment et contre le financement du terrorisme ; et\\n4. modification de la loi modifi\u00E9e du 7 d\u00E9cembre 2015 sur le secteur des assurances.",
+      "title_short": "Loi du 17 avril 2018 relative aux indices de r\u00E9f\u00E9rence.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7b91ef37e8bde11c8985d350f64f605444fcf4dd2f50b73f1012aaedbb06ae68"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2022-12-23-a674:2024-08-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-08-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-08-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/08/2024 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2022 modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 31 mars 2010 relatif au m\u00E9canisme de compensation dans le cadre de l\u2019organisation du march\u00E9 de l\u2019\u00E9lectricit\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d992fabca6500609c65aedc91ea7040ee16229e76964f8d45c2d92ae098e3288"
+}

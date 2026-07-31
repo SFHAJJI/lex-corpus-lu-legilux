@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2010-02-18-n9:2017-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/02/18/n9",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2017-04-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-01-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-04-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/04/2017 : R\u00E8glement grand-ducal du 18 f\u00E9vrier 2010 d\u00E9terminant les modalit\u00E9s d\u2019\u00E9tablissement du contingent de le\u00E7ons attribu\u00E9es aux communes et aux syndicats scolaires pour assurer l\u2019enseignement fondamental.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/02/18/n9/consolide/20170401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/02/18/n9/consolide/20170401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "85846428eb93d48dce0762613797ae603e212bb1a991c07def75faec2addf62b"
+}

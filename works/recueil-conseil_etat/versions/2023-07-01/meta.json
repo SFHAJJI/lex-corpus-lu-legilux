@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-conseil_etat:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/conseil_etat",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-07-01",
+  "valid_to": "2023-10-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-07-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_to": "2023-10-24",
+      "valid_time_source": "publisher",
+      "title": "Conseil d\u0027\u00C9tat",
+      "title_short": "Conseil d\u0027\u00C9tat",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20230701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20230701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5e8230c623d6f154da601b3bdff1312454a2f654f100baea1d710e60d0ff4e14"
+}

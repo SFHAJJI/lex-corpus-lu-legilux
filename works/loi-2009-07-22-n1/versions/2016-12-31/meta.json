@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2009-07-22-n1:2016-12-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-12-31",
+  "valid_to": "2021-02-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-11-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-12-31",
+      "valid_to": "2021-02-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/12/2016 : Loi du 22 juillet 2009 ayant pour objet\\nA) la transposition en droit national de la directive 2004/49/CE du Parlement europ\u00E9en et du Conseil du 29 avril 2004 concernant la s\u00E9curit\u00E9 des chemins de fer communautaires;\\nB) de cr\u00E9er un cadre r\u00E9glementaire dans le domaine de la s\u00E9curit\u00E9 ferroviaire;\\nC) d\u0027instituer une Administration des Chemins de Fer; et\\nD) de modifier \\na) la loi modifi\u00E9e du 11 juin 1999 relative \u00E0 l\u0027acc\u00E8s \u00E0 l\u0027infrastructure ferroviaire et \u00E0 son utilisation et\\nb) la loi modifi\u00E9e du 29 juin 2004 sur les transports publics.",
+      "title_short": "Loi du 22 juillet 2009 relative \u00E0 la s\u00E9curit\u00E9 ferroviaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20161231/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20161231/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "26482497f271b860d0e8cc17dd035b5df7cc508761ba135696b25f3702937e40"
+}

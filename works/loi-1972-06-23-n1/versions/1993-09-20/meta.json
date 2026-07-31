@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1972-06-23-n1:1993-09-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1993-09-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-01-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1993-09-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/09/1993 : Loi du 23 juin 1972 sur les embl\u00E8mes nationaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/consolide/19930920/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1972/06/23/n1/consolide/19930920/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "22808df20d599ca330514803fca2c8c7082311659725b2e1a09b35e1a534940e"
+}

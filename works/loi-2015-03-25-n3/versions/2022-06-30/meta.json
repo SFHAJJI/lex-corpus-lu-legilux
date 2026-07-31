@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2015-03-25-n3:2022-06-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3",
+  "publisher": "lu-legilux",
+  "valid_from": "2022-06-30",
+  "valid_to": "2022-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-06-30",
+      "valid_to": "2022-07-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20220630",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20220630"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7fd810a23ffee806e3a70c8ec46c5e79567d119a404f3e5f857e60efb212772f"
+}

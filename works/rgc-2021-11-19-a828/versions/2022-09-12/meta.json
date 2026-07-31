@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgc-2021-11-19-a828:2022-09-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828",
+  "publisher": "lu-legilux",
+  "document_type": "RGC",
+  "valid_from": "2022-09-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-09-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-09-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/09/2022 : R\u00E8glement du Gouvernement en Conseil du 19 novembre 2021 relatif \u00E0 l\u2019octroi d\u2019une allocation de vie ch\u00E8re au titre de l\u2019ann\u00E9e 2022.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220912/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220912/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fdca9d713fadd682f5f219b86af3a9273aca629a10b080b3b2aaf0afe7655924"
+}

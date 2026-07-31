@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1985-08-22-n2:2004-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1985/08/22/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2004-01-01",
+  "valid_to": "2006-07-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2004-09-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2004-01-01",
+      "valid_to": "2006-07-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/12/2003 : R\u00E8glement grand-ducal du 22 ao\u00FBt 1985 fixant le r\u00E9gime des cong\u00E9s des fonctionnaires et employ\u00E9s de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1985/08/22/n2/consolide/20040101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1985/08/22/n2/consolide/20040101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5d2fe861871bff55dfe727ea3d208d4d0c84012e73b6796c0d80f0873df3607a"
+}

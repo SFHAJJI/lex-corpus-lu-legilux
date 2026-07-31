@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-chambre_deputes:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/chambre_deputes",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2026-01-01",
+  "valid_to": "2026-01-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-01-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_to": "2026-01-21",
+      "valid_time_source": "publisher",
+      "title": "Chambre des D\u00E9put\u00E9s",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20260101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20260101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f55a6a09f07c307aaf731b4a67d853b46e49f89c9600d0bf0eff1bdd60d720bf"
+}

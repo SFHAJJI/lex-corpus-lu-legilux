@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2015-03-25-n3:2023-08-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-08-22",
+  "valid_to": "2024-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-09-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-08-22",
+      "valid_to": "2024-09-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/08/2023 : Loi du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u0027avancement des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20230822/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20230822/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "901f42b92aefcf39c60d8cc3ef9124850be725082ab4c03772b1fabb19092fcc"
+}

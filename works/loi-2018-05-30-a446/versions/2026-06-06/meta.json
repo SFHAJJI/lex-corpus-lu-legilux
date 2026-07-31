@@ -1,0 +1,31 @@
+{
+  "lex_id": "lu-legilux:loi-2018-05-30-a446:2026-06-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-06-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-06-06",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20260606",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20260606"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "29997909773880f1252a89f1d4459ffbceca3f5409c9b78837dbb076c1749bd4"
+}

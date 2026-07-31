@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2008-09-26-n1:2008-10-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2008-10-03",
+  "valid_to": "2011-08-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2011-08-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2008-10-03",
+      "valid_to": "2011-08-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/2007 : R\u00E8glement grand-ducal du 26 septembre 2008 \u00E9tablissant des r\u00E8gles de bonne conduite \u00E0 appliquer par les agents charg\u00E9s de l\u0027ex\u00E9cution d\u0027une mesure d\u0027\u00E9loignement et modifiant le r\u00E8glement grand-ducal du 21 d\u00E9cembre 2006 portant transposition de la directive 2003/110/CE du Conseil du 25 novembre 2003 concernant l\u0027assistance au transit dans le cadre des mesures d\u0027\u00E9loignement par voie a\u00E9rienne.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n1/consolide/20081003/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n1/consolide/20081003/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "39d58c2ad7b0986022b7dec0ab0ee64451acb560721560e7376920339f07a8b2"
+}

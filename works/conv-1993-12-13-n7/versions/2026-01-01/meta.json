@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:conv-1993-12-13-n7:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/conv/1993/12/13/n7",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-01-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/1993/12/13/n7/consolide/20260101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/conv/1993/12/13/n7/consolide/20260101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "19b103f080a427ca2018249c3041c02b3f42afdf47987d666483e2d3da609d95"
+}

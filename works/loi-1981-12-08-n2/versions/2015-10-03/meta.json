@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1981-12-08-n2:2015-10-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-10-03",
+  "valid_to": "2016-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-09-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-10-03",
+      "valid_to": "2016-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/10/2015 : Loi du 8 d\u00E9cembre 1981 sur les r\u00E9quisitions en cas de conflit arm\u00E9, de crise internationale grave ou de catastrophe.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20151003/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20151003/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f79ac0d23bacb957505f3a7a8a6040dd56874eefa800446552b448809f8fba36"
+}

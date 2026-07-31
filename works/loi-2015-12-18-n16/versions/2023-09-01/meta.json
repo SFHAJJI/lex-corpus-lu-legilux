@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2015-12-18-n16:2023-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2023 : Loi du 18 d\u00E9cembre 2015 relative \u00E0 l\u0027accueil des demandeurs de protection internationale et de protection temporaire, et modifiant la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat.",
+      "title_short": "Loi du 18 d\u00E9cembre 2015 relative \u00E0 l\u2019accueil des demandeurs de protection internationale et de protection temporaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20230901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20230901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "531d01bc67ac098a13d693cd2772b370349381a0cf4fb81091e21ad3f2cd3644"
+}

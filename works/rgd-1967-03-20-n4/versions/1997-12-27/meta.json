@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1967-03-20-n4:1997-12-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1967/03/20/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1997-12-27",
+  "valid_to": "2009-11-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1998-06-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1997-12-27",
+      "valid_to": "2009-11-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/1996 : R\u00E8glement grand-ducal du 20 mars 1967 concernant l\u0027ex\u00E9cution de l\u0027article 54, Nos 2 et 3 de la loi du 14 juillet 1966 sur l\u0027immatriculation des bateaux de navigation int\u00E9rieure et l\u0027hypoth\u00E8que fluviale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1967/03/20/n4/consolide/19971227/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1967/03/20/n4/consolide/19971227/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a0967cf984ba943129d4790d9004308af432379372a9753166d237a9805028bb"
+}

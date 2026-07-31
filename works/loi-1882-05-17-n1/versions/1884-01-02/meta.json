@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1882-05-17-n1:1884-01-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1884-01-02",
+  "valid_to": "2008-06-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-01-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1884-01-02",
+      "valid_to": "2008-06-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/01/1884 : Loi du 17 mai 1882 sur les poids et mesures.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/18840102/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/18840102/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "517dcf74869aa05fb24aa7a36b7b4a3257b905e9e96532ac384e76824c3f4e28"
+}

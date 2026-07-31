@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1999-03-19-n12:2014-10-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/03/19/n12",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2014-10-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2014-12-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2014-10-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/2013 : R\u00E8glement grand-ducal du 19 mars 1999 concernant l\u0027agr\u00E9ment gouvernemental \u00E0 accorder aux gestionnaires de services pour filles, femmes et femmes avec enfants.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/03/19/n12/consolide/20141011/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/03/19/n12/consolide/20141011/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f72380280d19edd4c1bca2579c7b164b318d76f5367873912f943a0bec39e3c7"
+}

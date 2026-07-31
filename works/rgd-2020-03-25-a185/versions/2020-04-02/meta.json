@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-03-25-a185:2020-04-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/25/a185",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-04-02",
+  "valid_to": "2020-04-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-04-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-04-02",
+      "valid_to": "2020-04-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/04/2020 : R\u00E8glement grand-ducal du 25 mars 2020 portant suspension des d\u00E9lais en mati\u00E8re juridictionnelle et adaptation temporaire de certaines autres modalit\u00E9s proc\u00E9durales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/25/a185/consolide/20200402/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/25/a185/consolide/20200402/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1a7b77fde18f6e3c8986ca0a7a97bc297515c7846a2b6a7c7a9fc215ed1dc27a"
+}

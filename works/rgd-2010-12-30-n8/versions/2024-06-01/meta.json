@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2010-12-30-n8:2024-06-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-06-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-02-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-06-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/06/2024 : R\u00E8glement grand-ducal du 30 d\u00E9cembre 2010 concernant les aspects techniques du programme directeur de gestion des risques d\u0027inondation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/consolide/20240601/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n8/consolide/20240601/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1f4a99a9059d3c097a45b28e43f3c1b27c2c32d9280aa22b77985384c136b7e0"
+}

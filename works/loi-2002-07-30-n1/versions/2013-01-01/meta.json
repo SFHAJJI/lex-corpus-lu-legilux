@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2002-07-30-n1:2013-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2013-01-01",
+  "valid_to": "2023-03-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-06-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-01-01",
+      "valid_to": "2023-03-07",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2013 : Loi du 30 juillet 2002 d\u00E9terminant diff\u00E9rentes mesures fiscales destin\u00E9es \u00E0 encourager la mise sur le march\u00E9 et l\u0027acquisition de terrains \u00E0 b\u00E2tir et d\u0027immeubles d\u0027habitation, et portant modification: \\n 1. de la loi modifi\u00E9e du 29 mai 1906 sur les habitations \u00E0 bon march\u00E9; \\n 2. de la loi modifi\u00E9e du 16 octobre 1934 concernant l\u0027\u00E9valuation des biens et valeurs; \\n 3. de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu: \\n 4. de la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e; \\n 5. de la loi du 6 d\u00E9cembre 1990 portant r\u00E9forme de certaines dispositions en mati\u00E8re des imp\u00F4ts directs et indirects.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1/consolide/20130101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/07/30/n1/consolide/20130101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5684d1729e7a5a6ea57a12883fe49dd237406c15284220bca5e13fbece61b134"
+}

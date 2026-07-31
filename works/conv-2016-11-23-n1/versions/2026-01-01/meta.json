@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:conv-2016-11-23-n1:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/conv/2016/11/23/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-01-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2016/11/23/n1/consolide/20260101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/conv/2016/11/23/n1/consolide/20260101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "965e18898d66122a20090f8da2d6c9cfc923943f72d8428f4a8b4a38abaec341"
+}

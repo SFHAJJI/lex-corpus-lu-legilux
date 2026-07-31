@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1969-10-28-n1:1975-03-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/10/28/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1975-03-16",
+  "valid_to": "1976-04-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1981-10-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1975-03-16",
+      "valid_to": "1976-04-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1974 : Loi du 28 octobre 1969 concernant la protection des enfants et des jeunes travailleurs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1969/10/28/n1/consolide/19750316/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1969/10/28/n1/consolide/19750316/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4ac11141cfbec3ca7e7cdc70a9d6e6d7e35d877ee72e8ff9808dd82d7623c02b"
+}

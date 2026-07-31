@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-07-15-n1:2024-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-09-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 15 juillet 2011 fixant les modalit\u00E9s de fonctionnement et d\u0027indemnisation de la commission des am\u00E9nagements raisonnables et modifiant le : \\n- r\u00E8glement grand-ducal du 31 juillet 2006 portant organisation de l\u0027examen de fin d\u0027\u00E9tudes secondaires ; \\n- r\u00E8glement grand-ducal du 31 juillet 2006 portant organisation de l\u0027examen de fin d\u0027\u00E9tudes techniques et de l\u0027examen de fin d\u0027\u00E9tudes de la formation de technicien.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20240101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20240101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "12bfd311c4ad04ca373c1e110abb655fd37024fefe9c3102e7f78132d37f3551"
+}

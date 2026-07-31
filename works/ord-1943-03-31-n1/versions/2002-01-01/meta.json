@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:ord-1943-03-31-n1:2002-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1",
+  "publisher": "lu-legilux",
+  "document_type": "ORD",
+  "valid_from": "2002-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2002 : Ordonnance de simplification du 31 mars 1943 (Verordnung \u00FCber die Erhebung der Gewerbesteuer in vereinfachter Form).",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/consolide/20020101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/ord/1943/03/31/n1/consolide/20020101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6052d3864f25846209e125eff8a60b281458854ad25eaf3e32eccd63d1518ef3"
+}

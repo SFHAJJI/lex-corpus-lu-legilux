@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-04-03-a231:2020-05-29",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-05-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2020-11-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-05-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 29/05/2020 : R\u00E8glement grand-ducal du 3 avril 2020 portant ex\u00E9cution de l\u2019article 3 de la loi du 3 avril 2020 relative \u00E0 la mise en place d\u2019un r\u00E9gime d\u2019aides en faveur des entreprises en difficult\u00E9 financi\u00E8re temporaire et modifiant la loi modifi\u00E9e du 19 d\u00E9cembre 2014 relative 1) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle 2) \u00E0 la promotion de la cr\u00E9ation artistique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/consolide/20200529/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a231/consolide/20200529/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "04b14e8650e518b9307979869afea23ab1218594e4bce27ad339c6492d1eec63"
+}

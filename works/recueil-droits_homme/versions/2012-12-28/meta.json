@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-droits_homme:2012-12-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/droits_homme",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2012-12-28",
+  "valid_to": "2017-12-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2012-12-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-12-28",
+      "valid_to": "2017-12-10",
+      "valid_time_source": "publisher",
+      "title": "Droits de l\u0027Homme",
+      "title_short": "Droits de l\u0027Homme",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/droits_homme/20121228/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/droits_homme/20121228/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "05bf1e8d2e987e6fb3e0594269b39471912a1748a0c23265d5606d5fb55ab719"
+}

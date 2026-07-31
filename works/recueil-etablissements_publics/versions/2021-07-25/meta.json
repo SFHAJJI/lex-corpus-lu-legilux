@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-etablissements_publics:2021-07-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/etablissements_publics",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2021-07-25",
+  "valid_to": "2021-07-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-07-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-07-25",
+      "valid_to": "2021-07-30",
+      "valid_time_source": "publisher",
+      "title": "\u00C9tablissements publics",
+      "title_short": "\u00C9tablissements publics",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/etablissements_publics/20210725/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/etablissements_publics/20210725/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "49f17de2ac294371fcae88d87e9e1bf5ab851ef352f52af74f757681bf64922f"
+}

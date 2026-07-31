@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-expropriation:2015-06-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/expropriation",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2015-06-25",
+  "valid_to": "2018-04-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2015-06-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-06-25",
+      "valid_to": "2018-04-24",
+      "valid_time_source": "publisher",
+      "title": "Expropriation pour cause d\u0027utilit\u00E9 publique",
+      "title_short": "Expropriation pour cause d\u0027utilit\u00E9 publique",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/expropriation/20150625/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/expropriation/20150625/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0d83b70baac12a216989fdfd64dde765e75b485b5d94cefe745b29be3c067c93"
+}

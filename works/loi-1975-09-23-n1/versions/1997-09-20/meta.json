@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1975-09-23-n1:1997-09-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/09/23/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1997-09-20",
+  "valid_to": "2001-05-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1997-11-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1997-09-20",
+      "valid_to": "2001-05-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/1996 : Loi du 23 septembre 1975 sur la protection des artistes interpr\u00E8tes ou ex\u00E9cutants, des producteurs de phonogrammes et des organismes de radiodiffusion.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/09/23/n1/consolide/19970920/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/09/23/n1/consolide/19970920/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cde8d5a64dbc274ea64801b9e5ae40c2aa3d3dc6eef84e91e95519ecd069b19b"
+}

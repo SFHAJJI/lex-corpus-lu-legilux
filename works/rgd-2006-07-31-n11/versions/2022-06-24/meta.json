@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2006-07-31-n11:2022-06-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/07/31/n11",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-06-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-06-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/06/2022 : R\u00E8glement grand-ducal du 31 juillet 2006 portant organisation de l\u2019examen de fin d\u2019\u00E9tudes secondaires.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/07/31/n11/consolide/20220624/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/07/31/n11/consolide/20220624/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "05d84826744c3e78bded9c5879a9d313cb0acab1adad56732e61b182c4f31531"
+}

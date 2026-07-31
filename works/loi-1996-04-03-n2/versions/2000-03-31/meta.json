@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1996-04-03-n2:2000-03-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/04/03/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2000-03-31",
+  "valid_to": "2006-05-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2000-03-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2000-03-31",
+      "valid_to": "2006-05-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1999 : Loi du 3 avril 1996 portant cr\u00E9ation d\u0027une proc\u00E9dure relative \u00E0 l\u0027examen d\u0027une demande d\u0027asile.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/04/03/n2/consolide/20000331/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/04/03/n2/consolide/20000331/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2e89c108333d463a43ff720c9a0d2dcaa24644367a2167d1439b5932a9b63559"
+}

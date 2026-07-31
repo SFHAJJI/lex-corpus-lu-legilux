@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1883-12-28-n3:2015-10-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1883/12/28/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-10-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-04-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-10-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/10/2015 : Loi du 28 d\u00E9cembre 1883 concernant les associations syndicales pour l\u0027ex\u00E9cution de travaux de drainage, d\u0027irrigation, etc.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1883/12/28/n3/consolide/20151003/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1883/12/28/n3/consolide/20151003/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bea07dbfef1ac516043c2033b41889a7829851afe29fe400845f3f80a1911763"
+}

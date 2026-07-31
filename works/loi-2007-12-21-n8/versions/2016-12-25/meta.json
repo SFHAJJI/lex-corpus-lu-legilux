@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2007-12-21-n8:2016-12-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-12-25",
+  "valid_to": "2020-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-10-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-12-25",
+      "valid_to": "2020-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/12/2016 : Loi du 21 d\u00E9cembre 2007 portant r\u00E9glementation du financement des partis politiques.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20161225/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20161225/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "024c9ac4a9fe25fba69b1ffa53c6c82cd8e7f0ef651e8c52886e741a7e5e7a46"
+}

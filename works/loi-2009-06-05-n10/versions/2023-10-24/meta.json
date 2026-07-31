@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2009-06-05-n10:2023-10-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-10-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-11-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/10/2023 : Loi du 5 juin 2009 relative \u00E0 la qualification initiale et \u00E0 la formation continue des conducteurs de certains v\u00E9hicules routiers affect\u00E9s aux transports de marchandises ou de voyageurs et modifiant la loi modifi\u00E9e du 27 juillet 1993 ayant pour objet\\n 1. le d\u00E9veloppement et la diversification \u00E9conomiques et\\n 2. l\u2019am\u00E9lioration de la structure g\u00E9n\u00E9rale et de l\u2019\u00E9quilibre r\u00E9gional de l\u2019\u00E9conomie.",
+      "title_short": "Loi modifi\u00E9e du 5 juin 2009 relative \u00E0 la qualification initiale et \u00E0 la formation continue des conducteurs de certains v\u00E9hicules routiers affect\u00E9s aux transports de marchandises ou de voyageurs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20231024/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20231024/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d9d28100265db2a9f0a91314a45b0a2ef288ad54d632b727d3176a83ae5442d9"
+}

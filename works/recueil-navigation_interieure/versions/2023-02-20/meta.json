@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-navigation_interieure:2023-02-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/navigation_interieure",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-02-20",
+  "valid_to": "2023-09-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-03-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-02-20",
+      "valid_to": "2023-09-23",
+      "valid_time_source": "publisher",
+      "title": "Navigation int\u00E9rieure",
+      "title_short": "Navigation int\u00E9rieure",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/navigation_interieure/20230220/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/navigation_interieure/20230220/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "dc17861bede85ecf79991a80f2b50d9a531a5e0ab9635687ccb43d3ba749abb9"
+}

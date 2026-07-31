@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2018-07-18-a621:2022-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621",
+  "publisher": "lu-legilux",
+  "valid_from": "2022-07-01",
+  "valid_to": "2022-08-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-07-01",
+      "valid_to": "2022-08-29",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20220701",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20220701"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5c92f48aff6a4cace99fc48ad0dba85630632db54796b039175222f9fda1b7f5"
+}

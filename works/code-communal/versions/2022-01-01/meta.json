@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:code-communal:2022-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/communal",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2022-01-01",
+  "valid_to": "2022-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-01-01",
+      "valid_to": "2022-03-11",
+      "valid_time_source": "publisher",
+      "title": "Code communal",
+      "title_short": "Code communal",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/communal/20220101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/communal/20220101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9f5c8dd9ac290d76396ee7ff306b66a15f40edd35af89b203fa138c8f06bee41"
+}

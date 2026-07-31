@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1981-12-08-n2:2018-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-10-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2018 : Loi du 8 d\u00E9cembre 1981 sur les r\u00E9quisitions en cas de conflit arm\u00E9, de crise internationale grave ou de catastrophe.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20180701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20180701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2b5be86a35d9234b8c0360f308d1e7ff86157522397308d8ee324b49ba2340da"
+}

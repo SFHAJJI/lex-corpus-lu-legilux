@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1973-07-04-n2:2015-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1973/07/04/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 4 juillet 1973 concernant le r\u00E9gime de la pharmacie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/04/n2/consolide/20150101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/04/n2/consolide/20150101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0470027eaf504f7819e1bf64a3faff47655772b60aed7d413a9856008b0a1e0d"
+}

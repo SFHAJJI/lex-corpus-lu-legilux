@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2016-08-24-n6:2025-12-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-12-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-12-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-12-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/12/2025 : R\u00E8glement grand-ducal du 24 ao\u00FBt 2016 concernant le statut du personnel de la Caisse nationale d\u0027assurance pension.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/consolide/20251222/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n6/consolide/20251222/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1b880405dc4d6340aa5a56d9508216245a800cfff287d1c345cb59082a67165b"
+}

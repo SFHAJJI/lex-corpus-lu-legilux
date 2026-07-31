@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2015-02-02-n5:2022-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-01-01",
+  "valid_to": "2023-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-05-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-01-01",
+      "valid_to": "2023-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2021 : R\u00E8glement grand-ducal du 2 f\u00E9vrier 2015 fixant le montant et les modalit\u00E9s de paiement des taxes \u00E0 percevoir par l\u0027Autorit\u00E9 luxembourgeoise ind\u00E9pendante de l\u0027audiovisuel en mati\u00E8re de surveillance des services de m\u00E9dias audiovisuels et sonores.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/consolide/20220101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/consolide/20220101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2370e822a40d2479b825c57f9d5cdb4e4d1c8b29825d0203382f308351650a51"
+}

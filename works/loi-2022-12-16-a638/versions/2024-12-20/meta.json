@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-12-16-a638:2024-12-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-12-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/12/2024 : Loi du 16 d\u00E9cembre 2022 autorisant l\u2019\u00C9tat \u00E0 participer au financement du surco\u00FBt des produits \u00E9nerg\u00E9tiques et d\u2019\u00E9lectricit\u00E9 support\u00E9 par les centres int\u00E9gr\u00E9s pour personnes \u00E2g\u00E9es, maisons de soins, logements encadr\u00E9s pour personnes \u00E2g\u00E9es et centres psycho-g\u00E9riatriques agr\u00E9\u00E9s en vertu de la loi modifi\u00E9e du 8 septembre 1998 r\u00E9glant les relations entre l\u2019\u00C9tat et les organismes \u0153uvrant dans les domaines social, familial et th\u00E9rapeutique ainsi que par les structures d\u2019h\u00E9bergement pour personnes \u00E2g\u00E9es et les centres de jour pour personnes \u00E2g\u00E9es agr\u00E9\u00E9s conform\u00E9ment \u00E0 la loi modifi\u00E9e du 23 ao\u00FBt 2023 portant sur la qualit\u00E9 des services pour personnes \u00E2g\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20241220/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20241220/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "01926c22643a63d2b5b1bb3802c0c210bc2246f1da9c8eb7172f3e7b2a729c33"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-comptabilite_etat:2025-06-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/comptabilite_etat",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2025-06-01",
+  "valid_to": "2026-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-06-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-06-01",
+      "valid_to": "2026-01-01",
+      "valid_time_source": "publisher",
+      "title": "Comptabilit\u00E9 de l\u0027\u00C9tat",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/comptabilite_etat/20250601/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/comptabilite_etat/20250601/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e8e476f57eb358248936c35c9b75b55cd984c8521f5a44a3a2486402145632e5"
+}

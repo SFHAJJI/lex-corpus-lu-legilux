@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-12-05-a1107:2024-07-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-07-21",
+  "valid_to": "2025-04-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-07-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-07-21",
+      "valid_to": "2025-04-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/07/2024 : R\u00E8glement grand-ducal du 5 d\u00E9cembre 2018 fixant l\u2019organisation des services d\u2019ex\u00E9cution de l\u2019Administration de l\u2019enregistrement, des domaines et de la TVA et abrogeant le r\u00E8glement grand-ducal modifi\u00E9 du 25 octobre 2007 d\u00E9terminant l\u2019organisation de la direction de l\u2019administration de l\u2019enregistrement et des domaines et les attributions de son personnel.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20240721/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20240721/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d77c0168723cc4e8706dc4bf59581d8aa3522fcb6de38012b94a408ea95a7d85"
+}

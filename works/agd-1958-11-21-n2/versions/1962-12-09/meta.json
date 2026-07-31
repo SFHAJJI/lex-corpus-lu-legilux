@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1958-11-21-n2:1962-12-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1958/11/21/n2",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1962-12-09",
+  "valid_to": "1979-06-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1962-12-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1962-12-09",
+      "valid_to": "1979-06-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/1961 : Arr\u00EAt\u00E9 grand-ducal du 21 novembre 1958 portant nouvelle r\u00E9glementation de la proc\u00E9dure pour les \u00E9lections des d\u00E9l\u00E9gations ouvri\u00E8res dans les entreprises industrielles, artisanales et commerciales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1958/11/21/n2/consolide/19621209/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1958/11/21/n2/consolide/19621209/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "35d703d7e09861cfffcb2341446fa82d451aab3a0bfce070ec9804f0999bea5a"
+}

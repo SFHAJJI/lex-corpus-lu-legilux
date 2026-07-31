@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1977-08-27-n1:2008-12-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2008-12-28",
+  "valid_to": "2023-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1977-08-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2008-12-28",
+      "valid_to": "2023-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/12/2008 : Loi du 27 ao\u00FBt 1977 concernant le statut des fonctionnaires entr\u00E9s au service d\u0027Institutions internationales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20081228/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20081228/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c32acf306786b541a760983b4c27d56213e3e53ca4a07d61f916b34592311b5b"
+}

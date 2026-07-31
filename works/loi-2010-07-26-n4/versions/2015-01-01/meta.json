@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2010-07-26-n4:2015-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-03-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 26 juillet 2010 portant transposition de la directive 2007/2/CE du Parlement europ\u00E9en et du Conseil du 14 mars 2007 \u00E9tablissant une infrastructure d\u0027information g\u00E9ographique dans la Communaut\u00E9 europ\u00E9enne (INSPIRE) en droit national.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/consolide/20150101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/26/n4/consolide/20150101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "17dac9922b57d17a7508af84f1b708e0842af3c5cb42fb1e30c2c8fac2818a42"
+}

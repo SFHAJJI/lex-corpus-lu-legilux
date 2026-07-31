@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgc-2022-12-14-a695:2023-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgc/2022/12/14/a695",
+  "publisher": "lu-legilux",
+  "document_type": "RGC",
+  "valid_from": "2023-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/01/2023 : R\u00E8glement du Gouvernement en Conseil du 14 d\u00E9cembre 2022 fixant l\u2019indemnit\u00E9 revenant aux experts autres que les agents de l\u2019\u00C9tat et aux membres de la commission locale pour les services fournis aux fins du classement et de l\u2019\u00E9valuation des terres r\u00E9alis\u00E9s dans le cadre d\u2019un remembrement rural.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2022/12/14/a695/consolide/20230101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgc/2022/12/14/a695/consolide/20230101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5c56420394e777012cb13a3c5e30bfe0abc720c4b0debfca16fa7ffdd8760510"
+}

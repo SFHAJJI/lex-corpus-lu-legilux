@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-pa-2021-06-16-b3039:2021-08-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/pa/2021/06/16/b3039",
+  "publisher": "lu-legilux",
+  "document_type": "PA",
+  "valid_from": "2021-08-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-08-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-08-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/08/2021 : Administration Gouvernementale - D\u00E9mission.",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2021/06/16/b3039/consolide/20210803/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/adm/pa/2021/06/16/b3039/consolide/20210803/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "62280006b52cb45741ea149d3046369a0f8496d6749b663298e1fbe6bc4ac816"
+}

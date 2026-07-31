@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1967-11-15-n1:1967-11-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1967/11/15/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1967-11-28",
+  "valid_to": "1973-03-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1969-07-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1967-11-28",
+      "valid_to": "1973-03-18",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/1966 : Arr\u00EAt\u00E9 grand-ducal du 15 novembre 1967 portant modification de l\u0027arr\u00EAt\u00E9 grand-ducal du 22 avril 1963 portant nouvelle fixation et r\u00E9glementation du salaire social minimum tel qu\u0027il a \u00E9t\u00E9 modifi\u00E9 par l\u0027arr\u00EAt\u00E9 grand-ducal du 25 juin 1965.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1967/11/15/n1/consolide/19671128/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1967/11/15/n1/consolide/19671128/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1f6e6e6b0833a0c577c18bbee3fd1ecc4cc4ff2ccb267804e313ad06c7c9876a"
+}

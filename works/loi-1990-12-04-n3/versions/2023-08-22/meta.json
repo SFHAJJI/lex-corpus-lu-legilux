@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1990-12-04-n3:2023-08-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-08-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-08-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/08/2023 : Loi du 4 d\u00E9cembre 1990 portant organisation du service des huissiers de justice.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/20230822/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/20230822/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3a0fab9826d83777e4585acee47cf1577ef64c59e1603e44aa68f954bfdb7b0f"
+}

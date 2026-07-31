@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgc-1974-11-15-n2:1982-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGC",
+  "valid_from": "1982-04-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-08-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1982-04-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/04/1982 : R\u00E8glement du Gouvernement en conseil du 15 novembre 1974 fixant le r\u00E9gime des indemnit\u00E9s des charg\u00E9s de cours des \u00E9tablissements d\u0027enseignement publics qui d\u00E9pendent du minist\u00E8re de l\u0027Education nationale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19820401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19820401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "66db195174ae8bde02a4211848319ee8c15624e075737dba6d61ae92aff84b6b"
+}

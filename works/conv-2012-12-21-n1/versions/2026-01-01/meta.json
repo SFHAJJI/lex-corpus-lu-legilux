@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:conv-2012-12-21-n1:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/conv/2012/12/21/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-01-01",
+  "valid_to": "2026-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_to": "2026-02-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2012/12/21/n1/consolide/20260101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/conv/2012/12/21/n1/consolide/20260101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d954a87b805beb1029fd705560267ab394216b426b97df7b5a2cffb64d21a2ed"
+}

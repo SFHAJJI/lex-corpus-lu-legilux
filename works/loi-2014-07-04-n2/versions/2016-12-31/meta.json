@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2014-07-04-n2:2016-12-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-12-31",
+  "valid_to": "2017-03-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-05-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-12-31",
+      "valid_to": "2017-03-05",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/12/2016 : Loi du 4 juillet 2014\\n- portant r\u00E9organisation de l\u2019Institut luxembourgeois de la normalisation, de l\u2019accr\u00E9ditation, de la s\u00E9curit\u00E9 et qualit\u00E9 des produits et services et portant organisation du cadre g\u00E9n\u00E9ral pour la surveillance du march\u00E9 dans le contexte de la commercialisation des produits,\\n- modifiant\\n* la loi modifi\u00E9e du 17 mai 1882 sur les poids et mesures,\\n* la loi modifi\u00E9e du 31 juillet 2006 relative \u00E0 la s\u00E9curit\u00E9 g\u00E9n\u00E9rale des produits,\\n* la loi modifi\u00E9e du 19 d\u00E9cembre 2008 \u00E9tablissant un cadre pour la fixation d\u2019exigences en mati\u00E8re d\u2019\u00E9coconception applicables aux produits consommateurs d\u2019\u00E9nergie,\\n* la loi du 25 mars 2009 relative \u00E0 la compatibilit\u00E9 \u00E9lectromagn\u00E9tique,\\n* la loi modifi\u00E9e du 27 mai 2010 relative aux machines,\\n* la loi modifi\u00E9e du 15 d\u00E9cembre 2010 relative \u00E0 la s\u00E9curit\u00E9 des jouets, et\\n* la loi du 21 d\u00E9cembre 2012 concernant les \u00E9quipements sous pression transportables,\\n- abrogeant la loi modifi\u00E9e du 20 mai 2008 relative \u00E0 la cr\u00E9ation d\u2019un Institut luxembourgeois de la normalisation, de l\u2019accr\u00E9ditation, de la s\u00E9curit\u00E9 et qualit\u00E9 des produits et services.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20161231/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/04/n2/consolide/20161231/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9da4ba539458ad5f9fc7139de95288b509725c328ffdd7d9d662b807e967e295"
+}

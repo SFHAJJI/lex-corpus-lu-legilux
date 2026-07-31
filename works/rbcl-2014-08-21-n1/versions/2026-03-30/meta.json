@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:rbcl-2014-08-21-n1:2026-03-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rbcl/2014/08/21/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-03-30",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-30",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rbcl/2014/08/21/n1/consolide/20260330",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rbcl/2014/08/21/n1/consolide/20260330"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "097b84c8a35a180594bbb8de4398ada22ee43abb40b3ec38842d0b6544e2f69b"
+}

@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:conv-2019-06-05-a569:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/conv/2019/06/05/a569",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-01-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2019/06/05/a569/consolide/20260101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/conv/2019/06/05/a569/consolide/20260101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0015426872832d527bbe03780dfe46a8e1e41cc4cc9d37f59798dee9a06d0903"
+}

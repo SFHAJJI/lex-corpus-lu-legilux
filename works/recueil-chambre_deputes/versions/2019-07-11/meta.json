@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-chambre_deputes:2019-07-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/chambre_deputes",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2019-07-11",
+  "valid_to": "2020-05-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2019-07-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-07-11",
+      "valid_to": "2020-05-13",
+      "valid_time_source": "publisher",
+      "title": "Chambre des D\u00E9put\u00E9s",
+      "title_short": "Chambre des D\u00E9put\u00E9s",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20190711/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20190711/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e48c3ce0271436f04ac086080bc5df5ccafc2f871992039645b72b66f93a95c5"
+}

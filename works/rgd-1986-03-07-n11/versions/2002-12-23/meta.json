@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1986-03-07-n11:2002-12-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1986/03/07/n11",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2002-12-23",
+  "valid_to": "2005-01-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2002-12-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-12-23",
+      "valid_to": "2005-01-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/2001 : R\u00E8glement grand-ducal du 7 mars 1986 autorisant la cr\u00E9ation et l\u0027exploitation d\u0027une banque de donn\u00E9es des personnes ayant subi un avertissement tax\u00E9 en mati\u00E8re de circulation routi\u00E8re.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1986/03/07/n11/consolide/20021223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1986/03/07/n11/consolide/20021223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "07fb2fc03c908f6d8bf38236ebf015a9e9c28124eb5501d697c0f997745c677b"
+}

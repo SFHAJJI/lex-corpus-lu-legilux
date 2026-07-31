@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-06-30-a508:2022-05-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-05-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-04-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-05-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 19/05/2022 : R\u00E8glement grand-ducal du 30 juin 2021 fixant les conditions de recrutement, de formation et de nomination aux emplois des pompiers professionnels et modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 30 septembre 2015 fixant les conditions et modalit\u00E9s d\u2019inscription et d\u2019organisation des examens-concours d\u2019admission au stage dans les administrations et services de l\u2019\u00C9tat.",
+      "title_short": "R\u00E8glement grand-ducal du 30 juin 2021 fixant les conditions de recrutement, de formation et de nomination aux emplois des pompiers professionnels.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/consolide/20220519/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/30/a508/consolide/20220519/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "843c8e4e528b66cdef6381a284badb35847fb73187c0f1fdf54a8e009ee20284"
+}

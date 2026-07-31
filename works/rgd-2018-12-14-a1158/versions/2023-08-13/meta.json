@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-12-14-a1158:2023-08-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-08-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-04-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-08-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 13/08/2023 : R\u00E8glement grand-ducal du 14 d\u00E9cembre 2018 portant ex\u00E9cution de la loi du 27 juin 2018 relative au contr\u00F4le des exportations et modifiant le r\u00E8glement grand-ducal du 2 avril 1993 relatif \u00E0 l\u2019ex\u00E9cution des actes \u00E9manant des institutions comp\u00E9tentes des Communaut\u00E9s europ\u00E9ennes touchant la mati\u00E8re agricole.",
+      "title_short": "R\u00E8glement grand-ducal du 14 d\u00E9cembre 2018 relatif au contr\u00F4le des exportations.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d26153e4e3a932f970e79c325f91831404c39b3aa575a9954f0a1076b32e63eb"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:code-route:2024-02-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/route",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2024-02-05",
+  "valid_to": "2024-02-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-02-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-02-05",
+      "valid_to": "2024-02-10",
+      "valid_time_source": "publisher",
+      "title": "Code de la route",
+      "title_short": "Code de la route",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/route/20240205/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/route/20240205/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "66258b983d0917af0cc6a2d7f8e0db4d73076479fe9ba64512786788f2d98b9c"
+}

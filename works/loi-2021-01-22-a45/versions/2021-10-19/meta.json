@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2021-01-22-a45:2021-10-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-10-19",
+  "valid_to": "2021-12-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-10-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-10-19",
+      "valid_to": "2021-12-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 19/10/2021 : Loi du 22 janvier 2021 portant :\\n1\u00B0 modification des articles L. 234-51, L. 234-52 et L. 234-53 du Code du travail ;\\n2\u00B0 d\u00E9rogation temporaire aux dispositions des articles L. 234- 51, L. 234-52 et L. 234-53 du Code du travail.\\n",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20211019/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20211019/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a7761807d980ab901938a431baaca946e802d4bb9c41f04dec86239c821bdb0b"
+}

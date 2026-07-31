@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2021-05-31-a412:2026-05-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-05-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-04-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-05-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/05/2026 : Loi du 31 mai 2021 relative aux licences des contr\u00F4leurs de la circulation a\u00E9rienne et aux prestataires de service de navigation a\u00E9rienne.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "912aadc280a4588ed12acb7ab6762d426d8a2ba57bcb8d59e574f71dd3572e5a"
+}

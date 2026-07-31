@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-societes_associations:2018-01-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/societes_associations",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2018-01-11",
+  "valid_to": "2018-03-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2018-01-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-01-11",
+      "valid_to": "2018-03-05",
+      "valid_time_source": "publisher",
+      "title": "Soci\u00E9t\u00E9s et Associations",
+      "title_short": "Soci\u00E9t\u00E9s et Associations",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/societes_associations/20180111/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/societes_associations/20180111/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6c8da11d75bc258332687642d98c1f3c01ab1983944551a22566d5e08bd4b81d"
+}

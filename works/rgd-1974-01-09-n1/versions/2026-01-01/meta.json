@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:rgd-1974-01-09-n1:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1974/01/09/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-01-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1974/01/09/n1/consolide/20260101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1974/01/09/n1/consolide/20260101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fd169c4c0d87b26296762e4ab88ecabff9ebd697a82c4ad7451e401fe9f7095c"
+}

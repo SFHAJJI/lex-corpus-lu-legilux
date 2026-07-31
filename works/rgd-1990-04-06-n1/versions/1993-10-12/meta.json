@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1990-04-06-n1:1993-10-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/04/06/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1993-10-12",
+  "valid_to": "2017-11-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1993-10-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1993-10-12",
+      "valid_to": "2017-11-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/1992 : R\u00E8glement grand-ducal du 6 avril 1990 relatif aux d\u00E9barcad\u00E8res sur la Moselle qui ne sont pas soumis \u00E0 l\u0027approbation de la Commission de la Moselle.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/04/06/n1/consolide/19931012/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/04/06/n1/consolide/19931012/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4c671b3266dfa0dc4a6b9d5214f6bde3aca6da3e788a93c167f309d739663af1"
+}

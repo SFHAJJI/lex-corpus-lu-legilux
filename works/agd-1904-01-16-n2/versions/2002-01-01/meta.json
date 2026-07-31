@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:agd-1904-01-16-n2:2002-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1904/01/16/n2",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "2002-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2002 : Arr\u00EAt\u00E9 grand-ducal du 16 janvier 1904 portant r\u00E8glement sur les conditions hygi\u00E9niques \u00E0 imposer aux cabarets.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1904/01/16/n2/consolide/20020101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1904/01/16/n2/consolide/20020101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8026a0d8ca8560daffc0c9a2cb31f20c8553a2d66b0ee012c4b75c9f93f8aa4e"
+}

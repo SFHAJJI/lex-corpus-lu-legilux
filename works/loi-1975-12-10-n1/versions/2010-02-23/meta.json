@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1975-12-10-n1:2010-02-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2010-02-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-02-23",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/02/2010 : Loi du 10 d\u00E9cembre 1975 relative au Centre hospitalier de Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1/consolide/20100223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/12/10/n1/consolide/20100223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e44b79bdc43a30d7dba08221e5340beafac40884950086d5fda64849698fc31a"
+}

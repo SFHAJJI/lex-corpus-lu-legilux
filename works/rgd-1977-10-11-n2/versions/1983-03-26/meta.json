@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1977-10-11-n2:1983-03-26",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/10/11/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1983-03-26",
+  "valid_to": "1991-05-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1983-03-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1983-03-26",
+      "valid_to": "1991-05-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1982 : R\u00E8glement grand-ducal du 11 octobre 1977 concernant l\u0027octroi d\u0027un cong\u00E9 sportif.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/10/11/n2/consolide/19830326/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1977/10/11/n2/consolide/19830326/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f47e48270292ac6cdce3a73ff24395325fce2b1ce04a6e88a54a28b18ad2969f"
+}

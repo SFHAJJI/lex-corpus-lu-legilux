@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-04-24-a331:2024-06-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-06-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-06-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-06-08",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/06/2024 : R\u00E8glement grand-ducal du 24 avril 2018 relatif \u00E0 la limitation des \u00E9missions de certains polluants dans l\u0027atmosph\u00E8re en provenance des installations de combustion moyennes et modifiant\\n1. le r\u00E8glement grand-ducal modifi\u00E9 du 27 f\u00E9vrier 2010 concernant les installations \u00E0 gaz\\n2. le r\u00E8glement grand-ducal modifi\u00E9 du 7 octobre 2014 relatif a) aux installations de combustion aliment\u00E9es en combustible solide ou liquide d\u2019une puissance nominale utile sup\u00E9rieure \u00E0 7 kW et inf\u00E9rieure \u00E0 20 MW b) aux installations de combustion aliment\u00E9es en combustible gazeux d\u2019une puissance nominale utile sup\u00E9rieure \u00E0 3 MW et inf\u00E9rieure \u00E0 20 MW.",
+      "title_short": "R\u00E8glement grand-ducal du 24 avril 2018 relatif \u00E0 la limitation des \u00E9missions en provenance des installations de combustion moyennes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20240608/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20240608/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "15fe97be9d7ae48c6e6378985dcd67b728cda43c44b7831431e27bec160b1040"
+}

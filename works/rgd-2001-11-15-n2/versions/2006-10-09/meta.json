@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2001-11-15-n2:2006-10-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2006-10-09",
+  "valid_to": "2011-03-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-02-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-10-09",
+      "valid_to": "2011-03-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/10/2006 : R\u00E8glement grand-ducal du 15 novembre 2001 concernant la r\u00E9mun\u00E9ration des employ\u00E9s communaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n2/consolide/20061009/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/11/15/n2/consolide/20061009/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b1418016ef38542b432b72b1577e4890723c376c73281b80c2ccc76a0efe59dd"
+}

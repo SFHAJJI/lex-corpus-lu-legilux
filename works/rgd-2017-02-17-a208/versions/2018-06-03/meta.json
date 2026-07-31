@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-02-17-a208:2018-06-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-06-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-09-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-06-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/06/2018 : R\u00E8glement grand-ducal du 17 f\u00E9vrier 2017 fixant les modalit\u00E9s d\u2019application de l\u2019indemnit\u00E9 compensatoire annuelle \u00E0 allouer aux agriculteurs dans les zones d\u00E9favoris\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/consolide/20180603/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/02/17/a208/consolide/20180603/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "936b0dc3086cab9fc15f5e84661e3b8eee20cb44c22f6773f60acc393dd93976"
+}

@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-1998-08-03-n4:2025-12-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/08/03/n4",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2025-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-12-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-12-19",
+      "valid_time_source": "publisher",
+      "title": "Nouveau Code de proc\u00E9dure civile",
+      "title_short": "Nouveau Code de proc\u00E9dure civile",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20251219/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20251219/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f7ed8ffe64c00652b00fec4846aac0f713f973cd39488bc71442e8b5be2295d1"
+}

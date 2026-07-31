@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2007-07-24-n1:2007-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2007-09-15",
+  "valid_to": "2011-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-05-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2007-09-15",
+      "valid_to": "2011-09-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2007 : R\u00E8glement grand-ducal du 24 juillet 2007 portant fixation de la t\u00E2che des enseignants des lyc\u00E9es et lyc\u00E9es techniques et portant modification\\n - de l\u0027arr\u00EAt\u00E9 royal grand-ducal modifi\u00E9 du 7 juin 1861 portant approbation d\u0027un nouveau r\u00E8glement pour les \u00E9tablissements d\u0027enseignement sup\u00E9rieur et moyen de l\u0027Etat;\\n - du r\u00E8glement grand-ducal du 27 juillet 1997 fixant les modalit\u00E9s d\u0027engagement et les conditions de travail des charg\u00E9s d\u0027\u00E9ducation \u00E0 dur\u00E9e d\u00E9termin\u00E9e des lyc\u00E9es et lyc\u00E9es techniques publics;\\n - du r\u00E8glement grand-ducal du 27 juillet 1997 fixant les modalit\u00E9s d\u0027engagement et les conditions de travail de deux cents charg\u00E9s d\u0027\u00E9ducation \u00E0 dur\u00E9e ind\u00E9termin\u00E9e des lyc\u00E9es et lyc\u00E9es techniques publics;\\n - du r\u00E8glement grand-ducal du 14 d\u00E9cembre 2000 fixant les conditions de travail des charg\u00E9s de cours \u00E0 dur\u00E9e ind\u00E9termin\u00E9e de l\u0027Institut d Etudes \u00E9ducatives et sociales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/consolide/20070915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/07/24/n1/consolide/20070915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d6ddcabe0cf388a9dd8776d58279bc4bcaac9e2388ea9a0ff969d667fe4ca241"
+}

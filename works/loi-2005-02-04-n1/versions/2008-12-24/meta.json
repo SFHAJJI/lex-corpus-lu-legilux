@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2005-02-04-n1:2008-12-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2008-12-24",
+  "valid_to": "2015-02-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-11-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2008-12-24",
+      "valid_to": "2015-02-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/12/2008 : Loi du 4 f\u00E9vrier 2005 relative au r\u00E9f\u00E9rendum au niveau national.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20081224/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20081224/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1d04240a6a484a66690b6785169fcb81868e45d02c01f750b6361374238fe11a"
+}

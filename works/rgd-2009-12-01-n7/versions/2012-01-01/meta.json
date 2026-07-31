@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-12-01-n7:2012-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2012-01-01",
+  "valid_to": "2013-04-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-09-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-01-01",
+      "valid_to": "2013-04-08",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2012 : R\u00E8glement grand-ducal du 1er d\u00E9cembre 2009 relatif \u00E0 la d\u00E9claration de commencement, de changement ou de cessation de l\u2019activit\u00E9 \u00E9conomique en mati\u00E8re de taxe sur la valeur ajout\u00E9e et \u00E0 l\u2019attribution d\u2019un num\u00E9ro d\u2019identification TVA.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20120101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20120101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d50629a2441153d66e0fd2675109090491ceaa2f50e07e26f405db641cf953c7"
+}

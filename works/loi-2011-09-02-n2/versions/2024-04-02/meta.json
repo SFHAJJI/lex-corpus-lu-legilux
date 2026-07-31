@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2011-09-02-n2:2024-04-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-04-02",
+  "valid_to": "2026-07-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-04-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-04-02",
+      "valid_to": "2026-07-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/04/2024 : Loi du 2 septembre 2011 portant r\u00E9organisation de la Chambre des M\u00E9tiers et modifiant la loi du 26 octobre 2010 portant r\u00E9organisation de la Chambre de Commerce.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20240402/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20240402/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0fc0ccc9340d2e344510ce8a5187d0201a1c1fd3d3b57651c1a8ad4e10cc80a1"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-elections:2019-03-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/elections",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2019-03-09",
+  "valid_to": "2019-04-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2019-03-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-03-09",
+      "valid_to": "2019-04-05",
+      "valid_time_source": "publisher",
+      "title": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
+      "title_short": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20190309/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20190309/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "abf7fd1057ee2d0ed204c8a000cf46448043f77396540e4df7a5c4fb32156745"
+}

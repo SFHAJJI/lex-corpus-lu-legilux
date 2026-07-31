@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1966-04-22-n1:1975-03-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1975-03-16",
+  "valid_to": "1976-02-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1979-10-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1975-03-16",
+      "valid_to": "1976-02-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1974 : Loi du 22 avril 1966 portant r\u00E9glementation uniforme du cong\u00E9 annuel pay\u00E9 des salari\u00E9s du secteur priv\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/consolide/19750316/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/consolide/19750316/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a4e26ab219c09924f6c3f410e1d1fb507b872e3b69d7d0d1d44bac2731e056e2"
+}

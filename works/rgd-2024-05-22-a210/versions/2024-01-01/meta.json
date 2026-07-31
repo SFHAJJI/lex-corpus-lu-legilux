@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2024-05-22-a210:2024-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/05/22/a210",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 22 mai 2024 portant modification du r\u00E8glement grand-ducal modifi\u00E9 du 19 novembre 1999 portant ex\u00E9cution de l\u2019article 106, alin\u00E9as 3 et 4 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu (base d\u2019amortissement forfaitaire et taux d\u2019amortissement pour immeubles locatifs).",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/05/22/a210/consolide/20240101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/05/22/a210/consolide/20240101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1a6c5bf1b6e2455005ac48eab45a052d3946435782cbfbd7f3c16ba80c5bd3b0"
+}

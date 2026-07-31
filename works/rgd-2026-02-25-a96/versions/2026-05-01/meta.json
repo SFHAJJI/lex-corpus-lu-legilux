@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2026-02-25-a96:2026-05-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2026/02/25/a96",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2026-05-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-04-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-05-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/05/2026 : R\u00E8glement grand-ducal du 25 f\u00E9vrier 2026 modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 21 d\u00E9cembre 1998 arr\u00EAtant la nomenclature des actes et services des m\u00E9decins pris en charge par l\u2019assurance maladie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2026/02/25/a96/consolide/20260501/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2026/02/25/a96/consolide/20260501/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0b391e1d31b56ec3f4da5c586b873355179882e58278caa1b21d428b5702b06a"
+}

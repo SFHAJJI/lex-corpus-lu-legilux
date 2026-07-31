@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2011-04-08-n2:2025-11-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/04/08/n2",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2025-11-25",
+  "valid_to": "2026-05-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-12-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-11-25",
+      "valid_to": "2026-05-15",
+      "valid_time_source": "publisher",
+      "title": "Code de la consommation",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/consommation/20251125/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/consommation/20251125/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5279c506fb2993d032b4baf7deb2329193778cce4e1ad4315716b32dac36489c"
+}

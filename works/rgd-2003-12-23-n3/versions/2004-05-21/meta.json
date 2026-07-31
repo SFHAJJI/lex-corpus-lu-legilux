@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2003-12-23-n3:2004-05-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2004-05-21",
+  "valid_to": "2005-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-04-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2004-05-21",
+      "valid_to": "2005-08-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/05/2004 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2003 portant ex\u00E9cution de l\u2019article 8 sous 1 d) de la loi modifi\u00E9e du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20040521/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20040521/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f5c39854e4e63d1872a1671fdf1fe6b091e93ca0f7a54aea2d313c547daa256c"
+}

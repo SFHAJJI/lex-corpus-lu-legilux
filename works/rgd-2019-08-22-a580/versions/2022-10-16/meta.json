@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2019-08-22-a580:2022-10-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a580",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-10-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-10-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-10-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/10/2022 : R\u00E8glement grand-ducal du 22 ao\u00FBt 2019\\n\\n1) d\u00E9terminant les modalit\u00E9s pratiques du stage, du cycle de formation de d\u00E9but de carri\u00E8re, du certificat de formation p\u00E9dagogique et de la p\u00E9riode d\u2019approfondissement ;\\n2) modifiant\\n1. le r\u00E8glement grand-ducal modifi\u00E9 du 7 avril 2011 d\u00E9terminant 1. les conditions d\u2019admission au stage, les modalit\u00E9s du stage ainsi que les conditions de nomination des \u00E9ducateurs et \u00E9ducateurs gradu\u00E9s intervenant dans l\u2019enseignement fondamental ou affect\u00E9s aux lyc\u00E9es, au Centre de psychologie et d\u2019orientation scolaires, \u00E0 l\u2019Action locale pour jeunes, \u00E0 l\u2019\u00C9cole de la 2e Chance et au Centre national de formation professionnelle continue ; 2. les modalit\u00E9s de l\u2019examen de promotion de l\u2019\u00E9ducateur ;\\n2. le r\u00E8glement grand-ducal du 30 septembre 2014 d\u00E9terminant les modalit\u00E9s de formations et des \u00E9preuves permettant \u00E0 des agents intervenant dans l\u2019enseignement fondamental d\u2019obtenir l\u2019autorisation d\u2019enseigner en tant qu\u2019instituteur dans les quatre cycles ;\\n3) abrogeant\\n1. le r\u00E8glement grand-ducal modifi\u00E9 du 11 juin 1985 portant fixation des indemnit\u00E9s dues aux membres des commissions pour les examens de fin de stage des enseignants de l\u2019enseignement secondaire et de l\u2019enseignement secondaire technique ;\\n2. le r\u00E8glement grand-ducal modifi\u00E9 du 3 ao\u00FBt 2010 concernant la formation th\u00E9orique et pratique ainsi que la p\u00E9riode probatoire des enseignants de l\u2019enseignement postprimaire ;\\n3. le r\u00E8glement grand-ducal modifi\u00E9 du 16 mars 2012 d\u00E9terminant pour les charg\u00E9s d\u2019\u00E9ducation des lyc\u00E9es et lyc\u00E9es techniques 1. l\u2019\u00E9chelle d\u2019\u00E9valuation par le directeur, 2. les modalit\u00E9s d\u2019organisation et le programme de la formation en cours d\u2019emploi, 3. les modalit\u00E9s d\u2019obtention du certificat de qualification sanctionnant la formation en cours d\u2019emploi ;\\n4. le r\u00E8glement grand-ducal du 23 ao\u00FBt 2018 d\u00E9terminant les modalit\u00E9s des \u00E9preuves et des formations th\u00E9orique et pratique pr\u00E9vues \u00E0 l\u2019article 20bis de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u2019enseignement fondamental.\\n",
+      "title_short": "R\u00E8glement grand-ducal du 22 ao\u00FBt 2019 d\u00E9terminant les modalit\u00E9s pratiques du stage, du cycle de formation de d\u00E9but de carri\u00E8re, du certificat de formation p\u00E9dagogique et de la p\u00E9riode d\u2019approfondissement.\u00A0",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a580/consolide/20221016/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a580/consolide/20221016/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3f4f5693bfada0fc3d0137f52808c21124fd75bdab58bc1dcf0b1506a25c0a23"
+}

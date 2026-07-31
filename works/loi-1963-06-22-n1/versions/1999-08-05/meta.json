@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1963-06-22-n1:1999-08-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1999-08-05",
+  "valid_to": "2000-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2000-02-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1999-08-05",
+      "valid_to": "2000-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/12/1998 : Loi du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/19990805/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/19990805/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9b6d1803a7e95e0667f15673c7b2ee39fb0a63be57d6265144c81824b342e4aa"
+}

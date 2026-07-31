@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1955-02-14-n1:1992-04-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1955/02/14/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1992-04-03",
+  "valid_to": "1993-09-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1992-11-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1992-04-03",
+      "valid_to": "1993-09-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/12/1991 : Loi du 14 f\u00E9vrier 1955 portant modification et coordination des dispositions l\u00E9gales et r\u00E8glementaires en mati\u00E8re de baux \u00E0 loyer.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1955/02/14/n1/consolide/19920403/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1955/02/14/n1/consolide/19920403/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3cd363bfca6a71f10a21ca77123ff271b9eabe89ddee2add9c9652464fe88876"
+}

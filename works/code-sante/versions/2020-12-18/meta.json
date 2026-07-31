@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:code-sante:2020-12-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/sante",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2020-12-18",
+  "valid_to": "2020-12-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-12-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-18",
+      "valid_to": "2020-12-25",
+      "valid_time_source": "publisher",
+      "title": "Code de la sant\u00E9",
+      "title_short": "Code de la sant\u00E9",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/sante/20201218/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/sante/20201218/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ffc41e6c6075b185b9770a88f80640482598d48f0e9d2afd6fef5dd9c6cc6694"
+}

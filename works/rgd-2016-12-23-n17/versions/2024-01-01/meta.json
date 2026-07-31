@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2016-12-23-n17:2024-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-08-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 portant ex\u00E9cution de l\u0027article 154quinquies de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c365fd81ab4dbcaf10b61cf2a438b4f085d7ef08f77645479aa27d7d735e2905"
+}

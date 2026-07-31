@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2006-07-31-n2:2017-09-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2006/07/31/n2",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2017-09-12",
+  "valid_to": "2017-10-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2017-09-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-09-12",
+      "valid_to": "2017-10-10",
+      "valid_time_source": "publisher",
+      "title": "Code du travail",
+      "title_short": "Code du travail",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/travail/20170912/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/travail/20170912/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "83bf6f87b5f1dcbd0413ea8b4230aad45ce14bcac310f9f4aabf9d70004de345"
+}

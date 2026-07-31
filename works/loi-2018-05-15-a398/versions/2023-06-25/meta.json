@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2018-05-15-a398:2023-06-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/05/15/a398",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-06-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-06-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/06/2023 : Loi du 15 mai 2018 relative \u00E0 l\u2019\u00E9valuation des incidences sur l\u2019environnement et portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 25 mai 1964 concernant le remembrement des biens ruraux ;\\n2\u00B0 de la loi modifi\u00E9e du 10 juin 1999 relative aux \u00E9tablissements class\u00E9s ;\\n3\u00B0 de la loi modifi\u00E9e du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ;\\n4\u00B0 de la loi modifi\u00E9e du 19 d\u00E9cembre 2008 relative \u00E0 l\u2019eau.",
+      "title_short": "Loi du 15 mai 2018 relative \u00E0 l\u2019\u00E9valuation des incidences sur l\u2019environnement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/15/a398/consolide/20230625/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/15/a398/consolide/20230625/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "67ca42d0e28d6718727452c9412e5220003a65a5f5043b043a612aba0c47585d"
+}

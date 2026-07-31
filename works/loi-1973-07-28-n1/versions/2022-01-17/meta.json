@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1973-07-28-n1:2022-01-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1973/07/28/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-01-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-09-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-01-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/01/2022 : Loi du 28 juillet 1973 portant cr\u00E9ation d\u0027un service de la navigation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n1/consolide/20220117/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n1/consolide/20220117/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e7dcbb13291f67c75ddbbcbf3ac5c39b3517e0c48e161b110b5a9e9a6cf60199"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2002-12-20-n4:2005-04-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2002/12/20/n4",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2005-04-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2020-10-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2005-04-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/04/2005 : Loi du 20 d\u00E9cembre 2002 autorisant la participation de l\u0027Etat \u00E0 la construction par la Commune de Mamer d\u0027un centre int\u00E9gr\u00E9 pour personnes \u00E2g\u00E9es \u00E0 Mamer.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n4/consolide/20050412/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/12/20/n4/consolide/20050412/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9dc4a310e09754f0e7ac96e90f4e50bcc511cc82a9676f50fb074a0279578deb"
+}

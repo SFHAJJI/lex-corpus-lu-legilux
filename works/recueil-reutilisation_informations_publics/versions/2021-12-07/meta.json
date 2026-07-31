@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-reutilisation_informations_publics:2021-12-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/reutilisation_informations_publics",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2021-12-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-09-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-12-07",
+      "valid_time_source": "publisher",
+      "title": "R\u00E9utilisation des informations du secteur public",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/reutilisation_informations_publics/20211207/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/reutilisation_informations_publics/20211207/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a7e212f21b5f64a1c4e0605011f777e1c93593786a987e6f99e4223dae687317"
+}

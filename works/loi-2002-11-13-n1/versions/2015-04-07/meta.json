@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2002-11-13-n1:2015-04-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-04-07",
+  "valid_to": "2021-08-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-11-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-04-07",
+      "valid_to": "2021-08-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/04/2015 : Loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement europ\u00E9en et du Conseil du 16 f\u00E9vrier 1998 visant \u00E0 faciliter l\u0027exercice permanent de la profession d\u0027avocat dans un Etat membre autre que celui o\u00F9 la qualification a \u00E9t\u00E9 acquise et portant: 1. modification de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat; 2. modification de la loi du 31 mai 1999 r\u00E9gissant la domiciliation des soci\u00E9t\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20150407/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20150407/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "522e7e03ab51c3667b20622d29ee6b979c0a1b1e3b0f0c89a7e830bcb7431cd9"
+}

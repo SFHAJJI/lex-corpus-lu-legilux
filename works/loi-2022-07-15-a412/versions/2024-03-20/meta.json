@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-07-15-a412:2024-03-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-03-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-03-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-03-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/03/2024 : Loi du 15 juillet 2022 visant \u00E0 mettre en place un r\u00E9gime d\u2019aides aux entreprises particuli\u00E8rement touch\u00E9es par la hausse des prix de l\u2019\u00E9nergie caus\u00E9e par l\u2019agression de la Russie contre l\u2019Ukraine.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20240320/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20240320/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "66125640e49c1a1ee9ae8dfab536d4c713605eebe5863463c432cf662fba0d6e"
+}

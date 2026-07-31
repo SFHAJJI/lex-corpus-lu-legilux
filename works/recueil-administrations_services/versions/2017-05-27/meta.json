@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-administrations_services:2017-05-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/administrations_services",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2017-05-27",
+  "valid_to": "2017-07-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2017-05-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-05-27",
+      "valid_to": "2017-07-03",
+      "valid_time_source": "publisher",
+      "title": "Administrations et services",
+      "title_short": "Administrations et services",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/administrations_services/20170527/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/administrations_services/20170527/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "553938e3f9d0cf1be5fa360c46db5cec86fe0f78aff2027b1a5243dca2a5d7ec"
+}

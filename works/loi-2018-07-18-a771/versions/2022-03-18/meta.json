@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2018-07-18-a771:2022-03-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-03-18",
+  "valid_to": "2023-09-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-04-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-03-18",
+      "valid_to": "2023-09-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 18/03/2022 : Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles et modifiant\\n1\u00B0 la loi modifi\u00E9e du 31 mai 1999 portant institution d\u2019un fonds pour la protection de l\u2019environnement ;\\n2\u00B0 la loi modifi\u00E9e du 5 juin 2009 portant cr\u00E9ation de l\u2019Administration de la nature et des for\u00EAts ;\\n3\u00B0 la loi modifi\u00E9e du 3 ao\u00FBt 2005 concernant le partenariat entre les syndicats de communes et l\u2019\u00C9tat et la restructuration de la d\u00E9marche scientifique en mati\u00E8re de protection de la nature et des ressources naturelles.",
+      "title_short": "Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20220318/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20220318/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9fc673038e829e7470b79a044a84b5f723a25d6106f2d9addf7adc0bc33230d2"
+}

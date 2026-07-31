@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:code-fonction_publique:2022-07-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/fonction_publique",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2022-07-15",
+  "valid_to": "2022-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-07-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-07-15",
+      "valid_to": "2022-09-01",
+      "valid_time_source": "publisher",
+      "title": "Code de la fonction publique\\n\\n\\nCETTE VERSION NE CONTIENT PAS ENCORE LES MODIFICATIONS R\u00C9TROACTIVES INTRODUITES PAR LA LOI DU 6 JUIN 2025 PUBLI\u00C9E AU M\u00C9MORIAL A - 218 DU 10 JUIN 2025.",
+      "title_short": "Code de la fonction publique",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20220715/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20220715/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6b7eb12476a38a8cf0527c9672786fa8aea8aa0cb7691409bdf6b831f23985aa"
+}

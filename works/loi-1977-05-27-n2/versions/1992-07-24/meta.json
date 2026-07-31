@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1977-05-27-n2:1992-07-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1992-07-24",
+  "valid_to": "2007-08-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-11-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1992-07-24",
+      "valid_to": "2007-08-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/07/1992 : Loi du 27 mai 1977 portant\\n a) approbation de la Convention sur la d\u00E9livrance de brevets europ\u00E9ens, sign\u00E9e \u00E0 Munich, le 5 octobre 1973;\\n b) adaptation de la l\u00E9gislation nationale en mati\u00E8re de brevets.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19920724/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19920724/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9a2f8cc1d3bfa3fb670ba053859e26efbe0f086f3b6c611d8da6418a04fc1dfb"
+}

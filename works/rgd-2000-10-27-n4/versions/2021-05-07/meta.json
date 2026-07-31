@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2000-10-27-n4:2021-05-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-05-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-10-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-05-07",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/05/2021 : R\u00E8glement grand-ducal du 27 octobre 2000 portant 1. organisation \u00E0 l\u0027Institut national d\u0027administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des \u00E9tablissements publics des communes; 2. modification du r\u00E8glement grand-ducal modifi\u00E9 du 20 d\u00E9cembre 1990 portant fixation des conditions d\u0027admission et d\u0027examen des fonctionnaires communaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n4/consolide/20210507/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n4/consolide/20210507/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "34ed2190c1c6f4e507d95c0e8680026996c2b9850a73191f28888f743eeff57a"
+}

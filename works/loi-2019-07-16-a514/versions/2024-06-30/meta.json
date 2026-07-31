@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2019-07-16-a514:2024-06-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514",
+  "publisher": "lu-legilux",
+  "valid_from": "2024-06-30",
+  "valid_to": "2024-12-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-06-30",
+      "valid_to": "2024-12-21",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20240630",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20240630"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f6b87f667ffde23516b1f1f7a7b56d0532c4c956ed9a2fe1b2bc8d6a89bcdd0e"
+}

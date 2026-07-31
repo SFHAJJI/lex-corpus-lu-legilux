@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1882-05-17-n1:2022-12-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-12-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-02-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/12/2022 : Loi du 17 mai 1882 sur les poids et mesures.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20221227/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20221227/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "daa18cda337855ca3c63928b119a573de619ec935b6bfd8a637d47e4a02e2c40"
+}

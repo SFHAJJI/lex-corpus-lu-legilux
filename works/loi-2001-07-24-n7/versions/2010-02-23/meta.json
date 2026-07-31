@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2001-07-24-n7:2010-02-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2010-02-23",
+  "valid_to": "2022-12-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-02-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-02-23",
+      "valid_to": "2022-12-23",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/02/2010 : Loi du 24 juillet 2001 portant cr\u00E9ation d\u0027un \u00E9tablissement public nomm\u00E9 Centre Culturel de Rencontre Abbaye de Neum\u00FCnster.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20100223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20100223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c2d284a55d74639cfc9110d6f4503fc19ab0f1e6c07f92144674012d92989ab5"
+}

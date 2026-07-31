@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2005-02-04-n1:2018-03-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-03-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-11-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-03-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/03/2018 : Loi du 4 f\u00E9vrier 2005 relative au r\u00E9f\u00E9rendum au niveau national.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20180316/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20180316/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b8e0345e4720d14dd4cdb9a8df05e7cde5f358d1d9a02242642c33f3bec2717a"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2007-08-30-n2:2013-02-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2013-02-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-02-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/02/2013 : R\u00E8glement grand-ducal du 30 ao\u00FBt 2007 d\u00E9terminant certaines exigences techniques relatives au don, \u00E0 l\u2019obtention et au contr\u00F4le de tissus et de cellules d\u2019origine humaine.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20130216/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20130216/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "951965e249c504511ea70dc382d7546e15277602a222bd35751f929a753105b0"
+}

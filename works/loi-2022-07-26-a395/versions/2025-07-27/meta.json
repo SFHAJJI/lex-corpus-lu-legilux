@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-07-26-a395:2025-07-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/07/26/a395",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-07-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-04-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/07/2025 : Loi du 26 juillet 2022 relative au r\u00E9gime d\u2019aides en faveur des entreprises investissant dans des infrastructures pour v\u00E9hicules \u00E0 carburants alternatifs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/26/a395/consolide/20250727/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/26/a395/consolide/20250727/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a90bcc858b03192044520daa836dc7001af84975ed9206fc6251fdcc78314f75"
+}

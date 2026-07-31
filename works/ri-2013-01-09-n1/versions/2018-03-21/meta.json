@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:ri-2013-01-09-n1:2018-03-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RI",
+  "valid_from": "2018-03-21",
+  "valid_to": "2018-05-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-03-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-03-21",
+      "valid_to": "2018-05-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/03/2018 : R\u00E8glement Int\u00E9rieur de l\u0027Ordre des Avocats du Barreau de Luxembourg tel que adopt\u00E9 par le Conseil de l\u0027Ordre lors de sa r\u00E9union du 9 janvier 2013.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20180321/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20180321/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5d52b0cb662ea8ded8a86625eb7c0e38f6678a432149b49a7fe1c2f224f0494f"
+}

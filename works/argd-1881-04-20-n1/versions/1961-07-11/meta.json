@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:argd-1881-04-20-n1:1961-07-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/argd/1881/04/20/n1",
+  "publisher": "lu-legilux",
+  "document_type": "ARGD",
+  "valid_from": "1961-07-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1961-07-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/07/1961 : Arr\u00EAt\u00E9 royal grand-ducal du 20 avril 1881, relatif au transport, au commerce et au d\u00E9p\u00F4t de la poudre \u00E0 tirer et des autres substances explosives.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/argd/1881/04/20/n1/consolide/19610711/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/argd/1881/04/20/n1/consolide/19610711/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5d4a6e468d3356d628afe4a06929a0b26352b9a18f519cd1e619ba528ee4c1cc"
+}

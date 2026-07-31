@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:code-communal:2025-07-29",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/communal",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2025-07-29",
+  "valid_to": "2025-12-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-08-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-29",
+      "valid_to": "2025-12-01",
+      "valid_time_source": "publisher",
+      "title": "Code communal\\nCETTE VERSION NE CONTIENT PAS ENCORE LES MODIFICATIONS R\u00C9TROACTIVES INTRODUITES PAR LE RGD du 2 AVRIL 2026\\nPUBLI\u00C9 AU M\u00C9MORIAL A - 201 DU 15 AVRIL 2026.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/communal/20250729/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/communal/20250729/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3e53d7e2a4a15b719b2934e4465d05a6e33fb4be573a3e77a03a0712fd5b7189"
+}

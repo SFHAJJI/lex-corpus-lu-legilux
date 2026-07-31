@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2007-08-01-n13:2015-07-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-07-04",
+  "valid_to": "2021-02-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-12-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-07-04",
+      "valid_to": "2021-02-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/07/2015 : Loi du 1er ao\u00FBt 2007\\n1) relative \u00E0 l\u2019organisation du march\u00E9 de l\u2019\u00E9lectricit\u00E9;\\n2) instaurant un poste de Commissaire du Gouvernement \u00E0 l\u2019Energie;\\n3) abrogeant\\n- la loi modifi\u00E9e du 14 d\u00E9cembre 1967 portant institution d\u2019un poste de Commissaire du Gouvernement, portant cr\u00E9ation d\u2019un service de l\u2019\u00E9nergie de l\u2019Etat et concernant l\u2019exploitation des centrales hydro-\u00E9lectriques d\u2019Esch-sur-S\u00FBre et de Rosport;\\n- la loi du 4 janvier 1928 concernant l\u2019\u00E9tablissement et l\u2019exploitation des r\u00E9seaux de distribution d\u2019\u00E9nergie \u00E9lectrique dans le Grand-Duch\u00E9 de Luxembourg approuvant la convention de concession du 11 novembre 1927 ainsi que ses annexes;\\n- la loi du 30 juin 1927 approuvant le contrat de fourniture de courant du 11 avril 1927 pour l\u2019\u00E9lectrification du Grand-Duch\u00E9 de Luxembourg;\\n- la loi du 2 f\u00E9vrier 1924 concernant les distributions d\u2019\u00E9nergie \u00E9lectrique dans le Grand-Duch\u00E9 de Luxembourg;\\n- la loi modifi\u00E9e du 24 juillet 2000 relative \u00E0 l\u2019organisation du march\u00E9 de l\u2019\u00E9lectricit\u00E9;\\net\\n4) modifiant\\n- la loi du 30 mai 2005 portant 1) organisation de l\u2019Institut Luxembourgeois de R\u00E9gulation; 2) modification de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019Etat;\\n- la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019Etat.",
+      "title_short": "Loi du 1er ao\u00FBt 2007 relative \u00E0 l\u2019organisation du march\u00E9 de l\u2019\u00E9lectricit\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20150704/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20150704/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a897d13cfb0ec79621733f57bd113d6d1d234f2a27023453c38c45eed55c7aa8"
+}

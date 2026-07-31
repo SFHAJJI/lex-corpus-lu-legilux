@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2023-10-06-a641:2023-10-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a641",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-10-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-12-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-17",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 17/10/2023 : R\u00E8glement grand-ducal du 6 octobre 2023 portant d\u00E9claration d\u2019obligation g\u00E9n\u00E9rale de la convention collective de travail pour les salari\u00E9s du secteur de l\u2019assistance en escale dans les a\u00E9roports conclue entre le Groupement des Services A\u00E9roportuaires du Findel, d\u2019une part et les syndicats LCGB, OGB-L et NGL-SNEP, d\u2019autre part, ainsi que de l\u2019avenant \u00E0 la convention collective de travail pour le personnel salari\u00E9 du secteur de l\u2019assistance dans les a\u00E9roports (valable du 1er janvier 2021 au 31 d\u00E9cembre 2023) sign\u00E9 en date du 9 novembre 2020 entre le Groupement des services a\u00E9roportuaires du Findel et les syndicats, LCGB, OGBL et NGL-SNEP et de l\u2019avenant \u00E0 la convention collective de travail pour le personnel salari\u00E9 du secteur de l\u2019assistance dans les a\u00E9roports (valable \u00E0 partir du 1er janvier 2023), sign\u00E9 en date du 22 d\u00E9cembre 2022 entre le Groupement des services a\u00E9roportuaires du Findel et les syndicats LCGB, OGBL et NGL-SNEP.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a641/consolide/20231017/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a641/consolide/20231017/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d0cd0dff0e20d5c801c23e3ae84410192cdcec0e0b80199ea55b06961769c328"
+}

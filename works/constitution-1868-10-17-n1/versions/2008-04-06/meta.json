@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:constitution-1868-10-17-n1:2008-04-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "Constitution",
+  "valid_from": "2008-04-06",
+  "valid_to": "2009-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-07-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2008-04-06",
+      "valid_to": "2009-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/04/2008 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20080406/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20080406/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "42cb7f85b695b98d8c34b1d203be11ede809c20c58f2ba910e9f3cdfc0da75bf"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:amin-1999-06-30-n1:2010-07-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AMIN",
+  "valid_from": "2010-07-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-07-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/07/2010 : Arr\u00EAt\u00E9 minist\u00E9riel du 30 juin 1999 concernant l\u0027\u00E9limination des huiles et des graisses v\u00E9g\u00E9tales et animales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/consolide/20100703/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/amin/1999/06/30/n1/consolide/20100703/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0e7d083864e6439750ac17216b127be3f8580941f0bd44b500c1d1822576fc9b"
+}

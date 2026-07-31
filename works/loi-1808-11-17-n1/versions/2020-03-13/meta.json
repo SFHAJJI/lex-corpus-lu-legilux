@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-1808-11-17-n1:2020-03-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1808/11/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2020-03-13",
+  "valid_to": "2020-03-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-03-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-03-13",
+      "valid_to": "2020-03-20",
+      "valid_time_source": "publisher",
+      "title": "Code de proc\u00E9dure p\u00E9nale",
+      "title_short": "Code de proc\u00E9dure p\u00E9nale",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20200313/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20200313/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f61c6e9432a1775ca1d79336f024a74661a06b1b0b49fb512798ca7e8e065bdf"
+}

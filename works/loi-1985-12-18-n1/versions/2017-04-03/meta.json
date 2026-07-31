@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1985-12-18-n1:2017-04-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2017-04-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-06-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-04-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/04/2017 : Loi du 18 d\u00E9cembre 1985 relative aux m\u00E9dicaments v\u00E9t\u00E9rinaires.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20170403/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/18/n1/consolide/20170403/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "10b2cbc78caf0974c3aeb74cc5afc3ec20e55b370b985b80e8938367cf528ef6"
+}

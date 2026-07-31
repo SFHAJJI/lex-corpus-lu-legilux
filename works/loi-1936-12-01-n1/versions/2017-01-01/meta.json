@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1936-12-01-n1:2017-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1936/12/01/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2017-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2017 : Loi du 1er d\u00E9cembre 1936 sur l\u0027imp\u00F4t foncier (Grundsteuergesetz).",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1936/12/01/n1/consolide/20170101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1936/12/01/n1/consolide/20170101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8449f493fbfe5c2ad06db3985ce84a6a5cb0c3f7460b021d7241331102812524"
+}

@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2025-12-19-a591:2027-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591",
+  "publisher": "lu-legilux",
+  "valid_from": "2027-09-15",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2027-09-15",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591/consolide/20270915",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591/consolide/20270915"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "517af684bc44cb310955e7667f5941c78d45eadeba0454f34030fd5487613398"
+}

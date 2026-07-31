@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2024-01-10-a19:2024-02-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-02-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-10-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-02-03",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 03/02/2024 : R\u00E8glement grand-ducal du 10 janvier 2024 relatif aux techniques autoris\u00E9es pour l\u2019accomplissement d\u2019actes r\u00E9alis\u00E9s par les fonctionnaires du groupe de traitement A2 et B1, sous-groupes militaires, dans la fonction d\u2019infirmier militaire gradu\u00E9, d\u2019infirmier militaire et d\u2019infirmier militaire anesth\u00E9siste de l\u2019Arm\u00E9e luxembourgeoise.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/consolide/20240203/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/01/10/a19/consolide/20240203/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b42f9cc1c3717a9f8fc067e65844365d604a0d8df3d4ee1d77db684877e832f9"
+}

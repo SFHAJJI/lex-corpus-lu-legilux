@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-emblemes_nationaux:2018-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/emblemes_nationaux",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2018-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2018-09-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-09-01",
+      "valid_time_source": "publisher",
+      "title": "Embl\u00E8mes nationaux",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/emblemes_nationaux/20180901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/emblemes_nationaux/20180901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d2c7ffd8c19f24074ffb5b0dc4cc5961823d002873076c29edeff0d4ecb660e7"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:agc-2000-11-10-n1:2000-12-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agc/2000/11/10/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGC",
+  "valid_from": "2000-12-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2000-12-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2000-12-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/1999 : Arr\u00EAt\u00E9 du Gouvernement en Conseil du 10 novembre 2000 portant approbation du contrat collectif des ouvriers de l\u0027Etat du 27 octobre 2000.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agc/2000/11/10/n1/consolide/20001216/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agc/2000/11/10/n1/consolide/20001216/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a4bc097df5c7d34a1e530f17096385c2bef6df8d3d7ac8086083e7d3fb1e1a19"
+}

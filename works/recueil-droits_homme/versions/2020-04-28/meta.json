@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-droits_homme:2020-04-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/droits_homme",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2020-04-28",
+  "valid_to": "2021-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-04-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-04-28",
+      "valid_to": "2021-08-01",
+      "valid_time_source": "publisher",
+      "title": "Droits de l\u0027Homme",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/droits_homme/20200428/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/droits_homme/20200428/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "120e39bf8422a6dd24a80a323072412e5c7af18640238b6e096a6f96bc119888"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1909-12-23-n1:1991-04-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1909/12/23/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1991-04-15",
+  "valid_to": "2003-02-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1991-09-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1991-04-15",
+      "valid_to": "2003-02-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/12/1990 : Arr\u00EAt\u00E9 grand-ducal du 23 d\u00E9cembre 1909 concernant l\u0027ex\u00E9cution de la loi sur le registre aux firmes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1909/12/23/n1/consolide/19910415/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1909/12/23/n1/consolide/19910415/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d056dcd9c5d61b0d5e11820808777d294091567208a768f158078c0671653ec6"
+}

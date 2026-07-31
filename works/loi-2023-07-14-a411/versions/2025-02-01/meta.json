@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2023-07-14-a411:2025-02-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/02/2025 : Loi du 14 juillet 2023 portant mise en place d\u2019un m\u00E9canisme de filtrage national des investissements directs \u00E9trangers susceptibles de porter atteinte \u00E0 la s\u00E9curit\u00E9 ou \u00E0 l\u2019ordre public aux fins de la mise en \u0153uvre du r\u00E8glement (UE) 2019/452 du Parlement europ\u00E9en et du Conseil du 19 mars 2019 \u00E9tablissant un cadre pour le filtrage des investissements directs \u00E9trangers dans l\u2019Union, tel que modifi\u00E9.",
+      "title_short": "Loi du 14 juillet 2023 portant mise en place d\u2019un m\u00E9canisme de filtrage des investissements directs \u00E9trangers susceptibles de porter atteinte \u00E0 la s\u00E9curit\u00E9 ou \u00E0 l\u2019ordre public.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d0c8b15d0639a6b2d39d6b4cbc7a7e0db2f5d17016c59c78ad67a1bc9a2ef6f7"
+}

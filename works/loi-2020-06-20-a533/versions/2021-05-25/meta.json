@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2020-06-20-a533:2021-05-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-05-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-05-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-05-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/05/2021 : Loi du 20 juin 2020 portant introduction d\u2019un cong\u00E9 pour soutien familial dans le cadre de la lutte contre la pand\u00E9mie Covid-19.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20210525/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20210525/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4d1083ef222689887a5ffb65e4fdf023dc05bdceaddf446d0760fbed94cc5ffe"
+}

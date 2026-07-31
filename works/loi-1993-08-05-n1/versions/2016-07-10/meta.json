@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1993-08-05-n1:2016-07-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1993/08/05/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-07-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-07-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/07/2016 : Loi du 5 ao\u00FBt 1993 concernant l\u0027utilisation rationnelle de l\u0027\u00E9nergie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/08/05/n1/consolide/20160710/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/08/05/n1/consolide/20160710/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "231c1ce0cc88ef2fdf534e48de7a3ce17eca0c757a171ce091823a4f2d22b1e1"
+}

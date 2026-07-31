@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1965-07-29-n3:1978-09-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1965/07/29/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1978-09-11",
+  "valid_to": "1982-08-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1978-10-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1978-09-11",
+      "valid_to": "1982-08-23",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/1977 : Loi du 29 juillet 1965 concernant la conservation de la nature et des ressources naturelles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1965/07/29/n3/consolide/19780911/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1965/07/29/n3/consolide/19780911/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5335f137534015797083f4006a769e091540d612d3ebff1d0282fb2bbfaeed0d"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1954-05-26-n2:2004-10-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2004-10-01",
+  "valid_to": "2008-12-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2005-01-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2004-10-01",
+      "valid_to": "2008-12-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/2003 : Loi du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2/consolide/20041001/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2/consolide/20041001/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7fc0fe05c1232c3d1061ffb35f6748a17d9051b8cd9f8a67214a5991bca2df1f"
+}

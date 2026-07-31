@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2015-05-31-n1:2020-04-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/05/31/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-04-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-04-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-04-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/04/2020 : R\u00E8glement grand-ducal du 31 mai 2015 relatif \u00E0 certaines responsabilit\u00E9s de l\u0027Etat du pavillon en ce qui concerne le respect et la mise en application de la Convention du travail maritime, 2006.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/05/31/n1/consolide/20200406/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/05/31/n1/consolide/20200406/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "adaa87583d1a6f1995b6b1db368426a00c4ff8ca0e59524e2cfcf0bf20a6e65b"
+}

@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2021-02-05-a106:2021-03-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-03-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-03-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-03-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/03/2021 : Loi du 5 f\u00E9vrier 2021 sur les transports publics et modifiant :\\n1\u00B0 les articles L. 311-5 et L.311-6 du Code de la consommation ;\\n2\u00B0 la loi modifi\u00E9e du 28 juin 1984 portant r\u00E9glementation de la police de la navigation int\u00E9rieure, des sports nautiques, de la natation, des droits des passagers et du permis d\u2019exploitation des bateaux \u00E0 passagers ;\\n3\u00B0 la loi du 10 septembre 2012 d\u00E9terminant le r\u00E9gime des sanctions applicables en cas de violation des dispositions du r\u00E8glement (CE) n\u00B0 1371/2007 du Parlement europ\u00E9en et du Conseil du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires ;\\n4\u00B0 la loi du 27 avril 2015 d\u00E9terminant le r\u00E9gime des sanctions applicables en cas de violation des dispositions du r\u00E8glement (UE) n\u00B0 181/2011 du Parlement europ\u00E9en et du Conseil du 16 f\u00E9vrier 2011 concernant les droits des passagers dans le transport par autobus et autocar et modifiant le r\u00E8glement (CE) n\u00B0 2006/2004, et modifiant 1) les articles L.311-5 et L.311-6 du Code de la consommation, 2) l\u2019article 7bis de la loi modifi\u00E9e du 29 juin 2004 sur les transports publics.\\n",
+      "title_short": "Loi du 5 f\u00E9vrier 2021 sur les transports publics.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/consolide/20210301/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/02/05/a106/consolide/20210301/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2efe4fddd9e0cb65cdc072cafcee11949e694b2c551ef5d6ebbe7612225bd5ad"
+}

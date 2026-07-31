@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2013-07-09-n20:2023-04-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2013/07/09/n20",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-04-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-06-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-04-07",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/04/2023 : R\u00E8glement grand-ducal du 9 juillet 2013 \\na) relatif aux mesures administratives dans l\u0027ensemble des zones de protection pour les masses d\u0027eau souterraine ou parties de masses d\u0027eau souterraine servant de ressource \u00E0 la production d\u0027eau destin\u00E9e \u00E0 la consommation humaine, et \\nb) modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 24 novembre 2000 concernant l\u0027utilisation de fertilisants azot\u00E9s dans l\u0027agriculture.",
+      "title_short": "R\u00E8glement grand-ducal du 9 juillet 2013 relatif aux mesures administratives dans l\u0027ensemble des zones de protection pour les masses d\u0027eau souterraine ou parties de masses d\u0027eau souterraine servant de ressource \u00E0 la production d\u0027eau destin\u00E9e \u00E0 la consommation humaine.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/09/n20/consolide/20230407/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/09/n20/consolide/20230407/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fdcf3dfaf0c30125c3b13212146b17f4199fe0460c99aadcf9ffff0b872dea06"
+}

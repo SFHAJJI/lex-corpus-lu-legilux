@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2016-12-23-n1:2021-12-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-12-06",
+  "valid_to": "2025-11-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-11-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-12-06",
+      "valid_to": "2025-11-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/12/2021 : Loi du 23 d\u00E9cembre 2016 sur les ventes en soldes et sur trottoir et la publicit\u00E9 trompeuse et comparative.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20211206/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20211206/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5456f5cfe67177b24efd965dabe0fa7c18ac316fa9e8ecf95d9f3d7c8da250ae"
+}

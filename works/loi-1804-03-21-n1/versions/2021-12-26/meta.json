@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-1804-03-21-n1:2021-12-26",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1804/03/21/n1",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2021-12-26",
+  "valid_to": "2022-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-12-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-12-26",
+      "valid_to": "2022-01-01",
+      "valid_time_source": "publisher",
+      "title": "Code civil",
+      "title_short": "Code civil",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/civil/20211226/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/civil/20211226/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b6809c9b580b2101eb5532e734d7ce8d944c332405810b0da2080b81dc44d5c4"
+}

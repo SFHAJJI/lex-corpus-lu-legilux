@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2016-07-05-n8:2027-03-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8",
+  "publisher": "lu-legilux",
+  "valid_from": "2027-03-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2027-03-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20270301",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20270301"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ca3d21cebc36c65fb65912ec26b00cbb334bac8308d8f86b38651d50a19f38a7"
+}

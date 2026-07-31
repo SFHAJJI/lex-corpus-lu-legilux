@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:rgd-1998-12-21-n3:2026-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/12/21/n3",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-09-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-09-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/21/n3/consolide/20260901",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/21/n3/consolide/20260901"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bcd85e326ab1a690465b9689e92f88644d8f48aa3613d2560c4cb1be3c9f9933"
+}

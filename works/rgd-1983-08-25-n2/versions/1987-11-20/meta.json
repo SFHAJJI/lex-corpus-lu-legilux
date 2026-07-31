@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1983-08-25-n2:1987-11-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1983/08/25/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1987-11-20",
+  "valid_to": "1994-07-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1988-02-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1987-11-20",
+      "valid_to": "1994-07-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/1986 : R\u00E8glement grand-ducal du 25 ao\u00FBt 1983 fixant les modalit\u00E9s et conditions d\u0027attribution \n 1.des aides \u00E0 la mobilit\u00E9 g\u00E9ographique des demandeurs d\u0027emploi; \n 2.d\u0027une prime d\u0027incitation \u00E0 l\u0027embauche de ch\u00F4meurs de longue dur\u00E9e et de demandeurs d\u0027emploi particuli\u00E8rement difficiles \u00E0 placer; \n 3.d\u0027une aide au r\u00E9emploi.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1983/08/25/n2/consolide/19871120/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1983/08/25/n2/consolide/19871120/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1e31bcd7657c285e811021222adf8b20d90f5c9b9aad592306c8de11d0ed8f37"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rbcl-2021-07-12-a524:2021-07-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rbcl/2021/07/12/a524",
+  "publisher": "lu-legilux",
+  "document_type": "RBCL",
+  "valid_from": "2021-07-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-11-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-07-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 14/07/2021 : Banque centrale du Luxembourg - R\u00E8glement de la Banque centrale du Luxembourg 2020 / N\u00B0 30 du 12 juillet 2021 en mati\u00E8re de statistiques de paiement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rbcl/2021/07/12/a524/consolide/20210714/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rbcl/2021/07/12/a524/consolide/20210714/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "02efa9f0ae8aeac5aae61220da91faf94af4b402c7f1775166b8561e77b56694"
+}

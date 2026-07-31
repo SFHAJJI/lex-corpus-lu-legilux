@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1885-02-18-n3:2023-09-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/09/2023 : Loi du 18 f\u00E9vrier 1885 sur les pourvois et la proc\u00E9dure en cassation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20230916/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20230916/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "05d9ca294ebde1a45aa664997967802be889bf2087248920f16bc239e2336aa8"
+}

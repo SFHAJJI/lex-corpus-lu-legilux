@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2007-12-21-n1:2012-07-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2012-07-09",
+  "valid_to": "2015-04-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2012-07-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-07-09",
+      "valid_to": "2015-04-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/2011 : Loi du 21 d\u00E9cembre 2007 portant\n 1. transposition de la directive 2004/113/CE du Conseil du 13 d\u00E9cembre 2004 mettant en oeuvre le principe de l\u0027\u00E9galit\u00E9 de traitement entre les femmes et les hommes dans l\u0027acc\u00E8s \u00E0 des biens et services et la fourniture de biens et services;\n 2. modification du Code p\u00E9nal;\n 3. modification de la loi modifi\u00E9e du 27 juillet 1997 sur le contrat d\u0027assurance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/consolide/20120709/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n1/consolide/20120709/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "648e15a313c3b8c4294e19e27113197335922fd2feb5d605d800e72d2baf7a45"
+}

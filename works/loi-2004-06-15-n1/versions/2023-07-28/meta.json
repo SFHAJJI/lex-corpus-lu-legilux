@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2004-06-15-n1:2023-07-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/15/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-12-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/07/2023 : Loi du 15 juin 2004 relative \u00E0 la Soci\u00E9t\u00E9 d\u2019investissement en capital \u00E0 risque (SICAR) et portant modification de\\n - la loi modifi\u00E9e du 4 d\u00E9cembre 1967 relative \u00E0 l\u2019imp\u00F4t sur le revenu\\n - la loi modifi\u00E9e du 16 octobre 1934 concernant l\u2019imp\u00F4t sur la fortune\\n - la loi modifi\u00E9e du 1er d\u00E9cembre 1936 concernant l\u2019imp\u00F4t commercial communal\\n - la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e\\n - la loi modifi\u00E9e du 20 d\u00E9cembre 2002 concernant les organismes de placement collectif.",
+      "title_short": "Loi du 15 juin 2004 relative \u00E0 la soci\u00E9t\u00E9 d\u2019investissement en capital \u00E0 risque (SICAR).",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n1/consolide/20230728/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n1/consolide/20230728/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "053ae7cf309b6b6671690d8dd6dd0d2876ea81cdffe822fdb87bd8fa34de299a"
+}

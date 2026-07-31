@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1963-04-22-n1:1970-01-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1963/04/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1970-01-03",
+  "valid_to": "1970-11-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1970-01-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1970-01-03",
+      "valid_to": "1970-11-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/12/1969 : Arr\u00EAt\u00E9 grand-ducal du 22 avril 1963 portant nouvelle fixation et r\u00E9glementation du salaire social minimum.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1963/04/22/n1/consolide/19700103/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1963/04/22/n1/consolide/19700103/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6b143e0c08997397ad61a1a697b5c620d1ef75d9db0be7545b929480b6708f8d"
+}

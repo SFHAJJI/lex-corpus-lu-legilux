@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2014-10-08-n1:2015-08-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2015-08-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-02-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-08-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/08/2015 : R\u00E8glement grand-ducal du 8 octobre 2014 concernant les modalit\u00E9s d\u0027agr\u00E9ment et d\u0027exercice des interm\u00E9diaires d\u0027assurances et de r\u00E9assurances ainsi que des professionnels du secteur de l\u0027assurance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cac473ee581fbf3f2b66925d7fa72d9993c85f97e9cf3e99e5d9699dd2b0861f"
+}

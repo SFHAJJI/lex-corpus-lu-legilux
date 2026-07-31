@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2004-03-05-n11:2009-02-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n11",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2009-02-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-05-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2009-02-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/02/2009 : R\u00E8glement grand-ducal du 5 mars 2004 fixant les conditions et modalit\u00E9s de renonciation \u00E0 la r\u00E9cup\u00E9ration des r\u00E9mun\u00E9rations ind\u00FBment touch\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n11/consolide/20090203/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n11/consolide/20090203/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d1603ed64f52b42e41f0890c87dcb51f1e844400799519c87c43240427dab821"
+}

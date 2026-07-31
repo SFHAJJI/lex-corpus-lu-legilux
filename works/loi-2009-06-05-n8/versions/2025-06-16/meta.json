@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2009-06-05-n8:2025-06-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/05/n8",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-06-16",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-06-16",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n8/consolide/20250616",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n8/consolide/20250616"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "06a1db48df5c36545cd78ac73322fbaf1e4515e509b9ed00ee122c6d38bb2585"
+}

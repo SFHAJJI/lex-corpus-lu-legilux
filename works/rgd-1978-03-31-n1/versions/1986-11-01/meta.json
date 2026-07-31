@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1978-03-31-n1:1986-11-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1986-11-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-05-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1986-11-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/1986 : R\u00E8glement grand-ducal du 31 mars 1978 portant d\u00E9termination des cat\u00E9gories des fonctionnaires de l\u0027administration des douanes b\u00E9n\u00E9ficiant de la prime d\u0027astreinte et fixation du montant de ladite prime.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "416c4afc5ccb74688f0f21c185c19b1ded7c138c02b622d7ccf290464700e390"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2019-08-22-a578:2021-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a578",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-09-15",
+  "valid_to": "2023-09-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-09-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-09-15",
+      "valid_to": "2023-09-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2021 : R\u00E8glement grand-ducal du 22 ao\u00FBt 2019 fixant la liste des formations de technicien auxquelles l\u2019\u00E9l\u00E8ve d\u00E9tenteur du dipl\u00F4me d\u2019aptitude professionnelle est admissible.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a578/consolide/20210915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/22/a578/consolide/20210915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "692d0b412a5fb4530f5c492784e854a5b3498ec5dc8de41a0a089ea3a6f0dfa7"
+}

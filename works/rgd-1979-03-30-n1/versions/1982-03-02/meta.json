@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1979-03-30-n1:1982-03-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1979/03/30/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1982-03-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "1982-07-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1982-03-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1981 : R\u00E8glement grand-ducal du 30 mars 1979 portant ex\u00E9cution de la loi du 30 novembre 1978 promouvant la modernisation de l\u0027agriculture.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/03/30/n1/consolide/19820302/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/03/30/n1/consolide/19820302/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "98e61f152601c186eb2a354fe45c510a75e654ccbd21141c75e8795801161347"
+}

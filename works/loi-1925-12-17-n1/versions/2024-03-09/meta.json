@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-1925-12-17-n1:2024-03-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1925/12/17/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2024-03-09",
+  "valid_to": "2025-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-03-09",
+      "valid_to": "2025-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1925/12/17/n1/consolide/20240309",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1925/12/17/n1/consolide/20240309"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9f14cc06f4df2cc2a4a9c36db0a81f895adbdbadd49f54cdab887d02f4c99f6c"
+}

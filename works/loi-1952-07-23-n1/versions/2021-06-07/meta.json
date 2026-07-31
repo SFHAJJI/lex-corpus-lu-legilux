@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1952-07-23-n1:2021-06-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-06-07",
+  "valid_to": "2023-03-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-03-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-06-07",
+      "valid_to": "2023-03-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/06/2021 : Loi du 23 juillet 1952 concernant l\u2019organisation militaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1/consolide/20210607/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1/consolide/20210607/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "48acb645845508ef89f0209d5a3b32b7ceba80a1ffc3a5fe59d7432edb994c42"
+}

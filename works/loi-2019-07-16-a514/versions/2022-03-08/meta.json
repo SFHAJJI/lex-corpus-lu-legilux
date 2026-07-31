@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2019-07-16-a514:2022-03-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-03-08",
+  "valid_to": "2024-06-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-09-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-03-08",
+      "valid_to": "2024-06-30",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/03/2022 : Loi du 16 juillet 2019 portant\\n1. mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 345/2013 du Parlement europ\u00E9en et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque europ\u00E9ens ;\\n2. mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 346/2013 du Parlement europ\u00E9en et du Conseil du 17 avril 2013 relatif aux fonds d\u2019entrepreneuriat social europ\u00E9ens ;\\n3. mise en \u0153uvre du r\u00E8glement (UE) 2015/760 du Parlement europ\u00E9en et du Conseil du 29 avril 2015 relatif aux fonds europ\u00E9ens d\u2019investissement \u00E0 long terme ; \\n4. mise en \u0153uvre du r\u00E8glement (UE) 2017/1131 du Parlement europ\u00E9en et du Conseil du 14 juin 2017 sur les fonds mon\u00E9taires ;\\n5. mise en \u0153uvre du r\u00E8glement (UE) 2017/2402 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9cembre 2017 cr\u00E9ant un cadre g\u00E9n\u00E9ral pour la titrisation ainsi qu\u2019un cadre sp\u00E9cifique pour les titrisations simples, transparentes et standardis\u00E9es, et modifiant les directives 2009/65/CE, 2009/138/CE et 2011/61/UE et les r\u00E8glements (CE) n\u00B0 1060/2009 et (UE) n\u00B0 648/2012 ; \\n6. modification de la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier ;\\n7. modification de la loi du 23 juillet 2016 relative aux fonds d\u2019investissement alternatifs r\u00E9serv\u00E9s.",
+      "title_short": "Loi du 16 juillet 2019 relative \u00E0 l\u2019op\u00E9rationnalisation de r\u00E8glements europ\u00E9ens dans le domaine des services financiers.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20220308/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20220308/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ab38447f9ac1d5590f502a5a0c03667826ee1d46e43753248819eb40852b554f"
+}

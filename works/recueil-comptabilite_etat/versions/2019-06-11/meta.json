@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-comptabilite_etat:2019-06-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/comptabilite_etat",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2019-06-11",
+  "valid_to": "2020-04-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2019-06-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-06-11",
+      "valid_to": "2020-04-18",
+      "valid_time_source": "publisher",
+      "title": "Comptabilit\u00E9 de l\u0027\u00C9tat",
+      "title_short": "Comptabilit\u00E9 de l\u0027\u00C9tat",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/comptabilite_etat/20190611/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/comptabilite_etat/20190611/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a835bad87d4ce98504206d886cba01e3d6e48e2ac12beee33dcd542a46b3eeef"
+}

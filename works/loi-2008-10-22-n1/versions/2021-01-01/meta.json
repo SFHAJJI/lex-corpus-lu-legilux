@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2008-10-22-n1:2021-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2008/10/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-11-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2021 : Loi du 22 octobre 2008 portant:1. promotion de l\u0027habitat et cr\u00E9ation d\u0027un pacte logement avec les communes,2. sur le droit d\u0027emphyt\u00E9ose et le droit de superficie,3. modificationa) de la loi modifi\u00E9e du 16 octobre 1934 concernant l\u0027\u00E9valuation des biens et valeurs;b) de la loi modifi\u00E9e du 1er d\u00E9cembre 1936 sur l\u0027imp\u00F4t foncier;c) de la loi modifi\u00E9e du 25 f\u00E9vrier 1979 concernant l\u0027aide au logement;d) de la loi modifi\u00E9e du 10 d\u00E9cembre 1998 portant cr\u00E9ation de l\u0027\u00E9tablissement public d\u00E9nomm\u00E9 \u00ABFonds d\u0027assainissement de la Cit\u00E9 Syrdall\u00BB;e) de la loi modifi\u00E9e du 30 juillet 2002 d\u00E9terminant diff\u00E9rentes mesures fiscales destin\u00E9es \u00E0 encourager la mise sur le march\u00E9 et l\u0027acquisition de terrains \u00E0 b\u00E2tir et d\u0027immeubles d\u0027habitation;f) de la loi modifi\u00E9e du 19 juillet 2004 concernant l\u0027am\u00E9nagement communal et le d\u00E9veloppement urbain;g) de la loi du 21 septembre 2006 sur le bail \u00E0 usage d\u0027habitation et modifiant certaines dispositions du Code civil.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/10/22/n1/consolide/20210101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/10/22/n1/consolide/20210101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7f27bb4402d37be34ec60aff8cc80d4ab5d29c9d04fc4b22c84698b4a36ddd52"
+}

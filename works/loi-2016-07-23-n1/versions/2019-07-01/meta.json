@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2016-07-23-n1:2019-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2019-07-01",
+  "valid_to": "2022-07-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-06-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-07-01",
+      "valid_to": "2022-07-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2019 : Loi du 23 juillet 2016 portant cr\u00E9ation d\u0027un Haut-Commissariat \u00E0 la Protection nationale et modifiant a) la loi modifi\u00E9e du 23 juillet 1952 concernant l\u0027organisation militaire; b) la loi du 8 d\u00E9cembre 1981 sur les r\u00E9quisitions en cas de conflit arm\u00E9, de crise internationale grave ou de catastrophe; c) la loi modifi\u00E9e du 2 ao\u00FBt 2002 relative \u00E0 la protection des personnes \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel; d) la loi modifi\u00E9e du 25 juin 2009 sur les march\u00E9s publics; e) la loi modifi\u00E9e du 9 d\u00E9cembre 2005 d\u00E9terminant les conditions et modalit\u00E9s de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l\u0027\u00C9tat; f) la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u0027avancement des fonctionnaires de l\u0027\u00C9tat.",
+      "title_short": "Loi du 23 juillet 2016 portant cr\u00E9ation d\u0027un Haut-Commissariat \u00E0 la Protection nationale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20190701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20190701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3491a8c506b9999b99cb6289f6fb7c7a634f0874cab00e348090fb8c82899bc2"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rmin-1983-08-11-n1:1989-06-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/1983/08/11/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "1989-06-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "1989-06-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1989-06-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/12/1988 : R\u00E8glement minist\u00E9riel du 11 ao\u00FBt 1983 d\u00E9terminant les modalit\u00E9s de l\u0027appr\u00E9ciation et du d\u00E9roulement des \u00E9preuves \u00E0 l\u0027Institut de formation administrative, section de la carri\u00E8re sup\u00E9rieure de l\u0027administration.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1983/08/11/n1/consolide/19890611/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/1983/08/11/n1/consolide/19890611/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c228d51af503f295604ac5e4484863baf1dc6ed0ca89915d61efce43c137798e"
+}

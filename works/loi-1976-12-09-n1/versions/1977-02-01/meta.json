@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1976-12-09-n1:1977-02-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1977-02-01",
+  "valid_to": "1984-11-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-09-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1977-02-01",
+      "valid_to": "1984-11-30",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/02/1977 : Loi du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19770201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19770201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1ef0ccd3f5ee46698cc91cd088b98b6376fadac8ac02cd41ad446ed1a54add6d"
+}

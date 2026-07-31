@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2004-03-05-n9:2004-03-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n9",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2004-03-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-09-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2004-03-15",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 15/03/2004 : R\u00E8glement grand-ducal du 5 mars 2004 fixant les conditions et modalit\u00E9s de l\u0027ordre de justification \u00E0 adresser aux fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n9/consolide/20040315/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n9/consolide/20040315/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b5059a15ea5185df063f8b0cd55c24b60941ade7dee6f5bd4ac22d7c31207b7c"
+}

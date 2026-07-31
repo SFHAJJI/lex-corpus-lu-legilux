@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-06-25-n4:2020-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/06/25/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-01-01",
+  "valid_to": "2026-07-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-03-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-01-01",
+      "valid_to": "2026-07-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2020 : R\u00E8glement grand-ducal du 25 juin 2009 d\u00E9terminant les conditions et modalit\u00E9s relatives\\n 1. \u00E0 la mise en compte des p\u00E9riodes pr\u00E9vues \u00E0 l\u2019article 4 et\\n 2. \u00E0 l\u2019assurance continu\u00E9e, l\u2019assurance compl\u00E9mentaire, l\u2019assurance facultative et l\u2019achat r\u00E9troactif de p\u00E9riodes d\u2019assurance pr\u00E9vus aux articles 5, 5bis et 6\\n de la loi modifi\u00E9e du 3 ao\u00FBt 1998 instituant des r\u00E9gimes de pension sp\u00E9ciaux pour les fonctionnaires de l\u2019Etat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/06/25/n4/consolide/20200101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/06/25/n4/consolide/20200101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1494f42ec4a79da71cab50f50beb3e75a687572e511aeeadd7de5bcd037a8be2"
+}

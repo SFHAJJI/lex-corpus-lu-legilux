@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1977-12-08-n2:1987-10-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1987-10-07",
+  "valid_to": "2008-09-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1987-10-07",
+      "valid_to": "2008-09-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/10/1987 : R\u00E8glement grand-ducal du 8 d\u00E9cembre 1977 portant sur les modalit\u00E9s des examens m\u00E9dicaux et de l\u0027examen dentaire de la femme enceinte et de l\u0027examen postnatal de la m\u00E8re, ainsi que sur le carnet de maternit\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19871007/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19871007/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "544fbb187afcd41a9a35ea26b6bdc9d315048352b5151fd09ef96464f64b3b93"
+}

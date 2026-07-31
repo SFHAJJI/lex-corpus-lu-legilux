@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:st-1994-01-19-n1:2026-05-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/st/1994/01/19/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-05-01",
+  "valid_to": "2026-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-05-01",
+      "valid_to": "2026-07-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/st/1994/01/19/n1/consolide/20260501",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/st/1994/01/19/n1/consolide/20260501"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3396ba4c7d51a89f05935857a2b6d7a9b487a4181bef4c7765ba15539f40077a"
+}

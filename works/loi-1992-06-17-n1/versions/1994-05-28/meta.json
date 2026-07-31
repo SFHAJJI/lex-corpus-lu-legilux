@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1992-06-17-n1:1994-05-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1994-05-28",
+  "valid_to": "2005-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-12-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1994-05-28",
+      "valid_to": "2005-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/05/1994 : Loi du 17 juin 1992 relative: \\n- aux comptes annuels et comptes consolid\u00E9s des \u00E9tablissements de cr\u00E9dit de droit luxembourgeois; \\n- aux obligations en mati\u00E8re de publicit\u00E9 des documents comptables des succursales d\u2019\u00E9tablissements de cr\u00E9dit et d\u2019\u00E9tablissements financiers de droit \u00E9tranger.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/19940528/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/19940528/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7949ca98d3453c6386b821738787ffbe567a5663423dec42a99b2f9f5f5d60de"
+}

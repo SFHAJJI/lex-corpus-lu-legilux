@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-04-08-a244:2023-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-04-01",
+  "valid_to": "2024-06-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-01-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-04-01",
+      "valid_to": "2024-06-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/04/2023 : R\u00E8glement grand-ducal modifi\u00E9 du 8 avril 2018 portant ex\u00E9cution de la loi du 8 avril 2018 sur les march\u00E9s publics.",
+      "title_short": "R\u00E8glement grand-ducal d\u2019ex\u00E9cution du 8 avril 2018 de la loi du 8 avril 2018 sur les march\u00E9s publics.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20230401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20230401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8caabe00067fd0e5a9cd409cbc3d227592cb9cb4529d710f8e009fa43a02fb28"
+}

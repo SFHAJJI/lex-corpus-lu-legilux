@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2006-12-21-n5:2026-03-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2006/12/21/n5",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-03-20",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-20",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/12/21/n5/consolide/20260320",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/12/21/n5/consolide/20260320"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c4e7787dc0a01fb3a136d506500496f3d6c3f2205b64d8008f9c3bc43e95d028"
+}

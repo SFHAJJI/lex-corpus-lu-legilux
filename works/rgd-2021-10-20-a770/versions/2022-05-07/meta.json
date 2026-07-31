@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-10-20-a770:2022-05-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-05-07",
+  "valid_to": "2022-05-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-05-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-05-07",
+      "valid_to": "2022-05-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/05/2022 : R\u00E8glement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de c\u00E9r\u00E9ales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220507/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220507/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8941201bfaf19070d58ee14b1ae679535ba6549ae941b963675950f786815590"
+}

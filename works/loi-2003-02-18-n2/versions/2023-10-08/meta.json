@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2003-02-18-n2:2023-10-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2",
+  "publisher": "lu-legilux",
+  "valid_from": "2023-10-08",
+  "valid_to": "2024-04-26",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-08",
+      "valid_to": "2024-04-26",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/consolide/20231008",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/consolide/20231008"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a9c3160c998a26db44e1cf8f06a75cd190943d77b7081af4a974979f9b5a7404"
+}

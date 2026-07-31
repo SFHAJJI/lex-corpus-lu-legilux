@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2019-08-01-a564:2023-05-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-05-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-07-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-05-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/05/2023 : R\u00E8glement grand-ducal du 1er ao\u00FBt 2019\\n1. fixant les modalit\u00E9s pour accorder et retirer le droit de former un apprenti et\\n2. relatif \u00E0 la prorogation et \u00E0 la r\u00E9siliation du contrat d\u2019apprentissage ;\\n3. abrogeant le r\u00E8glement grand-ducal du 3 ao\u00FBt 2010 fixant les modalit\u00E9s pour accorder et retirer le droit de former un apprenti ;\\n4. et abrogeant le r\u00E8glement grand-ducal du 3 ao\u00FBt 2010 relatif \u00E0 la prorogation et \u00E0 la r\u00E9siliation du contrat d\u2019apprentissage.\\n",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/consolide/20230502/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/01/a564/consolide/20230502/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "125fdb2c0489cb0b898baa6ca99008f18c2a4aa38d54c915d3d79803586d923a"
+}

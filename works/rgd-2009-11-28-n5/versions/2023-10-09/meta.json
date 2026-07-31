@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-11-28-n5:2023-10-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-10-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/10/2023 : R\u00E8glement grand-ducal du 28 novembre 2009 portant tarif des frais de justice de toute nature.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7d8c21e885767af2681aff8978f05f53e781383c416778db821385cd203a620c"
+}

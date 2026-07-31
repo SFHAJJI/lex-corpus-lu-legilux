@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2024-07-15-a304:2024-07-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/07/15/a304",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-07-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-07-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/07/2024 : R\u00E8glement grand-ducal du 15 juillet 2024 d\u00E9terminant les professions et m\u00E9tiers dans le cadre de la formation professionnelle et fixant les indemnit\u00E9s d\u2019apprentissage dans les secteurs de l\u2019artisanat, du commerce, de l\u2019Horeca, de l\u2019industrie, de l\u2019agriculture et du secteur de sant\u00E9 et social.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/15/a304/consolide/20240716/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/15/a304/consolide/20240716/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2ece03e37a5de2d7c1a234c7e32740bad09165eb2d6bde0c00080518ce85f6fe"
+}

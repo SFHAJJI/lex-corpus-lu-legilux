@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2020-06-24-a531:2020-09-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-09-23",
+  "valid_to": "2020-12-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-06-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-09-23",
+      "valid_to": "2020-12-21",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/09/2020 : Loi du 24 juin 2020 portant introduction de mesures temporaires relatives \u00E0 la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988 et \u00E0 la loi modifi\u00E9e du 27 mars 2018 portant organisation de la s\u00E9curit\u00E9 civile dans le cadre de la lutte contre le Covid-19.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20200923/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20200923/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "075125b1f939471a345ce82e9953850cf0fab36084c548c1c6c0bab7d73e17cb"
+}

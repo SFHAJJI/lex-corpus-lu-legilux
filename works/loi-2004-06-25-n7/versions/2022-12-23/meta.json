@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2004-06-25-n7:2022-12-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/25/n7",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-12-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-04-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-23",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/12/2022 : Loi du 25 juin 2004 portant r\u00E9organisation des instituts culturels de l\u2019Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n7/consolide/20221223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n7/consolide/20221223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "85d85c96e2555fa35e6a22bb1b630a2565f5c21191f86818cd022aa3a3cd93ae"
+}

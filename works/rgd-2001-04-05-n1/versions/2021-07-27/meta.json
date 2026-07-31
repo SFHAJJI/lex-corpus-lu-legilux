@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2001-04-05-n1:2021-07-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-07-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-05-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-07-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/07/2021 : R\u00E8glement grand-ducal du 5 avril 2001 fixant les r\u00E8gles applicables en mati\u00E8re de promotion des \u0153uvres europ\u00E9ennes dans les services de m\u00E9dias audiovisuels.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n1/consolide/20210727/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/05/n1/consolide/20210727/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "14db8d67e7c04aea6a9e7ff0826bb7b3574206130bc4e0a385e699fdc53c60ef"
+}

@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-1964-04-17-n2:2026-03-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1964/04/17/n2",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-03-20",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-20",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1964/04/17/n2/consolide/20260320",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1964/04/17/n2/consolide/20260320"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "31e2a6fe69e59985fa3d450a01b4594cba3f943568959f4bcceb717c5caa59a3"
+}

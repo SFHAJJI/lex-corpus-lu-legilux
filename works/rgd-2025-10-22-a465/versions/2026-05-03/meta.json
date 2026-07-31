@@ -1,0 +1,31 @@
+{
+  "lex_id": "lu-legilux:rgd-2025-10-22-a465:2026-05-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/10/22/a465",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-05-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-05-03",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2025/10/22/a465/consolide/20260503",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2025/10/22/a465/consolide/20260503"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d01c54048e4290cc67f2821b81759b069fd4c8e0c5e220d7486b77d79c10838c"
+}

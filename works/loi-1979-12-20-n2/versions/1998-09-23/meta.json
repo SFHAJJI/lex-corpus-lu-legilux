@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1979-12-20-n2:1998-09-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1998-09-23",
+  "valid_to": "2004-06-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-04-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1998-09-23",
+      "valid_to": "2004-06-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/09/1998 : Loi du 20 d\u00E9cembre 1979 relative \u00E0 la reconnaissance et \u00E0 la protection du titre professionnel de journaliste.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/19980923/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/19980923/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "45393dc7c0d0960b03fecb3292b7072faf76ebd8f5e1e8c35adf8418efe326dc"
+}

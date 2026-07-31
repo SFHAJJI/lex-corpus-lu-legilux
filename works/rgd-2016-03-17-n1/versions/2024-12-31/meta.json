@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2016-03-17-n1:2024-12-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/03/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/12/2024 : R\u00E8glement grand-ducal du 17 mars 2016 \u00E9tablissant des r\u00E8gles et normes communes concernant les organismes habilit\u00E9s \u00E0 effectuer l\u0027inspection et la visite des navires et les activit\u00E9s pertinentes des administrations maritimes et portant\\n 1. modification du r\u00E8glement grand-ducal du 8 janvier 2015 transposant la directive 2013/30/UE du Parlement europ\u00E9en et du Conseil du 12 juin 2013 relative \u00E0 la s\u00E9curit\u00E9 des op\u00E9rations p\u00E9troli\u00E8res et gazi\u00E8res en mer et modifiant la directive 2004/35/CE;\\n 2. abrogation du r\u00E8glement grand-ducal du 8 septembre 1997 transposant la directive 94/57/CE \u00E9tablissant des r\u00E8gles et normes communes concernant les organismes habilit\u00E9s \u00E0 effectuer l\u0027inspection et la visite des navires et les activit\u00E9s pertinentes des administrations maritimes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/03/17/n1/consolide/20241231/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/03/17/n1/consolide/20241231/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1b2070388930aa7ab539a41a374a7125d4281807fc5dc72af807a8443b386d68"
+}

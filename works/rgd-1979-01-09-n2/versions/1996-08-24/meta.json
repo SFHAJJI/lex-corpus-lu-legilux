@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1979-01-09-n2:1996-08-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1996-08-24",
+  "valid_to": "2021-01-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-05-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1996-08-24",
+      "valid_to": "2021-01-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/08/1996 : R\u00E8glement grand-ducal du 9 janvier 1979 concernant la proc\u00E9dure des saisies-arr\u00EAts et cessions sur les r\u00E9mun\u00E9rations de travail et les pensions et rentes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/19960824/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/19960824/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7e4835580540acef0b13135eb0a37a071e991f79a9e7e8393dc5169a2b3fdaac"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2002-09-20-n6:2011-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/09/20/n6",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2011-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-07-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-09-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2011 : R\u00E8glement grand-ducal du 20 septembre 2002 \\n - cr\u00E9ant un Centre de s\u00E9jour provisoire pour \u00E9trangers en situation irr\u00E9guli\u00E8re, et \\n - modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 24 mars 1989 concernant l\u2019administration et le r\u00E9gime interne des \u00E9tablissements p\u00E9nitentiaires.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/09/20/n6/consolide/20110915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/09/20/n6/consolide/20110915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9e67c24bcc3637d089305005e79e3fa29a70b55e4cb3f7e01ee3066b0b60e271"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2018-05-30-a446:2025-07-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-07-12",
+  "valid_to": "2025-09-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-07-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-12",
+      "valid_to": "2025-09-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/07/2025 : Loi du 30 mai 2018 relative aux march\u00E9s d\u2019instruments financiers et portant :\\n1. transposition de la directive 2014/65/UE du Parlement europ\u00E9en et du Conseil du 15 mai 2014 concernant les march\u00E9s d\u2019instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE ;\\n2. transposition de l\u2019article 6 de la directive d\u00E9l\u00E9gu\u00E9e (UE) 2017/593 de la Commission du 7 avril 2016 compl\u00E9tant la directive 2014/65/UE du Parlement europ\u00E9en et du Conseil en ce qui concerne la sauvegarde des instruments financiers et des fonds des clients, les obligations applicables en mati\u00E8re de gouvernance des produits et les r\u00E8gles r\u00E9gissant l\u0027octroi ou la perception de droits, de commissions ou de tout autre avantage p\u00E9cuniaire ou non p\u00E9cuniaire ;\\n3. mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 600/2014 du Parlement europ\u00E9en et du Conseil du 15 mai 2014 concernant les march\u00E9s d\u2019instruments financiers et modifiant le r\u00E8glement (UE) n\u00B0 648/2012 ;\\n4. modification de :\\na) la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier ;\\nb) la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier ;\\nc) la loi modifi\u00E9e du 5 ao\u00FBt 2005 sur les contrats de garantie financi\u00E8re ;\\nd) la loi modifi\u00E9e du 7 d\u00E9cembre 2015 sur le secteur des assurances ; et de\\ne) la loi du 15 mars 2016 relative aux produits d\u00E9riv\u00E9s de gr\u00E9 \u00E0 gr\u00E9, aux contreparties centrales et aux r\u00E9f\u00E9rentiels centraux et modifiant diff\u00E9rentes lois relatives aux services financiers ; et\\n5. abrogation de la loi modifi\u00E9e du 13 juillet 2007 relative aux march\u00E9s d\u2019instruments financiers, \u00E0 l\u2019exception de son article 37",
+      "title_short": "Loi du 30 mai 2018 relative aux march\u00E9s d\u2019instruments financiers.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20250712/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/30/a446/consolide/20250712/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6629217025419072f016beb780bb8f0e4e54b03bb55d325838f9e61b12ed626a"
+}

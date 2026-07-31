@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2020-06-20-a538:2023-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 20 juin 2020 portant\\n1\u00B0 d\u00E9rogation temporaire \u00E0 certaines dispositions en mati\u00E8re de droit du travail en relation avec l\u2019\u00E9tat de crise li\u00E9 au Covid-19 ;\\n2\u00B0 modification du Code du travail.\\n",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20230101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20230101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "86c515686f7d153dd901b7b43cf9ca74da6eba18a946724e0865fd55f5074a24"
+}

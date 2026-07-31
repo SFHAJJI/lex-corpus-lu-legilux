@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2008-09-05-n5:2022-06-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-06-06",
+  "valid_to": "2024-03-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-10-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-06-06",
+      "valid_to": "2024-03-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/06/2022 : R\u00E8glement grand-ducal du 5 septembre 2008 relatif \u00E0 la composition et au fonctionnement 1. de la commission consultative des \u00E9trangers; 2. de la commission consultative pour travailleurs salari\u00E9s; 3. de la commission consultative pour travailleurs ind\u00E9pendants.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20220606/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20220606/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1f601d338864f4785436c14c913aadd9f12ba18f869a5c602db0c1389f7e314b"
+}

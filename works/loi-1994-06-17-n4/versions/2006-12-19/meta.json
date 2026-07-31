@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1994-06-17-n4:2006-12-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1994/06/17/n4",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2006-12-19",
+  "valid_to": "2009-01-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2006-12-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-12-19",
+      "valid_to": "2009-01-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/2005 : Loi du 17 juin 1994 relative \u00E0 la pr\u00E9vention et \u00E0 la gestion des d\u00E9chets.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n4/consolide/20061219/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n4/consolide/20061219/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "272b9dcf150df5fa5d88c41ed960975b04f68f88fe2a99bc5fcd5d32eecd3735"
+}

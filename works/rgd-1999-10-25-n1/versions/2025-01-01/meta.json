@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:rgd-1999-10-25-n1:2025-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-01-01",
+  "valid_to": "2026-06-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-01-01",
+      "valid_to": "2026-06-21",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20250101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20250101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "061cd13408808fa4a42432e9b064eea9eba0613b3d81518bd501ed1694a93434"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rmin-2020-11-10-a897:2020-11-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/2020/11/10/a897",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "2020-11-17",
+  "valid_to": "2020-11-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-11-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-11-17",
+      "valid_to": "2020-11-18",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/11/2020 : R\u00E8glement minist\u00E9riel du 10 novembre 2020 portant interdiction de vol des a\u00E9ronefs sans \u00E9quipage \u00E0 bord le 17 novembre 2020 dans l\u2019espace a\u00E9rien d\u00E9nomm\u00E9 \u00AB\u00A0Stade Josy Barthel\u00A0\u00BB.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2020/11/10/a897/consolide/20201117/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/2020/11/10/a897/consolide/20201117/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5fd1073c0a30785e4ebfe34674a2bf1d4282bc5fca6a7eb222a1c2f00595c61b"
+}

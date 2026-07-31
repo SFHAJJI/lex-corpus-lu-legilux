@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:code-education_nationale:2026-08-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/education_nationale",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2026-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-07-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-01",
+      "valid_time_source": "publisher",
+      "title": "Code de l\u0027\u00E9ducation nationale",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/education_nationale/20260801/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/education_nationale/20260801/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f186ee33f9eee07bb636029f8b8c9fa772d627d4586eab9d49e3f673eb3fd981"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2012-12-26-n14:2021-11-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-11-01",
+  "valid_to": "2023-05-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-05-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-11-01",
+      "valid_to": "2023-05-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/2021 : R\u00E8glement grand-ducal du 26 d\u00E9cembre 2012 fixant le tarif des pr\u00E9parations gal\u00E9niques et les honoraires des pharmaciens.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20211101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20211101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4bc9128fa0e86cc7855e3fa735af3ea487ae1cb0b6f0a7bc8216a26f6aafe0a1"
+}

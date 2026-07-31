@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2019-03-01-a116:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-06-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2023 : R\u00E8glement grand-ducal du 1er mars 2019 portant fixation des indemnit\u00E9s et des jetons de pr\u00E9sence revenant aux membres des conseils d\u2019administration et aux commissaires du Gouvernement des centres de recherche publics.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9d5c0ed0888815e65f647d42ff901c6888ee381f64ede3d486b3ae4b1cf51f50"
+}

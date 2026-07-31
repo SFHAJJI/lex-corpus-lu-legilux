@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2013-03-29-n10:2018-08-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2013/03/29/n10",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-08-20",
+  "valid_to": "2025-09-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-10-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-08-20",
+      "valid_to": "2025-09-23",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/08/2018 : Loi du 29 mars 2013 relative \u00E0 l\u2019organisation du casier judiciaire et aux \u00E9changes d\u2019informations extraites du casier judiciaire entre les Etats membres de l\u2019Union europ\u00E9enne et modifiant: \\n1) le Code d\u2019instruction criminelle; \\n2) le Code p\u00E9nal; \\n3) la loi modifi\u00E9e du 13 juillet 1949 ayant pour objet de majorer certains droits d\u2019enregistrement et de timbre et des taxes diverses; \\n4) la loi modifi\u00E9e du 12 janvier 1955 portant amnistie de certains faits punissables et commutation de certaines peines en mati\u00E8re d\u2019attentat contre la s\u00FBret\u00E9 ext\u00E9rieure de l\u2019Etat ou de concours \u00E0 des mesures de d\u00E9possession prises par l\u2019ennemi et instituant des mesures de cl\u00E9mence en mati\u00E8re d\u2019\u00E9puration administrative; \\n5) la loi modifi\u00E9e du 7 mars 1980 sur l\u2019organisation judiciaire.",
+      "title_short": "Loi du 29 mars 2013 relative \u00E0 l\u2019organisation du casier judiciaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n10/consolide/20180820/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n10/consolide/20180820/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "250b10d3978fbdfc0e46fa98999266bb7f6834a12a2b14d1e1e334dd20dffcfa"
+}

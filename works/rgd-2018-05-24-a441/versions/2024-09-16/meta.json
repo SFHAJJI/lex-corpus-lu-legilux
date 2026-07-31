@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-05-24-a441:2024-09-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/24/a441",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-09-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/09/2024 : R\u00E8glement grand-ducal du 24 mai 2018 portant sur les mati\u00E8res obligatoires et les mati\u00E8res \u00E0 option des diff\u00E9rentes sections et classes et sur l\u2019organisation et le programme de l\u2019examen de fin d\u2019\u00E9tudes secondaires de l\u2019enseignement secondaire classique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/24/a441/consolide/20240916/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/24/a441/consolide/20240916/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cb02acfefc79ae0802c86b3d5a3fbf601a602d4ffcf07c40fc05f64f0e022b27"
+}

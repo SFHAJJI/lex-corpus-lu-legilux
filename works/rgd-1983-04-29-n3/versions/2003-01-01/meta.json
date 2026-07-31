@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1983-04-29-n3:2003-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2003-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2003-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2003 : R\u00E8glement grand-ducal du 29 avril 1983 fixant la composition et le fonctionnement de la commission d\u0027experts charg\u00E9e de donner son avis sur les demandes d\u0027autorisation de mise sur le march\u00E9 des sp\u00E9cialit\u00E9s pharmaceutiques et des m\u00E9dicaments pr\u00E9fabriqu\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f626b590c5aba53e656e1196b15b2332f5990a5643b4d7ae1df23e29940a750d"
+}

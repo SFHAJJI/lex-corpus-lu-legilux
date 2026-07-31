@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2004-09-17-n1:2012-10-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2012-10-19",
+  "valid_to": "2024-11-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-02-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-10-19",
+      "valid_to": "2024-11-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 19/10/2012 : R\u00E8glement grand-ducal du 17 septembre 2004 fixant les conditions et modalit\u00E9s de l\u0027octroi d\u0027avances temporaires de fonds pour le paiement de d\u00E9penses de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20121019/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20121019/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6cf76dad9d99f79133b4a9d94748c02b918a2b1533700d60956968f4c558cd67"
+}

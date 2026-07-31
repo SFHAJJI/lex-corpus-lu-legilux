@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-cours_tribunaux:2020-12-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2020-12-21",
+  "valid_to": "2021-04-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-12-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-21",
+      "valid_to": "2021-04-12",
+      "valid_time_source": "publisher",
+      "title": "Cours et Tribunaux",
+      "title_short": "Cours et Tribunaux",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20201221/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20201221/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4f7dca51e70d6d44d392c1219af78efdd9e633cd7848e4855377a57bc59d416e"
+}

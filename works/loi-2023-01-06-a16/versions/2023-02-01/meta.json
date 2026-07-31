@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2023-01-06-a16:2023-02-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/01/06/a16",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-01-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/02/2023 : Loi du 6 janvier 2023 portant institution d\u2019un cong\u00E9 culturel et modification :\\n1\u00B0 du Code du travail ;\\n2\u00B0 de la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u2019\u00C9tat ;\\n3\u00B0 de la loi modifi\u00E9e du 24 d\u00E9cembre 1985 fixant le statut g\u00E9n\u00E9ral des fonctionnaires communaux.\\n",
+      "title_short": "Loi du 6 janvier 2023 portant institution d\u2019un cong\u00E9 culturel.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/06/a16/consolide/20230201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/06/a16/consolide/20230201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "35c4cec9004686995776fd53f54df8a57bdf46dc77822c753fa94d34ceda34af"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1924-11-22-n1:1988-10-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1924/11/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1988-10-12",
+  "valid_to": "2003-11-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1988-10-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1988-10-12",
+      "valid_to": "2003-11-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/1987 : Arr\u00EAt\u00E9 grand-ducal du 22 novembre 1924 pris en ex\u00E9cution de la loi du 4 avril 1924 et portant r\u00E8glement de la proc\u00E9dure \u00E9lectorale pour les chambres professionnelles \u00E0 base \u00E9lective.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1924/11/22/n1/consolide/19881012/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1924/11/22/n1/consolide/19881012/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cb9c4416b7800b4a7a1258b8ebae221f83762abc032f980081eeb7f008e07a6e"
+}

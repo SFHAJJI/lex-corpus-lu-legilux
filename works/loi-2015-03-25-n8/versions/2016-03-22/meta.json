@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2015-03-25-n8:2016-03-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-03-22",
+  "valid_to": "2018-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-09-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-03-22",
+      "valid_to": "2018-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/03/2016 : Loi du 25 mars 2015 d\u00E9terminant le r\u00E9gime et les indemnit\u00E9s des employ\u00E9s de l\u2019Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20160322/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20160322/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "753d7b78cfc921773482a9ed32e9b5778f16d813d91cd3d5af1b32d2626ee943"
+}

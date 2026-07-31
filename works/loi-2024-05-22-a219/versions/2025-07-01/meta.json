@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2024-05-22-a219:2025-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2024/05/22/a219",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-07-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2025 : Loi du 22 mai 2024 portant introduction d\u2019un paquet de mesures en vue de la relance du march\u00E9 du logement et portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 22 frimaire an VII organique de l\u2019enregistrement ;\\n2\u00B0 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu ;\\n3\u00B0 de la loi modifi\u00E9e du 7 ao\u00FBt 2023 relative aux aides individuelles au logement ;\\n4\u00B0 de la loi du 7 ao\u00FBt 2023 relative au logement abordable.\\n",
+      "title_short": "Loi du 22 mai 2024 portant introduction d\u2019un paquet de mesures en vue de la relance du march\u00E9 du logement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2024/05/22/a219/consolide/20250701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2024/05/22/a219/consolide/20250701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3298cacf01bf4226c13516b57e7775ef03c4aa292e474472ae86e4aa32f7cd87"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-10-06-a947:2021-06-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/10/06/a947",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-06-01",
+  "valid_to": "2023-12-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-06-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-06-01",
+      "valid_to": "2023-12-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/06/2021 : R\u00E8glement grand-ducal du 6 octobre 2018 concernant le statut du personnel de la Caisse pour l\u2019avenir des enfants.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/06/a947/consolide/20210601/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/06/a947/consolide/20210601/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "eb11ecdf78472d52f3a6581192ca30ec5510f982bf1874b06e6928ec7f377543"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-cours_tribunaux:2025-07-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2025-07-28",
+  "valid_to": "2025-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-08-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-28",
+      "valid_to": "2025-09-16",
+      "valid_time_source": "publisher",
+      "title": "Cours et Tribunaux",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20250728/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20250728/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "04922b7065a40f6179945e9a76602c4d7bc2e33061decd9ceb2d5c881106982e"
+}
