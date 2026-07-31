@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2020-12-19-a1039:2021-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1039",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-07-01",
+  "valid_to": "2022-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-07-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-07-01",
+      "valid_to": "2022-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2021 : Loi du 19 d\u00E9cembre 2020 portant d\u00E9rogation temporaire \u00E0 l\u2019article L. 121-6 du Code du travail.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1039/consolide/20210701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1039/consolide/20210701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e14b40d5b06ed251e7174c57f982be6d09425b616e44ac05ed7120da093e0615"
+}

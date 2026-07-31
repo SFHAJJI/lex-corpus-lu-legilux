@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1983-03-09-n1:1988-08-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1983/03/09/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1988-08-16",
+  "valid_to": "1999-07-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1989-06-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1988-08-16",
+      "valid_to": "1999-07-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/12/1987 : Loi du 9 mars 1983 portant cr\u00E9ation d\u0027un Institut de formation administrative.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/03/09/n1/consolide/19880816/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/03/09/n1/consolide/19880816/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2825458020c6cbc8f03cdb2b4885c1dfc9042e7ee0206dc3d6877bfe808d33fd"
+}

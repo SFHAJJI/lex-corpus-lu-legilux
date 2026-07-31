@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2000-07-28-n2:2022-12-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-12-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-09-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-08",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/12/2022 : Loi du 28 juillet 2000 ayant pour objet la coordination des r\u00E9gimes l\u00E9gaux de pension et modifiant a) le Code des assurances sociales, b) la loi modifi\u00E9e du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat, c) la loi du 3 ao\u00FBt 1998 instituant des r\u00E9gimes de pension sp\u00E9ciaux pour les fonctionnaires de l\u0027Etat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20221208/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20221208/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "426c534cdf7490a753624d8bdd76dcb4670f1b440243a24a924508794722398a"
+}

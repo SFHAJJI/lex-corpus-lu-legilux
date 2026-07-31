@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-07-15-a357:2023-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/07/15/a357",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 15 juillet 2022 visant \u00E0 mettre en place un r\u00E9gime d\u2019aides sous forme de garanties en faveur de l\u2019\u00E9conomie luxembourgeoise \u00E0 la suite de l\u2019agression de la Russie contre l\u2019Ukraine.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a357/consolide/20230101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a357/consolide/20230101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ecd3a99a86b0a7381bda6340bc5646dc4fa4de845543dc400d91765d56020ffb"
+}

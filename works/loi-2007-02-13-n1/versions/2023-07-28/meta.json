@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2007-02-13-n1:2023-07-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/07/2023 : Loi du 13 f\u00E9vrier 2007 relative aux fonds d\u0027investissement sp\u00E9cialis\u00E9s et portant\\n - modification de la loi modifi\u00E9e du 20 d\u00E9cembre 2002 relative aux organismes de placement collectif,\\n - modification de la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e.",
+      "title_short": "Loi du 13 f\u00E9vrier 2007 relative aux fonds d\u0027investissement sp\u00E9cialis\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2400607ceaacb2925a4432f59af7599867d13744aa450c941295078fa330f5d8"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1977-04-20-n7:1998-09-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1998-09-14",
+  "valid_to": "2002-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-03-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1998-09-14",
+      "valid_to": "2002-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 14/09/1998 : Loi du 20 avril 1977 relative \u00E0 l\u0027exploitation des jeux de hasard et des paris relatifs aux \u00E9preuves sportives.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/19980914/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/19980914/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3242c7ee6cb97fb51751d784803c60a52c48f981640c796519b18228ba38d88f"
+}

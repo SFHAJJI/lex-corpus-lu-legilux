@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-1993-04-05-n1:2024-12-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2024-12-28",
+  "valid_to": "2025-09-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-28",
+      "valid_to": "2025-09-29",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/consolide/20241228",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/consolide/20241228"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "355f8ce569cf0464fc69a51c42c7924c5237d60ee0d0658f485b605913092100"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-11-06-n4:2015-02-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2015-02-22",
+  "valid_to": "2016-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-09-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-02-22",
+      "valid_to": "2016-12-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/02/2015 : R\u00E8glement grand-ducal du 6 novembre 2009 fixant l\u0027organisation de l\u0027administration des contributions directes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20150222/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20150222/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2aace7913211382253a7f4bca3acbb45312e036d6980e0c9c2645aa8950405f4"
+}

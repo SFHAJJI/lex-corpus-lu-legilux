@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2018-06-27-a587:2023-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-09-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2023 : Loi du 27 juin 2018 ayant pour objet l\u2019organisation de l\u2019Universit\u00E9 du Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587/consolide/20230915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/06/27/a587/consolide/20230915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "461c2b0f9355933541fb7c3afa4ab1eb1b20a3875a1dea5069681e787dadf080"
+}

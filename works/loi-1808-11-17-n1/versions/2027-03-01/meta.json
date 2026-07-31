@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-1808-11-17-n1:2027-03-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1808/11/17/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2027-03-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2027-03-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20270301",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20270301"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "46166948e33830fe08e1fda9b62a5c59fd8586b0d9a80f41ebf4ba99c80e3dcc"
+}

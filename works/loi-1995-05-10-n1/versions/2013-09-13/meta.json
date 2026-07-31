@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1995-05-10-n1:2013-09-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2013-09-13",
+  "valid_to": "2014-05-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2013-09-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-09-13",
+      "valid_to": "2014-05-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/2012 : Loi du 10 mai 1995 relative \u00E0 la gestion de l\u0027infrastructure ferroviaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1/consolide/20130913/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1995/05/10/n1/consolide/20130913/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a8ba28e8905d757f19a7a9ba3e8f22012c7353f8a788cf3d6d67af6ac5779440"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-08-02-a698:2018-06-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-06-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-04-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-06-30",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 30/06/2018 : R\u00E8glement grand-ducal du 2 ao\u00FBt 2017 d\u00E9terminant les d\u00E9tails des crit\u00E8res de classement ainsi que les modalit\u00E9s des proc\u00E9dures d\u2019affectation et de r\u00E9affectation des membres de la r\u00E9serve des auxiliaires \u00E9ducatifs de l\u2019enseignement fondamental.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cb339a32afc6822f5b3d882ce6e724dd582a6a08ea6d8680c56eebef69bf5cfe"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-administrations_publics:2022-12-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/administrations_publics",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2022-12-23",
+  "valid_to": "2023-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-12-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-23",
+      "valid_to": "2023-01-01",
+      "valid_time_source": "publisher",
+      "title": "Administrations, Services et \u00C9tablissements publics",
+      "title_short": "Administrations, Services et \u00C9tablissements publics",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/administrations_publics/20221223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/administrations_publics/20221223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "37132ebb7ed7c606e8b5ff3ff33982799c0ac6e7cb3676b747b0dc42a9a011cd"
+}

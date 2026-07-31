@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2005-01-26-n1:2006-08-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2006-08-14",
+  "valid_to": "2008-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-05-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-08-14",
+      "valid_to": "2008-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 14/08/2006 : R\u00E8glement grand-ducal du 26 janvier 2005 fixant les modalit\u00E9s pour l\u0027obtention d\u0027un titre de voyage pour \u00E9trangers.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20060814/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20060814/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b9dddd004139427e9947deb8e56978bb0b5c9d281b77dd75dad63e1bdbd8c0d1"
+}

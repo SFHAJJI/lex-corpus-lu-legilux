@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2012-09-18-n4:2024-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-09-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 18 septembre 2012 concernant la composition, l\u2019organisation et le fonctionnement de l\u2019observatoire de l\u2019eau.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n4/consolide/20240101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n4/consolide/20240101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "946d0a47f69f6db09ade494a7eceb12cd36df140b88e843ea3896dc972c74fc3"
+}

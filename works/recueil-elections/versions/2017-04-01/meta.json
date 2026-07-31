@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-elections:2017-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/elections",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2017-04-01",
+  "valid_to": "2017-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2017-04-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-04-01",
+      "valid_to": "2017-08-01",
+      "valid_time_source": "publisher",
+      "title": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
+      "title_short": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20170401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20170401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3af0a27269939cf04ff3d4e32161b4a0d6bb31988944b8917cffdffe98871c51"
+}

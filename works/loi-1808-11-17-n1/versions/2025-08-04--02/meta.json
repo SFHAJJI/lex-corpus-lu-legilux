@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-1808-11-17-n1:2025-08-04--02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1808/11/17/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-08-04",
+  "valid_to": "2025-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-08-04",
+      "valid_to": "2025-12-19",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1808/11/17/n1/consolide/20250804",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1808/11/17/n1/consolide/20250804"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c9c15397c85308d099189fd2e4076e0119cdf6e8d65c68ca24c4bba36ae187d7"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1972-03-28-n1:1995-10-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1995-10-06",
+  "valid_to": "1996-11-23",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1996-02-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1995-10-06",
+      "valid_to": "1996-11-23",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/1994 : Loi du 28 mars 1972 concernant\n1. l\u0027entr\u00E9e et le s\u00E9jour des \u00E9trangers;\n2. le contr\u00F4le m\u00E9dical des \u00E9trangers;\n3. l\u0027emploi de la main-d\u0027oeuvre \u00E9trang\u00E8re.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1/consolide/19951006/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1/consolide/19951006/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "54ba5db30fd519ca57ab8296d15e2c235ea2a5f73728dbdfd48d472a78e4fa90"
+}

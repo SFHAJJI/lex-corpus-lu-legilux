@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1980-06-26-n4:1986-07-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1980/06/26/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1986-07-04",
+  "valid_to": "1998-04-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1986-08-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1986-07-04",
+      "valid_to": "1998-04-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/1985 : R\u00E8glement grand-ducal du 26 juin 1980 concernant l\u0027\u00E9limination des polychlorobiph\u00E9nyles et des polychloroterph\u00E9nyles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1980/06/26/n4/consolide/19860704/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1980/06/26/n4/consolide/19860704/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c1c4855e3e515a9b8e49b231126bc018ad48f5f721f48ed0228f08d4451a8af4"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1976-06-21-n1:1998-04-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/06/21/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1998-04-07",
+  "valid_to": "2011-05-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1998-04-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1998-04-07",
+      "valid_to": "2011-05-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/12/1997 : Loi du 21 juin 1976 relative \u00E0 la lutte contre la pollution de l\u0027atmosph\u00E8re.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n1/consolide/19980407/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n1/consolide/19980407/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d694376fa22862868babbc047da5753e3311fc6d5a465e139bc9d35710e53f99"
+}

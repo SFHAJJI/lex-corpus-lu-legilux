@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-05-30-a455:2018-11-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-11-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-03-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-11-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/11/2018 : R\u00E8glement grand-ducal du 30 mai 2018 relatif aux modalit\u00E9s d\u2019application :\\n1\u00B0 du r\u00E8glement (CE) n\u00B0 1760/2000 du Parlement europ\u00E9en et du Conseil du 17 juillet 2000 \u00E9tablissant un syst\u00E8me d\u0027identification et d\u0027enregistrement des bovins et concernant l\u0027\u00E9tiquetage de la viande bovine et des produits \u00E0 base de viande bovine, et abrogeant le r\u00E8glement (CE) n\u00B0 820/97 du Conseil, tel que modifi\u00E9 ; et\\n2\u00B0 du r\u00E8glement (CE) n\u00B0 911/2004 de la Commission du 29 avril 2004 portant dispositions d\u0027ex\u00E9cution du r\u00E8glement (CE) n\u00B0 1760/2000 du Parlement europ\u00E9en et du Conseil en ce qui concerne les marques auriculaires, les passeports et les registres d\u0027exploitation, tel que modifi\u00E9.",
+      "title_short": "R\u00E8glement grand-ducal du 30 mai 2018 \u00E9tablissant un syst\u00E8me d\u2019identification et d\u2019enregistrement des bovins",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "056f37d81886b5909b57660b7020f1a19f99408b7b5baf6514ce3df485261745"
+}

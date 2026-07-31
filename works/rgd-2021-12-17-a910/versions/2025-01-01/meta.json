@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-12-17-a910:2025-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/12/17/a910",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-03-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2021 portant ex\u00E9cution de l\u2019article 137, alin\u00E9a 5a et de l\u2019article 143, alin\u00E9a 1er de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/17/a910/consolide/20250101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/17/a910/consolide/20250101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8f8e1a3f65783a3a0b8063bf16d402a484e03ae4ef6948ec6dc7a16f179fb923"
+}

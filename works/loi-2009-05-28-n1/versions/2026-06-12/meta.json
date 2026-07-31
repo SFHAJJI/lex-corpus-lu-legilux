@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2009-05-28-n1:2026-06-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/28/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-06-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-06-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-06-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/06/2026 : Loi du 28 mai 2009 portant cr\u00E9ation et organisation du Centre de r\u00E9tention et modifiant\\n 1. le Code de la s\u00E9curit\u00E9 sociale;\\n 2. la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019Etat;\\n 3. la loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n1/consolide/20260612/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/28/n1/consolide/20260612/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "50fc8b4b0267cf9e71956831d5e3ee240b7b94bb158e3972255761246180ab87"
+}

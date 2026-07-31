@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2015-03-25-n7:2018-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-09-01",
+  "valid_to": "2025-12-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-05-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-09-01",
+      "valid_to": "2025-12-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2018 : Loi du 25 mars 2015 fixant les conditions et modalit\u00E9s selon lesquelles le fonctionnaire de l\u0027Etat peut changer d\u0027administration.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/consolide/20180901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n7/consolide/20180901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8e904e162308ca20d647a14f85e4427d0a43661a9f97679ca66264312dcb2939"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1997-06-17-n1:2011-02-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/06/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2011-02-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-02-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/02/2011 : R\u00E8glement grand-ducal du 17 juin 1997 concernant la p\u00E9riodicit\u00E9 des examens m\u00E9dicaux en mati\u00E8re de m\u00E9decine du travail.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/06/17/n1/consolide/20110212/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1997/06/17/n1/consolide/20110212/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3a8d45d6c0146d1fe5d0a981f51917f5c6530ee1dacf827b6ae2c28e1d28e2e9"
+}

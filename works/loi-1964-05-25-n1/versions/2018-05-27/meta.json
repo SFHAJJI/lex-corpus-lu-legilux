@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1964-05-25-n1:2018-05-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1964/05/25/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-05-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-05-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/05/2018 : Loi du 25 mai 1964 concernant le remembrement des biens ruraux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1964/05/25/n1/consolide/20180527/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1964/05/25/n1/consolide/20180527/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bc347007edf6760cd20effe1f280bb809b746ae3d94c74f4ebd274d642a1803e"
+}

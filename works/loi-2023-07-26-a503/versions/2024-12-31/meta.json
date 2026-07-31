@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2023-07-26-a503:2024-12-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/12/2024 : Loi du 26 juillet 2023 relative \u00E0 la mise en \u0153uvre du r\u00E8glement (UE) 2017/821 du Parlement europ\u00E9en et du Conseil du 17 mai 2017 fixant des obligations li\u00E9es au devoir de diligence \u00E0 l\u2019\u00E9gard de la cha\u00EEne d\u2019approvisionnement pour les importateurs de l\u2019Union qui importent de l\u2019\u00E9tain, du tantale et du tungst\u00E8ne, leurs minerais et de l\u2019or provenant de zones de conflit ou \u00E0 haut risque.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/consolide/20241231/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/26/a503/consolide/20241231/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "377547d07f36dcb1fd8b5b49ba1514d95724a2ec3ad2bd44ea184e9fab1a1807"
+}

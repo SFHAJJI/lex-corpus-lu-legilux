@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2003-09-12-n1:2023-07-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-10",
+  "valid_to": "2023-07-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-07-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-10",
+      "valid_to": "2023-07-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/07/2023 : Loi du 12 septembre 2003 relative aux personnes handicap\u00E9es et portant modification 1. de la loi modifi\u00E9e du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat, 2. de la loi du 22 avril 1966 portant r\u00E9glementation uniforme du cong\u00E9 annuel pay\u00E9 des salari\u00E9s du secteur priv\u00E9, 3. de la loi modifi\u00E9e du 12 mars 1973 portant r\u00E9forme du salaire social minimum, 4. de la loi modifi\u00E9e du 30 juin 1976 portant 1. cr\u00E9ation d\u0027un fonds pour l\u0027emploi; 2. r\u00E9glementation de l\u0027octroi des indemnit\u00E9s de ch\u00F4mage complet, 5. de la loi modifi\u00E9e du 19 juin 1985 concernant les allocations familiales et portant cr\u00E9ation de la caisse nationale des prestations familiales, 6. de la loi modifi\u00E9e du 27 juillet 1987 concernant l\u0027assurance pension en cas de vieillesse, d\u0027invalidit\u00E9 et de survie, 7. de la loi modifi\u00E9e du 3 ao\u00FBt 1998 instituant des r\u00E9gimes sp\u00E9ciaux pour les fonctionnaires de l\u0027Etat et des communes ainsi que pour les agents de la SNCFL, 8. de la loi modifi\u00E9e du 28 juillet 2000 ayant pour objet la coordination des r\u00E9gimes l\u00E9gaux de pension et 9. le CAS.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/consolide/20230710/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/09/12/n1/consolide/20230710/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "526f45721b2aabaa29bf57ab44bc289d37029c82db9402fe700f95e101991824"
+}

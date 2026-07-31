@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2006-07-31-n2:2025-04-01--02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2006/07/31/n2",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-04-01",
+  "valid_to": "2025-06-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-04-01",
+      "valid_to": "2025-06-28",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/31/n2/consolide/20250401",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/31/n2/consolide/20250401"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3e9051ac3c8c6016bd380294627c1d7508138189e0b540248ac0fed35d2c7721"
+}

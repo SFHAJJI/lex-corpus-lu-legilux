@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-05-24-a545:2020-12-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/24/a545",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-12-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-11-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 13/12/2020 : R\u00E8glement grand-ducal du 24 mai 2017 instituant des r\u00E9gimes d\u2019aide en faveur de m\u00E9thodes de production agricole respectueuses de l\u2019environnement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/24/a545/consolide/20201213/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/24/a545/consolide/20201213/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1776351b1faebfdd6ec3bf6ad054bb703c1559f1c3b0bf9711367fb600b236a0"
+}

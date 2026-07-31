@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-03-18-a165:2020-05-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/18/a165",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-05-27",
+  "valid_to": "2020-05-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-05-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-05-27",
+      "valid_to": "2020-05-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/05/2020 : R\u00E8glement grand-ducal du 18 mars 2020 portant introduction d\u2019une s\u00E9rie de mesures dans le cadre de la lutte contre le Covid-19.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/18/a165/consolide/20200527/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/18/a165/consolide/20200527/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c04427303a224bdd3ae4b1cefe53e2d5f357864b8660b63b1dcf7e88c62b32ec"
+}

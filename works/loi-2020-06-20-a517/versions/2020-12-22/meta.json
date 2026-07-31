@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2020-06-20-a517:2020-12-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a517",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-12-22",
+  "valid_to": "2020-12-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-12-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-22",
+      "valid_to": "2020-12-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/12/2020 : Loi du 20 juin 2020 portant d\u00E9rogation \u00E0 l\u2019article 3, paragraphe 5, de la loi modifi\u00E9e du 21 septembre 2006 sur le bail \u00E0 usage d\u2019habitation et modifiant certaines dispositions du Code civil.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a517/consolide/20201222/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a517/consolide/20201222/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b28f546f45e7e97e2f05cdd9e05083d02b289006827bd21ff401efbc935916c8"
+}

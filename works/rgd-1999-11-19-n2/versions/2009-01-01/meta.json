@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1999-11-19-n2:2009-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2009-01-01",
+  "valid_to": "2025-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-01-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2009-01-01",
+      "valid_to": "2025-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2009 : R\u00E8glement grand-ducal du 19 novembre 1999 portant ex\u00E9cution de l\u0027article 137, alin\u00E9a 5 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu. (Imposition forfaitaire du personnel de m\u00E9nage)",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n2/consolide/20090101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/11/19/n2/consolide/20090101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "035814c4d7c729d7240432a5334eed20b6ca567eaad168cc778045a4b8992de6"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-inap:2022-03-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/inap",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2022-03-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-03-24",
+      "valid_time_source": "publisher",
+      "title": "Institut national d\u0027administration publique",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/inap/20220324/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/inap/20220324/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "99c9f862e246d027275a28f530d4a456daf16b2de07316b119da9b88bf2e71c6"
+}

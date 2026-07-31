@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1802-04-08-n1:1998-08-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1998-08-24",
+  "valid_to": "2018-05-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1998-08-24",
+      "valid_to": "2018-05-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/08/1998 : Loi du 18 Germinal an X (8 avril 1802) relative \u00E0 l\u0027organisation des Cultes. (N\u00B0 1344)",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a5f298f7933d7676b1fa685c817c115aa1714d62c3ddbbf6f6fbe4471b5b33c9"
+}

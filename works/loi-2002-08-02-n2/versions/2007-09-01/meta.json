@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2002-08-02-n2:2007-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2007-09-01",
+  "valid_to": "2011-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2007-08-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2007-09-01",
+      "valid_to": "2011-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/2006 : Loi du 2 ao\u00FBt 2002 relative \u00E0 la protection des personnes \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/consolide/20070901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/08/02/n2/consolide/20070901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2c8282b42aa7076ac4ce13cf661566b2071a99ff9f7bc7dac65545e3da3f744e"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2023-02-21-a95:2025-07-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-07-02",
+  "valid_to": "2026-04-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-04-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-02",
+      "valid_to": "2026-04-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/07/2025 : R\u00E8glement grand-ducal du 21 f\u00E9vrier 2023 relatif \u00E0 la participation de l\u2019Arm\u00E9e luxembourgeoise au groupement tactique alli\u00E9 en Roumanie dans le cadre des activit\u00E9s de vigilance renforc\u00E9e (enhanced vigilance activities \u2013 eVA) de l\u2019OTAN.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/20250702/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/20250702/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6989fab948a7a3cce62c37e5ec702b77a249710756b578d4b7f4da5dc85aa08d"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2006-12-22-n9:2024-02-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-02-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-04-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-02-05",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 05/02/2024 : R\u00E8glement grand-ducal du 22 d\u00E9cembre 2006 d\u00E9terminant:\\n 1. les modalit\u00E9s et les limites de la prise en charge des aides techniques par l\u0027assurance d\u00E9pendance;\\n 2. les modalit\u00E9s et les limites de la prise en charge des adaptations du logement par l\u0027assurance d\u00E9pendance;\\n 3. les modalit\u00E9s et les limites de la prise en charge par l\u2019assurance d\u00E9pendance des aides techniques pour les personnes b\u00E9n\u00E9ficiaires de soins palliatifs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/consolide/20240205/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/12/22/n9/consolide/20240205/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "eaeb905ebac629f6a29140625ffb20169da2bb7a2659994d8209d20ab1071d41"
+}

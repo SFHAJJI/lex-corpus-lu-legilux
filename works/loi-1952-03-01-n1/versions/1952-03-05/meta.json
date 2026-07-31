@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1952-03-01-n1:1952-03-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1952-03-05",
+  "valid_to": "1967-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-03-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1952-03-05",
+      "valid_to": "1967-12-19",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 05/03/1952 : Loi du 1er mars 1952 modifiant certaines dispositions relatives aux imp\u00F4ts directs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19520305/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19520305/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a49b0e92aff9cd9af6f6a768089367bd7ebc9ffa597c63430ca023ef798d9549"
+}

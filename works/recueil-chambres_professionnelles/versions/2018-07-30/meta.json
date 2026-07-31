@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-chambres_professionnelles:2018-07-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2018-07-30",
+  "valid_to": "2018-08-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2018-07-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-07-30",
+      "valid_to": "2018-08-04",
+      "valid_time_source": "publisher",
+      "title": "Chambres professionnelles",
+      "title_short": "Chambres professionnelles",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20180730/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20180730/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6715f31acb41d389a826e193a919a24f6d443d96c6b1e63f6863955dfc69f2e7"
+}

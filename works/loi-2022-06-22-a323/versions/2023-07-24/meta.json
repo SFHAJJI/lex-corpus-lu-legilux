@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2022-06-22-a323:2023-07-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-08-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/07/2023 : Loi du 22 juin 2022 sur la gestion et le recouvrement des avoirs saisis ou confisqu\u00E9s et modifiant :\\n1\u00B0 le Code p\u00E9nal ;\\n2\u00B0 le Code de proc\u00E9dure p\u00E9nale ;\\n3\u00B0 la loi modifi\u00E9e du 5-15 septembre 1807 sur le privil\u00E8ge \u00E9tabli au profit du Tr\u00E9sor public pour le remboursement des frais de justice en mati\u00E8re criminelle, correctionnelle et de police ;\\n4\u00B0 la loi modifi\u00E9e du 7 mars 1980 sur l\u2019organisation judiciaire ;\\n5\u00B0la loi modifi\u00E9e du 19 d\u00E9cembre 2008 ayant pour objet la coop\u00E9ration interadministrative et Judiciaire et le renforcement des moyens de l\u2019Administration des contributions directes, de l\u2019Administration de l\u2019enregistrement et des domaines et de l\u2019Administration des douanes et accises et portant modification de\\n- la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e ;\\n- la loi g\u00E9n\u00E9rale des imp\u00F4ts (\u00AB\u00A0Abgabenordnung\u00A0\u00BB) ;\\n- la loi modifi\u00E9e du 17 avril 1964 portant r\u00E9organisation de l\u2019Administration des contributions directes ;\\n- la loi modifi\u00E9e du 20 mars 1970 portant r\u00E9organisation de l\u2019Administration de l\u2019enregistrement et des domaines ;\\n- la loi modifi\u00E9e du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d\u2019assurance sociale ;\\n6\u00B0 la loi modifi\u00E9e du 25 mars 2020 instituant un syst\u00E8me \u00E9lectronique central de recherche de donn\u00E9es concernant des comptes de paiement et des comptes bancaires identifi\u00E9s par un num\u00E9ro IBAN et des coffres-forts tenus par des \u00E9tablissements de cr\u00E9dit au Luxembourg en vue de la transposition :\\n- de la d\u00E9cision 2007/845/JAI du Conseil du 6 d\u00E9cembre 2007 relative \u00E0 la coop\u00E9ration entre les bureaux de recouvrement des avoirs des \u00C9tats membres en mati\u00E8re de d\u00E9pistage et d\u2019identification des produits du crime ou des autres biens en rapport avec le crime ;\\n- de certaines dispositions de la directive 2014/42 du Parlement europ\u00E9en et du Conseil du 3 avril 2014 concernant le gel et la confiscation des instruments et des produits du crime dans l\u2019Union europ\u00E9enne ;\\n- de la directive (UE) 2019/1153 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 fixant les r\u00E8gles facilitant l\u2019utilisation d\u2019informations financi\u00E8res et d\u2019une autre nature aux fins de la pr\u00E9vention ou de la d\u00E9tection de certaines infractions p\u00E9nales, ou des enqu\u00EAtes ou des poursuites en la mati\u00E8re, et abrogeant la d\u00E9cision 2000/642/JAI du Conseil.\\n",
+      "title_short": "Loi du 22 juin 2022 portant sur la gestion et le recouvrement des avoirs saisis ou confisqu\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/consolide/20230724/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/06/22/a323/consolide/20230724/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ef8b4851944fc3409e5e12f3b30296e810e286d800c811b0de184f19081bd779"
+}

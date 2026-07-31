@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2015-12-07-n1:2025-02-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-02-10",
+  "valid_to": "2025-02-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-02-10",
+      "valid_to": "2025-02-14",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20250210",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20250210"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e0563420b60974a60b4c3ca1a830773a9aa60826609149c1e43c3b57cf838c17"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-11-12-n5:2012-02-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/12/n5",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2012-02-16",
+  "valid_to": "2018-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2012-03-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-02-16",
+      "valid_to": "2018-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/12/2011 : R\u00E8glement grand-ducal du 12 novembre 2011 portant fixation de la dur\u00E9e normale de travail et des modalit\u00E9s de l\u0027horaire de travail mobile dans les administrations de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/12/n5/consolide/20120216/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/12/n5/consolide/20120216/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f474b8390330d075b64f89816ac56d35e13ea7575ed0c08149ba029c2c91372e"
+}

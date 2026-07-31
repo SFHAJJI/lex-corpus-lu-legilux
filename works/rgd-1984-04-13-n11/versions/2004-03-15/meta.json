@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1984-04-13-n11:2004-03-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2004-03-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-05-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2004-03-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/03/2004 : R\u00E8glement grand-ducal du 13 avril 1984 d\u00E9terminant les pi\u00E8ces contenues dans le dossier personnel des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cb4fdcbd912f4724d8f70517a196b712b99cdedc1e3ec634df1acac02741af6c"
+}

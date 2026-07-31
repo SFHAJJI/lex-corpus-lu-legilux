@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1997-07-27-n6:2016-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2016-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-10-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-09-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2016 : R\u00E8glement grand-ducal du 27 juillet 1997 fixant les modalit\u00E9s d\u0027engagement et les conditions de travail des charg\u00E9s d\u0027\u00E9ducation \u00E0 dur\u00E9e d\u00E9termin\u00E9e des lyc\u00E9es et lyc\u00E9es techniques publics.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/consolide/20160915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n6/consolide/20160915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b26c28a8eb363615f90c68fb7fad084d29e90fe627b407f540d84e6fdab0e655"
+}

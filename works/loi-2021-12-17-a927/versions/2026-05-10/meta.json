@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2021-12-17-a927:2026-05-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/12/17/a927",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-05-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-05-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-05-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/05/2026 : Loi du 17 d\u00E9cembre 2021 portant transposition de la directive (UE) 2018/1972 du Parlement europ\u00E9en et du Conseil du 11 d\u00E9cembre 2018 \u00E9tablissant le code des communications \u00E9lectroniques europ\u00E9en et portant modification de la loi modifi\u00E9e du 30 mai 2005 portant :\\n1) organisation de l\u2019Institut Luxembourgeois de R\u00E9gulation ;\\n2) modification de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019\u00C9tat.\\n",
+      "title_short": "Loi du 17 d\u00E9cembre 2021 sur les r\u00E9seaux et les services de communications \u00E9lectroniques.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a927/consolide/20260510/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a927/consolide/20260510/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c6372b009300baca5f3b5883a890f596ea8dae46d54b53b4cc40f6f5bcb0774e"
+}

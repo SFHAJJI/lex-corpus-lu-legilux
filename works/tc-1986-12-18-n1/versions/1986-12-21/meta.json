@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:tc-1986-12-18-n1:1986-12-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1",
+  "publisher": "lu-legilux",
+  "document_type": "TC",
+  "valid_from": "1986-12-21",
+  "valid_to": "2004-07-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1966-03-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1986-12-21",
+      "valid_to": "2004-07-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/1985 : Texte coordonn\u00E9 du 18 d\u00E9cembre 1986 de la loi du 21 mars 1966 portant institution d\u0027un conseil \u00E9conomique et social, telle qu\u0027elle a \u00E9t\u00E9 modifi\u00E9e par la loi du 15 d\u00E9cembre 1986.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4c3800a849f1d49568ca90fd2777fb1b0ea081d1298fa8e41c24f7430612e67b"
+}

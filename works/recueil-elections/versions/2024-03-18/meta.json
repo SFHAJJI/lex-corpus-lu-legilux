@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-elections:2024-03-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/elections",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2024-03-18",
+  "valid_to": "2024-03-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-03-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-03-18",
+      "valid_to": "2024-03-22",
+      "valid_time_source": "publisher",
+      "title": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
+      "title_short": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20240318/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20240318/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "69bce2dfa5da8b6aeb2531aa0af32e14481d4a334d1c1f70a29e54aa24aa7b2f"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2003-05-19-n1:2006-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/05/19/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2006-01-01",
+  "valid_to": "2008-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-03-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-01-01",
+      "valid_to": "2008-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2006 : Loi du 19 mai 2003 modifiant \\n1) la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u0027Etat; \\n2) la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat; \\n3) la loi modifi\u00E9e du 28 mars 1986 portant harmonisation des conditions et modalit\u00E9s d\u0027avancementdans les diff\u00E9rentes carri\u00E8res des administrations et services de l\u0027Etat; \\n4) la loi modifi\u00E9e du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat; \\n5) la loi modifi\u00E9e du 3 ao\u00FBt 1998 instituant des r\u00E9gimes de pension sp\u00E9ciaux pour les fonctionnaires de l\u0027Etat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois; \\n6) la loi modifi\u00E9e du 27 mars 1986 fixant les conditions et les modalit\u00E9s selon lesquelles lefonctionnaire de l\u0027Etat peut se faire changer d\u0027administration;\\net portant cr\u00E9ation d\u0027un commissariat du Gouvernement charg\u00E9 de l\u0027instruction disciplinaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/05/19/n1/consolide/20060101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/05/19/n1/consolide/20060101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4e30e28f6c5a0b30baac38c438b5eb7537e28d3344540dcbd87342a710a0aeaa"
+}

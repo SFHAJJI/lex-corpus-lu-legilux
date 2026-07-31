@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2007-08-01-n13:2026-04-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-04-11",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-04-11",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20260411",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/08/01/n13/consolide/20260411"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "dbc4fbb0867cb1e008907f5f60af11a9920638dbfa529da6c8bd942d38620688"
+}

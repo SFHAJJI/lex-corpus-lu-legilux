@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1996-05-30-n4:2005-08-30",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2005-08-30",
+  "valid_to": "2017-03-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-06-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2005-08-30",
+      "valid_to": "2017-03-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 30/08/2005 : R\u00E8glement grand-ducal du 30 mai 1996 fixant les modalit\u00E9s de remplacement en m\u00E9decine et m\u00E9decine dentaire ainsi que la proc\u00E9dure \u00E0 suivre pour obtenir l\u2019autorisation de remplacement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20050830/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20050830/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f36550cb119277342012724619f160968320d6a3fe248f8eb5ea5ffc01bec8b7"
+}

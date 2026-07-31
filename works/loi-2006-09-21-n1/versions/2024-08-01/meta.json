@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2006-09-21-n1:2024-08-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-08-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/08/2024 : Loi du 21 septembre 2006 sur le bail \u00E0 usage d\u2019habitation et modifiant certaines dispositions du Code civil.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20240801/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20240801/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8d8515eb60841f3a6242bbf0b098f1e4deddd54e483a501bf40097201105e725"
+}

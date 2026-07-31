@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2016-12-23-n40:2021-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-04-01",
+  "valid_to": "2022-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-11-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-04-01",
+      "valid_to": "2022-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/04/2021 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 fixant les mesures d\u0027ex\u00E9cution de la loi du 23 d\u00E9cembre 2016 instituant un r\u00E9gime d\u0027aides pour la promotion de la durabilit\u00E9, de l\u0027utilisation rationnelle de l\u0027\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40/consolide/20210401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40/consolide/20210401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2e24a10c5c4b76c8bd0c8cc1d9155524408c7370e341d7a3eb95d37b6c73bd26"
+}

@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2018-08-01-a690:2023-09-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-09-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-09-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-05",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 05/09/2023 : Loi du 1er ao\u00FBt 2018 relative au traitement des donn\u00E9es des dossiers passagers dans le cadre de la pr\u00E9vention et de la r\u00E9pression du terrorisme et de la criminalit\u00E9 grave et portant modification de la loi du 5 juillet 2016 portant r\u00E9organisation du Service de renseignement de l\u2019\u00C9tat.",
+      "title_short": "Loi du 1er ao\u00FBt 2018 relative au traitement des donn\u00E9es des dossiers passagers.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3c19b639ca9334634f2f54e80dec4ce13dc23df3faef6ab9466de70bc2ee24f8"
+}

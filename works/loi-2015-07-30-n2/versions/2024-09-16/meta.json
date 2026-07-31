@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2015-07-30-n2:2024-09-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/07/30/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-09-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/09/2024 : Loi du 30 juillet 2015 portant cr\u00E9ation d\u0027un Institut de formation de l\u0027\u00E9ducation nationale et modifiant \\n1) la loi modifi\u00E9e du 7 octobre 1993 ayant pour objet a) la cr\u00E9ation d\u0027un Service de Coordination de la Recherche et de l\u0027Innovation p\u00E9dagogiques et technologiques b) la cr\u00E9ation d\u0027un Centre de Gestion Informatique de l\u0027\u00C9ducation c) l\u0027institution d\u0027un Conseil scientifique, \\n2) la loi modifi\u00E9e du 25 juin 2004 portant organisation des lyc\u00E9es et lyc\u00E9es techniques, \\n3) la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental, \\n4) la loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u0027enseignement fondamental, \\n5) la loi modifi\u00E9e du 12 mai 2009 portant cr\u00E9ation d\u0027une \u00C9cole de la 2e Chance, \\n6) la loi du 15 juillet 2011 visant l\u0027acc\u00E8s aux qualifications scolaires et professionnelles des \u00E9l\u00E8ves \u00E0 besoins \u00E9ducatifs particuliers, \\n7) la loi du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u0027avancement des fonctionnaires de l\u0027\u00C9tat, \\n8) le Code de la s\u00E9curit\u00E9 sociale,\\net abrogeant la loi modifi\u00E9e du 21 mai 1999 concernant la fonction de candidat dans les carri\u00E8res enseignantes de l\u0027enseignement postprimaire.",
+      "title_short": "Loi du 30 juillet 2015 portant cr\u00E9ation d\u0027un Institut de formation de l\u0027\u00E9ducation nationale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/30/n2/consolide/20240916/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/30/n2/consolide/20240916/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d6664adc47ab6581cae28c5b7f96068dd9ab1d95e1e7dca16f72b43a143f174c"
+}

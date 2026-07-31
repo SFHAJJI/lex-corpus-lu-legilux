@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2013-07-30-n1:2013-12-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2013-12-14",
+  "valid_to": "2017-11-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2013-12-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-12-14",
+      "valid_to": "2017-11-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/2012 : R\u00E8glement grand-ducal du 30 juillet 2013 relatif aux d\u00E9chets d\u0027\u00E9quipements \u00E9lectriques et \u00E9lectroniques.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "571f4438e5c16a25f61ca0c8cd738d34e58d88f17926bfce5186f63037d3dd3a"
+}

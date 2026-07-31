@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2009-02-06-n4:2013-09-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2013-09-16",
+  "valid_to": "2019-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2014-09-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-09-16",
+      "valid_to": "2019-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/2012 : Loi du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "881702a793901984cb9a47db400773713b6c7ffbc8101ec946c10200a427ef79"
+}

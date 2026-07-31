@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1975-09-15-n1:2009-07-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1975/09/15/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2009-07-06",
+  "valid_to": "2020-03-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-11-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2009-07-06",
+      "valid_to": "2020-03-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/07/2009 : R\u00E8glement grand-ducal du 15 septembre 1975 portant fixation du taux d\u00B4indemnisation des ch\u00F4meurs partiels.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1975/09/15/n1/consolide/20090706/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1975/09/15/n1/consolide/20090706/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1895ee2a23e3f546fc8b39f19e70f9007567965175d471cf26428bfb958416ce"
+}

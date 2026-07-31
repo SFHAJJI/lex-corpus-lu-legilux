@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2000-07-27-n2:2006-07-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/07/27/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2006-07-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-03-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-07-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/07/2006 : R\u00E8glement grand-ducal du 27 juillet 2000 relatif aux \u00E9lections des membres du Coll\u00E8ge m\u00E9dical.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/27/n2/consolide/20060722/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/27/n2/consolide/20060722/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "701fd1bed0fa69f9e0de021f83390fa360346c52f688fbbfc9c15c58cc2490d0"
+}

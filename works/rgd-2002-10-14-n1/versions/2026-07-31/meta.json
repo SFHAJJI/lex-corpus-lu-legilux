@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2002-10-14-n1:2026-07-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2026-07-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-07-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-07-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/07/2026 : R\u00E8glement grand-ducal du 14 octobre 2002 concernant le mode de d\u00E9signation et d\u0027indemnisation des membres, les r\u00E8gles de fonctionnement et les d\u00E9lais de proc\u00E9dure de la commission mixte de reclassement des travailleurs incapables \u00E0 exercer leur dernier poste de travail.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/consolide/20260731/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/consolide/20260731/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b618c525a12bac38cf2fb30a1ed4b2fb7b37755e62531729fc7e6380778af678"
+}

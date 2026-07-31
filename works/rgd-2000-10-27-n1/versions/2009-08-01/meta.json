@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2000-10-27-n1:2009-08-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2009-08-01",
+  "valid_to": "2019-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-05-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2009-08-01",
+      "valid_to": "2019-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/08/2009 : R\u00E8glement grand-ducal du 27 octobre 2000 d\u00E9terminant \u00E0 l\u2019Institut national d\u2019administration publique \\n1. l\u2019organisation de la commission de coordination,\\n2. la collaboration avec les administrations et \u00E9tablissements publics de l\u2019Etat et\\n3. la collaboration avec le Minist\u00E8re de l\u2019Int\u00E9rieur et les administrations et \u00E9tablissements publics des communes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20090801/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20090801/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "24914c81a102c3eb799e3e5cf5b92227d8626995552cea69b86a0419343f2f7f"
+}

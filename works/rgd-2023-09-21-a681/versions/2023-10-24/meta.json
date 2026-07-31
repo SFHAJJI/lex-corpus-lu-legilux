@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2023-09-21-a681:2023-10-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/09/21/a681",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-10-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-24",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 24/10/2023 : R\u00E8glement grand-ducal du 21 septembre 2023 modifiant :\\n\\n1\u00B0 l\u2019arr\u00EAt\u00E9 grand-ducal modifi\u00E9 du 23 novembre 1955 portant r\u00E8glement de la circulation sur toutes les voies publiques;\\n2\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 26 janvier 2016 relatif \u00E0 la r\u00E9ception et l\u2019immatriculation des v\u00E9hicules routiers;\\n3\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 26 janvier 2016 sur le contr\u00F4le technique des v\u00E9hicules routiers;\\n4\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 26 ao\u00FBt 1993 relatif aux avertissements tax\u00E9s, aux consignations pour contrevenants non r\u00E9sidents ainsi qu\u2019aux mesures d\u2019ex\u00E9cution de la l\u00E9gislation en mati\u00E8re de mise en fourri\u00E8re des v\u00E9hicules et en mati\u00E8re de permis \u00E0 points;\\n5\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 16 juin 2011 concernant les modalit\u00E9s et les sanctions relatives \u00E0 l\u2019installation et l\u2019utilisation des tachygraphes;\\n6\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 7 ao\u00FBt 2015 autorisant la cr\u00E9ation d\u2019un fichier et le traitement de donn\u00E9es \u00E0 caract\u00E8re personnel dans le cadre du syst\u00E8me de contr\u00F4le et de sanction automatis\u00E9s (RGD CNPD);\\n7\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 11 novembre 2003 pris en ex\u00E9cution de la loi du 16 avril 2003 relative \u00E0 l\u2019assurance obligatoire de la responsabilit\u00E9 civile en mati\u00E8re de v\u00E9hicules automoteurs;\\n8\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 11 novembre 2003 relatif au fonctionnement du Fonds de garantie automobile ;\\n9\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 12 novembre 1981 ayant pour objet la fixation et la perception des taxes sur les demandes en obtention des documents prescrits pour la mise en circulation et la conduite de v\u00E9hicules ;\\n10\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 2 ao\u00FBt 2002 concernant les modalit\u00E9s d\u2019utilisation, d\u2019homologation et de contr\u00F4le des appareils automatiques capables \u00E0 d\u00E9tecter des infractions relatives \u00E0 la l\u00E9gislation routi\u00E8re ;\\n11\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 12 ao\u00FBt 2008 portant application de la directive 2006/22/CE du Parlement europ\u00E9en et du Conseil du 15 mars 2006 \u00E9tablissant les conditions minimales \u00E0 respecter pour la mise en \u0153uvre des r\u00E8glements du Conseil (CEE) n\u00B0 3820/85 et (CEE) n\u00B0 3821/85 concernant la l\u00E9gislation sociale relative aux activit\u00E9s de transports routiers et abrogeant la directive 88/599/CEE du Conseil.\\n",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/09/21/a681/consolide/20231024/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/09/21/a681/consolide/20231024/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d182516ebcfea189d81adbe56b8b5d04882606443884eb26cafa21c226f7e633"
+}

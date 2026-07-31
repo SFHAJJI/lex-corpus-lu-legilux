@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2011-05-25-n1:2015-10-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-10-03",
+  "valid_to": "2020-04-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-01-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-10-03",
+      "valid_to": "2020-04-07",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/10/2015 : Loi du 25 mai 2011 relative \u00E0 la chasse.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "841483237629631f3c62812e355f96b779405372e0b016c29cbe923920baa79d"
+}

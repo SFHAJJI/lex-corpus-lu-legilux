@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2006-11-10-n4:2011-09-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2006/11/10/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2011-09-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2011-11-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-09-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/2010 : R\u00E8glement grand-ducal du 10 novembre 2006 portant ex\u00E9cution des articles 1er et 2 de la loi du 8 septembre 1998 r\u00E9glant les relations entre l\u0027Etat et les organismes oeuvrant dans les domaines social, familial et th\u00E9rapeutique pour ce qui concerne l\u0027agr\u00E9ment \u00E0 accorder aux personnes physiques ou aux personnes morales entreprenant ou exer\u00E7ant une activit\u00E9 de consultation, de formation, de conseil, de m\u00E9diation, d\u0027accueil et d\u0027animation pour familles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/11/10/n4/consolide/20110903/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/11/10/n4/consolide/20110903/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "aafc41da6ad79b35d185afe0dd822de03d194f4bd43c368fb76f600c01436478"
+}

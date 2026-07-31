@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-accessibilite_lieux_publics:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-06-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_time_source": "publisher",
+      "title": "Accessibilit\u00E9 des lieux ouverts au public",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bac7084dca839c2a612f6a7069a3ca2fe123f6c99654d96020b0c91ace858ea4"
+}

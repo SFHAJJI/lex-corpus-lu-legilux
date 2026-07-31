@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:agc-2025-04-04-a132:2025-04-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132",
+  "publisher": "lu-legilux",
+  "document_type": "AGC",
+  "valid_from": "2025-04-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-04-13",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 13/04/2025 : Arr\u00EAt\u00E9 du Gouvernement en Conseil du 4 avril 2025 portant institution d\u2019un comit\u00E9 interminist\u00E9riel de coordination en mati\u00E8re de cyberpr\u00E9vention et de cybers\u00E9curit\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0faa80dd8eda65965e710556f5302d05c10ac2398294631bf4613e1d0747ff86"
+}

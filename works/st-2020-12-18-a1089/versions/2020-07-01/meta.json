@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:st-2020-12-18-a1089:2020-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089",
+  "publisher": "lu-legilux",
+  "document_type": "ST",
+  "valid_from": "2020-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-06-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2020 : Mutualit\u00E9 des employeurs - Statuts.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f888bc52e309994114627abbcba33993737f0ab9a94c0741ac8a2806843f26a4"
+}

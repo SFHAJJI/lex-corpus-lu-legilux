@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2015-08-05-n4:2022-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-09-15",
+  "valid_to": "2024-11-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-03-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-09-15",
+      "valid_to": "2024-11-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/2022 : R\u00E8glement grand-ducal du 5 ao\u00FBt 2015 portant organisation de la formation menant au dipl\u00F4me de fin d\u0027\u00E9tudes secondaires techniques dans le cadre de la formation des adultes d\u0027\u00E9ducateur en alternance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20220915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20220915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "88440a15c8dc0fc327d408e66813e46fc6881e78375e48b6c78ad1be25cdca7b"
+}

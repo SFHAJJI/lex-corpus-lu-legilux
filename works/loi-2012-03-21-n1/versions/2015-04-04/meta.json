@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2012-03-21-n1:2015-04-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-04-04",
+  "valid_to": "2015-12-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-02-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-04-04",
+      "valid_to": "2015-12-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/04/2015 : Loi du 21 mars 2012 relative \u00E0 la gestion des d\u00E9chets, et modifiant 1. la loi du 31 mai 1999 portant institution d\u0027un fonds pour la protection de l\u0027environnement; 2. la loi du 25 mars 2005 relative au fonctionnement et au financement de l\u0027action SuperDrecksK\u00EBscht; 3. la loi du 19 d\u00E9cembre 2008 a) relative aux piles et accumulateurs ainsi qu\u0027aux d\u00E9chets de piles et d\u0027accumulateurs b) modifiant la loi modifi\u00E9e du 17 juin 1994 relative \u00E0 la pr\u00E9vention et \u00E0 la gestion des d\u00E9chets; 4. la loi du 24 mai 2011 relative aux services dans le march\u00E9 int\u00E9rieur.",
+      "title_short": "Loi du 21 mars 2012 relative aux d\u00E9chets.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20150404/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20150404/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5757bff4f0842cd5d2701f3929c593be86e7bf07ecf46b8bf98dea2b46e56c05"
+}

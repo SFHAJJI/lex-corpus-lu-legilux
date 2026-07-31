@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2015-03-25-n6:2018-05-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-05-15",
+  "valid_to": "2022-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-05-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-05-15",
+      "valid_to": "2022-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/05/2018 : Loi du 25 mars 2015 fixant les conditions et modalit\u00E9s de l\u0027acc\u00E8s du fonctionnaire \u00E0 un groupe de traitement sup\u00E9rieur au sien et de l\u0027employ\u00E9 de l\u0027Etat \u00E0 un groupe d\u0027indemnit\u00E9 sup\u00E9rieur au sien.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6/consolide/20180515/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n6/consolide/20180515/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b7e7dfb203e158d3f7d05d468f7af05c64e345f205b8939d1697cbb1a5763e13"
+}

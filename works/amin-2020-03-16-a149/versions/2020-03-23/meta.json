@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:amin-2020-03-16-a149:2020-03-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149",
+  "publisher": "lu-legilux",
+  "document_type": "AMIN",
+  "valid_from": "2020-03-23",
+  "valid_to": "2020-05-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-03-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-03-23",
+      "valid_to": "2020-05-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/03/2020 : Arr\u00EAt\u00E9 minist\u00E9riel du 16 mars 2020 portant sur diverses mesures relatives \u00E0 la lutte contre la propagation du virus covid-19.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "89fad8d2000a5b18840f0ad04ea167646944f9ba35c1346aa55eaab9c9617ef0"
+}

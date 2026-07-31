@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:constitution-1868-10-17-n1:1988-12-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "Constitution",
+  "valid_from": "1988-12-25",
+  "valid_to": "1989-04-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-06-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1988-12-25",
+      "valid_to": "1989-04-18",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/12/1988 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19881225/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19881225/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4ef01dd3c9fac43daaa58b72e8b12a81139d4a78966fd40e275212a63bc7ed3e"
+}

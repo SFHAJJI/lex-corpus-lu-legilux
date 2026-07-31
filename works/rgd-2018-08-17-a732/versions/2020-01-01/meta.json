@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-08-17-a732:2020-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/17/a732",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-01-01",
+  "valid_to": "2020-11-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-01-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-01-01",
+      "valid_to": "2020-11-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2020 : R\u00E8glement grand-ducal du 17 ao\u00FBt 2018 portant :\\n1\u00B0 d\u00E9termination de la mise en \u0153uvre du plan d\u2019insertion professionnelle ;\\n2\u00B0 fixation du programme et de la proc\u00E9dure d\u2019examen de la formation professionnelle de base des fonctionnaires stagiaires du cadre policier ;\\n3\u00B0 pr\u00E9cision des modalit\u00E9s d\u2019application de l\u2019appr\u00E9ciation des performances professionnelles aux fonctionnaires stagiaires du cadre policier ;\\n4\u00B0 fixation des programmes de formation sp\u00E9ciale, de la dur\u00E9e de la formation sp\u00E9ciale th\u00E9orique et de l\u2019appr\u00E9ciation des \u00E9preuves de l\u2019examen de fin de formation sp\u00E9ciale des fonctionnaires stagiaires du cadre civil de la Police grand-ducale ;\\n5\u00B0 d\u00E9termination des formalit\u00E9s \u00E0 remplir par les candidats \u00E0 l\u2019examen de promotion, du programme de l\u2019examen ainsi que des modalit\u00E9s de classement et des crit\u00E8res de d\u00E9partage en cas d\u2019\u00E9galit\u00E9 des notes.",
+      "title_short": "R\u00E8glement grand-ducal du 17 ao\u00FBt 2018 relatif \u00E0 la formation du personnel de la Police grand-ducale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/17/a732/consolide/20200101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/17/a732/consolide/20200101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "be8962dd5fa236696321f5dc3baa408888932978f2a9ede31ca209c7f8fdf8b4"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1991-01-24-n2:2001-06-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2001-06-01",
+  "valid_to": "2008-11-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-10-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2001-06-01",
+      "valid_to": "2008-11-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/06/2001 : R\u00E8glement grand-ducal du 24 janvier 1991 portant fixation du tarif des huissiers de justice.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6bd02344bdad4a1d05e2abac0d026bed6dfbcd9988f6c32281a7885f087f6730"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2019-12-20-a900:2025-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-08-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2025 : R\u00E8glement grand-ducal du 20 d\u00E9cembre 2019 d\u00E9terminant pour les fonctionnaires et employ\u00E9s de l\u2019\u00C9tat les modalit\u00E9s d\u2019attribution de la r\u00E9duction de stage et de la prime de doctorat et abrogeant le r\u00E8glement grand-ducal modifi\u00E9 du 30 septembre 2015 d\u00E9terminant pour les fonctionnaires et employ\u00E9s de l\u0027\u00C9tat : \\nI. les cas d\u0027exception ou de temp\u00E9rament aux conditions de stage ;\\nII. la bonification d\u0027anciennet\u00E9 de service pour la fixation du traitement initial ; \\nIII. la proc\u00E9dure d\u0027attribution d\u0027une prime pour les d\u00E9tenteurs d\u0027un doctorat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/consolide/20250901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/12/20/a900/consolide/20250901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f0785375af9e3879c91d7ef32de1b9ece1a65893b5abbe48d8718c9fb7b308c6"
+}

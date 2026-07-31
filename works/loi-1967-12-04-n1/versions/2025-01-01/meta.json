@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-1967-12-04-n1:2025-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-01-01",
+  "valid_to": "2025-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-01-01",
+      "valid_to": "2025-07-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/consolide/20250101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/consolide/20250101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cfe0cc169321ead8b6ef34cdcb0ef2c2f3d764191e50a67aa03fffa8c050485c"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1967-08-16-n1:1986-09-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1986-09-10",
+  "valid_to": "1995-09-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-04-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1986-09-10",
+      "valid_to": "1995-09-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/09/1986 : Loi du 16 ao\u00FBt 1967 ayant pour objet la cr\u00E9ation d\u0027une grande voirie de communication et d\u0027un fonds des routes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19860910/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19860910/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "0bab276998254be259bf4dc5108720450dba91be35b204a01f1d894de43e27cf"
+}

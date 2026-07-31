@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2001-10-18-n3:2025-02-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-02-22",
+  "valid_to": "2026-02-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-02-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-02-22",
+      "valid_to": "2026-02-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 29/11/2022 : R\u00E8glement grand-ducal du 18 octobre 2001 d\u00E9terminant la liste des vaccinations recommand\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20250222/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20250222/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fb756545f75a4e4226f395705dbf8133b2fef135ab973512cd3a0aa84150b2d8"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:div-2023-06-21-a323:2024-06-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/div/2023/06/21/a323",
+  "publisher": "lu-legilux",
+  "document_type": "DIV",
+  "valid_from": "2024-06-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-08-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-06-17",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 17/06/2024 : Acte final de la Conf\u00E9rence sur la Charte Europ\u00E9enne de l\u2019\u00C9nergie et de ses Annexes, sign\u00E9s \u00E0 Lisbonne, le 17 d\u00E9cembre 1994 - D\u00E9nonciation par le Grand-Duch\u00E9 de Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/div/2023/06/21/a323/consolide/20240617/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/div/2023/06/21/a323/consolide/20240617/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ec0ef575373095c4eec0bb81253bca379bbe878f4d026c5888a81da1b12d1c7c"
+}

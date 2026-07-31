@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2016-03-15-n3:2026-05-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/03/15/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-05-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-05-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-05-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/05/2026 : Loi du 15 mars 2016 relative aux produits d\u00E9riv\u00E9s de gr\u00E9 \u00E0 gr\u00E9, aux contreparties centrales et aux r\u00E9f\u00E9rentiels centraux etportant transposition:de la directive 2013/14/UE du Parlement europ\u00E9en et du Conseil du 21 mai 2013 modifiant la directive 2003/41/CE concernant les activit\u00E9s et la surveillance des institutions de retraite professionnelle, la directive 2009/65/CE portant coordination des dispositions l\u00E9gislatives, r\u00E9glementaires et administratives concernant certains organismes de placement collectif en valeurs mobili\u00E8res (OPCVM) et la directive 2011/61/UE sur les gestionnaires de fonds d\u2019investissement alternatifs en ce qui concerne la d\u00E9pendance excessive \u00E0 l\u2019\u00E9gard des notations de cr\u00E9dit; et portant mise en oeuvre:1. du r\u00E8glement (UE) n\u00B0 260/2012 du Parlement europ\u00E9en et du Conseil du 14 mars 2012 \u00E9tablissant des exigences techniques et commerciales pour les virements et les pr\u00E9l\u00E8vements en euros et modifiant le r\u00E8glement (CE) n\u00B0 924/2009;2. du r\u00E8glement (UE) n\u00B0 648/2012 du Parlement europ\u00E9en et du Conseil du 4 juillet 2012 sur les produits d\u00E9riv\u00E9s de gr\u00E9 \u00E0 gr\u00E9, les contreparties centrales et les r\u00E9f\u00E9rentiels centraux; et3. du r\u00E8glement (UE) n\u00B0 462/2013 du Parlement europ\u00E9en et du Conseil du 21 mai 2013modifiant le r\u00E8glement (CE) n\u00B0 1060/2009 sur les agences de notation de cr\u00E9dit; et portant modification:1. de la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance dusecteur financier;2. de la loi modifi\u00E9e du 13 juillet 2005 relative aux institutions de retraite professionnelle sousforme de soci\u00E9t\u00E9 d\u2019\u00E9pargne-pension \u00E0 capital variable (sepcav) et d\u2019association d\u2019\u00E9pargnepension(assep);3. de la loi modifi\u00E9e du 10 novembre 2009 relative aux services de paiement;4. de la loi modifi\u00E9e du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif;5. de la loi du 28 octobre 2011 mettant en oeuvre le r\u00E8glement (CE) n\u00B0 1060/2009 du16 septembre 2009; et6. de la loi modifi\u00E9e du 12 juillet 2013 relative aux gestionnaires de fonds d\u2019investissementalternatifs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/03/15/n3/consolide/20260510/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/03/15/n3/consolide/20260510/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6661e66ae9f83f0fa70c145c1bbbac1a2061e591c16273f146783cdfafa85a93"
+}

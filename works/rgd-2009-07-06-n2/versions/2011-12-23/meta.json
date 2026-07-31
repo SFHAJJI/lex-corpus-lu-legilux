@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-07-06-n2:2011-12-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2011-12-23",
+  "valid_to": "2024-05-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2012-09-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-12-23",
+      "valid_to": "2024-05-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/2010 : R\u00E8glement grand-ducal du 6 juillet 2009 d\u00E9terminant les modalit\u00E9s d\u0027\u00E9valuation des \u00E9l\u00E8ves ainsi que le contenu du dossier d\u0027\u00E9valuation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20111223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20111223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "418f79b26d000b46433bf0ff065a1e30bc57cb61e6102bf6bd91c4f9ee7537e4"
+}

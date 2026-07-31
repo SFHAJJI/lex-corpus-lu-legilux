@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-1996-11-07-n1:2025-09-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-09-16",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-09-16",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20250916",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20250916"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ef0ae0965ec86b330e61506e7710eaa9e5b81c6693fe1d7dded9ac25a540bca7"
+}

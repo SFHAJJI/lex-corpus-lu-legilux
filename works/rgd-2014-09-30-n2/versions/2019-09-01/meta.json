@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2014-09-30-n2:2019-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2019-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2019 : R\u00E8glement grand-ducal du 30 septembre 2014 d\u00E9terminant les modalit\u00E9s de formations et des \u00E9preuves permettant \u00E0 des agents intervenant dans l\u0027enseignement fondamental d\u0027obtenir l\u0027autorisation d\u0027enseigner en tant qu\u0027instituteur dans les quatre cycles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ea599547dbd768d1c11f5547b67b1a5467696cbfa4a9e824c5c4c5abc56c59f9"
+}

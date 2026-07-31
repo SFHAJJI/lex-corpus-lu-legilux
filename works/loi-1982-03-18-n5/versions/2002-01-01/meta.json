@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1982-03-18-n5:2002-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2002-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 18 mars 1982 relative aux changements de noms et de pr\u00E9noms et modifiant l\u0027article 10 de l\u0027arr\u00EAt\u00E9 grand-ducal du 12 mai 1945 portant nouvelle fixation de certains droits de timbre et des droits de chancellerie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/consolide/20020101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1982/03/18/n5/consolide/20020101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "762d148e9b8e4ac797b273c9f8a5081d2b64a3ce5a5e969cd9082edde0c71434"
+}

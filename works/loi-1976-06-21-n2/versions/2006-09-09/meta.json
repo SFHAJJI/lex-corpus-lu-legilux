@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1976-06-21-n2:2006-09-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2006-09-09",
+  "valid_to": "2013-01-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2006-09-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-09-09",
+      "valid_to": "2013-01-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/2005 : Loi du 21 juin 1976 relative \u00E0 la lutte contre le bruit.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20060909/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20060909/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "85a1f5bc4faa384cb675760feb43506e4f8d921fb433f92938d40df1804e5f30"
+}

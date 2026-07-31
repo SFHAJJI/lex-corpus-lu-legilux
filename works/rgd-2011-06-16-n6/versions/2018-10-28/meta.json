@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-06-16-n6:2018-10-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-10-28",
+  "valid_to": "2023-10-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-02-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-10-28",
+      "valid_to": "2023-10-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/10/2018 : R\u00E8glement grand-ducal du 16 juin 2011 \\n a) concernant les modalit\u00E9s relatives \u00E0 l\u2019appareil de contr\u00F4le dans le domaine des transports par route et fixant les sanctions des infractions aux dispositions 1) du r\u00E8glement (CE) n\u00B0 561/2006 du Parlement et du Conseil du 15 mars 2006 relatif \u00E0 l\u2019harmonisation de certaines dispositions de la l\u00E9gislation sociale dans le domaine des transports par route, modifiant les r\u00E8glements (CEE) n\u00B0 3821/85 et (CE) n\u00B0 2135/98 du Conseil et abrogeant le r\u00E8glement (CEE) n\u00B0 3820/85 du Conseil et 2) du r\u00E8glement (CEE) n\u00B0 3821/85 modifi\u00E9 du Conseil des Communaut\u00E9s Europ\u00E9ennes concernant l\u2019appareil de contr\u00F4le dans le domaine des transports par route, et\\n b) modifiant 1) le r\u00E8glement grand-ducal du 15 mars 1993 portant ex\u00E9cution et sanction du r\u00E8glement (CEE) n\u00B0 881/92 du Conseil des Communaut\u00E9s Europ\u00E9ennes du 26 mars 1992 concernant l\u2019acc\u00E8s au march\u00E9 des transports par route dans la Communaut\u00E9 ex\u00E9cut\u00E9s au d\u00E9part ou \u00E0 destination du territoire d\u2019un Etat membre ou traversant le territoire d\u2019un ou plusieurs Etats membres, 2) le r\u00E8glement grand-ducal modifi\u00E9 du 26 ao\u00FBt 1993 relatif aux avertissements tax\u00E9s, aux consignations\\npour contrevenants non r\u00E9sidents ainsi qu\u2019aux mesures d\u2019ex\u00E9cution de la l\u00E9gislation en mati\u00E8re de mise en fourri\u00E8re des v\u00E9hicules et en mati\u00E8re de permis \u00E0 points et 3) r\u00E8glement grand-ducal modifi\u00E9 du 8 ao\u00FBt 2000 d\u00E9terminant le contenu de l\u2019instruction pr\u00E9paratoire aux examens du permis de conduire ainsi que l\u2019exercice de la profession d\u2019instructeur de candidats-conducteurs.",
+      "title_short": "R\u00E8glement grand-ducal concernant les modalit\u00E9s et les sanctions relatives \u00E0 l\u2019installation et l\u2019utilisation des tachygraphes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6/consolide/20181028/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/06/16/n6/consolide/20181028/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "aa9fd99bbeb01ac3ab12ee5fe3618b222a30cd7e35682b51ebe868c25db41868"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rmin-1980-09-19-n1:1985-09-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/1980/09/19/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "1985-09-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "1985-09-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1985-09-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/1984 : R\u00E8glement minist\u00E9riel du 19 septembre 1980 concernant l\u0027octroi d\u0027une subvention aux particuliers pour la r\u00E9alisation d\u0027\u00E9conomies d\u0027\u00E9nergie dans les habitations existantes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1980/09/19/n1/consolide/19850910/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/1980/09/19/n1/consolide/19850910/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1fd6624e72c389a7829174f8fe60d454ca741daebff681826e2f4ace0693ad3f"
+}

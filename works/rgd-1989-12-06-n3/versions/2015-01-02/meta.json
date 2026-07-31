@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1989-12-06-n3:2015-01-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2015-01-02",
+  "valid_to": "2023-03-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-09-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-01-02",
+      "valid_to": "2023-03-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/01/2015 : R\u00E8glement grand-ducal modifi\u00E9 du 6 d\u00E9cembre 1989 concernant le cong\u00E9 politique des bourgmestres, \u00E9chevins et conseillers communaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20150102/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20150102/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8bad68bc7a577bd228d6ba41b1bb368b9d08887638bf7959882b279433bca3cc"
+}

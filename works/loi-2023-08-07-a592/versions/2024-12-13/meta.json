@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2023-08-07-a592:2024-12-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-12-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 13/12/2024 : Loi du 7 ao\u00FBt 2023 sur les associations sans but lucratif et les fondations.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20241213/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20241213/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e546810c5e2e00a1f698e9cfa6e338c2a72db53e24405c3a7896764ff9733aaa"
+}

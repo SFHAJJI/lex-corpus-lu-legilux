@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2005-08-03-n3:2018-09-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/03/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-09-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-09-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/09/2018 : Loi du 3 ao\u00FBt 2005 concernant le partenariat entre les syndicats de communes et l\u2019Etat et la restructuration de la d\u00E9marche scientifique en mati\u00E8re de protection de la nature et des ressources naturelles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n3/consolide/20180909/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n3/consolide/20180909/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d5f7b0ac0bd9b926306afd99987ccc438488391bddc5f70fb4e52f4ba5d9c2c3"
+}

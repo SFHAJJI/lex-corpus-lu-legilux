@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2005-08-03-n2:2024-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-04-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2024 : Loi du 3 ao\u00FBt 2005 concernant le sport et portant a) modification de la loi modifi\u00E9e du 7 juin 1937 ayant pour objet la r\u00E9forme de la loi du 31 octobre 1919 portant r\u00E8glement l\u00E9gal du louage de service des employ\u00E9s priv\u00E9s; b) modification du code des assurances sociales; c) d\u00E9rogation aux articles 5 et 9 de la loi modifi\u00E9e du 24 mai 1989 sur le contrat de travail.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20240101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20240101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "59db4edbf5536b5dd376e527d15eb0c4d7405bbcb16aa495e9a9818eef70c78f"
+}

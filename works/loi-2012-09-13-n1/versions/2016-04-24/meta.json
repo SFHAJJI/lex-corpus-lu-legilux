@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2012-09-13-n1:2016-04-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2012/09/13/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-04-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-04-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/04/2016 : Loi du 13 septembre 2012 portant\\n 1. cr\u00E9ation d\u0027un pacte climat avec les communes\\n 2. modification de la loi modifi\u00E9e du 31 mai 1999 portant institution d\u0027un fonds pour la protection de l\u0027environnement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/09/13/n1/consolide/20160424/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2012/09/13/n1/consolide/20160424/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9cef06290c1a31abf3c7c98b2e907107ae0c350e05ac2de935bca77bb682b5d7"
+}

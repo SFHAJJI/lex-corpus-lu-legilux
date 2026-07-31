@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-10-08-a819:2021-01-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/10/08/a819",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-01-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-11-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-01-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/01/2021 : R\u00E8glement grand-ducal du 8 octobre 2020 portant fixation de la date d\u2019ouverture et de cl\u00F4ture des soldes de l\u2019hiver 2020/2021 et de l\u2019\u00E9t\u00E9 2021.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/10/08/a819/consolide/20210115/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/10/08/a819/consolide/20210115/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "46a37ca72af19ba04a1f7ec8c00b4909a1c59d51e149f4fe4f4ea7fd756334fd"
+}

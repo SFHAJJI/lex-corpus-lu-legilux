@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-07-10-n2:2025-07-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-07-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-07-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/07/2025 : R\u00E8glement grand-ducal du 10 juillet 2011 fixant la liste des sp\u00E9cialit\u00E9s en m\u00E9decine et m\u00E9decine dentaire reconnues au Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/consolide/20250722/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/10/n2/consolide/20250722/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "adc207fb3edeea1de7448bb7bf6ce6e2f00b1b37f28608eacf42f813925b3879"
+}

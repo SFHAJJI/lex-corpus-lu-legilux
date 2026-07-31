@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2009-05-29-n2:2011-11-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2009/05/29/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2011-11-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2011-11-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-11-07",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/2010 : Loi du 29 mai 2009 instituant un r\u00E9gime temporaire de garantie en vue du redressement \u00E9conomique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/29/n2/consolide/20111107/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/29/n2/consolide/20111107/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2c9e370cac6d2c4c87ea090fa0cbb616f4ce96ec8647d6e06ccc4c80beb8d4f6"
+}

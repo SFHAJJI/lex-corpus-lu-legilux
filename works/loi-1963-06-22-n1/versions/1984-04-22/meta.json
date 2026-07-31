@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1963-06-22-n1:1984-04-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1984-04-22",
+  "valid_to": "1984-06-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1984-06-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1984-04-22",
+      "valid_to": "1984-06-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/12/1983 : Loi du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/19840422/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/19840422/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "068d31d21074848e7b04036ce8d3ab01e5deea02b76dabc1b8328e2fb05b604a"
+}

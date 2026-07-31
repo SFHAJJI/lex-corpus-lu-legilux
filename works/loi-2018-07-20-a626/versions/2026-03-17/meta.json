@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2018-07-20-a626:2026-03-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-03-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/03/2026 : Loi du 20 juillet 2018 portant r\u00E9forme de l\u2019administration p\u00E9nitentiaire et\\n1) modification\\n- du Code p\u00E9nal ;\\n- du Code de proc\u00E9dure p\u00E9nale ;\\n- du Code de la s\u00E9curit\u00E9 sociale ;\\n- de la loi du 3 avril 1893 concernant l\u2019approbation de la fondation Theisen \u00E0 Givenich ;\\n- de la loi modifi\u00E9e du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie ;\\n- de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat ;\\n- de la loi modifi\u00E9e du 17 avril 1998 portant cr\u00E9ation d\u2019un \u00E9tablissement public d\u00E9nomm\u00E9 \u00AB\u00A0centre hospitalier neuropsychiatrique\u00A0\u00BB ;\\n- de la loi modifi\u00E9e du 3 ao\u00FBt 1998 instituant des r\u00E9gimes de pension sp\u00E9ciaux pour les fonctionnaires de l\u2019\u00C9tat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois ;\\n- de la loi du 10 d\u00E9cembre 2009 relative \u00E0 l\u2019hospitalisation sans leur consentement de personnes atteintes de troubles mentaux ;\\n- de la loi modifi\u00E9e du 25 mars 2015 instituant un r\u00E9gime de pension sp\u00E9cial transitoire pour les fonctionnaires de l\u2019\u00C9tat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois, ainsi que ;\\n2) abrogation\\n- de la loi modifi\u00E9e du 21 mai 1964 portant \\n1. r\u00E9organisation des \u00E9tablissements p\u00E9nitentiaires et des maisons d\u2019\u00E9ducation ; \\n2. cr\u00E9ation d\u2019un service de d\u00E9fense sociale ;\\n- de la loi du 4 avril 1978 ayant pour but d\u2019habiliter le personnel du service de garde des \u00E9tablissements p\u00E9nitentiaires \u00E0 exercer certaines attributions de police g\u00E9n\u00E9rale.",
+      "title_short": "Loi du 20 juillet 2018 portant r\u00E9forme de l\u2019administration p\u00E9nitentiaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/consolide/20260317/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a626/consolide/20260317/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b17b1d0a8047a7aa5fea26f61a29e6b169cc3f8d104b1873eceaeff3aad7d2bd"
+}

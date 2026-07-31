@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-08-25-a679:2023-03-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-03-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-03-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/03/2023 : R\u00E8glement grand-ducal du 25 ao\u00FBt 2021 d\u00E9terminant la proc\u00E9dure de recherche de nouveaux emplacements pour d\u00E9charges r\u00E9gionales pour d\u00E9chets inertes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "879a27b895310b92a99358cab8544fd4d71725061ea062d5d977abbcf880efdd"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2023-08-07-a542:2026-06-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-06-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-06-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-06-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/06/2026 : Loi du 7 ao\u00FBt 2023 portant organisation de l\u2019assistance judiciaire et portant abrogation de l\u2019article 37-1 de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "af967de7ce48a1df88f5d23b6ae8196a6ad92a280e1c5e2f938f6fdba3f86b4b"
+}

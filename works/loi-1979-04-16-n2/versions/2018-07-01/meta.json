@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1979-04-16-n2:2018-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/04/16/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-10-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2018 : Loi du 16 avril 1979 portant r\u00E9glementation de la gr\u00E8ve dans les services de l\u0027Etat et des \u00E9tablissements publics plac\u00E9s sous le contr\u00F4le direct de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n2/consolide/20180701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n2/consolide/20180701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "17158c37166415daf918a1ab6a95d388803139b0a431bc72f2b8090fea40e253"
+}

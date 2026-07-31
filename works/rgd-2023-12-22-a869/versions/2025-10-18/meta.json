@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:rgd-2023-12-22-a869:2025-10-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/12/22/a869",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-10-18",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-10-18",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/12/22/a869/consolide/20251018",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/12/22/a869/consolide/20251018"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f3add94e382b6fd9266bf37811714d079c97f87ac61df26c2d4b39252adac7cb"
+}

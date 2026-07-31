@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1988-03-19-n1:1994-07-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1994-07-05",
+  "valid_to": "2025-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-10-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1994-07-05",
+      "valid_to": "2025-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 05/07/1994 : Loi du 19 mars 1988 concernant la s\u00E9curit\u00E9 dans les administrations et services de l\u0027Etat, dans les \u00E9tablissements publics et dans les \u00E9coles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/19940705/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/19940705/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2e26a19d7a624bc3d37f997635c7395f1162fecd458aee6b3f5923939a227c5c"
+}

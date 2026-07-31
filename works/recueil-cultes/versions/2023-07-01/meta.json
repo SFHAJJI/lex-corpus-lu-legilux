@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-cultes:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/cultes",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_time_source": "publisher",
+      "title": "Cultes",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "84bac5e61fc5d1ce60cfbb9f6f17d063f5e3f9d04d395723ac2420db1f75dced"
+}

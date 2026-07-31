@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2012-02-03-n1:2026-03-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2026-03-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/03/2026 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2012 pr\u00E9cisant les modalit\u00E9s des formations pr\u00E9vues aux articles 7, 8 (1) c), 9 b) et 10 (1) b) de la loi du 2 septembre 2011 r\u00E9glementant l\u2019acc\u00E8s aux professions d\u2019artisan, de commer\u00E7ant, d\u2019industriel ainsi qu\u2019\u00E0 certaines professions lib\u00E9rales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20260310/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20260310/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b2892c8a7cdea7dd269df73787b2c45c6ec6ed11dc431ef27efc37e9575c12ef"
+}

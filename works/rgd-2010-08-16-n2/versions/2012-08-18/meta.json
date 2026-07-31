@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2010-08-16-n2:2012-08-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2012-08-18",
+  "valid_to": "2021-03-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-10-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-08-18",
+      "valid_to": "2021-03-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 18/08/2012 : R\u00E8glement grand-ducal du 16 ao\u00FBt 2010 d\u00E9finissant les r\u00E8gles sp\u00E9ciales applicables \u00E0 la commercialisation du b\u00E9tail de boucherie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20120818/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20120818/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a4bfaffc881b03e65e59543538c92adf2ac2a423d38bacb5bdfe3517b338afd2"
+}

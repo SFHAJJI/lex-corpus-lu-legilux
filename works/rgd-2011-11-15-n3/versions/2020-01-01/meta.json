@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-11-15-n3:2020-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-02-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2020 : R\u00E8glement grand-ducal du 15 novembre 2011 d\u00E9terminant les modalit\u00E9s de d\u00E9signation, de reconduction, de changement et de remplacement en cas d\u0027absence du m\u00E9decin r\u00E9f\u00E9rent.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n3/consolide/20200101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n3/consolide/20200101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "64e26dee460ca030cc03a66da71650f850f21711c8ebb8b5294c7339b51bd2ac"
+}

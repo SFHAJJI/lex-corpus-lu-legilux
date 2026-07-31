@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-1999-06-21-n2:2023-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-01-01",
+  "valid_to": "2023-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-01-01",
+      "valid_to": "2023-09-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 21 juin 1999 portant r\u00E8glement de proc\u00E9dure devant les juridictions administratives et modifiant \\n a) la loi g\u00E9n\u00E9rale des imp\u00F4ts,\\n b) la loi modifi\u00E9e du 1er mars 1952 modifiant certaines dispositions relatives aux imp\u00F4ts directs\\n c) la loi du 27 ao\u00FBt 1977 concernant le statut des fonctionnaires entr\u00E9s au service d\u0027institutions internationales\\n d) la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat\\n e) la loi modifi\u00E9e du 13 mars 1993 relative \u00E0 l\u0027ex\u00E9cution en droit luxembourgeois de la Directive n\u00B0 89/665 du Conseil du 21 d\u00E9cembre 1989 portant coordination des dispositions l\u00E9gislatives, r\u00E9glementaires et administratives relatives \u00E0 l\u0027application des proc\u00E9dures de recours en mati\u00E8re de march\u00E9s publics\\nf) la loi du 7 novembre 1996 portant organisation des juridictions de l\u0027ordre administratif.",
+      "title_short": "Loi du 21 juin 1999 portant r\u00E8glement de proc\u00E9dure devant les juridictions administratives.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/consolide/20230101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/consolide/20230101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c8aaa9a43efbc33ed0e1603c2ce3b70755df74526a05a744a85844d5738c06c9"
+}

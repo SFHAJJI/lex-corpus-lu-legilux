@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2007-12-21-n11:2025-08-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/12/21/n11",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-08-04",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-08-04",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n11/consolide/20250804",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n11/consolide/20250804"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "68c9e8570f9ae7b867bd36492cf570b95564cb5135b129090988c29abf86a268"
+}

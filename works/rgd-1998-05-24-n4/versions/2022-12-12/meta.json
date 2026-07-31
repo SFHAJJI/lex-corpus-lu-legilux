@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1998-05-24-n4:2022-12-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-12-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-06-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/12/2022 : R\u00E8glement grand-ducal du 24 mai 1998 concernant l\u0027exploitation et la mise dans le commerce des eaux min\u00E9rales naturelles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20221212/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20221212/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9e0718a67b83a897f3a64c414274cab102287129c221bd7e537643f751497a9b"
+}

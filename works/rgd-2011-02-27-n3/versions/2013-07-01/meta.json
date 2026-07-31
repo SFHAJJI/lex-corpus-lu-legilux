@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-02-27-n3:2013-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2013-07-01",
+  "valid_to": "2024-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-09-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-07-01",
+      "valid_to": "2024-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 27 f\u00E9vrier 2011 portant institution d\u0027une autorit\u00E9 nationale pour la certification professionnelle.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/consolide/20130701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n3/consolide/20130701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a75e1cbd3540dd088c25ca3246ea07ef3db07c7b2f90854a82ca143376775f52"
+}

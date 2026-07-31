@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-nationalite_luxembourgeoise:2020-06-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2020-06-25",
+  "valid_to": "2021-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-06-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-06-25",
+      "valid_to": "2021-01-01",
+      "valid_time_source": "publisher",
+      "title": "Nationalit\u00E9 luxembourgeoise",
+      "title_short": "Nationalit\u00E9 luxembourgeoise",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20200625/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20200625/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e8026f1e70582e3eb4b09ad8c9955ca1e9b9f4873fe362babf7270f8403af5c7"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1985-04-30-n2:2023-10-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1985/04/30/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-10-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/10/2023 : R\u00E8glement grand-ducal du 30 avril 1985 concernant la commission consultative institu\u00E9e avec la cr\u00E9ation de l\u2019Institut national de l\u2019activit\u00E9 physique et des sports.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1985/04/30/n2/consolide/20231001/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1985/04/30/n2/consolide/20231001/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "19b9de0a44a594558447bc0a6887dc8a043a48eff157b3bef3e6add898049f0f"
+}

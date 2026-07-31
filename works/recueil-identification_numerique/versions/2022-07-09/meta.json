@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-identification_numerique:2022-07-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/identification_numerique",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2022-07-09",
+  "valid_to": "2022-07-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-07-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-07-09",
+      "valid_to": "2022-07-31",
+      "valid_time_source": "publisher",
+      "title": "Informatique et identification num\u00E9rique",
+      "title_short": "Informatique et identification num\u00E9rique",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/identification_numerique/20220709/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/identification_numerique/20220709/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d8a8acc7e90e429400939c5cff84420292feca8a8ff185f0bf6c9dd7b9d9459c"
+}

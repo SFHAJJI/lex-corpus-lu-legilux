@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2019-05-16-a345:2021-12-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-12-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-12-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-12-18",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 18/12/2021 : Loi du 16 mai 2019 relative \u00E0 la facturation \u00E9lectronique dans le cadre des march\u00E9s publics et des contrats de concession.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f388851cdd590979c0492a40275efc90a584720f28e062d3c07b18b6302d0ee9"
+}

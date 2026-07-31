@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1997-07-27-n10:2006-12-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2006-12-25",
+  "valid_to": "2007-12-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-12-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-12-25",
+      "valid_to": "2007-12-21",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/12/2006 : Loi du 27 juillet 1997 sur le contrat d\u0027assurance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20061225/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20061225/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b37477c6ab0dc30a31c1fa8e69f57d93ea0bd54b30bf7bb38bc61045b214bf57"
+}

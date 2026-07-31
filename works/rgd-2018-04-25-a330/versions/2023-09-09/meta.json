@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-04-25-a330:2023-09-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/04/25/a330",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-09-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-09-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-09-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/09/2023 : R\u00E8glement grand-ducal du 25 avril 2018 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive aupr\u00E8s de l\u2019Administration des services techniques de l\u2019agriculture.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/25/a330/consolide/20230909/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/25/a330/consolide/20230909/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2547f4ddcb4422de1bf8b29dcef4207e00bc1e4066b54eb24fde0778d53ec019"
+}

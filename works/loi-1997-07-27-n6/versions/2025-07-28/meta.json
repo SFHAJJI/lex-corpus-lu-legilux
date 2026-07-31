@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1997-07-27-n6:2025-07-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1997/07/27/n6",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-07-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-08-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/07/2025 : Loi du 27 juillet 1997 portant organisation de la Cour Constitutionnelle",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n6/consolide/20250728/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n6/consolide/20250728/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b64a58a2a5c6d46293f5aab09cd68b581385e8b0b86ac27dc264673d3100014c"
+}

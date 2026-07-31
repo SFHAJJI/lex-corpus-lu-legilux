@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2002-01-30-n1:2023-12-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-12-18",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-02-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-12-18",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 18/12/2023 : R\u00E8glement grand-ducal du 30 janvier 2002 d\u00E9terminant les modalit\u00E9s du programme de traitement de la toxicomanie par substitution.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20231218/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20231218/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "935084d9a07dea0394853d5c7f8643d7a3b8b961ccd5aef19f53e3650fe1be0a"
+}

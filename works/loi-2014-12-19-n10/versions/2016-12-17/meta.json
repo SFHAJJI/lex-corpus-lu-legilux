@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2014-12-19-n10:2016-12-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2016-12-17",
+  "valid_to": "2020-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-12-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-12-17",
+      "valid_to": "2020-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/12/2016 : Loi du 19 d\u00E9cembre 2014 relative\u00A01) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle\u00A02) \u00E0 la promotion de la cr\u00E9ation artistique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20161217/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20161217/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5b88ac8428cd004a0f031b874d01c3ff472d66e2fc7c810e1d8e71a3b4f4fd13"
+}

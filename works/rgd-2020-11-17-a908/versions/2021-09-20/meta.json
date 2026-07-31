@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-11-17-a908:2021-09-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-09-20",
+  "valid_to": "2022-06-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-10-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-09-20",
+      "valid_to": "2022-06-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/09/2021 : R\u00E8glement grand-ducal du 17 novembre 2020 fixant la liste des m\u00E9dicaments pr\u00E9vue \u00E0 l\u2019article 4, paragraphe 2, de la loi modifi\u00E9e du 25 novembre 1975 concernant la d\u00E9livrance au public des m\u00E9dicaments.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210920/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210920/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5556b2e20744186ab1934dd576e886b676867e70f5fff737765613ae35b3c1ed"
+}

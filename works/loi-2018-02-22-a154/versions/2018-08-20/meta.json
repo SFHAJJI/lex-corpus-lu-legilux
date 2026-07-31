@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2018-02-22-a154:2018-08-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/02/22/a154",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-08-20",
+  "valid_to": "2025-12-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-07-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-08-20",
+      "valid_to": "2025-12-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/08/2018 : Loi du 22 f\u00E9vrier 2018 relative \u00E0 l\u2019\u00E9change de donn\u00E9es \u00E0 caract\u00E8re personnel et d\u2019informations en mati\u00E8re polici\u00E8re et portant :\\n1) transposition de la d\u00E9cision-cadre 2006/960/JAI du Conseil du 18 d\u00E9cembre 2006 relative \u00E0 la simplification de l\u2019\u00E9change d\u2019informations et de renseignements entre les services r\u00E9pressifs des \u00C9tats membres de l\u2019Union europ\u00E9enne ; \\n2) mise en \u0153uvre de certaines dispositions de la d\u00E9cision 2008/615/JAI du Conseil du 23 juin 2008 relative \u00E0 l\u2019approfondissement de la coop\u00E9ration transfrontali\u00E8re, notamment en vue de lutter contre le terrorisme et la criminalit\u00E9 transfrontali\u00E8re.",
+      "title_short": "Loi du 22 f\u00E9vrier 2018\u00A0relative \u00E0 l\u2019\u00E9change de donn\u00E9es \u00E0 caract\u00E8re personnel et d\u2019informations en mati\u00E8re polici\u00E8re.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/02/22/a154/consolide/20180820/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/02/22/a154/consolide/20180820/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "03e500966a8301377f0aef5dc0c4dc6ff85916cdeb3402d7246abc59a7801994"
+}

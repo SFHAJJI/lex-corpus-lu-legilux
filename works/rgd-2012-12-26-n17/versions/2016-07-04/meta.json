@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2012-12-26-n17:2016-07-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n17",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2016-07-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-02-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-07-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/07/2016 : R\u00E8glement grand-ducal du 26 d\u00E9cembre 2012 relatif \u00E0 la production d\u2019\u00E9lectricit\u00E9 bas\u00E9e sur la cog\u00E9n\u00E9ration \u00E0 haut rendement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n17/consolide/20160704/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n17/consolide/20160704/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e4f29fe28430ff5c3f8eb23cb434c243217858d317007e768a4f7d9a412c7bbe"
+}

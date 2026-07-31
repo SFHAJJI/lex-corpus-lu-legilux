@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2010-12-17-n9:2025-01-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-01-17",
+  "valid_to": "2026-04-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-02-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-01-17",
+      "valid_to": "2026-04-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/01/2025 : Loi du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif et\\n - portant transposition de la directive 2009/65/CE du Parlement europ\u00E9en et du Conseil du 13 juillet 2009 portant coordination des dispositions l\u00E9gislatives, r\u00E9glementaires et administratives concernant certains organismes de placement collectif en valeurs mobili\u00E8res (OPCVM) (refonte);\\n - portant modification:\\n - de la loi modifi\u00E9e du 20 d\u00E9cembre 2002 concernant les organismes de placement collectif;\\n - de la loi modifi\u00E9e du 13 f\u00E9vrier 2007 relative aux fonds d\u0027investissement sp\u00E9cialis\u00E9s;\\n - de l\u0027article 156 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu.",
+      "title_short": "Loi du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20250117/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20250117/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "dd7a596d246f5316bbbc9484d6253b77b9dcd7f0039594000239142da12095ff"
+}

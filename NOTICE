@@ -1,0 +1,21 @@
+NOTICE — three layers (Lex spec §16.2)
+
+1. UNDERLYING ACTS AND DOCUMENTS
+   Official acts of public authority are excluded from copyright protection
+   (Luxembourg: loi du 18 avril 2001, art. 10, 8°). Where source metadata is
+   reused, it is reused under the publisher's own terms.
+   Attribution: Ministère d'État – Service central de législation, Grand-Duché de Luxembourg. Data: Legilux open data (CC-BY), data.public.lu dataset 62c83bfd9794ec8e47b5bc68.
+   Source terms: https://data.public.lu/en/datasets/legilux-journal-officiel-du-grand-duche-de-luxembourg/
+   Modifications: metadata converted from source RDF to JSON; no text altered,
+   no text stored. These obligations survive into forks and derived artefacts.
+
+2. LEX'S COMPILATION
+   The selection, arrangement, observation history and database rights in this
+   compilation are the work of the Lex project. Published corpus compilations
+   carry CC-BY-4.0 (spec D43, stars-maximal). Index release assets carry a
+   limited grant: free to download and use; redistribution of any build is
+   reserved.
+
+3. CODE LICENCE DOES NOT APPLY HERE
+   The Apache-2.0 licence of the lex code repository does not extend to this
+   data repository or to index artefacts.

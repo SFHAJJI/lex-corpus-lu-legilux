@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rmin-1988-02-15-n1:1994-10-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/1988/02/15/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "1994-10-31",
+  "valid_to": "2001-09-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1994-10-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1994-10-31",
+      "valid_to": "2001-09-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/10/1993 : R\u00E8glement minist\u00E9riel du 15 f\u00E9vrier 1988 concernant les dispositions techniques \u00E0 observer pour les installations au gaz naturel au Grand-Duch\u00E9 de Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1988/02/15/n1/consolide/19941031/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/1988/02/15/n1/consolide/19941031/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e2e88697b65cb93a3dcb6a414c3383762c9706b42077cd4f5fedc3f0092668ce"
+}

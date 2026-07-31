@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1984-12-20-n6:2002-06-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2002-06-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-11-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-06-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/06/2002 : R\u00E8glement grand-ducal du 20 d\u00E9cembre 1984 fixant les modalit\u00E9s relatives \u00E0 l\u0027administration du patrimoine des caisses de pension.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a7d07e23a909e93a7bc5a9ae97d6cfcb97557d8682c6e59c04f7d804ac8c3698"
+}

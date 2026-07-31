@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-douanes_accises:2018-03-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/douanes_accises",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2018-03-05",
+  "valid_to": "2018-04-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2018-03-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-03-05",
+      "valid_to": "2018-04-24",
+      "valid_time_source": "publisher",
+      "title": "Douanes et Accises",
+      "title_short": "Douanes et Accises",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/douanes_accises/20180305/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/douanes_accises/20180305/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "10ca1134ba3c56b896b52d32263b0649c47ab296e843b0f4874a3d29f6fb37ba"
+}

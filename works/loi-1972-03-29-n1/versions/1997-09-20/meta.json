@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1972-03-29-n1:1997-09-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1972/03/29/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1997-09-20",
+  "valid_to": "2001-05-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1997-11-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1997-09-20",
+      "valid_to": "2001-05-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/1996 : Loi du 29 mars 1972 sur le droit d\u0027auteur.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/03/29/n1/consolide/19970920/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1972/03/29/n1/consolide/19970920/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ad0d0ce86e3311634e7297387f5cbbd1444a01550be98b5b33de694712eb78b6"
+}

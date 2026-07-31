@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-03-16-a157:2021-05-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-05-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-05-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-05-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 14/05/2021 : R\u00E8glement grand-ducal du 16 mars 2020 concernant l\u2019\u00E9mission d\u2019une pi\u00E8ce de collection d\u00E9di\u00E9e \u00E0 la \u00AB\u00A0M\u00E9lusine\u00A0\u00BB.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "23743a7fa3bdd93c1ab9177947672e1132a4ec4b7ad21caa533d78f14eca373c"
+}

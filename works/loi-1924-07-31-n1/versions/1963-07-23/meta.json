@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1924-07-31-n1:1963-07-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1924/07/31/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1963-07-23",
+  "valid_to": "1968-04-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1963-10-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1963-07-23",
+      "valid_to": "1968-04-21",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/1962 : Loi du 31 juillet 1924 concernant la modification de la loi \u00E9lectorale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1924/07/31/n1/consolide/19630723/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1924/07/31/n1/consolide/19630723/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "401ecaee145b16b44e696f780d0f6bbb336a799b7205826e463cfec917493520"
+}

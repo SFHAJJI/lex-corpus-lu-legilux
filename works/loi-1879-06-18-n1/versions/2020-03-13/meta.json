@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-1879-06-18-n1:2020-03-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1879/06/18/n1",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2020-03-13",
+  "valid_to": "2020-03-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-03-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-03-13",
+      "valid_to": "2020-03-20",
+      "valid_time_source": "publisher",
+      "title": "Code p\u00E9nal",
+      "title_short": "Code p\u00E9nal",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/penal/20200313/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/penal/20200313/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bb21eff386bdd60fe6188fb1e4e4792d810b2cb729ae9e1d65d0c9fa19582c2d"
+}

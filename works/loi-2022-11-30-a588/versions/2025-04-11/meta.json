@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2022-11-30-a588:2025-04-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-04-11",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-04-11",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20250411",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20250411"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "94e9ecbd21efd8fb09bb8cfc7a27dc321b7433677ba80b9efe1d2613dbc97d43"
+}

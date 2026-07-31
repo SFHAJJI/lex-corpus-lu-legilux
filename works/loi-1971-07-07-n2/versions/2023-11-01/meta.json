@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1971-07-07-n2:2023-11-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-11-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-11-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/2023 : Loi modifi\u00E9e du 7 juillet 1971 portant, en mati\u00E8re r\u00E9pressive et administrative, institution d\u2019experts, de traducteurs et d\u2019interpr\u00E8tes, de conciliateurs d\u2019entreprise et mandataires de justice asserment\u00E9s et compl\u00E9tant les dispositions l\u00E9gales relatives \u00E0 l\u2019assermentation des experts, traducteurs et interpr\u00E8tes.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20231101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20231101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a0fd2ea4bae1e7fd2596b4d0d3bcfb399abe292d741acd9973274b74a78eb0a1"
+}

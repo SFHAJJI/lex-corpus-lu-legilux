@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rmin-2020-12-16-a1028:2021-03-29",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "2021-03-29",
+  "valid_to": "2024-09-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-10-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-03-29",
+      "valid_to": "2024-09-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 29/03/2021 : R\u00E8glement minist\u00E9riel du 16 d\u00E9cembre 2020 portant cr\u00E9ation de zones g\u00E9ographiques UAS.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20210329/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20210329/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "44aa6630cd5f80c09ed9c19e3d80b8e08b588d2edc616c9691c8cbcff3bfd961"
+}

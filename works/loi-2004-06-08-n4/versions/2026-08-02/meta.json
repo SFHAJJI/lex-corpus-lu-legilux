@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2004-06-08-n4:2026-08-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-08-02",
+  "valid_to": "2027-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-02",
+      "valid_to": "2027-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20260802",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20260802"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6303e14df3bc59a9e7d63cb9bdad2201c4f4d3fcb90a41528b946f3809d211de"
+}

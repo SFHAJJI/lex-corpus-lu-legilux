@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-04-08-a261:2020-04-29",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a261",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-04-29",
+  "valid_to": "2020-06-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-04-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-04-29",
+      "valid_to": "2020-06-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 29/04/2020 : R\u00E8glement grand-ducal du 8 avril 2020 ayant pour objet la mise en place d\u2019une indemnit\u00E9 d\u2019urgence certifi\u00E9e en faveur des travailleurs ind\u00E9pendants dans le cadre de la pand\u00E9mie Covid-19.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a261/consolide/20200429/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a261/consolide/20200429/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fb5230b40b0076034827d151ca3010795b0e6f161a183dbce3fb3174db99da69"
+}

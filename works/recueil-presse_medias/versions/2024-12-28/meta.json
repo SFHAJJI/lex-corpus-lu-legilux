@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-presse_medias:2024-12-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/presse_medias",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2024-12-28",
+  "valid_to": "2025-11-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-02-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-28",
+      "valid_to": "2025-11-25",
+      "valid_time_source": "publisher",
+      "title": "Presse et M\u00E9dias \u00E9lectroniques",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20241228/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20241228/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cae2a395869e933f44997ba4028c5b1f621b7ab2ef1ce0ecb6e44358573c2881"
+}

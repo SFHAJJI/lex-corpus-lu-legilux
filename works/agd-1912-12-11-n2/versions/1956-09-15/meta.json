@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:agd-1912-12-11-n2:1956-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1912/12/11/n2",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1956-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1956-09-15",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 15/09/1956 : Arr\u00EAt\u00E9 grand-ducal du 11 d\u00E9cembre 1912 portant r\u00E8glement pour l\u0027ex\u00E9cution de la loi du 7 ao\u00FBt 1912 sur la cr\u00E9ation d\u0027une caisse de pr\u00E9voyance en faveur des fonctionnaires et employ\u00E9s des communes et \u00E9tablissements publics.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1912/12/11/n2/consolide/19560915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1912/12/11/n2/consolide/19560915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d75545a079df6fd742d017fb66c927c3e2f9957a97154c171c0e81a8d30e022b"
+}

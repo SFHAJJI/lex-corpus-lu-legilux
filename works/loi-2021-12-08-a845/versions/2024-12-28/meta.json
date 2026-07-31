@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2021-12-08-a845:2024-12-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2021/12/08/a845",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-12-28",
+  "valid_to": "2026-04-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-01-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-28",
+      "valid_to": "2026-04-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/12/2024 : Loi du 8 d\u00E9cembre 2021 relative \u00E0 l\u2019\u00E9mission de lettres de gage, et portant :\\n1\u00B0 transposition de la directive (UE) 2019/2162 du Parlement europ\u00E9en et du Conseil du 27 novembre 2019 concernant l\u2019\u00E9mission d\u2019obligations garanties et la surveillance publique des obligations garanties et modifiant les directives 2009/65/CE et 2014/59/UE ;\\n2\u00B0 mise en \u0153uvre du r\u00E8glement (UE) 2019/2160 du Parlement europ\u00E9en et du Conseil du 27 novembre 2019 modifiant le r\u00E8glement (UE) n\u00B0 575/2013 en ce qui concerne les expositions sous forme d\u2019obligations garanties ; et\\n3\u00B0 modification de :\\na) la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier ;\\nb) la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier ;\\nc) la loi modifi\u00E9e du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif ; et de\\nd) la loi modifi\u00E9e du 18 d\u00E9cembre 2015 relative \u00E0 la d\u00E9faillance des \u00E9tablissements de cr\u00E9dit et de certaines entreprises d\u2019investissement.\\n",
+      "title_short": "Loi du 8 d\u00E9cembre 2021 relative \u00E0 l\u2019\u00E9mission de lettres de gage.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/08/a845/consolide/20241228/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/08/a845/consolide/20241228/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4b07c8d8510b9ec988e0121d8c3a470995a5725377e9d3963dd93a2d191fc4a9"
+}

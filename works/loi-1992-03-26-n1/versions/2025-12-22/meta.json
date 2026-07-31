@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1992-03-26-n1:2025-12-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2025-12-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-12-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/12/2025 : Loi modifi\u00E9e du 26 mars 1992 sur l\u2019exercice et la revalorisation de certaines professions de sant\u00E9, Texte coordonn\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20251222/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20251222/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "fb3ec65391b01d9dd71667aa5e9ae1ae8d6f8129caff38abfefbdf36f676b375"
+}

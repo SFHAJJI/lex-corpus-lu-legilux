@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:code-environnement_annexes:2022-05-29",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/environnement_annexes",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2022-05-29",
+  "valid_to": "2022-06-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-05-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-05-29",
+      "valid_to": "2022-06-07",
+      "valid_time_source": "publisher",
+      "title": "Code de l\u0027environnement (annexes)",
+      "title_short": "Code de l\u0027environnement (annexes)",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/environnement_annexes/20220529/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/environnement_annexes/20220529/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5a8909ff4f43a4f39b924f127e703210fa4f9bdcbfa4a4a2240c5b9f3dec9163"
+}

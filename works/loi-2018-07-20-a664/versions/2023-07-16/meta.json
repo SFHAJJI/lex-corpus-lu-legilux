@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2018-07-20-a664:2023-07-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-07-16",
+  "valid_to": "2023-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-07-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-16",
+      "valid_to": "2023-08-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/07/2023 : Loi du 20 juillet 2018 portant cr\u00E9ation\\n1\u00B0 de Centres de comp\u00E9tences en psycho-p\u00E9dagogie sp\u00E9cialis\u00E9e en faveur de l\u2019inclusion scolaire ;\\n2\u00B0 du Service national de l\u2019\u00E9ducation inclusive.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230716/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230716/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4e084a18849e15ab442e212a1abcc591ee7f128b68a5a69f1f7f3242de93b4cb"
+}

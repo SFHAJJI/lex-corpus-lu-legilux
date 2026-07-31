@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2008-09-26-n3:2024-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2024 : R\u00E8glement grand-ducal du 26 septembre 2008 d\u00E9terminant le niveau de r\u00E9mun\u00E9ration minimal pour un travailleur hautement qualifi\u00E9 en ex\u00E9cution de la loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20240701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20240701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9dfe25ee6b3b72fb590f07221a65d41c673534cfdb2ccab418684993c28695a3"
+}

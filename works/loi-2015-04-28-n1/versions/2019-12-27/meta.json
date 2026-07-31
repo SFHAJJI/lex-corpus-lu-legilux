@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2015-04-28-n1:2019-12-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2015/04/28/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2019-12-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-08-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-12-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/12/2019 : Loi du 28 avril 2015 relative au r\u00E9seau cyclable national et aux raccordements de ce r\u00E9seau vers les r\u00E9seaux cyclables communaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/04/28/n1/consolide/20191227/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/04/28/n1/consolide/20191227/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1456dafb38d8771dc5ca0de207f9f4204c0557b8dd94041a1c8feeee81c8cc5e"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2025-03-13-a93:2025-03-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-03-21",
+  "valid_to": "2026-07-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-03-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-03-21",
+      "valid_to": "2026-07-24",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 21/03/2025 : R\u00E8glement grand-ducal du 13 mars 2025 concernant la protection des salari\u00E9s contre les risques li\u00E9s \u00E0 l\u2019exposition \u00E0 des agents canc\u00E9rig\u00E8nes ou mutag\u00E8nes ou \u00E0 des substances reprotoxiques au travail.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/consolide/20250321/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2025/03/13/a93/consolide/20250321/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "40502f589222af2cf80a501ad7fe9c4a5914bf71fcb636c9d60e1617b0028eb5"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2007-08-30-n1:2007-09-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2007-09-11",
+  "valid_to": "2017-03-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2007-09-11",
+      "valid_to": "2017-03-31",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 11/09/2007 : R\u00E8glement grand-ducal du 30 ao\u00FBt 2007 concernant les exigences de tra\u00E7abilit\u00E9, la notification des r\u00E9actions et incidents ind\u00E9sirables graves, ainsi que certaines exigences techniques relatives \u00E0 la codification, \u00E0 la transformation, \u00E0 la conservation, au stockage et \u00E0 la distribution des tissus et de cellules d\u2019origine humaine.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20070911/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20070911/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a745157507c52c7b164676b02b9bbce4529e4ddb43112ab331f222158214cf46"
+}

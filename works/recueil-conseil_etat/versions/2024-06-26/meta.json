@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-conseil_etat:2024-06-26",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/conseil_etat",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2024-06-26",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-10-14",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-06-26",
+      "valid_time_source": "publisher",
+      "title": "Conseil d\u0027\u00C9tat",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240626/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240626/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f6ccc473842f0feb898d8cfa28ec51c54edcfd59da7bd7fecb913cdf26ec137c"
+}

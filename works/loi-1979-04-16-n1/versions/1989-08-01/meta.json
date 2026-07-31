@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1979-04-16-n1:1989-08-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1989-08-01",
+  "valid_to": "1992-08-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1989-08-10",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1989-08-01",
+      "valid_to": "1992-08-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/12/1988 : Loi du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/19890801/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/19890801/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a391f7edf2fe99224507800059c90830f7570546087a9b1074005d2a96155d60"
+}

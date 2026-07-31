@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1993-02-04-n4:2024-12-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-12-14",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-03-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-14",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 14/12/2024 : R\u00E8glement grand-ducal du 4 f\u00E9vrier 1993 fixant les modalit\u00E9s de fonctionnement de l\u0027\u00E9tablissement public pour le d\u00E9veloppement de la formation professionnelle continue.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20241214/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20241214/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ac3868a6f5468c1d4b0decb0d88d2c565f8b3d2d00c3d9e489a5eb3492ee956f"
+}

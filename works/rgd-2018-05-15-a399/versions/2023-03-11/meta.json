@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-05-15-a399:2023-03-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-03-11",
+  "valid_to": "2024-06-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-03-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-03-11",
+      "valid_to": "2024-06-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/03/2023 : R\u00E8glement grand-ducal du 15 mai 2018 \u00E9tablissant les listes de projets soumis \u00E0 une \u00E9valuation des incidences sur l\u2019environnement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20230311/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20230311/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cb3d41bfacf18508aabf411661da1a6e7afa9cee8f827ce290d15cc10e4ba3b4"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1969-07-15-n4:2017-03-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2017-03-10",
+  "valid_to": "2022-06-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-10-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-03-10",
+      "valid_to": "2022-06-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/03/2017 : R\u00E8glement grand-ducal du 15 juillet 1969 portant ex\u00E9cution des articles 1er et 5 de la loi du 18 novembre 1967 portant r\u00E9glementation de certaines professions param\u00E9dicales, en ce qui concerne la profession de laborantin.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/20170310/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/20170310/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3b1f03a3650a18192ebdf595035452128b2b3e4ca9b7682dc3031102880f4e0f"
+}

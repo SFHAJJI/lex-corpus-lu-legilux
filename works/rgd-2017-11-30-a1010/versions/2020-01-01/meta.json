@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-11-30-a1010:2020-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/11/30/a1010",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-01-01",
+  "valid_to": "2020-03-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-03-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-01-01",
+      "valid_to": "2020-03-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2020 : R\u00E8glement grand-ducal du 30 novembre 2017 arr\u00EAtant la nomenclature des actes et services des laboratoires d\u2019analyses m\u00E9dicales et de biologie clinique pris en charge par l\u0027assurance maladie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/30/a1010/consolide/20200101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/30/a1010/consolide/20200101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6d26661c8640743bbfb3c6230b134e5418e25818980b7bec17366222e0fb72c1"
+}

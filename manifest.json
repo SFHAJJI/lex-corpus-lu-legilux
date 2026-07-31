@@ -1,0 +1,121 @@
+{
+  "schema": "lex-corpus/3",
+  "publisher": {
+    "id": "lu-legilux",
+    "name": "Service central de l\u00E9gislation (Legilux)",
+    "jurisdiction": "LU",
+    "homepage": "https://legilux.public.lu"
+  },
+  "tier": "A",
+  "attribution": "Minist\u00E8re d\u0027\u00C9tat \u2013 Service central de l\u00E9gislation, Grand-Duch\u00E9 de Luxembourg. Data: Legilux open data (CC-BY), data.public.lu dataset 62c83bfd9794ec8e47b5bc68.",
+  "source_terms_url": "https://data.public.lu/en/datasets/legilux-journal-officiel-du-grand-duche-de-luxembourg/",
+  "text_included": false,
+  "text_public": false,
+  "modifications": "Metadata converted from source RDF to JSON; no text stored (metadata-only mode, D42).",
+  "document_types": [
+    {
+      "code": "LOI",
+      "versions": 1492
+    },
+    {
+      "code": "RGD",
+      "versions": 1181
+    },
+    {
+      "code": "RECUEIL",
+      "versions": 747
+    },
+    {
+      "code": "CODE_RECUEIL",
+      "versions": 708
+    },
+    {
+      "code": "CODE",
+      "versions": 188
+    },
+    {
+      "code": "AGD",
+      "versions": 39
+    },
+    {
+      "code": "Constitution",
+      "versions": 37
+    },
+    {
+      "code": "RMIN",
+      "versions": 32
+    },
+    {
+      "code": "RI",
+      "versions": 21
+    },
+    {
+      "code": "AMIN",
+      "versions": 17
+    },
+    {
+      "code": "RGC",
+      "versions": 13
+    },
+    {
+      "code": "PA",
+      "versions": 6
+    },
+    {
+      "code": "CONV",
+      "versions": 4
+    },
+    {
+      "code": "AGC",
+      "versions": 3
+    },
+    {
+      "code": "ORD",
+      "versions": 3
+    },
+    {
+      "code": "ARGD",
+      "versions": 2
+    },
+    {
+      "code": "TC",
+      "versions": 2
+    },
+    {
+      "code": "A",
+      "versions": 1
+    },
+    {
+      "code": "DIV",
+      "versions": 1
+    },
+    {
+      "code": "PROT",
+      "versions": 1
+    },
+    {
+      "code": "RBCL",
+      "versions": 1
+    },
+    {
+      "code": "REG",
+      "versions": 1
+    },
+    {
+      "code": "ST",
+      "versions": 1
+    }
+  ],
+  "languages": [
+    "de",
+    "en",
+    "fr",
+    "lb"
+  ],
+  "works": 1399,
+  "versions": 4644,
+  "valid_from_earliest": "1849-03-14",
+  "valid_to_latest": "2030-09-15",
+  "history_begins": "publisher",
+  "ingester_version": "0.1.0"
+}

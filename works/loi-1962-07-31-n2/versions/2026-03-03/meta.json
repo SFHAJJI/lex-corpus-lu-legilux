@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1962-07-31-n2:2026-03-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-03-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/03/2026 : Loi du 31 juillet 1962 ayant pour objet le renforcement de l\u2019alimentation en eau potable au Grand-Duch\u00E9 de Luxembourg \u00E0 partir du r\u00E9servoir d\u2019Esch-sur-S\u00FBre.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "73afb4781d12a1b9c9f158a34b32f75af33196177e2e8406cd15738f3d9fd92e"
+}

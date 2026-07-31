@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2022-07-20-a371:2022-07-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2022/07/20/a371",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-07-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-07-24",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 24/07/2022 : Loi du 20 juillet 2022 portant :\\n1\u00B0 modification de :\\na) la loi modifi\u00E9e du 15 mars 2016 relative aux produits d\u00E9riv\u00E9s de gr\u00E9 \u00E0 gr\u00E9, aux contreparties centrales et aux r\u00E9f\u00E9rentiels centraux et modifiant diff\u00E9rentes lois relatives aux services financiers ;\\nb) la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier ;\\nc) la loi modifi\u00E9e du 5 ao\u00FBt 2005 sur les contrats de garantie financi\u00E8re ;\\nd) la loi modifi\u00E9e du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement europ\u00E9en et du Conseil du 21 avril 2004 concernant les offres publiques d\u2019acquisition ;\\ne) la loi modifi\u00E9e du 24 mai 2011 concernant l\u2019exercice de certains droits des actionnaires aux assembl\u00E9es g\u00E9n\u00E9rales des soci\u00E9t\u00E9s cot\u00E9es ;\\nf) la loi modifi\u00E9e du 18 d\u00E9cembre 2015 relative \u00E0 la d\u00E9faillance des \u00E9tablissements de cr\u00E9dit et de certaines entreprises d\u2019investissement ; et du\\ng) r\u00E8glement grand-ducal modifi\u00E9 du 18 d\u00E9cembre 1981 concernant les d\u00E9p\u00F4ts fongibles de m\u00E9taux pr\u00E9cieux et modifiant l\u2019article 1er du r\u00E8glement grand-ducal du 17 f\u00E9vrier 1971 concernant la circulation de valeurs mobili\u00E8res ; et\\n2\u00B0 mise en \u0153uvre du r\u00E8glement (UE) 2021/23 du Parlement europ\u00E9en et du Conseil du 16 d\u00E9cembre 2020 relatif \u00E0 un cadre pour le redressement et la r\u00E9solution des contreparties centrales et modifiant les r\u00E8glements (UE) n\u00B0 1095/2010, (UE) n\u00B0 648/2012, (UE) n\u00B0 600/2014, (UE) n\u00B0 806/2014 et (UE) 2015/2365, ainsi que les directives 2002/47/CE, 2004/25/CE, 2007/36/CE, 2014/59/UE et (UE) 2017/1132.\\n",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/20/a371/consolide/20220724/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/20/a371/consolide/20220724/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4297c07c06de3855b2932dce31471f39d3bb2140253dbb1ce263db557890ca48"
+}

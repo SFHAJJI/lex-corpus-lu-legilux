@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-11-04-a917:2022-08-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-08-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-08-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-08-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/08/2022 : R\u00E8glement grand-ducal du 4 novembre 2020 relatif \u00E0 la composition et au fonctionnement de la commission consultative d\u2019\u00E9valuation de l\u2019int\u00E9r\u00EAt sup\u00E9rieur des mineurs non accompagn\u00E9s pr\u00E9vue \u00E0 l\u2019article 103 de la loi modifi\u00E9e du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "45eac89dce120387b9d16e4e4fac6035da3ac03e66ceec6075e8c074678c1b28"
+}

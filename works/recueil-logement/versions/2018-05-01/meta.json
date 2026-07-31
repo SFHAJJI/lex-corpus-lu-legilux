@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-logement:2018-05-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/logement",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2018-05-01",
+  "valid_to": "2018-06-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2018-05-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-05-01",
+      "valid_to": "2018-06-01",
+      "valid_time_source": "publisher",
+      "title": "Logement",
+      "title_short": "Logement",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/logement/20180501/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/logement/20180501/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "54c9f4e762192886ea9d59d8d0ffb0ff55c02338cc8da3da764ff89179dcf656"
+}

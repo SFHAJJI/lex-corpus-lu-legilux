@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1990-12-24-n7:2002-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2002-01-01",
+  "valid_to": "2006-01-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-01-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2002-01-01",
+      "valid_to": "2006-01-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2002 : R\u00E8glement grand-ducal du 24 d\u00E9cembre 1990 \u00E9tablissant un r\u00E9gime d\u0027imposition forfaitaire des marins.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7/consolide/20020101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7/consolide/20020101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9f99812f7be3a465ab808a402d9d5791d335b52304b5475ab0d268bd19b38044"
+}

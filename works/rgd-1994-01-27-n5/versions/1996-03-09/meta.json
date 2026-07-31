@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1994-01-27-n5:1996-03-09",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1994/01/27/n5",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1996-03-09",
+  "valid_to": "2000-03-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1996-05-31",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1996-03-09",
+      "valid_to": "2000-03-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1995 : R\u00E8glement grand-ducal du 27 janvier 1994 portant application en droit luxembourgeois des directives CEE relatives aux march\u00E9s publics de travaux, de fournitures et de services.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/01/27/n5/consolide/19960309/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1994/01/27/n5/consolide/19960309/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "acd9e0048a9f59f4ef1e82e592ed17a2e65eacb29c77c1954c3b0e26265b1dea"
+}

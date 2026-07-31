@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2015-08-25-n9:2016-12-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2016-12-17",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-04-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-12-17",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/12/2016 : R\u00E8glement grand-ducal du 25 ao\u00FBt 2015 concernant l\u0027information des consommateurs sur les denr\u00E9es alimentaires, les all\u00E9gations nutritionnelles et de sant\u00E9 ainsi que le marquage du num\u00E9ro de lot.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/consolide/20161217/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/25/n9/consolide/20161217/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "145d6d37fddf0da1cf127790f881923843de2d994d57c00fa6de5e3aebe365b7"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2013-01-14-n2:2017-03-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2017-03-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-06-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-03-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/03/2017 : R\u00E8glement grand-ducal du 14 janvier 2013 fixant les conditions et les modalit\u00E9s de la prestation de services du m\u00E9decin, du m\u00E9decin-dentiste, du m\u00E9decin-v\u00E9t\u00E9rinaire et du pharmacien, ainsi que des professionnels de sant\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n2/consolide/20170310/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n2/consolide/20170310/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6a5d41aa9bd3ba89058909ab8870ee37fa34312ff20a7bf6106c03c25e8ab712"
+}

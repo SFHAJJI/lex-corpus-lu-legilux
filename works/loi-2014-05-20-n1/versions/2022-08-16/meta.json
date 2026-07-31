@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2014-05-20-n1:2022-08-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/05/20/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-08-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-09-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-08-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/08/2022 : Loi du 20 mai 2014 relative au financement du R\u00E9seau national int\u00E9gr\u00E9 de radiocommunication pour les services de s\u00E9curit\u00E9 et de secours luxembourgeois.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/05/20/n1/consolide/20220816/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/05/20/n1/consolide/20220816/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f59e6ba470154921d3b8557001aae5782cac85df72589d8c980a0da4f1f0f485"
+}

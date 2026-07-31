@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2003-09-08-n1:2018-08-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2018-08-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-12-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-08-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/08/2018 : Loi du 8 septembre 2003 sur la violence domestique portant modification\\n 1) de la loi du 31 mai 1999 sur la police et l\u0027inspection g\u00E9n\u00E9rale de la police;\\n 2) du code p\u00E9nal;\\n 3) du code d\u0027instruction criminelle;\\n 4) du nouveau code de proc\u00E9dure civile.",
+      "title_short": "Loi sur la violence domestique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/consolide/20180803/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/09/08/n1/consolide/20180803/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "889897141e9b9b0b175c01c1ad7a390f2ebf469060bf656899f28d30da1e9bfa"
+}

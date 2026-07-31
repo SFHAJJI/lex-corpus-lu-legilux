@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-langues:2008-11-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/langues",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2008-11-28",
+  "valid_to": "2018-08-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2008-11-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2008-11-28",
+      "valid_to": "2018-08-07",
+      "valid_time_source": "publisher",
+      "title": "Langues",
+      "title_short": "Langues",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/langues/20081128/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/langues/20081128/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "41402828390c4166de929784bef7fb9e057b83e349ddb0e4ab2598900ebc1dab"
+}

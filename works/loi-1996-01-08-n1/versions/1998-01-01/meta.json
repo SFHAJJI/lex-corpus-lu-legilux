@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1996-01-08-n1:1998-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1998-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-11-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1998-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/1998 : Loi du 8 janvier 1996 modifiant et compl\u00E9tant a) la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat; b) la loi modifi\u00E9e du 22 juin 1963 fixant la valeur num\u00E9rique des traitements des fonctionnaires de l\u0027Etat ainsi que des modalit\u00E9s de mise en vigueur de la loi du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat; c) la loi du 29 juillet 1988 portant modification et nouvelle coordination de la loi du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat; d) la loi du 23 d\u00E9cembre 1994 concernant le budget des recettes et des d\u00E9penses de l\u0027Etat pour l\u0027exercice 1995.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8f9f94a1db5e444eddb27d62e7a3df61809310f056c39a6211bcd7be38b7d952"
+}

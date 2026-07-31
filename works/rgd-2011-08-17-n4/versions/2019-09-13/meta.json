@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2011-08-17-n4:2019-09-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n4",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2019-09-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-02-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-09-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 13/09/2019 : R\u00E8glement grand-ducal du 17 ao\u00FBt 2011 concernant l\u2019agr\u00E9ment \u00E0 accorder aux gestionnaires d\u2019activit\u00E9s pour enfants, jeunes adultes et familles en d\u00E9tresse.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n4/consolide/20190913/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n4/consolide/20190913/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "682cd42529cb24a8c72106b1ae58acc1d8f2961a3bce3d2e1b32b083caa63d5a"
+}

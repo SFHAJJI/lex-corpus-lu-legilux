@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2020-07-10-a580:2020-12-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-12-20",
+  "valid_to": "2021-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-12-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-20",
+      "valid_to": "2021-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/12/2020 : Loi du 10 juillet 2020 portant prorogation de la d\u00E9rogation aux dispositions des articles 3, 6, 7 et 9 de la loi du 1er ao\u00FBt 2019 concernant les mutuelles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20201220/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20201220/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "630630c1e60e3fbc9f7c0a54c938a07cc26cbd91e757774fd0916d65d46034c3"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1990-02-22-n6:1991-12-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1991-12-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-02-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1991-12-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1991 : R\u00E8glement grand-ducal du 22 f\u00E9vrier 1990 d\u00E9terminant les conditions d\u0027admission et de promotion des fonctionnaires de la carri\u00E8re de l\u0027exp\u00E9ditionnaire technique des \u00E9tablissements d\u0027enseignement secondaire, d\u0027enseignement technique et de l\u0027Institut sup\u00E9rieur de technologie.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/consolide/19911203/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/02/22/n6/consolide/19911203/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3f92ff47e69da7880dcac7507f3226609e6700b02f0b2f6be86380e49e57a6d1"
+}

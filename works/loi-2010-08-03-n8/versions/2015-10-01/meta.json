@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2010-08-03-n8:2015-10-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-10-01",
+  "valid_to": "2026-03-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-05-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-10-01",
+      "valid_to": "2026-03-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 3 ao\u00FBt 2010 portant r\u00E9organisation de l\u2019Administration des Ponts et Chauss\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20151001/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20151001/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cd9caa2ebf2d0e354db1cfe90745751f19a7613251a13b83a10162d37d8765fc"
+}

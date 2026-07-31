@@ -1,0 +1,31 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-02-10-a141:2026-04-19",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a141",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-04-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-04-19",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a141/consolide/20260419",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/02/10/a141/consolide/20260419"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "492bace1597cef8141e639c49e799e946461f15bec05bc9e5506090ce084f59b"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1975-11-25-n1:2021-07-16",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2021-07-16",
+  "valid_to": "2026-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-07-16",
+      "valid_to": "2026-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 16/07/2021 : Loi du 25 novembre 1975 concernant la d\u00E9livrance au public des m\u00E9dicaments.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20210716/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20210716/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6193f6ff255ec4162044b7ccb81025e336eb6918bc04ae6518984150b6fab6b8"
+}

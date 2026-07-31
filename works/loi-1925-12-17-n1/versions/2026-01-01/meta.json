@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1925-12-17-n1:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1925/12/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2026-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_time_source": "publisher",
+      "title": "Code de la S\u00E9curit\u00E9 sociale",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/securite_sociale/20260101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/securite_sociale/20260101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "52b02ba7b621cf400b08e271c2642ecffe534c087c4a62f277811246cffabc4b"
+}

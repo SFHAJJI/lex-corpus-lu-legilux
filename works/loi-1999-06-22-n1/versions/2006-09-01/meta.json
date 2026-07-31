@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1999-06-22-n1:2006-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2006-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-10-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2006-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2006 : Loi du 22 juin 1999 ayant pour objet\\n 1. le soutien et le d\u00E9veloppement de la formation professionnelle continue;\\n 2. la modification de la loi modifi\u00E9e du 28 d\u00E9cembre 1988 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20060901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20060901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "248976fba4170157b156333ed3820a450d928e7ee20b47607795b10e1d7f5867"
+}

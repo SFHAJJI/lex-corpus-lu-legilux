@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2022-02-25-a90:2022-06-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-06-01",
+  "valid_to": "2023-04-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-02-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-06-01",
+      "valid_to": "2023-04-02",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/06/2022 : R\u00E8glement grand-ducal du 25 f\u00E9vrier 2022 relatif aux sp\u00E9cifications techniques pour le marquage des armes d\u0027alarme et de signalisation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20220601/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20220601/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7a8afe92ec26e299c8c6e6b33422132c44540fca4ff8623c8045034470dcf4ba"
+}

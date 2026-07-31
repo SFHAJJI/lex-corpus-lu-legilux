@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2016-07-05-n1:2020-08-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-08-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2020-10-02",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-08-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/08/2020 : Loi du 5 juillet 2016 autorisant le Gouvernement \u00E0 participer au programme multinational \u00ABMulti-Role Tanker Transport\u00BB (MRTT).",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1/consolide/20200825/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n1/consolide/20200825/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6a087ea0542fb090306cff83d37c7a53ee25d1e9222003f9b922c3dbe77bf39b"
+}

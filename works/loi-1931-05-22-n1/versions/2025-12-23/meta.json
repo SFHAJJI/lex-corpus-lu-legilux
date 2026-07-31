@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-1931-05-22-n1:2025-12-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1931/05/22/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-12-23",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-12-23",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1931/05/22/n1/consolide/20251223",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1931/05/22/n1/consolide/20251223"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8cb152b988cdbcc641961367aed615717a58de0066c198a501173e3caaa18c98"
+}

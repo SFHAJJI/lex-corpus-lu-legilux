@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2006-07-31-n2:2020-12-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2006/07/31/n2",
+  "publisher": "lu-legilux",
+  "document_type": "CODE",
+  "valid_from": "2020-12-22",
+  "valid_to": "2021-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-12-22",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-22",
+      "valid_to": "2021-01-01",
+      "valid_time_source": "publisher",
+      "title": "Code du travail",
+      "title_short": "Code du travail",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/travail/20201222/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/travail/20201222/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "519f8af585ba892091515450f82caf79f749ef3cc34eeac4d8489a42afbb10f9"
+}

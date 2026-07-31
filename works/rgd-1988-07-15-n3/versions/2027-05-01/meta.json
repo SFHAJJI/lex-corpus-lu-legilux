@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:rgd-1988-07-15-n3:2027-05-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3",
+  "publisher": "lu-legilux",
+  "valid_from": "2027-05-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2027-05-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20270501",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20270501"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "55dae4b4c26612fbe0f5976062cf41a9c6746038afddf262ed5b904cd60048df"
+}

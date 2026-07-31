@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2004-11-12-n1:2026-07-27",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-07-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-07-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-07-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 27/07/2026 : Loi du 12 novembre 2004 relative \u00E0 la lutte contre le blanchiment et contre le financement du terrorisme portant transposition de la directive 2001/97/CE du Parlement europ\u00E9en et du Conseil du 4 d\u00E9cembre 2001 modifiant la directive 91/308/CEE du Conseil relative \u00E0 la pr\u00E9vention de l\u0027utilisation du syst\u00E8me financier aux fins du blanchiment de capitaux et modifiant:\\n1. le Code p\u00E9nal;\\n2. le Code d\u0027instruction criminelle;\\n3. la loi modifi\u00E9e du 7 mars 1980 sur l\u0027organisation judiciaire;\\n4. la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u0027une commission de surveillance du secteur financier;\\n5. la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier;\\n6. la loi modifi\u00E9e du 6 d\u00E9cembre 1991 sur le secteur des assurances;\\n7. la loi modifi\u00E9e du 9 d\u00E9cembre 1976 relative \u00E0 l\u0027organisation du notariat;\\n8. la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat;\\n9. la loi modifi\u00E9e du 28 juin 1984 portant organisation de la profession de r\u00E9viseurs d\u0027entreprises;\\n10. la loi du 10 juin 1999 portant organisation de la profession d\u0027expert-comptable;\\n11. la loi modifi\u00E9e du 20 avril 1977 relative \u00E0 l\u0027exploitation des jeux de hasard et des paris relatifs aux \u00E9preuves sportives;\\n12. la loi g\u00E9n\u00E9rale des imp\u00F4ts (\u00ABAbgabenordnung\u00BB).",
+      "title_short": "Loi du 12 novembre 2004 relative \u00E0 la lutte contre le blanchiment et contre le financement du terrorisme.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20260727/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/11/12/n1/consolide/20260727/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a6635174db0ead57440b0e727f963d4b6c3d69b45f8a0b5ece7b9d1a562af35e"
+}

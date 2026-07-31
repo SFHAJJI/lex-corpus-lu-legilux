@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:agd-1960-08-20-n1:1960-08-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "1960-08-24",
+  "valid_to": "1965-08-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-12-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1960-08-24",
+      "valid_to": "1965-08-25",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 24/08/1960 : Arr\u00EAt\u00E9 grand-ducal du 20 ao\u00FBt 1960 portant r\u00E8glement d\u0027administration publique pour l\u0027application de la loi du 30 juillet 1060 concernant la cr\u00E9ation d\u0027un Fonds National de Solidarit\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19600824/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19600824/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7d309a52027d79355674b015f3b52e1e87ba6237533f4fc8dc9b55f1057d7099"
+}

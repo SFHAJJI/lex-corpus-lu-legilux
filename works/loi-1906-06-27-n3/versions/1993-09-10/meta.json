@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1906-06-27-n3:1993-09-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1993-09-10",
+  "valid_to": "2017-04-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1993-09-10",
+      "valid_to": "2017-04-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/09/1993 : Loi du 27 juin 1906, concernant la protection de la sant\u00E9 publique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19930910/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19930910/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3c73b9542097e88061cb0cc4e3f7899cbef0db75261804ee8f0052baf56bad1b"
+}

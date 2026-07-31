@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2008-09-05-n3:2018-09-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-09-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-09-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-09-21",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/09/2018 : R\u00E8glement grand-ducal du 5 septembre 2008 fixant les conditions et modalit\u00E9s relatives \u00E0 la d\u00E9livrance d\u2019une autorisation de s\u00E9jour en tant que travailleur salari\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20180921/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20180921/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ba2034a043a00cb1e82c6b6e1a21da5ae7001dddba019e55e85884632c33a1c9"
+}

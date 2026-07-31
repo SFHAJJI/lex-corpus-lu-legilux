@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2020-06-20-a542:2020-07-28",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-07-28",
+  "valid_to": "2020-12-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-10-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-07-28",
+      "valid_to": "2020-12-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 28/07/2020 : Loi du 20 juin 2020 portant adaptation temporaire de certaines modalit\u00E9s proc\u00E9durales en mati\u00E8re p\u00E9nale.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20200728/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20200728/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e2a1f1a318451b8508b4e4d36eacb71489397f36505a17922057ae93eb992a0e"
+}

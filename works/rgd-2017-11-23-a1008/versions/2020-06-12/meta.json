@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-11-23-a1008:2020-06-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/11/23/a1008",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-06-12",
+  "valid_to": "2021-04-12",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-01-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-06-12",
+      "valid_to": "2021-04-12",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/06/2020 : R\u00E8glement grand-ducal du 23 novembre 2017 concernant la commercialisation des mat\u00E9riels de multiplication de plantes fruiti\u00E8res et des plantes fruiti\u00E8res destin\u00E9es \u00E0 la production de fruits.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/23/a1008/consolide/20200612/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/23/a1008/consolide/20200612/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "abd7fe188ba0bbfb59d995e58a54e37db4a4de528cfa1553c1eb6d57879f6aed"
+}

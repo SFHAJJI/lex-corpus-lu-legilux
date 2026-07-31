@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-02-03-n1:2022-05-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-05-03",
+  "valid_to": "2022-10-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-05-03",
+      "valid_to": "2022-10-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/05/2022 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2009 relatif au contr\u00F4le m\u00E9dical des \u00E9trangers.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20220503/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20220503/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "90b9ad711e07c6d97b884f9e79950137001b7a3a0eebdc59cf0e7e24186651e2"
+}

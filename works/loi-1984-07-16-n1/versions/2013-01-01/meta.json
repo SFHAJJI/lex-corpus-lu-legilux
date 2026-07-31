@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1984-07-16-n1:2013-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2013-01-01",
+  "valid_to": "2014-05-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2013-01-01",
+      "valid_to": "2014-05-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2013 : Loi du 16 juillet 1984 relative aux laboratoires d\u0027analyses m\u00E9dicales.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20130101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20130101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8bc20bc9fe26ea99709d0d1398f36e05cca6555000c187d2cafda70fd9a00775"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-agc-2023-10-06-b3399:2023-11-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399",
+  "publisher": "lu-legilux",
+  "document_type": "AGC",
+  "valid_from": "2023-11-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-13",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-11-06",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 06/11/2023 : Arr\u00EAt\u00E9 du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d\u2019administration de l\u2019Institut national pour le d\u00E9veloppement de la formation professionnelle continue (INFPC).",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/consolide/20231106/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/consolide/20231106/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "592af3dbf6667b270b1eaa2218cf14542207ee74b1db74ce2130058db6bd2874"
+}

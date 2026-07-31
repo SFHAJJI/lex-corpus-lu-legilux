@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-04-03-a232:2021-05-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-05-04",
+  "valid_to": "2022-01-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-06-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-05-04",
+      "valid_to": "2022-01-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/05/2021 : R\u00E8glement grand-ducal du 3 avril 2020 portant ex\u00E9cution des articles 5, 6 et 8 de la loi modifi\u00E9e du 19 d\u00E9cembre 2014 relative 1) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle 2) \u00E0 la promotion de la cr\u00E9ation artistique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20210504/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20210504/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "80d4cba4c0f326f249f0b6858e5e8bce939c063db073d7c83d28676e541b662c"
+}

@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:argd-1849-03-03-n1:2016-09-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/argd/1849/03/03/n1",
+  "publisher": "lu-legilux",
+  "document_type": "ARGD",
+  "valid_from": "2016-09-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-11-05",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2016-09-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/09/2016 : Arr\u00EAt\u00E9 royal grand-ducal du 5 mars 1849 portant modification au r\u00E8glement sur l\u2019exercice du droit \u00E0 l\u2019affouage.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/argd/1849/03/03/n1/consolide/20160902/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/argd/1849/03/03/n1/consolide/20160902/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cbf35296208fbe47432c3cc04d950eb7c40be012a01b920d5752a84e05590c63"
+}

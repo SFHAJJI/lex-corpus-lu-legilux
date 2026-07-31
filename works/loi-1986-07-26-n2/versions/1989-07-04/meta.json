@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1986-07-26-n2:1989-07-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1989-07-04",
+  "valid_to": "1991-04-29",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1989-09-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1989-07-04",
+      "valid_to": "1991-04-29",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/1988 : Loi du 26 juillet 1986 portant\na) cr\u00E9ation du droit \u00E0 un revenu minimum garanti;\nb) cr\u00E9ation d\u0027un service national d\u0027action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la cr\u00E9ation d\u0027un fonds national de solidarit\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19890704/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19890704/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "488239e26c5f1b617ac16acce44a34a22cfb44732e65e4c9f53bb63cf9d61c00"
+}

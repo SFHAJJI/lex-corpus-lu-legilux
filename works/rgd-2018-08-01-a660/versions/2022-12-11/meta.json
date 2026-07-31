@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-08-01-a660:2022-12-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a660",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2022-12-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-12-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-12-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/12/2022 : R\u00E8glement grand-ducal du 1er ao\u00FBt 2018 \u00E9tablissant le programme d\u2019\u00E9quipement de l\u2019infrastructure touristique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a660/consolide/20221211/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a660/consolide/20221211/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "09817168c6c8cb65cd6a44444b2b6c1df3cf386898ee7a31a6741b6e88f8c62d"
+}

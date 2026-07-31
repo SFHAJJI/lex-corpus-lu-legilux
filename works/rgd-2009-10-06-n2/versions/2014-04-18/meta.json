@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-10-06-n2:2014-04-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/10/06/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2014-04-18",
+  "valid_to": "2016-01-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2014-09-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2014-04-18",
+      "valid_to": "2016-01-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/12/2013 : R\u00E8glement grand-ducal du 6 octobre 2009 d\u00E9terminant la composition et le fonctionnement de la commission permanente d\u0027experts pr\u00E9vue par l\u0027article 29 de la loi concernant le personnel de l\u0027enseignement fondamental.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/10/06/n2/consolide/20140418/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/10/06/n2/consolide/20140418/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f7475f442f74d69d923e8993f06dc2a11962d27e539ae047799bce5a55797ebc"
+}

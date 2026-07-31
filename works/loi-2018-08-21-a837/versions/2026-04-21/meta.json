@@ -1,0 +1,31 @@
+{
+  "lex_id": "lu-legilux:loi-2018-08-21-a837:2026-04-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/21/a837",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-04-21",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-04-21",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/21/a837/consolide/20260421",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/21/a837/consolide/20260421"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a9723f6e0ab6440033a3f9c4ff78cf42d084ea70f5fe9d8a1879fe715c4210c4"
+}

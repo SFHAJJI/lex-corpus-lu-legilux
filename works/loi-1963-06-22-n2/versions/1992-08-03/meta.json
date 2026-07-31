@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1963-06-22-n2:1992-08-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1963/06/22/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1992-08-03",
+  "valid_to": "1996-01-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1992-10-27",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1992-08-03",
+      "valid_to": "1996-01-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/12/1991 : Loi du 22 juin 1963 portant fixation de la valeur num\u00E9rique des traitements des fonctionnaires de l\u0027Etat ainsi que des modalit\u00E9s de mise en vigueur de la loi du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n2/consolide/19920803/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n2/consolide/19920803/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b6c0b14bd9f6888ef40e316270b372292a689ac926b4314f8c5fdd48bc9f7c7f"
+}

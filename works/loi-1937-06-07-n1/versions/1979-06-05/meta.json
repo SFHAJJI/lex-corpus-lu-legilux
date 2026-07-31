@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1937-06-07-n1:1979-06-05",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1979-06-05",
+  "valid_to": "1981-03-30",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1980-01-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1979-06-05",
+      "valid_to": "1981-03-30",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/12/1978 : Loi du 7 juin 1937, ayant pour objet la r\u00E9forme de la loi du 31 octobre 1919, portant r\u00E8glement l\u00E9gal du louage de service des employ\u00E9s priv\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/consolide/19790605/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/consolide/19790605/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "d13d72ad873fce13801f778f108f9d23081def7c3bd72609ddb29024cddecfef"
+}

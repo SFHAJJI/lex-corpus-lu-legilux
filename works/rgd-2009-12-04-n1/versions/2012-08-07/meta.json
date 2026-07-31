@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-12-04-n1:2012-08-07",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2012-08-07",
+  "valid_to": "2018-05-27",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-07-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-08-07",
+      "valid_to": "2018-05-27",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/08/2012 : R\u00E8glement grand-ducal du 4 d\u00E9cembre 2009 fixant un nombre limite pour le cadre du personnel de l\u0027Institut Luxembourgeois de R\u00E9gulation.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20120807/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20120807/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9c33955ab8cdbfe4937082d118342dc1782cccb9d008c103354496db75ffc576"
+}

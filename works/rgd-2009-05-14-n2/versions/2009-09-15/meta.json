@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2009-05-14-n2:2009-09-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2009/05/14/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2009-09-15",
+  "valid_to": "2017-08-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-01-09",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2009-09-15",
+      "valid_to": "2017-08-13",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 15/09/2009 : R\u00E8glement grand-ducal du 14 mai 2009 d\u00E9terminant les informations relatives \u00E0 l\u0027organisation scolaire que les communes ou les comit\u00E9s des syndicats scolaires intercommunaux doivent fournir au ministre ayant l\u0027\u00C9ducation nationale dans ses attributions ainsi que les modalit\u00E9s de leur transmission.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/14/n2/consolide/20090915/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/14/n2/consolide/20090915/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8dcf45167f1fe4c06838dbf16efcddf4399cd5dda73bef77f310fb7260777b9e"
+}

@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-presse_medias:2020-03-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/presse_medias",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2020-03-24",
+  "valid_to": "2021-02-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2020-03-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-03-24",
+      "valid_to": "2021-02-15",
+      "valid_time_source": "publisher",
+      "title": "Presse et M\u00E9dias",
+      "title_short": "Presse et M\u00E9dias",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20200324/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20200324/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "22936814efefe71725d50b5b3b2da9c421c19163415cbcea65148e4689917afb"
+}

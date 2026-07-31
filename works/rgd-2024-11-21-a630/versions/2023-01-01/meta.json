@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2024-11-21-a630:2023-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2024/11/21/a630",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/01/2023 : R\u00E8glement grand-ducal du 21 novembre 2024 instituant des r\u00E9gimes d\u2019aide pour des engagements en mati\u00E8re d\u2019environnement et de climat et d\u2019autres engagements en mati\u00E8re de gestion.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/11/21/a630/consolide/20230101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/11/21/a630/consolide/20230101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "60ce9bdad816c420d1eed0ba533eacd1a0ce7fd48cf64c195f463de43c1846f5"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1975-07-26-n2:1986-05-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1975/07/26/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1986-05-03",
+  "valid_to": "1986-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1988-03-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1986-05-03",
+      "valid_to": "1986-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 05/12/1985 : Loi du 26 juillet 1975 portant cr\u00E9ation de l\u0027administration de l\u0027a\u00E9roport.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/07/26/n2/consolide/19860503/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/07/26/n2/consolide/19860503/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3d0c37c6e4e359e51771c8822be9ee9fd1d448442718af42b5ea6fbf22ce9446"
+}

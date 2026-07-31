@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2007-10-31-n1:2010-07-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2007/10/31/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2010-07-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2011-06-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-07-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/2009 : Loi du 31 octobre 2007 sur le service volontaire des jeunes, modifiant\n 1. le Code des assurances sociales,\n 2. la loi modifi\u00E9e du 19 juin 1985 concernant les allocations familiales et portant cr\u00E9ation de la Caisse nationale des prestations familiales et abrogeant la loi du 28 janvier 1999 concernant le service volontaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/10/31/n1/consolide/20100731/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/10/31/n1/consolide/20100731/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "93e5b4726eef9e7d40eec2599242c3f527a53cb289028242fa9be4b0eaedf484"
+}

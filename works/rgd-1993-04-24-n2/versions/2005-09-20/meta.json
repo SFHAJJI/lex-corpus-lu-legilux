@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1993-04-24-n2:2005-09-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1993/04/24/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2005-09-20",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-03-25",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2005-09-20",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 20/09/2005 : R\u00E8glement grand-ducal du 24 avril 1993 relatif au conseil sup\u00E9rieur de certaines professions de sant\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/04/24/n2/consolide/20050920/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/04/24/n2/consolide/20050920/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "84b5afc27bdd685914e97ae7b60a35a14594b9830f991921c6a1379a825fba00"
+}

@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:loi-2005-06-29-n1:2022-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2022-04-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-03-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-04-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/04/2022 : Loi du 29 juin 2005 portant\\na) fixation des cadres du personnel des \u00E9tablissements d\u0027enseignement secondaire;\\nb) modification de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat;\\nc) modification de la loi modifi\u00E9e du 10 mai 1968 portant r\u00E9forme de l\u0027enseignement;\\nd) abrogation de la loi du 25 ao\u00FBt 1971 portant cr\u00E9ation de la fonction de professeur de sciences \u00E9conomiques et sociales aux \u00E9tablissements d\u0027enseignement secondaire;\\ne) modification de la loi du 22 juin 1989 portant modification de la loi modfi\u00E9e du 10 mai 1968 portant r\u00E9forme de l\u0027enseignement;\\nf) modification de la loi modifi\u00E9e du 4 septembre 1990 portant r\u00E9forme de l\u0027enseignement secondaire;\\ng) modification de la loi du 25 juin 2004 portant organisation des lyc\u00E9es;\\nh) modification de la loi modifi\u00E9e du 24 mai 1989 sur le contrat de travail.",
+      "title_short": "Loi du 29 juin 2005 fixant les cadres du personnel des \u00E9tablissements d\u0027enseignement secondaire et secondaire technique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7fc490bcd09ad5f80ca41f94f2ee8eaf1783469cd8b825c235c0dca76e934a93"
+}

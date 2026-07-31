@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1992-07-20-n1:2010-01-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2010-01-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-10-24",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-01-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/01/2010 : Loi du 20 juillet 1992 portant modification du r\u00E9gime des brevets d\u0027invention.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20100104/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20100104/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f19913bb9f659f7955ec41d750ab49a12c085ff7d520168cd4f3198b6b2e3d32"
+}

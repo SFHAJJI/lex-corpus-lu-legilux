@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:recueil-gouvernement:2022-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/gouvernement",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2022-01-01",
+  "valid_to": "2022-01-05",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-01-01",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-01-01",
+      "valid_to": "2022-01-05",
+      "valid_time_source": "publisher",
+      "title": "Gouvernement",
+      "title_short": "Gouvernement",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20220101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20220101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "7753619bd9909fd1b3143d2bc00ccf910b23d64c1798e1914167b7a9d27520a8"
+}

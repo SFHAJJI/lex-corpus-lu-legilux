@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:recueil-expropriation:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/expropriation",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-05-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_time_source": "publisher",
+      "title": "Expropriation pour cause d\u0027utilit\u00E9 publique",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/expropriation/20230701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/expropriation/20230701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "64f08247e37d76135eb8680e6b190fc8144abea9f26f39846b3bc83150ba42c7"
+}

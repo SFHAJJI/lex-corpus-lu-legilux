@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1906-06-27-n3:1977-03-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1977-03-12",
+  "valid_to": "1993-09-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1977-03-12",
+      "valid_to": "1993-09-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 12/03/1977 : Loi du 27 juin 1906, concernant la protection de la sant\u00E9 publique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19770312/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/19770312/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ac1c7164f6124ae766a544e997de48db04539865f97240a3207df5c994e1b4ea"
+}

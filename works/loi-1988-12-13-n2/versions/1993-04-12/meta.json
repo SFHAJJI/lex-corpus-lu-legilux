@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1988-12-13-n2:1993-04-12",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1993-04-12",
+  "valid_to": "1998-06-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1993-04-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1993-04-12",
+      "valid_to": "1998-06-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/12/1992 : Loi du 13 d\u00E9cembre 1988 instaurant un r\u00E9gime fiscal temporaire sp\u00E9cial pour les certificats d\u0027investissement audio-visuel.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/consolide/19930412/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n2/consolide/19930412/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "426226f9540d90df3340cf216a61851b552528614292c4e8a081b591822eb83d"
+}

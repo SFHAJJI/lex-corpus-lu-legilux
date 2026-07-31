@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:rgd-2018-06-15-a551:2022-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551",
+  "publisher": "lu-legilux",
+  "valid_from": "2022-07-01",
+  "valid_to": "2025-08-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-07-01",
+      "valid_to": "2025-08-10",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20220701",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20220701"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a70e7111f4c9b52eb1a7949c7795f7ba254fc1ecdbd345e085de3fd250789991"
+}

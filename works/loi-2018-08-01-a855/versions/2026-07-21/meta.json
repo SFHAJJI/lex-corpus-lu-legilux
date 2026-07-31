@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2018-08-01-a855:2026-07-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-07-21",
+  "valid_to": "2028-12-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-07-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-07-21",
+      "valid_to": "2028-12-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 21/07/2026 : Loi du 1er ao\u00FBt 2018 portant cr\u00E9ation d\u2019une repr\u00E9sentation nationale des parents et modification\\n1\u00B0 du Code de la s\u00E9curit\u00E9 sociale ;\\n2\u00B0 du Code du travail ;\\n3\u00B0 de la loi modifi\u00E9e du 31 juillet 2006 portant introduction d\u2019un Code du travail ;\\n4\u00B0 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u2019enseignement fondamental ;\\n5\u00B0 de la loi modifi\u00E9e du 22 juin 2017 ayant pour objet l\u2019organisation de la Maison de l\u2019orientation.",
+      "title_short": "Loi du 1er ao\u00FBt 2018 portant cr\u00E9ation d\u2019une repr\u00E9sentation nationale des parents.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/consolide/20260721/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/consolide/20260721/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "63aa469576857602b2af9f26e5ca63d034fa003b1587d9e443972b14f6005889"
+}

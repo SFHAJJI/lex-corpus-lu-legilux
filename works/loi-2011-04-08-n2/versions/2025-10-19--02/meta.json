@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2011-04-08-n2:2025-10-19--02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2011/04/08/n2",
+  "publisher": "lu-legilux",
+  "valid_from": "2025-10-19",
+  "valid_to": "2025-11-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-10-19",
+      "valid_to": "2025-11-25",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/04/08/n2/consolide/20251019",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/04/08/n2/consolide/20251019"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "4520ca00d9efc976f2cc5daaad1f4799c82a39deaa2d61b662db70360b213399"
+}

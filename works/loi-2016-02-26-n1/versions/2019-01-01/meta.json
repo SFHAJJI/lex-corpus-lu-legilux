@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2016-02-26-n1:2019-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1",
+  "publisher": "lu-legilux",
+  "valid_from": "2019-01-01",
+  "valid_to": "2021-09-15",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-01-01",
+      "valid_to": "2021-09-15",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20190101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20190101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "341c2083372262fa218884529a5d88086cbfcf65e392df4bd7c513198a3d06c0"
+}

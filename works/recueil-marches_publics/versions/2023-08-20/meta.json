@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-marches_publics:2023-08-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/marches_publics",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2023-08-20",
+  "valid_to": "2024-06-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-08-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-08-20",
+      "valid_to": "2024-06-11",
+      "valid_time_source": "publisher",
+      "title": "March\u00E9s Publics",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20230820/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20230820/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2eb5114423a9ed7853134a66da048161879a6d141da349db6112e3c2628792ca"
+}

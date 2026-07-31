@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1977-12-08-n3:1980-04-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1980-04-01",
+  "valid_to": "2007-03-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1980-04-01",
+      "valid_to": "2007-03-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/04/1980 : R\u00E8glement grand-ducal du 8 d\u00E9cembre 1977 portant sur les modalit\u00E9s des examens m\u00E9dicaux des enfants en bas \u00E2ge, sur la p\u00E9riodicit\u00E9 de ces examens et sur le mod\u00E8le du carnet de sant\u00E9 et les inscriptions qui devront y \u00EAtre port\u00E9es obligatoirement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n3/consolide/19800401/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n3/consolide/19800401/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "61517e5aa3b13a728f685d075ef36851e3f9cd1aca0cfb99352d0c5911752eb2"
+}

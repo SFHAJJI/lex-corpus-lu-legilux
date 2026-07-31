@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-2005-05-30-n4:2020-12-25",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2020-12-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-09-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-12-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 25/12/2020 : Loi modifi\u00E9e du 30 mai 2005\\n - relative aux dispositions sp\u00E9cifiques de protection de la personne \u00E0 l\u2019\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel dans le secteur des communications \u00E9lectroniques et\\n - portant modification des articles 88-2 et 88-4 du Code d\u2019instruction criminelle.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20201225/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20201225/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "adc2f7abb3a609cc52bc6778ff0d37049d520bfaf630a1d1f1a65e61e65fd5aa"
+}

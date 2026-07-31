@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-07-30-a596:2025-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/07/30/a596",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2025-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-06-19",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/07/2025 : R\u00E8glement grand-ducal du 30 juillet 2021 \u00E9tablissant le catalogue des mesures du pacte nature.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/07/30/a596/consolide/20250701/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/07/30/a596/consolide/20250701/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "404259fdef9a9ca2db74d1f24b76f5848e76dd88310986c7c7fcdfc65fe90434"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rmin-1996-10-25-n1:2001-07-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/1996/10/25/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "2001-07-20",
+  "valid_to": "2001-12-25",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2001-11-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2001-07-20",
+      "valid_to": "2001-12-25",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 07/12/2000 : R\u00E8glement minist\u00E9riel du 25 octobre 1996 portant approbation du r\u00E8glement d\u0027ordre int\u00E9rieur de la Bourse de Luxembourg.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1996/10/25/n1/consolide/20010720/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/1996/10/25/n1/consolide/20010720/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "17737a2fe05b78d38158ea613142a4d59c9060481b7513d23582fdd56fca217d"
+}

@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:recueil-patrimoine_culturel:2022-03-14",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2022-03-14",
+  "valid_to": "2023-07-07",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-06-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-03-14",
+      "valid_to": "2023-07-07",
+      "valid_time_source": "publisher",
+      "title": "Patrimoine culturel",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20220314/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/patrimoine_culturel/20220314/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "6f05a6c3881bd844209ab6b6ceea531266fd7f6886cc08fb1098df383aac13fd"
+}

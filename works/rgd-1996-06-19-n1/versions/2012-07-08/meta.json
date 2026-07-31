@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1996-06-19-n1:2012-07-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2012-07-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2021-05-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2012-07-08",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/07/2012 : R\u00E8glement grand-ducal du 19 juin 1996 fixant les modalit\u00E9s d\u0027ex\u00E9cution du titre V de la loi sur la coop\u00E9ration au d\u00E9veloppement portant institution d\u0027un cong\u00E9 coop\u00E9ration au d\u00E9veloppement.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/consolide/20120708/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1996/06/19/n1/consolide/20120708/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "190e0709f05c6ce1ada70dddba504c41d6f3f73717862f825797608de3ba6215"
+}

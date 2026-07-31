@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2020-03-25-a193:2023-02-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2020/03/25/a193",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2023-02-01",
+  "valid_to": "2023-06-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-12-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-02-01",
+      "valid_to": "2023-06-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/02/2023 : Loi du 25 mars 2020 instituant un syst\u00E8me \u00E9lectronique central de recherche de donn\u00E9es concernant des comptes de paiement et des comptes bancaires identifi\u00E9s par un num\u00E9ro IBAN et des coffres-forts tenus par des \u00E9tablissements de cr\u00E9dit au Luxembourg et portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 12 novembre 2004 relative \u00E0 la lutte contre le blanchiment et contre le financement du terrorisme ;\\n2\u00B0 de la loi modifi\u00E9e du 5 juillet 2016 portant r\u00E9organisation du Service de renseignement de l\u2019\u00C9tat ;\\n3\u00B0 de la loi du 30 mai 2018 relative aux march\u00E9s d\u2019instruments financiers ;\\n4\u00B0 de la loi du 13 janvier 2019 instituant un Registre des b\u00E9n\u00E9ficiaires effectifs ;\\nen vue de la transposition :\\n1\u00B0 de l\u2019article 1er, points 19 et 29, de la directive (UE) 2018/843 du Parlement europ\u00E9en et du Conseil du 30 mai 2018 modifiant la directive (UE) 2015/849 relative \u00E0 la pr\u00E9vention de l\u2019utilisation du syst\u00E8me financier aux fins du blanchiment de capitaux ou du financement du terrorisme ainsi que les directives 2009/138/CE et 2013/36/UE ;\\n2\u00B0 de l\u2019article 1er, point 28, lettre d), de la directive (UE) 2019/878 du Parlement europ\u00E9en et du Conseil du 20 mai 2019 modifiant la directive 2013/36/UE en ce qui concerne les entit\u00E9s exempt\u00E9es, les compagnies financi\u00E8res holding, les compagnies financi\u00E8res holding mixtes, la r\u00E9mun\u00E9ration, les mesures et pouvoirs de surveillance et les mesures de conservation des fonds propres ;\\n3\u00B0 de l\u2019article 64, point 5, de la directive (UE) 2019/2034 du Parlement europ\u00E9en et du Conseil du 27 novembre 2019 concernant la surveillance prudentielle des entreprises d\u2019investissement et modifiant les directives 2002/87/CE, 2009/65/CE, 2011/61/UE, 2013/36/UE, 2014/59/UE et 2014/65/UE.\\n",
+      "title_short": "Loi du 25 mars 2020 instituant un syst\u00E8me \u00E9lectronique central de recherche de donn\u00E9es concernant des comptes IBAN et des coffres-forts.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a193/consolide/20230201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a193/consolide/20230201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bed0779d51a9c66ad7697c91d700f7f9459cbe075d6a7ffcd16cf71c7a68d758"
+}

@@ -1,0 +1,35 @@
+{
+  "lex_id": "lu-legilux:rgd-2022-06-16-a326:2026-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2022/06/16/a326",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2026-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-06-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2026 : R\u00E8glement grand-ducal du 16 juin 2022 d\u00E9terminant les diff\u00E9rentes branches, les niveaux, la dur\u00E9e des cours, les programmes d\u2019\u00E9tudes et d\u2019examens, les modalit\u00E9s d\u2019obtention, de d\u00E9livrance et de nomenclature des dipl\u00F4mes et certificats, ainsi que les modalit\u00E9s de transition entre les diff\u00E9rents niveaux et les \u00E9tablissements dans l\u2019enseignement musical.",
+      "title_short": "R\u00E8glement grand-ducal du 16 juin 2022 d\u00E9terminant les diff\u00E9rentes branches, les niveaux et la dur\u00E9e des cours dans l\u2019enseignement musical",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/16/a326/consolide/20260901/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/16/a326/consolide/20260901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "684cd7e8fc03d7e7fe982f30bb5e73b59e35fd81dac2cdaad88ceb5f58cdbbe5"
+}

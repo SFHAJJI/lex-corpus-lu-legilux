@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rmin-2006-02-14-n3:2011-06-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RMIN",
+  "valid_from": "2011-06-13",
+  "valid_to": "2015-07-28",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-05-20",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-06-13",
+      "valid_to": "2015-07-28",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 13/06/2011 : R\u00E8glement minist\u00E9riel du 14 f\u00E9vrier 2006 d\u00E9terminant certaines exigences techniques relatives au sang et aux composants sanguins.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20110613/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20110613/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "308f4dc3660c5c0c6625f38595bb1504b3a260d67e4002a7c501b8e1a1d08fc5"
+}

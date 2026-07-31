@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:http_--data.legilux.public.lu-eli-etat-adm-amin-2021-11-22-b4529:2021-11-22",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529",
+  "publisher": "lu-legilux",
+  "document_type": "AMIN",
+  "valid_from": "2021-11-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-08-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-11-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 22/11/2021 : Arr\u00EAt\u00E9 minist\u00E9riel du 22 novembre 2021 relatif au plan de gestion Natura 2000 du site \u00AB\u00A0Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg\u00A0\u00BB.",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/consolide/20211122/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/consolide/20211122/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "eb989f27c6211a06ef776d71aa3c83a475246c62486a155c62020ea951ee6e6c"
+}

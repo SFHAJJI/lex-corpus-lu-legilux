@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1995-03-29-n1:2004-07-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2004-07-11",
+  "valid_to": "2007-07-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2025-08-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2004-07-11",
+      "valid_to": "2007-07-02",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/07/2004 : R\u00E8glement grand-ducal du 29 mars 1995 portant d\u00E9termination des modalit\u00E9s de d\u00E9signation des repr\u00E9sentants des \u00E9trangers au Conseil National pour Etrangers, ainsi que leur r\u00E9partition par nationalit\u00E9s.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20040711/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20040711/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "307a15392c8233cdda95429750cc91912eca6ae96e6689d578e13023420a4f8c"
+}

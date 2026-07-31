@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1969-06-18-n1:2015-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2015-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-03-08",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2015-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 18 juin 1969 sur l\u0027enseignement sup\u00E9rieur et l\u0027homologation des titres et grades \u00E9trangers d\u0027enseignement sup\u00E9rieur.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/consolide/20150101/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1969/06/18/n1/consolide/20150101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a7adb8be620bfafeed453dd31ef3aa05837c625f6234c36644831f75130e0aa2"
+}

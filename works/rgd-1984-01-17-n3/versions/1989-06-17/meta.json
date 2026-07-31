@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1984-01-17-n3:1989-06-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1989-06-17",
+  "valid_to": "2007-11-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-11-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1989-06-17",
+      "valid_to": "2007-11-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/06/1989 : R\u00E8glement grand-ducal du 17 janvier 1984 portant\\n\\n 1\u00B0 r\u00E9glementation de la proc\u00E9dure \u00E9lectorale pour la Chambre des fonctionnaires et employ\u00E9s publics;\\n\\n 2\u00B0 r\u00E9partition des fonctionnaires dans les cat\u00E9gories A, B et C pr\u00E9vues \u00E0 l\u2019article 43ter de la loi modifi\u00E9e du 4 avril 1924 portant cr\u00E9ation de chambres professionnelles \u00E0 base \u00E9lective.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/19890617/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/19890617/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "b70e35107e0eae0d3b588b66ad52a9857b2b8144576ec7d14800c787f2489505"
+}

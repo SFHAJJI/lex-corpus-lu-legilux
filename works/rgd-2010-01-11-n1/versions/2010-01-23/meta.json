@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2010-01-11-n1:2010-01-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2010-01-23",
+  "valid_to": "2013-07-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-10-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2010-01-23",
+      "valid_to": "2013-07-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 23/01/2010 : R\u00E8glement grand-ducal du 11 janvier 2010 portant organisation de la validation des acquis de l\u0027exp\u00E9rience pour la d\u00E9livrance des brevets, dipl\u00F4mes et certificats pr\u00E9vue au chapitre V de la loi du 19 d\u00E9cembre 2008 portant r\u00E9forme de la formation professionnelle.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20100123/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20100123/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "32f05f25003d3c52c1b476e01e3a7691af8174a7ad5c4b5f8919d7971e3ad66b"
+}

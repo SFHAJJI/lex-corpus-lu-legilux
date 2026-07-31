@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2016-08-24-n7:2021-09-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2021-09-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2024-03-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-09-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/09/2021 : R\u00E8glement grand-ducal du 24 ao\u00FBt 2016 concernant le statut du personnel de la Caisse nationale de sant\u00E9, de la Caisse de maladie des fonctionnaires et employ\u00E9s publics et de la Caisse de maladie des fonctionnaires et employ\u00E9s communaux.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7/consolide/20210911/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7/consolide/20210911/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "449b5fad37759ef16ed3dc5eeeb5519b9813305ff14b417285a2fef5bfea29d9"
+}

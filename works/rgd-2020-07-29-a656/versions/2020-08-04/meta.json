@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:rgd-2020-07-29-a656:2020-08-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2020-08-04",
+  "valid_to": "2021-11-13",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-08-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2020-08-04",
+      "valid_to": "2021-11-13",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 04/08/2020 : R\u00E8glement grand-ducal du 29 juillet 2020 portant :\\n1\u00B0 fixation des conditions et modalit\u00E9s de l\u2019\u00E9preuve sp\u00E9ciale de l\u2019examen-concours pour l\u2019admission au stage pour les cat\u00E9gories de traitement A et B et le groupe de traitement C1 du cadre policier ;\\n2\u00B0 fixation des conditions et modalit\u00E9s de recrutement pour le groupe de traitement C2 du cadre policier ;\\n3\u00B0 modification du r\u00E8glement grand-ducal modifi\u00E9 du 30 septembre 2015 fixant les conditions et modalit\u00E9s d\u2019inscription et d\u2019organisation des examens-concours d\u2019admission au stage dans les administrations et services de l\u2019\u00C9tat.",
+      "title_short": "R\u00E8glement grand-ducal du 29 juillet 2020 d\u00E9terminant les modalit\u00E9s de recrutement du personnel policier.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20200804/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20200804/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f4bc67ef3fe329f436ba46fd5cd351b309e4b19a0fed00d421c56ad244e1259c"
+}

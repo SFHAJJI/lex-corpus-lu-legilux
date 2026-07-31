@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2013-01-14-n1:2017-03-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2017-03-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-05-28",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-03-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/03/2017 : R\u00E8glement grand-ducal du 14 janvier 2013 fixant la proc\u00E9dure \u00E0 suivre pour obtenir l\u2019autorisation d\u2019exercer les professions de m\u00E9decin, de m\u00E9decin-dentiste, de m\u00E9decin-v\u00E9t\u00E9rinaire et de pharmacien.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n1/consolide/20170310/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/14/n1/consolide/20170310/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9f9013924ca14ccba1d993477eced0993bd32e2bd0ee9ab051225c0c5db3344d"
+}

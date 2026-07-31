@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1991-03-25-n1:2003-02-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2003-02-01",
+  "valid_to": "2016-06-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2026-04-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2003-02-01",
+      "valid_to": "2016-06-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/02/2003 : Loi du 25 mars 1991 sur les groupements d\u0027int\u00E9r\u00EAt \u00E9conomique.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/20030201/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/20030201/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "234730aa6a5d4d2c89e16b1d83d6fb5e266e0cd3519dccbf0c4c90cdfda364ee"
+}

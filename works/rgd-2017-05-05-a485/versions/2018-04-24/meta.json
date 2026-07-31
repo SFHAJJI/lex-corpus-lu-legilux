@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2017-05-05-a485:2018-04-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-04-24",
+  "valid_to": "2021-12-19",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2021-03-29",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-04-24",
+      "valid_to": "2021-12-19",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/04/2018 : R\u00E8glement grand-ducal du 5 mai 2017\\n1. portant ex\u00E9cution de la loi du 5 mai 2017 concernant certaines modalit\u00E9s d\u2019application et les sanctions du r\u00E8glement (UE) n\u00B0 98/2013 du Parlement europ\u00E9en et du Conseil du 15 janvier 2013 sur la commercialisation et l\u2019utilisation de pr\u00E9curseurs d\u2019explosifs;\\n2. relatif \u00E0 la formation et au contr\u00F4le des connaissances des fonctionnaires charg\u00E9s de constater les infractions au r\u00E8glement (UE) n\u00B0 98/2013.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20180424/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20180424/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "5406d4969323e52072397a43c40023b53066191c22c81a7fd51232f2e62d55dd"
+}

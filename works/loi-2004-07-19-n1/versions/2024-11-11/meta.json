@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2004-07-19-n1:2024-11-11",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2024-11-11",
+  "valid_to": "2025-07-22",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2024-11-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-11-11",
+      "valid_to": "2025-07-22",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 11/11/2024 : Loi du 19 juillet 2004 concernant l\u0027am\u00E9nagement communal et le d\u00E9veloppement urbain.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20241111/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20241111/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "eed36fbf3c5e8ababe8c2ca2ccc46f20abc98e9807974b5372ecc989adbf04dd"
+}

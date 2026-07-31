@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:conv-2017-12-13-a91:2026-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/conv/2017/12/13/a91",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-01-01",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-01-01",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2017/12/13/a91/consolide/20260101",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/conv/2017/12/13/a91/consolide/20260101"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "ed9d3ce808e7045d2691e13205b2c11234cc3076d6d412ed7b7755c66cd3f96b"
+}

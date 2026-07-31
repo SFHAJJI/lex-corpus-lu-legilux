@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1983-06-20-n1:1989-03-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1983/06/20/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1989-03-04",
+  "valid_to": "2000-11-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1989-06-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1989-03-04",
+      "valid_to": "2000-11-03",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 03/12/1988 : R\u00E8glement grand-ducal du 20 juin 1983 d\u00E9terminant le mode de collaboration entre l\u0027Institut de formation administrative et les administrations.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1983/06/20/n1/consolide/19890304/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1983/06/20/n1/consolide/19890304/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8c8b863b21951c44983855b3311aac310a3786acfef1abca1ee596954b4cb427"
+}

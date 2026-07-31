@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-2003-04-16-n2:2007-06-17",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2007-06-17",
+  "valid_to": "2007-10-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-10-26",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2007-06-17",
+      "valid_to": "2007-10-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 17/06/2007 : Loi du 16 avril 2003 relative \u00E0 l\u2019assurance obligatoire de la responsabilit\u00E9 civile en mati\u00E8re de v\u00E9hicules automoteurs.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20070617/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20070617/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e16454a39765de74b6e026d27f8c1192f85a8c5ce42520863e74c4eaadb9e5da"
+}

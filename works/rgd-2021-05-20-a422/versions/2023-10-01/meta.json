@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-2021-05-20-a422:2023-10-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2021/05/20/a422",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2023-10-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-18",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/10/2023 : R\u00E8glement grand-ducal du 20 mai 2021 relatif \u00E0 la d\u00E9termination et \u00E0 l\u2019organisation des formations des cadres techniques et administratifs pour les diff\u00E9rentes formes d\u2019activit\u00E9s sportives.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/20/a422/consolide/20231001/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/20/a422/consolide/20231001/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3aae96a3efd519bc71ef6a0816eec827deba2183089692f3639f0e6e8f0eb5c5"
+}

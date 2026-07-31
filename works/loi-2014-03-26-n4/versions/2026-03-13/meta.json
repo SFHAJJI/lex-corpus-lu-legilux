@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:loi-2014-03-26-n4:2026-03-13",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2014/03/26/n4",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-03-13",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-03-13",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/03/26/n4/consolide/20260313",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/03/26/n4/consolide/20260313"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8ed27524f309880496d33dd635abbb96631abc4be1a82a4fca8a3f2d189c2888"
+}

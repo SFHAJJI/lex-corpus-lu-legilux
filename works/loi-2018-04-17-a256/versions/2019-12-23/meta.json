@@ -1,0 +1,37 @@
+{
+  "lex_id": "lu-legilux:loi-2018-04-17-a256:2019-12-23",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2019-12-23",
+  "valid_to": "2022-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2022-09-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2019-12-23",
+      "valid_to": "2022-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 23/12/2019 : Loi du 17 avril 2018 portant mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 1286/2014 du Parlement europ\u00E9en et du Conseil du 26 novembre 2014 sur les documents d\u2019informations cl\u00E9s relatifs aux produits d\u2019investissement packag\u00E9s de d\u00E9tail et fond\u00E9s sur l\u2019assurance et portant modification de la loi modifi\u00E9e du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif.",
+      "title_short": "Loi du 17 avril 2018 relative aux documents d\u2019informations cl\u00E9s relatifs aux produits d\u2019investissement packag\u00E9s de d\u00E9tail et fond\u00E9s sur l\u2019assurance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20191223/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20191223/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3f9569d9b8c4450cfc464629727c98c3f09a775325917fd72e1ca7d60fb45bea"
+}

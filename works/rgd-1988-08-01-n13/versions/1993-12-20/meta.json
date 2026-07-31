@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1988-08-01-n13:1993-12-20",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1988/08/01/n13",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1993-12-20",
+  "valid_to": "2000-03-11",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1993-12-16",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1993-12-20",
+      "valid_to": "2000-03-11",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/11/1992 : R\u00E8glement grand-ducal du 1er ao\u00FBt 1988 relatif \u00E0 la teneur en soufre des gas-oils.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1988/08/01/n13/consolide/19931220/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1988/08/01/n13/consolide/19931220/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "2f110b5cf993b35a6e9097c0caa8d921fc4a06bf6d542e6ed3c10b922c9630cc"
+}

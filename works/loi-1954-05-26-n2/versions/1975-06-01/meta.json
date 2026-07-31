@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:loi-1954-05-26-n2:1975-06-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "1975-06-01",
+  "valid_to": "1978-04-04",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1975-08-06",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1975-06-01",
+      "valid_to": "1978-04-04",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/12/1974 : Loi du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2/consolide/19750601/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2/consolide/19750601/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "87258671608c7a3b285aff30522f9d0bbcdefcb6594b70bea84a1b88817b34ab"
+}

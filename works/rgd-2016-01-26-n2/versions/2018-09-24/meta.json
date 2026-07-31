@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-2016-01-26-n2:2018-09-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2018-09-24",
+  "valid_to": "2018-10-09",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2023-11-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2018-09-24",
+      "valid_to": "2018-10-09",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/09/2018 : R\u00E8glement grand-ducal du 26 janvier 2016 relatif \u00E0 la r\u00E9ception et l\u0027immatriculation des v\u00E9hicules routiers.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20180924/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20180924/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "dee7e26071d22e8c6d43ab4e27fbc696fe9562aa0eeab40bc150eaf2cff0f0d3"
+}

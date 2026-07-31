@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:loi-1994-06-17-n1:2017-03-24",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2017-03-24",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-04-30",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2017-03-24",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 24/03/2017 : Loi du 17 juin 1994 fixant les mesures en vue d\u0027assurer le maintien de l\u0027emploi, la stabilit\u00E9 des prix et la comp\u00E9titivit\u00E9 des entreprises.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/20170324/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/20170324/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "f6c6e43aac9bc6ebef4a09042a89bf092c55e9b2b8042b50b434ec75c0349537"
+}

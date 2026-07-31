@@ -1,0 +1,36 @@
+{
+  "lex_id": "lu-legilux:rgd-1964-04-04-n2:1987-09-18",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1964/04/04/n2",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "1987-09-18",
+  "valid_to": "2018-10-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "1988-07-21",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "1987-09-18",
+      "valid_to": "2018-10-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 09/12/1986 : R\u00E8glement grand-ducal du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et \u00E9tablissements publics plac\u00E9s sous la surveillance des communes, \u00E0 ceux des fonctionnaires de l\u0027Etat.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1964/04/04/n2/consolide/19870918/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1964/04/04/n2/consolide/19870918/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "08d8d282108f39376c2c03bf11dc4f4f547aba9f03e60f08f858db09e37b63c7"
+}

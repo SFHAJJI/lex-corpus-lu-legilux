@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-1991-08-10-n3:2023-07-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3",
+  "publisher": "lu-legilux",
+  "valid_from": "2023-07-01",
+  "valid_to": "2023-07-03",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-07-01",
+      "valid_to": "2023-07-03",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20230701",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20230701"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e8878b5ed4dbdae21dc9459896e867611831faaa311bc5fe8599075cb6fe9d0f"
+}

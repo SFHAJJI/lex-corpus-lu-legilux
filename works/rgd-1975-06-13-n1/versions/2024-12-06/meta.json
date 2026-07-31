@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:rgd-1975-06-13-n1:2024-12-06",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2024-12-06",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2025-01-15",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2024-12-06",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 06/12/2024 : R\u00E8glement grand-ducal du 13 juin 1975 prescrivant les mesures d\u0027ex\u00E9cution de la loi du 16 mai 1975 portant statut de la copropri\u00E9t\u00E9 des immeubles.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20241206/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20241206/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "a1f88b87a3d43301919ca95750daafeb219b78c378ebb32caa939f95b500914f"
+}

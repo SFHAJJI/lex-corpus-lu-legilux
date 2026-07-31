@@ -1,0 +1,33 @@
+{
+  "lex_id": "lu-legilux:loi-2010-12-17-n9:2026-04-03",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-04-03",
+  "valid_to": "2026-04-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-01T00:00:00Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-04-03",
+      "valid_to": "2026-04-16",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260403",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "pending-gate",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260403"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "e0fd3056a60baeb78692ef36c76a9d318b1f1e52333e53251e30d9418af3af16"
+}
