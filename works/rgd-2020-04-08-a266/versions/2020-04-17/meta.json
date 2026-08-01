@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/04/2020 : R\u00E8glement grand-ducal du 8 avril 2020 portant d\u00E9rogation \u00E0 l\u2019article L. 121-6 du Code du travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a266/consolide/20200417/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b6361eb89712c2091efe82c9fed600aa075531d35712dbd794dd260c2be1e5dc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a266/consolide/20200417/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a266/consolide/20200417/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "116e1bea6c8215368a423d751b8d6b465681617da97653774ee70e77bc5d9b41"
+  "record_sha256": "fa30962755c4440ddf95e63e95d2dd14a90448836dce49e80a758bb8c8ffdb3c"
 }

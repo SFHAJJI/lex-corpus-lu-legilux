@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 21/07/2026 : Loi du 1er ao\u00FBt 2018 portant cr\u00E9ation d\u2019une repr\u00E9sentation nationale des parents et modification\\n1\u00B0 du Code de la s\u00E9curit\u00E9 sociale ;\\n2\u00B0 du Code du travail ;\\n3\u00B0 de la loi modifi\u00E9e du 31 juillet 2006 portant introduction d\u2019un Code du travail ;\\n4\u00B0 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u2019enseignement fondamental ;\\n5\u00B0 de la loi modifi\u00E9e du 22 juin 2017 ayant pour objet l\u2019organisation de la Maison de l\u2019orientation.",
       "title_short": "Loi du 1er ao\u00FBt 2018 portant cr\u00E9ation d\u2019une repr\u00E9sentation nationale des parents.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/consolide/20260721/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c8f1f8f0793ffd238ef9005fd8616351621175dc0b7b0c2ddb838390b9f31cdf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/consolide/20260721/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a855/consolide/20260721/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "63aa469576857602b2af9f26e5ca63d034fa003b1587d9e443972b14f6005889"
+  "record_sha256": "efd18abd5154c2a72d56fac016ecdd50d7f883f98e46ddef995016cbc3de15e4"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 18/03/2024 : R\u00E8glement grand-ducal du 7 mars 2024 d\u00E9terminant les localit\u00E9s de vote qui ne sont pas chef-lieu de commune.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/03/07/a106/consolide/20240318/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a04977902b4b76860ab1137f63caad86265937ffac4d12a11222761548904b28",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/03/07/a106/consolide/20240318/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/03/07/a106/consolide/20240318/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "25efe9a929217fc205612bdd916f12c243082f14c4c156137f2835e60002f71c"
+  "record_sha256": "693aa8cbef5a1c06f829652e9b21e5cc263f259ef212b11643ac95ecc80123ef"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 09/12/2006 : Loi du 3 ao\u00FBt 2005 concernant le sport et portant a) modification de la loi modifi\u00E9e du 7 juin 1937 ayant pour objet la r\u00E9forme de la loi du 31 octobre 1919 portant r\u00E8glement l\u00E9gal du louage de service des employ\u00E9s priv\u00E9s; b) modification du code des assurances sociales; c) d\u00E9rogation aux articles 5 et 9 de la loi modifi\u00E9e du 24 mai 1989 sur le contrat de travail.",
       "title_short": "Loi du 3 ao\u00FBt 2005 concernant le sport.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20061209/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3dad6c288cbb70ae4537d14ea1c8dadacad6849b9dd8fded7614c5efdbeb1f48",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20061209/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/03/n2/consolide/20061209/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f6dd13ac685c8c4f1b239038a90a70d273910e395a41c0cf69acd5ef845fe78b"
+  "record_sha256": "8f2609980b2948de0b5dc2236ae3373f3db83acb4da45e20c0dece7e59d24625"
 }

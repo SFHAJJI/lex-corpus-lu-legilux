@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/2013 : Loi du 19 d\u00E9cembre 2008\n a) relative aux piles et accumulateurs ainsi qu\u0027aux d\u00E9chets de piles et d\u0027accumulateurs\n b) modifiant la loi modifi\u00E9e du 17 juin 1994 relative \u00E0 la pr\u00E9vention et \u00E0 la gestion des d\u00E9chets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n18/consolide/20141214/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c13f336384961602ca12889acbcc8ec94de93edb7613d5881cda3de555f39dc4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n18/consolide/20141214/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n18/consolide/20141214/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bf8d0b8c43a5fbe84c9962dc8506082b19770568f9b6dbc00304a5dfcf068aed"
+  "record_sha256": "a7d0800a489ddd6e999d1895c9522d0955ceda7b762cc140380c7729dd1b8772"
 }

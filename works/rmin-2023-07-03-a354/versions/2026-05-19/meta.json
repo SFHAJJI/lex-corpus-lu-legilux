@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/05/2026 : R\u00E8glement minist\u00E9riel du 3 juillet 2023 portant publication du plan des zones de s\u00FBret\u00E9 a\u00E9roportuaires de l\u2019a\u00E9roport de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20260519/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e1b5089900d599c66b8529b5331738f9cce6de1a3cf7f9102d300d5388d6887f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20260519/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2023/07/03/a354/consolide/20260519/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "07536f08f3d8e4e4000ef2a2e76cefafdf342dcb70f28f6841aec924d47c625b"
+  "record_sha256": "2f41fa1e9b0df7797c8353ecd7dbc90f937f999572d3a4c19287f76c6c83520c"
 }

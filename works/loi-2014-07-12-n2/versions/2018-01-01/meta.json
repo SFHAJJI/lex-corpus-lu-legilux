@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2018 : Loi du 12 juillet 2014 relative \u00E0 la coordination et \u00E0 la gouvernance des finances publiques et modifiant:\\n a) la loi modifi\u00E9e du 8 juin 1999 sur le budget, la comptabilit\u00E9 et la tr\u00E9sorerie de l\u0027Etat\\n b) la loi modifi\u00E9e du 10 mars 1969 portant institution d\u0027une inspection g\u00E9n\u00E9rale des finances.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/12/n2/consolide/20180101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b39aa43d2435c9f6582ab3d8011e05c9453845a219756f18e332b68b51b7715e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/12/n2/consolide/20180101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/12/n2/consolide/20180101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3e7df3209b1fd4be6d064eb8e161e7c67726bfd0b2ab908563d9d4805350690e"
+  "record_sha256": "4e4b56fc12fe8862ac839187f3a6071674bb67ac6ae6b8f056cc6ddaddbb7c0f"
 }

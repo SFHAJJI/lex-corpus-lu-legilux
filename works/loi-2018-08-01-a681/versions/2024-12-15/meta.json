@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 15/12/2024 : Loi du 1er ao\u00FBt 2018 portant fixation des conditions et modalit\u00E9s d\u2019un compte \u00E9pargne-temps dans la Fonction publique et modification :\\n1\u00B0 du Code du travail ; et\\n2\u00B0 de la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u2019\u00C9tat.",
       "title_short": "Loi du 1er ao\u00FBt 2018 portant fixation des conditions et modalit\u00E9s d\u2019un compte \u00E9pargne-temps dans la Fonction publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a681/consolide/20241215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e70571f0f8bb5ba5c1739042eddcf6b984613614508bbb39fcfa46fde81ccb1c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a681/consolide/20241215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a681/consolide/20241215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aeca5002789948c8ba372918abd8281373209af07ced0c2a6b0572c92098d241"
+  "record_sha256": "51075035dce152cd2e9267117eaa2e852e76ae9f7b9c782d3320061609bb5c91"
 }

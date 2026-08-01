@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/12/2008 : Loi du 4 f\u00E9vrier 2005 relative au r\u00E9f\u00E9rendum au niveau national.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20081224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c840c4b28717f2d4d541240ed2d80a58d6cf90b0eb66a2ce507441b59a404585",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20081224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20081224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d04240a6a484a66690b6785169fcb81868e45d02c01f750b6361374238fe11a"
+  "record_sha256": "2ecd4e0a51dc34f32ffb15a52a0ec4c8e79d3f07f0169adf46e127fafe1feb60"
 }

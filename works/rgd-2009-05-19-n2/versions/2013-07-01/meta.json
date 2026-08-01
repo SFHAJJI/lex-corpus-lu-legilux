@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 19 mai 2009 portant fixation des indemnit\u00E9s dues aux membres des commissions d\u2019examen, aux experts et surveillants des examens de fin d\u2019apprentissage et des examens menant au brevet de ma\u00EEtrise.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7ae651f1d116720d5be8db4b9233a9a6e413d44fc14ca7ee741ba4aaca631636",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/19/n2/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3b87ed1c82ebc03676007ef2bdd3b0d75160ce9d722310634231ccf5d5e25629"
+  "record_sha256": "fdc96c92985945980b75992762eb8ff8d434072230fd99828492c18b577d43f4"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/12/2007 : R\u00E8glement grand-ducal du 11 septembre 2006 fixant les conditions et modalit\u00E9s de l\u2019ordre de justification \u00E0 adresser aux fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/09/11/n11/consolide/20071215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d6eed41114960852118c289de48d5611e476c49eaad82b0525cbcbc0ccf83ca1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/09/11/n11/consolide/20071215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/09/11/n11/consolide/20071215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8640d3366c553376867a0e48a46d9c086ee9adffa17d17f67a151fceebaf55e0"
+  "record_sha256": "8f9af8e01cc92fc4c7eef029093e5d084a4e41f8c96715aea4f9d5062ce63d1f"
 }

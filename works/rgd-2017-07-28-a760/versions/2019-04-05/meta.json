@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/04/2019 : R\u00E8glement grand-ducal du 28 juillet 2017 portant \u00E9tablissement du cadre de r\u00E9f\u00E9rence national \u00AB\u00A0\u00C9ducation non formelle des enfants et des jeunes\u00A0\u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a760/consolide/20190405/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7f293272b61c40c81f0a81766723ba84cdb1f6ab4c99ea5ea5d8b7a56f2104c3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a760/consolide/20190405/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a760/consolide/20190405/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1ab9edfdd86cb28e6f1518761929683331e050ca98761fb71497eb75c153d7d8"
+  "record_sha256": "66ffb713bf80f8270deeb103c7e4610b0a2dc7c5dea758c072bced2ca46b479c"
 }

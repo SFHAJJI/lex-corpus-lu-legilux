@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/12/2020 : Loi du 20 juin 2020 portant adaptation temporaire de certaines modalit\u00E9s proc\u00E9durales en mati\u00E8re p\u00E9nale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20201222/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a8c4e2599f499dbbecb8cc2b8946bd12d23c4337b6aaa58065bd97e2358e9b10",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20201222/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20201222/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c6aa0b3dc2a8b68db68d9b5fa986b1d69ec91d2e9a365b1403fec688f76e1cec"
+  "record_sha256": "63936273eaffe30a945f5eb07170d6fc31683ce79352ffef58816f786b331942"
 }

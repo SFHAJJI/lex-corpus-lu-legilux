@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2001 : Loi du 29 juin 2000 organisant le Centre national sportif et culturel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/06/29/n2/consolide/20010101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0e26ab27ddf55477e34be7aeefd808e5402440749dc457a0c3d7326206de2a7a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/06/29/n2/consolide/20010101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/06/29/n2/consolide/20010101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "524589a254542163acf5f975d70fd2b5b1b095494f7627672f9daa6dd1e5b324"
+  "record_sha256": "61d62489f2c7af4871924f706d5e49c0b1e945edaaba04f009a195833c78e7f7"
 }

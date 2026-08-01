@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/10/2013 : R\u00E8glement grand-ducal du 27 mai 1997 relatif \u00E0 l\u0027octroi des concessions de pharmacie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/consolide/20131028/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f890f5b651e789d6d996fc1086ec340e716a4d9e04bcc011e433a972c1862c0b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/consolide/20131028/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1997/05/27/n1/consolide/20131028/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f917bc56b8bf15e03956b1242be8bdb39406e5e27f6282340c32399335440f50"
+  "record_sha256": "ce795fb82f445a8d0f8a6107980c9ebbde5c42a17056600def3b3ca44973c27d"
 }

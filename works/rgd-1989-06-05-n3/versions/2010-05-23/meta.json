@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/05/2010 : R\u00E8glement grand-ducal du 5 juin 1989 d\u00E9terminant en application de l\u0027article 44, paragraphe 10, alin\u00E9a 2 de la loi modifi\u00E9e du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat les cat\u00E9gories et les limites, ainsi que les modalit\u00E9s de calcul des revenus \u00E0 prendre en compte pour la r\u00E9duction des pensions d\u0027invalidit\u00E9 et de survie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/consolide/20100523/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ed57be1f3b5f749299b8f031e6bcc9b1ae5803043fc3d323eaaf26c6f89e36d6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/consolide/20100523/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1989/06/05/n3/consolide/20100523/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "744a6b7ee0c7817ff336d422a0bfd454c7373dab2724c1e239b2049c0d4cfeac"
+  "record_sha256": "f75f418a326cf30f10197bd1c7d0c6e2be75fcec6150f7120ca168a47eb7d107"
 }

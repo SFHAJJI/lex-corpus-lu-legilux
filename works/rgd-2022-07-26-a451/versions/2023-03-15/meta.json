@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/03/2023 : R\u00E8glement grand-ducal du 26 juillet 2022 d\u00E9terminant les modalit\u00E9s des \u00E9preuves de l\u2019examen de fin d\u2019\u00E9tudes secondaires g\u00E9n\u00E9rales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/07/26/a451/consolide/20230315/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d8c094664f01943fa60523b1a3d49e3f83549d8ab57fe9982ed1812b1bb55ed6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/07/26/a451/consolide/20230315/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/07/26/a451/consolide/20230315/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "de2ef370d07c1044b2d68dbb8da6b6112e1f9870c3367d09aa797a29e8d6beeb"
+  "record_sha256": "129e558dcb4f2e0a1b8d317f700dca12ddd0509b2f6086ee8e685f42bb61d3ca"
 }

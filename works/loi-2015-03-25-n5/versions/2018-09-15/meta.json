@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2018 : Loi du 25 mars 2015 instituant un r\u00E9gime de pension sp\u00E9cial transitoire pour les fonctionnaires de l\u0027Etat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n5/consolide/20180915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9373ba5cb98db149195910d5d6be2d465785256af109f412d34224ed641df680",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n5/consolide/20180915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n5/consolide/20180915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "009053f3316516d307aefc500d875aa73bdc5dd4404354118a060873b89a6f94"
+  "record_sha256": "1575cae7a776ea64f36a1109edf3a9fa4f357d27240b21c74e89a12e28ca70f9"
 }

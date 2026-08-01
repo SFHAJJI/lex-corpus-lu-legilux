@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/07/2008 : R\u00E8glement grand-ducal du 18 octobre 2001 d\u00E9terminant la liste des vaccinations recommand\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20080729/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f49e11c4b9aac15352e27345bab88f802e3546364a6f81ccda66fda9c3d2d118",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20080729/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20080729/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "eeba5aa63859370c6f67b860842cc0f8710bde0e1a77897aa7785021b4d3d302"
+  "record_sha256": "eb6f3f005fc1fe08b8d3783ea64577fa7bc91bde0e19e936111af9656d9195c7"
 }

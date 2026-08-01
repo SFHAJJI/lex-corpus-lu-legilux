@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/08/1998 : Loi du 18 Germinal an X (8 avril 1802) relative \u00E0 l\u0027organisation des Cultes. (N\u00B0 1344)",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "496ae72795047001036e62963df051613ff91d18e95b98b23e521aa5e379f0f4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1802/04/08/n1/consolide/19980824/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a5f298f7933d7676b1fa685c817c115aa1714d62c3ddbbf6f6fbe4471b5b33c9"
+  "record_sha256": "e027fb8ac2a3baf297b4af864bcd736b142c26253c9a668db0f1b731d5878f9d"
 }

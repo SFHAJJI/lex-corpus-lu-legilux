@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/12/2020 : R\u00E8glement grand-ducal du 22 octobre 2009 relatif aux centres de traitement et aux centres de vaccination dans le cadre de la gestion d\u2019une pand\u00E9mie grippale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/10/22/n1/consolide/20201218/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6b0c15f0dbbde15bd4500a305233f7d2c8a9da6d4163fba735031125840a5db1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/10/22/n1/consolide/20201218/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/10/22/n1/consolide/20201218/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "062983c191d5465f772379b29f356f7441772cc8f45a4e9f88aa53d9af0a9b76"
+  "record_sha256": "187b6893258391271ec131137f00a75b6172519d68d5b92c27dc923b3a55f2f7"
 }

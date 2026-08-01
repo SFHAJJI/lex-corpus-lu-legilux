@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 20 d\u00E9cembre 2024 portant publication des bar\u00E8mes de la retenue d\u2019imp\u00F4t sur les pensions et pr\u00E9cisant les modalit\u00E9s de la retenue d\u2019imp\u00F4t.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/12/20/a595/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b1bf5ebbccec8efaade696ef5e017cafc6e82d0cc346296e6c769d53d1ce8929",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/12/20/a595/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/12/20/a595/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0279016cc83f068f63b3b4656c4c9cc9dbbb85093d604dd1a5cbd538310c9b8c"
+  "record_sha256": "5ac548f7a65508ea4f5ab07a9664eb732eb0952d86b09fa5506f050c44974bc5"
 }

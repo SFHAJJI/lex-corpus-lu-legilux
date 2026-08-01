@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/04/2014 : R\u00E8glement grand-ducal du 6 novembre 2009 fixant l\u0027organisation de l\u0027administration des contributions directes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20140404/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2c83f3b38639cad7131bc86f920a0b15f6251a8f2ce26e4b4e5c541cdcb1c723",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20140404/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n4/consolide/20140404/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "212bdcbdcc561c7c79b1234d5a171ff9b8f3bbd34e370f6ce68d2446900166f1"
+  "record_sha256": "218035c46a25733c4664ade31962b265c988babd6aba6c0ae1030f06ef6e9052"
 }

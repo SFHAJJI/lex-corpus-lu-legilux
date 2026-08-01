@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2007 : Loi du 9 novembre 1990 ayant pour objet la cr\u00E9ation d\u0027un registre public maritime luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20070101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0c36538a965f7a56dbbb5a8a914304d7e60793e68b2010a7ab53bfe2726ccbe1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20070101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20070101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3d17c3f8153d82b4f90ba3e44235ba915e46194329150133b763c50069c26de2"
+  "record_sha256": "a7ba49571ba48d6d80557af49dc401f5b1dc21881f1ba6c6af9a7f9d97e70164"
 }

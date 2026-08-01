@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/09/2013 : R\u00E8glement grand-ducal du 26 janvier 2010 relatif \u00E0 des probl\u00E8mes de police sanitaire en mati\u00E8re d\u0027\u00E9changes intracommunautaires d\u0027animaux des esp\u00E8ces bovine et porcine.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/26/n9/consolide/20130907/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cc06cc4476dec7a836bde874bfbec03d782355cc8ce19aa5998b27220bdd9deb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/26/n9/consolide/20130907/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/26/n9/consolide/20130907/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bc9955a0fa2e51111a1eef1b46d55dc963e4069c1f23341325d5a0b52300a039"
+  "record_sha256": "7ac7b864bada70c417ccaa9339de4bcf2e64dda5b9f97977ccd8ecfa5e30311f"
 }

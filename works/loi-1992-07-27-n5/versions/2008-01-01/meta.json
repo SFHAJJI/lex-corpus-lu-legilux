@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2008 : Loi du 27 juillet 1992 relative \u00E0 la participation du Grand-Duch\u00E9 de Luxembourg \u00E0 des op\u00E9rations pour le maintien de la paix (OMP) dans le cadre d\u0027organisations internationales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0ecf272e4ac74109c1fc594c9c2b943a1276db2ff1bf391d6b7de0b55bea34b7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "caa73a371ed10aa1d0872376bdf0f416963ccfa8e70150743534411cfbeda842"
+  "record_sha256": "2c035979e1768361b47c309b51d4debf86f085f56c844ea3df7b742a14da82ca"
 }

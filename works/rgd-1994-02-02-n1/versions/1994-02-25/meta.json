@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 25/02/1994 : R\u00E8glement grand-ducal du 2 f\u00E9vrier 1994 relatif \u00E0 la Commission permanente pour le secteur hospitalier.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/02/02/n1/consolide/19940225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "703b223512181ddafe0ffedebb7c890899e2d6ac19908e1e5fd7fafaab417531",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/02/02/n1/consolide/19940225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1994/02/02/n1/consolide/19940225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "56fc4e428c3c9f0bbec75ed5d27f7b67c06eebdbca750557e050f64d54f89a0f"
+  "record_sha256": "1734304c4ca33700606b9fa74657b648a77b7c3ad0827379b159ebba78be7fa4"
 }

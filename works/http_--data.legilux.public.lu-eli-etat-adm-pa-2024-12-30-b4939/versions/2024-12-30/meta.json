@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 30/12/2024 : Tableau des G\u00E9om\u00E8tres Officiels agr\u00E9\u00E9s par le Ministre des Finances.",
       "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2024/12/30/b4939/consolide/20241230/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "146c17978959082b2041e5568aeac6c31797f5f440262a6b65e949135e3cfd5e",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2024/12/30/b4939/consolide/20241230/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/adm/pa/2024/12/30/b4939/consolide/20241230/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e3d40182b3b5afccf01cbb36eaa978ec0c0b426b573f4190ba41a5b59184e5b9"
+  "record_sha256": "2ea172be34fa5311f492dab7e52d79df3f78a9d3c7ba55300007293ee7ec1565"
 }

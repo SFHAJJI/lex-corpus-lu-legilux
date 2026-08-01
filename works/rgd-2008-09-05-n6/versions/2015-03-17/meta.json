@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/03/2015 : R\u00E8glement grand-ducal du 5 septembre 2008 portant ex\u00E9cution de certaines dispositions relatives aux formalit\u00E9s administratives pr\u00E9vues par la loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u0027immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20150317/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "28f0a82180decf591fcee60c62dbc03b11e4dbad9a5e07bb6b940606a7446b2c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20150317/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20150317/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dd046aaeea1a3402ffff13744c6ede28f23ee3fd958943d3fdd0a12d8e416b8f"
+  "record_sha256": "cc5a09e2d585cc5d23a9a2a2108dea1ed23926e958b9d84f8f1cbf703aede481"
 }

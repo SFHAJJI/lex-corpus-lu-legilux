@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2012 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2010 concernant l\u0027assurance accident dans le cadre de l\u0027enseignement pr\u00E9coce, pr\u00E9scolaire, scolaire et universitaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n20/consolide/20120915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "df63ee0e55614b83e61aabdf8d816b88dbfa64ce7a372af7043fcb7afecae62e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n20/consolide/20120915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n20/consolide/20120915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "91d7906d72d8539f7985906bec00c134d2dec27ab62350be1ba6b489ecfbd049"
+  "record_sha256": "a034d77da0501c0be484ab8acf616eba67e7f5662f341b30ff15da74a016e3b5"
 }

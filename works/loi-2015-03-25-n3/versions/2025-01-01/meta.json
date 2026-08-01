@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : Loi du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u0027avancement des fonctionnaires de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "917ccd1b128af111c16369cb263434db3e930ee18927928411d026e244738580",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e9cbb7496d69e0e31eb8c0b86d04cf3df88259dfd6f4b80a64b827dab684eff2"
+  "record_sha256": "12b4fb7e75fc95807aaa3841e29d24a83d11e02c787c3144a74cf49537ef8d0e"
 }

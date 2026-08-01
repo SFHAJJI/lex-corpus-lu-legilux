@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/04/2022 : Loi du 29 juin 2005 portant\\na) fixation des cadres du personnel des \u00E9tablissements d\u0027enseignement secondaire;\\nb) modification de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat;\\nc) modification de la loi modifi\u00E9e du 10 mai 1968 portant r\u00E9forme de l\u0027enseignement;\\nd) abrogation de la loi du 25 ao\u00FBt 1971 portant cr\u00E9ation de la fonction de professeur de sciences \u00E9conomiques et sociales aux \u00E9tablissements d\u0027enseignement secondaire;\\ne) modification de la loi du 22 juin 1989 portant modification de la loi modfi\u00E9e du 10 mai 1968 portant r\u00E9forme de l\u0027enseignement;\\nf) modification de la loi modifi\u00E9e du 4 septembre 1990 portant r\u00E9forme de l\u0027enseignement secondaire;\\ng) modification de la loi du 25 juin 2004 portant organisation des lyc\u00E9es;\\nh) modification de la loi modifi\u00E9e du 24 mai 1989 sur le contrat de travail.",
       "title_short": "Loi du 29 juin 2005 fixant les cadres du personnel des \u00E9tablissements d\u0027enseignement secondaire et secondaire technique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "251a95481049ec2db6a7e2a68ca25a297921f9b73dc12b73cc744592c2c058d9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/06/29/n1/consolide/20220401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7fc490bcd09ad5f80ca41f94f2ee8eaf1783469cd8b825c235c0dca76e934a93"
+  "record_sha256": "f912375bed30a6be7c2008bf2dc4fefe26aa003f0e34517ca355c0b0d3fd4565"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/05/2026 : R\u00E8glement grand-ducal du 15 juillet 1988 concernant la protection des salari\u00E9s contre les risques li\u00E9s \u00E0 une exposition \u00E0 l\u0027amiante pendant le travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b61083ba65fb2ac3535872ce90eeeb4828b3c5c6de32efbc57887f2c4074b52c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1988/07/15/n3/consolide/20260520/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f6e1daa58b732468e0a1946bf35d976485ea453fb230fd209ceb2fbb7d0c4117"
+  "record_sha256": "a44350680675a8813e90ba54d1e43b63b47805cc1a9af4a1337c8ef98b3815fe"
 }

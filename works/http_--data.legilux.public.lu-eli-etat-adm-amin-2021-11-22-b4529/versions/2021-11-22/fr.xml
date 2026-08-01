@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#somebody">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2021-11-22" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MENV"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MDEVDU"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2021-11-22" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2021-11-22" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo</scl:jolux><scl:jolux scl:name="publicationDate">2021-11-29</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/AMIN</scl:jolux><scl:jolux scl:name="dateDocument">2021-11-22</scl:jolux><scl:jolux scl:name="dateEntryInForce">2021-11-29</scl:jolux><scl:jolux scl:name="dateApplicability">2021-11-22</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/adm/memorial/2021/b4529</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MENV</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MDEVDU</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/913</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/3139</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/106</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/780</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/312</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo/fr</scl:jolux>
+<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 22/11/2021 : Arrêté ministériel du 22 novembre 2021 relatif au plan de gestion Natura 2000 du site « Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg ».</scl:jolux>
+<scl:jolux scl:name="basedOn">http://data.legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/jo</scl:jolux>
+<scl:jolux scl:name="basedOn">http://data.legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n6/jo</scl:jolux>
+<scl:jolux scl:name="basedOn">http://data.legilux.public.lu/eli/etat/leg/dgc/2017/01/13/a194/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/jo/fr</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2021/b4529/fr/pdf</scl:jolux>
+<scl:jolux scl:name="memorialPage">1</scl:jolux>
+<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’État du Grand-Duché de Luxembourg – Service central de législation</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-adm-amin-2021-11-22-b4529-jo-fr-xml.xml</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2021-11-22" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2021-11-22" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#"/>
+<references source="#">
+<original href="/eli/etat/adm/amin/2021/11/22/b4529/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/adm/rect/2021/11/22/b2358/jo" id="rp2" showAs="Arrêté ministériel du 22 novembre 2021 relatif au plan de gestion Natura 2000 du site « Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg » - RECTIFICATIF."/>
+</references>
+</meta>
+<preface>
+<longTitle>
+<p>Version consolidée applicable au 22/11/2021 : Arrêté ministériel du 22 novembre 2021 relatif au plan de gestion Natura 2000 du site « Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg ».</p>
+</longTitle>
+</preface>
+<preamble style="show_in_pdf">
+<formula name="">
+<p>La Ministre de l’Environnement, du Climat<br/>et du Développement durable,</p>
+</formula>
+<container name="preamble">
+<p>Vu les articles 2, 34, 35 et 37 de la <ref href="/eli/etat/leg/loi/2018/07/18/a771/jo" id="02abc599-d574-4841-85d3-d7c4fd363637">loi modifiée du 18 juillet 2018</ref> concernant la protection de la nature et des ressources naturelles ;</p>
+<p>Vu le <ref href="/eli/etat/leg/rgd/2009/11/06/n6/jo" id="a683d08a-bf3f-48c8-9d8a-ce33d99e5cea">règlement grand-ducal du 6 novembre 2009</ref> portant désignation des zones spéciales de conservation ;</p>
+<p>Vu la <ref href="https://legilux.public.lu/eli/etat/leg/dgc/2017/01/13/a194/jo" id="daab55ef-488e-4534-9f21-7a17a179c2f1">décision du Gouvernement en conseil du 13 janvier 2017</ref> relative au plan national concernant la protection de la nature 2017 - 2021 et ayant trait à sa première partie intitulée « Stratégie nationale Biodiversité » ; </p>
+<p>Vu le plan de gestion pour parties des districts hydrographiques internationaux du Rhin et de la Meuse situées sur le territoire luxembourgeois ainsi que du programme de mesures y afférent tel qu’approuvés par le Gouvernement en conseil en date du 16 mars 2018 ; </p>
+<p>Vu le plan de gestion des risques d’inondation du Grand-Duché de Luxembourg tel qu’approuvés par le Gouvernement en conseil en date du 16 mars 2018 ;</p>
+<p>Vu l’avis du Conseil supérieur pour la protection de la nature et des ressources naturelles ;</p>
+</container>
+<formula name="">
+<p>Arrête :</p>
+</formula>
+</preamble>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/art_1er/20211122</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2021-11-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<alinea>
+<content>
+<p>Est arrêté le plan de gestion « Machtum - Pellembierg/Froumbierg/Greivenmaacherbierg » concernant la zone spéciale de conservation « Machtum – Pellembierg/Froumbierg/Greivenmaacherbierg », codée LU0001024, qui figure en annexe.</p>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529/art_2/20211122</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/amin/2021/11/22/b4529</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2021-11-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<alinea>
+<content>
+<p>Le présent arrêté, ainsi que le plan visé à l’article 1<sup>er</sup> et ses annexes seront publiés au Journal officiel du Grand-Duché de Luxembourg et sur un site électronique installé à cet effet.</p>
+</content>
+</alinea>
+</article>
+</body>
+<conclusions style="show_in_pdf">
+<p> <signature> <docDate date="2018-08-30">Luxembourg, le 22 novembre 2021.</docDate> </signature> <signature> <shortTitle> La Ministre de l’Environnement, du Climat<br/>et du Développement durable,</shortTitle> <person refersTo=""> Carole Dieschbourg</person> </signature> </p>
+</conclusions>
+<attachments>
+<attachment id="attachment_1">
+<doc name="">
+<meta>
+<identification source="">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2021-11-23" name=""/>
+<FRBRauthor href=""/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2021-11-23" name=""/>
+<FRBRauthor href=""/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2021-11-23" name=""/>
+<FRBRauthor href=""/>
+</FRBRManifestation>
+</identification>
+</meta>
+<preface>
+<longTitle>
+<p>Annexes</p>
+</longTitle>
+</preface>
+<mainBody>
+<alinea>
+<content>
+<p>Pour visualiser les annexes, veuillez consulter la <ref href="http://data.legilux.public.lu/filestore/eli/etat/adm/amin/2021/11/22/b4529/consolide/20211122/fr/pdf/eli-etat-adm-amin-2021-11-22-b4529-consolide-20211122-fr-pdf.pdf" id="7c0ff3a5-6ccc-4ca5-8c07-b7adf7ee45a1">version pdf du Journal officiel</ref>.</p>
+</content>
+</alinea>
+</mainBody>
+</doc>
+</attachment>
+</attachments>
+</act>
+</akomaNtoso>

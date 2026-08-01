@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2019 : R\u00E8glement grand-ducal du 26 d\u00E9cembre 2012 fixant le tarif des pr\u00E9parations gal\u00E9niques et les honoraires des pharmaciens.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20190601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "48d12f4e2eb2b7d58f8fc7763f0ed82aa59048e5353ca7b2b4e54a45c71a0327",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20190601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/26/n14/consolide/20190601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4013e8b4c45fa273c4b13baa2104e72df6a75f9f3ecc54d822faf11ac340ecd0"
+  "record_sha256": "821ac5a8c532032328dc36dd6a84f2fa73c01a1c7ec3da8371fd9f15e224aa28"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/03/2021 : Loi du 25 novembre 1982 relative aux organes destin\u00E9s \u00E0 la transplantation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1982/11/25/n2/consolide/20210307/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "380e56b4b36bee63ea6cb423b4371b9aab5da192ae92aa2a5f680ebc4ba781b0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1982/11/25/n2/consolide/20210307/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1982/11/25/n2/consolide/20210307/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bf2f90f3b247022b2da514b9bd8f27d3e6d6b4abc1c801eda156779b4988b753"
+  "record_sha256": "dae749a77e0032086a1fd492faa1c4f02445b3024cf601bbd71552b861edcca5"
 }

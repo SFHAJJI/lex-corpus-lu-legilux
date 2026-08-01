@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/01/2021 : R\u00E8glement grand-ducal du 2 septembre 2020 d\u00E9terminant les modalit\u00E9s des \u00E9preuves de l\u2019examen de fin d\u2019\u00E9tudes secondaires classiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a734/consolide/20210111/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "456a3381b52cf528ad5425d9c27bd13544a51107aca414e0ad6517318e554e28",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a734/consolide/20210111/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a734/consolide/20210111/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f3de97e18d73b76ccf97d6e1aede73cbbf7477509e60f26e1528d65f2fb42015"
+  "record_sha256": "443a302ab4237f9c91948138409d0408d7da5ae49259d6a5c3a0f06da6a4e667"
 }

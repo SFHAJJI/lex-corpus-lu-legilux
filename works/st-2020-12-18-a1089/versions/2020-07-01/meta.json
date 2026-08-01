@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2020 : Mutualit\u00E9 des employeurs - Statuts.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aaa6fdc68a5e48e9600e1cedb9d1fe6ca77b95b6589b0866820eb9f3c835c5d8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/st/2020/12/18/a1089/consolide/20200701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f888bc52e309994114627abbcba33993737f0ab9a94c0741ac8a2806843f26a4"
+  "record_sha256": "07e03c6b4e09f59e0ba9958f00ce1c48df7ce3a61218bea40a083687aa35913c"
 }

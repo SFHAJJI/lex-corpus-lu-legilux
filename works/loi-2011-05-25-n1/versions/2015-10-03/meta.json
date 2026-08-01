@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/10/2015 : Loi du 25 mai 2011 relative \u00E0 la chasse.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f4bfe072e68a0f7a8a81fb3a93ff13d50900bdf0a3d11f339bdcd4885b6f5aea",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/25/n1/consolide/20151003/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "841483237629631f3c62812e355f96b779405372e0b016c29cbe923920baa79d"
+  "record_sha256": "a6c905b466b829ae2d48efc70978202729cbee589d0a8eaa9a1088105b599a43"
 }

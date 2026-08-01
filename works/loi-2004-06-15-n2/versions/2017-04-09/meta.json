@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/04/2017 : Loi du 15 juin 2004 portant r\u00E9organisation de l\u0027administration des b\u00E2timents publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/consolide/20170409/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "36c28165c96ed31e8d79aba28a9ae2fa052e201dee2673067c462400c503358b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/consolide/20170409/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/15/n2/consolide/20170409/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "82ed8790b461a4f29af22b9819ffc362b57d377c8a3b42af62b2ced3ce14b1c1"
+  "record_sha256": "c081ff3fb3905674ab41f5fc2468dcce78e4b5d39af2f4cfb8e43771c24be2b8"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2023 : Loi modifi\u00E9e du 4 septembre 1990 portant r\u00E9forme de l\u2019enseignement secondaire g\u00E9n\u00E9ral.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/consolide/20230915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ff6d2ba8f5766944fb272c375a5d28ad11d43cbed8ea5042294f0f4fa520a0a3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/consolide/20230915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/09/04/n1/consolide/20230915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bfcea9e6098115cb9ffbc09a4329710b927310b2153a365758c2ba4f8dd7c5e8"
+  "record_sha256": "5941da58fcc1dcf6525230b114f26e5c17de835076188ecb64bd55755e0941d2"
 }

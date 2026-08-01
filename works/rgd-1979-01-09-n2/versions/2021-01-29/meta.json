@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/01/2021 : R\u00E8glement grand-ducal du 9 janvier 1979 concernant la proc\u00E9dure des saisies-arr\u00EAts et cessions sur les r\u00E9mun\u00E9rations de travail et les pensions et rentes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/20210129/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a3d6dd5dffbaa9f6e95ef7846b10771ac122ca987eef80b3c44a39e85387654c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/20210129/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/20210129/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ca438910e468078a11b4b03637493bdf578ab50117497779b562e55005159260"
+  "record_sha256": "451d0d13851e6771ef7330432cc4f74b64cc10370f2573d09af2d458ff1d0c00"
 }

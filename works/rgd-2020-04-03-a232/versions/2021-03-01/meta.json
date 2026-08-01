@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/03/2021 : R\u00E8glement grand-ducal du 3 avril 2020 portant ex\u00E9cution des articles 5, 6 et 8 de la loi modifi\u00E9e du 19 d\u00E9cembre 2014 relative 1) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle 2) \u00E0 la promotion de la cr\u00E9ation artistique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20210301/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "11acec57d458a990d7ef60eb75b155a7717410210e02e6e754f1bc08944e6449",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20210301/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/03/a232/consolide/20210301/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bebff62077fb2edcd7c219ae5d6cb64ed318e6faf7a00bede1efd59926fe95e0"
+  "record_sha256": "91ef076fd5236b8a785638d51b20ac0459a0c599c9e74e06e6b73d356df3e3d7"
 }

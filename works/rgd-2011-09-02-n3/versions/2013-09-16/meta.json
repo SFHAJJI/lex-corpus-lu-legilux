@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2012 : R\u00E8glement grand-ducal du 2 septembre 2011 fixant les modalit\u00E9s et le calendrier de la reprise par l\u0027\u00C9tat des employ\u00E9s communaux et des salari\u00E9s au service des communes exer\u00E7ant une activit\u00E9 \u00E9ducative, sociale, de sant\u00E9 ou administrative dans l\u0027enseignement fondamental public.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n3/consolide/20130916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b40f4c967459ed6dcadd3301f1ccb95318cf2164be575414a558edaf98773437",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n3/consolide/20130916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n3/consolide/20130916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7a1329f58de68d7de86eeb290bf7f323fd3eef3fbe50fccbee96f4613c41a6b0"
+  "record_sha256": "dd32682ff755e39e6a690704ddb99d9d9060e19109408c2a9d62b0821cd89a21"
 }

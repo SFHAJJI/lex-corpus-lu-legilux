@@ -23,15 +23,22 @@
       "title": "Nouveau Code de proc\u00E9dure civile",
       "title_short": "Nouveau Code de proc\u00E9dure civile",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20190824/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9ae38b35c42987dbc21e74bbf46d69b6098ef3e630bfb8553e154c94cdc5e542",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20190824/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/procedure_civile/20190824/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bb1784c8128d5fbc1b42b4b86e14a4e283fafd6b4f0be44c6bd9a1f0ce946d6d"
+  "record_sha256": "b5c9331451f956c6336986473dc65a9eb13bcfbc5f5b2efc4aba74afe611cb91"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/1986 : R\u00E8glement grand-ducal du 31 mars 1978 portant d\u00E9termination des cat\u00E9gories des fonctionnaires de l\u0027administration des douanes b\u00E9n\u00E9ficiant de la prime d\u0027astreinte et fixation du montant de ladite prime.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "012c34597b0c2a6070d0deb0e262a1c9d11bc092d6fc98224936884ecbd96c26",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1978/03/31/n1/consolide/19861101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "416c4afc5ccb74688f0f21c185c19b1ded7c138c02b622d7ccf290464700e390"
+  "record_sha256": "fef98cea7ae362a3c8590d80b2572e6b346b3f8cf8816bf93a4e90352b5d01ef"
 }

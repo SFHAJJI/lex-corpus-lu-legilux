@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/06/1996 : R\u00E8glement grand-ducal du 14 juillet 1971 concernant l\u0027institution et le fonctionnement du comit\u00E9 d\u0027acquisition pr\u00E9vu par l\u0027article 13 de la loi du 16 ao\u00FBt 1967 ayant pour objet la cr\u00E9ation d\u0027une grande voirie de communication et d\u0027un fonds des routes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19960625/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "da7bd2ad03d82f99840c071b953febceda09b8c1f45da081f787da7c92a64c0f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19960625/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1971/07/14/n7/consolide/19960625/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5b2b5ab7be8b9a8194898ce2b71a3bff0c02ff24838353f3b924a1fcc8966066"
+  "record_sha256": "3b31a208f8770898aad817cea05760b34cfc884bf8e6c52912ca5c048259f6ee"
 }

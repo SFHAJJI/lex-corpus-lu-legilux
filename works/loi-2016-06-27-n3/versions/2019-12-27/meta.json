@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/12/2019 : Loi du 27 juin 2016 concernant la compatibilit\u00E9 \u00E9lectromagn\u00E9tique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n3/consolide/20191227/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "21c3c7d66a45f9e9f125fbbabd840ebce121658816cac42e008e77d0059e703d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n3/consolide/20191227/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n3/consolide/20191227/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0f2f0c208476a3f00bf9288534c8c1722419681f16cfd868537a9f83f7e14206"
+  "record_sha256": "0047c08a2502664a65aebad5fa3a4607322397e29e783bf75a0cbb19a89bb7aa"
 }

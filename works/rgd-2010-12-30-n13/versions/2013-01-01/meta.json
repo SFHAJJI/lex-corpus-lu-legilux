@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2013 : R\u00E8glement grand-ducal du 30 d\u00E9cembre 2010 fixant la comp\u00E9tence des bureaux d\u0027imposition de la section des personnes physiques de l\u0027administration des contributions directes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n13/consolide/20130101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c962f41c7dd126f5c014179b70d485ada0f203cd667f49f2e83ec2758e352b90",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n13/consolide/20130101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/30/n13/consolide/20130101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b1b1efc8b4834816a8c2c160f0aab3387b9202e681b4f2b01b6a9ed293dffc38"
+  "record_sha256": "2c6e0d5fec32b825aa11655c87fad0b46b2e16518b7c297a1a551dd98facee5f"
 }

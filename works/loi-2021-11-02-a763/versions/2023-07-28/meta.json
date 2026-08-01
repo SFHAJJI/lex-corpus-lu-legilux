@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/07/2023 : Loi du 2 novembre 2021 relative \u00E0 un contr\u00F4le de proportionnalit\u00E9 avant l\u2019adoption d\u2019une nouvelle r\u00E9glementation de professions.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/11/02/a763/consolide/20230728/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e3d48c4854b23aaabbe39dfddc9c95292c8fcbf60e744569679fe341d46425f0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/11/02/a763/consolide/20230728/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/11/02/a763/consolide/20230728/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ba8f3298f023d54713211b9c5f96e3624310cffdc1c289b470205ca3566674ee"
+  "record_sha256": "56f4108e3f5bac168593cfa67c86af54b1cd64cbd1c156277e664c9a0c4defed"
 }

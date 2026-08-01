@@ -21,15 +21,22 @@
       "title": "Version rectifi\u00E9e applicable au 01/09/2016 : Loi du 5 juillet 2016 portant\\na) organisation des services de taxis et\\nb) modification du Code de la consommation.",
       "title_short": "Loi du 5 juillet 2016 portant organisation des services de taxis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n3/consolide/20160901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "69e5f12c4b04c365201328bfa408b4c0c3a477bc248d25fb896829b685391fe9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n3/consolide/20160901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n3/consolide/20160901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "172f516383aca8170f07580388fb864f5e0a80768ad92c32ecc14adec5cca608"
+  "record_sha256": "09baabe00be8e2d84c30217213ac9eaecd6d9a0691052f30557a386e3d696c01"
 }

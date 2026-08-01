@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/07/2013 : R\u00E8glement grand-ducal du 25 octobre 1999 d\u00E9terminant le fonctionnement de la commission de surveillance pr\u00E9vue \u00E0 l\u2019article 72 du Code des assurances sociales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20130708/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b80357842a501919214007afbb5ec863f0b3083e172940a5e56f6f5196b45b9f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20130708/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20130708/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "58e3df102038bfc64280065576c982f87f427006d88cbe80f69fa3287f81cdb9"
+  "record_sha256": "b6b9a59c58855b20cb884059d37ccfd12b149f44d457b3293cc1e5af8586e8bc"
 }

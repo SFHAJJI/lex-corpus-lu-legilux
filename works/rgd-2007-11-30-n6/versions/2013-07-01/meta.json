@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 30 novembre 2007 portant organisation de la commission interd\u00E9partementale pour les \u00E9quipements sportifs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/11/30/n6/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a800240e31ddd0a54c5be5b359467185146d464d88fae921f03853197a5c60f3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/11/30/n6/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/11/30/n6/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7347c455f5baa3de4590bfca403cde7c8f9527f0f26aa3241c32c0f9f49e4168"
+  "record_sha256": "80b30095a5eae03cbb6f1a6df2bb313840aaf878f82545eb7d4bdac99813504c"
 }

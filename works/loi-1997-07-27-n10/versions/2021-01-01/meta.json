@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : Loi du 27 juillet 1997 sur le contrat d\u0027assurance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8552a10e5ad4a03748a627446485b9a454ad7737d5a694820345e5d86367be7c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1997/07/27/n10/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d79318f6ea0874a2b2d92cf1d6ff40df4e156341c4c418c1213361452be69de3"
+  "record_sha256": "372849476741debe6bac5ee3e763283cb304ccaf4cc33da5f6a3cd710268ee66"
 }

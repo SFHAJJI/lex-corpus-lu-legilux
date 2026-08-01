@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/02/2003 : R\u00E8glement grand-ducal du 30 mai 1996 fixant les modalit\u00E9s de remplacement en m\u00E9decine et m\u00E9decine dentaire ainsi que la proc\u00E9dure \u00E0 suivre pour obtenir l\u2019autorisation de remplacement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20030204/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c66784e2647e4a4a861c7990013a694a517e952e12b62eb6ba7642778a1d39ad",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20030204/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1996/05/30/n4/consolide/20030204/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f6df907e1536874768e91c5045857aade070c884a991e2310109df8e380236d5"
+  "record_sha256": "0d42904cc937f90c1b9695c5d61c99c4b00096ddfea150e47cb88620b533b04d"
 }

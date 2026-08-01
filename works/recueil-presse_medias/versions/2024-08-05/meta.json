@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Presse et M\u00E9dias \u00E9lectroniques",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20240805/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6c99642a6cd2b88a37695fbfbeeee4657fcbd89906b877cbf7c830948b9433e1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20240805/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20240805/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "abf71c4891086dccc8732c807015afa094db5301edf96fe24c0f727084a90433"
+  "record_sha256": "9fa2b638c872d20a052405f88d64d8ddb4e621a66281f03a68dbdfa5913394b6"
 }

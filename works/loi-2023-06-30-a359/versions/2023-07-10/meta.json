@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 10/07/2023 : Loi du 30 juin 2023 portant modification :\\n1\u00B0de la loi modifi\u00E9e du 12 septembre 2003 relative aux personnes handicap\u00E9es ;\\n2\u00B0de la loi modifi\u00E9e du 28 juillet 2018 relative au revenu d\u2019inclusion sociale.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/06/30/a359/consolide/20230710/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d265717f25707644d01ee86a45cd9a39635e01372112f95ca3a06e7338cf8438",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/06/30/a359/consolide/20230710/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/06/30/a359/consolide/20230710/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c37508eb62e993f76e41715b5bce1f10bc919479b0e764f00816df37e25f7159"
+  "record_sha256": "41fd5777595c597592d696642b7fe2732e28a1254898c11804a932f7e53e293e"
 }

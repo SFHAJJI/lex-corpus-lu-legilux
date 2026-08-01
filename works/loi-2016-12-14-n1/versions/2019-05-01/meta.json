@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/05/2019 : Loi du 14 d\u00E9cembre 2016 portant cr\u00E9ation d\u0027un Fonds de dotation globale des communes et modifiant:\\n 1. la loi modifi\u00E9e du 1er mars 1952 modifiant certaines dispositions relatives aux imp\u00F4ts directs;\\n 2. la loi modifi\u00E9e du 30 juin 1976 portant 1. cr\u00E9ation d\u0027un fonds de ch\u00F4mage; 2. r\u00E9glementation de l\u0027octroi des indemnit\u00E9s de ch\u00F4mage complet;\\n 3. la loi modifi\u00E9e du 22 d\u00E9cembre 1987 concernant le budget des recettes et des d\u00E9penses de l\u0027\u00C9tat pour l\u0027exercice 1988;\\n 4. la loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u0027enseignement fondamental.",
       "title_short": "Loi du 14 d\u00E9cembre 2016 portant cr\u00E9ation d\u2019un Fonds de dotation globale des communes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/14/n1/consolide/20190501/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dc62fb65d6c3780fa47d69943215d9a035c4478e9ec4608971e1367a18b14455",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/14/n1/consolide/20190501/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/14/n1/consolide/20190501/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4af97c9c8552e47f768813de73281bf859a447a3556cba899018abde18d09e7a"
+  "record_sha256": "8bf29fff6b0bc74cf36986dc07b70dc269a3bb366beaff1587204323d1f11302"
 }

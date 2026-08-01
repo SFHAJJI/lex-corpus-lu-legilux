@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 21 mars 1966 portant institution d\u0027un conseil \u00E9conomique et social.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1966/03/21/n2/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "df9cc511606534795e3ed5f6fd21fcebd8f17da2e0d3eaa388a6bbbd62d2946c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1966/03/21/n2/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1966/03/21/n2/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "798631683e906781d2185921e4dfc8d1e31210a42ed6a6563977ca552e4017b5"
+  "record_sha256": "027029040ee5d718db11e269d7f13b5dfa72d25e899f61a21139a4de8b78dba6"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/10/2006 : R\u00E8glement grand-ducal du 15 janvier 1993 relatif \u00E0 la mise sur le march\u00E9 des m\u00E9dicaments v\u00E9t\u00E9rinaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/20061021/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ab18d2145a7ea62490f0d16cb3f0d5b48b2443c6f1504b4f09682657a9035e6e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/20061021/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/15/n1/consolide/20061021/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0b0f478b299077f2360dfd5b38ab95eab2f4d228ee8e595e48e0e4d1d90f19c1"
+  "record_sha256": "332098698d17822ff41f87c349197d8e9327966b952927764228394c570440b1"
 }

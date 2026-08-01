@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 12/06/2026 : R\u00E8glement grand-ducal du 6 octobre 2023 relatif aux transports et circulations exceptionnels soumis \u00E0 des autorisations sp\u00E9ciales sur les voies publiques, modifiant l\u2019arr\u00EAt\u00E9 grand-ducal modifi\u00E9 du 23 novembre 1955 portant r\u00E8glement de la circulation sur toutes les voies publiques, et abrogeant le r\u00E8glement grand-ducal du 28 juillet 2014 concernant la circulation sur les autoroutes des v\u00E9hicules \u00E0 moteur, avec ou sans remorque, d\u00E9passant les dimensions ou masses maximales autoris\u00E9es.",
       "title_short": "R\u00E8glement grand-ducal du 6 octobre 2023 relatif aux transports et circulations exceptionnels soumis \u00E0 des autorisations sp\u00E9ciales sur les voies publiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a682/consolide/20260612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a2e46d7d985ea211f88248b9d470e7b536ddc418c3615d2487f46e8fbbdc1892",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a682/consolide/20260612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/06/a682/consolide/20260612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ccff0b51829a47ba17a7217aef4b7056b809785d092f4bdde8d46341a87867e2"
+  "record_sha256": "078a163a755a8f84c6fb03a5ef2e5bab3b2286791140de789fc8b15a3944374f"
 }

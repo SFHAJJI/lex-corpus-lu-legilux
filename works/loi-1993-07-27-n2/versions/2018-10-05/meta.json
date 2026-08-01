@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/10/2018 : Loi du 27 juillet 1993 ayant pour objet\\n1. le d\u00E9veloppement et la diversification \u00E9conomiques \\n2. l\u0027am\u00E9lioration de la structure g\u00E9n\u00E9rale de l\u0027\u00E9conomie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/20181005/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bae6323bc1f364fc9cc4815a4cafaf24b33ebd64e365a1c764c92c01c024a7be",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/20181005/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/20181005/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d91bf72f79022b8d1dd941f3f9736a9a0aa8174815b50b0b64bc7cba5ec2c926"
+  "record_sha256": "1572f3ce155e57fb5f308bec55a587f4974a1c0f8980ea239011d43ef476a383"
 }

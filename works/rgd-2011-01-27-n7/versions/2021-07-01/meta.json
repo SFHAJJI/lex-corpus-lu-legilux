@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2021 : R\u00E8glement grand-ducal du 27 janvier 2011 relatif \u00E0 l\u0027exon\u00E9ration de la taxe sur la valeur ajout\u00E9e de certaines importations de biens.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/01/27/n7/consolide/20210701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5f91c6acbfa78f0fc449f5265bc0509cd685449a26ba2edacf1747911fa25420",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/01/27/n7/consolide/20210701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/01/27/n7/consolide/20210701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8f397fa51b141092865ceb1f3bc838a3c97ac23605cb9ec450dd3f2c185ee8bd"
+  "record_sha256": "e2684d25d62e4083294e2cff8934d4e7ecd07c250d0997fa6029b55871be9084"
 }

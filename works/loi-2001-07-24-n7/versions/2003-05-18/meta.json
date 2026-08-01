@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/05/2003 : Loi du 24 juillet 2001 portant cr\u00E9ation d\u0027un \u00E9tablissement public nomm\u00E9 \u00AB Centre Culturel de Rencontre Abbaye de Neum\u00FCnster \u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20030518/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aa5d6201934b2e8028f150e91dc6ffcb07a7d6ad21d78ae1131e18892ea75d60",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20030518/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2001/07/24/n7/consolide/20030518/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "343bfd10103e88893abfe7d0a04a30c1b78f967bbc1135d69600d90749c3e3ac"
+  "record_sha256": "6bee8e91b264afa85e07f014753099ab6bca7c1ee1bdf6400b882171e307872f"
 }

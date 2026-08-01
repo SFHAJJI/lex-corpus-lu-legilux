@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/04/2009 : Loi du 21 juin 1999 autorisant l\u0027Etat \u00E0 participer au financement de la modernisation, de l\u0027am\u00E9nagement ou de la construction de certains \u00E9tablissements hospitaliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n1/consolide/20090410/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0f70d9fd7dbbc07dbbfdda45eea0a542a7cc1c226689caaf3a6d1def03907bf6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n1/consolide/20090410/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/21/n1/consolide/20090410/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c1c533f3cc1ba8a08fad554e3f7e51a15e1282e68e13c456ad5ecbe42e003130"
+  "record_sha256": "3a787877bbcd09c09c2d89bbc3e92b815683d6f2e783b42e7454f93622f5578c"
 }

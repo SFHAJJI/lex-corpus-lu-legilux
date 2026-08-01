@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/01/2015 : R\u00E8glement grand-ducal du 13 f\u00E9vrier 2009 arr\u00EAtant les maxima des indemnit\u00E9s des bourgmestres et des \u00E9chevins.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20150102/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "926f59b819aa5b3635393b1a92dc6b11f0aa7f87642aab6997815e2779a19985",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20150102/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20150102/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "be7827470861f7fbad57652a029439400e3961440d87cf59a32cdacbdd5424b8"
+  "record_sha256": "0137bb9ba2b4cd7602ee7dd2a2f273f4b6f140e3ffad9cef51518ab4f334b73a"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/12/2014 : Loi du 15 novembre 1978 relative \u00E0 l\u0027information sexuelle, \u00E0 la pr\u00E9vention de l\u0027avortement clandestin et \u00E0 la r\u00E9glementation de l\u0027interruption de la grossesse.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141226/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0db02cec73fc9a494cf1713d7127c689ee668230b65d45c1bccf694ae0ee5d05",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141226/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1978/11/15/n1/consolide/20141226/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b55ada505f6e86959089c6b627c18abd6a60bec9941501bdfb8c40376bfd0a7a"
+  "record_sha256": "f1bdbcd2a77c47f6954be6064f841aec9b0a8ef190edab4c2b0f82628630d420"
 }

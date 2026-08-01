@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 16/11/2024 : R\u00E8glement grand-ducal du 7 novembre 2024 portant modification du r\u00E8glement grand-ducal modifi\u00E9 du 17 septembre 2004 fixant les conditions et modalit\u00E9s de l\u2019octroi d\u2019avances temporaires de fonds pour le paiement de d\u00E9penses de l\u2019\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/11/07/a452/consolide/20241116/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "57bdff62c919bb8230fe9e8448b041440a93abb34d745f52251a7b8753e35727",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/11/07/a452/consolide/20241116/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/11/07/a452/consolide/20241116/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "68d0e0ff6d27f612ce3357c507aeab26d5fcdfca2f0b5cd3f4961aeeb6ebff40"
+  "record_sha256": "252324e6944ed5e90c9f8c3c0377b6cdec03ab78544adc0ca1f056ca5bf72405"
 }

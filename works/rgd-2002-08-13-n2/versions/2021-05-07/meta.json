@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/05/2021 : R\u00E8glement grand-ducal du 13 ao\u00FBt 2002 portant institution d\u2019une formation sp\u00E9ciale pour les fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20210507/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8b7c5a16f2cef6eaaaaacc1ea6e243eef67cb180a67579d14a80fc2cb4a94972",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20210507/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20210507/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "df7d19b9a6902f59a2e8843333e445e323c3c7472c23d19798bcfb66d541b262"
+  "record_sha256": "73429357c6bda3feb1c01ffcba368f64bbc9000a868e115fe26cf83753e5172a"
 }

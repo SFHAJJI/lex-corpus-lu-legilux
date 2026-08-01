@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/09/2021 : R\u00E8glement grand-ducal du 20 ao\u00FBt 2021 modifiant le r\u00E8glement grand-ducal du 24 ao\u00FBt 2016 concernant le statut du personnel du Centre commun de la s\u00E9curit\u00E9 sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/20/a658/consolide/20210911/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a0b4e3c73a35546a55c31f01552653276736490832dfc51dc01e1768dd20e98f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/20/a658/consolide/20210911/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/20/a658/consolide/20210911/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "970deb94c0bc90b2177d03a69b7b0972f147ff91939f57d0bc430f898f6a39c0"
+  "record_sha256": "6a4e7d89ba9609f54db11add544700ff2771ef2eea51d01279f3f5a72e6a44f5"
 }

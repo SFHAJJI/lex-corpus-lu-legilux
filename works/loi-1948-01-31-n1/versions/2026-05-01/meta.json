@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/05/2026\u00A0: Loi du 31 janvier 1948 relative \u00E0 la r\u00E9glementation de la navigation a\u00E9rienne.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20260501/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fe5c21a5564caf11d4b9a1d2bf5a90106d2db508c1b91a48481cb9a5c000c827",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20260501/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1948/01/31/n1/consolide/20260501/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d5fa93b72e55d7558e6e32b3660cd8e33d88bf3e56db96d2cae9562e00164224"
+  "record_sha256": "2a102584b6b1f1703fe1a0cda92d7cf876fa111faa2adb2cda42bd47fd14f322"
 }

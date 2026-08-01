@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 20 mars 1984 portant cr\u00E9ation d\u0027une Ecole sup\u00E9rieure du Travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "66dd8c82d907706d745108fd07fa20c5fbc1eb6899520895523d589b21ed2083",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1984/03/20/n1/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "98c6edd33aaaafe72142aa3e002946d0ee8e047c31e11c60f192fcbe5d15ec98"
+  "record_sha256": "79908d98f2fd1aed030a5bcfd6fb4eba99f8c68db76521ea660bb82351a37d11"
 }

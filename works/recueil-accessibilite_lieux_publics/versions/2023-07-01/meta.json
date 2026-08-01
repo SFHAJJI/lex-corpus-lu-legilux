@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Accessibilit\u00E9 des lieux ouverts au public",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cdb9bcc5a73e3b159ae1cba5f51c11dbbeae38a81a178747c8f15275e4dcc877",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/accessibilite_lieux_publics/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bac7084dca839c2a612f6a7069a3ca2fe123f6c99654d96020b0c91ace858ea4"
+  "record_sha256": "55bc4cd315bd7c6a13421cdca95422db8ec67d4be2237bd3b025e85ef9ad6f02"
 }

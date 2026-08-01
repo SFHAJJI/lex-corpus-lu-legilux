@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/08/2024 : Loi du 4 avril 1924 portant cr\u00E9ation de chambres professionnelles \u00E0 base \u00E9lective.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20240806/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c2a968701ff42d97af44750db3a57def13fecfb2b26e3d60a3dd8d66d4cdbdaa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20240806/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1924/04/04/n1/consolide/20240806/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4c2b3691fa9d8cab5410847628feb6bb15a87bfd0cf67e9d27fe325a5c0f226b"
+  "record_sha256": "380cc13ec5e9eb261e57d9d3dfa3174d114a7e46ca66573b0326a699c27de37e"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/09/2023 : R\u00E8glement grand-ducal du 10 juillet 2023 modifiant le r\u00E8glement grand-ducal du 16 juin 2022 d\u00E9terminant les diff\u00E9rentes branches, les niveaux, la dur\u00E9e des cours, les programmes d\u2019\u00E9tudes et d\u2019examens, les modalit\u00E9s d\u2019obtention, de d\u00E9livrance et de nomenclature des dipl\u00F4mes et certificats, ainsi que les modalit\u00E9s de transition entre les diff\u00E9rents niveaux et les \u00E9tablissements dans l\u2019enseignement musical.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/07/10/a409/consolide/20230901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1298456c79d122441acb03f3b630125027ef6a3adbf048402aae383fd8178158",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/07/10/a409/consolide/20230901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/07/10/a409/consolide/20230901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4b6cc283a4b838e5ca4602c8775ab2fdf4734d6b277b893790eb15da11d9e2ed"
+  "record_sha256": "9da7c98f5642b2cea7953013fa5e25671c1645a73b665cb6dd0e24167671d641"
 }

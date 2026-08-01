@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/09/1986 : Loi du 16 ao\u00FBt 1967 ayant pour objet la cr\u00E9ation d\u0027une grande voirie de communication et d\u0027un fonds des routes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19860910/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1fd5f43476ac3f5b91582b14cfd35f4c72747c4dd0e240e8f2a5ff8c7d56a561",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19860910/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19860910/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0bab276998254be259bf4dc5108720450dba91be35b204a01f1d894de43e27cf"
+  "record_sha256": "9e47cd1f24662f3f420a0a2fa35a9c4d1c3186e0bd7cd4dba8ab244a760b7481"
 }

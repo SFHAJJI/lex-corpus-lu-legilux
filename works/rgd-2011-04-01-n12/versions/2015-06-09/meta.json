@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/06/2015 : R\u00E8glement grand-ducal du 1er avril 2011 d\u00E9terminant les crit\u00E8res de classement ainsi que les modalit\u00E9s des proc\u00E9dures d\u0027affectation et de r\u00E9affectation des \u00E9ducateurs gradu\u00E9s et des \u00E9ducateurs de l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/01/n12/consolide/20150609/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9b14a30f1b66cb64d850b3820b18f0cea852ba79273390d32ed12fb16fd32ac5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/01/n12/consolide/20150609/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/01/n12/consolide/20150609/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2a5b986c4b028e2781398c550e9b119df2e493b1601eca5fe778eee4aa7875b9"
+  "record_sha256": "1f20e6eb70d436c46ef1d3d75429b9484b82e07e8c24f8622101f406ea86e90d"
 }

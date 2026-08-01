@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2023 : R\u00E8glement grand-ducal du 8 novembre 2010 portant ex\u00E9cution de la loi du 18 d\u00E9cembre 2009 organisant l\u0027aide sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/11/08/n8/consolide/20230401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f47b713458de437e4fb9d164cbdb75a0bfd2c89adf93e7899b788b61525f18b2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/11/08/n8/consolide/20230401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/11/08/n8/consolide/20230401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "32b963788bc4c6e4249de8825bfeac40c9c11469121ec2f00ce1d48b80973a17"
+  "record_sha256": "a26026d5156a1e9545244fde5939114645a2d8648e210aad2c3551db17788998"
 }

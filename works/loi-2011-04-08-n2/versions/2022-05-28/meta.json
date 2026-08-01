@@ -23,15 +23,22 @@
       "title": "Code consommation",
       "title_short": "Code consommation",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/consommation/20220528/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e7a555dd0205e731f0591db88bbd6a42c420e711c6953fece29ead0a604ffb55",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/consommation/20220528/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/consommation/20220528/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b7c02a75da98601a688fdd572ba3b4b2571099790404ce1cf1c733e4fd64c0d2"
+  "record_sha256": "335b2ea725113b68107591c708c1aaec37cf3c66426d0b639fec4aad9fbd4859"
 }

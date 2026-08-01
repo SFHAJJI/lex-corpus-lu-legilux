@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 12/10/1971 : R\u00E8glement grand-ducal du 23 septembre 1971 portant r\u00E9glementation des \u00E9tablissements cin\u00E9matographiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/consolide/19711012/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7fa4cd1e526c479cda6b98c41976a56d23f67d3f17ed76e575c197392642db55",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/consolide/19711012/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1971/09/23/n3/consolide/19711012/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ee15bad98a655066e419e8b4324065016586ff3aee10414f4ed3e11a5ca4dbff"
+  "record_sha256": "80f4fc3ee3c5579a85d5e96e3038ebf9ad69e431eb6127624ad51613ec39406e"
 }

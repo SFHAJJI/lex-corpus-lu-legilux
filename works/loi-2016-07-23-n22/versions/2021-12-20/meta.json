@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 20/12/2021 : Loi du 23 juillet 2016 portant 1. fixation des conditions d\u0027engagement et de travail des charg\u00E9s d\u0027\u00E9ducation \u00E0 dur\u00E9e d\u00E9termin\u00E9e et \u00E0 t\u00E2che compl\u00E8te ou partielle et des charg\u00E9s d\u0027enseignement \u00E0 dur\u00E9e ind\u00E9termin\u00E9e et \u00E0 t\u00E2che compl\u00E8te ou partielle, 2. fixation des modalit\u00E9s et du d\u00E9roulement du cycle de formation des charg\u00E9s d\u0027enseignement engag\u00E9s \u00E0 dur\u00E9e ind\u00E9termin\u00E9e et \u00E0 t\u00E2che compl\u00E8te ou partielle \u00E0 l\u0027Institut de formation de l\u0027\u00E9ducation nationale, 3. cr\u00E9ation d\u0027une r\u00E9serve nationale des employ\u00E9s enseignants des lyc\u00E9es.",
       "title_short": "Loi du 23 juillet 2016 portant cr\u00E9ation d\u0027une r\u00E9serve nationale des employ\u00E9s enseignants des lyc\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/20211220/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "87684bb614da2fa26ac07406626fc414a3ce883b4256f0ea3bd0f1f42a34e52d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/20211220/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n22/consolide/20211220/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb968bca7d488b3a7af030130add9b9ef91c0f34c5a8ac030f7b9a16a819e7c9"
+  "record_sha256": "cf03cd935f2969529d431c9562688b4c87e3581b6a439392a1d07980e804fdd9"
 }

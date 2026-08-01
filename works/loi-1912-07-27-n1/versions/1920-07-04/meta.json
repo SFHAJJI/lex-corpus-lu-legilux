@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/07/1920 : Loi du 27 juillet 1912, sur le r\u00E9gime des cabarets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1912/07/27/n1/consolide/19200704/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9f24d161cfbe59529a40cd99a87ff6fdfd9a03f30bbff98d6bb687c5a04c7624",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1912/07/27/n1/consolide/19200704/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1912/07/27/n1/consolide/19200704/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "11f0a4898e727134464bab6380ebca87efc266cf4fa15de4591cd9df9d9f9181"
+  "record_sha256": "a2a9cc6bb1cc901c8b90ceff00923873f63cc80c16f4a7729226cd4b7ecffed2"
 }

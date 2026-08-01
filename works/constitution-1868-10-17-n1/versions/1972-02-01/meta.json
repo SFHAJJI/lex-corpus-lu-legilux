@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/02/1972 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19720201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cb70d83e4049acc9489c3f5e5ef6574d056bac938faee97f61cc5df5b09242f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19720201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19720201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "29317919460f954e3abe68a14f549296442761ec66c9dc88fb7ad0dc586da75d"
+  "record_sha256": "3fecdd6b26d863a2032831c3e079cee3edc6f2b788346b9fd4b4c23418999b09"
 }

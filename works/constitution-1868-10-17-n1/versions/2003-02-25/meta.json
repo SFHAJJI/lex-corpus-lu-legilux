@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/02/2003 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9a97eaa5b22d90ca4a3a9347bab851a0e93f28ef269f9d8efdc2526ee74c7fc0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20030225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ce26067d08089832881be7be3158f3871522ad05b07847b3bbd4e472e4e84c7f"
+  "record_sha256": "bfe8033197fc73a24d1b2364b9195267056a036a625673aa34f833d195b83f24"
 }

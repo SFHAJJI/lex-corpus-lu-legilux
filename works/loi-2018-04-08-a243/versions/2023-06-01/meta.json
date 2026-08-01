@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2023 : Loi du 8 avril 2018 sur les march\u00E9s publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/20230601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9dc5d3650a68d8bbe7b046a1698a8286126a6023a72f2ec299309a15271c4aa7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/20230601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/08/a243/consolide/20230601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6e2226aa7f730aa8450442efaf9ede16f5a9ba11b2a0c57cc1ab9081652679f4"
+  "record_sha256": "08f8213fd977b74ac6f661206dafbd9c05556f52a330c1e90052784ecf2d003c"
 }

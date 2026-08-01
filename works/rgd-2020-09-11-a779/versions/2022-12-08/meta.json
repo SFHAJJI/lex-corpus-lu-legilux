@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/12/2022 : R\u00E8glement grand-ducal du 11 septembre 2020 fixant le programme, la dur\u00E9e et les modalit\u00E9s de contr\u00F4le des connaissances de la formation professionnelle sp\u00E9ciale portant sur la recherche et la constatation des infractions ainsi que sur les dispositions p\u00E9nales en mati\u00E8re de navigation fluviale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/11/a779/consolide/20221208/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f0ad0a5a605fa86174c332cf0286d50c8505419c413ce4ef18dce3bb1c18422d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/11/a779/consolide/20221208/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/11/a779/consolide/20221208/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6634f85b0f010c9aabe233f9c6cba8a9c4291bbf3c74cab767b7f3811d7cbf1f"
+  "record_sha256": "e6e87f28a72bc641f60da1d2c0a76828c1d63482b2cbd16c13dc20a4b5d36f57"
 }

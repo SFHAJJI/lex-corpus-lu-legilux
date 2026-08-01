@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 11/06/2024 : R\u00E8glement grand-ducal modifi\u00E9 du 8 avril 2018 portant ex\u00E9cution de la loi du 8 avril 2018 sur les march\u00E9s publics.",
       "title_short": "R\u00E8glement grand-ducal d\u2019ex\u00E9cution du 8 avril 2018 de la loi du 8 avril 2018 sur les march\u00E9s publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20240611/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e7976d7a03dbecb793e50202533d08a94829e8ab42ba8bba2299f7b8a4949060",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20240611/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20240611/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9fb7bd1aa923bd69995078d6c0b0fc2c004f2f31876904436c41e5185418fdee"
+  "record_sha256": "dd114a9719246817e70830933ceb791a7c3b6b30d8dc96a45c0afa2178c7607a"
 }

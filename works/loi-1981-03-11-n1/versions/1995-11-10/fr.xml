@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="1995-11-06" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MECM"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="1995-11-06" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="1995-11-06" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo</scl:jolux><scl:jolux scl:name="dateDocument">1995-11-06</scl:jolux><scl:jolux scl:name="dateNoLongerInForce">1997-08-21</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MECM</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/345</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/735</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr</scl:jolux><scl:jolux scl:name="dateEntryInForce">1995-08-11</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/1995/a91</scl:jolux><scl:jolux scl:name="historicalLegalId">1995A21631</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux><scl:jolux scl:name="publicationDate">1995-11-06</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="consolidates">/eli/etat/leg/loi/1981/03/11/n1/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Texte coordonné du 6 novembre 1995 de l'annexe 1 modifiée de la loi du 11 mars 1981 portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses.</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-1995-91-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/1995/a91/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-1995-11-06-n1-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/1995/11/06/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-1995-91-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/1995/a91/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/1995/a91/fr/pdf/eli-etat-leg-memorial-1995-a91-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+</meta>
+<preface>
+<longTitle>
+<p>Texte coordonné du 6 novembre 1995 de l'annexe 1 modifiée de la loi du 11 mars 1981 portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses.</p>
+</longTitle>
+</preface>
+<body>
+<alinea>
+<content>
+<p>Le présent texte coordonné comprend l'annexe 1 de la <ref href="/eli/etat/leg/loi/1981/03/11/n1/jo" id="13198b55-dabb-4b15-8595-3bef48de2a26">loi du 11 mars 1981</ref>, telle qu'elle a été modifiée par: 1) <ref href="/eli/etat/leg/rgd/1986/06/26/n1/jo" id="9bafbe83-1add-44f1-993a-19e58adc6e3e">Règlement grand-ducal du 26 juin 1986</ref> portant modification de l'annexe 1 de la <ref href="/eli/etat/leg/loi/1981/03/11/n1/jo" id="816cab28-d661-48ae-bc47-a2b0ed582947">loi du 11 mars 1981</ref> portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses et du <ref href="???" scl:verify="true">règlement grand-ducal du 26 juin 1980</ref> concernant l'élimination des polychlorobiphényles et des polychloroterphényles</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>(Mémorial A 50, p. 1555); 2) <ref href="/eli/etat/leg/rgd/1993/05/23/n1/jo" id="4c36956e-656d-49d5-bedd-245e7d01cda1">Règlement grand-ducal du 23 mai 1993</ref>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>- relatif aux piles et accumulateurs contenant certaines matières dangereuses</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>- portant modification de l'annexe 1 de la <ref href="/eli/etat/leg/loi/1981/03/11/n1/jo" id="6cd397cd-8bf2-4122-ac8a-e46534036eb8">loi du 11 mars 1981</ref> portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses (Mémorial A 42, p. 898); 3) <ref href="/eli/etat/leg/rgd/1994/04/19/n1/jo" id="983ce158-5a87-484c-980d-34f969e271f4">Règlement grand-ducal du 19 avril 1994</ref> portant modification de l'annexe 1 de la <ref href="/eli/etat/leg/loi/1981/03/11/n1/jo" id="45db6e92-5be0-42b1-a3af-5e01b0263601">loi du 11 mars 1981</ref> portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses (Mémorial</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>A 32, p. 602); 4) <ref href="/eli/etat/leg/rgd/1995/07/10/n5/jo" id="f06d2ea2-dd5d-496d-836a-be90e547bebf">Règlement grand-ducal du 10 juillet 1995</ref> modifiant l'annexe 1 de la <ref href="/eli/etat/leg/loi/1981/03/11/n1/jo" id="f97a73f1-07cb-4330-a537-b45478c8c14c">loi du 11 mars 1981</ref> portant réglementation de la mise sur le marché et de l'emploi de certaines substances et préparations dangereuses (Mémorial A 63, p. 1533);</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les délais d'application de la <ref href="/eli/etat/leg/loi/1981/03/11/n1/jo" id="79dc39ca-88c0-4984-8c38-52f8f4e1b2e0">loi du 11 mars 1981</ref> dont profitaient certaines substances ne sont pas repris dans le texte coordonné, si ces délais sont échus avant le 31 juin 1984.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>En outre, les références à la <ref href="/eli/etat/leg/loi/1984/05/18/n1/jo" id="4279e90e-7fad-4ac9-b8b3-97cdcbfe116f">loi du 18 mai 1984</ref> relative à la classification, l'emballage et l'étiquetage des substances dangereuses ont été remplacées par des références à la <ref href="/eli/etat/leg/loi/1994/06/15/n1/jo" id="dca0b6c7-0137-4c80-88db-aed52d802ede">loi du 15 juin 1994</ref> relative à la classification, l'emballage et l'étiquetage des substances dangereuses.</p>
+</content>
+</alinea>
+</body>
+<attachments>
+<attachment id="attachment_1">
+<doc name="">
+<meta>
+<identification source="">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-09-08" name=""/>
+<FRBRauthor href=""/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-09-08" name=""/>
+<FRBRauthor href=""/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-09-08" name=""/>
+<FRBRauthor href=""/>
+</FRBRManifestation>
+</identification>
+</meta>
+<preface>
+<longTitle>
+<p>Annexe</p>
+</longTitle>
+</preface>
+<mainBody>
+<alinea>
+<content>
+<p>Pour visualiser l'annexe, veuillez consulter la <ref href="https://data.legilux.public.lu/filestore/eli/etat/leg/memorial/1995/a91/fr/pdf/eli-etat-leg-memorial-1995-a91-fr-pdf.pdf" id="574f633d-d585-421a-b550-7255ed054472">version pdf du mémorial</ref>.</p>
+</content>
+</alinea>
+</mainBody>
+</doc>
+</attachment>
+</attachments>
+</act>
+</akomaNtoso>

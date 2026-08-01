@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/08/2018 : Loi du 21 mars 2005 autorisant l\u0027acquisition d\u0027un avion de transport militaire A400M.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/03/21/n1/consolide/20180814/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "87fdd139bc7ccd38734afdf08230b786728ec55e226414a9f7899463160034c7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/03/21/n1/consolide/20180814/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/03/21/n1/consolide/20180814/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb90ac813d2a3570732b2b34e57f7279e47c845fd726636bad513b1abf338436"
+  "record_sha256": "7333aceb7aaa16563e16ead9840362488526d5adca379c058d2578a92b4b054d"
 }

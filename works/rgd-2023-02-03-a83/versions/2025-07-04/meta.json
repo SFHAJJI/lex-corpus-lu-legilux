@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 04/07/2025 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2023 fixant les crit\u00E8res de durabilit\u00E9 et de r\u00E9duction des \u00E9missions de gaz \u00E0 effet de serre pour les biocarburants, les bioliquides et les combustibles issus de la biomasse.",
       "title_short": "R\u00E8glement grand-ducal du 3 f\u00E9vrier 2023 fixant les crit\u00E8res de durabilit\u00E9 et de r\u00E9duction des \u00E9missions de gaz \u00E0 effet de serre pour les biocarburants, les bioliquides et les combustibles issus de la biomasse.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/03/a83/consolide/20250704/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "529d3646714f5dd73bf0500f839b3589f85228592f6e06f827942f6900733222",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/03/a83/consolide/20250704/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/03/a83/consolide/20250704/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b80cb798f811f4f298462c406389806753572762392b7f918e695a87c53b99f8"
+  "record_sha256": "5ecf6dbdf27b24bba97a43030c816b2a02e01e6097d0fa021bbd478cb8386149"
 }

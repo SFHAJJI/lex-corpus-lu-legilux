@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/02/2020 : R\u00E8glement grand-ducal du 14 novembre 2016 concernant la protection des salari\u00E9s contre les risques li\u00E9s \u00E0 l\u0027exposition \u00E0 des agents canc\u00E9rig\u00E8nes ou mutag\u00E8nes au travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n3/consolide/20200203/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "648d96b90a3c3038bc63459a6de6117b4b2b761f05cfdd62ebff9b2ff5c127aa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n3/consolide/20200203/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n3/consolide/20200203/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ea272c4a844feba8d1edba5246bdfec5f8211552a5c9db362d5dff3f468bf6b7"
+  "record_sha256": "01b4de35cbb1a2d3026ce91cab162bac13a4b856942773c67f4a919c9d67ed10"
 }

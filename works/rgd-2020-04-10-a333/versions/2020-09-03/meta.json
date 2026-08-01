@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 03/09/2020 : R\u00E8glement grand-ducal du 10 avril 2020\\n1\u00B0 d\u00E9terminant les diff\u00E9rentes branches enseign\u00E9es, les modalit\u00E9s d\u2019obtention, de d\u00E9livrance et de la nomenclature des dipl\u00F4mes ainsi que les modalit\u00E9s de transition entre les diff\u00E9rents ordres d\u2019\u00E9tablissement et niveaux d\u2019enseignement ;\\n2\u00B0 modifiant\\na) le r\u00E8glement grand-ducal du 3 ao\u00FBt 1998 fixant la mission et les conditions de nomination du Commissaire \u00E0 l\u2019enseignement musical ;\\nb) le r\u00E8glement grand-ducal du 3 ao\u00FBt 1998 fixant la mission et la composition de la Commission nationale des programmes de l\u2019enseignement musical.\\n",
       "title_short": "R\u00E8glement grand-ducal du 10 avril 2020 d\u00E9terminant les diff\u00E9rentes branches enseign\u00E9es, les modalit\u00E9s d\u2019obtention, de d\u00E9livrance et la nomenclature des dipl\u00F4mes, ainsi que les modalit\u00E9s de transition entre les diff\u00E9rents ordres d\u2019\u00E9tablissement et niveaux d\u2019enseignement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20200903/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8e211ba6c3bdb11ccd65a3cdf5b7135780ae4a59c1c40c225031e8a99be583c3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20200903/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20200903/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aacf974e1f5469cd70f9c09ac60bb0860d51925aa09acc2febed7f32fb230f70"
+  "record_sha256": "a5e5089bba52283475827d6b4dba4e17734ff06fd519eccf4fa9da74978cefbb"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2010 : Loi du 15 mars 1983 sur les armes et munitions.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n2/consolide/20111101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aeb76d7534b862bdf8a52030b913b8492dc89ee500633158c0eaa788bcba2704",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n2/consolide/20111101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/03/15/n2/consolide/20111101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b8ceb8bca56c747ab3a43c2ffa929339466688888c383d171c1ae09c03f7c16a"
+  "record_sha256": "e8be58d8d01e0076fb9437617709b106ca2e91dc53ed55846bd701020f2f58db"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 6 juin 2019 portant transposition de la directive (UE) 2016/2370 du Parlement europ\u00E9en et du Conseil du 14 d\u00E9cembre 2016 modifiant la directive 2012/34/UE en ce qui concerne l\u0027ouverture du march\u00E9 des services nationaux de transport de voyageurs par chemin de fer et la gouvernance de l\u0027infrastructure ferroviaire.",
       "title_short": "Loi relative \u00E0 la gestion, \u00E0 l\u2019acc\u00E8s, \u00E0 l\u2019utilisation de l\u2019infrastructure ferroviaire et \u00E0 la r\u00E9gulation du march\u00E9 ferroviaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e5cbca03a4f145b8601ef9e4c99969935c28f2bab4f97a3f272d3b8428c4d5d4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/06/06/a390/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b6a66963bf8d88b4d12b2c1f00f3387c6eca8e6d861af38dbd9d06ddb489487c"
+  "record_sha256": "103b13fa9da1037fc88100b517b888a8fa8dda29fafaa6f7ad0c11feeb3099ee"
 }

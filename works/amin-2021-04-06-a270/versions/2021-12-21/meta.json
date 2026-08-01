@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/12/2021 : Arr\u00EAt\u00E9 minist\u00E9riel du 6 avril 2021 \u00E9num\u00E9rant la liste des tests rapides d\u2019auto-diagnostic pouvant \u00EAtre utilis\u00E9s pour la d\u00E9tection du coronavirus SARS-CoV-2.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20211221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "03120af10689baef0133455962c1a7c23fadcb8914ccc09ace97eff7672b59e2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20211221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/amin/2021/04/06/a270/consolide/20211221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d60909b2da9f3a4a2f67a3a8dc734fbafa131c9683e76d6a5a2608be1d877e53"
+  "record_sha256": "dc9287f3c732691e57fcb7a0896ac3b41c4409b60040fcbd6a20979e94c8cfa2"
 }

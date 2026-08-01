@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 12/06/2026 : Loi du 4 d\u00E9cembre 2019 portant cr\u00E9ation de l\u2019Office national de l\u2019accueil (ONA) et portant modification de :\\n1\u00B0 la loi modifi\u00E9e du 21 septembre 2006 sur le bail \u00E0 usage d\u2019habitation et modifiant certaines dispositions du Code civil ;\\n2\u00B0 la loi modifi\u00E9e du 16 d\u00E9cembre 2008 concernant l\u2019int\u00E9gration des \u00E9trangers au Grand-Duch\u00E9 de Luxembourg ;\\n3\u00B0 la loi modifi\u00E9e du 18 d\u00E9cembre 2015 relative \u00E0 l\u2019accueil des demandeurs de protection internationale et de protection temporaire.\\n",
       "title_short": "Loi du 4 d\u00E9cembre 2019\u00A0portant cr\u00E9ation de l\u2019Office national de l\u2019accueil",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a907/consolide/20260612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b0691cd5a692622f6a03fa65e5510a193f116b2b665057686eef1220f54a2c67",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a907/consolide/20260612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a907/consolide/20260612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a5be9c25287d598e245e9bebd0812c79e1cf053a01e0aee432c711be97d5d91f"
+  "record_sha256": "1d3c907c652f55e5196a0dda67b4f712e2fdd0818baea04f9a01be27bc4556fc"
 }

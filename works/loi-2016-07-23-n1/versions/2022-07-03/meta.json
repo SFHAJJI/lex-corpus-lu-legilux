@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/07/2019 : Loi du 23 juillet 2016 portant cr\u00E9ation d\u0027un Haut-Commissariat \u00E0 la Protection nationale et modifiant a) la loi modifi\u00E9e du 23 juillet 1952 concernant l\u0027organisation militaire; b) la loi du 8 d\u00E9cembre 1981 sur les r\u00E9quisitions en cas de conflit arm\u00E9, de crise internationale grave ou de catastrophe; c) la loi modifi\u00E9e du 2 ao\u00FBt 2002 relative \u00E0 la protection des personnes \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel; d) la loi modifi\u00E9e du 25 juin 2009 sur les march\u00E9s publics; e) la loi modifi\u00E9e du 9 d\u00E9cembre 2005 d\u00E9terminant les conditions et modalit\u00E9s de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l\u0027\u00C9tat; f) la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u0027avancement des fonctionnaires de l\u0027\u00C9tat.",
       "title_short": "Loi du 23 juillet 2016 portant cr\u00E9ation d\u0027un Haut-Commissariat \u00E0 la Protection nationale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20220703/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e307dfcecc4534e3fa0331b9176501c029394f3cd58c019494945d74c8b37935",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20220703/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n1/consolide/20220703/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ace6818be6e6cc3bed816973cd64931b3a492342f7d7bacacaa21635ac09984b"
+  "record_sha256": "b7ce6ee423839c77eb4a2d8a5e82d66dd520ff29fd70c9a53290866fe60da98e"
 }

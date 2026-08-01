@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/11/1986 : Arr\u00EAt\u00E9 grand-ducal du 20 ao\u00FBt 1960 portant r\u00E8glement d\u0027administration publique pour l\u0027application de la loi du 30 juillet 1960 concernant la cr\u00E9ation d\u0027un Fonds National de Solidarit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19861110/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "edb0acc43ed434c071dbbb4b03b0d04dd6eebc20fe882839d0dc67cfa68c8b26",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19861110/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1960/08/20/n1/consolide/19861110/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "00ec3f35186c4d812fa02cf0bf0140b816d323396ce806d579375cc0c84cbb7b"
+  "record_sha256": "7703d242e5c9e0e3776d2ff02bda0746bf25b09ca0efb14cc87149ce2f2b7922"
 }

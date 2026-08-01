@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 10/08/2018 : Loi du 23 d\u00E9cembre 2016 portant transposition de la directive (UE) 2016/881 du Conseil du 25 mai 2016 modifiant la directive 2011/16/UE en ce qui concerne l\u0027\u00E9change automatique et obligatoire d\u0027informations dans le domaine fiscal et concernant les r\u00E8gles de d\u00E9claration pays par pays pour les groupes d\u0027entreprises multinationales.",
       "title_short": "Loi du 23 d\u00E9cembre 2016 relative \u00E0 la d\u00E9claration pays par pays.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n16/consolide/20180810/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e7a41325c8dfdc102ff94d583226ffbe93467c08e6d472a2cab8494a167cdaac",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n16/consolide/20180810/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n16/consolide/20180810/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dcc568163daf81b5633d14c51d9c4309cd48208aa239304d6174cebd4cd5d493"
+  "record_sha256": "0b54c560b9d75c20f6571584f80d45bbe3010d241b435a6e2d48f65d9af8ae4c"
 }

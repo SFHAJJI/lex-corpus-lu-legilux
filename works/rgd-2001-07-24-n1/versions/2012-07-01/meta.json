@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2012 : R\u00E8glement grand-ducal du 24 juillet 2001 relatif aux dispositifs m\u00E9dicaux de diagnostic in vitro.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/07/24/n1/consolide/20120701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cace6278870df79a45d4361f93840e09ecb02ba9d9a0e746cc7c701f5475ea0d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/07/24/n1/consolide/20120701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/07/24/n1/consolide/20120701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "31c97a782f81d37c61b6c55a7276557250b71fda8984bcb062bc369a3956f0f4"
+  "record_sha256": "88bd9635557c517e1a5b3e223cdc6ffd3e7e436146bae1a5b363d4e05c2a4f24"
 }

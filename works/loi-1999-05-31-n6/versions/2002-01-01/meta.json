@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 31 mai 1999 visant \u00E0 renforcer les mesures contre la traite des \u00EAtres humains et l\u0027exploitation sexuelle des enfants et portant modification du Code p\u00E9nal et du Code d\u0027instruction criminelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e73841b1dac1d70baec51bc3a99ecd2933e5808b36081e88c48e084945e73cdf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/05/31/n6/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0b6fa4ee2864e33c76714981e3bdb29e2b10b00789b0aae3e0e5ce8cc1b15e75"
+  "record_sha256": "5f5ecb1a3321f6018dd8ec41c614aad154b393c34afb14c1ab95d029c1a38957"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2020 : Loi du 19 d\u00E9cembre 2014 relative\u00A01) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle\u00A02) \u00E0 la promotion de la cr\u00E9ation artistique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20200101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d35ad1faadb14b82693c6041ceeef9eaacce9e252eeb670ab10b84b1bbfad8c3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20200101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n10/consolide/20200101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9a38167acbaf796f562d7bcb6e548f994dd28d5359d520e55c7d725ada61c138"
+  "record_sha256": "4774920dab31132eb9d84d3d8795c07fa9f0e6f8e49cc59e30796e160aae5ac3"
 }

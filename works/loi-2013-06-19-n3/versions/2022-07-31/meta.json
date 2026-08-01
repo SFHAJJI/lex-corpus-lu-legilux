@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 31/07/2022 : Loi du 19 juin 2013 relative \u00E0 l\u0027identification des personnes physiques, au registre national des personnes physiques, \u00E0 la carte d\u0027identit\u00E9, aux registres communaux des personnes physiques et portant modification de 1) l\u0027article 104 du Code civil; 2) la loi modifi\u00E9e du 30 mars 1979 organisant l\u0027identification num\u00E9rique des personnes physiques et morales; 3) la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988; 4) la loi \u00E9lectorale modifi\u00E9e du 18 f\u00E9vrier 2003 et abrogeant 1) la loi modifi\u00E9e du 22 d\u00E9cembre 1886 concernant les recensements de population \u00E0 faire en ex\u00E9cution de la loi \u00E9lectorale et 2) l\u0027arr\u00EAt\u00E9 grand-ducal du 30 ao\u00FBt 1939 portant introduction de la carte d\u0027identit\u00E9 obligatoire.",
       "title_short": "Loi du 19 juin 2013 relative \u00E0 l\u0027identification des personnes physiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/06/19/n3/consolide/20220731/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef333b761cfdcf439abe29fafa3ce789b408502dc4a3cbd921c74c49665db7cd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/06/19/n3/consolide/20220731/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/06/19/n3/consolide/20220731/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e0f6e07c6710d44e4a3d200a6aaf025b0772ce13214435d63aa4c360189626ce"
+  "record_sha256": "feb0b59b6d69e82e7d71a8fd445095554fd3c4df03347a282d94c93419965e3a"
 }

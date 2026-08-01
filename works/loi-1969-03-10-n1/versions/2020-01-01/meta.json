@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2020 : Loi du 10 mars 1969 portant institution d\u0027une inspection g\u00E9n\u00E9rale des finances.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1969/03/10/n1/consolide/20200101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8e16c19c0eb9eb80f6fcb9f85f082c9b4f93ce1a5ffa9b587a1b8c683906982b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1969/03/10/n1/consolide/20200101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1969/03/10/n1/consolide/20200101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "48937a35346e50bb89bd450834a5a8cc56113714282da74835f34f80449ce64f"
+  "record_sha256": "24f829d0bb4ef9d94b0940109769ffb623ff0b801ed3dd1b0ca2a81002b7b0a6"
 }

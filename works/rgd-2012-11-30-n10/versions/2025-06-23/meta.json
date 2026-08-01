@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/06/2025 : R\u00E8glement grand-ducal du 30 novembre 2012 portant d\u00E9signation des zones de protection sp\u00E9ciale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n10/consolide/20250623/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a5abe2ddcb1d5cea0337eb858079e8aeb1e6c548a4fae3077936dc7b461ef367",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n10/consolide/20250623/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n10/consolide/20250623/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "33122c7da52e31cb4a32ace37382cd59a1cba1d3bcdfc89ee44fe494d307e6f3"
+  "record_sha256": "ffac9d721c574e13ce135943875d261616ab2872a4b265db8fbe676452bd26ba"
 }

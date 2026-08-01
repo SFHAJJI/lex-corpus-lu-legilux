@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2025 : R\u00E8glement grand-ducal du 13 d\u00E9cembre 2017 d\u00E9terminant : 1\u00B0 les normes concernant la dotation et la qualification du personnel ; 2\u00B0 les coefficients d\u2019encadrement du groupe.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20250323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "db24db6b6a85daa250be2fe92065acfa981aa4a734ef1265cfb72259df5b5e41",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20250323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20250323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "560796d85058aeb307d0504b925c425477e42015e21c28c1fb56cfe5cfc11c2c"
+  "record_sha256": "46a8ebfbf048973714dceed3ac6c37f3fcbf07fec7c5f18f415fd82445c59e66"
 }

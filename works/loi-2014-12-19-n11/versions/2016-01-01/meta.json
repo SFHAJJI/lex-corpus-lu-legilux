@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2016 : Loi du 19 d\u00E9cembre 2014 concernant le budget des recettes et des d\u00E9penses de l\u2019Etat pour l\u2019exercice 2015 \\na) modifiant \\n1. le Code de la s\u00E9curit\u00E9 sociale; \\n2. la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu; \\n3. la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e; \\n4. la loi modifi\u00E9e du 29 juillet 1993 portant cr\u00E9ation d\u2019un fonds pour la r\u00E9novation de quatre \u00EElots du quartier de la Vieille Ville de Luxembourg; \\n5. la loi modifi\u00E9e du 28 avril 1998 autorisant le Gouvernement \u00E0 constituer une Fondation \u00ABMus\u00E9e d\u2019Art Moderne Grand-Duc Jean\u00BB et \u00E0 lui accorder une aide financi\u00E8re; \\n6. la loi modifi\u00E9e du 5 juin 2009 relative \u00E0 la promotion de la recherche, du d\u00E9veloppement et de l\u2019innovation; \\n7. la loi modifi\u00E9e du 18 f\u00E9vrier 2010 relative \u00E0 un r\u00E9gime d\u2019aides \u00E0 la protection de l\u2019environnement et \u00E0 l\u2019utilisation rationnelle des ressources naturelles; \\n8. la loi modifi\u00E9e du 17 d\u00E9cembre 2010 fixant les droits d\u2019accise et taxes assimil\u00E9es sur les produits \u00E9nerg\u00E9tiques, l\u2019\u00E9lectricit\u00E9, les produits de tabacs manufactur\u00E9s, l\u2019alcool et les boissons alcooliques; \\nb) abrogeant la loi modifi\u00E9e du 4 d\u00E9cembre 1860 relative \u00E0 l\u2019attribution du produit des amendes et des confiscations en mati\u00E8re r\u00E9pressive.",
       "title_short": "Loi du 19 d\u00E9cembre 2014 concernant le budget des recettes et des d\u00E9penses de l\u0027\u00C9tat pour l\u0027exercice 2015.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/20160101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "229789f4681496760259c476448560455e9104110b33dab121bd84dd93a37405",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/20160101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/19/n11/consolide/20160101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f9992e00f0cff7e7d639ee1bd4e809bbece1f05ac8b414fd6961d9511bd2248b"
+  "record_sha256": "3bbc4b25b50ee586f53a9f40c125cb2e8e2e557eccb1729021605f0715eae89a"
 }

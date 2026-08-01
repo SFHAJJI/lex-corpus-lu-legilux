@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<scl:postit>
+		<scl:item>bat corrections demandées OK HCU</scl:item>
+	</scl:postit>
+	<act contains="originalVersion" name="" scl:page-proof="many">
+		<meta>
+			<identification source="#1992A17441">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="1992-07-27" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MAE"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="1992-07-27" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="1992-07-27" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101</scl:jolux>
+						<scl:jolux scl:name="basicAct">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux>
+						<scl:jolux scl:name="dateDocument">1992-07-27</scl:jolux>
+						<scl:jolux scl:name="publicationDate">1992-08-05</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">1992A17441</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2008-01-01</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/1992/56</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MAE</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/886</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/514</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 01/01/2008 : Loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales.</scl:jolux>
+					<scl:jolux scl:name="draft">http://data.legilux.public.lu/eli/etat/proj/PL/19920050</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 01/01/2008 : Loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales.</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1972/01/27/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1952/07/23/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1974/03/26/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1986/03/28/n3/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1989/05/24/n1/jo</scl:jolux>
+					<scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1925/12/17/n1/jo</scl:jolux>
+					<scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1912/08/07/n2/jo</scl:jolux>
+					<scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1954/05/26/n2/jo</scl:jolux>
+					<scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/jo</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr/xml</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr</scl:jolux>
+					<scl:jolux scl:name="memorialPage">1744</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-1992-07-27-n5-consolide-20080101-fr-xml.xml</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/consolide/20080101/fr</scl:jolux>
+					<scl:jolux scl:name="memorialPage">1744</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-1992-07-27-n5-consolide-20080101-fr-pdf.pdf</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="1992-07-27" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+				<eventRef date="1997-08-18" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+				<eventRef date="1998-09-05" id="e4" originatingExpression="true" source="#rp4" type="amendment"/>
+				<eventRef date="1999-08-05" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+				<eventRef date="2007-12-28" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+			</lifecycle>
+			<analysis source="#"/>
+			<references source="#">
+				<original href="/eli/etat/leg/loi/1992/07/27/n5/jo" id="ro1" showAs="Original"/>
+				<passiveRef href="/eli/etat/leg/loi/2007/12/21/n2/jo" id="rp2" showAs="Loi du 21 décembre 2007 modifiant la loi modifiée du 23 juillet 1952 concernant l'organisation militaire et modifiant  a) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat,  b) la loi modifiée du 28 juillet 1973 réglant l'usage des armes et autres moyens de contrainte par les membres de la force publique dans la lutte contre la criminalité,  c) la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat,  d) la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations de maintien de la paix (OMP) dans le cadre d'organisations internationales,  e) la loi du 31 mai 1999 portant création de la police grand-ducale et d'une inspection générale de la police,  f) la loi du 9 décembre 2005 déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l'Etat."/>
+				<passiveRef href="/eli/etat/leg/loi/1999/05/31/n7/jo" id="rp3" showAs="Loi du 31 mai 1999 portant création d'un corps de police grand-ducale et d'une inspection générale de la police et modifiant  a) le code d'instruction criminelle,  b) la loi modifiée du 23 juillet 1952 concernant l'organisation militaire,  c) la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat,d) la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat,  e) la loi modifiée du 16 avril 1979 ayant pour objet la discipline dans la Force publique,  f) la loi modifiée du 28 mars 1972 concernant     1. l'entrée et le séjour des étrangers      2. le contrôle médical des étrangers      3. l'emploi de la main d'oeuvre étrangère  g) la loi modifiée du 28 mars 1986 portant harmonisation des conditions et modalités d'avancement dans les différentes carrières des administrations et services de l'Etat,  h) la loi communale du 13 décembre 1988 telle que modifiée par la suite,  i) la loi modifiée du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales."/>
+				<passiveRef href="/eli/etat/leg/loi/1998/08/03/n9/jo" id="rp4" showAs="Loi du 3 août 1998 portant modification 1. de la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat; 2. de la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat; 3. de la loi modifiée du 22 juin 1963 fixant la valeur numérique des traitements des fonctionnaires de l'Etat ainsi que des modalités de mise en vigueur de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat; 4. de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales; 5. de la loi du 27 août 1977 concernant le statut des fonctionnaires entrés au service d'institutions internationales; 6. de la loi du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat; 7. de la loi 8 janvier 1996 modifiant et complétant certaines lois concernant les fonctionnaires de l'Etat."/>
+				<passiveRef href="/eli/etat/leg/loi/1997/08/02/n1/jo" id="rp5" showAs="Loi du 2 août 1997 portant réorganisation de l'Armée et modification de la loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d'organisations internationales."/>
+			</references>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>Version consolidée applicable au 01/01/2008 : Loi du 27 juillet 1992 relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d’organisations internationales.</p>
+			</longTitle>
+		</preface>
+		<body>
+			<chapter id="chapitre_i">
+				<num>
+					<b>Chapitre I. </b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Dispositions générales</b>
+				</heading>
+				<article id="art_1er"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_1er</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_1er/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 1<sup>er</sup>.</num>
+					<paragraph id="paragraph_1">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p> Le Gouvernement est autorisé à mettre en œuvre une participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix qui sont effectuées dans le cadre d’organisations internationales dont le Grand-Duché de Luxembourg est membre. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_2">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>La participation est décidée par le Gouvernement en Conseil après consultation des commissions compétentes de la Chambre des Députés. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_3">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Par «opération pour le maintien de la paix», au sens de la présente loi, on entend une mission à caractère civil ou militaire dont le but consiste notamment dans la prévention, la limitation, la modération ou la cessation d’hostilités internes ou inter-étatiques par l’intervention d’un tiers avec l’accord des parties directement concernées. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_4">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>Est assimilée à une opération pour le maintien de la paix au sens de la présente loi, une mission d’instruction et de formation militaire dans un cadre pré- ou postconflictuel.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_2"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_2</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_2/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 2.</num>
+					<paragraph id="paragraph_5">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>La participation à une opération pour le maintien de la paix peut comprendre: </p>
+								<ul xmlns:ns1="http://www.scl.lu" ns1:symbol="dash">
+									<li>des contributions financières ou en nature, </li>
+									<li>des contributions logistiques, </li>
+									<li>l’envoi de contingents civils, </li>
+									<li>l’envoi de contingents de la Force publique. </li>
+								</ul>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_6">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Le Gouvernement en Conseil peut décider d’intégrer ou de rattacher les contingents luxembourgeois à ceux d’un autre Etat ou d’un groupe d’Etats. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_7">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p> Pour chaque opération pour le maintien de la paix à laquelle le Luxembourg participe, un règlement grand-ducal à prendre sur avis obligatoire du Conseil d'Etat et de la Conférence des Présidents de la Chambre des Députés détermine les modalités d'exécution de la présente loi. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_3"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_3</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_3/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 3.</num>
+					<paragraph id="paragraph_8">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Les participants à une opération pour le maintien de la paix sont choisis sur la base du volontariat.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_9">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Toutefois, en cas de besoin, le ministre de la Force publique peut désigner d’office pour participer à des opérations pour le maintien de la paix le personnel militaire de carrière tel qu’il est défini à l’article 7 sub 1. et sub. 2. de la loi portant réorganisation de l’armée.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas de besoin le ministre de la Force publique peut désigner d’office des membres du cadre policier de la Police grandducale pour la participation à des opérations à caractère policier.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_4"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_4</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_4/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 4.</num>
+					<alinea>
+						<content>
+							<p>Les frais de la participation luxembourgeoise à une opération pour le maintien de la paix sont avancés par l’Etat et peuvent être remboursés en tout ou en partie par l’organisation internationale sous la responsabilité de laquelle cette opération est organisée. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le remboursement s’effectue d’après un accord à conclure avec cette organisation internationale. </p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_ii">
+				<num>
+					<b>Chapitre II.</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Des participants civils</b>
+				</heading>
+				<article id="art_5"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_5</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_5/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 5.</num>
+					<paragraph id="paragraph_10">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>L’agent de l’Etat désireux de poser sa candidature pour participer à une opération pour le maintien de la paix doit obtenir l’autorisation préalable du Ministre du ressort dont il relève. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_11">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Cet agent de l’Etat a droit à un congé spécial pour la durée de sa mission avec maintien de tous les avantages et droits découlant de son statut. Il continue notamment à jouir de son traitement, de son indemnité ou de son salaire.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_12">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Le fonctionnaire, l’employé et l’ouvrier de l’Etat participant à une opération pour le maintien de la paix continue à relever de l’autorité du Ministre du ressort, pour tout ce qui concerne sa situation de carrière, et notamment ses avancements en échelon et en traitement ainsi que ses promotions. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_13">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>L’emploi d’un fonctionnaire, employé ou ouvrier de l’Etat en congé spécial pour la participation à une opération pour le maintien de la paix peut être confié à un remplaçant, à titre provisoire ou définitif, selon les besoins du service et par dépassement des effectifs prévus par la loi budgétaire. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_14">
+						<num>(5)</num>
+						<alinea>
+							<content>
+								<p>Le congé spécial pour la participation à une opération pour le maintien de la paix est considéré comme période d’activité de service intégrale, notamment pour les avancements en échelon ou en traitement, pour le droit au congé annuel, pour les promotions et pour le droit d’admission à l’examen de promotion. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_15">
+						<num>(6)</num>
+						<alinea>
+							<content>
+								<p>Le bénéficiaire d’un congé spécial pour la participation aux opérations pour le maintien de la paix est réintégré dans son service d’origine à l’expiration du congé spécial. Il y obtient un emploi équivalent à la fonction qu’il exerçait effectivement avant l’octroi du congé spécial. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_16">
+						<num>(7)</num>
+						<alinea>
+							<content>
+								<p>Toutefois, si l’autorité investie du pouvoir de nomination estime que la nature du travail accompli et l’expérience acquise par l’intéressé au sein d’une opération pour le maintien de la paix justifient sa nomination à une fonction supérieure à celle visée au paragraphe (6) ci-dessus, elle peut procéder à une telle nomination sans que le bénéficiaire ne puisse, de ce fait, accéder à une fonction ou obtenir un rang plus élevé que les fonctionnaires de la même carrière entrés au service de l’Etat en même temps que lui ou avant lui. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_17">
+						<num>(8)</num>
+						<alinea>
+							<content>
+								<p>A défaut de vacance d’emploi, l’intéressé peut être nommé à un emploi «hors cadre», si nécessaire, par dépassement des effectifs prévus par la loi budgétaire. Le bénéficiaire est réintégré dans le cadre ordinaire lors de la première vacance d’emploi qui se produit à un niveau approprié. L’emploi «hors cadre», éventuellement par dépassement des effectifs, qu’il occupait est supprimé de plein droit par l’effet de la réintégration. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_18">
+						<num>(9)</num>
+						<alinea>
+							<content>
+								<p>Dans le cas où la nomination à un emploi «hors cadre» s’avère impossible, le fonctionnaire a droit à un emploi comportant le même rang et le même traitement que ceux dont il bénéficiait effectivement avant son départ. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_19">
+						<num>(10)</num>
+						<alinea>
+							<content>
+								<p>L’exécution des dispositions du présent article est assurée, après délibération du Gouvernement en Conseil, par l’autorité compétente. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_6"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_6</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_6/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 6.</num>
+					<alinea>
+						<content>
+							<p>La <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="51f9b44f-e70c-4276-be34-3985f8f9eea8">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’Etat est modifiée et complétée comme suit : <embeddedStructure scl:hide-quote="true">
+									<ol>
+										<li>
+											<p>L’article 1<sup>er</sup> paragraphe 3 alinéa 2 est remplacé par le texte suivant:<embeddedStructure>
+													<alinea>
+														<content>
+															<p>Les articles 2 paragraphe 1<sup>er</sup>, 6, 8 et 9, paragraphes 1<sup>er,</sup> 2 et 4, les articles 10 à 20, les articles 22 à 25, les articles 28 - à l’exception du point k) - et 29, 30 paragraphes 1<sup>er</sup> - à l’exception du dernier alinéa - 3 et 4,32 à 36 paragraphes 1<sup>er</sup> et 2, l’article 37 - pour autant qu’il concerne la sécurité sociale -, l’article 38 paragraphe 1<sup>er</sup> - à l’exception de c) et d) -, les articles 39, 44 et 47 numéros 1 à 3, l’article 54 paragraphe 1<sup>er</sup> ainsi que l’article 74.</p>
+														</content>
+													</alinea>
+												</embeddedStructure>
+											</p>
+										</li>
+										<li>A l’article 28 paragraphe 1<sup>er</sup> est ajouté un nouveau point k) libellé comme suit :<embeddedStructure>
+												<ol scl:start="11" scl:symbol="a)">
+													<li>
+														<p>le congé spécial pour la participation à des opérations pour le maintien de paix.</p>
+													</li>
+												</ol>
+											</embeddedStructure>
+										</li>
+									</ol>
+								</embeddedStructure>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_7"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_7</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_7/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 7.</num>
+					<alinea>
+						<content>
+							<p>La présente loi s’applique également au personnel des communes, de la Société Nationale des Chemins de Fer Luxembourgeois et des établissements publics relevant de l’Etat et des communes. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour l’application des dispositions de la présente loi à ces personnes, lesquelles sont assimilées à des agents de l’Etat, notamment au sens de l’article 5 ci-dessus, les notions «autorité compétente», «Ministre du ressort», et «autorité investie du pouvoir de nomination» visent l’autorité compétente pour l’engagement des agents concernés. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_8"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_8</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_8/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 8.</num>
+					<paragraph id="paragraph_20">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Le participant à une opération pour le maintien de la paix issu du secteur privé est recruté par le Ministre des Affaires étrangères pour une opération spécifiée. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_21">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Le contrat de travail entre le participant à une opération pour le maintien de la paix et son employeur peut, de l’accord de l’employeur, être suspendu pour la durée du contrat de travail conclu par le Ministre des Affaires étrangères conformément au paragraphe (5) ci-dessous. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_22">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>L’accord visé au paragraphe (2) fait l’objet d’une convention écrite, à établir en quadruple exemplaire et à signer par l’employeur, le participant à l’opération pour le maintien de la paix et le Ministre des Affaires étrangères ou son représentant.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La convention se réfère expressément aux modalités du contrat du travail par lequel le Ministre des Affaires étrangères engage le participant à une opération pour le maintien de la paix. Ledit contrat est annexé à la convention dont il fait partie intégrante. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_23">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>Pendant la suspension du contrat de travail l’employeur est déchargé des obligations à lui imposées à ce titre en vertu de la législation du travail et de la sécurité sociale. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_24">
+						<num>(5)</num>
+						<alinea>
+							<content>
+								<p>Le participant à une opération pour le maintien de la paix issu du secteur privé est engagé, moyennant un contrat de travail à durée déterminée, par le Ministre des Affaires étrangères pour la durée de la mission spécifiée, cette durée comprenant, le cas échéant, le temps nécessaire à la formation.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les dispositions de la <ref href="/eli/etat/leg/loi/1989/05/24/n1/jo" id="6f2de347-0d20-4538-94d0-e266768a5a07">loi du 24 mai 1989</ref> concernant le contrat de travail, et notamment celles de son chapitre 3, sont applicables. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Par dérogation à l’article 6 (1) sous 2° de la <ref href="/eli/etat/leg/loi/1989/05/24/n1/jo" id="af240e79-a524-416e-be77-2b99c6e4584b">loi du 24 mai 1989</ref>, le contrat du participant à une opération pour le maintien de la paix qui bénéficie de la suspension de son contrat de travail initial mentionne expressément, en dehors d’une durée minimale, la durée maximale prévisible de sa mission.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sur demande écrite dûment motivée du participant à l’opération pour le maintien de la paix, contresignée par le Ministre des Affaires étrangères ou son représentant, l’employeur peut consentir à une prolongation de la suspension du contrat de travail suivant les modalités prévues au présent article. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le contrat à durée déterminée liant le Ministre des Affaires étrangères au participant à l’opération pour le maintien de la paix fait, dans ce cas, l’objet d’une prolongation conformément aux articles 6 à 13 de la <ref href="/eli/etat/leg/loi/1989/05/24/n1/jo" id="7b55c95d-743f-4ef1-8ca4-6e0140cc8fa5">loi du 24 mai 1989</ref> sur le contrat de travail. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_25">
+						<num>(6)</num>
+						<alinea>
+							<content>
+								<p>Les obligations imposées à l’employeur par la législation du travail et de la sécurité sociale sont assumées pendant la durée de la mission par le Ministre des Affaires étrangères. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_26">
+						<num>(7)</num>
+						<alinea>
+							<content>
+								<p>Le participant à une opération pour le maintien de la paix issu du secteur privé a droit à une rémunération fixée de cas en cas et versée par le Ministre des Affaires étrangères. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En vue de la fixation de cette rémunération, il est notamment tenu compte du niveau de rémunération accordée pour une activité similaire exercée au service de l’Etat ou de la rémunération que le participant à une opération pour le maintien de la paix a touchée dans la profession dont il a suspendu l’exercice ou dans celle qu’il exerçcait avant de participer à l’opération pour le maintien de la paix. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_27">
+						<num>(8)</num>
+						<alinea>
+							<content>
+								<p>Le contrat de travail liant le participant à son employeur reprend ses effets de plein droit du fait de la reprise du travail par le participant dès la cessation du contrat conclu avec le Ministre conformément au paragraphe (5). </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_9"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_9</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_9/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 9.</num>
+					<paragraph id="paragraph_28">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Le participant à une opération pour le maintien de la paix issu du secteur public ou privé a droit, pendant la durée effective de sa mission à l’étranger, à une indemnité spéciale non pensionnable.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_29">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Cette indemnité spéciale, fixée par le Gouvernement en Conseil, est exempte d’impôts et de cotisations sociales. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_10"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_10</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_10/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 10.</num>
+					<paragraph id="paragraph_30">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>La participation à une opération pour le maintien de la paix ne confère pas le droit à un engagement ultérieur au service de l’Etat. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_31">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Néanmoins, lorsqu’un ancien participant à une opération pour le maintien de la paix entre au service permanent de l’Etat, le temps passé dans les opérations pour le maintien de la paix est considéré comme période passée au service de l’Etat à tâche complète et donne droit notamment à </p>
+								<ul xmlns:ns1="http://www.scl.lu" ns1:symbol="dash">
+									<li>une bonification d’ancienneté de service en vue de la fixation du traitement initial conformément à l’article 7 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="f5e3624f-299c-4ee1-89cc-17692df36409">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’Etat; </li>
+									<li>une bonification du temps requis pour obtenir une promotion conformément à la <ref href="/eli/etat/leg/loi/1986/03/28/n3/jo" id="8864702e-ab4b-47ff-bda3-a561c8737315">loi modifiée du 28 mars 1986</ref> portant harmonisation des conditions et modalités d’avancement dans les différentes carrières des administrations et services de l’Etat; </li>
+									<li>une bonification du temps de service en vue de la computation prévue par la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="dd862978-e517-4132-b3b4-3cb7b0ce0863">loi du 27 janvier 1972</ref> fixant le régime des employés de l’Etat; </li>
+									<li>une bonification du temps requis pour l’admission à l’examen de promotion prévu par la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="ed0acd4d-0d9d-49ff-8e4a-337fcdd6ab10">loi du 16 avril 1979</ref> modifiée fixant le statut général des fonctionnaires de l’Etat; </li>
+									<li>à l'égard de l'ancien participant à une opération pour le maintien de la paix, entré au service de l'Etat avant le 1<sup>er</sup> janvier 1999, une computation du temps de service en vue de l'application des dispositions de la <ref href="/eli/etat/leg/loi/1954/05/26/n2/jo" id="3ea6d0aa-1508-49f4-a1e3-2ec4cfce6d19">loi modifiée du 26 mai 1954</ref> réglant les pensions des fonctionnaires de l'Etat;</li>
+									<li>une réduction de stage équivalente à la durée de service effective dans les opérations pour le maintien de la paix. </li>
+								</ul>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_32">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Les dispositions du présent article s’appliquent également aux hommes de troupe de l’Armée qui entrent au service permanent de l’Etat après avoir accompli un service militaire volontaire d’au moins trois ans.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+			</chapter>
+			<chapter id="chapitre_iii">
+				<num>
+					<b>Chapitre III. </b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Des membres de la Force publique</b>
+				</heading>
+				<article id="art_11"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_11</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_11/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 11.</num>
+					<paragraph id="paragraph_33">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Le personnel militaire de la carrière militaire de l’Armée, les membres du cadre supérieur de la Police, le personnel des carrières de l’inspecteur de police et de brigadier de police et les soldats de l’Armée peuvent se porter volontaires pour participer à une opération pour le maintien de la paix à titre de membre de la Force publique ou de personne civile. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_34">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Dans le cas où ils souhaitent se porter volontaires à une opération pour le maintien de la paix à titre de personne civile, ils doivent obtenir l’autorisation préalable du Ministre de la Force publique. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_35">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>S’ils sont choisis par le Ministre des Affaires étrangères, ils sont considérés comme participants civils à une opération pour le maintien de la paix au sens des dispositions de la présente loi. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_12"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_12</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_12/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 12.</num>
+					<alinea>
+						<content>
+							<p>Les dispositions prévues à l’article 20 (2) de la présente loi, sont applicables aux membres d’un contingent de la Force publique pour les opérations pour le maintien de la paix. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_13"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_13</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_13/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 13.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 13.</num>
+					<paragraph id="paragraph_36">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>L’officier, le sous-officier, le caporal, le gendarme et l’agent de police peut, avec son accord et pour la durée de sa mission, être placé hors cadre par dépassement des effectifs prévus dans la <ref href="/eli/etat/leg/loi/1952/07/23/n1/jo" id="d072c850-8dac-4b02-afff-1239b57f11cb">loi du 23 juillet 1952</ref> concernant l’organisation militaire, telle qu’elle a été modifiée dans la suite.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_37">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Les personnes visées au paragraphe 1<sup>er</sup> peuvent avancer hors cadre et hors effectifs aux grades supérieurs de leur carrière, au moment auquel serait intervenu leur avancement s’ils avaient été maintenus dans le cadre de leur administration. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_38">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Le volontaire de l’Armée participant à une opération pour le maintien de la paix est, pour la durée de sa mission, placé hors contingent par dépassement des effectifs fixés en application de l’article 11, alinéa 1<sup>er</sup>, de la <ref href="/eli/etat/leg/loi/1952/07/23/n1/jo" id="984fa6a5-c857-41f9-ba95-f351176f2815">loi modifiée du 23 juillet 1952</ref> concernant l’organisation militaire. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_14"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_14</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_14/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 14.</num>
+					<paragraph id="paragraph_39">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Par dérogation à l’article 20 de la <ref href="/eli/etat/leg/loi/1952/07/23/n1/jo" id="74483b13-99c4-451f-8374-322a153058f9">loi du 23 juillet 1952</ref> concernant l’organisation militaire, telle qu’elle a été modifiée dans la suite, peuvent être adjoints à chaque contingent de la Force publique et chargés de fonctions militaires en vertu d’une commission, des experts civils possédant des qualifications particulièrement utiles pour les opérations concernées. Ces experts sont adjoints au corps des officiers ou au corps des sous-officiers ou au corps des caporaux selon leur qualification professionnelle. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_40">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>La commission est délivrée et retirée par le Ministre de la Force publique, le Ministre des Affaires étrangères et le commandant de l’Armée entendus en leur avis. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_15"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_15</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_15/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 15.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 15.</num>
+					<paragraph id="paragraph_41">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Par dépassement des effectifs prévus aux articles 60 et 70 de la <ref href="/eli/etat/leg/loi/1952/07/23/n1/jo" id="55e6b0b8-03f4-43ec-8b79-5984e68cdbf4">loi du 23 juillet 1952</ref> concernant l’organisation militaire, telle qu’elle a été modifiée dans la suite, peuvent être adjoints, en vertu d’une commission, à chaque contingent de la Force publique fourni par la Gendarmerie et la Police, des experts civils possédant des qualifications particulièrement utiles pour les opérations concernées. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_42">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>La commission est délivrée et retirée par le Ministre de la Force publique, le Ministre des Affaires étrangères, le commandant de la Gendarmerie et le directeur de la Police entendus en leur avis. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_16"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_16</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_16/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 16.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 16.</num>
+					<alinea>
+						<content>
+							<p>Pour tout ce qui concerne l’autorisation du port d’armes et l’usage de celles-ci, les membres de la Force publique se conforment aux ordres, directives ou consignes du commandant de la Force pour le maintien de la paix à laquelle ils participent. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_17"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_17</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_17/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 17.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 17.</num>
+					<paragraph id="paragraph_43">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Le membre de la Force publique ne remplissant plus les conditions physiques à l’avancement à la suite de sa participation à une opération pour le maintien de la paix, est placé hors cadre par dépassement des effectifs et peut avancer hors cadre aux grades supérieurs de sa carrière, simultanément avec ses collègues de rang égal ou immédiatement inférieur. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_44">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Le volontaire de l’Armée ne remplissant plus les conditions physiques pour une nomination auprès de l’Etat à la suite de sa participation à une opération pour le maintien de la paix, bénéficie, par dérogation aux dispositions légales et réglementaires existantes, et notamment de l’article 14 de la <ref href="/eli/etat/leg/loi/1952/07/23/n1/jo" id="d978f7e9-0698-4e7f-809e-48bd85ecdd3f">loi du 23 juillet 1952</ref> concernant l’organisation militaire, d’un droit de priorité pour l’accès aux emplois de la carrière inférieure des administrations de l’Etat, des communes, des établissements publics relevant de l’Etat et des communes et de la Société Nationale des Chemins de Fer Luxembourgeois, même s’il n’a pas accompli une période de service de trois ans en tant que volontaire de l’Armée, les autres conditions d’admission aux emplois brigués devant par ailleurs être remplies. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_45">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Les dispositions des paragraphes 1<sup>er</sup> et 2 ne s’appliquent pas si l’Etat rapporte la preuve que l’invalidité est imputable à des événements qui ne sont pas en rapport avec la participation à une opération pour le maintien de la paix. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+			</chapter>
+			<chapter id="chapitre_iv">
+				<num>
+					<b>Chapitre IV.</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Dispositions relatives à la sécurité sociale</b>
+				</heading>
+				<article id="art_18"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_18</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_18/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 18.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 18.</num>
+					<paragraph id="paragraph_46">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Le fonctionnaire, l’employé et l’ouvrier de l’Etat ou d’une commune ou d’un établissement public participant à une opération pour le maintien de la paix continue à relever du régime de sécurité sociale correspondant à son statut. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_47">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Le participant issu du secteur privé est soumis au régime de sécurité sociale soit des employés privés, soit des ouvriers, suivant que son occupation, d’après le contrat de travail conclu avec le Ministre des Affaires étrangères conformément à l’article 8 (5), est principalement intellectuelle ou manuelle. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_19"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_19</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_19/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 19.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 19.</num>
+					<paragraph id="paragraph_48">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>L’Etat assume la différence entre le montant des frais pour soins médicaux effectivement exposés par le participant à une opération pour le maintien de la paix pendant sa mission et les tarifs applicables par les caisses de maladie, déduction faite de la participation éventuellement à charge de l’assuré en vertu des lois, règlements ou statuts. La part différentielle à charge de l’Etat est remboursée par celui-ci aux caisses qui en font l’avance. Les prestations accordées à titre gratuit par l’intermédiaire du service de santé de l’opération ne peuvent faire l’objet d’un remboursement. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_49">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Pendant la durée du congé légal de maternité, l’employeur fait, à charge de remboursement par les caisses de maladie, l’avance des indemnités pécuniaires de maternité.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_50">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Pour l’application de la législation concernant les prestations familiales, les périodes passées à l’étranger lors d’une opération pour le maintien de la paix sont assimilées à des périodes de résidence au Luxembourg. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_51">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>Les périodes accomplies en tant que participant à une opération pour le maintien de la paix sont prises en compte pour le stage prévu à l’article 16 de la <ref href="/eli/etat/leg/loi/1976/06/30/n1/jo" id="c3482731-0cdc-4483-9d0a-20a9a89d1f7a">loi modifiée du 30 juin 1976</ref> portant a) création d’un fonds pour l’emploi b) réglementation de l’octroi des indemnités de chômage complet. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_52">
+						<num>(5)</num>
+						<alinea>
+							<content>
+								<p>Les dispositions de l’article 1<sup>er</sup>, alinéa 5, de la <ref href="/eli/etat/leg/loi/1974/03/26/n1/jo" id="ceeedfdf-6b6a-4e16-a8be-2e5a567eef67">loi du 26 mars 1974</ref> portant fixation de suppléments de pension à allouer aux personnes devenues victimes d’actes illégaux de l’occupant en cas d’invalidité ou de décès précoces sont applicables par analogie aux participants à une opération pour le maintien de la paix. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_20"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_20</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_20/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 20.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 20.</num>
+					<paragraph id="paragraph_53">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p> Le <ref href="/eli/etat/leg/code/securite_sociale" id="e8cf0da3-8f2e-4074-886f-3075c83f416f">code des assurances sociales</ref> est modifié comme suit : </p>
+								<ol scl:start="1" scl:symbol="a)">
+									<li>Le point 1 de l’alinéa 1<sup>er</sup> de l’article 1<sup>er</sup> est complété par la phrase suivante :<embeddedStructure>
+											<alinea>
+												<content>
+													<p>Il en est de même des participants à des opérations de la paix ayant le statut d’ouvrier.</p>
+												</content>
+											</alinea>
+										</embeddedStructure>
+									</li>
+									<li>L’alinéa 1<sup>er</sup> de l’article 93 est complété par la phrase suivante:<embeddedStructure>
+											<alinea>
+												<content>
+													<p>Sont assurés en outre les participants à des opérations pour le maintien de la paix, dans les conditions de leur statut professionnel découlant de l’article 17 de la <ref href="/eli/etat/leg/loi/1992/07/27/n5/jo" id="b6069af3-85a3-4cea-b72a-064bda1b5083">loi du 27 juillet 1992</ref> relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d’organisations internationales.</p>
+												</content>
+											</alinea>
+										</embeddedStructure>
+									</li>
+									<li>Il est ajouté à l’alinéa 2 de l’article 170 la phrase suivante :<embeddedStructure>
+											<alinea>
+												<content>
+													<p>Il en est de même des activités prestées comme participant à une opération pour le maintien de la paix visée par la <ref href="/eli/etat/leg/loi/1992/07/27/n5/jo" id="827818a1-765c-475a-9a3d-d6d5a8abbb5c">loi du 27 juillet 1992</ref> relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix (OMP) dans le cadre d’organisations internationales.</p>
+												</content>
+											</alinea>
+										</embeddedStructure>
+									</li>
+									<li>Le premier alinéa de l’article 171 est complété par un numéro 11) ayant la teneur suivante :<embeddedStructure>
+											<ol scl:start="11" scl:symbol="1)">
+												<li>
+													<p>les périodes pendant lesquelles l’intéressé a participé à une opération pour le maintien de la paix conformément à la <ref href="/eli/etat/leg/loi/1992/07/27/n5/jo" id="9377a300-b964-4b72-bbb6-abb8abadd686">loi du 27 juillet 1992</ref> relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.</p>
+												</li>
+											</ol>
+										</embeddedStructure>
+									</li>
+									<li> Le premier tiret du premier alinéa de l’article 240 prend la teneur suivante :<embeddedStructure>
+											<ul scl:symbol="dash">
+												<li>
+													<p>par parts égales aux assurés et aux employeurs pour autant qu’il s’agit de périodes visées aux articles 171, 1), 5), 8) et 11) ;</p>
+												</li>
+											</ul>
+										</embeddedStructure>
+									</li>
+								</ol>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_54">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>A l’article 9. I. sous c) de la <ref href="/eli/etat/leg/loi/1954/05/26/n2/jo" id="956da756-c8a7-491f-9843-d96e7dbbb45c">loi modifiée du 26 mai 1954</ref> réglant les pensions des fonctionnaires de l’Etat est ajouté un nouveau numéro 3 libellé comme suit:<embeddedStructure>
+										<ol scl:start="3" scl:symbol="1.">
+											<li>
+												<p>Le temps passé comme participant à des opérations pour le maintien de la paix, conformément à la <ref href="/eli/etat/leg/loi/1992/07/27/n5/jo" id="f674e746-0ad9-4adc-9a0c-d1d9ec867830">loi du 27 juillet 1992</ref> relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.</p>
+											</li>
+										</ol>
+									</embeddedStructure>
+								</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_55">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>A l’article 12.I.c) de la <ref href="/eli/etat/leg/loi/1912/08/07/n2/jo" id="6334d773-6eac-425b-9fe8-e358b6fa225b">loi modifiée du 7 août 1912</ref> concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics est ajouté un numéro 4 libellé ainsi:<embeddedStructure>
+										<ol scl:start="4" scl:symbol="1.">
+											<li>
+												<p>Le temps passé comme participant à des opérations pour le maintien de la paix, conformément à la <ref href="/eli/etat/leg/loi/1992/07/27/n5/jo" id="d51a0f0f-b756-47cc-999e-ee5e5929c855">loi du 27 juillet 1992</ref> relative à la participation du Grand-Duché de Luxembourg à des opérations pour le maintien de la paix dans le cadre d’organisations internationales.</p>
+											</li>
+										</ol>
+									</embeddedStructure>
+								</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_21"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_21</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_21/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 21.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 21.</num>
+					<alinea>
+						<content>
+							<p>L’enfant d’un participant à une opération pour le maintien de la paix décédé au cours de sa mission bénéficie, jusqu’à l’âge de dix-huit ans ou jusqu’au terme de ses études, du régime applicable aux pupilles de la nation et aux orphelins de guerre. </p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_v">
+				<num>
+					<b>Chapitre V.</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Dispositions pénales et disciplinaires</b>
+				</heading>
+				<article id="art_22"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_22</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_22/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 22.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 22.</num>
+					<alinea>
+						<content>
+							<p>Les personnes auxquelles la loi a déclaré applicables les dispositions du <ref href="/eli/etat/leg/loi/1982/12/31/n1/jo" id="c77b5beb-f1df-426e-a723-de2e5e27d10c">code pénal militaire luxembourgeois</ref> demeurent soumises aux dispositions de ce code et relèvent de la compétence des juridictions militaires luxembourgeoises à l’occasion de leur participation à une opération pour le maintien de la paix. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_23"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_23</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_23/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 23.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 23.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation à l’article 5 du <ref href="/eli/etat/leg/code/procedure_penale" id="f6182bf2-af6a-4e77-acaa-1f2611fc5b52">code d’instruction criminelle</ref>, toute personne qui, pendant sa participation à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois, se rend coupable d’un fait punissable selon la loi luxembourgeoise, peut être poursuivie et jugée dans le Grand-Duché. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_24"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_24</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_24/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 24.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 24.</num>
+					<paragraph id="paragraph_56">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Sans préjudice des dispositions particulières de la présente loi, et sans préjudice des dispositions particulières aux personnes relevant du statut militaire, la personne qui participe à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois, est tenue dans ses rapports avec l’Etat luxembourgeois, aux devoirs résultant du statut général des fonctionnaires de l’Etat et notamment des articles 10 et 11 de ce statut. Elle relève de l’autorité du Ministre des Affaires étrangères. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_57">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Elle s’oblige à exécuter sa mission avec dévouement et intégrité et, conformément aux articles 28 et 29 ci-après, à obéir aux instructions de ses supérieurs hiérarchiques. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_58">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Hormis les impératifs inhérents à sa mission, elle s’abstient de toute intervention dans les affaires publiques des pays où elle exécute celle-ci. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_59">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>Elle ne peut accepter ni directement, ni indirectement, des avantages matériels dont l’acceptation pourrait la mettre en conflit avec les obligations et les défenses que lui imposent les lois et les règlements et notamment le statut général des fonctionnaires de l’Etat, tel que prévu par la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="1b7e2eb6-1f4d-40b3-8e38-a8196b42aa63">loi modifiée du 16 avril 1979</ref>. Elle ne peut collaborer, en dehors des nécessités inhérentes à l’exécution de sa mission, d’une manière quelconque, même à titre gratuit, avec des entreprises qui poursuivent un but lucratif, ou à la réalisation d’affaires menées dans un but de lucre. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Tout acte contraire aux dispositions qui précèdent constitue une faute passible des sanctions disciplinaires prévues pour les fonctionnaires de l’Etat. En particulier, lorsque l’intéressé a enfreint les dispositions précisées sous (3) et (4), le Ministre des Affaires étrangères peut prononcer son rappel avec ou sans perte, à partir de la date du fait incriminé, des avantages prévus au présent statut, le droit au rapatriement lui restant cependant acquis. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Contre les décisions prononçant le rappel et la perte des avantages, un recours est ouvert devant le tribunal administratif qui statue comme juge du fond.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_60">
+						<num>(5)</num>
+						<alinea>
+							<content>
+								<p>Sans préjudice des sanctions disciplinaires prévues aux alinéas précédents, les dispositions des articles 246, 247, 248, 257 et 260 du <ref href="/eli/etat/leg/code/penal" id="90287624-bb40-4740-90a7-4bda1170b675">code pénal</ref> sont applicables aux personnes qui participent à une opération pour le maintien de la paix décidée par le Gouvernement luxembourgeois pour les actes commis à l’occasion de leur mission. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_25"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_25</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_25/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 25.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 25.</num>
+					<alinea>
+						<content>
+							<p>La personne nommée chef du contingent civil par un arrêté du Ministre des Affaires étrangères est investie des pouvoirs qui incombent au chef d’administration en ce qui concerne la discipline et la hiérarchie tels que définis dans la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="ecf76597-f51d-4e49-8910-6a66f96d60d6">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’Etat. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_26"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_26</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_26/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 26.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 26.</num>
+					<alinea>
+						<content>
+							<p>Le membre de la Force publique participant à une opération pour le maintien de la paix reste soumis au règlement de discipline luxembourgeois, tel que défini dans la <ref href="/eli/etat/leg/loi/1979/04/16/n5/jo" id="bbdad0a6-57ba-4331-8398-243412e8bb3e">loi du 16 avril 1979</ref> concernant la discipline dans la Force publique.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_27"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_27</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_27/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 27.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 27.</num>
+					<alinea>
+						<content>
+							<p>Sans préjudice des dispositions de l’article 23 de la <ref href="/eli/etat/leg/loi/1979/04/16/n5/jo" id="b8b8de0f-6aa5-43f0-9e20-5c9425a53e36">loi du 16 avril 1979</ref> concernant la discipline dans la Force publique et par dérogation aux articles 20 et 24 ci-dessus, le membre de la Force publique qui participe à une opération pour le maintien de la paix à titre de personne civile n’est plus, pour la durée de sa mission, soumis au code pénal militaire ou au règlement de discipline de la Force publique. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_28"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_28</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_28/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 28.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 28.</num>
+					<paragraph id="paragraph_61">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p> Sous réserve des dispositions de l’article 29 ci-après, toute personne participant à une opération pour le maintien de la paix se conforme aux dispositions du règlement de discipline en vigueur dans la Force dont elle fait partie et obéit aux ordres, directives ou consignes donnés pour les besoins opérationnels par le Commandant en Chef de cette Force ou par la voie hiérarchique de celle-ci. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_62">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Toute infraction à la disposition du paragraphe (1) constitue une infraction respectivement à la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="ea9a6561-ad40-43d2-bac9-bc88b9706766">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’Etat, ou à la <ref href="/eli/etat/leg/loi/1979/04/16/n5/jo" id="f8e44e6a-b8df-49ac-a0c0-14a04fe5519d">loi du 16 avril 1979</ref> ayant pour objet la discipline dans la Force publique, et est punissable comme telle. </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_29"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_29</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_29/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 29.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 29.</num>
+					<alinea>
+						<content>
+							<p>Si le chef du contingent civil, ou le commandant du contingent de la Force publique, participant à une opération pour le maintien de la paix considère qu’un ordre, une directive ou une consigne, émanant des autorités hiérarchiques supérieures de cette opération pour le maintien de la paix ou d’une autorité étrangère dans laquelle la contribution luxembourgeoise a été intégrée ou à laquelle elle a été rattachée en vertu de l’article 2 ci-dessus, ou qu’une disposition du règlement de discipline de la Force pour le maintien de la paix concernée, </p>
+							<ul scl:symbol="dash">
+								<li>est contraire aux normes fondamentales du droit international, </li>
+								<li>est incompatible avec les normes du droit luxembourgeois, </li>
+								<li>est contraire aux intérêts du Grand-Duché de Luxembourg,</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>il en refuse l’exécution, en avertit les autorités hiérarchiques compétentes ou l’autorité étrangère concernée et en informe le Gouvernement luxembourgeois. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Celui-ci, après concertation avec les autorités compétentes ou après concertation avec l’Etat ou les Etats concernés, informe par écrit le chef du contingent civil ou le commandant du contingent de la Force publique ayant formulé une objection des suites qu’il faudra donner à l’ordre, directive ou consigne ou à la disposition du règlement de discipline qui a fait l’objet de l’objection en question. </p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_vi">
+				<num>
+					<b>Chapitre VI.</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Dispositions finales</b>
+				</heading>
+				<article id="art_30"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_30</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_30/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 30.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 30.</num>
+					<alinea>
+						<content>
+							<p>Est assimilée à une opération pour le maintien de la paix au sens de la présente loi, la participation de fonctionnaires civils et militaires à la mission des observateurs de la Communauté Européenne en Yougoslavie. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_31"><scl:JOLUXWork><scl:JOLUXComplexWork><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_31</scl:jolux></scl:JOLUXComplexWork><scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5/art_31/20080101</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/1992/07/27/n5</scl:jolux><scl:jolux scl:lg="fra" scl:name="title">Art. 31.</scl:jolux><scl:jolux scl:name="dateApplicability">2008-01-01</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf></scl:JOLUXLegalResource></scl:JOLUXWork>
+					<num>Art. 31.</num>
+					<alinea>
+						<content>
+							<p>Le Gouvernement est autorisé à appliquer à titre rétroactif le bénéfice des dispositions des articles 9, alinéa 2, et 17 à 21 cidessus aux membres de la Force publique ayant participé à une mission de maintien de la paix ou à une mission d’observateurs de la Communauté Européenne antérieures à l’entrée en vigueur de la présente loi.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/04/2020 : R\u00E8glement grand-ducal du 27 mars 2020 portant d\u00E9rogation aux articles L.521-9., L.521-11., L.524-5., L.543-11., L.543-20., L.552-2. du Code du travail et aux articles 8 et 10 du r\u00E8glement grand-ducal du 14 octobre 2002 concernant le mode de d\u00E9signation et d\u2019indemnisation des membres, les r\u00E8gles de fonctionnement et les d\u00E9lais de proc\u00E9dure de la commission mixte de reclassement des travailleurs incapables \u00E0 exercer leur dernier poste de travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/consolide/20200403/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "eb3ab839c7a14fa30125c614e218f9f6dd10548b8cf7e83318c848ec6c142d97",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/consolide/20200403/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a206/consolide/20200403/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ad6316dcf82bf4405d279a6497a73cf8850a0feef17e5801b718b2b747c54282"
+  "record_sha256": "32c1edc596f48e3bd9030ec41480d3c873b42fd4815027b5baabfff9e5036e15"
 }

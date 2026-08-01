@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2013 : Loi du 10 novembre 2010 instituant les recours en mati\u00E8re de march\u00E9s publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20130101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "92071e79c07cd84069e0aebe42ca6502ca24678659c751ba46e83a7d3b01eb29",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20130101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/11/10/n1/consolide/20130101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b6d07bf8fea76b0320d5594ac411bc7c3f185a0648ce6e6159c8261668976f4d"
+  "record_sha256": "267ac1a49f03f86db28adffcb0610c9feb0079bbe0bc4c4f0d4ee0c51c151b37"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/12/2016 : R\u00E8glement grand-ducal du 15 janvier 2016 relatif \u00E0 l\u0027\u00E9valuation de l\u0027\u00E9tat des masses d\u0027eau de surface.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/15/n2/consolide/20161219/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "df07bb4a2525dfca0b87f99edb6325a05520c43d73d7c5597affd8e9a9ec749b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/15/n2/consolide/20161219/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/15/n2/consolide/20161219/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "89091d617e3cb61d3bfa774144ca363e593986f4b2734521cfff8ff7f2d8974c"
+  "record_sha256": "e1c992179e89aba102be643d44af4d3431ea54a1ac7c87f9cb5da33adebc347c"
 }

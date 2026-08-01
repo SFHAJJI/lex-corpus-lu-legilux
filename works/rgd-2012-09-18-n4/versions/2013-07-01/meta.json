@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 18 septembre 2012 concernant la composition, l\u2019organisation et le fonctionnement de l\u2019observatoire de l\u2019eau.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n4/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "55ac4cbbc0fc821db883d4a400c5f535391e8f9cb41fd19221d72db0f6d3a9e7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n4/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n4/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a0c12cfe1afb15588715213d97e4a6d9d56b10516b53eab5b438bfc7aba7ee38"
+  "record_sha256": "a81999e0a89283d3b56d270c07a012313d853ffb4ceea1bef9e3c50fa8f1ea9f"
 }

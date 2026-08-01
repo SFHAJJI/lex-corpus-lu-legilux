@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 13 mars 2009 portant institution d\u2019un comit\u00E9 \u00E0 la formation professionnelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "968d1c5d62ff71c1a53cbd47dcbd64c5cac357da8f5cf5050e325430f6b1d9df",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/13/n3/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "04095f1d9031c4cafccd7d39415fe4ebc1243fea0f0ca5b6e54c6984de5601f1"
+  "record_sha256": "33ce5cffba03facad9fc3e924ed1e37d54d070a11fced1713e2cb5de59899cd2"
 }

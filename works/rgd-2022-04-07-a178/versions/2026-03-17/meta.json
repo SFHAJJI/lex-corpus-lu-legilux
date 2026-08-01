@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/03/2026 : R\u00E8glement grand-ducal du 7 avril 2022 instituant une commission d\u2019accompagnement aupr\u00E8s du Centre national de l\u2019audiovisuel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/consolide/20260317/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fe6e18954ef5af5ffc63f573780f53680aecc6cef3c9a8ea311b69a9bdb92cdb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/consolide/20260317/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a178/consolide/20260317/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cd7424f0c08b60591d34983e8fb786609317d52f188282f24367ac6c229b9125"
+  "record_sha256": "8d8722bb7fa76ee8a1bcf094a5ca63f4faeb118906343f6a021bfcee35f7bde3"
 }

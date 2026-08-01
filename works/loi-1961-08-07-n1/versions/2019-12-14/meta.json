@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/12/2019 : Loi du 7 ao\u00FBt 1961 relative \u00E0 la cr\u00E9ation d\u0027un fonds d\u0027urbanisation et d\u0027am\u00E9nagement du plateau de Kirchberg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/consolide/20191214/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f7598a11971a89c10bec2865e620f91530986313761cc8c4fc37b728f15cb55f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/consolide/20191214/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1961/08/07/n1/consolide/20191214/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6a05072409913ce8df9dd7dfbe1dd985211cde8fbb71b7ea03686e0772c57459"
+  "record_sha256": "60619868a2ed0b16623ce1a9badea0e3a9a35f808f0903403b4406a0a8f101f4"
 }

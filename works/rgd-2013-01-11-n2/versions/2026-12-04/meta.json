@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2026 : R\u00E8glement grand-ducal du 11 janvier 2013 relatif \u00E0 la protection des animaux utilis\u00E9s \u00E0 des fins scientifiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/11/n2/consolide/20261204/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "30776e9e1bb22125a68a973dc6db512ef7b9095fe39b69f320a77424ed633863",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/11/n2/consolide/20261204/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/01/11/n2/consolide/20261204/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b8a80298633a88a8759852bb7744b1af1cea3f73369059d7b5b530ddd3e518eb"
+  "record_sha256": "7acdf5471af0b0996dcfaa387d1e94f6e332690c87e491c54255ae8915774e9d"
 }

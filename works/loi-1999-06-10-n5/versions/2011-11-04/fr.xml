@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2011-10-31" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MENV"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2011-10-31" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2011-10-31" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2011-10-31</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2011A3782A</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MENV</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/406</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/810</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2011-11-04</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/220</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2011-10-31</scl:jolux>
+						<scl:jolux scl:name="consolidates">http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2003/11/19/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2004/05/28/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2004/12/23/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2007/12/21/n9/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/rgd/2008/04/02/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/rgd/2008/11/26/n2/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2009/03/13/n3/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/13/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20030018</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20020140</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20040073</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20050035</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/1996/61/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2003/35/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2006/21/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20070042</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2000/60/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2007/60/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20080118</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20100070</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2006/123/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1999/05/21/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2004/01/19/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/proj/pl/20000140</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2008/1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/code/penal</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/code/procedure_penale</scl:jolux>
+						<scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/loi/1990/05/09/n1/jo</scl:jolux>
+						<scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/rgd/1990/05/18/n3/jo</scl:jolux>
+						<scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/rgd/1990/05/18/n2/jo</scl:jolux>
+						<scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/rgd/1994/03/04/n1/jo</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="titleAlternative">TC - Loi modifiée du 10 juin 1999 - établissements classés</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">Loi modifiée du 10 juin 1999 relative aux établissements classés - Texte coordonné.</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/220/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">3782</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/220/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2011-220-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">3782</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2011/10/31/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<analysis source="#"/>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml">
+				<note id="note_0_0_0">
+					<p>Renuméroté par la <ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="754d054b-4903-4b0a-bb0d-275e598f06cb">loi du 21 décembre 2007</ref>.</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml">
+				<note id="note_0_1_0">
+					<p>Ainsi modifié par la <ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="cbb94144-22dd-4107-a251-111e72a801d8">loi du 19 novembre 2003</ref>.</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml">
+				<note id="note_0_2_0">
+					<p>Renuméroté par la <ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="c2779d83-4f19-43da-9e14-230925ba1cf1">loi du 13 septembre 2011</ref>.</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml">
+				<note id="note_0_3_0">
+					<p>Implicitement modifié en vertu de la <ref href="/eli/etat/leg/loi/2001/08/01/n16/jo" id="79cdb4ad-0180-4c51-a118-0473ff9c998b">loi du 1<sup>er</sup> août 2001</ref> relative au basculement en euro (Mém. A - 117 du 18 septembre 2001, p. 2440; doc. parl. <ref href="/eli/etat/proj/pl/20000140" id="dc0edb88-3315-4489-8171-e8db202efa9d">4722</ref>).</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>TEXTE COORDONNE de la loi modifiée du 10 juin 1999 relative aux établissements classés.</p>
+			</longTitle>
+		</preface>
+		<preamble>
+			<container name="preamble">
+				<p scl:align="center">(<ref href="/eli/etat/leg/loi/1999/06/10/n5/jo" id="57e015c5-2c24-442e-a5bf-cb186f86d7fa">Mém. A - 100 du 28 juillet 1999</ref>, p. 1904; doc. parl. 3837A)</p>
+				<p>modifiée par:</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="a417d428-fbb6-4e10-b32b-652572e648bd">Loi du 19 novembre 2003</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A -169 du 26 novembre 2003, p. 3322; <ref href="/eli/etat/proj/pl/20030018" id="7d2ab201-ffc5-44f0-a960-724c12870031">doc. parl. 4863A</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2004/05/28/n1/jo" id="b38c206d-754d-4327-b65a-99c12eaf06c2">Loi du 28 mai 2004</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 92 du 18 juin 2004, p. 1548; <ref href="/eli/etat/proj/pl/20020140" id="fc100b10-460c-4770-89f8-b19d68f56874">doc. parl. 4998</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2004/12/23/n1/jo" id="5528ddeb-ac87-4ec0-b931-08cfefb098ef">Loi du 23 décembre 2004</ref>
+				</p>
+			</container>
+			<container name="considerando">
+				<p scl:space-tab="20">(Mém. A - 210 du 30 décembre 2004, p. 3792; <ref href="/eli/etat/proj/pl/20040073" id="d8836b82-ba3d-4b14-8331-a947a55a0b12">doc. parl. 5327</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="3950391e-d947-4b8b-bc79-2b3a097f13f7">Loi du 21 décembre 2007</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 238 du 28 décembre 2007, p. 4390; <ref href="/eli/etat/proj/pl/20050035" id="832de13f-f7f4-4047-9b05-642e9388f315">doc. parl. 5453</ref>; <ref href="/eli/dir_ue/1996/61/jo" id="da84e26a-a5a3-4166-baa2-4b37beaa7849">dir. 1996/61/CE</ref> et <ref href="/eli/dir_ue/2003/35/jo" id="0a6d3787-6507-4a8a-9c07-fef8fc3a9d51">2003/35/CE</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2008/04/02/n1/jo" id="11ad8969-7945-4587-81e5-128d5eab231d">Règlement grand-ducal du 2 avril 2008</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 47 du 14 avril 2008, p. 717)</p>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2008/11/26/n2/jo" id="030034e6-77f3-4fa8-8038-4113dd1ef466">Règlement grand-ducal du 26 novembre 2008</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 174 du 2 décembre 2008, p. 2412; <ref href="/eli/dir_ue/2006/21/jo" id="931d0413-03d5-4b2a-9939-9f52db5ee39d">dir. 2006/21/CE</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2008/12/19/n17/jo" id="1209b39d-51c8-4478-b28e-d024d0824825">Loi du 19 décembre 2008</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 217 du 30 décembre 2008, p. 3206; <ref href="/eli/etat/proj/pl/20070042" id="b6b3de0b-5795-4ae0-a044-458c5ff92a4c">doc. parl. 5695</ref>; <ref href="/eli/dir_ue/2000/60/jo" id="22886ce9-5658-4e2e-8d46-103f1b580468">dir. 2000/60/CE</ref>, <ref href="http://www.legilux.lu/eli/dir_ue/2003/35/jo" id="63945277-49ce-4bd6-bd25-1bfc32c88e25">2003/35/CE</ref> et <ref href="/eli/dir_ue/2007/60/jo" id="47f4a9f6-81ed-4a75-bcb3-60a0d323e66f">2007/60/CE</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2009/03/13/n3/jo" id="c991b45f-3377-4906-8f89-4c68e04988e7">Loi du 13 mars 2009</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 53 du 23 mars 2009, p. 700; <ref href="/eli/etat/proj/pl/20080118" id="3f33cea1-469b-4b9d-a891-88ab1ae94899">doc. parl. 5903</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="066cb994-2dcb-4143-8f38-b55e2b750d3b">Loi du 13 septembre 2011</ref>. </p>
+				<p scl:space-after="20" scl:space-tab="20">(Mém. A - 205 du 3 octobre 2011, p. 3650; <ref href="/eli/etat/proj/pl/20100070" id="cc56e672-1144-4a9d-bbd2-eebb5c4143ba">doc. parl. 6171</ref>; <ref href="/eli/dir_ue/2006/123/jo" id="6d5a8ee0-faaa-41b7-89a3-747393e782ae">dir. 2006/123</ref>)</p>
+				<p scl:align="center" scl:space-tab="20">
+					<b>Texte coordonné au 3 octobre 2011</b>
+				</p>
+				<p scl:align="center" scl:space-tab="20">
+					<b>Version applicable à partir du 1<sup>er</sup> décembre 2011</b>
+				</p>
+			</container>
+			<formula name=""/>
+		</preamble>
+		<body>
+			<article id="art_1er">
+				<num>Art. 1<sup>er</sup>. </num>
+				<heading>
+					<b>Objet et champ d’application</b>
+				</heading>
+				<alinea>
+					<content>
+						<ol scl:start="1" scl:symbol="1.">
+							<li>La présente loi a pour objet de:<ul scl:symbol="dash">
+									<li> réaliser la prévention et la réduction intégrées des pollutions en provenance des établissements;</li>
+									<li>protéger la sécurité, la salubrité ou la commodité par rapport au public, au voisinage ou au personnel des établissements, la santé et la sécurité des travailleurs au travail ainsi que l’environnement humain et naturel;</li>
+									<li> promouvoir un développement durable.</li>
+								</ul>
+							</li>
+							<li>Sont soumis aux dispositions de la présente loi tout établissement industriel, commercial ou artisanal, public ou privé, toute installation, toute activité ou activité connexe et tout procédé, dénommés ci-après «établissement(s)», dont l’existence, l’exploitation ou la mise en œuvre peuvent présenter des causes de danger ou des inconvénients à l’égard des intérêts dont question au point 1. </li>
+						</ol>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2">
+				<num>Art. 2. </num>
+				<heading>
+					<b>Définitions</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Au sens de la présente loi, on entend par:</p>
+						<ol scl:start="1" scl:symbol="1.">
+							<li>
+								<i>«développement durable»</i>: la politique qui vise à assurer la continuité dans le temps du développement économique et social, dans le respect - de l’environnement et sans compromettre les ressources naturelles indispensables à l’activité humaine; - de la santé et de la sécurité des travailleurs au travail;</li>
+							<li>
+								<i>«autorisation»</i>: la partie ou la totalité d’une ou de plusieurs décisions écrites accordant le droit d’exploiter tout ou partie d’un établissement sous certaines conditions, permettant d’assurer que l’établissement satisfait aux exigences de la présente loi. Une autorisation peut être valable pour un ou plusieurs établissements, ou parties d’établissement situées sur le même site et exploitées par le même exploitant; </li>
+							<li>
+								<i>«pollution»</i>: l’introduction directe ou indirecte, par l’activité humaine, de substances, de vibrations, de chaleur ou de bruit dans l’air, l’eau ou le sol, susceptibles de porter atteinte à la santé humaine ou à la qualité de l’environnement, d’entraîner des détériorations aux biens matériels, une détérioration ou une entrave à l’agrément de l’environnement ou à d’autres utilisations légitimes de ce dernier;</li>
+							<li>
+								<i>«substance»</i>: tout élément chimique et ses composés;</li>
+							<li>
+								<i>«émission»</i>: le rejet direct ou indirect, à partir de sources ponctuelles ou diffuses de l’établissement, de substances, de vibrations, de chaleur ou de bruit dans l’air, l’eau ou le sol;</li>
+							<li>
+								<i>«modification de l’exploitation»</i>: une modification des caractéristiques ou du fonctionnement ou une extension de l’établissement pouvant entraîner des conséquences pour les intérêts protégés par l’article 1<sup>er</sup> de la présente loi;</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="a2a86246-b941-49b7-b7dd-871a28e89725">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+						<ol scl:start="7" scl:symbol="custom">
+							<li scl:symbol="«7.">
+								<i>«modification substantielle»</i>: une modification de l’établissement qui, de l’appréciation des administrations compétentes, peut avoir des incidences négatives et/ou significatives sur les intérêts protégés par l’article 1<sup>er</sup> de la présente loi; (<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="03f52325-d604-4cbb-8959-da1c89a71659">
+									<i>Loi du 21 décembre 2007</i>
+								</ref>) «est également réputée substantielle toute modification d’une exploitation qui répond en elle-même aux seuils fixés à l’annexe III;»»</li>
+						</ol>
+						<ol scl:start="8" scl:symbol="1.">
+							<li>
+								<i>«valeur limite d’émission»</i>: la masse, exprimée en fonction de certains paramètres spécifiques, la concentration et/ou le niveau d’une émission déterminée, à ne pas dépasser au cours d’une ou de plusieurs périodes données. Les valeurs limites d’émission dans le milieu ambiant peuvent être fixées également pour certains groupes, familles ou catégories de substances notamment celles visées à l’annexe I de la présente loi.<p>Les valeurs limites d’émission des substances sont généralement applicables au point de rejet des émissions à la sortie de l’établissement, une dilution éventuelle étant exclue dans leur détermination.</p>
+								<p>En ce qui concerne les rejets indirects à l’eau, l’effet d’une station d’épuration peut être pris en considération lors de la détermination des valeurs limites d’émission de l’établissement, à condition de garantir un niveau équivalent de la protection de l’environnement dans son ensemble et de ne pas conduire à des charges polluantes plus élevées dans le milieu, sans préjudice du respect des dispositions de la réglementation relative aux rejets de substances polluantes dans les eaux;</p>
+							</li>
+							<li>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="f840c073-0cd0-4ec3-9295-911397a312af">
+									<i>Loi du 21 décembre 2007</i>
+								</ref>) <i>«meilleures techniques disponibles en matières d’environnement»</i>: le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer en principe la base des valeurs limites d’émission visant à éviter et, lorsque cela s’avère impossible, à réduire de manière générale les émissions et l’impact sur l’environnement dans son ensemble.<p>Par <i>«techniques»</i>, on entend aussi bien les techniques employées que la manière dont l’établissement est conçu, construit, entretenu, exploité et mis à l’arrêt.</p>
+								<p>Par <i>«disponibles»</i>, on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur industriel concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages; que ces techniques soient utilisées ou produites ou non sur le territoire luxembourgeois, pour autant que l’exploitant concerné puisse y avoir accès dans des conditions raisonnables.</p>
+								<p>Par <i>«meilleures»</i>, on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection de l’environnement dans son ensemble.</p>
+								<p>Dans la détermination des meilleures techniques disponibles, il convient de prendre particulièrement en considération les éléments énumérés à l’annexe II de la présente loi; </p>
+							</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="2c8dfb20-e555-439e-9dfb-5c5afb6c86d0">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+						<ol scl:start="10" scl:symbol="custom">
+							<li scl:symbol="«10.">
+								<i>«meilleures techniques disponibles en matière de protection des personnes»</i>: dans le respect des meilleures techniques disponibles en matière d’environnement, le stade de développement le plus efficace et avancé des activités et de leurs modes d’exploitation, démontrant l’aptitude pratique de techniques particulières à constituer en principe la base pour éviter et, lorsque cela s’avère impossible, pour réduire de manière générale les risques pour la sécurité du public et du voisinage en général ainsi que pour la sécurité, l’hygiène et la santé sur le lieu de travail, pour la salubrité et l’ergonomie.<p>Par <i>«techniques»</i>, on entend aussi bien les techniques employées que la manière dont l’établissement est conçu, construit, entretenu, exploité et mis à l’arrêt.</p>
+								<p>Par <i>«disponibles»</i>, on entend les techniques mises au point sur une échelle permettant de les appliquer dans le contexte du secteur concerné, dans des conditions économiquement et techniquement viables, en prenant en considération les coûts et les avantages, que ces techniques soient utilisées ou produites ou non sur le territoire luxembourgeois, pour autant que l’exploitant concerné puisse y avoir accès dans des conditions raisonnables. </p>
+								<p>Par <i>«meilleures»</i>, on entend les techniques les plus efficaces pour atteindre un niveau général élevé de protection des personnes.»;</p>
+							</li>
+						</ol>
+						<ol scl:start="10" scl:symbol="custom">
+							<li scl:space-num="15">
+								<p>
+									<span style="li_symbol">«11.»<noteRef href="#note_0_0_0"/>
+									</span>
+									<i> «norme de qualité environnementale»</i>: série d’exigences devant être satisfaites à un moment donné pour un environnement donné ou une partie spécifique de celui-ci; </p>
+							</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="d84346dd-1eb0-4f56-8fe1-a167cbce2360">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+						<ol scl:start="10" scl:symbol="custom">
+							<li scl:symbol="««12.»">
+								<p>
+									<span style="li_symbol">««12.»<noteRef href="#note_0_0_0"/>
+									</span>
+								</p>
+								<i>«administration compétente»</i>: l’Administration de l’environnement, l’Inspection du travail et des mines et la (les) administration(s) communale(s) de la ou des communes concernées par l’implantation ou la modification substantielle de l’établissement en cause, chacune en ce qui la concerne;</li>
+							<li scl:symbol="«13.»">
+								<p>
+									<span style="li_symbol">«13.»<noteRef href="#note_0_0_0"/>
+									</span>
+								</p>
+								<i>«autorité compétente»</i>: l’autorité investie du pouvoir d’autorisation, d’actualisation, de refus ou de retrait, en l’occurrence les ministres ayant respectivement le Travail et l’Environnement dans leurs attributions ou le bourgmestre selon la classification de l’établissement.» </li>
+						</ol>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_3">
+				<num>Art. 3. </num>
+				<heading>
+					<b>Nomenclature des établissements classés</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les établissements sont divisés en quatre classes et deux sous-classes.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Leur nomenclature et leur classification sont établies par règlement grand-ducal.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_4">
+				<num>Art. 4. </num>
+				<heading>
+					<b> Compétences en matière d’autorisation</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les établissements de la classe 1 sont autorisés, dans le cadre de leurs compétences respectives, par le ministre ayant dans ses attributions le travail et le ministre ayant dans ses attributions l’environnement, désignés ci-après «les ministres». </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les établissements de la classe 2 sont autorisés par le bourgmestre.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="8ad18289-c015-4ab0-a1c6-67c6ade1b6d9">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les établissements des classes 3, 3A et 3B sont soumis à autorisation des ministres, sans qu’il y ait lieu de recourir à la procédure de commodo et incommodo telle que prévue aux articles 10 et 12 ou à l’article 12<i>bis</i>, les établissements de la classe 3A n’étant autorisés toutefois que par le seul ministre ayant dans ses attributions le travail, les établissements de la classe 3B n’étant autorisés que par le seul ministre ayant dans ses attributions l’environnement.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les établissements des classes 3, 3A et 3B sont soumis à des prescriptions générales édictées par règlement grand-ducal dans l’intérêt de l’environnement et de la sécurité, de la salubrité ou de la commodité par rapport au public, au voisinage ou au personnel de l’établissement, à l’exception de celles visant la santé des travailleurs.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les établissements de la classe 4 sont soumis aux prescriptions fixées par règlement grand-ducal pour la protection des intérêts mentionnés à l’article 1<sup>er</sup> de la présente loi, à l’exception de celles visant la santé des travailleurs. Ce règlement détermine en outre l’autorité compétente en la matière et précise le contenu des documents à soumettre à ladite autorité.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_5">
+				<num>Art. 5. </num>
+				<heading>
+					<b>Régime des établissements composites et procédures d’autorisation échelonnées</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Lorsque plusieurs installations d’un établissement projeté ou existant relèvent de classes différentes, l’installation présentant le risque le plus élevé, suivant sa classification, détermine le régime d’autorisation visé à l’article qui précède. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="54f47ff0-0189-4dba-948a-ef45a7b025d9">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Par dérogation à l’alinéa qui précède, lorsque les installations d’un établissement projeté ou existant et susceptible de subir des modifications considérées comme substantielles relèvent de deux ou plusieurs des classes 2, 3, 3A ou 3B, le régime d’autorisation relève de la classe 3.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les dispositions du présent article ne s’appliquent pas aux établissements relevant de la 4<sup>e</sup> classe.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="75e03c45-cb3e-4b0b-ac7a-404a5a6db8aa">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Pour la construction d’immeubles à caractère administratif et/ou commercial, l’administration compétente, sur demande expresse du demandeur, arrête des procédures d’autorisation distinctes concernant, selon le cas,</p>
+						<ul scl:symbol="dash">
+							<li>la démolition, l’excavation et les terrassements,</li>
+							<li>la construction et gros œuvre seulement, y compris l’utilisation rationnelle de l’énergie, les mesures appropriées en cas de sinistre, et</li>
+							<li>l’exploitation en fonction de l’utilisation finale de l’immeuble.»</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_6">
+				<num>Art. 6. </num>
+				<heading>
+					<b>Modification, modification substantielle et transfert de l’établissement</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="11dcadb4-c0c3-4863-b935-8d0d7d9057ef">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«L’exploitant d’un établissement est tenu de communiquer à l’administration compétente, par lettre recommandée avec avis de réception, toute modification projetée de l’exploitation d’un établissement des classes 1, 2, 3, 3A ou 3B.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="814e05a7-efd1-4b17-b256-843bca18e82a">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«L’administration compétente doit dans les vingt-cinq jours suivant la date de réception informer l’exploitant si la modification projetée constitue une modification substantielle ou non.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Lorsque la modification projetée de l’établissement constitue une modification substantielle, le requérant est invité à présenter une demande d’autorisation conformément à l’article 7 de la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="1d0381ed-04c7-4b5f-a7cc-e3d1d8cdec93">Loi du 13 septembre 2011</ref>)</i> «Lorsque la modification projetée de l’établissement ne constitue pas une modification substantielle, l’autorité compétente actualise l’autorisation ou les conditions d’aménagement ou d’exploitation se rapportant à la modification dans les trente jours du constat de la modification non substantielle par les autorités compétentes.» <i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="3b556b87-b501-42ef-9fee-26ca94d0ab0e">Loi du 19 novembre 2003</ref>)</i> «Dans ce cas, la communication de l’exploitant est transmise aux fins d’affichage au bourgmestre de la commune où l’établissement est situé.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>L’instruction de la demande d’autorisation et la prise de décision se feront conformément aux prescriptions de l’article 9 de la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="daf38924-2eba-416c-806d-0903d1fad102">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«La décision de l’autorité compétente doit porter sur les parties d’établissement et les données énumérées à l’article 7 susceptibles d’être concernées par les modifications, à l’exception du paragraphe 8.d) dudit article.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Toute modification substantielle d’un dossier de demande qui intervient au cours de l’enquête publique ou après celle-ci, et avant que l’autorité compétente n’ait statué sur la demande, est soumise à une nouvelle enquête publique.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Tout transfert d’un établissement des classes 1, 2, 3, 3A ou 3B à un autre endroit est soumis à une nouvelle autorisation. Une nouvelle enquête publique commodo/incommodo est requise pour les seuls établissements relevant des classes 1 et 2.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_7">
+				<num>Art. 7. </num>
+				<heading>
+					<b>Dossier de demande d’autorisation</b>
+				</heading>
+				<alinea>
+					<content>
+						<ol scl:start="1" scl:symbol="1.">
+							<li>Les demandes d’autorisation des établissements de la classe 1 sont adressées, par lettre recommandée avec avis de réception, en trois exemplaires à l’Administration de l’environnement qui transmet d’office un exemplaire à l’Inspection du travail et des mines.<p>Le requérant est tenu de présenter un exemplaire supplémentaire pour chaque commune limitrophe sur le territoire de laquelle s’étend le rayon tracé sur le plan cadastral prévu au point 8. b) du présent article. </p>
+							</li>
+						</ol>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2008/12/19/n17/jo" id="783e008e-79d0-475b-9c38-73e4e280b369">Loi du 19 décembre 2008</ref>
+							</i>
+							<i>)</i>
+						</p>
+						<ol scl:start="1" scl:symbol="custom">
+							<li scl:symbol=" ">
+								<p>«Lorsqu’un établissement de la classe 1 nécessite une autorisation au titre de la législation concernant la prévention et la gestion des déchets, le requérant est en outre tenu de fournir à l’Administration de l’environnement un exemplaire supplémentaire.</p>
+								<p>Lorsqu’un établissement nécessite une autorisation au titre de la législation relative à l’eau, le requérant est en outre tenu de fournir à l’Administration de l’environnement deux exemplaires supplémentaires.»</p>
+							</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<ol scl:start="2" scl:symbol="1.">
+							<li>Les demandes d’autorisation des établissements de la classe 2 sont adressées, par lettre recommandée avec avis de réception, en double exemplaire au bourgmestre de la commune où l’établissement est projeté.<p>Le requérant est tenu de présenter un exemplaire supplémentaire pour chaque commune limitrophe sur le territoire de laquelle s’étend le rayon tracé sur le plan cadastral prévu au point 8. b) du présent article.</p>
+							</li>
+							<li> Les demandes d’autorisation des établissements de la classe 3 sont adressées, par lettre recommandée avec avis de réception, en triple exemplaire à l’Administration de l’environnement qui transmet d’office un exemplaire à l’Inspection du travail et des mines et un exemplaire «pour information et affichage»<noteRef href="#note_0_1_0"/> au bourgmestre de la commune où l’établissement est projeté.</li>
+							<li>Les demandes d’autorisation des établissements de la classe 3A sont adressées, par lettre recommandée avec avis de réception, en triple exemplaire à l’Inspection du travail et des mines qui transmet d’office un exemplaire «pour information et affichage»<noteRef href="#note_0_1_0"/> au bourgmestre de la commune où l’établissement est projeté.</li>
+							<li>Les demandes d’autorisation des établissements de la classe 3B sont adressées, par lettre recommandée avec avis de réception, en triple exemplaire à l’Administration de l’environnement qui transmet d’office un exemplaire «pour information et affichage»<noteRef href="#note_0_1_0"/> au bourgmestre de la commune où l’établissement est projeté.</li>
+							<li>L’Administration de l’environnement, l’Inspection du travail et des mines et les administrations communales mettent à la disposition des demandeurs d’autorisation des formulaires de demande type, adaptés à la nature et à l’envergure de l’établissement projeté.</li>
+							<li> Les demandes d’autorisation indiquent:</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i> (<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="f09b650f-11ae-478e-bb4a-93a7c02f126f">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+						<ol scl:start="1" scl:symbol="custom">
+							<li scl:symbol="«a)">les nom, prénoms, qualité et domicile du demandeur et de l’exploitant. Pour les entreprises occupant du personnel salarié, le numéro d’identité national est à indiquer;</li>
+						</ol>
+						<ol scl:start="2" scl:symbol="a)">
+							<li>la nature et l’emplacement de l’établissement, l’état du site d’implantation de l’établissement, l’objet de l’exploitation, les installations et procédés à mettre en œuvre ainsi que la nature et l’ampleur des activités, les quantités approximatives de substances et matières premières et auxiliaires à utiliser et de produits à fabriquer ou à emmagasiner;»</li>
+							<li>le nombre approximatif de salariés à employer et une évaluation des risques pour leur sécurité et leur santé compte tenu des substances et procédés utilisés avec les mesures projetées en matière de sécurité, d’hygiène du travail, de salubrité et d’ergonomie; </li>
+							<li> les prélèvements d’eau, les rejets dans l’eau, dans l’air et dans le sol, les émissions de bruit, de vibrations et de radiation à la sortie des établissements, la production et la gestion des déchets et autres résidus d’exploitation, la production ainsi que la consommation et l’utilisation des différentes formes d’énergie par l’établissement ainsi qu’une notice des incidences sur l’environnement. <i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="d92063c2-a698-4fcb-aa89-22415b806492">Loi du 19 novembre 2003</ref>)</i> «Cette notice contient les données nécessaires pour identifier et évaluer les effets principaux des émissions sur l’environnement.»;</li>
+							<li> d’une façon générale les mesures projetées en vue de prévenir ou d’atténuer les inconvénients et les risques auxquels l’établissement pourrait donner lieu, tant pour les personnes attachées à l’exploitation que pour les voisins, le public et l’environnement, et tout particulièrement la technologie prévue et les autres techniques visant à prévenir les émissions provenant de l’établissement ou, si cela n’est pas possible, à les réduire, ainsi que, en tant que de besoin, les mesures concernant la prévention et la valorisation des déchets générés par l’établissement;</li>
+							<li> les mesures prévues pour la surveillance des émissions dans l’environnement;</li>
+							<li>l’évaluation des incidences sur l’environnement ainsi que l’étude des risques et le rapport de sécurité pour les établissements de la classe 1 arrêtés par règlement grand-ducal conformément à l’article 8 de la présente loi;</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="53e79420-4aa8-4a75-b52e-309dd711184f">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+						<ol scl:start="8" scl:symbol="custom">
+							<li scl:symbol="«h)">un résumé non technique des données dont question aux points a) à g) du présent article»;</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="a2662e98-9073-47ca-9650-97085dee44e4">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+						<ol scl:start="9" scl:symbol="custom">
+							<li scl:symbol="«i)">pour les établissements visés à l’annexe III, les principales solutions de substitution, s’il en existe, étudiées par le demandeur, sous la forme d’un résumé.»</li>
+						</ol>
+						<ol scl:start="8" scl:symbol="1.">
+							<li>Les demandes d’autorisation doivent être accompagnées des pièces suivantes:<ol scl:start="1" scl:symbol="a)">
+									<li>un plan de l’établissement à l’échelle de 1:200 ou plus précis, sauf indication contraire des administrations concernées, indiquant notamment la disposition des locaux et l’emplacement des installations; </li>
+									<li>un extrait récent du plan cadastral comprenant les parcelles ou parties de parcelles situées dans un rayon de 200 mètres des limites de l’établissement;</li>
+								</ol>
+								<p scl:space-tab="-30">
+									<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="3bc5b17b-c0a2-4b4f-950e-7940d31126fb">Loi du 13 septembre 2011</ref>)</i>
+								</p>
+								<ol scl:start="4" scl:symbol="custom">
+									<li scl:symbol="«c)">un extrait d’une carte topographique à l’échelle 1:20.000 ou plus précis permettant d’identifier l’emplacement projeté de l’établissement;</li>
+								</ol>
+								<ol scl:start="4" scl:symbol="a)">
+									<li>les documents administratifs dont il résulte que l’établissement projeté est situé dans une zone prévue à ces fins en conformité avec la <ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="35e18f7e-856b-4fbf-b5fd-b59d7edbea24">loi modifiée du 19 juillet 2004</ref> concernant l’aménagement communal et le développement urbain et, le cas échéant, de la <ref href="/eli/etat/leg/loi/1999/05/21/n1/jo" id="793ff8b2-0d47-4fca-a47d-f43cdfe1a856">loi modifiée du 21 mai 1999</ref> concernant l’aménagement du territoire et la <ref href="/eli/etat/leg/loi/2004/01/19/n1/jo" id="7a0aa136-65bd-44e4-bb8c-42e9cca3c810">loi modifiée du 19 janvier 2004</ref> concernant la protection de la nature et des ressources naturelles.<p>Les documents administratifs mentionnés sous d) de l’alinéa qui précède peuvent être remplacés à l’initiative du requérant par un certificat du bourgmestre de la ou des communes territorialement concernées attestant que l’établissement projeté est situé dans une zone prévue à ces fins en conformité avec les dispositions de la <ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="8312da89-4f93-4629-a006-847e7f3be290">loi précitée du 19 juillet 2004</ref> et, le cas échéant, des <ref href="http://legilux.public.lu/eli/etat/leg/loi/1999/05/21/n1/jo" id="2d5fa41a-cc15-4d90-aed6-44186169f09c">lois précitées du 21 mai 1999</ref> et du <ref href="http://legilux.public.lu/eli/etat/leg/loi/2004/01/19/n1/jo" id="967799a0-0e57-4969-a5d3-7a6363e4d84f">19 janvier 2004</ref>.</p>
+										<p>Le certificat doit mentionner l’emplacement de l’établissement projeté et comporter un extrait des parties graphique et écrite relative aux parcelles cadastrales concernées.</p>
+										<p>Ni les documents administratifs prévus sous d) ni le certificat du bourgmestre prévu à l’alinéa qui précède ne doivent figurer dans les dossiers introduits en application de la procédure de l’article 12<i>bis</i>.»</p>
+									</li>
+								</ol>
+							</li>
+							<li>Les demandes d’autorisation pour un établissement de la classe 1 sont transmises, s’il y a lieu, pour avis à d’autres administrations que celles visées au présent article. Les avis de ces administrations sont joints au dossier de demande d’autorisation avant l’expiration du délai d’instruction prévu à l’article 9 de la présente loi. <i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="9bc0617a-c47b-43d1-96ea-08744d83c1b4">Loi du 19 novembre 2003</ref>)</i> «Faute d’avoir été transmis à l’administration compétente dans le prédit délai, il y est passé outre.»</li>
+						</ol>
+						<p>(<i>
+								<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="eea2fb3f-99d6-4a2b-8a85-6dc9f43091fd">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+						<p scl:space-tab="35">«Pour les établissements figurant à l’annexe III et les établissements de la classe 1 soumis à une évaluation des incidences sur l’environnement au titre de l’article 8, paragraphe 2, l’autorité compétente joint également au dossier de la demande d’autorisation les autres rapports et avis dont elle dispose et qu’elle juge indispensables à sa prise de décision.»</p>
+						<ol scl:start="10" scl:symbol="1.">
+							<li>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="91a15ce5-6886-428d-960a-f83710212aff">Loi du 13 septembre 2011</ref>)</i> «A la requête du demandeur, l’administration compétente peut disjoindre du dossier soumis à la procédure de l’enquête publique prévue aux articles 10 et 12 ou à l’article 12<i>bis</i> les éléments de nature à entraîner la divulgation de secrets de fabrication.» En cas de refus de l’autorité compétente, celle-ci doit motiver ce refus.<p>Ces éléments sont à communiquer à l’autorité compétente sous pli séparé.</p>
+								<p>Ne peuvent être considérées comme secret de fabrication, ni les émissions résultant du processus de production et d’exploitation, ni toute information relative à la santé et à la sécurité du personnel de l’établissement ou à la protection de l’environnement. </p>
+							</li>
+						</ol>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="4a7ed347-dab9-4628-8b03-2c8f606332ef">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+						<ol scl:start="11" scl:symbol="custom">
+							<li scl:symbol="«11.">Un règlement grand-ducal peut préciser les indications et pièces requises en vertu des articles 7 et 8.»</li>
+						</ol>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_8">
+				<num>Art. 8. </num>
+				<heading>
+					<b>Evaluation des incidences sur l’environnement, études des risques et rapports de sécurité</b>
+				</heading>
+				<paragraph id="paragraph_1">
+					<num>1.</num>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine les établissements de la classe 1 pour lesquels le ministre ayant le travail dans ses attributions est habilité à prescrire au demandeur d’autorisation une étude des risques et un rapport de sécurité de l’établissement quant aux travailleurs, au lieu de travail et à la sécurité du public en cas de fonctionnement anormal de l’établissement en raison de leur nature, de leurs caractéristiques ou de leur localisation. Le règlement grand-ducal précise la nature des informations à fournir par le requérant dans le cadre d’une étude ainsi que toutes les modalités y relatives.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Ces études et rapports identifient, décrivent et évaluent de manière appropriée, en fonction de chaque cas particulier, les effets directs et indirects de l’établissement concerné sur le voisinage, son personnel et le public se trouvant dans l’enceinte de l’établissement.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_2">
+					<num>2.</num>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine les établissements de la classe 1 pour lesquels le ministre ayant l’environnement dans ses attributions est habilité à prescrire au demandeur d’autorisation une évaluation des incidences de l’établissement sur l’homme et l’environnement en raison de leur nature, de leurs caractéristiques ou de leur localisation. Le règlement grand-ducal précise la nature des informations à fournir par le maître d’ouvrage dans le cadre de cette évaluation ainsi que toutes les modalités y relatives.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Cette évaluation identifie, décrit et évalue de manière appropriée, en fonction de chaque cas particulier, les effets directs et indirects de l’établissement concerné sur l’environnement.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_9">
+				<num>Art. 9. </num>
+				<heading>
+					<b>Procédure d’instruction des demandes d’autorisation et délai de prise de décision</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="bd3e42ae-b8d7-4cf4-9196-fbd04d844c4e">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_24">
+					<num>«1.</num>
+					<alinea>
+						<content>
+							<p>En ce qui concerne les demandes d’autorisation portant sur un établissement de la classe 1, 3 ou 3B ou un établissement composite à autoriser suivant le régime de la classe 1 ou de la classe 3, l’Administration de l’environnement doit décider de la recevabilité de la demande dans les quinze jours de la date de réception de celle-ci. L’Inspection du travail et des mines est tenue par la même obligation en ce qui concerne les demandes d’autorisation portant sur un établissement de la classe 3A. Il en est encore de même pour le bourgmestre en ce qui concerne les demandes d’autorisation portant sur un établissement de la classe 2.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Une demande est déclarée irrecevable par l’administration compétente lorsque</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>les indications suivantes font défaut:<ul scl:symbol="dash">
+										<li>les noms du demandeur et de l’exploitant;</li>
+										<li> l’emplacement de l’établissement;</li>
+										<li>l’état du site d’implantation;</li>
+										<li> l’objet de l’exploitation;</li>
+										<li>un résumé non technique des données dont question aux points h) de l’article 7, paragraphe 7;</li>
+									</ul>
+								</li>
+								<li> les pièces visées aux points a) à d) de l’article 7, paragraphe 8 font défaut;</li>
+								<li>le dossier comporte des indications ou pièces qui se contredisent. </li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Une demande déclarée irrecevable par une décision motivée de l’administration compétente est immédiatement retourné par les soins de celle-ci au demandeur, ensemble avec le dossier qui était joint.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le silence de l’administration au-delà du délai prévu à l’alinéa premier vaut recevabilité de la demande d’autorisation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les contestations relatives à la décision d’irrecevabilité d’une demande sont instruites selon la procédure prévue aux points 1.3. à 1.5. du présent paragraphe.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’administration compétente doit, chacune en ce qui la concerne, dans les quatre-vingt-dix jours pour les établissements de la classe 1 visés par règlement grand-ducal pris en vertu de l’article 8 et de quarante-cinq jours pour les autres établissements de la classe 1 ainsi que pour les établissements des classes 2, 3, 3A et 3B suivant l’avis de réception relatif à la demande d’autorisation, informer le requérant que le dossier de demande d’autorisation est complet et prêt, selon les cas, pour enquête publique prévue aux articles 10 et 12 ou à l’article 12<i>bis</i>. </p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_25">
+					<num>1.1.</num>
+					<alinea>
+						<content>
+							<p>L’administration compétente, lorsque le dossier de demande d’autorisation n’est pas complet, invite le requérant une seule fois dans le délai précité à compléter le dossier.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Cette demande écrite est adressée au requérant et mentionne de façon précise tous les éléments qui font défaut.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_26">
+					<num>1.2.1.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="fc6a049f-3d48-4d4e-acda-6a405ee9fdb0">Loi du 13 septembre 2011</ref>)</i> «Le requérant envoie en une seule fois les renseignements demandés avec la précision requise et selon les règles de l’art par lettre recommandée avec avis de réception, à l’administration compétente dans un délai de cent vingt jours.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour le cas où les renseignements demandés ne sont pas transmis à l’autorité compétente dans le délai précité, la demande d’autorisation est considérée comme nulle et non avenue.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="b140f332-bd65-44b2-82bf-de0fc7079fa8">Loi du 13 septembre 2011</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Sur demande écrite et motivée du requérant, ce délai peut être prolongé de soixante jours pour les établissements visés à l’article 13<i>bis</i> ou de trente jours pour les autres établissements.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="c6e07ded-a8c2-469b-af7c-6b57338135ff">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_28">
+					<num>«1.2.2.</num>
+					<alinea>
+						<content>
+							<p>Pour le cas où les renseignements demandés sont transmis dans le délai précité, l’autorité compétente doit informer le requérant:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>dans les quarante jours pour les établissements de la classe 1 visés par règlement grand-ducal pris en vertu de l’article 8, et</li>
+								<li>dans les vingt-cinq jours pour les autres établissements de la classe 1 ainsi que pour les établissements des classes 2, 3, 3A et 3B suivant la date de l’avis de réception relatif à l’envoi des renseignements demandés que le dossier est complet.»</li>
+							</ol>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_29">
+					<num>1.3.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="b99a380c-1825-430e-9db8-deffe7f4cf45">Loi du 19 novembre 2003</ref>)</i> «Lorsqu’à l’expiration des délais indiqués sous 1.2.2, l’administration compétente estime que le dossier de demande d’autorisation reste incomplet, le requérant doit être entendu en ses explications dans les sept jours suivant les délais précités. Un constat de l’état du dossier est dressé par l’administration compétente à la suite de cette audition et notifié au plus tard quinze jours à compter de l’audition, par lettre recommandée avec avis de réception, au requérant». Ce dernier peut en saisir par voie de référé le président du tribunal administratif dans les trente jours suivant la date de l’avis de réception relatif à la notification du constat de l’état du dossier de demande d’autorisation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le président du tribunal administratif peut prendre toutes mesures ayant pour but d’arrêter l’état définitif du dossier de demande d’autorisation.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_30">
+					<num>1.4.</num>
+					<alinea>
+						<content>
+							<p>La requête en référé contient les noms et domicile des parties, l’exposé sommaire des faits et des moyens, les conclusions et l’énonciation des pièces dont on entend se servir et qui y sont jointes.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La requête, en autant d’exemplaires que de parties en cause, et en général toutes les productions des parties sont déposées au greffe du tribunal administratif au plus tard avant l’audience fixée par le président du tribunal administratif ou par celui qui le remplace.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_31">
+					<num>1.5.</num>
+					<alinea>
+						<content>
+							<p>Les décisions sont rendues sous forme d’ordonnances. Elles sont notifiées au requérant et à l’autorité compétente par le greffe du tribunal administratif, par lettre recommandée avec avis de réception.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions peuvent être frappées d’appel devant la Cour administrative.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_32">
+					<num>2.</num>
+					<alinea>
+						<content>
+							<p>L’Administration de l’environnement envoie, par lettre recommandée avec avis de réception, dans les huit jours après qu’il ait été constaté que le dossier de demande d’un établissement de la classe 1 est complet, le dossier aux fins d’enquête publique aux communes concernées. <i>(<ref href="http://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n9/jo" id="9cb1dc42-ecdc-436f-9190-5acb4440fae8">Loi du 21 décembre 2007</ref>)</i> «Pour les établissements visés à l’annexe III et pour les établissements soumis à une évaluation des incidences sur l’environnement au titre de l’article 8, paragraphe 2, le dossier de demande est précisé quant à la nature des décisions possibles et complété d’un projet de décision lorsqu’il existe.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="e2b4a274-5f62-4125-b25c-b1872994c01f">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_33">
+					<num>«3.</num>
+					<alinea>
+						<content>
+							<p>Le demandeur a le droit de s’enquérir auprès de l’administration compétente de l’état d’instruction du dossier et de solliciter un entretien à cet égard pendant la procédure d’instruction et de prise de décision, à l’exception de la période d’enquête publique.» </p>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="4c42fe0c-a6b9-41e1-a876-dd427940eb2f">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_34">
+					<num>«4.</num>
+					<alinea>
+						<content>
+							<p>L’autorité compétente doit prendre une décision sur les demandes d’autorisation:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li> dans les quarante-cinq jours à compter respectivement<ul scl:symbol="dash">
+										<li>de la transmission de l’avis de la commune concernée à l’administration compétente pour les établissements de la classe 1,</li>
+									</ul>
+								</li>
+								<li>dans les trente jours à compter respectivement<ul scl:symbol="dash">
+										<li>de l’expiration du délai d’affichage pour les établissements de la classe 2,</li>
+										<li> de la date à partir de laquelle le dossier de demande est considéré complet pour les établissements des classes 3, 3A ou 3B.</li>
+									</ul>
+								</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans les délais prévus ci-dessus, la décision prise par l’autorité compétente doit également être notifiée conformément aux dispositions de l’article 16.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_35">
+					<num>5.</num>
+					<alinea>
+						<content>
+							<p>A défaut d’une réponse dans les délais ci-dessus, les parties intéressées peuvent considérer leur demande comme rejetée et se pourvoir devant le tribunal administratif.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_10">
+				<num>Art. 10. </num>
+				<heading>
+					<b>Affichage et publication de la demande d’autorisation</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="2db8819a-4423-4a81-9ec5-6085dd7f83be">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Un avis indiquant l’objet de la demande d’autorisation ou la proposition de révision des valeurs limites d’émission autorisées y compris des nouvelles précisions concernant les établissements figurant à l’annexe III, est affiché pendant 15 jours dans la commune d’implantation par les soins du collège des bourgmestre et échevins.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Cet avis est affiché pendant le même délai dans les communes limitrophes sur le territoire desquelles s’étend le rayon tracé au plan cadastral prévu à l’article 7 de la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Pour les établissements de la classe 1, l’affichage doit avoir lieu au plus tard dix jours après la réception du dossier par la ou les communes concernées.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Pour les établissements de la classe 2, l’affichage doit avoir lieu au plus tard dix jours après que le dossier est réputé complet et régulier.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>L’affichage doit avoir lieu simultanément à la maison communale et, de manière bien apparente, à l’emplacement où l’établissement est projeté. A dater du jour de l’affichage, le dossier complet est déposé à la maison communale de la commune où l’établissement est projeté et pourra y être consulté pendant ce délai par tous les intéressés.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="1b6ae8dc-bef1-4bb3-b049-af8549010e2d">Loi du 21 décembre 2007</ref>)</i> «En outre, dans les localités de plus de 5.000 habitants, les demandes d’autorisation pour les établissements des classes 1 et 2 et les propositions de révision des valeurs limites autorisées sont portées à la connaissance du public simultanément avec l’affichage ci-dessus par voie de publication par extrait dans au moins quatre journaux quotidiens imprimés et publiés au Grand-Duché.» Il en est de même pour les établissements de la classe 1 dans les autres localités. Les frais de cette publication sont à charge des requérants.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_11">
+				<num>Art. 11.</num>
+				<heading>
+					<b>Coopération transfrontière</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="d4a5d648-7fb7-4e4e-abf4-27c7972dc9ad">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_36">
+					<num>«1.</num>
+					<alinea>
+						<content>
+							<p>Lorsqu’un projet d’établissement relevant de la classe 1 est susceptible d’avoir des incidences notables sur l’homme ou l’environnement d’un autre Etat ou lorsqu’un Etat susceptible d’en être notablement affecté le demande, le dossier de demande, comprenant l’évaluation des incidences ou l’étude des risques ainsi que le rapport de sécurité est transmis à cet Etat, le plus rapidement possible, et au plus tard au moment de l’affichage et de la publication de la demande dont question à l’article 10 ou à l’article 12<i>bis</i>.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_37">
+					<num>2.</num>
+					<alinea>
+						<content>
+							<p>Dans le cadre des relations bilatérales des deux Etats, il sera veillé à ce que</p>
+							<ul scl:symbol="dash">
+								<li>les autorités et le public concerné de l’Etat en question aient la possibilité de communiquer leur avis si possible au cours de l’enquête publique et avant que l’autorité compétente au titre de la présente loi n’arrête sa décision, </li>
+								<li>la décision prise sur la demande d’autorisation soit communiquée à l’Etat en question. </li>
+							</ul>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_12">
+				<num>Art. 12. </num>
+				<heading>
+					<b>Procès-verbal de l’enquête publique et avis de la commune</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>A l’expiration du délai d’affichage prévu à l’article 10 de la présente loi, le bourgmestre ou son délégué recueille les observations écrites et procède dans la commune du siège de l’établissement à une enquête de commodo et incommodo, dans laquelle sont entendus tous les intéressés qui se présentent. Il est dressé procès-verbal de cette enquête.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="476e1c27-13fe-4d0a-9c38-d0ce40e60623">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Pour les établissements de la classe 1, le dossier, avec les pièces attestant la publication, le procès-verbal de l’enquête et l’avis du collège des bourgmestre et échevins de la ou des commune(s) concernée(s), est retourné au plus tard vingt jours après l’expiration du délai d’affichage en double exemplaire à l’Administration de l’environnement qui communiquera sans délai un exemplaire à l’Inspection du travail et des mines.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Pour les établissements de la classe 2, l’enquête publique doit être clôturée au plus tard un mois après l’expiration du délai d’affichage prévu à l’article 10 alinéa 1<sup>er</sup> de la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>La violation des délais de procédure préindiqués constitue une faute ou négligence grave au sens de l’article 63 de la loi communale.</p>
+					</content>
+				</alinea>
+			</article>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="d03968e4-be16-45ae-b63e-485b96f8e7c2">Loi du 13 septembre 2011</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_12bis">
+				<num>«Art. 12<i>bis</i>. </num>
+				<heading>
+					<b>Procédure particulière à suivre pour certains établissements</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Un règlement grand-ducal arrête la procédure de l’enquête publique, dérogatoire aux articles 10 et 12, à suivre en vue de l’autorisation des établissements qu’il détermine.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>La procédure en question doit comporter pour les administrés des garanties au moins équivalentes à celles prévues par la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Le demandeur de l’autorisation a le choix entre cette procédure et celle prévue aux articles 10 et 12. Il doit préciser dans sa demande la procédure dont il souhaite l’application.»</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_13">
+				<num>Art. 13. </num>
+				<heading>
+					<b>Autorisations, conditions d’aménagement et d’exploitation</b>
+				</heading>
+				<paragraph id="paragraph_3">
+					<num>1.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="209b2a5a-daaf-44bd-8ef0-9a417453fe3b">Loi du 21 décembre 2007</ref>)</i> «Les autorisations fixent les conditions d’aménagement et d’exploitation qui sont jugées nécessaires pour la protection des intérêts visés à l’article 1<sup>er</sup> de la présente loi, en tenant compte des meilleures techniques disponibles respectivement en matière d’environnement et en matière de protection des personnes.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(...)</i>
+								<i>(</i>
+								<i>abrogé par la <ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="c2707b04-713b-418f-ad95-24a7f8dcc66e">loi du 21 décembre 2007</ref>
+								</i>
+								<i>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Ces autorisations peuvent être limitées dans le temps et peuvent fixer le délai dans lequel l’établissement devra être mis en exploitation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="49fecf72-38b2-4eef-8d38-ad06f7198e54">Loi du 19 novembre 2003</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Si une norme de qualité environnementale nécessite des conditions plus sévères que celles pouvant être atteintes par l’utilisation des meilleures techniques disponibles, des conditions supplémentaires sont notamment requises par l’autorisation, sans préjudice d’autres mesures pouvant être prises pour respecter les normes de qualité environnementale.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_4">
+					<num>2.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="c0b0ac5d-a993-40b2-b106-a0e60e873fed">Loi du 13 septembre 2011</ref>)</i> «Dans les cas où l’établissement n’est pas appelé à fonctionner pendant plus de deux ans, une autorisation peut être délivrée pour la durée d’un an, renouvelable une fois, sans qu’il y ait lieu de recourir à la procédure de commodo et incommodo telle que prévue aux articles 10 et 12 ou à l’article 12<i>bis</i>.» <i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="070b6638-0176-425c-b7f7-db0be09b3196">Loi du 19 novembre 2003</ref>)</i> «Un exemplaire de la demande est transmis pour information au bourgmestre de la commune où l’établissement est projeté.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="acc99917-a347-43ed-9a99-44dbeb35e18e">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_5">
+					<num>«3.</num>
+					<alinea>
+						<content>
+							<p>La décision relative à la prolongation d’une autorisation venant à expiration doit être prise dans les trente jours à compter de la réception de la demande afférente par l’autorité compétente. La prolongation est accordée sans qu’il y ait lieu de procéder à une nouvelle procédure de commodo et incommodo conforme aux articles 10 et 12 ou à l’article 12<i>bis</i>.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_6">
+					<num>«4.»<noteRef href="#note_0_2_0"/>
+					</num>
+					<alinea>
+						<content>
+							<p>L’autorisation du ministre ayant dans ses attributions l’environnement détermine les conditions d’aménagement et d’exploitation visant l’environnement humain et naturel, telles que la protection de l’air, de l’eau, du sol, de la faune et de la flore, la lutte contre le bruit et les vibrations, l’utilisation rationnelle de l’énergie, la prévention et la gestion des déchets.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’autorisation délivrée peut être modifiée ou complétée en cas de nécessité dûment motivée.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_7">
+					<num>«5.»<noteRef href="#note_0_2_0"/>
+					</num>
+					<alinea>
+						<content>
+							<p>L’autorisation du ministre ayant dans ses attributions le travail, détermine les conditions d’aménagement et d’exploitation relatives à la sécurité du public et du voisinage en général ainsi qu’à la sécurité, l’hygiène et la santé sur le lieu de travail, la salubrité et l’ergonomie.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’autorisation délivrée peut être modifiée ou complétée en cas de nécessité dûment motivée.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre peut, le cas échéant, prescrire l’établissement d’un plan d’urgence interne et d’un plan d’urgence externe.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_8">
+					<num>«6.»<noteRef href="#note_0_2_0"/>
+					</num>
+					<alinea>
+						<content>
+							<p>Les autorisations peuvent prescrire des réceptions des établissements avant leur mise en service et leur contrôle périodique qui peuvent être effectués, en tout ou en partie et en cas de besoin, par des sociétés ou organismes agréés à cet effet par le ministre ayant dans ses attributions le travail ou le ministre ayant dans ses attributions l’environnement. Le rapport concernant ces réceptions et contrôles devra être communiqué à l’autorité qui a délivré l’autorisation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les autorisations peuvent prescrire une distance à respecter entre l’établissement concerné et notamment d’autres établissements, maisons d’habitation et cours d’eau. En cas de contradiction entre les dispositions contenues dans l’autorisation et celles du plan d’aménagement communal, ce sont les dispositions les plus sévères qui sont applicables.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les autorisations peuvent prévoir l’obligation pour l’exploitant de désigner une ou plusieurs personnes chargées des questions de sécurité ou d’environnement. Un règlement grand-ducal peut préciser le statut et les missions de cette ou de ces personnes.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_9">
+					<num>«7.»<noteRef href="#note_0_2_0"/>
+					</num>
+					<alinea>
+						<content>
+							<p>Les autorisations peuvent prévoir que les entreprises qui suivant la nature de leur activité présentent un risque quant aux intérêts protégés par l’article 1<sup>er</sup> de la présente loi devront contracter une assurance contre la responsabilité civile et constituer une garantie pour la remise en état du site en cas d’incident ou d’accident liés à l’exploitation et en cas de cessation des activités.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal peut déterminer les conditions d’application de cet alinéa.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="bd41f3d0-d4fe-4f89-8f8d-ff5924618a93">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_10">
+					<num>««8.»<noteRef href="#note_0_2_0"/>
+					</num>
+					<alinea>
+						<content>
+							<p>Avant la cessation d’activité définitive d’un établissement, l’exploitant doit déclarer cette cessation d’activité par lettre recommandée avec avis de réception, en quatre exemplaires, à l’autorité destinataire en matière de demande d’autorisation suivant la classification de l’établissement. Le cas échéant, une copie de cette déclaration est transmise, pour information et affichage, au bourgmestre de la commune d’implantation de l’établissement.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="464b7b24-8a58-48d6-b6e9-ffb13ceba40d">Loi du 13 septembre 2011</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Dans les soixante jours à compter de la réception de la déclaration de cessation d’activités, les ministres et le bourgmestre, suivant leurs compétences respectives en matière d’autorisation, fixent les conditions en vue de la sauvegarde et de la restauration du site, y compris la décontamination, l’assainissement et, le cas échéant, la remise en état et toutes autres mesures jugées nécessaires pour la protection des intérêts visés à l’article 1<sup>er</sup>.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les mêmes dispositions s’appliquent lorsque la cessation d’activité n’est pas déclarée alors qu’elle est constatée par l’autorité compétente.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="90b3330f-c491-4827-ba24-3d6b582b4e7d">Loi du 13 septembre 2011</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Un règlement grand-ducal peut déterminer les indications et pièces qui sont requises dans une déclaration de cessation d’activité.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="38c3ac5f-56b4-44da-8dec-94ea9cd2e1bb">Loi du 19 novembre 2003</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_13bis">
+				<num>«Art. 13<i>bis</i>. </num>
+				<heading>
+					<b>Modalités d’application particulières pour les établissements visés à l’annexe III</b>
+				</heading>
+				<paragraph id="paragraph_11">
+					<num>1.</num>
+					<alinea>
+						<content>
+							<p>Sans préjudice des dispositions de l’article 13 et des conditions pouvant être arrêtées pour chaque établissement, les autorisations comportent obligatoirement, pour les établissements visés à l’annexe III, des valeurs limites d’émission pour les substances polluantes, notamment celles figurant à l’annexe I, susceptibles d’être émises par l’installation concernée en quantité significative eu égard à leur nature et leur potentiel de transferts de pollution d’un milieu à l’autre (eau, air et sol). Le cas échéant, les valeurs limites peuvent être complétées ou remplacées par des paramètres ou des mesures techniques équivalents. <i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="82f57131-24c7-48e0-a2b8-290008a0929f">Loi du 21 décembre 2007</ref>)</i> «Ces valeurs, paramètres et mesures sont fondés sur les meilleures techniques disponibles, sans prescrire l’utilisation d’une technique ou d’une technologie spécifique, et en prenant en considération les caractéristiques techniques de l’installation concernée, son implantation géographique et les conditions locales de l’environnement.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_12">
+					<num>2.</num>
+					<alinea>
+						<content>
+							<p>Ces autorisations contiennent également des conditions prévoyant des dispositions relatives à la minimisation de la pollution à longue distance ainsi que des mesures relatives aux conditions d’exploitation autres que les conditions d’exploitation normales. Seront ainsi pris en compte de manière appropriée, lorsque l’environnement risque d’en être affecté, le démarrage, les fuites, les dysfonctionnements, les arrêts momentanés et l’arrêt définitif de l’exploitation.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_13">
+					<num>3.</num>
+					<alinea>
+						<content>
+							<p>Ces autorisations fixent aussi les exigences appropriées en matière de surveillance régulière des rejets des installations, spécifiant la méthodologie de mesure et leur fréquence, la procédure d’évaluation des mesures ainsi qu’une obligation de fournir à l’autorité compétente les données nécessaires au contrôle du respect des conditions d’autorisation. Les résultats de la surveillance sont mis à la disposition du public.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_14">
+					<num>4.</num>
+					<alinea>
+						<content>
+							<p>Ces autorisations imposent également à l’exploitant d’informer régulièrement les autorités compétentes des résultats de la surveillance des rejets de l’installation et dans les plus brefs délais de tout incident ou accident affectant de façon significative l’environnement.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_15">
+					<num>5.</num>
+					<alinea>
+						<content>
+							<p>Pour les établissements visés à l’annexe III, un réexamen de l’autorisation est entrepris lorsque</p>
+							<ul scl:symbol="dash">
+								<li>la pollution causée par l’installation est telle qu’il convient de réviser les valeurs limites d’émission existantes de l’autorisation ou d’inclure de nouvelles valeurs limites d’émission;</li>
+								<li>des changements substantiels dans les meilleures techniques disponibles permettent une réduction significative des émissions sans imposer des coûts excessifs;</li>
+								<li> la sécurité d’exploitation du procédé ou de l’activité requiert le recours à d’autres techniques.» </li>
+							</ul>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2004/12/23/n1/jo" id="f80ee639-767a-42da-b660-ae8c1ddec5ed">Loi du 23 décembre 2004</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_16">
+					<num>«6.</num>
+					<alinea>
+						<content>
+							<p>Lorsque les émissions d’un gaz à effet de serre proviennent d’une installation soumise aux dispositions de la <ref href="/eli/etat/leg/loi/2004/12/23/n1/jo" id="7fd6af3b-d9aa-4c42-9434-a08acb0218d3">loi du 23 décembre 2004</ref> établissant un système d’échange de quotas d’émission de gaz à effet de serre, créant un fonds de financement des mécanismes de Kyoto et modifiant l’article 13<i>bis</i> de la <ref href="/eli/etat/leg/loi/1999/06/10/n5/jo" id="21a19778-f01f-4ff7-a0ae-a2455e455f6a">loi modifiée du 10 juin 1999</ref> relative aux établissements classés, l’autorisation délivrée au titre de la présente loi ne comporte pas de valeur limite d’émission pour les émissions directes de ce gaz, à moins que cela ne soit nécessaire pour éviter toute pollution locale significative. En tant que de besoin, l’autorisation en question est modifiée en conséquence.» </p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_14">
+				<num>Art. 14. </num>
+				<heading>
+					<b>Comité d’accompagnement</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Il est institué un comité d’accompagnement, qui a pour mission:</p>
+						<ul scl:symbol="dash">
+							<li>de discuter et de se prononcer, sur demande respectivement du ministre ayant dans ses attributions l’environnement et du ministre ayant dans ses attributions le travail ou de sa propre initiative, sur les problèmes généraux pouvant se présenter dans le contexte de l’exécution de la présente loi;</li>
+							<li>de donner son avis sur toutes les questions et les projets que le ministre ayant dans ses attributions l’environnement jugera utiles de lui soumettre, ou qu’il entend invoquer de sa propre initiative, y compris, en collaboration avec le centre de ressources des technologies pour l’environnement, sur la détermination des meilleures techniques disponibles.</li>
+						</ul>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="ddd725ff-e964-45cf-8a0d-f831271c029b">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«- de donner régulièrement son avis sur toutes les questions relatives à la simplification administrative dans le cadre de l’article 1<sup>er</sup> et de formuler des recommandations y relatives.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Le comité comprend des représentants</p>
+						<ul scl:symbol="dash">
+							<li>des ministères et administrations concernés;</li>
+							<li>des chambres professionnelles patronales; </li>
+							<li>des chambres professionnelles des salariés;</li>
+							<li> des associations écologiques agréées;</li>
+							<li>du Syvicol.</li>
+						</ul>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="46d80e81-9f6c-42a3-88e8-99b878404325">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les membres du comité sont nommés par le Gouvernement en Conseil pour un terme de trois ans.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Il est adjoint à chaque membre un membre suppléant qui le remplacera en cas d’empêchement; les membres suppléants sont nommés dans les mêmes formes que les membres effectifs.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>La composition, le fonctionnement et les indemnités du comité sont déterminés par règlement grand-ducal.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_15">
+				<num>Art. 15. </num>
+				<heading>
+					<b>Centre de ressources des technologies pour l’environnement</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Il est créé un centre de ressources des technologies pour l’environnement qui a pour mission de conseiller les entreprises en matière de technologies environnementales surtout en vue de l’application des meilleures techniques disponibles. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="163cd678-00e4-4f09-9330-9573347a1df2">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les administrations compétentes se tiennent informées de l’évolution des meilleures techniques disponibles.» (...) (supprimé par la <ref href="/eli/etat/leg/loi/2009/03/13/n3/jo" id="e7adee88-527a-4903-aabf-e6ae9c579025">loi du 13 mars 2009</ref>)</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_16">
+				<num>Art. 16. </num>
+				<heading>
+					<b>Notification des décisions</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="7c3bac1b-e4a9-4f31-a759-3ec0c11731f9">Loi du 21 décembre 2007</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les décisions portant autorisation, actualisation ou refus d’autorisation pour les établissements visés à l’annexe III et pour les établissements soumis à une évaluation des incidences sur l’environnement au titre de l’article 8, paragraphe 2, indiquent, après examen des préoccupations et des avis exprimés par le public, les raisons et considérations sur lesquelles la décision est fondée, y compris l’information concernant le processus de participation du public.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="2f135981-867e-4e07-901a-fc2aa030caa3">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les décisions portant autorisation, actualisation, refus ou retrait d’autorisation pour les établissements des classes 1, 3, 3A et 3B sont notifiées par l’Administration de l’environnement et l’Inspection du travail et des mines, chacune en ce qui la concerne, aux demandeurs en autorisation ou aux exploitants et, pour affichage, aux autorités communales sur le territoire desquelles est situé l’établissement et le cas échéant, pour affichage aux autorités communales dont le territoire se trouve dans un rayon inférieur à 200 mètres des limites de l’établissement.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Toute décision du bourgmestre contenant autorisation, refus ou retrait d’autorisation pour un établissement de la deuxième classe, est notifiée au demandeur ou exploitant et est transmise en copie à l’Administration de l’environnement et à l’Inspection du travail et des mines.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="0242e898-3d27-4909-8ed0-6fce94c1f0ca">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les personnes ayant présenté des observations au cours de l’enquête publique prévue à l’article 10 ou 12<i>bis</i> de la présente loi sont informées par lettre recommandée de la part de la commune concernée qu’une décision d’autorisation ou de refus est intervenue et qu’il sera procédé à la publicité de cette décision conformément à l’alinéa 4. L’information individuelle peut être remplacée par l’insertion d’un avis dans au moins 4 journaux quotidiens imprimés et publiés au Grand-Duché. Les frais de cette publication sont à charge du requérant.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>En outre, dans les communes visées à l’alinéa premier, le public sera informé des décisions en matière d’établissements classés par affichage de ces décisions à la maison communale pendant 40 jours.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Pendant toute la durée de l’exploitation d’un établissement, une copie des autorisations délivrées en vertu de la présente loi est conservée à la commune et peut y être consultée librement.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_17">
+				<num>Art. 17. </num>
+				<heading>
+					<b>Permis de construire et aménagement du territoire</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="c3fb02b6-b652-4d5b-94e0-a5e05444e448">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_17">
+					<num>«1.</num>
+					<alinea>
+						<content>
+							<p>Sans préjudice d’autres autorisations requises, la construction d’établissements classés ne peut être entamée qu’après la délivrance des autorisations requises par la présente loi.» </p>
+						</content>
+					</alinea>
+				</paragraph>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="7f164df2-4aef-4520-955d-32a48241222f">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<paragraph id="paragraph_18">
+					<num>«2.</num>
+					<alinea>
+						<content>
+							<p>Sous réserve de droits acquis en matière d’établissements classés, les établissements ne pourront être exploités que lorsqu’ils sont situés dans une zone prévue à ces fins en conformité avec les dispositions de la <ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="0cc6b8a2-2f04-4b67-afb8-384a718f84ca">loi précitée du 19 juillet 2004</ref> et, le cas échéant, des lois précitées du <ref href="/eli/etat/leg/loi/1999/05/21/n1/jo" id="bd3a8280-fff2-4696-9e0c-e22ce6ca6528">21 mai 1999</ref> et du <ref href="/eli/etat/leg/loi/2004/01/19/n1/jo" id="3be72e59-3847-402f-8790-3116fca8a555">19 janvier 2004</ref>.»</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_19">
+					<num>3.</num>
+					<alinea>
+						<content>
+							<p>Les projets de construction d’établissements nouveaux à l’intérieur d’une zone industrielle à caractère national pourront faire l’objet d’une autorisation de principe par le Gouvernement en Conseil, de l’accord prévisible des instances compétentes en raison de la nature de l’établissement projeté et sans préjudice des procédures d’autorisation requises.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>A cet effet, le requérant est tenu d’introduire une demande spécifique reprenant les informations dont question à l’article 7.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_18">
+				<num>Art. 18. </num>
+				<heading>
+					<b>Retrait d’autorisation</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>L’autorité qui a délivré l’autorisation peut s’assurer en tout temps de l’accomplissement des conditions d’aménagement et d’exploitation qu’elle a imposées. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>L’autorisation d’exploitation peut être retirée par décision motivée de l’autorité qui l’a délivrée, si l’exploitant n’observe pas ces conditions ou s’il refuse de se soumettre aux conditions d’aménagement et d’exploitation nouvelles que l’autorité compétente peut lui imposer.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_19">
+				<num>Art. 19.</num>
+				<heading>
+					<b>Recours</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Dans les cas prévus aux articles 5, 6, 7, 9, 13, 17.2, 18 et 27 de la présente loi, un recours est ouvert devant le tribunal administratif qui statuera comme juge du fond. <i>(<ref href="/eli/etat/leg/loi/2007/12/21/n9/jo" id="3fdb802d-05ac-4038-8870-5f73ab45e37c">Loi du 21 décembre 2007</ref>)</i> «Le recours est également ouvert aux associations d’importance nationale dotées de la personnalité morale et agréées en application de l’article 29. Pour les recours portant sur une décision concernant un établissement visé à l’annexe III et un établissement défini par règlement grand-ducal pris en vertu de l’article 8 paragraphe 2, les prédites associations sont réputées avoir un intérêt personnel.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Ce recours doit être interjeté sous peine de déchéance dans le délai de 40 jours. <i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="1bd3d9cd-480c-4df1-92ca-6d41db5486e4">Loi du 13 septembre 2011</ref>)</i> «Ce délai commence à courir à l’égard du demandeur de l’autorisation et des communes concernées à dater de la notification de la décision et vis-à-vis des autres intéressés à dater du jour de l’affichage de la décision.» Les ministres peuvent également interjeter appel d’une décision du bourgmestre prise en vertu des articles 5, 6, 7, 9, 13, 17.2, 18 et 27, soit qu’elle accorde, ou qu’elle refuse, ou qu’elle retire l’autorisation concernant un établissement de la classe 2; dans ce cas, le délai du recours commence à courir à dater du jour où la décision a été portée à la connaissance des administrations conformément à l’article 16 de la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Le recours est immédiatement notifié aux intéressés dans la forme prescrite par le règlement de procédure en matière contentieuse.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_20">
+				<num>Art. 20. </num>
+				<heading>
+					<b>Caducité de l’autorisation</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Une nouvelle autorisation est nécessaire </p>
+						<ol scl:start="1" scl:symbol="1.">
+							<li>lorsque l’établissement n’a pas été mis en activité dans le délai fixé par l’arrêté d’autorisation;</li>
+							<li>
+								<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="be9e3948-26b5-474f-9c02-2bb470b5128d">Loi du 13 septembre 2011</ref>)</i> «lorsqu’il a chômé pendant trois années consécutives;»</li>
+							<li>lorsqu’il a été détruit ou mis hors d’usage en tout ou en partie par un accident quelconque. Si une partie seulement de l’établissement a été détruite ou mise hors d’usage, la nouvelle demande d’autorisation est limitée à la partie en question. </li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/09/13/n1/jo" id="17fc4341-7267-4b77-8dc3-57acb19528f6">Loi du 13 septembre 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Pour les établissements des classes 1 et 2, les autorités ayant délivré l’autorisation décideront, cas par cas, si une nouvelle procédure de commodo et incommodo conformément aux articles 10 et 12 ou à l’article 12<i>bis</i> est requise.»</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_21">
+				<num>Art. 21. </num>
+				<heading>
+					<b>Frais</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Sont à charge de l’exploitant</p>
+						<ul scl:symbol="dash">
+							<li> les frais des expertises rendues nécessaires pour l’instruction de la demande et le contrôle des établissements; </li>
+							<li>les frais de réception et de révision des établissements;</li>
+							<li>les frais d’assainissement et de mise en sécurité des établissements, y compris les frais d’expertise et d’analyse en relation avec un accident ou un incident liés à l’exploitation.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_22">
+				<num>Art. 22.</num>
+				<heading>
+					<b>Constatation des infractions</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2004/05/28/n1/jo" id="284d6bd6-b2e5-4404-99bd-6c9546139c14">Loi du 28 mai 2004</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Outre les officiers de police judiciaire, les agents de la police grand-ducale, les agents des douanes et accises à partir du grade de brigadier principal, le personnel de la carrière supérieure et les ingénieurs techniciens de l’Administration de l’environnement, le personnel de la carrière supérieure et les ingénieurs techniciens de l’Administration de la gestion de l’eau ainsi que le personnel supérieur d’inspection et les ingénieurs techniciens de l’Inspection du travail et des mines sont chargés de rechercher et de constater les infractions réprimées par la présente loi et ses règlements d’exécution.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Dans l’accomplissement de leurs fonctions relatives à la présente loi, les fonctionnaires de l’Administration des douanes et accises à partir du grade de brigadier principal, les fonctionnaires de l’Inspection du travail et des mines, de l’Administration de l’Environnement et de l’Administration de la gestion de l’eau précités ont la qualité d’officiers de police judiciaire. Ils constatent les infractions par des procès-verbaux faisant foi jusqu’à preuve du contraire. Leur compétence s’étend à tout le territoire du Grand-Duché.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Avant d’entrer en fonction, ils prêtent devant le tribunal d’arrondissement de leur domicile siégeant en matière civile le serment suivant:</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Je jure de remplir mes fonctions avec intégrité, exactitude et impartialité».</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>L’article 458 du <ref href="/eli/etat/leg/code/penal" id="cbc6181f-67fc-48b2-b9fc-8f691b3e9fb4">code pénal</ref> leur est applicable.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_23">
+				<num>Art. 23. </num>
+				<heading>
+					<b>Pouvoirs de contrôle</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les personnes visées à l’article 22 alinéa 1<sup>er</sup> peuvent visiter pendant le jour et même pendant la nuit et sans notification préalable, les installations, locaux, terrains, aménagements et moyens de transport assujettis à la présente loi et aux règlements à prendre en vue de son application.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Cette disposition n’est pas applicable aux locaux d’habitation. Toutefois, et sans préjudice des dispositions de l’article 33 (1) du <ref href="/eli/etat/leg/code/procedure_penale" id="18399ef9-eb3a-4cf6-bb80-2a3f8e871b9e">code d’instruction criminelle</ref>, s’il existe des indices graves faisant présumer que l’origine d’une infraction à la loi et aux règlements pris pour son exécution se trouve dans les locaux destinés à l’habitation, il peut être procédé à la visite domiciliaire entre six heures et demie et vingt heures par deux de ces agents agissant en vertu d’un mandat du juge d’instruction.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Ces personnes signalent leur présence à l’exploitant ou au détenteur de l’installation, des locaux, terrains, aménagements ou moyens de transport, ou, le cas échéant, à son remplaçant ou au propriétaire ou occupant d’une habitation privée. Ces derniers peuvent les accompagner lors de la visite.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_24">
+				<num>Art. 24. </num>
+				<heading>
+					<b>Prérogatives de contrôle</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les personnes visées à l’alinéa 1<sup>er</sup> de l’article 22 peuvent exiger la production de documents concernant l’établissement, l’activité connexe et le procédé de fabrication pour autant que de tels documents sont pertinents pour les besoins visés à l’article 1<sup>er</sup> de la présente loi. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Elles peuvent en outre prélever aux fins d’examen ou d’analyse, des échantillons, des produits, matières, substances ou des objets en relation avec les établissements concernés.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les échantillons et/ou objets sont pris contre délivrance d’un accusé de réception. Une partie de l’échantillon, cachetée ou scellée, est remise à l’exploitant de l’établissement ou détenteur pour le compte de celui-ci à moins que celui-ci n’y renonce expressément.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Elles peuvent également saisir et au besoin mettre sous séquestre ces substances et/ou objets en relation avec les activités et procédés mis en œuvre par les établissements concernés ainsi que les écritures et documents les concernant.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les exploitants responsables d’un établissement, d’une installation, d’appareils ou de dispositifs ainsi que leurs préposés, les propriétaires ou détenteurs de matières, substances ou produits, les propriétaires et locataires d’une habitation privée, les propriétaires et locataires de moyens de transports, ainsi que toute personne responsable d’une activité généralement quelconque, susceptibles de tomber sous les prévisions de la présente loi ou de ses règlements d’exécution sont tenus, à la réquisition des agents de contrôle, de faciliter les opérations auxquelles ceux-ci procèdent en vertu de la présente loi.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>En cas de condamnation, les frais occasionnés par les mesures prises en vertu du présent article sont mis à charge du prévenu.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Dans tous les autres cas, ces frais sont supportés par l’Etat.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_25">
+				<num>Art. 25. </num>
+				<heading>
+					<b>Sanctions </b>
+					<b>pénales</b>
+				</heading>
+				<alinea>
+					<content>
+						<ol scl:start="1" scl:symbol="1.">
+							<li>Toute infraction aux dispositions des articles 1, 4, 6, 13, 17, 18 et 23 de la présente loi, des règlements et des arrêtés pris en son exécution est punie d’un emprisonnement de 8 jours à 6 mois et d’une amende de «251 à 125.000 euros»<noteRef href="#note_0_3_0"/> ou d’une de ces peines seulement.<p>Les mêmes sanctions s’appliquent en cas d’entrave apportée au contrôle des établissements mentionnés à l’article 1<sup>er</sup> de la présente loi respectivement par le personnel compétent de l’Inspection du travail et des mines, de l’Administration de l’environnement et par le bourgmestre ou son délégué.</p>
+							</li>
+							<li>En cas d’exploitation non autorisée d’un établissement, en cas de transformation ou d’extension illégales d’un établissement ainsi qu’en cas d’exploitation non conforme aux conditions d’autorisation, toute personne intéressée ayant constitué partie civile peut demander à la juridiction de jugement de prononcer la fermeture de l’établissement.</li>
+							<li>En cas d’exploitation non autorisée d’un établissement, la juridiction de jugement prononce la fermeture de l’établissement jusqu’à la délivrance de l’autorisation. En cas de modification illégale d’un établissement, la juridiction prononce uniquement la fermeture de la partie concernée de l’établissement en cause, jusqu’à délivrance de l’autorisation ou jusqu’à actualisation de l’autorisation ou des conditions d’autorisation.<p>En cas d’exploitation non conforme aux conditions d’autorisation, la juridiction peut soit impartir un délai endéans lequel l’exploitant doit s’y conformer, soit ordonner la fermeture de l’établissement concerné. Au cas où un délai aura été fixé, elle reste compétente pour statuer sur les difficultés d’exécution éventuelles. A l’expiration du délai imparti, qui ne peut être supérieur à deux ans, elle ordonne la fermeture de l’établissement concerné à la demande du ministère public ou de la partie civile.</p>
+							</li>
+							<li>La décision de fermeture d’un établissement non autorisé ou d’une partie non autorisée d’un établissement ainsi que la fermeture prononcée à la suite d’une exploitation non conforme aux conditions d’autorisation peuvent être assorties d’une astreinte. Il en est de même lorsque dans l’hypothèse visée au point 3, l’exploitant ne s’est pas conformé, dans le délai qui lui a été imparti, aux conditions d’exploitation. La décision fixe la durée maximum et le taux de l’astreinte. Lorsque le bénéficiaire de l’astreinte n’est pas la partie civile, le montant de l’astreinte est recouvré par l’Administration de l’enregistrement et des domaines. </li>
+							<li> La confiscation spéciale est facultative. </li>
+							<li> La fermeture d’établissement prononcée par une décision judiciaire ayant acquis force de chose jugée produit ses effets à partir du jour à fixer par le Procureur Général d’Etat. L’exécution de toute décision ordonnant la fermeture d’un établissement doit être commencée dans l’année à partir du jour où la décision judiciaire a acquis force de chose jugée.</li>
+						</ol>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_26">
+				<num>Art. 26. </num>
+				<heading>
+					<b>Manquement à la fermeture de l’établissement</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Tout manquement à une décision de fermeture d’établissement prononcée par la juridiction de jugement est puni des peines prévues à l’article 25 de la présente loi.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_27">
+				<num>Art. 27. </num>
+				<heading>
+					<b>Mesures et sanctions administratives</b>
+				</heading>
+				<paragraph id="paragraph_20">
+					<num>1.</num>
+					<alinea>
+						<content>
+							<p>En cas d’infraction aux dispositions des articles 4, 6, 13, 17, 18 et 20 de la présente loi, les ministres ou leurs délégués mandatés à cet effet pour les établissements des classes 1, 3, 3A, 3B et 4 et le bourgmestre de la commune concernée pour les établissements de la classe 2, peuvent selon le cas</p>
+							<ul scl:symbol="dash">
+								<li>impartir à l’exploitant d’un établissement un délai dans lequel ce dernier doit se conformer à ces dispositions, délai qui ne peut être supérieur à deux ans;</li>
+								<li>faire suspendre, après une mise en demeure, en tout ou en partie l’exploitation ou les travaux de chantier par mesure provisoire ou faire fermer l’établissement ou le chantier en tout ou en partie et apposer des scellés.</li>
+							</ul>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_21">
+					<num>2.</num>
+					<alinea>
+						<content>
+							<p>Tout intéressé peut demander l’application des mesures visées au point 1. </p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_22">
+					<num>3.</num>
+					<alinea>
+						<content>
+							<p>Les décisions prises par les ministres ou les bourgmestres à la suite d’une demande de suspension d’une exploitation ou de travaux de chantier ou à la suite d’une demande de fermeture d’une exploitation ou d’un chantier sont susceptibles d’un recours devant le Tribunal administratif qui statue comme juge du fond. Ce recours doit être introduit sous peine de déchéance dans les quarante jours de la notification de la décision intervenue.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_23">
+					<num>4.</num>
+					<alinea>
+						<content>
+							<p>Les mesures énumérées au point 1 peuvent être levées lorsque l’infraction constatée aura cessé.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_28">
+				<num>Art. 28. </num>
+				<heading>
+					<b>Droits des tiers</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les autorisations accordées en vertu de la présente loi ne préjudicient pas aux droits des tiers.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_29">
+				<num>Art. 29. </num>
+				<heading>
+					<b>Droit de recours des associations écologiques</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les associations d’importance nationale dont les statuts ont été publiés au Mémorial et qui exercent depuis au moins trois ans leur activités statutaires dans le domaine de la protection de l’environnement peuvent faire l’objet d’un agrément du ministre ayant l’environnement dans ses attributions. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les associations ainsi agréées peuvent exercer les droits reconnus à la partie civile pour des faits constituant une infraction au sens de la présente loi et portant un préjudice direct aux intérêts collectifs qu’elles ont pour objet de défendre en matière de protection de l’environnement, même si elles ne justifient pas d’un intérêt matériel et même si l’intérêt collectif dans lequel elles agissent se couvre entièrement avec l’intérêt social dont la défense est assurée par le ministère public.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_30">
+				<num>Art. 30. </num>
+				<heading>
+					<b>Entrée en vigueur et dispositions abrogatoires</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>La présente loi entre en vigueur le 1<sup>er</sup> juillet 1999 ou, si elle est publiée à une date ultérieure, le premier jour du mois suivant la date de sa publication au Mémorial, à l’exception des dispositions du point 6. de l’article 7 et des dispositions de l’article 9 dont la mise en vigueur est reportée au 1<sup>er</sup> janvier 2000.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>A la date d’entrée en vigueur de la présente loi sont abrogés:</p>
+						<ul scl:symbol="dash">
+							<li> la <ref href="/eli/etat/leg/loi/1990/05/09/n1/jo" id="4cc72542-9915-42b5-aa4a-8fd413a7f71e">loi du 9 mai 1990</ref> relative aux établissements dangereux, insalubres ou incommodes, telle qu’elle a été modifiée par la suite. Toutefois les règlements d’exécution pris en vertu de cette loi restent en vigueur jusqu’à leur abrogation par des règlements grand-ducaux pris en exécution de la présente loi;</li>
+							<li>le <ref href="/eli/etat/leg/rgd/1990/05/18/n3/jo" id="f7412746-5b1b-4090-a12b-6b10155ec505">règlement grand-ducal du 18 mai 1990</ref> portant désignation des experts et agents chargés de rechercher et de constater les infractions aux dispositions légales et réglementaires en matière d’établissements classés;</li>
+							<li>le <ref href="/eli/etat/leg/rgd/1990/05/18/n2/jo" id="86a5b8a2-a341-4e35-9acb-7d61e66f6242">règlement grand-ducal du 18 mai 1990</ref> fixant les taxes en matière d’autorisation d’établissements dangereux, insalubres ou incommodes;</li>
+							<li>le <ref href="/eli/etat/leg/rgd/1994/03/04/n1/jo" id="3da1a586-c551-4e79-b3ba-fe8449bc22b9">règlement grand-ducal du 4 mars 1994</ref> concernant l’évaluation des incidences sur l’environnement de certains projets publics et privés;</li>
+							<li>et d’une manière générale, toutes les dispositions légales applicables aux établissements soumis à la présente loi et qui lui sont contraires.</li>
+						</ul>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>La référence à la présente loi est substituée à la référence à la <ref href="/eli/etat/leg/loi/1990/05/09/n1/jo" id="836308a6-2e94-425b-9e35-713f50e8aea1">loi modifiée du 9 mai 1990</ref> dans tous les textes contenant une telle disposition. La <ref href="http://legilux.public.lu/eli/etat/leg/loi/1990/05/09/n1/jo" id="f2db6424-986b-483b-9600-228d35342c22">loi modifiée de 1990</ref> reste cependant applicable aux infractions commises avant la date visée à l’alinéa 1<sup>er</sup>.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_31">
+				<num>Art. 31. </num>
+				<heading>
+					<b>Dispositions transitoires</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Les autorisations délivrées avant l’entrée en vigueur de la présente loi sur la base de la législation relative aux établissements dangereux, insalubres ou incommodes restent valables pour le terme fixé par l’autorisation, sans préjudice des dispositions de l’alinéa 5 du présent article. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les demandes d’autorisation introduites avant l’entrée en vigueur de la présente loi sont instruites conformément à cette loi si l’affichage visé à l’article 7 de la <ref href="/eli/etat/leg/loi/1990/05/09/n1/jo" id="7366cbbc-c0a0-48e0-9607-bd9b91800270">loi modifiée du 9 mai 1990</ref> relative aux établissements dangereux, insalubres ou incommodes n’a pas encore été effectué.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Toute demande introduite avant l’entrée en vigueur de la présente loi et dont l’affichage a été effectué, est traitée suivant les modalités de la <ref href="/eli/etat/leg/loi/1990/05/09/n1/jo" id="16f08131-f0f0-4a19-90a0-ce582a1d731a">loi modifiée du 9 mai 1990</ref>.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="4a1d330e-7d9f-4967-bbac-8f255b189b79">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Les établissements autorisés qui changent de classe dans la nomenclature sont soumis au contrôle des autorités compétentes d’après les dispositions de la présente loi.»</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les établissements de la classe 2 qui sont transférés dans les classes 1, 3, 3A ou 3B ainsi que les établissements exploités sans autorisation à une époque où cette formalité n’était pas requise, peuvent être maintenus à charge pour leur exploitant de transmettre à l’autorité compétente les informations visées à l’article 7 de la présente loi dans un délai de 6 mois à compter de l’entrée en vigueur du règlement portant changement de classe ou insertion dans la nomenclature des établissements classés.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Ces documents, après due constatation de leur exactitude, seront visés par les autorités compétentes et tiendront lieu d’acte d’autorisation. Il n’y a pas lieu de tenir une enquête publique.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Toutefois les autorités compétentes peuvent prescrire les mesures propres à sauvegarder les intérêts mentionnés à l’article 1<sup>er</sup> de la présente loi. Ces mesures ne peuvent entraîner de modifications importantes touchant le gros œuvre de l’établissement ou des changements considérables dans son mode d’exploitation.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="d48b3e7d-0f33-486d-b5a2-cb01727e5075">Loi du 19 novembre 2003</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«L’article 13<i>bis</i> ne s’applique aux installations existantes qu’à partir du 31 octobre 2007.»</p>
+					</content>
+				</alinea>
+			</article>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="bf26e6ce-4807-4ab9-8cb5-0ca7b4ce4884">Loi du 19 novembre 2003</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_32">
+				<num>«Art. 32. </num>
+				<heading>
+					<b>Annexes</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>Font partie intégrante de la présente loi les annexes suivantes:</p>
+						<ol scl:start="1" scl:symbol="custom">
+							<li scl:space-num="20" scl:symbol="Annexe I:">Liste des principaux paramètres et substances polluantes à prendre en compte obligatoirement s’ils sont pertinents pour la fixation des valeurs limites d’émission. </li>
+							<li scl:space-num="18" scl:symbol="Annexe II:">Considérations à prendre en compte en général ou dans un cas particulier lors de la détermination des meilleures techniques disponibles, définies à l’article 2 point 9) de la présente loi, compte tenu des coûts et des avantages pouvant résulter d’une action et des principes de précaution et de prévention.</li>
+							<li scl:space-num="18" scl:symbol="Annexe III:">Liste des établissements tombant dans le champ d’application de la <ref href="http://legilux.public.lu/eli/dir_ue/1996/61/jo" id="22d65cca-72da-4f18-ae89-443cbb73e9d6">directive 96/61/CE</ref> du Conseil du 24 septembre 1996 relative à la prévention et à la réduction intégrées de la pollution.</li>
+						</ol>
+						<p>Les annexes pourront être modifiées par un règlement grand-ducal en vue de les adapter à l’évolution de la législation de l’Union européenne en la matière. L’annexe III pourra se référer au numéro de la nomenclature établie par le règlement grand-ducal visé à l’article 3.»</p>
+					</content>
+				</alinea>
+			</article>
+		</body>
+		<attachments>
+			<attachment id="attachment_1">
+				<doc name="">
+					<meta>
+						<identification source="">
+							<FRBRWork>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRcountry value=""/>
+							</FRBRWork>
+							<FRBRExpression>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRlanguage language=""/>
+							</FRBRExpression>
+							<FRBRManifestation>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+							</FRBRManifestation>
+						</identification>
+					</meta>
+					<preface>
+						<longTitle>
+							<p scl:align="center">
+								<b>ANNEXE I</b>
+							</p>
+						</longTitle>
+					</preface>
+					<preamble>
+						<container name="">
+							<p scl:align="center">
+								<b>L</b>
+								<b>ISTE DES PRINCIPAUX PARAMETRES ET SUBSTANCES POLLUANTES A PRENDRE EN </b>
+							</p>
+							<p scl:align="center">
+								<b>COMPTE OBLIGATOIREMENT S’ILS SONT PERTINENTS POUR LA FIXATION DES </b>
+							</p>
+							<p scl:align="center">
+								<b>VALEURS LIMITES D’EMISSION</b>
+							</p>
+						</container>
+					</preamble>
+					<mainBody>
+						<alinea>
+							<content>
+								<p>
+									<b>
+										<i>Air</i>
+									</b>
+								</p>
+								<ol scl:start="1" scl:symbol="1.">
+									<li>Oxydes de soufre et autres composés du soufre</li>
+									<li> Oxydes d’azote et autres composés de l’azote </li>
+									<li>Monoxyde de carbone</li>
+									<li>Composés organiques volatils</li>
+									<li>Métaux et leurs composés</li>
+									<li>Poussières</li>
+									<li>Amiante (particules en suspension, fibres)</li>
+									<li> Chlore et ses composés</li>
+									<li> Fluor et ses composés</li>
+									<li>Arsenic et ses composés</li>
+									<li>Cyanures</li>
+									<li>Substances et préparations dont il a été prouvé qu’elles possédaient des propriétés cancérogènes, mutagènes ou susceptibles d’affecter la reproduction via l’air</li>
+									<li>Polychlorodibenzodioxines et polychlorodibenzofurannes.</li>
+								</ol>
+								<p>
+									<b>
+										<i>Eaux</i>
+									</b>
+								</p>
+								<ol scl:start="1" scl:symbol="1.">
+									<li>Composés organohalogénés et substances susceptibles de former de tels composés en milieu aquatique</li>
+									<li>Composés organophosphorés</li>
+									<li> Composés organostanniques</li>
+									<li>Substances et préparations dont il est prouvé qu’elles présentent des propriétés cancérogènes, mutagènes ou susceptibles d’affecter la reproduction dans le milieu aquatique ou par l’intermédiaire de celui-ci</li>
+									<li> Hydrocarbures persistants et substances organiques toxiques persistantes et bioaccumulables</li>
+									<li>Cyanures</li>
+									<li>Métaux et leurs composés</li>
+									<li>Arsenic et ses composés</li>
+									<li>Biocides et produits phytosanitaires</li>
+									<li>Matières en suspension </li>
+									<li>Substances contribuant à l’eutrophisation (en particulier nitrates et phosphates)</li>
+									<li>Substances, exerçant une influence défavorable sur le bilan d’oxygène (et mesurables par des paramètres tels que DBO, DCO).</li>
+								</ol>
+							</content>
+						</alinea>
+					</mainBody>
+				</doc>
+			</attachment>
+			<attachment id="attachment_2">
+				<doc name="">
+					<meta>
+						<identification source="">
+							<FRBRWork>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRcountry value=""/>
+							</FRBRWork>
+							<FRBRExpression>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRlanguage language=""/>
+							</FRBRExpression>
+							<FRBRManifestation>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+							</FRBRManifestation>
+						</identification>
+					</meta>
+					<preface>
+						<longTitle>
+							<p scl:align="center">
+								<b>ANNEXE II</b>
+							</p>
+						</longTitle>
+					</preface>
+					<preamble>
+						<container name="">
+							<p scl:align="center">
+								<b>CONSIDERATIONS A PRENDRE EN COMPTE EN GENERAL OU DANS UN CAS </b>
+							</p>
+							<p scl:align="center">
+								<b>PARTICULIER LORS DE LA DETERMINATION DES MEILLEURES TECHNIQUES </b>
+							</p>
+							<p scl:align="center">
+								<b>DISPONIBLES, DEFINIES A L’ARTICLE 2 POINT 9) DE LA PRESENTE LOI, COMPTE TENU </b>
+							</p>
+							<p scl:align="center">
+								<b>DES COUTS ET DES AVANTAGES POUVANT RESULTER D’UNE ACTION ET DES </b>
+							</p>
+							<p scl:align="center">
+								<b>PRINCIPES DE PRECAUTION ET DE PREVENTION</b>
+							</p>
+						</container>
+					</preamble>
+					<mainBody>
+						<alinea>
+							<content>
+								<ol scl:start="1" scl:symbol="1.">
+									<li>L’utilisation de techniques produisant peu de déchets;</li>
+									<li>l’utilisation de substances moins dangereuses; </li>
+									<li>le développement des techniques de récupération et de recyclage des substances émises et utilisées dans le procédé et des déchets, le cas échéant; </li>
+									<li>les procédés, équipements ou modes d’exploitation comparables qui ont été expérimentés avec succès à une échelle industrielle;</li>
+									<li> les progrès techniques et l’évolution des connaissances scientifiques;</li>
+									<li> la nature, les effets et le volume des émissions concernées;</li>
+									<li> les dates de mise en service des installations nouvelles ou existantes;</li>
+									<li>durée nécessaire à la mise en place d’une meilleure technique disponible;</li>
+									<li>la consommation et la nature des matières premières (y compris l’eau) et l’efficacité énergétique;</li>
+									<li>la nécessité de prévenir ou de réduire à un minimum l’impact global des émissions et des risques sur l’environnement;</li>
+									<li>la nécessité de prévenir les accidents et d’en réduire les conséquences sur l’environnement;</li>
+									<li>les informations publiées par la Commission ou par des organisations internationales.</li>
+								</ol>
+							</content>
+						</alinea>
+					</mainBody>
+				</doc>
+			</attachment>
+			<attachment id="attachment_3">
+				<doc name="">
+					<meta>
+						<identification source="">
+							<FRBRWork>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRcountry value=""/>
+							</FRBRWork>
+							<FRBRExpression>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+								<FRBRlanguage language=""/>
+							</FRBRExpression>
+							<FRBRManifestation>
+								<FRBRthis value=""/>
+								<FRBRuri value=""/>
+								<FRBRdate date="2020-03-09" name=""/>
+								<FRBRauthor href=""/>
+							</FRBRManifestation>
+						</identification>
+						<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml">
+							<note id="note_3_0_0">
+								<p>Selon <ref href="/eli/etat/leg/rgd/2008/04/02/n1/jo" id="8e53404f-ffea-47c2-9bc0-c94c162a1044">règl. g.-d. du 2 avril 2008</ref>: pour les établissements visés à l’annexe III, le réexamen de l’autorisation est périodique. Si nécessaire, les conditions de l’autorisation sont actualisées.</p>
+							</note>
+						</notes>
+						<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-10-31-n1-jo-fr-xml">
+							<note id="note_3_1_0">
+								<p>Nouveau numéro selon le <ref href="/eli/etat/leg/rgd/2008/11/26/n2/jo" id="a1089827-803b-48e1-a50e-aefdba1e3e92">règlement g.-d. du 26 novembre 2008</ref>.</p>
+							</note>
+						</notes>
+					</meta>
+					<preface>
+						<longTitle>
+							<p scl:style-format="n">
+								<span>
+									<i>(<ref href="/eli/etat/leg/loi/2003/11/19/n1/jo" id="6524d041-9069-4c9d-8383-fbd97fcb326d" scl:verify="to_remove">Loi du 19 novembre 2003</ref>)</i>
+								</span>
+							</p>
+							<p scl:align="center">
+								<b>«ANNEXE III</b>
+							</p>
+						</longTitle>
+					</preface>
+					<preamble>
+						<container name="">
+							<p scl:align="center">
+								<b>LISTE DES ETABLISSEMENTS<noteRef href="#note_3_0_0"/> TOMBANT DANS LE CHAMP D’APPLICATION DE LA </b>
+							</p>
+							<p scl:align="center">
+								<b>DIRECTIVE</b>
+								<b> 96/61/CE DU CONSEIL DU 24 SEPTEMBRE 1996 RELATIVE A LA PREVENTION</b>
+							</p>
+							<p scl:align="center">
+								<b> ET A LA REDUCTION INTEGREES DE LA POLLUTION</b>
+							</p>
+						</container>
+					</preamble>
+					<mainBody>
+						<alinea>
+							<content>
+								<p>Les valeurs seuils visées ci-dessous se rapportent généralement à des capacités de production ou des rendements. Si un même exploitant met en œuvre plusieurs activités relevant de la même rubrique dans une même installation ou sur un même site, les capacités de ces activités s’additionnent.</p>
+								<p>
+									<i>(<ref href="/eli/etat/leg/rgd/2008/11/26/n2/jo" id="96c01534-e6fc-488f-b200-591ea95c9cd2">Règl. g.-d. du 26 novembre 2008</ref>)</i>
+								</p>
+								<p>«La <ref href="http://legilux.public.lu/eli/dir_ue/1996/61/jo" id="6332d520-f54e-4940-a85f-68d7c35cac02">directive 96/61/CE</ref> est abrogée par la <ref href="/eli/dir_ue/2008/1/jo" id="38ed86c5-6a37-4cc1-bd37-d612ca49338c">directive de codification 2008/1/CE</ref>. Les références faites à la <ref href="http://legilux.public.lu/eli/dir_ue/1996/61/jo" id="959e5b44-af58-4698-b5e8-f1df4f797db6">directive 96/61/CE</ref> s’entendent comme faites à la <ref href="http://legilux.public.lu/eli/dir_ue/2008/1/jo" id="f484d85f-f159-4d39-9e76-fa3feb0096b0">directive 2008/1/CE</ref>.» </p>
+								<p>
+									<i>(Numéro de la nomenclature et désignation de l’établissement)</i>
+								</p>
+								<p>
+									<b>1. Industries d’activités énergétiques</b>
+								</p>
+								<p>
+									<i>(<ref href="/eli/etat/leg/rgd/2008/04/02/n1/jo" id="015eb877-ac2d-4c09-8e0a-3c63fd53be81">Règl. g.-d. du 2 avril 2008</ref>)</i>
+								</p>
+								<table id="table_1" scl:cols="15 85">
+									<tr>
+										<td>
+											<p>«144.1.b)</p>
+										</td>
+										<td>
+											<p>Chaufferies d’une puissance thermique de combustion supérieure à 50 MW et/ou Installations de combustion d’une puissance calorifique de combustion supérieure à 50 MW»</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>303.2)</p>
+										</td>
+										<td>
+											<p>Raffineries de pétrole et de gaz ainsi qu’installations de gazéification et de liquéfaction du charbon</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>104</p>
+										</td>
+										<td>
+											<p>Cokeries</p>
+										</td>
+									</tr>
+								</table>
+								<p>
+									<b>2. Production et transformation des métaux</b>
+								</p>
+								<table id="table_2" scl:cols="15 85">
+									<tr>
+										<td>
+											<p>245A.</p>
+										</td>
+										<td>
+											<p>Minerai métallique: Installation de grillage, de frittage ou de calcination de minerai métallique, y compris de minerai sulfuré.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>240.2)</p>
+										</td>
+										<td>
+											<p> Installations pour la production de fonte ou d’acier (fusion primaire ou secondaire), y compris les équipements pour coulée continue d’une capacité de plus de 2,5 tonnes par heure.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>240.4)</p>
+										</td>
+										<td>
+											<p> Installations destinées à la transformation des métaux ferreux:</p>
+											<ol scl:start="1" scl:symbol="i)">
+												<li>par laminage à chaud avec une capacité supérieure à 20 tonnes d’acier brut par heure;</li>
+												<li>par forgeage à l’aide de marteaux dont l’énergie de frappe dépasse 50 kilojoules par marteau et lorsque la puissance calorifique mise en œuvre est supérieure à 20 MW;</li>
+												<li> application de couches de protection de métal en fusion avec une capacité de traitement supérieure à 2 tonnes d’acier brut par heure.</li>
+											</ol>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>168.2)</p>
+										</td>
+										<td>
+											<p>Fonderies de métaux ferreux d’une capacité de production supérieure à 20 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>239.2)</p>
+										</td>
+										<td>
+											<p>Installations</p>
+											<ol scl:start="1" scl:symbol="a)">
+												<li>destinées à la production de métaux bruts non ferreux à partir de minerais, de concentrés de minerai ou de matières premières secondaires par procédés métallurgiques, chimiques ou électrolytiques;</li>
+												<li>de fusion de métaux non ferreux, y compris l’alliage, incluant les produits de récupération (affinage, moulage en fonderie), d’une capacité de fusion supérieure à 4 tonnes par jour pour le plomb et le cadmium ou 20 tonnes par jour pour tous les autres métaux.</li>
+											</ol>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>239.3)</p>
+										</td>
+										<td>
+											<p>Installations de traitement de surface de métaux et matières plastiques utilisant un procédé électrolytique ou chimique, lorsque le volume des cuves affectées au traitement mises en œuvre est supérieur à 30 m<sup>3</sup>.</p>
+										</td>
+									</tr>
+								</table>
+								<p>
+									<b>3. Industrie minérale</b>
+								</p>
+								<table id="table_3" scl:cols="15 85">
+									<tr>
+										<td>
+											<p>98.2)</p>
+										</td>
+										<td>
+											<p> Installations destinées à la production de clinker (ciment) dans des fours rotatifs avec une capacité de production supérieure à 500 tonnes par jour, ou de chaux dans des fours rotatifs avec une capacité de production supérieure à 50 tonnes par jour, ou dans d’autres types de fours avec une capacité de production supérieure à 50 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>19.1)</p>
+										</td>
+										<td>
+											<p>Amiante: Fabrication, traitement, transformation et utilisation de l’amiante ou de produits contenant de l’amiante.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>353.2)</p>
+										</td>
+										<td>
+											<p> Installations destinées à la fabrication du verre, y compris celles destinées à la production de fibres de verre avec une capacité de fusion supérieure à 20 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>235A.</p>
+										</td>
+										<td>
+											<p> Matières minérales: Installations destinées à la fusion de matières minérales, y compris celles destinées à la production de fibres minérales avec une capacité de fusion supérieure à 20 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>79A.1)</p>
+										</td>
+										<td>
+											<p>Céramique: Installations destinées à la fabrication de produits céramiques par cuisson, notamment de tuiles, de briques, de pierres, de pierres réfractaires, de carrelages, de grès ou de porcelaines, avec une capacité de production supérieure à 75 tonnes par jour, et/ou une capacité de four de plus de 4 m<sup>3</sup> et de plus de 300 kg/m<sup>3</sup> par four.</p>
+										</td>
+									</tr>
+								</table>
+								<p>
+									<b>4. Industrie chimique</b>
+								</p>
+								<p>La production au sens des catégories d’activités de la présente rubrique désigne la production en quantité industrielle par transformation chimique des matières ou groupes de matières visés au point 4.</p>
+								<table id="table_4" scl:cols="15 85">
+									<tr>
+										<td>
+											<p>293.5)</p>
+										</td>
+										<td>
+											<p>Installations chimiques destinées à la fabrication de produits chimiques organiques de base, tels que</p>
+											<ol scl:start="1" scl:symbol="a)">
+												<li>hydrocarbures simples (linéaires ou cycliques, saturés ou insaturés, aliphatiques ou aromatiques),</li>
+												<li>hydrocarbures oxygénés, notamment alcools, aldéhydes, cétones, acides carboxyliques, esters, acétates, éthers, peroxydes, résines époxydes,</li>
+												<li>hydrocarbures sulfurés,</li>
+												<li>hydrocarbures azotés, notamment amines, composés nitreux, nitrés ou nitratés, nitriles, cyanates, isocyanates,</li>
+												<li>hydrocarbures phosphorés,</li>
+												<li>hydrocarbures halogénés,</li>
+												<li>dérivés organométalliques,</li>
+												<li>matières plastiques de base (polymères, fibres synthétiques, fibres à base de cellulose),</li>
+												<li> caoutchoucs synthétiques,</li>
+												<li>colorants et pigments,</li>
+												<li> tensioactifs et agents de surface.</li>
+											</ol>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>293.6)</p>
+										</td>
+										<td>
+											<p> Installations chimiques destinées à la fabrication de produits chimiques inorganiques de base, tels que</p>
+											<ol scl:start="1" scl:symbol="a)">
+												<li>gaz, tels que ammoniac, chlore ou chlorure d’hydrogène, fluor ou fluorure d’hydrogène, oxydes de carbone, composés sulfuriques, oxydes d’azote, hydrogène, dioxyde de soufre, dichlorure de carbonyle,</li>
+												<li>acides, tels que acide chromique, acide fluorhydrique, acide phosphorique, acide nitrique, acide chlorhydrique, acide sulfurique, oléum, acides sulfurés,</li>
+												<li>bases, telles que hydroxyde d’ammonium, hydroxyde de potassium, hydroxyde de sodium,</li>
+												<li>sels, tels que chlorure d’ammonium, chlorate de potassium, carbonate de potassium, carbonate de sodium, perborate, nitrate d’argent,</li>
+												<li>non-métaux, oxydes métalliques ou autres composés inorganiques, tels que carbure de calcium, silicium, carbure de silicium.</li>
+											</ol>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>145.2)</p>
+										</td>
+										<td>
+											<p>Installations chimiques destinées à la fabrication d’engrais à base de phosphore, d’azote ou de potassium (engrais simples ou composés).</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>293.7)</p>
+										</td>
+										<td>
+											<p> Installations chimiques destinées à la fabrication de produits de base phytosanitaires et de biocides.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>296.2)</p>
+										</td>
+										<td>
+											<p>Installations utilisant un procédé chimique ou biologique destinées à la fabrication de produits pharmaceutiques de base.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>156.1)</p>
+										</td>
+										<td>
+											<p>Installations chimiques destinées à la fabrication d’explosifs.</p>
+										</td>
+									</tr>
+								</table>
+								<p>
+									<b>5. Gestion des déchets</b>
+								</p>
+								<p>
+									<i>(<ref href="/eli/etat/leg/rgd/2008/11/26/n2/jo" id="47ee39ae-c580-4e03-b3e1-81b027549e06">Règl. g.-d. du 26 novembre 2008</ref>)</i>
+								</p>
+								<table id="table_5">
+									<tr>
+										<td>
+											<p>«122.2)</p>
+										</td>
+										<td>
+											<p>Décharges de déchets (à ciel ouvert ou souterraines)</p>
+											<p>Décharge recevant plus de 10 tonnes par jour ou d’une capacité totale de plus de 25.000 tonnes, à l’exclusion des décharges de déchets inertes.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>122.4)</p>
+										</td>
+										<td>
+											<p>Incinération de déchets</p>
+											<p>Installation pour l’incinération des déchets municipaux, telles que définies par la réglementation grand-ducale concernant la réduction de la pollution atmosphérique en provenance des installations d’incinération des déchets municipaux, d’une capacité supérieure à 3 tonnes par heure.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>122.5)</p>
+										</td>
+										<td>
+											<p>Autres procédés de valorisation et d’élimination de déchets</p>
+											<p>Installation d’élimination ou de valorisation de déchets dangereux avec une capacité de plus de 10 tonnes par jour.</p>
+											<p>Installation d’élimination de déchets non dangereux avec une capacité de plus de 50 tonnes par jour.»</p>
+										</td>
+									</tr>
+								</table>
+								<p>
+									<b>6. Autres activités</b>
+								</p>
+								<table id="table_6" scl:cols="15 85">
+									<tr>
+										<td>
+											<p>262.1)</p>
+										</td>
+										<td>
+											<p>Installations industrielles destinées à la fabrication de pâte à papier à partir du bois ou d’autres matières fibreuses.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>262.2)</p>
+										</td>
+										<td>
+											<p>Installations industrielles destinées à la fabrication de papier et de carton dont la capacité de production est supérieure à 20 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>334A</p>
+										</td>
+										<td>
+											<p>Textiles et fibres: Installations destinées au prétraitement (opérations de lavage, blanchiment, mercerisation) ou à la teinture de fibres ou de textiles dont la capacité de traitement est supérieure à 10 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>332.2)</p>
+										</td>
+										<td>
+											<p>Tanneries, lorsque la capacité de traitement est supérieure à 12 tonnes de produits finis par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>1.2)</p>
+										</td>
+										<td>
+											<p>Abattoirs avec une capacité de production de carcasses supérieure à 50 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>15</p>
+										</td>
+										<td>
+											<p>Alimentation: Traitement et transformation destinés à la fabrication de produits alimentaires à partir de:</p>
+											<p>1) matière première animale (autre que le lait) d’une capacité de production de produits finis supérieure à 75 tonnes par jour</p>
+											<p>2) matière première végétale d’une capacité de production de produits finis supérieure à 300 tonnes par jour (valeur moyenne sur une base trimestrielle).</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>214.2)</p>
+										</td>
+										<td>
+											<p>Traitement et transformation du lait, la quantité de lait reçu étant supérieure à 200 tonnes par jour (valeur moyenne sur une base annuelle).</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>«124.1)<noteRef href="#note_3_1_0"/>»</p>
+										</td>
+										<td>
+											<p>Installations destinées à l’élimination ou à la valorisation de carcasses et de déchets d’animaux d’une capacité de traitement supérieure à 10 tonnes par jour.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>361.2)</p>
+										</td>
+										<td>
+											<p> Installations destinées à l’élevage intensif de volailles disposant de plus de 40.000 emplacements pour la volaille<sup>(1)</sup>.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>285.8)</p>
+										</td>
+										<td>
+											<p> Installations destinées à l’élevage intensif de porcs disposant de plus de</p>
+											<ol scl:start="1" scl:symbol="a)">
+												<li>2.000 emplacements pour porcs de production (de plus de 30 kg) ou de</li>
+												<li>750 emplacements pour truies<sup>(1)</sup>.</li>
+											</ol>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>321A.4)</p>
+										</td>
+										<td>
+											<p>Solvants organiques: Installations destinées au traitement de surface de matières, d’objets ou de produits, et ayant recours à l’utilisation de solvants organiques; notamment pour les opérations d’apprêt, d’impression, de couchage, de dégraissage, d’imperméabilisation, de collage, de peinture, de nettoyage ou d’imprégnation d’une capacité de consommation de solvant de plus de 150 kg par heure ou de plus de 200 tonnes par an.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>85A.</p>
+										</td>
+										<td>
+											<p> Installations destinées à la fabrication de carbone (charbon dur) ou d’électrographite par combustion ou graphitisation.</p>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<p>(1)</p>
+										</td>
+										<td>
+											<p> Les valeurs limites d’émission établies conformément à l’article 13<i>bis</i> prennent en compte les modalités pratiques adaptées à ces catégories d’installations.»</p>
+										</td>
+									</tr>
+								</table>
+							</content>
+						</alinea>
+					</mainBody>
+				</doc>
+			</attachment>
+		</attachments>
+	</act>
+</akomaNtoso>

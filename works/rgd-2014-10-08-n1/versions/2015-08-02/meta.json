@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/08/2015 : R\u00E8glement grand-ducal du 8 octobre 2014 concernant les modalit\u00E9s d\u0027agr\u00E9ment et d\u0027exercice des interm\u00E9diaires d\u0027assurances et de r\u00E9assurances ainsi que des professionnels du secteur de l\u0027assurance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "63a4f19cc2e954a85540875bc382248e615d0ba9b238de3c81e83938d5414231",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/10/08/n1/consolide/20150802/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cac473ee581fbf3f2b66925d7fa72d9993c85f97e9cf3e99e5d9699dd2b0861f"
+  "record_sha256": "d145a85eed7a33d94286cdadb79a5ab005ba9cc4a739bd3f7f34c9652d00593e"
 }

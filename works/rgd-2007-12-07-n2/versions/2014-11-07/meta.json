@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2013 : R\u00E8glement grand-ducal du 7 d\u00E9cembre 2007\n a) concernant le transfert national de d\u00E9chets\n b) modifiant le r\u00E8glement grand-ducal du 19 novembre 2002 d\u00E9terminant les taxes \u00E0 percevoir lors de la pr\u00E9sentation des demandes en obtention des formules prescrites pour le transfert de d\u00E9chets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/07/n2/consolide/20141107/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "57247457545367b4adc9d4a355e77af9b20aa5ebab1b262a83ea76a15289a221",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/07/n2/consolide/20141107/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/07/n2/consolide/20141107/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c80c3feda08582026bd2b3f5ac267b662c305cd21aaf30f155096815caca9462"
+  "record_sha256": "07fdc84ebc0e56325216fc81639885ec62343a44d02a4fb75db346ea35ff0119"
 }

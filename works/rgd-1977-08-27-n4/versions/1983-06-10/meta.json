@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/06/1983 : R\u00E8glement grand-ducal du 27 ao\u00FBt 1977 pris en ex\u00E9cution de l\u0027article 7.3. de la loi du 27 janvier 1972 fixant le r\u00E9gime des employ\u00E9s de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/08/27/n4/consolide/19830610/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "55c1e7ab3ff583ecda4154756cd00f5e92ffa9e14a218e634e25039fa40a9c76",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/08/27/n4/consolide/19830610/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1977/08/27/n4/consolide/19830610/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c6713be81ff5a7a4b6979ac71cbbc691f381ed351504c1b89f23c427e704021a"
+  "record_sha256": "c9a0ad2efdb7cf65496b6c468a6b256a307a7da4701e85e30e9b80beb8fa6845"
 }

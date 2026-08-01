@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/07/2020 : R\u00E8glement grand-ducal du 3 septembre 2016 fixant la liste nationale des vari\u00E9t\u00E9s des esp\u00E8ces de plantes agricoles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/consolide/20200706/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3cd8c08aa53caede3aae9d08331a2a9a96ebb9a338c1358ca457f9e68356b619",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/consolide/20200706/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/consolide/20200706/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3feb4c4238ae3d2509fb77ba10854319857296fc329b050bf94f6cd7f534392f"
+  "record_sha256": "8df7fc4a4e604dcfd51a3021c0f13445b1b790e1bf0b7fc0222a85951c8ab66b"
 }

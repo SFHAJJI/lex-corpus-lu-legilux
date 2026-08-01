@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 09/07/2022 : R\u00E8glement grand-ducal du 9 juin 2021 concernant la performance \u00E9nerg\u00E9tique des b\u00E2timents.",
       "title_short": "R\u00E8glement grand-ducal du 9 juin 2021 concernant la performance \u00E9nerg\u00E9tique des b\u00E2timents.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/09/a439/consolide/20220709/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4fa0961d4d98a2a767d6e091706a5deea391568b7f33a50a565c5435b61ac454",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/09/a439/consolide/20220709/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/09/a439/consolide/20220709/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c9d205dc65f6c34274c137b2e9afa9a25664f5ad885161a5aec19023012febcb"
+  "record_sha256": "bf78f77e4cf286cbbc38335e1919f14e98eba3b892ed0a55796b0648589e9115"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2022 : Arr\u00EAt\u00E9 grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du pr\u00E9sident de l\u2019Observatoire national de la sant\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a93e52d4940eb5e797c6596b9994b11c1e3e74ef2ab34665dd506ef52ff86bd7",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "009fb49e7a29d3058381e504aa3f00a09eb496df0a63d6161a5fc76e9e9d1b9f"
+  "record_sha256": "4f8a6c758a1d4929ef4c1aa87119e360e8adf4f01826f3f0d59d1ebc8d2134e5"
 }

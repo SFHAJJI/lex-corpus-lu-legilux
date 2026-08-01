@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/08/2025 : R\u00E8glement grand-ducal du 15 juin 2018 fixant les conditions et modalit\u00E9s d\u2019acc\u00E8s du fonctionnaire communal \u00E0 un groupe de traitement sup\u00E9rieur au sien et de l\u2019employ\u00E9 communal \u00E0 un groupe d\u2019indemnit\u00E9 sup\u00E9rieur au sien.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20250810/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "af0c708aee460738568b91a3a2cbb27d1801d8840e373efa0aba6a5ff808d4c0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20250810/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/15/a551/consolide/20250810/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8dffd8a81138173c411cd5c65f29e91b99d8cf2c61501c1c863fd307b1ee6d27"
+  "record_sha256": "59ece4947bdc187bc7ca0ff675f1777ef057c3093dd7b1875d60eb5e8945f969"
 }

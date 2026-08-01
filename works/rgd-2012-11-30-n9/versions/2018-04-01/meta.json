@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2018 : R\u00E8glement grand-ducal du 30 novembre 2012 relatif (a) \u00E0 l\u0027\u00E9tablissement d\u0027un plan de tir pour certaines esp\u00E8ces de grand gibier (b) aux modalit\u00E9s du marquage (c) \u00E0 l\u0027organisation et au mode de fonctionnement des commissions cyn\u00E9g\u00E9tiques r\u00E9gionales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n9/consolide/20180401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3fa1191c416e86ff0e6d42f98384b3c9488a47b63ebeafc42cb4b6af1a7766e8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n9/consolide/20180401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/11/30/n9/consolide/20180401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0082d74df9e64e14abb5ba62c16e080bd83cb3bf92f90ce05a02998c3170d7ad"
+  "record_sha256": "bdc9c2e442b1fec903f12237efa14977138d3015a1d272f2c6a328844ca19c5d"
 }

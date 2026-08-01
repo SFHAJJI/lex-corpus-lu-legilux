@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2018 : Loi du 11 novembre 1970 sur les cessions et saisies des r\u00E9mun\u00E9rations de travail ainsi que des pensions et rentes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/consolide/20181101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "14a00be74aae6f6b6ccff3b586349752939e8825c617f17d09dccb3306259538",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/consolide/20181101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1970/11/11/n1/consolide/20181101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2a8c4f1bea15f97e51bc15881ec03b558b4b56d485ce19869e6d6ecb75332b12"
+  "record_sha256": "3462bcf2e3143d43a5aa5059c4513c2545351f94d45b847f48beba8019b38288"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/06/2025 : R\u00E8glement grand-ducal du 15 octobre 2021 relatif \u00E0 la commercialisation des plants de l\u00E9gumes et des mat\u00E9riels de multiplication de l\u00E9gumes autres que les semences.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/15/a760/consolide/20250614/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9e3dcc0b48a5fe9769ae1d7fe70cf84c385bc331c05794d4d369401162a10cb3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/15/a760/consolide/20250614/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/15/a760/consolide/20250614/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8c952d08e37b8027854790f19e8b80b5c0df307da5563834a2f685710d941675"
+  "record_sha256": "50b3cc34d70814ab82d5e6e1cd5044a3f6270e49791e1d0f09715d7ee88c8272"
 }

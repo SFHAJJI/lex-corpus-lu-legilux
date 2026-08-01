@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : Loi du 16 d\u00E9cembre 2008 concernant l\u2019accueil et l\u2019int\u00E9gration des \u00E9trangers au Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1203b5e21b866661019d2c560407cc40d79bb2853b3276e38d9f1e1c9d8d02f8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/16/n5/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5b38045404fab0e2192ac28a393abed6aa1ec17b0d86d1a8c45ad530f634fd9d"
+  "record_sha256": "7786ab7a71a0921148d4cc15f11e516e1d6ff0f0c98d36d014b3a07517a4f1ce"
 }

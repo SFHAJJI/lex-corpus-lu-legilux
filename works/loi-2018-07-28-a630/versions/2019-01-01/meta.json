@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2019 : Loi du 28 juillet 2018 relative au revenu d\u0027inclusion sociale\\net portant modification\\n1\u00B0 du Code de la S\u00E9curit\u00E9 sociale ;\\n2\u00B0 du Code du travail ;\\n3\u00B0 de la loi modifi\u00E9e du 26 juillet 1980 concernant l\u0027avance et le recouvrement de pensions alimentaires par le Fonds national de solidarit\u00E9 ;\\n4\u00B0 de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat ;\\n5\u00B0 de la loi modifi\u00E9e du 12 septembre 2003 relative aux personnes handicap\u00E9es ;\\n6\u00B0 de la loi modifi\u00E9e du 30 avril 2004 autorisant le Fonds national de solidarit\u00E9 \u00E0 participer aux prix des prestations fournies dans le cadre de l\u0027accueil aux personnes admises dans un centre int\u00E9gr\u00E9 pour personnes \u00E2g\u00E9es, une maison de soins ou un autre \u00E9tablissement m\u00E9dico-social assurant un accueil de jour et de nuit ;\\n7\u00B0 de la loi modifi\u00E9e du 18 d\u00E9cembre 2009 organisant l\u0027aide sociale\\net portant abrogation de la loi modifi\u00E9e du 29 avril 1999 portant cr\u00E9ation d\u0027un droit \u00E0 un revenu minimum garanti.",
       "title_short": "Loi du 28 juillet 2018 relative au revenu d\u2019inclusion sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/consolide/20190101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "473f0b9575bfab262dcbbbf2697338ac164dd10d72bfc8d6d5381fa62d56e1d9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/consolide/20190101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a630/consolide/20190101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "58c65967e50db04312c41f632820c2f6e1d4b7e6bad3dc71699e6285ef91cfb6"
+  "record_sha256": "8d75f1b33b455f5a398095dab3ebc214f3eda9576c3a6e5452c31fd40e6b4c74"
 }

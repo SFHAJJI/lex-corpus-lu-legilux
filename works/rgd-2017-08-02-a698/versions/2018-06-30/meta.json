@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/06/2018 : R\u00E8glement grand-ducal du 2 ao\u00FBt 2017 d\u00E9terminant les d\u00E9tails des crit\u00E8res de classement ainsi que les modalit\u00E9s des proc\u00E9dures d\u2019affectation et de r\u00E9affectation des membres de la r\u00E9serve des auxiliaires \u00E9ducatifs de l\u2019enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2dec037c758e282a13954f5d3966dcc29ae6eb75fb235d63d5bc108d2887d6c4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a698/consolide/20180630/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb339a32afc6822f5b3d882ce6e724dd582a6a08ea6d8680c56eebef69bf5cfe"
+  "record_sha256": "83d0e30e7410c25f4452ffa61387d314c2b75b173d84f03fb793921803344f02"
 }

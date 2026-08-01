@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 03/06/2022 : Arr\u00EAt\u00E9 grand-ducal du 14 mars 2022 fixant les r\u00E8gles d\u00E9ontologiques des membres du Gouvernement.",
       "title_short": "Code de d\u00E9ontologie des membres du Gouvernement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2022/03/14/a133/consolide/20220603/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e7b6716aada2c7529b7f3e13f273eb95874575c27443288191bb16471cf918f5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2022/03/14/a133/consolide/20220603/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2022/03/14/a133/consolide/20220603/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8e03fa28f133117275bdd9bc69cf42587455f6e4e69b8aba69d95bc352bedbf5"
+  "record_sha256": "95a00afb45b478c5ccc8611a332a4f239dde0c4a7a1f68708201e702b7f0a091"
 }

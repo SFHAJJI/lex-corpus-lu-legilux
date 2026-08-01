@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/07/2022 : Loi du 5-15 septembre 1807 sur le privil\u00E8ge \u00E9tabli au profit du Tr\u00E9sor public pour le remboursement des frais de justice en mati\u00E8re criminelle, correctionnelle et de police.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1807/09/05/n2/consolide/20220705/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "996b165cd432473c6f90f5d26018552344c76963c9fd3de50e9116064f548b86",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1807/09/05/n2/consolide/20220705/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1807/09/05/n2/consolide/20220705/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8b2e244b70ff1974dd01c605700b8b8f8b14a6d4c1d6da8051601708062684e2"
+  "record_sha256": "19f27baf9048c2efff5e919c8e64fb17ce10130641237d72ed22bf430133b0c7"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/07/2021 : Banque centrale du Luxembourg - R\u00E8glement de la Banque centrale du Luxembourg 2020 / N\u00B0 30 du 12 juillet 2021 en mati\u00E8re de statistiques de paiement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rbcl/2021/07/12/a524/consolide/20210714/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cc42196eba801021043c2864ccbc57cf6396b9c1fbf869fbc853dc38c3711da6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rbcl/2021/07/12/a524/consolide/20210714/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rbcl/2021/07/12/a524/consolide/20210714/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "02efa9f0ae8aeac5aae61220da91faf94af4b402c7f1775166b8561e77b56694"
+  "record_sha256": "097c0084f37364fdf20d233eb28b14ea4a4a90c777bb0c03fbdd98308ce4bc0b"
 }

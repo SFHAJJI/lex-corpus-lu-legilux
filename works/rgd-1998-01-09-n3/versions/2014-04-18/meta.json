@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2013 : R\u00E8glement grand-ducal du 9 janvier 1998 concernant \n a) la composition et les attributions des commissions m\u00E9dico-psycho-p\u00E9dagogiques nationale et r\u00E9gionales ou locales\n b) la proc\u00E9dure d\u0027orientation scolaire des enfants affect\u00E9s d\u0027un handicap ainsi que les modalit\u00E9s de leur scolarisation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/01/09/n3/consolide/20140418/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c835a7fe1f8fc61862b0e9da52c6f6c0c4ca023031d2a31c1d9e6098837db034",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/01/09/n3/consolide/20140418/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/01/09/n3/consolide/20140418/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b977fd1d2176f46c339ba153c07d1a11a960e6aabbe081e8d643f22b9cc19790"
+  "record_sha256": "24820a13c790a365f35362bd8f05f01ee696a40d06d30654c1962808920e26fe"
 }

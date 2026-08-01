@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 12/06/2022 : R\u00E8glement grand-ducal du 9 novembre 2018 portant ex\u00E9cution de la loi modifi\u00E9e du 24 mai 2018 sur les conditions d\u0027hygi\u00E8ne et de salubrit\u00E9 relatives \u00E0 la pratique des techniques de tatouage par effraction cutan\u00E9e, du per\u00E7age, du branding, cutting, ainsi que du bronzage UV, et portant modification du r\u00E8glement grand-ducal du 1er d\u00E9cembre 2011 ayant pour objet : 1. d\u0027\u00E9tablir la liste et le champ d\u0027application des activit\u00E9s artisanales pr\u00E9vues \u00E0 l\u0027article 12 (1) de la loi du 2 septembre 2011 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales ; 2. de d\u00E9terminer les crit\u00E8res d\u0027\u00E9quivalence pr\u00E9vus \u00E0 l\u0027article 12 (3) de la loi du 2 septembre 2011 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales ; 3. d\u0027abroger le r\u00E8glement grand-ducal du 4 f\u00E9vrier 2005 d\u00E9terminant le champ d\u0027activit\u00E9 des m\u00E9tiers principaux et secondaires du secteur artisanal ; 4. d\u0027abroger le r\u00E8glement grand-ducal du 4 f\u00E9vrier 2005 ayant pour objet d\u0027\u00E9tablir une nouvelle liste des m\u00E9tiers principaux et secondaires, pr\u00E9vus \u00E0 l\u0027article 13 (1) de la loi modifi\u00E9e du 28 d\u00E9cembre 1988 ; 5. d\u0027abroger le r\u00E8glement grand-ducal modifi\u00E9 du 15 septembre 1989 fixant les crit\u00E8res d\u0027\u00E9quivalences pr\u00E9vues \u00E0 l\u0027article 13 de la loi modifi\u00E9e du 28 d\u00E9cembre 1988.",
       "title_short": "R\u00E8glement grand-ducal du 9 novembre 2018 portant ex\u00E9cution de la loi modifi\u00E9e du 24 mai 2018 sur les conditions d\u0027hygi\u00E8ne et de salubrit\u00E9 relatives \u00E0 la pratique des techniques de tatouage par effraction cutan\u00E9e, du per\u00E7age, du branding, cutting, ainsi que du bronzage UV.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/11/09/a1048/consolide/20220612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "282c77070ec886a85c231968745134d918c839089376cc66f92ff92059dc3177",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/11/09/a1048/consolide/20220612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/11/09/a1048/consolide/20220612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4eef7883eb7d01fccb5cca81ec21d22cff46d56778998697646b730df5c6efec"
+  "record_sha256": "4cbf51da50df3e4e01075d94dda9ffd6ac6f430d275cb57a314c0d0b622550c3"
 }

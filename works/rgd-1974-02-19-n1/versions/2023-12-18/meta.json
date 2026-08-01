@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/12/2023 : R\u00E8glement grand-ducal du 19 f\u00E9vrier 1974 portant ex\u00E9cution de la loi du 19 f\u00E9vrier 1973 sur la vente des substances m\u00E9dicamenteuses et la lutte contre la toxicomanie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1974/02/19/n1/consolide/20231218/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "05a74cbfba130701904ff36e382fb032dd48867e012b8d7815bb2c713fe9dd66",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1974/02/19/n1/consolide/20231218/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1974/02/19/n1/consolide/20231218/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4ef584dfd97aa33a3181cc6429a9190b8fc354696ce1cf975b8d63984c2553fe"
+  "record_sha256": "6bcb4be720d500a394c904cfba75de4d9d06f8f078e6cbd7d07e019a6fb1e43c"
 }

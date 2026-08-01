@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Cours et Tribunaux",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230307/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "658de24c0652071fe669f97bd8adaed5ccbdd066c7de061de50b6d2ab7dab628",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230307/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/cours_tribunaux/20230307/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "057833170fd23f93abfa58cb0c07c158b903336a5a2bf789fa44cef13383d15d"
+  "record_sha256": "87167b79c2ab197568e7b6445450b03d3ff40c7f7b5dadc6ac1097a6893a8ecf"
 }

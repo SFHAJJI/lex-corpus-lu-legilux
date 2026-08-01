@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2003 : R\u00E8glement grand-ducal du 29 avril 1983 fixant la composition et le fonctionnement de la commission d\u0027experts charg\u00E9e de donner son avis sur les demandes d\u0027autorisation de mise sur le march\u00E9 des sp\u00E9cialit\u00E9s pharmaceutiques et des m\u00E9dicaments pr\u00E9fabriqu\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2e2c9eecd5e5953af96c99320845206f75e835391041f22152e78b7a4bc37aeb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1983/04/29/n3/consolide/20030101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f626b590c5aba53e656e1196b15b2332f5990a5643b4d7ae1df23e29940a750d"
+  "record_sha256": "95cde63e1cd00b5fa9bf82a6bcf9ee577e84373028cdc77c08c6e1fd37962aaa"
 }

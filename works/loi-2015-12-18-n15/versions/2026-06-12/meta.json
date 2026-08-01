@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/06/2026 : Loi du 18 d\u00E9cembre 2015\\n1. relative \u00E0 la protection internationale et \u00E0 la protection temporaire;\\n2. modifiant\\n- la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat,\\n- la loi modifi\u00E9e du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration,\\n- la loi du 28 mai 2009 concernant le Centre de r\u00E9tention;\\n3. abrogeant la loi modifi\u00E9e du 5 mai 2006 relative au droit d\u2019asile et \u00E0 des formes compl\u00E9mentaires de protection...",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/20260612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e68b4a0287ec7e3060cbff45184b75f232b473e7e494d3c66c67c30043ec202f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/20260612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n15/consolide/20260612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d43a41ea816e0edba0ccea300a4244c3bd769ba1c3e2295e83d7b781964f5fb2"
+  "record_sha256": "11972d801974fc0b24f78cd1a577921f927468d12dfa552b340602b34b2499ee"
 }

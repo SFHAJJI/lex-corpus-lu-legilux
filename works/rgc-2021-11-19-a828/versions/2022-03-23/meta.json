@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2022 : R\u00E8glement du Gouvernement en Conseil du 19 novembre 2021 relatif \u00E0 l\u2019octroi d\u2019une allocation de vie ch\u00E8re au titre de l\u2019ann\u00E9e 2022.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b30404bbea2fbafe0770798e2ea285b9994f4a7dd7aaf05d51782d7be3f1e712",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/2021/11/19/a828/consolide/20220323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d5a94ccd0217b844f2d28460eae9b6d6b35c918611d6463f064e864d9c1d6b7f"
+  "record_sha256": "c76348c16fb87e1d60fd0d26055b7d7c880eb08dcf4eff3b276604526bdc4e7c"
 }

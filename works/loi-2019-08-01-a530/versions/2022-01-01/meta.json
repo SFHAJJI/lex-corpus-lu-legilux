@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : Loi du 1er ao\u00FBt 2019 concernant les mutuelles et modifiant la loi modifi\u00E9e du 19 d\u00E9cembre 2002 concernant le registre de commerce et des soci\u00E9t\u00E9s ainsi que la comptabilit\u00E9 et les comptes annuels des entreprises.",
       "title_short": "Loi du 1er ao\u00FBt 2019\u00A0concernant les mutuelles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a530/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "be3acbff0594bce248995e3d1515f145e15e04e4fec2e226e2cd43d167d35abc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a530/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/08/01/a530/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb1fb538c9593537e5340edd76e907cfdd5d040c0e0405615128c68b8a3ec1dd"
+  "record_sha256": "b5bfa1f6f7af45effc098f4e668b696f4bd57ac7dc4da921306f210c54046ff9"
 }

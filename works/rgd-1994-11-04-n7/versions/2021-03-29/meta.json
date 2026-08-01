@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/03/2021 : R\u00E8glement grand-ducal du 4 novembre 1994 concernant la protection des travailleurs contre les risques li\u00E9s \u00E0 l\u0027exposition \u00E0 des agents biologiques au travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n7/consolide/20210329/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "31013f502e75d3f3f120f3464d6b5070916f4bfb56f4002e1590f6be16724889",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n7/consolide/20210329/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n7/consolide/20210329/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0afdf1645b9a11729a8434c4590a793b5f79faec4ee7fe4b6d338c3a64d3e804"
+  "record_sha256": "07b3219b04da7d50fec160929c7cb53527ca56458f937170f3c400e64d607292"
 }

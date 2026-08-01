@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 1er juin 2021 sur les relations entre entreprises au sein de la cha\u00EEne d\u2019approvisionnement agricole et alimentaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/06/01/a403/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "57460299854f831b13a5317ef572bc7b66e6040db11eb74574b638bd81f5babb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/06/01/a403/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/06/01/a403/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a41a88648d616778afe93c834dc85a2ce7054513939feed050a7141ec5cd6fd0"
+  "record_sha256": "c7e940e96ef54c028e4ad0756bc3c29edcc39c2fbaef5077d950f7fcd99b2f1b"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 31/12/2011 : Loi du 22 juillet 2009 ayant pour objet A) la transposition en droit national de la directive 2004/49/CE du Parlement europ\u00E9en et du Conseil du 29 avril 2004 concernant la s\u00E9curit\u00E9 des chemins de fer communautaires; B) de cr\u00E9er un cadre r\u00E9glementaire dans le domaine de la s\u00E9curit\u00E9 ferroviaire; C) d\u0027instituer une Administration des Chemins de Fer; et D) de modifier a) la loi modifi\u00E9e du 11 juin 1999 relative \u00E0 l\u0027acc\u00E8s \u00E0 l\u0027infrastructure ferroviaire et \u00E0 son utilisation et b) la loi modifi\u00E9e du 29 juin 2004 sur les transports publics.",
       "title_short": "Loi du 22 juillet 2009 relative \u00E0 la s\u00E9curit\u00E9 ferroviaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20111231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "458c3defb5b2a6721cbea6d7b86516c7be296a34646db49ed9a8db4148dad4e2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20111231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/consolide/20111231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "47fcfe5d0660533701aa2339b4bf5c875942945b56d6e6a102d9109799ef6fd7"
+  "record_sha256": "6525479d60e36ead14b6cfafb1ce02e2e0cb032bcc415621bb7f9838d223c3c0"
 }

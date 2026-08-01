@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/06/2012 : R\u00E8glement grand-ducal du 27 f\u00E9vrier 2011 relatif \u00E0 la mise en place d\u2019un syst\u00E8me communautaire de suivi du trafic des navires et d\u2019information.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n2/consolide/20120615/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "453c70e084e505cf05667e872fcfdc01eb05ee395890a7aff771c26984ab573f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n2/consolide/20120615/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n2/consolide/20120615/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "08865d244a5d46a05b794ffe23a93b0b487960784c1d84a4a3a6b760c3863ec7"
+  "record_sha256": "57c63e4b3ce3149536909b724d7f9f76cfd834c7b8adfb7fa88ec69b6e7f8ac5"
 }

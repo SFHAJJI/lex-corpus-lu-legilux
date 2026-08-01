@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/1971 : R\u00E8glement grand-ducal du 18 d\u00E9cembre 1970 pris en ex\u00E9cution de l\u0027article 3 de la loi du 18 juin 1969 sur l\u0027enseignement sup\u00E9rieur et l\u0027homologation des titres et grades \u00E9trangers d\u0027enseignement sup\u00E9rieur, et concernant la composition des commissions d\u0027homologation, leurs attributions et la proc\u00E9dure \u00E0 suivre.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1970/12/18/n1/consolide/19711228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ad333d5d16b623a7841a1ce9137b956c88371482d4843baf5995dad7cf39492b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1970/12/18/n1/consolide/19711228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1970/12/18/n1/consolide/19711228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ff7c38a37010e5b2ce9aef3dc7a6a3595cb254e7cd6ff05da7e1953b9f9dd537"
+  "record_sha256": "604d5e43ad571b94b3c38e96d119ce558e1fdf48f233fb1e0537081cbe04aee1"
 }

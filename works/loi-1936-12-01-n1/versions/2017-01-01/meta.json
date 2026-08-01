@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2017 : Loi du 1er d\u00E9cembre 1936 sur l\u0027imp\u00F4t foncier (Grundsteuergesetz).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1936/12/01/n1/consolide/20170101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ac951eb54538e6ca7cd6ec0d75b5814cd17e8d6fb236661f79e05eb9bbe13ec4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1936/12/01/n1/consolide/20170101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1936/12/01/n1/consolide/20170101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8449f493fbfe5c2ad06db3985ce84a6a5cb0c3f7460b021d7241331102812524"
+  "record_sha256": "d0a674517aba9d8cf2865bc5b11263b25c4b7b4c5906b08e5d63f1a1acdbddfb"
 }

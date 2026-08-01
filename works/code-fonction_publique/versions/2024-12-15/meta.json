@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Code de la fonction publique",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20241215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b98e3e84b3c60364febf65e0801bd5d20107b6a8e55ede22232f5c4a042accd2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20241215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/fonction_publique/20241215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "865817817eca42c0b82ee251ab7d5006cc2b4e783fce99abd0da59b9fb31a955"
+  "record_sha256": "501476fff5fc6ed4377e8732c2b06a3c9c9ca5ad0c65a567deaceb304670d93f"
 }

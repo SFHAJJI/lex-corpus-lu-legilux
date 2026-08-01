@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/02/2021 : Convention collective des salari\u00E9s de l\u0027\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2016/12/21/n1/consolide/20210211/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "07dc429b3ecd31188aa6868dfa1fb49083fbebf420b457474d014a1c51c724ef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2016/12/21/n1/consolide/20210211/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/conv/2016/12/21/n1/consolide/20210211/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "559116a4d6e6a7b4d8504610ece014e67343dd58cb92ebedb50b40bcdd3a0cfb"
+  "record_sha256": "3c1f371314ebd8c7810556c8e4c5292400f1396bb43d2664b53be9427f0e897e"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/04/2018 : R\u00E8glement grand-ducal du 7 ao\u00FBt 2015 autorisant la cr\u00E9ation d\u0027un fichier et le traitement de donn\u00E9es \u00E0 caract\u00E8re personnel dans le cadre du syst\u00E8me de contr\u00F4le et de sanction automatis\u00E9s (RGD CNPD).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/07/n3/consolide/20180424/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "54110636061da197e46ba1c217172939e01f7004509039f53f2c4e3ae81d57c5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/07/n3/consolide/20180424/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/07/n3/consolide/20180424/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1cd9dece42ed05fbc956cbb2a90eec7e6e0bb1a4e221f3efe6885c3605b95916"
+  "record_sha256": "80f586de832631cb31e16428e3771e58a223fe70dfbc5ad76d9aa7be0c5517d2"
 }

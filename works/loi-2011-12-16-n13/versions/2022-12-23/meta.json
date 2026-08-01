@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/12/2022 : Loi du 16 d\u00E9cembre 2011 portant r\u00E9organisation de l\u0027\u00E9tablissement public nomm\u00E9 \u00ABSalle de concerts Grande-Duchesse Jos\u00E9phine-Charlotte\u00BB et de la Fondation Henri Pensis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n13/consolide/20221223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f8ba521482fee6b81851cff79399258360b19c848ab06dfa9e72d571012c38d3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n13/consolide/20221223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n13/consolide/20221223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9f51f997ec10ea2bfbaad8f33c1a07a6e8a7bdabb10e3032928d48ffe9570421"
+  "record_sha256": "4991aa313d756f9dadb6f20242f4d3763eb988dbd911e9e694402b2637f38a6f"
 }

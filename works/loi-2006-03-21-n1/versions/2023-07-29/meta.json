@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/07/2023 : Loi du 21 mars 2006 sur les \u00E9quipes communes d\u0027enqu\u00EAte.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/03/21/n1/consolide/20230729/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3266d55e76fd8d2d2d3f2a0c0d6e15eb0df70a123e6f4e8f3e36807f6c48308e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/03/21/n1/consolide/20230729/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/03/21/n1/consolide/20230729/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "77a2fbb4b07d48cf080a42805d781e5f35ce5a25d03821b005778dbbca775eee"
+  "record_sha256": "7128320960ddac1fc19ac577bd86217ab1472db133bb937c09055c6fae64fa00"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/08/2013 : Loi du 3 ao\u00FBt 2010 portant r\u00E9organisation de l\u2019Administration des Ponts et Chauss\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20130806/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9a994cd5ff515025013c5ffd19824a6196dd8d3dc482c6c57cc648b9221215db",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20130806/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/08/03/n8/consolide/20130806/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "398ff94be66d59a61898de5788d42278571ca5faa63484ec342e2957974335e3"
+  "record_sha256": "4b5168724095f775904964298c6513cc30e28d0c036c86542d6cd4172c1b8cb3"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/12/2024 : Loi du 7 ao\u00FBt 2023 sur les associations sans but lucratif et les fondations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20241213/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0764baf7f3b1976335816da1165ff8d674e59bbd485510f95f58b1f2b204dcc2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20241213/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20241213/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e546810c5e2e00a1f698e9cfa6e338c2a72db53e24405c3a7896764ff9733aaa"
+  "record_sha256": "9ed881d7fcd54a69b487aa57e215d57bc87f0c8ae4df73f1366d563c7dc19904"
 }

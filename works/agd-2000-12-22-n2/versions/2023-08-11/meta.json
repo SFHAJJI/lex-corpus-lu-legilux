@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/08/2023 : Arr\u00EAt\u00E9 grand-ducal du 22 d\u00E9cembre 2000 portant cr\u00E9ation d\u0027une M\u00E9daille de reconnaissance pour mission \u00E0 l\u0027\u00E9tranger.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/consolide/20230811/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0ee1a5497dd190ae138b4e89d08be2a93729a6962eaaca89ed136bc0db8938e4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/consolide/20230811/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n2/consolide/20230811/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e9c6e433206409af16c1e03673e9e9a333ff6af741e0dc037f787004730486b7"
+  "record_sha256": "e819b1dbd3eb3dc693dc47097dbbb80a06592d4945c97829bd1a0152164dfdae"
 }

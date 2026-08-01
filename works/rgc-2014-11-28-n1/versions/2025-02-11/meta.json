@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/02/2025 : R\u00E8glement du Gouvernement en Conseil du 28 novembre 2014 portant cr\u00E9ation d\u0027une Commission consultative nationale d\u0027\u00E9thique ind\u00E9pendante abrogeant le R\u00E8glement du Gouvernement en Conseil du 9 septembre 1988 portant cr\u00E9ation d\u0027une Commission consultative nationale d\u0027\u00E9thique pour les sciences de la vie et de la sant\u00E9, modifi\u00E9 le 4 octobre 2002.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2014/11/28/n1/consolide/20250211/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f947a63965e0474b6dde61910d3939c843214778a2c4fac940b3cfe05da67e53",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2014/11/28/n1/consolide/20250211/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/2014/11/28/n1/consolide/20250211/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4d359bdfb8748e54b4e2808d19da8dca18e0a346b05f20000e9655e3cf6033a1"
+  "record_sha256": "3f480c53578832550c30464634408c228b83c9b642f0248262a43d622161b8d5"
 }

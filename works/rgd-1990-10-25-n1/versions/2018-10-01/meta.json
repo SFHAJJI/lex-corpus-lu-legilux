@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2018 : R\u00E8glement grand-ducal du 25 octobre 1990 concernant la prestation d\u0027heures de travail suppl\u00E9mentaires par des fonctionnaires ainsi que leur astreinte \u00E0 domicile.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20181001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ce553e15fd403ae6dd03176922418a94580d3d17c40dca6d09d1dba3662666ff",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20181001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/10/25/n1/consolide/20181001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ae2bfc24f7e8c2941b1c6dd4e2cbd62b9ce26293b188f7b1355247fef6b44b81"
+  "record_sha256": "36800e77b2f6a844f8f15b896c32e97939572014e3074aa1526c04c81ddc3596"
 }

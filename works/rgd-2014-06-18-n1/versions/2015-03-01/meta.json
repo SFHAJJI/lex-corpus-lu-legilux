@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/03/2015 : R\u00E8glement grand-ducal du 18 juin 2014 relatif \u00E0 la carte d\u0027identit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/06/18/n1/consolide/20150301/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "094d0b157584a80389e2729b670ec21b463e8d296e48819f53ef62f076806dd7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/06/18/n1/consolide/20150301/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/06/18/n1/consolide/20150301/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c592e533c1d5d98843995e36bdf1a28490b1139ae2c4fd66b18f2270257ddf8a"
+  "record_sha256": "81b893ef8798accd5d4ce92a70893ba36e46dc6ec6fbc1db13618e9c98d96ae7"
 }

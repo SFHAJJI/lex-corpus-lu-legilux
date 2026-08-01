@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 03/02/2023 : R\u00E8glement grand-ducal du 1er f\u00E9vrier 2023 actualisant le r\u00E8glement grand-ducal modifi\u00E9 du 20 d\u00E9cembre 1999 concernant l\u2019\u00E9tablissement de l\u2019indice des prix \u00E0 la consommation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/01/a76/consolide/20230203/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9b22d568a22af13bc765359bf7e6c5de5c9fd364be5cef5653b77e59f711bbd3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/01/a76/consolide/20230203/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/01/a76/consolide/20230203/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ec46d703769dd3d15c637a1e00fca3c2e85ef1d5db2b7f7bd16593448a1c58c6"
+  "record_sha256": "429ce9eaf1ed563cbc1c779a36f902a30d421b1dce894c3154116914a8221044"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 16/05/1962 : R\u00E8glement grand-ducal du 20 avril 1962 r\u00E9glant, en mati\u00E8re d\u0027imp\u00F4t commercial, les ventilations et la participation des communes de r\u00E9sidences des salari\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1962/04/20/n1/consolide/19620516/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d9af593c449a30bd15fc67ac09095dd9e631bee8e8a732b55c7e1430143dd290",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1962/04/20/n1/consolide/19620516/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1962/04/20/n1/consolide/19620516/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "951349bdec8abf473701b71cc0ed48e81c889255f3d63b95921d3c3dc56abdf3"
+  "record_sha256": "9c7cba4a42b35f224201bb3cc92ff07232ed51a3c56b4d1caa994fbeb315aac6"
 }

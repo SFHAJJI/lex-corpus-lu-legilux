@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/08/2010 : Loi du 11 janvier 1995 portant r\u00E9organisation des \u00E9coles publiques et priv\u00E9es d\u0027infirmiers et d\u0027infirmi\u00E8res et r\u00E9glementant la collaboration entre le minist\u00E8re de l\u0027Education nationale et le minist\u00E8re de la Sant\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/11/n1/consolide/20100803/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "049d08ebd50dcab5a83f92355af8f1d55fba52157b89f90d7094c2f53e085fae",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/11/n1/consolide/20100803/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/11/n1/consolide/20100803/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "239ad95bdcc350c82309d08803cbb80d45fef81cacdccfa202a769999dd51b4d"
+  "record_sha256": "7e4f04a3c87f5007c9477a52cc51b6c816a246aad6715ce4ca5f678cd13ccb19"
 }

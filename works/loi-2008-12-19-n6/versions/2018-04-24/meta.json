@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/04/2018 : Loi du 19 d\u00E9cembre 2008 ayant pour objet la coop\u00E9ration interadministrative et judiciaire et le renforcement des moyens de l\u0027Administration des contributions directes, de l\u0027Administration de l\u0027enregistrement et des domaines et de l\u0027Administration des douanes et accises et portant modification de - la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e; - la loi g\u00E9n\u00E9rale des imp\u00F4ts (\u00ABAbgabenordnung\u00BB); - la loi modifi\u00E9e du 17 avril 1964 portant r\u00E9organisation de l\u0027Administration des contributions directes; - la loi modifi\u00E9e du 20 mars 1970 portant r\u00E9organisation de l\u0027Administration de l\u0027enregistrement et des domaines; - la loi modifi\u00E9e du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d\u0027assurance sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n6/consolide/20180424/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0993f7de98395ca91a219e26b1968573cceb22749e5da46a9e6b66136732da1d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n6/consolide/20180424/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n6/consolide/20180424/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9298b9a21e63fe813eccd2c79febec9279f92d1e780c7a8f47588a01f755a639"
+  "record_sha256": "09d20ee76ff28afbe1141b7253ef9c112470d16e438bd594275be3578336006a"
 }

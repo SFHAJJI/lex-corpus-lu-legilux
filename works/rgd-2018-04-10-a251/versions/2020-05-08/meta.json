@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/05/2020 : R\u00E8glement grand-ducal du 10 avril 2018 fixant les modalit\u00E9s d\u2019organisation et les mati\u00E8res des examens de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive ainsi que des examens de promotion des diff\u00E9rentes cat\u00E9gories de traitement aupr\u00E8s de la Direction de la sant\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/10/a251/consolide/20200508/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d603c2db60aeadc571a48529b1398fbaac22078a4c571c7af2f0fb4e29cbd2e0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/10/a251/consolide/20200508/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/10/a251/consolide/20200508/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f9f7fb8d204cceee293a23f50f70407950a33795fef4510db6ebd059c4a5a483"
+  "record_sha256": "afd14db794cbb5e27b231be1931fffe8e41b07b055f61ce6abad4f7704c24c8b"
 }

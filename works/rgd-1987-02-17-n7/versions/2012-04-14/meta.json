@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2011 : R\u00E8glement grand-ducal du 17 f\u00E9vrier 1987 sur l\u0027identification des b\u00E2timents de plaisance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/20120414/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3a4e83c7746497d94903fa418c22318951a140cd45453004c762bd8b3544d1bf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/20120414/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1987/02/17/n7/consolide/20120414/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "76b0306852a514dd62f171a7bf9c55f8b5fae14650fa258b756a9da30b5ac0ab"
+  "record_sha256": "9f19b6f6f61b0c85132c67d5cce5e9cbe643d0c6a806a03512eadff039b67fb0"
 }

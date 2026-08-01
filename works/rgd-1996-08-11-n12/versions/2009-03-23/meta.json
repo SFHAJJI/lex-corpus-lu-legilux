@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2009 : R\u00E8glement grand-ducal du 11 ao\u00FBt 1996 relatif aux dispositifs m\u00E9dicaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/08/11/n12/consolide/20090323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5751c39ef20b49ced1333ea45f93d48f15bfd9c65b121ae6fde37c05b191e22e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/08/11/n12/consolide/20090323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1996/08/11/n12/consolide/20090323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "56243b6ef5dd4644e936f34725ffd00192e36040c55342f0fc1b5fbd7bff68f7"
+  "record_sha256": "4adbb62b445f945142b6677007fe86b3ab8c0a6969ec287e02651923abe60856"
 }

@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 03/04/2026 : Loi du 16 juillet 2019 portant\\n1. mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 345/2013 du Parlement europ\u00E9en et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque europ\u00E9ens ;\\n2. mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 346/2013 du Parlement europ\u00E9en et du Conseil du 17 avril 2013 relatif aux fonds d\u2019entrepreneuriat social europ\u00E9ens ;\\n3. mise en \u0153uvre du r\u00E8glement (UE) 2015/760 du Parlement europ\u00E9en et du Conseil du 29 avril 2015 relatif aux fonds europ\u00E9ens d\u2019investissement \u00E0 long terme ; \\n4. mise en \u0153uvre du r\u00E8glement (UE) 2017/1131 du Parlement europ\u00E9en et du Conseil du 14 juin 2017 sur les fonds mon\u00E9taires ;\\n5. mise en \u0153uvre du r\u00E8glement (UE) 2017/2402 du Parlement europ\u00E9en et du Conseil du 12 d\u00E9cembre 2017 cr\u00E9ant un cadre g\u00E9n\u00E9ral pour la titrisation ainsi qu\u2019un cadre sp\u00E9cifique pour les titrisations simples, transparentes et standardis\u00E9es, et modifiant les directives 2009/65/CE, 2009/138/CE et 2011/61/UE et les r\u00E8glements (CE) n\u00B0 1060/2009 et (UE) n\u00B0 648/2012 ; \\n6. modification de la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier ;\\n7. modification de la loi du 23 juillet 2016 relative aux fonds d\u2019investissement alternatifs r\u00E9serv\u00E9s.",
       "title_short": "Loi du 16 juillet 2019 portant mise en \u0153uvre des r\u00E8glements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20260403/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a7af156b3c4ae4c58e7a458d9400cefc32eedf99d3053fbb3b2be17522e695e6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20260403/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/consolide/20260403/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9a6ecbe52e6317bf5ba1ae231b7f2b82a5d2e38e78a9a15a22dc644851df51e5"
+  "record_sha256": "8236a9b17a1ffe9b88cae49631216be7af7bd61730f9ac611f205bc0a8bec991"
 }

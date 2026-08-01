@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2014 : Loi du 27 mai 2010\\n - portant transposition de la directive 2006/42/CE du Parlement europ\u00E9en et du Conseil du 17 mai 2006 relative aux machines et modifiant la directive 95/16/CE (refonte);\\n - concernant la mise \u00E0 disposition de machines;\\n - concernant les machines d\u0027occasion.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/05/27/n2/consolide/20140801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b36570c2efd38b03b2c653d047442d3745b0704c1366034e98d23d39c500dbb1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/05/27/n2/consolide/20140801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/05/27/n2/consolide/20140801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "21031fedad65ec7daa568e7a24694a8da9bfca1d18d84219f07aee237551a3b8"
+  "record_sha256": "e0bc515f7fa4e06cadb426622b17b90b8af14e8b1bd18d5d47efb39b97d0c202"
 }

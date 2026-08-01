@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/10/2022 : R\u00E8glement grand-ducal du 23 mai 2022 concernant la r\u00E9glementation de la circulation sur la grande voirie et les aires de service.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/consolide/20221023/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5144a9363d6d4bb52b7d61e1559c14697bfe8a84470547583b338aafa399a989",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/consolide/20221023/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/05/23/a281/consolide/20221023/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "da6aec8edf364d26e85e87e54289169367f16e1ce879d6bc254ee335a26c394a"
+  "record_sha256": "3730d3e35d7452c93d35e9c2a9795016f9aae7e2c2655a50b2b41495d18cbb5e"
 }

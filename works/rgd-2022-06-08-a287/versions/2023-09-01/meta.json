@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2023 : R\u00E8glement grand-ducal du 8 juin 2022\\n1\u00B0 modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 5 mai 2011 fixant les mesures d\u2019ex\u00E9cution relatives aux aides individuelles au logement promouvant l\u2019acc\u00E8s \u00E0 la propri\u00E9t\u00E9 et pr\u00E9vues par la loi modifi\u00E9e du 25 f\u00E9vrier 1979 concernant l\u2019aide au logement ; et\\n2\u00B0 abrogeant le r\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 fixant les mesures d\u2019ex\u00E9cution de la loi du 23 d\u00E9cembre 2016 relative \u00E0 un r\u00E9gime d\u2019aides \u00E0 des pr\u00EAts climatiques.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/08/a287/consolide/20230901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c62403426cb40d6d6957c3d93d4ce3ecc820e4ef514c31d12fde45c384e53cbf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/08/a287/consolide/20230901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/08/a287/consolide/20230901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3f145aa49e65ecef5b8c5c1eb596d3eb55a2bec1e0ab716ba957861d1b4b0031"
+  "record_sha256": "ad6cef06b29354b4e9b336f089fa146a90a144c5b1a74cdce88a107cb22e901c"
 }

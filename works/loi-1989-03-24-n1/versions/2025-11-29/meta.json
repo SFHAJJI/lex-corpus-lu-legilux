@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/11/2025 : Loi du 24 mars 1989 sur la Banque et Caisse d\u0027Epargne de l\u00B4Etat, Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20251129/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6e4ef4fa863415cf5ab939e54469bef17fef10aa0869766d69adbe21763e8d47",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20251129/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1989/03/24/n1/consolide/20251129/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6856b14b744364b0aca8759f07b121ae9ef7c513cd0980de0ec0c538cf58d2e0"
+  "record_sha256": "7fd427a5efaf21efc92b7361d5a79a13baaaa290402f2754031eb8389cefc731"
 }

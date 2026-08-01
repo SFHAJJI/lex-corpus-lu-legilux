@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/12/1982 : Loi du 17 novembre 1958 concernant l\u0027autopsie,le moulage, ainsi que l\u0027utilisation de cadavres humains dans un int\u00E9r\u00EAt scientifique ou th\u00E9rapeutique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1958/11/17/n1/consolide/19821207/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bbf79b45be2f083f89f1cdaf52ce8ca930470521c5b51a90b40078be5ba80174",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1958/11/17/n1/consolide/19821207/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1958/11/17/n1/consolide/19821207/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4700ddc2d0905aa0ae97b47e3c9528b032d3925acd9b9605a5177d0255f124e2"
+  "record_sha256": "ef47f420bcc0134b147ac9f7f578f4ca4424ba2b10f5f47eb04ff79b748060c9"
 }

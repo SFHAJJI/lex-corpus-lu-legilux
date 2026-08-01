@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/09/2023 : R\u00E8glement grand-ducal du 29 ao\u00FBt 2003 relatif aux avertissements tax\u00E9s et aux consignations en mati\u00E8re de navigation int\u00E9rieure.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/08/29/n1/consolide/20230923/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5dd4f1ae619d1e1bcc82fad393ac910acf60ca274030cc09010138b043f086a5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/08/29/n1/consolide/20230923/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2003/08/29/n1/consolide/20230923/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a4c2e1a4afe94d1317e3f89616934fd49d70396d295e77bdec3ad2a1d6b150fd"
+  "record_sha256": "63c9504891959f7e89f6588ec8388ccfae3b3b96ba3b0eb8feda4ca59f85768d"
 }

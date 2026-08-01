@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Statut des personnes de nationalit\u00E9 \u00E9trang\u00E8re",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20250420/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4a2c4f0895c75de53f3a7952684f91d9223e08df9131fa095bac526ae937a66c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20250420/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/etrangers/20250420/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "127d80bcb9865e1335ecdba60155ad7eae859d88b9290753112e5fe0af5ad124"
+  "record_sha256": "35a4099fc299ea19144289a5d1c6bfd135f7bda2150320d8b0a826d9a955cae2"
 }

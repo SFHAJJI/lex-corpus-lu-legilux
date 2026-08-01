@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : Loi du 8 juin 1999\\n a) sur le Budget, la Comptabilit\u00E9 et la Tr\u00E9sorerie de l\u0027Etat;\\n b) portant modification de la loi du 10 mars 1969 portant institution d\u0027une inspection g\u00E9n\u00E9rale des finances;\\n c) portant modification de la loi modifi\u00E9e du 16 ao\u00FBt 1966 portant organisation des cadres de la tr\u00E9sorerie de l\u0027Etat, de la caisse g\u00E9n\u00E9rale de l\u0027Etat et du service du contr\u00F4le de la comptabilit\u00E9 des communes et de certains \u00E9tablissements publics.",
       "title_short": "Loi du 8 juin 1999 sur le Budget, la Comptabilit\u00E9 et la Tr\u00E9sorerie de l\u0027\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6f31f03279b701278ba8c9cfd21c4cb1ef75a3a9ba3f1adb1258694bdb928236",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n2/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5d72c4ed28d88bac2ee5b423c9ec7540211fae89dcb7b5d9a431b05336027673"
+  "record_sha256": "9644de90a5e857a872a78ebfe786eba82e72acaef1e181b1058f9d0f605a0793"
 }

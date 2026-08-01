@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/06/2006 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b9d84988e20f0d13e0c17f6f6f98704ddf9e49db94b713b34f7b299f1ff51647",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20060618/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a5416c5d8f0ce1ebf95f0e23361b75527c4959d486cb9ce3e29bc17817a8a563"
+  "record_sha256": "52cca48ec71b24a79b57eb014192f4ece810dbe32d7983b97a49a9b9606da57b"
 }

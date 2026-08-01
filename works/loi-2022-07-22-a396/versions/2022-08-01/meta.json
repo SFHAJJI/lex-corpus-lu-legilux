@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2022 : Loi du 22 juillet 2022 relative \u00E0 une subvention de loyer.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/22/a396/consolide/20220801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8ce84770876fc729620927992fd16f91b57c281d99e866a2f6f7078d8cd227d4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/22/a396/consolide/20220801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/22/a396/consolide/20220801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "01eb8a9c30ff6416630a88f17b66326f698733b2c94e9d9aea4267db6ea36771"
+  "record_sha256": "962e33578329695ceb269ca62144a9797530bb38b63194f3b47c5ea6e7ae521a"
 }

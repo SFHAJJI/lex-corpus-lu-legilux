@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/09/2012 : R\u00E8glement grand-ducal du 4 f\u00E9vrier 1993 fixant les modalit\u00E9s de fonctionnement de l\u0027\u00E9tablissement public pour le d\u00E9veloppement de la formation professionnelle continue.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20120909/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "db689bce3b7b886e03386360f6379f4296ddb3e3c0b2d719438e56c46d370fd8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20120909/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/04/n4/consolide/20120909/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "394c8830a01c6ea1f06f0809fb767cc27dfe780e503bafd129661baabb4cc38a"
+  "record_sha256": "0a9adc7957df21bb5f72ad032efeff7421cd4f138635712c87ab7c67bcf3d93f"
 }

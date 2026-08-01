@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 08/09/2020 : R\u00E8glement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l\u2019\u00C9tat et des \u00E9tablissements publics de l\u2019\u00C9tat ainsi que du cycle de formation de d\u00E9but de carri\u00E8re des employ\u00E9s de l\u2019\u00C9tat, et portant modification\\n1\u00B0 du r\u00E8glement grand-ducal modifi\u00E9 du 13 avril 1984 d\u00E9terminant la proc\u00E9dure des commissions d\u0027examen du concours d\u0027admission au stage, de l\u0027examen de fin de stage et de l\u0027examen de promotion dans les administrations et services de l\u0027\u00C9tat ; et\\n2\u00B0 du r\u00E8glement grand-ducal modifi\u00E9 du 27 octobre 2000 d\u00E9terminant \u00E0 l\u2019Institut national d\u2019administration publique 1. l\u2019organisation de la commission de coordination, 2. la collaboration avec les administrations et \u00E9tablissements publics de l\u2019\u00C9tat et 3. la collaboration avec le Minist\u00E8re de l\u2019Int\u00E9rieur et les administrations et \u00E9tablissements publics des communes.",
       "title_short": "R\u00E8glement grand-ducal du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l\u2019\u00C9tat et des \u00E9tablissements publics de l\u2019\u00C9tat ainsi que du cycle de formation de d\u00E9but de carri\u00E8re des employ\u00E9s de l\u2019\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/31/a1199/consolide/20200908/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7743d9f31f62a6b1cf496abb25aaffa08714111abe693009f268fedf428dd558",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/31/a1199/consolide/20200908/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/31/a1199/consolide/20200908/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "de650b2eb566c86a4430cf3e6345f1d07a09e38ecbd131772e4b4da0af0c3092"
+  "record_sha256": "3c3be808e29d56cb37c2f701c82cf2fb8df09f83ed538b59c5150e5bb3d00022"
 }

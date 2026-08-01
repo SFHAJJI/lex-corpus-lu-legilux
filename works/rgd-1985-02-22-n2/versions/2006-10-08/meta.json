@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/10/2006 : R\u00E8glement grand-ducal du 22 f\u00E9vrier 1985 concernant les objets c\u00E9ramiques destin\u00E9s \u00E0 entrer en contact avec les denr\u00E9es alimentaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1985/02/22/n2/consolide/20061008/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fa67849df305174879cd90c7a702fc73f08f9617e834e8152767c38e33af5b21",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1985/02/22/n2/consolide/20061008/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1985/02/22/n2/consolide/20061008/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "53cc650f1a86144d33380b1afb3ee497609e84824ac02b6f21047486df847d7e"
+  "record_sha256": "d617129c424a550183bae6f330ed1307c2c3af876ae757fb1b50507e33cb37e7"
 }

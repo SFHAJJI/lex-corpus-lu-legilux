@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2013 : R\u00E8glement grand-ducal du 1er juillet 2009 fixant les conditions et modalit\u00E9s selon lesquelles les fonctionnaires de la carri\u00E8re sup\u00E9rieure de l\u0027enseignement peuvent acc\u00E9der aux grades de substitution pr\u00E9vus \u00E0 l\u0027article 22, section VII, de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/01/n1/consolide/20140418/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "83fe9ba2fdb0cd2a6179657e5b9dd79128aab5829dd93b9c366e3a6f1f5486bf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/01/n1/consolide/20140418/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/01/n1/consolide/20140418/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "33b33f499fd464e08a8699d3570976d6a745fa3df773995d7f34c4dfad604aa0"
+  "record_sha256": "1eabcddfd42676c3c924aad6503a5d7fa758abeb410c31a82b3018c831669eda"
 }

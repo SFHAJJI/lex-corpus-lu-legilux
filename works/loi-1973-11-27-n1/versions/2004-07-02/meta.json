@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/07/2004 : Loi du 27 novembre 1973 autorisant la cr\u00E9ation d\u0027une soci\u00E9t\u00E9 anonyme pour l\u0027approvisionnement du Grand-Duch\u00E9 en gaz naturel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/11/27/n1/consolide/20040702/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e4e00656ce10458ef5c370e9f1c3c7967c5a53927f251a435e6aa5b4cf885c76",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/11/27/n1/consolide/20040702/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/11/27/n1/consolide/20040702/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3dbddc1402fb5ce13086f68b1ec36de066098b178b315a42c62b2cf24ad12782"
+  "record_sha256": "33482e4d101f39b8ae115e5fde1ec4f9b9b56d7be5095a6fbba24ed0b6d7f793"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 30/03/2020 : Loi du 13 janvier 2019 instituant un Registre des b\u00E9n\u00E9ficiaires effectifs et portant\\n1\u00B0 transposition des dispositions de l\u2019article 30 de la directive (UE) 2015/849 du Parlement europ\u00E9en et du Conseil du 20 mai 2015 relative \u00E0 la pr\u00E9vention de l\u2019utilisation du syst\u00E8me financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le r\u00E8glement (UE) n\u00B0 648/2012 du Parlement europ\u00E9en et du Conseil et abrogeant la directive 2005/60/CE du Parlement europ\u00E9en et du Conseil et la directive 2006/70/CE de la Commission ;\\n2\u00B0 modification de la loi modifi\u00E9e du 19 d\u00E9cembre 2002 concernant le registre de commerce et des soci\u00E9t\u00E9s ainsi que la comptabilit\u00E9 et les comptes annuels des entreprises.",
       "title_short": "Loi du 13 janvier 2019 instituant un Registre des b\u00E9n\u00E9ficiaires effectifs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/consolide/20200330/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0f63fb6af6578a9f27ce566037aa1f1fba187b51c137c54953259e911cd7fbfb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/consolide/20200330/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/01/13/a15/consolide/20200330/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0d9b22bef7819ca375930c00f6e3b240ea9438d8cc3039f9868616a38344e95b"
+  "record_sha256": "4b1ebed07d237f852adccaf2152a9fe93491588fb46135649aaa211d2b57b8b5"
 }

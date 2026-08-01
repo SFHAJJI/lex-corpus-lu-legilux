@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2017 : Loi du 30 juin 1976 portant 1. cr\u00E9ation d\u2019un fonds pour l\u2019emploi; 2. r\u00E9glementation de l\u2019octroi des indemnit\u00E9s de ch\u00F4mage complet.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/20170101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "22ef9148545e5237c9669724bfe7f67c40ad5789ebcfbfdfed3a2937a68d23bc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/20170101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/20170101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4a1b7442e3852f7aed34a352457ad68ae5788aba2cf24a53e07799f566ae6b06"
+  "record_sha256": "392c0bb50fade2c552110388d3120180d92a0094f5f31c88152de2daff2c17fc"
 }

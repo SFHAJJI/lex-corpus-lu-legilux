@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/12/2023 : Arr\u00EAt\u00E9 grand-ducal du 17 novembre 2023 portant attribution des comp\u00E9tences minist\u00E9rielles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/20231218/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "86bce3b232e900117db7c8682312025305e48ed72d04331b653db456a106d79c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/20231218/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2023/11/17/a743/consolide/20231218/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4c3a77991039294a791272c5ddb7c276ce97426b17552eb7f68ec9551daf4f6d"
+  "record_sha256": "ec2dec1a2978a40386b2c1d216fe6f3ada723cb27bfe68a69cb43531362bc676"
 }

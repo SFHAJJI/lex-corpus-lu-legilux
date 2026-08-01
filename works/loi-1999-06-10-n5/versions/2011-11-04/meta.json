@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2010 : Loi du 10 juin 1999 relative aux \u00E9tablissements class\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20111104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "daef4f994196e985be112ccec32a3a5ac493e76ca7a3633b49ee99a26a4596bb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20111104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/10/n5/consolide/20111104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "35cf1f709c147a0ed11a0d6f7bc26fda833d07f0c9c4586018d64e561a7769e9"
+  "record_sha256": "54a7cee0a588a8d6f6d0a49547aef9af46f88bc94799c47ecc19240934687e00"
 }

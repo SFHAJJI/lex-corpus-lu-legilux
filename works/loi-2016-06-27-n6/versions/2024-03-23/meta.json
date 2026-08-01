@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2024 : Loi du 27 juin 2016 concernant la mise \u00E0 disposition sur le march\u00E9 d\u2019\u00E9quipements radio\u00E9lectriques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n6/consolide/20240323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ce918f4f9cd852eadfe0cdfb2513f30fa4f5f7d4cc1b47f4898f8d830363d351",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n6/consolide/20240323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n6/consolide/20240323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c302d5b149503d21c258ed93988b0f5a98221059303eb90cf0969a81dd0e3d05"
+  "record_sha256": "7417c658641b6516cb2734a594b9fa188c3aeb7a36749b4726348aa0d103f9f0"
 }

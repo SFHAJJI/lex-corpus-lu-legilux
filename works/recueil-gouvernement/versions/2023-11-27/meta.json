@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Gouvernement",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231127/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "502771eda671913ee2b8e05a51eb6ba60854bd70944d0083ce5fdeda258667ee",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231127/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/gouvernement/20231127/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4e64602aa586da9b0e42aece80e70669ff1cbc641d0c99a65ada9ea9a6dbae9c"
+  "record_sha256": "acc6c8aa4e36f7501579c9c836bcd6e8baba7cf2def32dae16cc550076ae57cc"
 }

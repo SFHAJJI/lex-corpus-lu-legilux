@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : R\u00E8glement grand-ducal du 26 mars 2014 portant ex\u00E9cution de l\u0027article 145 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu (d\u00E9compte annuel).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ffd7f846184e2489a8cd95685049984cc7cb87f5a8bd0a747a20fa6d4e77c357",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/26/n3/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "546a717aa2dc3ed653a566768bda4873bd8f9cc3c3ebde71625d001039072b67"
+  "record_sha256": "77b0be9c2f684b1ff4b5d99db5f62df5a97de2a1207d8ae16b8807a59a6abc66"
 }

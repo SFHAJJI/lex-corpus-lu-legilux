@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2020 : R\u00E8glement gand-ducal du 20 juin 1963 rendant obligatoire la d\u00E9claration des causes de d\u00E9c\u00E8s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1963/06/20/n1/consolide/20200601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4438deaf950e125b53dd80939f91709f242d22c95a237fbfe0e99698ff4e6a23",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1963/06/20/n1/consolide/20200601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1963/06/20/n1/consolide/20200601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bfe9273cb0821a85fe9b9309e4de208ed46a5317050694f0d18d0ad1cfadde53"
+  "record_sha256": "ed1c75f606ee7a74e42b5e47efa2eb3e66e4dfe4d180a5c1e6fc68e40f67ab96"
 }

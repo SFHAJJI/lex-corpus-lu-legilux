@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/05/1991 : Loi du 25 mars 1991 sur les groupements d\u0027int\u00E9r\u00EAt \u00E9conomique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/19910527/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5c3fc1a6392a1102536b99e3c99fc8b5102d1e694ef680a89381a47cc6afaa82",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/19910527/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/03/25/n1/consolide/19910527/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a2507b462b53545bf523ee5519939acc92937f89a841e2324f9c028b0b91e180"
+  "record_sha256": "936951b47d395c90b4a3297e742f510f54291af4c7a406b5e72f3bfb9065e98f"
 }

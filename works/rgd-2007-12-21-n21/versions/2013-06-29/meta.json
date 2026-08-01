@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/06/2013 : R\u00E8glement grand-ducal du 21 d\u00E9cembre 2007 fixant une liste de pays d\u0027origine s\u00FBrs au sens de la loi modifi\u00E9e du 5 mai 2006 relative au droit d\u0027asile et \u00E0 des formes compl\u00E9mentaires de protection.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/consolide/20130629/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f314d6bce6540467d35775fafb0c35a4711814f44c8dc33e0c14310399d8b538",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/consolide/20130629/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/12/21/n21/consolide/20130629/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "204067192cfe965c28fbae34c4da983ec13d3ce55b28af19d02d2717263c5302"
+  "record_sha256": "fd78a137f6524a56f607af49b33e0d82c9613ea76ec3c05c7a7675f88f202c0c"
 }

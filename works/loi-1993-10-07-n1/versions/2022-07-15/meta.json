@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/07/2022 : Loi du 7 octobre 1993 ayant pour objet \\na) la cr\u00E9ation d\u2019un Service de Coordination de la Recherche et de l\u2019Innovation p\u00E9dagogiques et technologiques; \\nb) la cr\u00E9ation d\u2019un Centre de Technologie de l\u2019Education ;\\nc) l\u2019institution d\u2019une Commission d\u2019Innovation et de Recherche en Education.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/10/07/n1/consolide/20220715/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0cbe50a510ae7c10b5c3699cdf622a8d3060da7feabf2cf5462385a29278ba46",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/10/07/n1/consolide/20220715/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/10/07/n1/consolide/20220715/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "615a8ab1da5a4fbd70615abf09d37143312165c771306e1e388ce161ba7cf7a2"
+  "record_sha256": "6635d445d3daca4615bc8f0387dda87cccafc26e732b60ed5c596b04276adea5"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/04/2018 : Loi du 15 mars 1979 sur l\u0027expropriation pour cause d\u0027utilit\u00E9 publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n3/consolide/20180424/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9878c40f6480e02ceb9eee0c70f0ab3b902e03a26282f9a08bc9afd30e5ce656",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n3/consolide/20180424/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/15/n3/consolide/20180424/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "85a602814348d5867381c60ca8b65250aa4e88cd367165ed46dea082375619f5"
+  "record_sha256": "d12b1825a07199c1bb766e733b674e7e22d4b078e5230c56abc0d615a61c2107"
 }

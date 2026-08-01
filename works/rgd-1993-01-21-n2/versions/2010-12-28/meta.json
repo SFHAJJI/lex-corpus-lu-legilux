@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/2010 : R\u00E8glement grand-ducal du 21 janvier 1993 fixant les modalit\u00E9s selon lesquelles le Gouvernement accorde les concessions pour les services luxembourgeois par satellite, ainsi que les r\u00E8gles g\u00E9n\u00E9rales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/consolide/20101228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "eb67dd5660d561d448b1ab7dfa0a678c6009c919e821a3b11a4f9a02234516a0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/consolide/20101228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n2/consolide/20101228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e85fbff524b9de5ad425930168b58d3b0642c3646c0f5c195879452ffc9de0d9"
+  "record_sha256": "a8c088221ace9c1f35644cb4b291536044465c031035a5e03ac288e459d318be"
 }

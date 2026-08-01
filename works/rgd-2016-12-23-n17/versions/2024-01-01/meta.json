@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 portant ex\u00E9cution de l\u0027article 154quinquies de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0d73951d28705d7ffe3b8148b8e7f24d900ad11a6fabd10597160d2d4f17781a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n17/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c365fd81ab4dbcaf10b61cf2a438b4f085d7ef08f77645479aa27d7d735e2905"
+  "record_sha256": "9b81a42853b68d89c7f99e7e58dd614913cadd22cbb458a30336bc3ab64e8b1c"
 }

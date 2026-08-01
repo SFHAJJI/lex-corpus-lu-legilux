@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/03/2010 : R\u00E8glement grand-ducal du 6 avril 1999 portant d\u00E9claration du Parc Naturel de la Haute-S\u00FBre.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/04/06/n7/consolide/20100319/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "afa587e481da56515c663cdfa91bb667d598dc710d8000005d2b7ad7688f7091",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/04/06/n7/consolide/20100319/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/04/06/n7/consolide/20100319/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7849fea6c98fdb3c5f13db529430129a04ec2c8dc5125e9d7d6ffa0aae9dae49"
+  "record_sha256": "c086b5b648287c69d640b3affb0875e297a8412fdaa9445996c744678473dc74"
 }

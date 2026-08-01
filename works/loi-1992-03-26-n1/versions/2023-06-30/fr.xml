@@ -1,0 +1,1783 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2011-05-06" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MS"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2011-05-06" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2011-05-06" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo</scl:jolux><scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux><scl:jolux scl:name="dateDocument">1992-03-26</scl:jolux><scl:jolux scl:name="historicalLegalId">2011A1286A</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MS</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/204</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/906</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux><scl:jolux scl:name="dateEntryInForce">2011-05-10</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/83</scl:jolux><scl:jolux scl:name="publicationDate">2011-05-06</scl:jolux><scl:jolux scl:name="consolidates">http://data.legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/jo</scl:jolux><scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/jo</scl:jolux><scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1901/07/06/n1/jo</scl:jolux><scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1967/11/18/n1/jo</scl:jolux><scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1879/06/18/n1/jo</scl:jolux><scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1808/11/17/n1/jo</scl:jolux><scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2005/36/jo</scl:jolux><scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2009/06/19/n2/jo</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version consolidée applicable au 30/06/2023 : Loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé, Texte coordonné.</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/83/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2011-05-06-n1-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="memorialPage">1286</scl:jolux>
+<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/83/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2011-83-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="memorialPage">1286</scl:jolux>
+<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="1992-04-20" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2010-08-03" id="e9" originatingExpression="true" source="#rp9" type="amendment"/>
+<eventRef date="2010-08-03" id="e8" originatingExpression="true" source="#rp8" type="amendment"/>
+<eventRef date="2010-08-03" id="e7" originatingExpression="true" source="#rp7" type="amendment"/>
+<eventRef date="2023-06-30" id="e6" originatingExpression="true" source="#rp6" type="amendment"/>
+<eventRef date="2023-06-30" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+<eventRef date="2023-06-30" id="e4" originatingExpression="true" source="#rp4" type="amendment"/>
+<eventRef date="2023-06-30" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+<eventRef date="2023-06-30" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2023/06/29/a334/jo"/>
+<destination/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/tc/2011/05/06/n1/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/loi/2023/06/29/a334/jo" id="rp2" showAs="Loi du 29 juin 2023 portant modification de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé."/>
+<passiveRef href="/eli/etat/leg/loi/2018/08/21/a777/jo" id="rp3" showAs="Loi du 21 août 2018 portant modification : 1° de la loi modifiée du 18 décembre 1987 organisant le centre thermal et de santé de Mondorf-les-Bains ; 2° de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé ; 3° de la loi modifiée du 11 août 2006 relative à la lutte antitabac ; 4° de la loi modifiée du 14 juillet 2015 portant création de la profession de psychothérapeute."/>
+<passiveRef href="/eli/etat/leg/loi/2016/10/28/n2/jo" id="rp4" showAs="Loi du 28 octobre 2016  1. relative à la reconnaissance des qualifications professionnelles;  2. portant création d’un registre des titres professionnels et d’un registre des titres de formation;  3. modifiant  a) la loi modifiée du 29 avril 1983 concernant l’exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire,  b) la loi modifiée du 31 juillet 1991 déterminant les conditions d’autorisation d’exercer la profession de pharmacien,  c) la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé,  d) la loi modifiée du 11 janvier 1995 portant réorganisation des écoles publiques et privées d’infirmiers et d’infirmières et réglementant la collaboration entre le ministère de l’Education nationale et le ministère de la Santé,  e) la loi du 2 septembre 2011 réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales,  f) la loi du 14 juillet 2015 portant création de la profession de psychothérapeute."/>
+<passiveRef href="/eli/etat/leg/loi/2014/12/19/n13/jo" id="rp5" showAs="Loi du 19 décembre 2014 relative à la mise en oeuvre du paquet d'avenir - première partie (2015) 1) portant création du Fonds souverain intergénérationnel du Luxembourg 2) modifiant - le Code de la sécurité sociale, - le Code du travail, - la loi générale des impôts modifiée du 22 mai 1931 («Abgabenordnung»), - la loi modifiée du 26 mai 1954 réglant les pensions des fonctionnaires de l'Etat, - la loi modifiée du 30 juillet 1960 concernant la création d'un Fonds national de solidarité, - la loi modifiée du 17 juin 1963 ayant pour objet de protéger les titres d'enseignement supérieur, - la loi modifiée du 22 juin 1963 fixant le régime des traitements des fonctionnaires de l'Etat, - la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu, - la loi du 10 mai 1968 portant réforme de l'enseignement (Titre VI: De l'enseignement secondaire), - la loi modifiée du 18 juin 1969 sur l'enseignement supérieur et l'homologation des titres et grades étrangers d'enseignement supérieur, - la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie, - la loi du 4 juillet 1973 concernant le régime de la pharmacie, - la loi modifiée du 30 juin 1976 portant 1. création d'un fonds pour l'emploi; 2. réglementation de l'octroi des indemnités de chômage complet, - la loi modifiée du 25 février 1979 concernant l'aide au logement, - la loi modifiée du 16 avril 1979 fixant le statut général des fonctionnaires de l'Etat, - la loi modifiée du 26 juillet 1980 concernant l'avance et le recouvrement de pensions alimentaires par le Fonds national de solidarité, - la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des spécialités pharmaceutiques et des médicaments préfabriqués, - la loi modifiée du 29 avril 1983 concernant l'exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire, - la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue, - la loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien, - la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé, - la loi modifiée du 6 janvier 1995 relative à la distribution en gros de médicaments, - la loi modifiée du 11 juillet 1996 portant organisation d'une formation menant au brevet de maîtrise et fixation des conditions d'obtention du titre et du brevet de maîtrise, - la loi modifiée du 3 août 1998 instituant des régimes de pension spéciaux pour les fonctionnaires de l'Etat et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois, - la loi modifiée du 28 août 1998 sur les établissements hospitaliers, - la loi modifiée du 29 avril 1999 portant création d'un droit à un revenu minimum garanti, - la loi du 14 mai 2002 portant reconnaissance d'équivalence du baccalauréat international avec le diplôme de fin d'études secondaires luxembourgeois, - la loi électorale modifiée du 18 février 2003, - la loi du 30 avril 2004 autorisant le Fonds national de solidarité à participer aux prix des prestations fournies dans le cadre de l'accueil aux personnes admises dans un centre intégré pour personnes âgées, une maison de soins ou un autre établissement médico-social assurant un accueil de jour et de nuit, - la loi modifiée du 28 mai 2004 portant création d'une Administration de la gestion de l'eau, - la loi du 10 août 2005 portant création d'un Lycée technique pour professions éducatives et sociales, - la loi modifiée du 19 décembre 2008 relative à l'eau, - la loi modifiée du 19 décembre 2008 portant réforme de la formation professionnelle, - la loi du 17 février 2009 portant 1. introduction d'un congé linguistique; 2. modification du Code du travail; 3. modification de la loi du 19 août 2008 relative aux aides à la formation-recherche, - la loi modifiée du 19 juin 2009 portant organisation de l'enseignement supérieur, * fixant les modalités du cycle d'études d'enseignement supérieur aboutissant à la délivrance du brevet de technicien supérieur; * modifiant la loi modifiée du 4 septembre 1990 portant réforme de l'enseignement secondaire technique et de la formation professionnelle continue; * fixant les modalités d'implantation de formations d'enseignement supérieur ou de création de filiales ou d'établissements privés ou publics sur le territoire du Grand-Duché de Luxembourg; * abrogeant la loi du 14 août 1976 déterminant les conditions de création d'établissements privés d'enseignement supérieur, - la loi du 19 juin 2009 ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est a. du régime général de reconnaissance des titres de formation et des qualifications professionnelles b. de la prestation temporaire de service, - la loi du 26 juillet 2010 portant transposition de la directive 2007/2/CE du Parlement européen et du Conseil du 14 mars 2007 établissant une infrastructure d'information géographique dans la Communauté européenne (INSPIRE) en droit national, 3) abrogeant - la loi du 12 juillet 1994 portant institution d'un congé culturel. "/>
+<passiveRef href="/eli/etat/leg/loi/2014/07/01/n1/jo" id="rp6" showAs="Loi du 1er juillet 2014 portant 1) transposition de la directive 2011/24/UE du Parlement européen et du Conseil du 9 mars 2011 relative à l'application des droits des patients en matière de soins de santé transfrontaliers; 2) modification du Code de la sécurité sociale; 3) modification de la loi modifiée du 29 avril 1983 concernant l'exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire; 4) modification de la loi modifiée du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien; 5) modification de la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé; 6) modification de la loi modifiée du 11 avril 1983 portant réglementation de la mise sur le marché et de la publicité des médicaments; 7) modification de la loi modifiée du 16 janvier 1990 relative aux dispositifs médicaux."/>
+<passiveRef href="/eli/etat/leg/loi/2010/07/26/n7/jo" id="rp7" showAs="Loi du 26 juillet 2010 portant organisation de la formation à la profession réglementée de l'infirmier responsable de soins généraux et de la formation de sage-femme et portant reconnaissance des titres de certaines professions réglementées, - transposant les dispositions spécifiques aux professions réglementées d'infirmier responsable de soins généraux, de sage-femme et d'architecte de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, modifiée par la directive 2006/100/CE du Conseil du 20 novembre 2006 portant adaptation de certaines directives dans le domaine de la libre circulation des personnes en raison de l'adhésion de la Bulgarie et de la Roumanie, - modifiant la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé; - modifiant la loi du 11 janvier 1995 portant réorganisation des écoles publiques et privées d'infirmiers et d'infirmières et réglementant la collaboration entre le ministère de l'Education nationale et le ministère de la Santé; - modifiant la loi du 19 juin 2009 portant organisation de l'enseignement supérieur."/>
+<passiveRef href="/eli/etat/leg/loi/2010/07/14/n1/jo" id="rp8" showAs="Loi du 14 juillet 2010 transposant, pour les professions de médecin, de médecin-dentiste, de médecin-vétérinaire, de pharmacien et de certaines autres professions de santé, les dispositions de la directive 2005/36/CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles et de la directive 2006/100/CE portant adaptation de certaines directives dans le domaine de la circulation des personnes, en raison de l'adhésion de la Bulgarie et de la Roumanie, et modifiant  1. la loi modifiée du 29 avril 1983 concernant l'exercice des professions de médecin, de médecin-dentiste et de médecin-vétérinaire;  2. la loi du 31 juillet 1991 déterminant les conditions d'autorisation d'exercer la profession de pharmacien;  3. la loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé;  4. la loi du 11 janvier 1995 portant réorganisation des écoles publiques et privées d'infirmiers et d'infirmières et réglementant la collaboration entre le ministère de l'Éducation nationale et le ministère de la Santé."/>
+<passiveRef href="/eli/etat/leg/loi/1995/01/11/n1/jo" id="rp9" showAs="Loi du 11 janvier 1995 portant réorganisation des écoles publiques et privées d'infirmiers et d'infirmières et réglementant la collaboration entre le ministère de l'Education nationale et le ministère de la Santé."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="A|2023-06-29|2023-06-29|L|334">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2023/06/29/a334/jo">Loi du 29 juin 2023 portant modification de la loi modifiée du 26 mars 1992 sur l’exercice et la revalorisation de certaines professions de santé.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>
+<mod class="mod-start" for="#pm1"/>Version consolidée applicable au 30/06/2023 : Loi modifiée du 26 mars 1992 sur l'exercice et la revalorisation de certaines professions de santé.</p>
+</longTitle>
+</preface>
+<body>
+<chapter id="chapitre_1er">
+<num> <b>Chapitre 1<sup>er</sup>.</b>
+</num>
+<heading scl:style-format="b"> <b>Exercice de certaines professions de santé</b> </heading>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_1er/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>. </num>
+<heading scl:style-format="b">Champ d’application.</heading>
+<paragraph id="paragraph_45">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La présente loi s’applique aux professions de santé suivantes :</p>
+<ol scl:start="1" scl:symbol="1°">
+<li>infirmier ;</li>
+<li>infirmier en anesthésie et réanimation ;</li>
+<li>infirmier en pédiatrie ;</li>
+<li>infirmier psychiatrique ; </li>
+<li>infirmier gradué ;</li>
+<li>sage-femme ; </li>
+<li>aide-soignant ;</li>
+<li>assistant technique médical ;</li>
+<li>laborantin ;</li>
+<li>assistant d’hygiène sociale ; </li>
+<li>assistant social ;</li>
+<li>pédagogue curatif ;</li>
+<li>diététicien ;</li>
+<li>ergothérapeute ;</li>
+<li>rééducateur en psychomotricité ;</li>
+<li>masseur ;</li>
+<li>masseur-kinésithérapeute ; </li>
+<li>ostéopathe ; </li>
+<li>orthophoniste ; </li>
+<li>orthoptiste ;</li>
+<li>podologue.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_46">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La présente loi ne s’applique qu’aux assistants d’hygiène sociale visés au paragraphe 1<sup>er</sup>, point 10°, qui ont été autorisés avant le 30 juin 2023 à exercer la profession d’assistant d’hygiène sociale au Grand-Duché de Luxembourg conformément à l’article 2.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_1erbis">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_1erbis</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_1erbis/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1erbis.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>bis.</num>
+<heading scl:style-format="b">Définitions</heading>
+<alinea>
+<content>
+<p>Pour l’application de la présente loi, on entend par :</p>
+<ol scl:start="1" scl:symbol="1°">
+<li>« professionnel de santé » : la personne physique visée à l’article 2, lettre d), de la <ref href="/eli/etat/leg/loi/2014/07/24/n2/jo" id="ae48fc45-a26f-4638-9087-8e542b302e11">loi modifiée du 24 juillet 2014</ref> relative aux droits et obligations du patient ;</li>
+<li>« dossier patient » : le dossier patient au sens de l’article 2, lettre f), de la <ref href="/eli/etat/leg/loi/2014/07/24/n2/jo" id="e91c9702-b45f-41a5-a251-6d4728e085ea">loi modifiée du 24 juillet 2014</ref> relative aux droits et obligations du patient ;</li>
+<li>« protocole » : descriptif écrit et daté, validé par l’équipe médicale ou le médecin responsable, présenté sous forme synthétique, centré sur une population ou un groupe de personnes cible et visant les soins et les actes techniques à appliquer ou les procédures ou consignes à observer par les professionnels de santé visés par la présente loi dans les situations de soins visées par les annexes ou lors de la réalisation d’un tel soin ;</li>
+<li>« urgence » : situation d’une personne ou d’un patient dont la vie ou l’état de santé est en danger imminent et exige une intervention rapide et adaptée d’un professionnel de santé ;</li>
+<li>« patient » : la personne physique visée à l’article 2, lettre b), de la <ref href="/eli/etat/leg/loi/2014/07/24/n2/jo" id="4d8725d6-0118-43d0-b8cd-94a000d2dfa6">loi modifiée du 24 juillet 2014</ref> relative aux droits et obligations du patient ;</li>
+<li>« ministre » : le ministre ayant la Santé dans ses attributions.</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_2/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2. </num>
+<heading> <b>Autorisation d’exercer</b> </heading>
+<paragraph id="paragraph_39">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Sous réserve des dispositions de l’article 4 ci-après, l’exercice d’une de ces professions est subordonné à une autorisation du ministre qui est délivrée aux conditions suivantes: </p>
+<ol scl:start="1" scl:symbol="a)">
+<li>le candidat doit être ressortissant au sens de l’article 3, point q) de la <ref href="/eli/etat/leg/loi/2016/10/28/n2/jo" id="38481438-2634-4d58-a00e-e841d27748c5">loi du 28 octobre 2016</ref> relative à la reconnaissance des qualifications professionnelles;</li>
+<li>il doit être titulaire d’un diplôme luxembourgeois relatif à la profession concernée, soit d’un diplôme étranger reconnu conformément aux dispositions de la <ref href="/eli/etat/leg/loi/2016/10/28/n2/jo" id="69ed606a-750d-4eb2-90be-6162f29fe490">loi du 28 octobre 2016</ref> relative à la reconnaissance des qualifications professionnelles; </li>
+<li>il doit remplir les conditions de santé physique et psychique nécessaires à l’exercice de la profession;</li>
+<li>il doit répondre aux conditions d’honorabilité et de moralité nécessaires à l’exercice de la profession;</li>
+<li>il doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre.<p>Une vérification des connaissances linguistiques du candidat d’une des trois langues luxembourgeoise, allemande ou française peut être faite par le ministre.</p>
+</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_1">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Un règlement grand-ducal détermine la procédure à suivre et les documents à présenter pour obtenir l’autorisation d’exercer.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_3/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3. </num>
+<alinea>
+<content>
+<p>Une taxe d’un montant de 75 euros est due pour toute demande d’autorisation d’exercer définitive visée à l’article 2.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Une taxe d’un montant de 10 euros est due en cas d’établissement d’un duplicata du document attestant l’autorisation visée à l’alinéa précédent.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La taxe est à acquitter moyennant un versement ou un virement sur un compte bancaire de l’Administration de l’enregistrement et des domaines, comprenant indication de l’identité du requérant ainsi que l’objet du virement ou versement.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La preuve de paiement est à joindre à la demande et constitue une pièce obligatoire du dossier.</p>
+</content>
+</alinea>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_4/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<heading scl:style-format="b"> Prestation de services</heading>
+<paragraph id="paragraph_2">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Le professionnel de santé ressortissant d’un Etat membre de l’Union européenne, qui est établi dans un autre Etat membre et y exerce légalement une des professions de santé visées à l’article 1<sup>er</sup>, peut exécuter au Luxembourg des prestations de services de façon temporaire et occasionnelle sans autorisation du ministre. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_38">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Afin d’éviter des dommages graves pour la santé du bénéficiaire du service, le ministre fait procéder à une vérification des qualifications professionnelles du prestataire visé au paragraphe 1<sup>er</sup> avant la première prestation de services. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cette vérification est effectuée selon les modalités prévues au titre II de la <ref href="/eli/etat/leg/loi/2016/10/28/n2/jo" id="a1e9d43b-6272-4fd3-9aff-7291600ba3ad">loi du 28 octobre 2016</ref> relative à la reconnaissance des qualifications professionnelles. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les qualifications professionnelles. Le présent paragraphe ne s’applique pas aux prestations de services visant les activités d’infirmier et de sage-femme.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_3">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Le prestataire visé au paragraphe 1<sup>er</sup> est soumis aux règles de conduite de caractère professionnel, réglementaire ou administratif en rapport direct avec les qualifications professionnelles telles que la définition de la profession, l’usage des titres et les fautes professionnelles graves qui ont un lien direct et spécifique avec la protection et la sécurité des patients, ainsi qu’aux dispositions disciplinaires applicables aux professionnels de santé légalement établis au Luxembourg. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_4">
+<num>(4)</num>
+<alinea>
+<content>
+<p>Le professionnel de santé frappé d’une peine de suspension ou d’interdiction d’exercer sa profession au Luxembourg et qui est légalement établi dans un autre Etat membre, ne peut pas effectuer de prestation de services au Luxembourg pendant la durée de sa suspension ou de son interdiction.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_5">
+<num>(5)</num>
+<alinea>
+<content>
+<p>Un règlement grand-ducal détermine les conditions et modalités d’exercice de la prestation de services visée aux paragraphes 1<sup>er</sup> et 2 du présent article. Ce règlement prescrira entre autres que le prestataire visé au paragraphe 1<sup>er</sup> fasse une déclaration préalable relative à sa prestation au ministre qui en fera parvenir une copie au Conseil Supérieur de certaines professions de santé et aux organismes de sécurité sociale.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_5/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5. </num>
+<heading> <b>Port de titres professionnels</b>
+</heading>
+<paragraph id="paragraph_47">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La personne autorisée à exercer une de ces professions porte le titre professionnel correspondant à cette profession.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_48">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le professionnel de santé peut également être autorisé par le ministre à faire usage de son titre licite de formation tel que visé à l’article 2, paragraphe 1<sup>er</sup>, point b) et éventuellement de son abréviation dans la langue de l’Etat où il a acquis sa formation, suivi des nom et lieu de l’établissement ou du jury qui l’a délivré. Toutefois au cas où ce titre peut être confondu avec un titre exigeant une formation supplémentaire non acquise par le bénéficiaire, ce dernier ne pourra utiliser son titre de formation que dans une formule appropriée à indiquer par le ministre.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_49">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Le professionnel de santé peut aussi être autorisé par le Conseil Supérieur de certaines professions de santé à faire usage d’une fonction académique ou d’un titre licite de formation autre que celui visé au paragraphe 2 selon la formulation intégrale qui lui a été conféré par une université ou une autre autorité compétente, et qui est reconnu par les autorités compétentes du pays où il a été délivré. Le Conseil Supérieur de certaines professions de santé peut soumettre cette autorisation au paiement préalable d’une taxe. Le montant de cette taxe est fixé annuellement par le Conseil Supérieur de certaines professions de santé, étant entendu qu’il se situe entre 75 et 150 euros.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_6/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6. </num>
+<heading> <b>Situations particulières.</b> </heading>
+<paragraph id="paragraph_7">
+<num>(1)</num>
+<alinea>
+<content>
+<p>En cas de circonstances exceptionnelles, telles qu’épidémies, faits de guerre ou catastrophes, le ministre peut, par dérogation à l’article 2 paragraphe (1) a), après avoir pris l’avis de la direction de la santé, autoriser pour un temps limité des membres d’une autre profession de santé régie par la présente et de niveau de formation équivalent ou subsidiairement d’autres personnes à poser certains actes d’une de ces professions pour laquelle elles ne sont pas diplômées.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_8">
+<num>(2)</num>
+<alinea>
+<content>
+<p>En cas d’impossibilité, dûment constatée par la direction de la santé, pour assurer certains actes réservés aux membres d’une profession de santé déterminée, le ministre peut sur avis du conseil supérieur des professions de santé, autoriser un membre d’une autre profession de niveau de formation équivalent et régie par la présente loi à poser des actes relevant des attributions réservées à la profession pour laquelle la pénurie a été constatée.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_9">
+<num>(3)</num>
+<alinea>
+<content>
+<p>L’autorisation fixe les actes qui peuvent être exécutés par les personnes visées sous (1) et (2), la durée pendant laquelle il peut les exécuter et les conditions dans lesquelles il peut les poser. La personne autorisée ne peut pas porter le titre professionnel correspondant à la profession dont elle exerce certaines des attributions, ni un autre titre pouvant prêter à confusion. </p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_7/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 7.</num>
+<heading> <b>Exercice, formation, missions et attributions des professions de santé</b>
+</heading>
+<alinea>
+<content>
+<p>Les règles d’exercice, les exigences en matière de formation, les missions ainsi que les attributions des professions de santé visées à l’article 1<sup>er</sup>, paragraphe 1<sup>er</sup>, sont précisées dans les annexes 1 à 21 qui font partie intégrante de la présente loi. </p>
+</content>
+</alinea>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_8/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8.</num>
+<paragraph id="paragraph_40">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Le ministre tient à jour un registre professionnel regroupant les informations administratives et disciplinaires relatives aux personnes autorisées à exercer une profession de santé au Luxembourg conformément aux dispositions de la présente loi ainsi que les informations relatives aux prestataires de services.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_41">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le registre professionnel renseigne en outre sur les sanctions disciplinaires ou pénales qui ont été prises et renseigne sur des faits graves et précis susceptibles d’avoir des conséquences sur l’exercice d’une profession de santé.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_42">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Les personnes concernées ne peuvent pas s’opposer au traitement des données administratives ou professionnelles les concernant aux fins de la tenue du registre professionnel. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les personnes concernées peuvent à tout moment accéder au registre professionnel. Ils peuvent requérir la rectification d’inscriptions erronées ou le retrait d’inscriptions ne concernant pas leur activité professionnelle. Ils peuvent aussi y faire consigner leurs observations écrites éventuelles.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_43">
+<num>(4)</num>
+<alinea>
+<content>
+<p>Les inscriptions du registre peuvent être communiquées au Conseil supérieur de certaines professions de santé et aux organismes de sécurité sociale et vice versa.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elles peuvent être fournies sur demande à toute autorité ou instance habilitée spécifiquement par un autre Etat membre de l’Union européenne à délivrer ou à recevoir des titres de formation et autres documents ou informations, via le système d’information mis en place par le <ref href="/eli/reg_ue/2012/1024/jo" id="13830847-a42e-4f77-bb76-896fdb2a8d63">RÈGLEMENT (UE) n° 1024/2012</ref> DU PARLEMENT EUROPÉEN ET DU CONSEIL du 25 octobre 2012 concernant la coopération administrative par l’intermédiaire du système d’information du marché intérieur et abrogeant la décision 2008/49/CE de la Commission («<ref href="/eli/reg_ue/2012/1024/jo" id="3bb575f2-906c-4787-a547-de8982db5b84">règlement IMI</ref>»), à condition que ces échanges d’information se fassent dans la confidentialité et le respect de la législation sur la protection des données à caractère personnel.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_44">
+<num>(5)</num>
+<alinea>
+<content>
+<p>Un règlement grand-ducal précise le détail des informations qui doivent être fournies par les intéressés concernant leur situation administrative et disciplinaire. Il peut rendre obligatoire l’usage de formulaires préétablis.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Sous peine de sanction disciplinaire, tout changement intervenu dans le chef des données ainsi fournies ou de la situation professionnelle doit être signalé endéans le mois au ministre pour être mentionné dans le registre.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_8bis">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_8bis</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_8bis/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8bis.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8bis.</num>
+<alinea>
+<content>
+<p>La personne autorisée à exercer une des professions visées par la présente loi est tenue, sous peine de sanctions disciplinaires, de disposer d’une assurance destinée à garantir sa responsabilité civile susceptible d’être engagée en raison de dommages survenus dans le cadre de son activité professionnelle.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le prestataire de services visé à l’article 4 de la présente loi est également soumis à cette obligation. Toutefois, il est dispensé d’une telle assurance si l’activité de prestation de service est couverte par une garantie ou une formule similaire qui est équivalente ou essentiellement comparable quant à son objet, adaptée à la nature et à l’ampleur du risque, dont il dispose dans l’Etat membre de son établissement.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Un règlement grand-ducal pris sur avis du Conseil supérieur de certaines professions de santé peut fixer les conditions et modalités minimales que doit couvrir cette assurance.</p>
+</content>
+</alinea>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_9/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 9. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 9. </num>
+<alinea>
+<content>
+<p>Pour l’application de la présente loi, il y a lieu d’entendre par Etat membre de l’Union européenne: un Etat membre de l’Union européenne, de l’Espace économique européen ou de la Confédération suisse.</p>
+</content>
+</alinea>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_10/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 10. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 10. </num>
+<heading>(abrogé)</heading>
+<alinea>
+<content>
+<p/>
+</content>
+</alinea>
+</article>
+<article id="art_11">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_11</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_11/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 11. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 11. </num>
+<heading> <b>Familiarisation avec la situation luxembourgeoise.</b> </heading>
+<paragraph id="paragraph_14">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La personne exerçant une de ces professions doit avoir les connaissances linguistiques nécessaires à l’exercice de la profession, soit en allemand, soit en français, et comprendre les trois langues administratives du Grand-Duché de Luxembourg ou acquérir les connaissances lui permettant de les comprendre.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elle peut engager sa responsabilité disciplinaire, civile ou pénale si, par suite d’une insuffisance de ses connaissances linguistiques, elle commet une erreur dans l’exercice de sa profession. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_15">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Elle doit prendre contact avec les services d’information et y recueillir les informations nécessaires concernant les législations sanitaire et sociale ainsi que, le cas échéant, la déontologie luxembourgeoise. Elle engage sa responsabilité disciplinaire si elle omet de prendre contact avec lesdits services. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_50">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Les personnes exerçant une de ces professions doivent tenir à jour leurs connaissances professionnelles.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_12">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_12</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_12/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 12. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 12. </num>
+<heading> <b>Objet de la formation continue.</b>
+</heading>
+<paragraph id="paragraph_16">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La formation continue comporte des cours ou des stages de recyclage ayant pour objet la mise à jour des connaissances et leur adaptation aux exigences nouvelles en matière professionnelle. Un règlement <span scl:no-break="true">grand-ducal</span> détermine les critères auxquels doit répondre la formation continue pour ces professions.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_17">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le ministre peut déclarer obligatoire la fréquentation de certains cours de formation continue pour les membres d’une profession déterminée ou pour certaines catégories de professionnels. </p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_13">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_13</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_13/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 13. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 13. </num>
+<heading> <b>Participation à la formation continue.</b> </heading>
+<paragraph id="paragraph_18">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Les personnes exerçant une de ces professions doivent tenir à jour leurs connaissances professionnelles. A cet effet la participation à des cours de formation continue organisés ou agréés par le ministre conformément à l’article 12 de la présente loi, est considérée comme activité de service jusqu’à concurrence soit de cinq jours ouvrables par an, soit de quinze jours ouvrables consécutifs par période de trois ans.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Dans les cas où une formation continue est déclarée obligatoire en vertu du paragraphe (2) de l’article qui précède celle-ci est assimilée à une activité de service pendant toute la durée de cette formation continue, telle qu’elle a été déterminée par le ministre.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’employeur peut demander que la participation aux cours de formation continue soit différée pour une durée déterminée ne dépassant pas les six mois à partir de la demande de l’intéressé, lorsque l’absence de <span scl:no-break="true">celui-ci</span> risque d’avoir une répercussion majeure préjudiciable au bon fonctionnement du service.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_19">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le titulaire d’une autorisation d’exercer qui n’a plus exercé sa profession d’une manière régulière pendant les cinq années précédant la reprise de l’exercice de la profession, peut être obligé par le ministre, sur avis de la direction de la santé, à poursuivre un enseignement théorique et pratique de réintégration avant de reprendre l’exercice de la profession. Le ministre tient compte de la spécificité de la profession exercée par le professionnel en question. Un règlement ministériel détermine les modalités de cet enseignement de réintégration.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_14">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_14</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_14/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 14.</num>
+<heading> <b>Caducité de l’autorisation d’exercer.</b> </heading>
+<paragraph id="paragraph_20">
+<num>(1)</num>
+<alinea>
+<content>
+<p>L’autorisation d’exercer devient caduque lorsque son titulaire omet de suivre les cours et enseignements imposés en vertu de l’article 13(2) ci-dessus jusqu’à satisfaction des obligations imposées par le ministre.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_21">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Toutefois, dans le cas de cours de formation déclarés obligatoires en vertu de l’article 12 (2), lorsque ces cours ont pour objet de familiariser le professionnel avec une nouvelle technique, le fait de ne pas les suivre n’entraîne pour lui que la suspension d’exercer la technique en question.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_51">
+<num>(3)</num>
+<alinea>
+<content>
+<p>L’autorisation d’exercer devient caduque lorsque le professionnel de santé bénéficiaire n’exerce pas sa profession au Luxembourg dans les deux années qui suivent la délivrance de l’autorisation.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Il en va de même du professionnel de santé qui a cessé son activité professionnelle au Luxembourg depuis plus de deux ans.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_15">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_15</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_15/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 15. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 15. </num>
+<heading> <b>Secret professionnel.</b> </heading>
+<alinea>
+<content>
+<p>Les personnes exerçant une de ces professions et les étudiants en formation sont tenus au secret professionnel dans les conditions et sous les réserves énoncées à l’article 458 du <ref href="/eli/etat/leg/code/penal" id="c500d8b8-5edf-4945-8d14-43cb55fad882">code pénal</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_16">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_16</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_16/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 16. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 16. </num>
+<heading> <b>Sanctions pénales</b> </heading>
+<paragraph id="paragraph_22">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Est puni d’un emprisonnement de huit jours à trois mois et d’une amende de 251 à 5.000 euros ou d’une de ces peines seulement:</p>
+<ol scl:start="1" scl:symbol="a)">
+<li>celui qui exerce, sans y être autorisé, une de ces professions, sauf le cas d’urgence avérée;</li>
+<li>celui qui, sans y avoir droit, pose un acte rentrant dans les attributions d’une de ces professions, sauf le cas d’urgence avérée;</li>
+<li>celui qui s’attribue, sans y avoir droit, un titre désignant une de ces professions ou un autre titre pouvant prêter à confusion; </li>
+<li>celui qui attribue le titre d’une de ces professions aux personnes qu’il emploie, soit à titre bénévole, soit moyennant salaire, sans que ces personnes soient munies du diplôme ou de l’autorisation afférente;</li>
+<li>celui qui occupe pour le service de ces mêmes professions des personnes non autorisées à cet effet;</li>
+<li>celui qui, en vertu de son autorité, oblige un professionnel à effectuer des actes qui ne rentrent pas dans ses attributions.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_23">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Est puni d’une amende de 251 à 5.000 euros:</p>
+<ol scl:start="1" scl:symbol="a)">
+<li>celui qui manque aux obligations qui lui sont imposées en vertu des dispositions de l’article 8 de la présente loi et de ses règlements d’exécution; </li>
+<li>celui qui empêche les personnes qu’il occupe de satisfaire aux obligations prévues à l’article 12 de la présente loi.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_52">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Les dispositions du présent article ne s’appliquent pas aux étudiants d’une profession de santé qui agissent sous la responsabilité d’un maître de stage autorisé à exercer la médecine ou une profession de santé au Luxembourg dans le cadre d’un stage de formation, d’un stage de réintégration ou d’un stage d’adaptation effectué dans le cadre de la procédure de reconnaissance prévue par la <ref href="/eli/etat/leg/loi/2016/10/28/n2/jo" id="8bdb0eee-939c-4468-ac1b-b884ea5df815">loi du 28 octobre 2016</ref> relative à la reconnaissance des qualifications professionnelles.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_17">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_17</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_17/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 17. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 17. </num>
+<heading> <b>Circonstances atténuantes.</b> </heading>
+<alinea>
+<content>
+<p>Les dispositions du livre Ier du <ref href="/eli/etat/leg/code/penal" id="8755b8ff-7b57-492a-8f94-b633510b3d2c">code pénal</ref> ainsi que les articles 130-1 à 132-1 du <ref href="/eli/etat/leg/code/procedure_penale" id="75102e3e-a05a-4555-998a-8463748345a3">code d’instruction criminelle</ref> sont applicables aux infractions à la présente loi.</p>
+</content>
+</alinea>
+</article>
+<article id="art_18">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_18</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_18/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 18. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 18. </num>
+<heading> <b>Peines accessoires.</b> </heading>
+<alinea>
+<content>
+<p>L’interdiction temporaire ou à vie d’exercer la profession peut être prononcée par les tribunaux accessoirement à toute peine criminelle ou correctionnelle.</p>
+</content>
+</alinea>
+</article>
+<article id="art_19">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_19</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_19/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 19. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 19. </num>
+<heading> <b>Conseil supérieur de certaines professions de santé.</b> </heading>
+<alinea>
+<content>
+<p>Il est créé un conseil supérieur pour les professions régies par la présente loi dit dans la suite du présent article «le conseil».</p>
+</content>
+</alinea>
+<paragraph id="paragraph_24">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Le conseil a pour mission de donner au ministre soit d’office, soit à la demande de celui-ci, des avis sur les questions intéressant l’exercice, la formation et la réglementation des professions de santé. Un code de déontologie sera établi par règlement grand-ducal, le conseil supérieur ayant été entendu en son avis. Ce code est publié au Mémorial.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_25">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les membres du conseil sont nommés par le ministre pour une durée de cinq ans sur proposition d’une part des commissions professionnelles prévues sous (4) ci-après et d’autre part des organisations professionnelles représentatives dans le secteur de la santé. Il y un membre suppléant pour chaque membre effectif.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_26">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Un règlement grand-ducal détermine</p>
+<ul scl:symbol="dash">
+<li>le nombre des membres siégeant au conseil et le nombre des membres de chaque commission professionnelle;</li>
+<li>le nombre des membres désignés pour siéger au conseil sur proposition des commissions professionnelles et celui des membres désignés sur proposition des organisations professionnelles, étant entendu que le premier nombre sera supérieur au second. Pour les membres désignés sur proposition des commissions professionnelles il sera tenu compte des secteurs d’activité et des niveaux de formation en fonction de leur importance numérique;</li>
+<li>les modalités d’organisation et de fonctionnement du conseil et de son secrétariat;</li>
+<li>les attributions des commissions professionnelles et les modalités de l’élection de leurs membres;</li>
+<li> les relations du conseil avec les commissions professionnelles; </li>
+<li>les indemnités des membres, fonctionnaires et experts délégués auprès du conseil et auprès des commissions professionnelles et celles des personnes en charge du secrétariat.</li>
+</ul>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_27">
+<num>(4)</num>
+<alinea>
+<content>
+<p>Le conseil comprend en outre une commission professionnelle pour chacune des professions visées par la présente loi. Les membres de ces commissions et leurs suppléants sont élus tous les cinq ans par les membres des professions respectives.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_20</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_20/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 20. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 20. </num>
+<alinea>
+<content>
+<p>L’autorisation d’exercer une profession de santé visée à l’article 2 est suspendue ou retirée par le ministre lorsque les conditions y prévues ne sont plus remplies.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20bis">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_20bis</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_20bis/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 20bis.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 20bis.</num>
+<paragraph id="paragraph_53">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Dans le cas d’inaptitude, le ministre peut décider la suspension temporaire du droit d’exercer. Elle ne peut être ordonnée que sur base d’un rapport motivé adressé au ministre, établi par trois experts désignés l’un par l’intéressé ou sa famille, le deuxième par le directeur de la Santé et le troisième par les deux premiers. En cas de désaccord entre ces derniers, la désignation du troisième expert est faite sur demande du ministre par le président du tribunal d’arrondissement. Il en est de même en cas de carence de l’intéressé ou de sa famille pour la désignation du premier expert.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le ministre peut être saisi soit par le directeur de la Santé, soit par le Conseil supérieur de certaines professions de santé. L’expertise prévue à l’alinéa précédent doit être effectuée au plus tard dans le délai de deux mois à compter de la désignation des trois experts.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_54">
+<num>(2)</num>
+<alinea>
+<content>
+<p>S’il y a péril en la demeure, lorsque la poursuite de l’exercice professionnel par un professionnel de la santé risque d’exposer la santé ou la sécurité des patients ou de tiers à un dommage grave, le ministre peut, sur avis du Conseil supérieur de certaines professions de santé et l’intéressé dûment mis en mesure de présenter ses observations, suspendre avec effet immédiat le droit d’exercer ou le soumettre à certaines restrictions. La décision de suspension doit être motivée et ne peut dépasser trois mois. Avant l’expiration de ce délai le ministre, sur base d’un rapport d’expertise tel que prévu au paragraphe qui précède, décide soit de restaurer l’intéressé dans son droit d’exercer, soit de prolonger la mesure de suspension, soit de prononcer le retrait de l’autorisation d’exercer.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_55">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La durée totale d’une mesure de suspension temporaire ne peut pas dépasser deux ans. Le ministre peut subordonner la reprise de l’activité professionnelle à la constatation de l’aptitude de l’intéressé par une nouvelle expertise effectuée à la diligence du directeur de la Santé, dans les conditions ci-dessus prévues, dans le mois qui précède l’expiration de la période de suspension. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_56">
+<num>(4)</num>
+<alinea>
+<content>
+<p>Les frais d’expertise sont à charge du titulaire dont l’autorisation a été suspendue temporairement. Il en est de même en cas de renouvellement de suspension ou de retrait de l’autorisation. Dans les autres cas, les frais d’expertise sont à charge de l’Etat.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_21">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_21</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_21/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 21. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 21. </num>
+<heading> <b>Recours.</b> </heading>
+<alinea>
+<content>
+<p>Toute décision ministérielle d’octroi, de refus, de suspension ou de retrait d’une autorisation d’exercer est susceptible d’un recours auprès du tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_22">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_22</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_22/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 22. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 22. </num>
+<heading> <b>Avis à solliciter sur les règlements d’exécution.</b> </heading>
+<alinea>
+<content>
+<p>Les règlements grand-ducaux prévus par la présente loi sont soumis à l’avis du collège médical ainsi qu’à celui du conseil supérieur des professions de santé visées par la présente loi.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_2">
+<num> <b>Chapitre 2.</b>
+</num>
+<heading scl:style-format="b"> De la discipline et de la procédure en matière disciplinaire </heading>
+<part id="chapitre_2.part_i">
+<num>I </num>
+<heading scl:separator=" " scl:style-format="i">Conseil de discipline</heading>
+<article id="art_23">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_23</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_23/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 23. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 23. </num>
+<alinea>
+<content>
+<p>Il est institué un conseil de discipline pour les professions régies par la présente loi.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le conseil de discipline se compose du président du tribunal d’arrondissement de Luxembourg ou du juge qui le remplace, comme président, de trois membres exerçant une profession de santé visée par la présente loi, et d’un médecin. Les membres effectifs et suppléants du conseil de discipline doivent être de nationalité luxembourgeoise.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les assesseurs du magistrat président sont désignés par le ministre de la Santé, sur proposition du conseil supérieur des professions de la santé pour les assesseurs exerçant une de ces professions et du Collège médical pour l’assesseur médecin.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Toujours sur proposition des organismes précités le ministre de la Santé désigne six membres suppléants exerçant une profession de santé et deux membres suppléants médecins.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Dans la mesure du possible le magistrat président compose le conseil de discipline siégeant dans une affaire déterminée de façon à ce qu’il y ait parmi les assesseurs au moins un membre relevant de la même profession que la personne poursuivie. A cet effet il peut remplacer le membre effectif le moins ancien en rang ou subsidiairement le moins âgé par un membre suppléant.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>En cas d’empêchement des membres effectifs et suppléants, le président du conseil de discipline désigne, pour compléter le conseil, d’autres membres des professions de santé visées par la présente loi ou, suivant le cas, un autre médecin, pour compléter le conseil.</p>
+</content>
+</alinea>
+</article>
+<article id="art_24">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_24</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_24/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 24.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 24.</num>
+<alinea>
+<content>
+<p>Ne peuvent siéger au conseil de discipline, ni le président du conseil supérieur des professions de santé, ni ceux qui sont parents ou alliés du poursuivi ou de son conjoint jusqu’au degré de cousin issu de germain inclusivement.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les membres du conseil qui veulent s’abstenir pour d’autres motifs sont tenus de le déclarer par écrit au président du conseil de discipline dans les trois jours qui suivent leur convocation. Le conseil décide s’il y a lieu ou non à abstention.</p>
+</content>
+</alinea>
+</article>
+</part>
+<part id="chapitre_2.part_ii">
+<num>II</num>
+<heading scl:separator=" " scl:style-format="i">Attributions</heading>
+<article id="art_25">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_25</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_25/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 25.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 25.</num>
+<alinea>
+<content>
+<p>Le conseil de discipline exerce le pouvoir de discipline sur toutes les personnes relevant de la présente loi pour:</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>violation des prescriptions légales et réglementaires concernant l’exercice de la profession;</li>
+<li>erreurs et négligences professionnelles; </li>
+<li>faits contraires à l’honorabilité et à la dignité professionnelles, le tout sans préjudice de l’action judiciaire et de l’action disciplinaire prévue par le statut général des fonctionnaires de l’Etat et celui des fonctionnaires communaux pouvant naître des mêmes faits.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’action disciplinaire se prescrit par cinq ans à compter du jour où les contraventions, tant à la présente loi, qu’aux autres lois, arrêtés et règlements en la matière, ont été commises.</p>
+</content>
+</alinea>
+</article>
+<article id="art_26">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_26</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_26/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 26.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 26.</num>
+<alinea>
+<content>
+<p>Les peines disciplinaires sont dans l’ordre de leur gravité: </p>
+<ol scl:start="1" scl:symbol="1.">
+<li> l’avertissement;</li>
+<li>la réprimande;</li>
+<li>la privation du droit de vote pour le conseil supérieur des professions de santé et du droit d’en faire partie, pendant six ans au maximum;</li>
+<li> l’amende de cinq cent un à sept mille cinq cents euros;</li>
+<li>la suspension de l’exercice de la profession ou d’autres professions visées par la présente loi pour un terme qui ne peut être inférieur à quinze jours ni excéder cinq ans. </li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Au cas où une sanction est prononcée, les frais provoqués par la poursuite disciplinaire sont mis à charge du condamné; dans le cas contraire ils restent à charge de l’Etat. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les frais et, le cas échéant, l’amende sont rendus exécutoires par le président du tribunal d’arrondissement du ressort de la personne condamnée. L’amende est recouvrée par l’administration de l’enregistrement au profit de l’Etat.</p>
+</content>
+</alinea>
+</article>
+</part>
+<part id="chapitre_2.part_iii">
+<num>III</num>
+<heading scl:separator=" " scl:style-format="i">Procédure</heading>
+<article id="art_27">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_27</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_27/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 27.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 27.</num>
+<alinea>
+<content>
+<p>Le président du conseil supérieur des professions de santé, dit ci-après le président du conseil supérieur, instruit les affaires dont il est saisi soit par le procureur d’Etat, soit sur plainte ou dont il se saisit d’office. Il les défère au conseil de discipline, s’il estime qu’il y a infraction à la discipline.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Il est tenu de déférer au conseil de discipline les affaires dont il est saisi à la requête du procureur d’Etat.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Il peut déléguer ses pouvoirs d’instruction et de saisine à un autre membre du conseil supérieur dans les cas où il serait en droit de s’abstenir. Le conseil supérieur apprécie les motifs. </p>
+</content>
+</alinea>
+</article>
+<article id="art_28">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_28</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_28/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 28.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 28.</num>
+<alinea>
+<content>
+<p>Avant de saisir le conseil de discipline, le président du conseil supérieur dresse un procès-verbal des faits qui ont motivé l’instruction. A cet effet, il peut s’adresser au procureur général d’Etat pour voir charger des officiers de police judiciaire de procéder à une enquête.</p>
+</content>
+</alinea>
+</article>
+<article id="art_29">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_29</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_29/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 29.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 29.</num>
+<alinea>
+<content>
+<p>La personne inculpée est citée devant le conseil de discipline à la diligence du président du conseil supérieur au moins quinze jours avant la séance. La citation contient les griefs formulés contre elle. L’inculpé peut prendre inspection du dossier sans déplacement, au secrétariat du conseil supérieur. Il peut, à ses frais, s’en faire délivrer des copies.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’inculpé paraît en personne. Il peut se faire assister par un avocat. Si l’inculpé ne comparaît pas, il est statué par décision par défaut non susceptible d’opposition.</p>
+</content>
+</alinea>
+</article>
+<article id="art_30">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_30</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_30/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 30.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 30.</num>
+<alinea>
+<content>
+<p>A l’ouverture de la séance, le président du conseil de discipline expose l’affaire et donne lecture des pièces, s’il le juge utile.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le conseil entend ensuite successivement la partie plaignante, s’il y en a, les témoins, qui se retirent après avoir déposé, et l’inculpé.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le conseil supérieur peut déléguer l’un de ses membres à l’audience pour y être entendu en son avis et en ses conclusions.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’inculpé a la parole le dernier.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le procès-verbal de la séance est dressé par un membre du conseil de discipline désigné à cet effet par son président.</p>
+</content>
+</alinea>
+</article>
+<article id="art_31">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_31</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_31/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 31.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 31.</num>
+<alinea>
+<content>
+<p>Le conseil de discipline peut ordonner des enquêtes et des expertises. Les enquêtes sont faites soit par le conseil, soit par deux de ses membres délégués, soit par un officier de police judiciaire.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les témoins et experts comparaissant devant le conseil ou ses délégués sont entendus sous la foi du serment. Les témoins cités qui refuseraient de comparaître ou de déposer sont passibles des peines comminées par l’article 77(2) du <ref href="/eli/etat/leg/code/procedure_penale" id="c936a0af-982a-44a2-a31e-4799438c1008">code d’instruction criminelle</ref>. Ces peines sont prononcées par le tribunal correctionnel, sur réquisition du ministère public. Le tribunal correctionnel peut en outre ordonner que le témoin défaillant sera contraint par corps à venir donner son témoignage. Le faux témoignage et la subornation de témoins et d’experts sont punis des peines prévues aux articles 220, 223 et 224 du <ref href="/eli/etat/leg/code/penal" id="59623d5f-64de-4afe-ba22-087ec392ae2d">code pénal</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les dispositions du livre premier du <ref href="/eli/etat/leg/code/penal" id="8317f8e6-d7a5-468d-98e9-423e9a239def">code pénal</ref> ainsi que les articles 130-1 à 132-1 du <ref href="/eli/etat/leg/code/procedure_penale" id="322b226a-1024-461a-9956-b2ca2d629ae0">code d’instruction criminelle</ref> sont applicables aux infractions prévues à l’alinéa qui précède. </p>
+</content>
+</alinea>
+</article>
+<article id="art_32">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_32</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_32/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 32.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 32.</num>
+<alinea>
+<content>
+<p>Le conseil de discipline instruit l’affaire en audience publique; l’inculpé peut demander que la cause soit entendue en audience non publique.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les décisions sont prises à la majorité absolue des voix; elles sont signées par tous les membres du conseil.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les décisions sont motivées; elles sont lues en audience publique.</p>
+</content>
+</alinea>
+</article>
+<article id="art_33">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_33</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_33/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 33.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 33.</num>
+<alinea>
+<content>
+<p>Les lettres et citations à l’inculpé, aux témoins et aux experts ainsi que les expéditions du conseil sont signées par le président du conseil de discipline.</p>
+</content>
+</alinea>
+</article>
+<article id="art_34">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_34</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_34/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 34.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 34.</num>
+<alinea>
+<content>
+<p>Les décisions du conseil de discipline sont notifiées à la personne poursuivie et exécutées à la diligence du président du conseil de discipline et à la requête du procureur général d’Etat. Les amendes prononcées en application de l’article 26 sont recouvrées par l’administration de l’enregistrement au profit de l’Etat.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les minutes des décisions sont déposées et conservées au conseil supérieur. Une copie ne peut en être délivrée que sur autorisation du procureur général d’Etat.</p>
+</content>
+</alinea>
+</article>
+<article id="art_35">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_35</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_35/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 35.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 35.</num>
+<alinea>
+<content>
+<p>Les citations et notifications sont faites suivant les règles applicables en matières civile et commerciale.</p>
+</content>
+</alinea>
+</article>
+<article id="art_36">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_36</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_36/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 36.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 36.</num>
+<alinea>
+<content>
+<p>Les décisions du conseil de discipline peuvent être attaquées par la voie de l’appel, tant par la personne condamnée que par le procureur général d’Etat.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’appel est porté devant le conseil supérieur de discipline, qui statue par un arrêt définitif.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le conseil supérieur de discipline se compose de trois magistrats de la Cour d’appel et de deux assesseurs exerçant une profession de santé visée par la présente loi.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les membres magistrats et les assesseurs ainsi que leurs suppléants, au nombre de trois pour les magistrats et de quatre pour les assesseurs exerçant une profession de santé visée par la présente loi, sont nommés par arrêté grand-ducal pour une durée de deux ans.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les assesseurs et leurs suppléants sont choisis sur une liste présentée par le conseil supérieur des professions de santé.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les alinéas 5 et 6 de l’article 23 ci-dessus sont d’application.</p>
+</content>
+</alinea>
+</article>
+<article id="art_37">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_37</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_37/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 37.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 37.</num>
+<alinea>
+<content>
+<p>L’appel est déclaré au greffe de la Cour Supérieure de Justice dans le délai de dix jours, sous peine de déchéance. Le délai court pour la personne condamnée du jour où la décision lui a été notifiée, et pour le procureur général d’Etat du jour où l’expédition de la décision lui a été remise.</p>
+</content>
+</alinea>
+</article>
+<article id="art_38">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_38</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_38/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 38.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 38.</num>
+<alinea>
+<content>
+<p>La procédure devant le conseil supérieur de discipline se déroule conformément aux articles 27 à 35 ci-dessus.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les fonctions de ministère public près le conseil supérieur de discipline sont exercées par le procureur général d’Etat ou par son délégué.</p>
+</content>
+</alinea>
+</article>
+<article id="art_39">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_39</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_39/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 39.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 39.</num>
+<alinea>
+<content>
+<p>Les indemnités des membres du conseil de discipline et du conseil supérieur de discipline sont fixées par règlement grand-ducal.</p>
+</content>
+</alinea>
+</article>
+</part>
+<part id="chapitre_2.part_iv">
+<num>IV</num>
+<heading scl:separator=" " scl:style-format="i">Effets des décisions disciplinaires</heading>
+<article id="art_40">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_40</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_40/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 40.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 40.</num>
+<alinea>
+<content>
+<p>La suspension prononcée contre un membre d’une des professions de santé visées par la présente loi entraîne la défense absolue d’exercer pendant la durée de la suspension.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Toute personne qui, sauf le cas d’urgence avérée, contrevient à la disposition qui précède, commet le délit d’exercice illégal de la profession.</p>
+</content>
+</alinea>
+</article>
+<article id="art_41">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_41</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_41/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 41.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 41.</num>
+<alinea>
+<content>
+<p>L’appel et le délai pour interjeter un appel ont un effet suspensif.</p>
+</content>
+</alinea>
+</article>
+</part>
+</chapter>
+<chapter id="chapitre_3">
+<num> <b>Chapitre 3.</b>
+</num>
+<heading scl:style-format="b"> <b>Droits acquis et dispositions abrogatoires</b> </heading>
+<article id="art_42">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_42</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_42/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 42. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 42. </num>
+<heading> <b>Droits acquis.</b> </heading>
+<paragraph id="paragraph_30">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Les diplômes ou autorisations d’exercer délivrés sur base de la <ref href="/eli/etat/leg/loi/1967/11/18/n1/jo" id="6fffeb0d-f268-4d24-a575-cda33df8215e">loi du 18 novembre 1967</ref> portant réglementation de certaines professions paramédicales ainsi que les diplômes et autorisations d’exercer délivrés avant le 30 juin 2023 restent acquis de plein droit.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_31">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Au cas où en vertu des dispositions de la présente loi un titre professionnel relatif à une profession réglementée par la <ref href="/eli/etat/leg/loi/1967/11/18/n1/jo" id="14a75971-eed1-47f4-8e7a-10d9fce0000a">loi du 18 novembre 1967</ref> portant réglementation de certaines professions paramédicales est supprimé, les professionnels exerçant la profession concernée avant la mise en vigueur de la présente loi continueront à porter l’ancien titre professionnel. Toutefois, au cas où le nouveau titre professionnel couvre les mêmes activités professionnelles que celles couvertes par l’ancien titre, le professionnel portera le nouveau titre.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_43">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_43</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_43/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 43. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 43. </num>
+<heading> <b>Dispositions abrogatoires.</b> </heading>
+<paragraph id="paragraph_32">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La <ref href="/eli/etat/leg/loi/1967/11/18/n1/jo" id="1eb5a6a7-7766-4e9c-919b-9d9a09c5d67e">loi du 18 novembre 1967</ref> portant réglementation de certaines professions paramédicales est abrogée, à l’exception des dispositions ayant trait aux conditions de formation et de reconnaissance des diplômes étrangers.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les règlements pris sur base de cette loi resteront en vigueur aussi longtemps qu’ils n’auront pas été remplacés par des règlements à prendre en vertu de la présente loi.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_33">
+<num>(2)</num>
+<alinea>
+<content>
+<p> La référence dans des dispositions légales et réglementaires aux dispositions de la <ref href="/eli/etat/leg/loi/1967/11/18/n1/jo" id="c73b02ee-b0c7-4b19-8378-f31c0df0a71b">loi du 18 novembre 1967</ref> portant réglementation de certaines professions paramédicales est remplacée de plein droit par la référence aux dispositions de la présente loi.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_34">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Toutefois la <ref href="???" scl:verify="true">loi du 18 novembre 1967</ref> précitée reste applicable aux infractions commises sous son empire.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_35">
+<num>(4)</num>
+<alinea>
+<content>
+<p>L’article 1<sup>er</sup> sous 3 ainsi que le titre III.- Du pouvoir disciplinaire du collège médical - de la <ref href="/eli/etat/leg/loi/1901/07/06/n1/jo" id="292b6f36-52d4-4255-9edb-c75646021d67">loi modifiée du 6 juillet 1901</ref> concernant l’organisation et les attributions du collège médical sont abrogés pour autant qu’ils concernent les membres des professions de santé visées par la présente loi. Leurs dispositions restent cependant applicables aux faits commis sous leur empire.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_4">
+<num> <b>Chapitre 4.</b>
+</num>
+<heading scl:style-format="b"> <b>Revalorisation de certaines professions de santé</b> </heading>
+<article id="art_44">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_44</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_44/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 44. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 44. </num>
+<heading> <b>Suppléments de traitement.</b> </heading>
+<alinea>
+<content>
+<p>L’article 25bis de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="322e3d08-d9ad-41bb-8dbf-b356670964e8">loi du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’Etat est modifié comme suit:</p>
+<ol scl:start="1" scl:symbol="a)">
+<li>Les fonctionnaires exerçant la profession de médecin, de psychologue ou d’agent paramédical de la carrière moyenne de l’administration dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins bénéficient d’un supplément de traitement annuel de quinze points indiciaires.</li>
+<li> <ul scl:symbol="dash">
+<li>Les fonctionnaires exerçant une profession de santé de la carrière inférieure de l’administration bénéficient d’un supplément de traitement de quinze points indiciaires.</li>
+<li>Pour les fonctionnaires de ces carrières exerçant leur profession dans un hôpital neuropsychiatrique, au Centre du Rham ou dans une maison de soins, le supplément est fixé à 30 points indiciaires.</li>
+</ul> </li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_45">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_45</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_45/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 45.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 45.</num>
+<heading> <b>Dispositions transitoires.</b> </heading>
+<paragraph id="paragraph_36">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Par dérogation aux dispositions de l’article 25bis de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="4e4b17bd-7e7a-4ced-9c0c-636720dc8cf2">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’Etat, le supplément de traitement prévu au paragraphe b), alinéa 1 est fixé à</p>
+<ul scl:symbol="dash">
+<li>quinze points à partir du 1<sup>er</sup> janvier 1991.</li>
+</ul>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_37">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le supplément de traitement prévu à l’alinéa 2 du même paragraphe est fixé à</p>
+<ul scl:symbol="dash">
+<li>trente points à partir du 1<sup>er</sup> janvier 1991. </li>
+</ul>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_46">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_46</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1/art_46/20230630</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/05/06/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 46.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-06-30</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 46.</num>
+<heading> <b>Mise en vigueur.</b> </heading>
+<alinea>
+<content>
+<p>La présente loi entrera en vigueur le premier jour du mois qui suit sa publication au Mémorial.<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</content>
+</alinea>
+</article>
+</chapter>
+</body>
+</act>
+</akomaNtoso>

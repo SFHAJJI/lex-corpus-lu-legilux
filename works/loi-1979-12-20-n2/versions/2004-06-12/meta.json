@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/06/2004 : Loi du 20 d\u00E9cembre 1979 relative \u00E0 la reconnaissance et \u00E0 la protection du titre professionnel de journaliste.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/20040612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bcd4051164c5bb7079ff0a26f501d6f4b8848960ce98e1e5e29bc7bb5364de89",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/20040612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/12/20/n2/consolide/20040612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1b7464daafa87da20fa14a80a424d0f54caf2012cf26928b32844b6d07198b09"
+  "record_sha256": "e6d732503f712f81f65f5d1f93b1d33419cf959ec218fefb3ca0920fdbcb6cd7"
 }

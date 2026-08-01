@@ -23,15 +23,22 @@
       "title": "Code p\u00E9nal",
       "title_short": "Code p\u00E9nal",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/penal/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b68ca112d09dd1ed5f8b8a3e92acba0866749c2f9ee8298afa31d56727581cb4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/penal/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/penal/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7b6311f00516383420f929c12ab24903b234b3ddb28c3bba05aae7da2870436d"
+  "record_sha256": "acf81cd418e4512fd1c0deedfc1db97a4a61b23243c440174c9e16bc91d40657"
 }

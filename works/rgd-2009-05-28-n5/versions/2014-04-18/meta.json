@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2013 : R\u00E8glement grand-ducal du 28 mai 2009 fixant les conditions et modalit\u00E9s pour l\u0027obtention de l\u0027attestation habilitant \u00E0 faire des remplacements dans l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n5/consolide/20140418/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5c249abecbc2f2ef27ffd939718d4181857011359109ef9d12acdfe2ec72d7e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n5/consolide/20140418/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n5/consolide/20140418/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b7a5ca457d8df9a63098a6edcd139697f3aa8f9c6e1fb0afa444d5aa9e3f4c74"
+  "record_sha256": "a6fe833edda383aceeb095dedd19bed4a5c4a570af8d8f510d6fd12cccdb7569"
 }

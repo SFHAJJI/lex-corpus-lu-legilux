@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "\u00C9lections l\u00E9gislatives, europ\u00E9ennes et communales",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20240426/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "541f5d938712d321d7a74c954ce028610c04c39d668b3dc621ac14d6363041f4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20240426/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/elections/20240426/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b86fdb2259b410882dff45189f8f58f9f2e003a1a228db860431980706fae462"
+  "record_sha256": "3f3c099fe89ce9da2aa15b603f1bd5fc1a66e5c6c69abd31a4d8949920e36a24"
 }

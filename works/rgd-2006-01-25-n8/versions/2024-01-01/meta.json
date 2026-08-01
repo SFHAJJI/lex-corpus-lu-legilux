@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 25 janvier 2006 concernant l\u0027organisation et le fonctionnement du Conseil sup\u00E9rieur des personnes handicap\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "59b2c4984ed83ed8e08bb111ca66cff7d0bbf917c51d615caf592d2602d843b0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/01/25/n8/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d9d47d63510c7c747844fc3d260c2157523c3163182d3bbee51ffc5a686a1968"
+  "record_sha256": "9c4a699da501ee632c83a71256705f6092ac4374889c00eba8f50167862dbe00"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/02/2010 : Loi du 13 juillet 1989 portant cr\u00E9ation d\u0027un \u00E9tablissement public d\u00E9nomm\u00E9 Parc Hosingen.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/07/13/n1/consolide/20100223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8ae4d3956ea21f10b8ccf2aedda87e11534d514f397ece4bf522fd280cb20385",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/07/13/n1/consolide/20100223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1989/07/13/n1/consolide/20100223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9d1c97dd2363457f20eeda34943edfd4e39293e6a26942f118ab99ca8f229a1d"
+  "record_sha256": "ac3ab39cbeaae14ff182f5fe9be9a6a605d51ee58217e4bfe003e029bb379f26"
 }

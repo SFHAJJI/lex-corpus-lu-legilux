@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 24 janvier 1990 autorisant l\u0027Etat \u00E0 participer \u00E0 une nouvelle soci\u00E9t\u00E9 pour la distribution de gaz naturel au Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n1/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "368c8cb97ab16ccf4699096aff398df02057b7e8d141f5fac69b768387640040",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n1/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n1/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bcfcc5b1027850ef7088b31e56b7ae8f96102b4e0ddf501eb25e4b88999d8af1"
+  "record_sha256": "0c08b36cc745e866734aa63f26e464a181439e328b29b42761eaa52fe98f7ca6"
 }

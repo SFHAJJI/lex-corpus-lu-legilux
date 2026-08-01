@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/03/2023 : R\u00E8glement grand-ducal du 13 f\u00E9vrier 2009 arr\u00EAtant les maxima des indemnit\u00E9s des bourgmestres et des \u00E9chevins.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20230313/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b5bb5ad456b541b21efbee793bf3b68dd8c2084e5f137cc2d1960eb63461f1da",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20230313/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/13/n4/consolide/20230313/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6d1a7d81315e78f4852692fe42ef021b5e2922ce5ed14270201dc5f9e83cb69c"
+  "record_sha256": "805714ff05037839201efcdc1fef9b36e7ba48b90cbbfe96a7c8257bcf4f4a76"
 }

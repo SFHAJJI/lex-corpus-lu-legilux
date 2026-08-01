@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2010 : Loi du 11 juillet 1996 portant organisation d\u0027une formation menant au brevet de ma\u00EEtrise et fixation des conditions d\u0027obtention du titre et du brevet de ma\u00EEtrise.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20100915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "98cb6d56cfe1d08f0876a235fbaad01bfe5b473faa4279bcaaa11973ca42e017",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20100915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/07/11/n2/consolide/20100915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "170a5a0fdac7fbf80597e0123ba0956e5d2507474528efd63c9351771a1723e8"
+  "record_sha256": "8f6b27d25148499f8d015ca62efa3a5c4bc2850c8c1ef7eba9ecfda48811bb33"
 }

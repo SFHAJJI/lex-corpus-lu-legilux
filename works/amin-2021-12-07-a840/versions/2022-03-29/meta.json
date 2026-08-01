@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/03/2022 : Arr\u00EAt\u00E9 minist\u00E9riel du 7 d\u00E9cembre 2021 concernant la d\u00E9classification temporaire d\u2019une zone au statut de zone d\u00E9limit\u00E9e en une zone publique pour la mise en place d\u2019un centre de vaccination dans les locaux de Luxembourg Air Rescue ASBL.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2021/12/07/a840/consolide/20220329/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "89b4abb6c15d31a4302ba37a1be0c3584318b4c8eacb66c03bf276a1cff445bf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2021/12/07/a840/consolide/20220329/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/amin/2021/12/07/a840/consolide/20220329/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0f1648a202bfcc6a92daf45dcaf959b42240dca12d93d165e686e45df848cfb1"
+  "record_sha256": "7d30f4eb53b4a7d41f76f1ea6a1374361432edfde8d2326ad090a6ec8abd3237"
 }

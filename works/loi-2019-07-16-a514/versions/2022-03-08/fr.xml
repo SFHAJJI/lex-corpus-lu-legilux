@@ -1,0 +1,1740 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#somebody">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2019-07-16" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MFI"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2019-07-16" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2019-07-16" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo</scl:jolux><scl:jolux scl:name="publicationDate">2019-07-18</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux><scl:jolux scl:name="dateDocument">2019-07-16</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MFI</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1032</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/302</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1038</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3091</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3444</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/899</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/524</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/629</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/954</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3444</scl:jolux><scl:jolux scl:name="dateApplicability">2022-03-08</scl:jolux><scl:jolux scl:name="dateEntryInForce">2019-07-22</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2019/a514</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo/fr</scl:jolux>
+<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 08/03/2022 : Loi du 16 juillet 2019 portant\n1. mise en œuvre du règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens ;\n2. mise en œuvre du règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens ;\n3. mise en œuvre du règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme ; \n4. mise en œuvre du règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires ;\n5. mise en œuvre du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, et modifiant les directives 2009/65/CE, 2009/138/CE et 2011/61/UE et les règlements (CE) n° 1060/2009 et (UE) n° 648/2012 ; \n6. modification de la loi modifiée du 5 avril 1993 relative au secteur financier ;\n7. modification de la loi du 23 juillet 2016 relative aux fonds d’investissement alternatifs réservés.</scl:jolux>
+<scl:jolux scl:name="titleShort">Loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS.</scl:jolux>
+<scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/1993/04/05/n1/jo</scl:jolux>
+<scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/2016/07/23/n7/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/1978/660/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/1983/349/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2006/43/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2009/138/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2009/65/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2011/61/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2013/34/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2009/1060/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2012/648/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2013/345/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2013/346/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2015/760/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2017/1131/jo</scl:jolux>
+<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/reg_ue/2017/2402/jo</scl:jolux>
+<scl:jolux scl:name="draft">http://data.legilux.public.lu/eli/etat/proj/pl/20180282</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo/fr</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2019/a514/fr/pdf</scl:jolux>
+<scl:jolux scl:name="memorialPage">1</scl:jolux>
+<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’État du Grand-Duché de Luxembourg – Service central de législation</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2019-07-16-a514-jo-fr-xml.xml</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2019-07-16" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2022-03-08" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+<eventRef date="2022-03-08" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2022/02/25/a82/jo"/>
+<destination href="#art_18"/>
+</textualMod>
+<textualMod id="pm2" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2022/02/25/a82/jo"/>
+<destination href="#art_18"/>
+</textualMod>
+<textualMod id="pm3" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2022/02/25/a82/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm4" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2022/02/25/a82/jo"/>
+<destination href="#art_25"/>
+</textualMod>
+<textualMod id="pm5" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2022/02/25/a84/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm6" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2022/02/25/a84/jo"/>
+<destination href="#art_25"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/loi/2019/07/09/n3/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/loi/2022/02/25/a84/jo" id="rp2" showAs="Loi du 25 février 2022 portant 1° modification de la loi modifiée du 22 mars 2004 relative à la titrisation et portant modification de  - la loi modifiée du 5 avril 1993 relative au secteur financier  - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier  - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires  - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu  - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune  - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ; 2° modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ; 3° modification de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ; 4° modification de la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; 5° mise en œuvre du règlement (UE) 2020/1503 du Parlement européen et du Conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le règlement (UE) 2017/1129 et la directive (UE) 2019/1937."/>
+<passiveRef href="/eli/etat/leg/loi/2022/02/25/a82/jo" id="rp3" showAs="Loi du 25 février 2022 portant modification de : 1° la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; 2° la loi modifiée du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance ; 3° la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ;  en vue de la transposition de la directive (UE) 2021/2261 du Parlement européen et du Conseil du 15 décembre 2021 modifiant la directive 2009/65/CE en ce qui concerne l’utilisation de documents d’informations clés par les sociétés de gestion d’organismes de placement collectif en valeurs mobilières (OPCVM), et de la mise en œuvre : 1° du règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d’épargne-retraite individuelle (PEPP) ; 2° du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers ; 3° du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 ; 4° du règlement (UE) 2021/557 du Parlement européen et du Conseil du 31 mars 2021 modifiant le règlement (UE) 2017/2402 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, afin de favoriser la reprise après la crise liée à la COVID-19 ; 5° du règlement (UE) 2021/2259 du Parlement européen et du Conseil du 15 décembre 2021 modifiant le règlement (UE) n° 1286/2014 en vue de proroger le régime transitoire appliqué aux sociétés de gestion, aux sociétés d’investissement et aux personnes qui fournissent des conseils au sujet des parts d’organismes de placement collectif en valeurs mobilières (OPCVM) et d’OPCVM non coordonnés ou qui vendent ces parts."/>
+</references>
+<notes scl:type="modification" source="#rp3">
+<note id="M1" marker="1" refersTo="pm1" title="A|2022-03-03|2022-02-25|L|82">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/02/25/a82/jo">Loi du 25 février 2022 portant modification de : 1° la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; 2° la loi modifiée du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance ; 3° la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; en vue de la transposition de la directive (UE) 2021/2261 du Parlement européen et du Conseil du 15 décembre 2021 modifiant la directive 2009/65/CE en ce qui concerne l’utilisation de documents d’informations clés par les sociétés de gestion d’organismes de placement collectif en valeurs mobilières (OPCVM), et de la mise en œuvre : 1° du règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d’épargne-retraite individuelle (PEPP) ; 2° du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers ; 3° du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 ; 4° du règlement (UE) 2021/557 du Parlement européen et du Conseil du 31 mars 2021 modifiant le règlement (UE) 2017/2402 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, afin de favoriser la reprise après la crise liée à la COVID-19 ; 5° du règlement (UE) 2021/2259 du Parlement européen et du Conseil du 15 décembre 2021 modifiant le règlement (UE) n° 1286/2014 en vue de proroger le régime transitoire appliqué aux sociétés de gestion, aux sociétés d’investissement et aux personnes qui fournissent des conseils au sujet des parts d’organismes de placement collectif en valeurs mobilières (OPCVM) et d’OPCVM non coordonnés ou qui vendent ces parts.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp3">
+<note id="M2" marker="2" refersTo="pm2" title="A|2022-03-03|2022-02-25|L|82">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/02/25/a82/jo">Loi du 25 février 2022 portant modification de : 1° la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; 2° la loi modifiée du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance ; 3° la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; en vue de la transposition de la directive (UE) 2021/2261 du Parlement européen et du Conseil du 15 décembre 2021 modifiant la directive 2009/65/CE en ce qui concerne l’utilisation de documents d’informations clés par les sociétés de gestion d’organismes de placement collectif en valeurs mobilières (OPCVM), et de la mise en œuvre : 1° du règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d’épargne-retraite individuelle (PEPP) ; 2° du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers ; 3° du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 ; 4° du règlement (UE) 2021/557 du Parlement européen et du Conseil du 31 mars 2021 modifiant le règlement (UE) 2017/2402 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, afin de favoriser la reprise après la crise liée à la COVID-19 ; 5° du règlement (UE) 2021/2259 du Parlement européen et du Conseil du 15 décembre 2021 modifiant le règlement (UE) n° 1286/2014 en vue de proroger le régime transitoire appliqué aux sociétés de gestion, aux sociétés d’investissement et aux personnes qui fournissent des conseils au sujet des parts d’organismes de placement collectif en valeurs mobilières (OPCVM) et d’OPCVM non coordonnés ou qui vendent ces parts.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp3">
+<note id="M3" marker="3" refersTo="pm3" title="A|2022-03-03|2022-02-25|L|82">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/02/25/a82/jo">Loi du 25 février 2022 portant modification de : 1° la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; 2° la loi modifiée du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance ; 3° la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; en vue de la transposition de la directive (UE) 2021/2261 du Parlement européen et du Conseil du 15 décembre 2021 modifiant la directive 2009/65/CE en ce qui concerne l’utilisation de documents d’informations clés par les sociétés de gestion d’organismes de placement collectif en valeurs mobilières (OPCVM), et de la mise en œuvre : 1° du règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d’épargne-retraite individuelle (PEPP) ; 2° du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers ; 3° du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 ; 4° du règlement (UE) 2021/557 du Parlement européen et du Conseil du 31 mars 2021 modifiant le règlement (UE) 2017/2402 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, afin de favoriser la reprise après la crise liée à la COVID-19 ; 5° du règlement (UE) 2021/2259 du Parlement européen et du Conseil du 15 décembre 2021 modifiant le règlement (UE) n° 1286/2014 en vue de proroger le régime transitoire appliqué aux sociétés de gestion, aux sociétés d’investissement et aux personnes qui fournissent des conseils au sujet des parts d’organismes de placement collectif en valeurs mobilières (OPCVM) et d’OPCVM non coordonnés ou qui vendent ces parts.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp3">
+<note id="M4" marker="4" refersTo="pm4" title="A|2022-03-03|2022-02-25|L|82">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/02/25/a82/jo">Loi du 25 février 2022 portant modification de : 1° la loi modifiée du 17 décembre 2010 concernant les organismes de placement collectif ; 2° la loi modifiée du 17 avril 2018 relative aux documents d’informations clés relatifs aux produits d’investissement packagés de détail et fondés sur l’assurance ; 3° la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; en vue de la transposition de la directive (UE) 2021/2261 du Parlement européen et du Conseil du 15 décembre 2021 modifiant la directive 2009/65/CE en ce qui concerne l’utilisation de documents d’informations clés par les sociétés de gestion d’organismes de placement collectif en valeurs mobilières (OPCVM), et de la mise en œuvre : 1° du règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d’épargne-retraite individuelle (PEPP) ; 2° du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers ; 3° du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088 ; 4° du règlement (UE) 2021/557 du Parlement européen et du Conseil du 31 mars 2021 modifiant le règlement (UE) 2017/2402 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, afin de favoriser la reprise après la crise liée à la COVID-19 ; 5° du règlement (UE) 2021/2259 du Parlement européen et du Conseil du 15 décembre 2021 modifiant le règlement (UE) n° 1286/2014 en vue de proroger le régime transitoire appliqué aux sociétés de gestion, aux sociétés d’investissement et aux personnes qui fournissent des conseils au sujet des parts d’organismes de placement collectif en valeurs mobilières (OPCVM) et d’OPCVM non coordonnés ou qui vendent ces parts.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M5" marker="5" refersTo="pm5" title="A|2022-03-04|2022-02-25|L|84">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/02/25/a84/jo">Loi du 25 février 2022 portant 1° modification de la loi modifiée du 22 mars 2004 relative à la titrisation et portant modification de - la loi modifiée du 5 avril 1993 relative au secteur financier - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ; 2° modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ; 3° modification de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ; 4° modification de la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; 5° mise en œuvre du règlement (UE) 2020/1503 du Parlement européen et du Conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le règlement (UE) 2017/1129 et la directive (UE) 2019/1937.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M6" marker="6" refersTo="pm6" title="A|2022-03-04|2022-02-25|L|84">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/02/25/a84/jo">Loi du 25 février 2022 portant 1° modification de la loi modifiée du 22 mars 2004 relative à la titrisation et portant modification de - la loi modifiée du 5 avril 1993 relative au secteur financier - la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier - la loi du 27 juillet 2003 sur le trust et les contrats fiduciaires - la loi modifiée du 4 décembre 1967 relative à l’impôt sur le revenu - la loi modifiée du 16 octobre 1934 concernant l’impôt sur la fortune - la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée ; 2° modification de la loi modifiée du 23 décembre 1998 portant création d’une commission de surveillance du secteur financier ; 3° modification de la loi modifiée du 19 décembre 2002 concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises ; 4° modification de la loi du 16 juillet 2019 portant mise en œuvre des règlements EuVECA, EuSEF, MMF, ELTIF et Titrisation STS ; 5° mise en œuvre du règlement (UE) 2020/1503 du Parlement européen et du Conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le règlement (UE) 2017/1129 et la directive (UE) 2019/1937.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle style="8">
+<p>Version consolidée applicable au 08/03/2022 : Loi du 16 juillet 2019 portant</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>
+<b>mise en œuvre du règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens ;</b>
+</li>
+<li>
+<b>mise en œuvre du règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens ;</b>
+</li>
+<li>
+<b>mise en œuvre du règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme ;</b>
+</li>
+<li>
+<b>mise en œuvre du règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires ;</b>
+</li>
+<li>
+<b>mise en œuvre du règlement (UE) 2017/2402 du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, et modifiant les directives 2009/65/CE, 2009/138/CE et 2011/61/UE et les règlements (CE) n° 1060/2009 et (UE) n° 648/2012 ;</b>
+</li>
+<li>
+<b>modification de la loi modifiée du 5 avril 1993 relative au secteur financier ;</b>
+</li>
+<li>
+<b>modification de la loi du 23 juillet 2016 relative aux fonds d’investissement alternatifs réservés.</b>
+</li>
+</ol>
+</longTitle>
+</preface>
+<body>
+<chapter id="chapitre_1er">
+<num>
+<b>Chapitre</b> <b>1<sup>er </sup>
+</b>
+</num>
+<heading scl:separator="–" scl:style-format="b">
+<b> Mise en œuvre du règlement (UE) n° 345/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens et du règlement (UE) n° 346/2013 du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens</b>
+</heading>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_1er/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<heading>
+<b>Autorité compétente au Luxembourg</b>
+</heading>
+<alinea>
+<content>
+<p>La Commission de surveillance du secteur financier, dénommée ci-après « CSSF », est l’autorité compétente chargée de veiller à l’application du présent chapitre, du <ref href="/eli/reg_ue/2013/345/jo" id="aa9ac6ce-bbf3-4ddb-9e41-5bcc92636ad0">règlement (UE) n° 345/2013</ref> du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds de capital-risque européens, dénommé ci-après « <ref href="/eli/reg_ue/2013/345/jo" id="031cccad-78ac-4ae5-ad5b-901e8ea785e5">règlement (UE) n° 345/2013</ref> », et du <ref href="/eli/reg_ue/2013/346/jo" id="b7c2f45a-80f2-4d1e-8980-2054f3c2a0e4">règlement (UE) n° 346/2013</ref> du Parlement européen et du Conseil du 17 avril 2013 relatif aux fonds d’entrepreneuriat social européens, dénommé ci-après « <ref href="/eli/reg_ue/2013/346/jo" id="6dcf0cca-fae6-4202-98cb-b7b175f7d416">règlement (UE) n° 346/2013</ref> ».</p>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_2/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<heading>
+<b>Pouvoirs de la CSSF</b>
+</heading>
+<paragraph id="paragraph_1">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Aux fins de l’application du présent chapitre, du <ref href="/eli/reg_ue/2013/345/jo" id="65373b8b-310f-4a2d-ab44-039030adcb70">règlement (UE) n° 345/2013</ref> et du <ref href="/eli/reg_ue/2013/346/jo" id="988173a6-1042-4012-b9d3-96f569674e1c">
+<span scl:no-break="true">règlement (UE) n° 346/2013</span>
+</ref>, la CSSF est investie des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de ses fonctions.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_2">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Sans préjudice de l’article 21<i>bis</i> du <ref href="/eli/reg_ue/2013/345/jo" id="afc36a04-46e5-4052-bb31-3d1aa7f012e7">règlement (UE) n° 345/2013</ref> et de l’article 22<i>bis</i> du <ref href="/eli/reg_ue/2013/346/jo" id="275c9102-3bb9-4b6e-be0e-692e147475ef">
+<span>règlement (UE) n° 346/2013</span>
+</ref>, les pouvoirs de la CSSF sont les suivants :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>d’accéder à tout document et à toute donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre une copie ;</li>
+<li>d’exiger du gestionnaire de fonds de capital-risque éligibles ou du gestionnaire de fonds d’entrepreneuriat social éligibles qu’il fournisse des informations sans délai ;</li>
+<li>d’exiger des informations auprès de toute personne liée à l’activité du gestionnaire de fonds de capital-risque éligibles ou du fonds de capital-risque éligible, et de toute personne liée à l’activité du gestionnaire de fonds d’entrepreneuriat social éligibles ou du fonds d’entrepreneuriat social éligible ;</li>
+<li>de procéder à des inspections sur place auprès des personnes soumises à sa surveillance ;</li>
+<li>de prendre les mesures appropriées pour faire en sorte qu’un gestionnaire de fonds de capital-risque éligibles ou un gestionnaire de fonds d’entrepreneuriat social éligibles continue de satisfaire respectivement au <ref href="/eli/reg_ue/2013/345/jo" id="48b06dab-4928-4837-b16f-acf1ca457c19">règlement (UE) n° 345/2013</ref> ou au <ref href="/eli/reg_ue/2013/346/jo" id="86be5004-308d-46b1-bb36-b18ea3f54fac">règlement (UE) n° 346/2013</ref> et des mesures prises pour leur exécution ;</li>
+<li>d’enjoindre à un gestionnaire de fonds de capital-risque éligibles ou à un gestionnaire de fonds d’entrepreneuriat social éligibles de respecter respectivement le <ref href="/eli/reg_ue/2013/345/jo" id="78ccc0a0-e626-4f9e-ad0e-352675ab92cc">règlement (UE) n° 345/2013</ref> ou le <ref href="/eli/reg_ue/2013/346/jo" id="845dc9d6-e1a5-4bf1-89fe-414009a961e8">règlement (UE) n° 346/2013</ref> et les mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation auxdits règlements ou aux mesures prises pour leur exécution ;</li>
+<li>de transmettre des informations au procureur d’État en vue de poursuites pénales.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_3/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<heading>
+<b>Sanctions administratives</b>
+</heading>
+<paragraph id="paragraph_3">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesures administratives suivantes en cas de violation des articles 4 à 14<i>bis</i> et 15 du <ref href="/eli/reg_ue/2013/345/jo" id="5cd52ba0-e8c9-4e3e-83f9-3e976d3d3c67">règlement (UE) n° 345/2013</ref> ou des articles 4 à 15<i>bis</i> et 16 du <ref href="/eli/reg_ue/2013/346/jo" id="2b639ef8-ec91-4965-a98d-8c210454d825">règlement (UE) n° 346/2013</ref> :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>une déclaration publique précisant l’identité de la personne responsable et la nature de la violation ;</li>
+<li>l’interdiction temporaire pour une personne exerçant des fonctions de direction ou pour toute personne physique à laquelle incombe la responsabilité d’une telle violation d’exercer des fonctions de direction ;</li>
+<li>une amende administrative d’un montant maximal de trois fois l’avantage retiré de la violation ou les pertes qu’elle a permis d’éviter, s’ils peuvent être déterminés, même si les montants de ces sanctions sont supérieurs aux montants visés aux points 4 et 5 ;</li>
+<li>dans le cas d’une personne physique, une amende administrative d’un montant maximal de 1 000 000 euros ;</li>
+<li>dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la <ref href="/eli/dir_ue/2013/34/jo" id="a8941e5a-6710-454b-84d5-053d5ac7b96e">directive 2013/34/UE</ref> du Parlement européen et du Conseil du 26 juin 2013 relative aux états financiers annuels, aux états financiers consolidés et aux rapports y afférents de certaines formes d’entreprises, modifiant la directive <ref href="/eli/dir_ue/2006/43/jo" id="7c3a189b-35f3-4a76-b3f3-5ee202226401">2006/43/CE</ref> du Parlement européen et du Conseil et abrogeant les <span ns3727365:no-break="true">directives <ref href="http://legilux.public.lu/eli/dir_ue/1978/660/jo" id="4f2fa28b-a0f2-4d38-b65e-556eea837a29">78/660/CEE</ref>
+</span> et <ref href="/eli/dir_ue/1983/349/jo" id="e940e24a-2e4d-45a1-b6d6-5a22fbcd91ab">83/349/CEE</ref> du Conseil, dénommée ci-après « <ref href="/eli/dir_ue/2013/34/jo" id="d6acacca-2e09-4451-b17d-65ff69f6814c">directive 2013/34/UE</ref> », le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_4">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF peut prononcer une amende d’ordre de 250 à 250 000 euros contre ceux qui font obstacle à l’exercice de ses pouvoirs de contrôle et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu de l’article 2, paragraphe 2, point 6, ou qui lui ont sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 2, paragraphe 2, points 1 à 4.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_5">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF, lorsqu’elle détermine le type et le niveau des sanctions ou mesures administratives, tient compte de la mesure dans laquelle la violation est intentionnelle ou résulte d’une négligence, ainsi que de toutes les autres circonstances pertinentes, et notamment, le cas échéant :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>de la matérialité, de la gravité et de la durée de la violation ;</li>
+<li>du degré de responsabilité de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’assise financière de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>des pertes subies par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>du degré de coopération de la personne physique ou morale responsable de la violation avec la CSSF, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;</li>
+<li>des violations antérieures commises par la personne physique ou morale responsable de la violation.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_4/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<heading>
+<b>Droit de recours</b>
+</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF en vertu du présent chapitre, du <ref href="/eli/reg_ue/2013/345/jo" id="782f12c7-e50e-459b-ae5a-fa93bf75605d">règlement (UE) n° 345/2013</ref> ou du <ref href="/eli/reg_ue/2013/346/jo" id="670f2a29-1487-4263-b63c-6d7fe197909a">règlement (UE) n° 346/2013</ref> peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_5/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5.</num>
+<heading>
+<b>Publication des décisions</b>
+</heading>
+<paragraph id="paragraph_6">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF publie sur son site internet les décisions n’ayant fait l’objet d’aucun recours et imposant une sanction ou mesure administrative en raison d’une violation des articles 4 à 14<i>bis</i> et 15 du <ref href="/eli/reg_ue/2013/345/jo" id="c0c0eee7-5a29-4cf5-8473-f8081368c2cd">
+<span scl:no-break="true">règlement (UE) n° 345/2013</span>
+</ref> ou des articles 4 à 15<i>bis</i> et 16 du <ref href="/eli/reg_ue/2013/346/jo" id="7fec7d0e-be69-45ac-b518-528b43b0e971">règlement (UE) n° 346/2013</ref>, sans retard injustifié après que la personne faisant l’objet de cette décision en a été informée. La publication contient au moins des informations sur le type et la nature de la violation et sur l’identité des personnes responsables. Cette obligation ne s’applique pas aux décisions imposant des mesures dans le cadre d’une enquête.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cependant, si la publication de l’identité des personnes morales ou des données à caractère personnel des personnes physiques est jugée disproportionnée par la CSSF à l’issue d’une évaluation au cas par cas menée sur la proportionnalité de la publication de telles données ou si une telle publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>retarde la publication de la décision imposant la sanction ou mesure jusqu’au moment où les motifs de la non-publication cessent d’exister ;</li>
+<li>publie la décision imposant la sanction ou la mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou</li>
+<li>ne publie pas la décision imposant une sanction ou une mesure, lorsque les options envisagées aux points 1 et 2 sont jugées insuffisantes :<ol ns3727365:start="1" ns3727365:symbol="a)">
+<li>pour éviter que la stabilité des marchés financiers ne soit compromise ; ou</li>
+<li>pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.</li>
+</ol>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Au cas où la CSSF décide de publier une sanction ou une mesure de manière anonyme, la publication des données pertinentes peut être différée pendant une période raisonnable s’il est prévu que, au cours de cette période, les motifs de la publication anonyme cesseront d’exister.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_7">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF veille à ce que toute décision publiée conformément au présent article demeure disponible sur son site internet pendant une période de cinq ans après sa publication.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les données à caractère personnel contenues dans les publications visées à l’alinéa 1<sup>er</sup> ne sont maintenues sur le site internet que pendant une durée maximale de douze mois.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_2">
+<num>
+<b>Chapitre 2</b> </num>
+<heading scl:separator="–" scl:style-format="b"> <b>Mise en œuvre du règlement (UE) 2015/760 du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme</b>
+</heading>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_6/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6.</num>
+<heading>
+<b>Autorité compétente au Luxembourg</b>
+</heading>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente chargée de veiller à l’application du présent chapitre et du <ref href="/eli/reg_ue/2015/760/jo" id="a5d494b4-749c-42d3-8d3f-cc18a3016822">règlement (UE) 2015/760</ref> du Parlement européen et du Conseil du 29 avril 2015 relatif aux fonds européens d’investissement à long terme, dénommé ci-après « <ref href="/eli/reg_ue/2015/760/jo" id="90cbc478-70d7-4546-9a8b-e5de191ea758">règlement (UE) 2015/760</ref> ».</p>
+</content>
+</alinea>
+</article>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_7/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 7.</num>
+<heading>
+<b>Pouvoirs de la CSSF</b>
+</heading>
+<alinea>
+<content>
+<p>Aux fins de l’application du présent chapitre et des articles 3 à 31 du <ref href="/eli/reg_ue/2015/760/jo" id="3d066aa3-583d-4e34-bf21-acfeadcce90a">règlement (UE) 2015/760</ref>, la CSSF est investie de tous les pouvoirs de surveillance et d’enquête prévus à l’article 50 de la <ref href="/eli/etat/leg/loi/2013/07/12/n1/jo" id="c31fa8a4-5495-4006-8c38-527531c55039">loi modifiée du <span scl:no-break="true">12 juillet 2013</span>
+</ref> relative aux gestionnaires de fonds d’investissement alternatifs envers les personnes visées au <ref href="/eli/reg_ue/2015/760/jo" id="b5db01ae-91fe-4339-aec1-22fe38597838">règlement (UE) 2015/760</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_8/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8.</num>
+<heading>
+<b>Sanctions administratives</b>
+</heading>
+<paragraph id="paragraph_8">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesures administratives suivantes en cas de violation de l’article 3, paragraphe 1<sup>er</sup>, des articles 4 et 7, de l’article 9, paragraphes 1<sup>er</sup> et 2, des articles 10 et 12, de l’article 13, paragraphes 1<sup>er</sup> à 6, des articles 14 à 17, de l’article 18, paragraphes 1<sup>er</sup>, 2 et 6, des articles 19 et 20, de l’article 21, paragraphes 1<sup>er</sup> et 2, des articles 22 à 24, de l’article 25, paragraphes 1<sup>er</sup> et 2, de l’article 26, paragraphe 1<sup>er</sup>, des articles 27 et 28, de l’article 29, paragraphes 1<sup>er</sup>, 2, 3 et 5, ou des articles 30 et 31, paragraphes 1<sup>er</sup> à 3 du <ref href="/eli/reg_ue/2015/760/jo" id="c9b27466-dc96-4e6b-a9ad-f5bd10557717">règlement (UE) 2015/760</ref> :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>une déclaration publique précisant l’identité de la personne responsable et la nature de la violation ;</li>
+<li>l’interdiction temporaire pour une personne exerçant des fonctions de direction ou pour toute personne physique à laquelle incombe la responsabilité d’une telle violation d’exercer des fonctions de direction ;</li>
+<li>une amende administrative d’un montant maximal de trois fois l’avantage retiré de la violation ou les pertes qu’elle a permis d’éviter, s’ils peuvent être déterminés, même si les montants de ces sanctions sont supérieurs aux montants visés aux points 4 et 5 ;</li>
+<li>dans le cas d’une personne physique, une amende administrative d’un montant maximal de 1 000 000 euros ;</li>
+<li>dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la <ref href="/eli/dir_ue/2013/34/jo" id="c774811b-e4d8-44ce-bbe9-cca4d04778c7">directive 2013/34/UE</ref>, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_9">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF peut prononcer une amende d’ordre de 250 à 250 000 euros contre ceux qui font obstacle à l’exercice de ses pouvoirs de contrôle et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu de l’article 7, qui lui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 7, ou qui ne se conforment pas à ses exigences basées sur l’article 7.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_10">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF, lorsqu’elle détermine le type et le niveau des sanctions ou mesures administratives, tient compte de la mesure dans laquelle la violation est intentionnelle ou résulte d’une négligence, ainsi que de toutes les autres circonstances pertinentes, et notamment, le cas échéant :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>de la matérialité, de la gravité et de la durée de la violation ;</li>
+<li>du degré de responsabilité de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’assise financière de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>des pertes subies par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>du degré de coopération de la personne physique ou morale responsable de la violation avec la CSSF, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;</li>
+<li>des violations antérieures commises par la personne physique ou morale responsable de la violation.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_9/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 9.</num>
+<heading>
+<b>Droit de recours</b>
+</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF en vertu du présent chapitre ou du <ref href="/eli/reg_ue/2015/760/jo" id="6689a982-b618-47ea-b413-8cd09a98f586">règlement (UE) 2015/760</ref> peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_10/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 10.</num>
+<heading>
+<b>Publication des décisions</b>
+</heading>
+<paragraph id="paragraph_11">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF publie sur son site internet les décisions n’ayant fait l’objet d’aucun recours et imposant une sanction ou mesure administrative en raison d’une violation des articles 3 à 31 du <ref href="/eli/reg_ue/2015/760/jo" id="008470e1-6809-403e-9dcb-0eb6cf02f861">règlement (UE) 2015/760</ref>, sans retard injustifié après que la personne faisant l’objet de cette décision en a été informée. La publication contient au moins des informations sur le type et la nature de la violation et sur l’identité des personnes responsables. Cette obligation ne s’applique pas aux décisions imposant des mesures dans le cadre d’une enquête.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cependant, si la publication de l’identité des personnes morales ou des données à caractère personnel des personnes physiques est jugée disproportionnée par la CSSF à l’issue d’une évaluation au cas par cas menée sur la proportionnalité de la publication de telles données ou si une telle publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>retarde la publication de la décision imposant la sanction ou mesure jusqu’au moment où les motifs de la non-publication cessent d’exister ;</li>
+<li>publie la décision imposant la sanction ou la mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou</li>
+<li>ne publie pas la décision imposant une sanction ou une mesure, lorsque les options envisagées aux points 1 et 2 sont jugées insuffisantes :<ol ns3727365:start="1" ns3727365:symbol="a)">
+<li>pour éviter que la stabilité des marchés financiers ne soit compromise ; ou</li>
+<li>pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.</li>
+</ol>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Au cas où la CSSF décide de publier une sanction ou une mesure de manière anonyme, la publication des données pertinentes peut être différée pendant une période raisonnable s’il est prévu que, au cours de cette période, les motifs de la publication anonyme cesseront d’exister.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_12">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF veille à ce que toute décision publiée conformément au présent article demeure disponible sur son site internet pendant une période de cinq ans après sa publication.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les données à caractère personnel des personnes physiques contenues dans les publications visées à l’alinéa 1<sup>er</sup> ne sont maintenues sur le site internet que pendant une durée maximale de douze mois.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_3">
+<num>
+<b>Chapitre 3</b> </num>
+<heading scl:separator=" –" scl:style-format="b">
+<b> Mise en œuvre du règlement (UE) 2017/1131 du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires</b>
+</heading>
+<article id="art_11">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_11</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_11/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 11.</num>
+<heading>
+<b>Autorité compétente au Luxembourg</b>
+</heading>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente chargée de veiller à l’application du présent chapitre et du <ref href="/eli/reg_ue/2017/1131/jo" id="76494cde-cccc-438d-a01e-d0e3e42520d2">règlement (UE) 2017/1131</ref> du Parlement européen et du Conseil du 14 juin 2017 sur les fonds monétaires, dénommé ci-après « <ref href="/eli/reg_ue/2017/1131/jo" id="61dee50a-7aad-490d-9b14-8b07eef4c8ef">règlement (UE) 2017/1131</ref> ».</p>
+</content>
+</alinea>
+</article>
+<article id="art_12">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_12</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_12/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 12.</num>
+<heading>
+<b>Pouvoirs de la CSSF</b>
+</heading>
+<paragraph id="paragraph_13">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Aux fins de l’application du présent chapitre et du <ref href="/eli/reg_ue/2017/1131/jo" id="5e69fd40-ca28-4dec-ac14-2456086fca19">règlement (UE) 2017/1131</ref>, la CSSF est investie des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de ses fonctions.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_14">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les pouvoirs de la CSSF sont les suivants :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>d’accéder à tout document et à toute donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre une copie ;</li>
+<li>de demander à un fonds monétaire ou au gestionnaire d’un fonds monétaire de fournir des informations sans retard ;</li>
+<li>d’exiger des informations auprès de toute personne liée à l’activité d’un fonds monétaire ou du gestionnaire d’un fonds monétaire ;</li>
+<li>de procéder à des inspections sur place auprès des personnes soumises à sa surveillance ;</li>
+<li>de prendre les mesures appropriées pour faire en sorte qu’un fonds monétaire ou le gestionnaire d’un fonds monétaire continue de se conformer au <ref href="/eli/reg_ue/2017/1131/jo" id="6d7fa58e-c21f-491a-942d-eb18d2a63ab4">règlement (UE) 2017/1131</ref> et des mesures prises pour son exécution ;</li>
+<li>d’enjoindre à un fonds monétaire ou au gestionnaire d’un fonds monétaire de respecter le <ref href="/eli/reg_ue/2017/1131/jo" id="3939b0ba-3e45-4d58-b8b0-dce5b2b26763">règlement (UE) 2017/1131</ref> et les mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation audit règlement ou aux mesures prises pour son exécution ;</li>
+<li>de transmettre des informations au procureur d’État en vue de poursuites pénales.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_13">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_13</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_13/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 13.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 13.</num>
+<heading>
+<b>Sanctions administratives</b>
+</heading>
+<paragraph id="paragraph_15">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF a le pouvoir d’infliger les sanctions administratives et autres mesures administratives suivantes en cas de violation de l’article 4, paragraphe 1<sup>er</sup>, de l’article 6, de l’article 7, paragraphes 1<sup>er</sup> à 4, de l’article 9, de l’article 10, paragraphes 1<sup>er</sup> et 2, de l’article 11, paragraphes 1<sup>er</sup> à 3, des articles 12 à 14, de l’article 15, paragraphes 1<sup>er</sup> à 6, de l’article 16, de l’article 17, paragraphes 1<sup>er</sup> à 6, 8 et 9, de l’article 18, paragraphe 1<sup>er</sup>, des articles 19 à 21, de l’article 23, de l’article 24, paragraphes 1<sup>er</sup> et 2, des articles 25 à 27, de l’article 28, paragraphes 1<sup>er</sup> à 5, des articles 29 à 36, ou de l’article 37, paragraphes 1<sup>er</sup> à 3 du <ref href="/eli/reg_ue/2017/1131/jo" id="9cf80485-fd48-40de-baec-1e74f3dea946">règlement (UE) 2017/1131</ref> :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>une déclaration publique précisant l’identité de la personne responsable et la nature de la violation ;</li>
+<li>l’interdiction temporaire pour une personne exerçant des fonctions de direction ou pour toute personne physique à laquelle incombe la responsabilité d’une telle violation d’exercer des fonctions de direction ;</li>
+<li>une amende administrative d’un montant maximal de trois fois l’avantage retiré de la violation ou les pertes qu’elle a permis d’éviter, s’ils peuvent être déterminés, même si les montants de ces sanctions sont supérieurs aux montants visés aux points 4 et 5 ;</li>
+<li>dans le cas d’une personne physique, une amende administrative d’un montant maximal de 1 000 000 euros ;</li>
+<li>dans le cas d’une personne morale, une amende administrative d’un montant maximal de 5 000 000 euros ou de 10 pour cent du chiffre d’affaires annuel total réalisé par cette personne morale selon les derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la <ref href="/eli/dir_ue/2013/34/jo" id="a42a545d-f82c-4749-affa-70e635aeb31a">directive 2013/34/UE</ref>, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_16">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF peut prononcer une amende d’ordre de 250 à 250 000 euros contre ceux qui font obstacle à l’exercice de ses pouvoirs de contrôle et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu de l’article 12, paragraphe 2, point 6, ou qui lui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 12, paragraphe 2, points 1 à 4.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_17">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF, lorsqu’elle détermine le type et le niveau des sanctions ou mesures administratives, tient compte de la mesure dans laquelle la violation est intentionnelle ou résulte d’une négligence, ainsi que de toutes les autres circonstances pertinentes, et notamment, le cas échéant :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>de la matérialité, de la gravité et de la durée de la violation ;</li>
+<li>du degré de responsabilité de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’assise financière de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>des pertes subies par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>du degré de coopération de la personne physique ou morale responsable de la violation avec la CSSF, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;</li>
+<li>des violations antérieures commises par la personne physique ou morale responsable de la violation.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_14">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_14</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_14/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 14.</num>
+<heading>
+<b>Droit de recours</b>
+</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF en vertu du présent chapitre ou du <ref href="/eli/reg_ue/2017/1131/jo" id="ed92f5e4-31b8-4bc5-9fa5-08a415553013">règlement (UE) 2017/1131</ref> peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_15">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_15</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_15/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 15.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 15.</num>
+<heading>
+<b>Publication des décisions</b>
+</heading>
+<paragraph id="paragraph_18">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF publie sur son site internet les décisions n’ayant fait l’objet d’aucun recours et imposant une sanction ou mesure administrative en raison d’une violation des articles 4 à 21 et 23 à 37 du <ref href="/eli/reg_ue/2017/1131/jo" id="5e83ac3c-d388-4f4f-bb81-3fc803b3ae61">règlement (UE) 2017/1131</ref>, sans retard injustifié après que la personne faisant l’objet de cette décision en a été informée. La publication contient au moins des informations sur le type et la nature de la violation et sur l’identité des personnes responsables. Cette obligation ne s’applique pas aux décisions imposant des mesures dans le cadre d’une enquête.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cependant, si la publication de l’identité des personnes morales ou des données à caractère personnel des personnes physiques est jugée disproportionnée par la CSSF à l’issue d’une évaluation au cas par cas menée sur la proportionnalité de la publication de telles données ou si une telle publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>retarde la publication de la décision imposant la sanction ou mesure jusqu’au moment où les motifs de la non-publication cessent d’exister ;</li>
+<li>publie la décision imposant la sanction ou la mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou</li>
+<li>ne publie pas la décision imposant une sanction ou une mesure, lorsque les options envisagées aux points 1 et 2 sont jugées insuffisantes :<ol ns3727365:start="1" ns3727365:symbol="a)">
+<li>pour éviter que la stabilité des marchés financiers ne soit compromise ; ou</li>
+<li>pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.</li>
+</ol>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Au cas où la CSSF décide de publier une sanction ou une mesure de manière anonyme, la publication des données pertinentes peut être différée pendant une période raisonnable s’il est prévu que, au cours de cette période, les motifs de la publication anonyme cesseront d’exister.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_19">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF veille à ce que toute décision publiée conformément au présent article demeure disponible sur son site internet pendant une période de cinq ans après sa publication.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les données à caractère personnel contenues dans les publications visées à l’alinéa 1<sup>er</sup> ne sont maintenues sur le site internet que pendant une durée maximale de douze mois.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_4">
+<num>
+<b>Chapitre 4</b> </num>
+<heading scl:separator="–" scl:style-format="b"> <b>Mise en œuvre du règlement (UE) 2017/2402</b> <b>du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, et modifiant les directives 2009/65/CE, 2009/138/CE et 2011/61/UE et les règlements (CE) n° 1060/2009 et (UE) n° 648/2012</b>
+</heading>
+<article id="art_16">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_16</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_16/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 16.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 16.</num>
+<heading>
+<b>Autorité compétente au Luxembourg</b> </heading>
+<paragraph id="paragraph_20">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente au Luxembourg pour veiller au respect des obligations prévues aux articles 6 à 9 du <ref href="/eli/reg_ue/2017/2402/jo" id="0c2f169b-946f-4438-b84f-6ec4268d0943">règlement (UE) 2017/2402</ref> du Parlement européen et du Conseil du 12 décembre 2017 créant un cadre général pour la titrisation ainsi qu’un cadre spécifique pour les titrisations simples, transparentes et standardisées, et modifiant les <ref href="/eli/dir_ue/2009/65/jo" id="5a043e1d-5dfb-4596-aafe-2d6f46f568fe">directives 2009/65/CE</ref>, <ref href="/eli/dir_ue/2009/138/jo" id="48bbd278-3eb8-4e9b-a118-4f8b181d250f">2009/138/CE</ref> et <ref href="/eli/dir_ue/2011/61/jo" id="cffc289e-17a3-443d-acf2-2e7e7d89c4d9">2011/61/UE</ref> et les <ref href="/eli/reg_ue/2009/1060/jo" id="70d04115-2339-43e7-be51-11f3ae66a760">règlements (CE) n° 1060/2009</ref> et <ref href="/eli/reg_ue/2012/648/jo" id="696d2633-75de-4c5f-8695-838f0bb60cdc">(UE) n° 648/2012</ref>, dénommé ci-après le « <ref href="/eli/reg_ue/2017/2402/jo" id="06994142-5e64-47b6-91d6-e6e8de652b1d">règlement (UE) 2017/2402</ref> », par les initiateurs, les prêteurs initiaux et les entités de titrisation, ci-après « SSPE », établis au Luxembourg, sans préjudice de l’article 29, paragraphe 3, du <ref href="/eli/reg_ue/2017/2402/jo" id="6f67b320-3371-402e-9e44-ee0a09a46c64">règlement (UE) 2017/2402</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Par dérogation à l’alinéa 1<sup>er</sup>, le Commissariat aux assurances, dénommé ci-après le « CAA », est l’autorité compétente au Luxembourg pour veiller au respect des obligations prévues aux articles 6 à 9 du <ref href="/eli/reg_ue/2017/2402/jo" id="dbfa12bb-2174-41d6-bbc2-443f95dfe85e">règlement (UE) 2017/2402</ref> par les initiateurs, les prêteurs initiaux et les SSPE établis au Luxembourg et soumis à sa surveillance.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_21">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF est également l’autorité compétente au Luxembourg pour veiller, conformément à l’article 29, paragraphe 5 du <ref href="/eli/reg_ue/2017/2402/jo" id="36ea029c-e7bd-4a3f-b202-0dbe9862e4f1">règlement (UE) 2017/2402</ref>, au respect des articles 18 à 27 dudit règlement par les initiateurs, les sponsors et les SSPE, et au respect de l’article 28 du <ref href="/eli/reg_ue/2017/2402/jo" id="78d4fe5b-6516-41f8-9c94-7d87d6cec13f">règlement (UE) 2017/2402</ref> par les tiers visés à l’article 27, paragraphe 2, dudit règlement.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_17">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_17</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_17/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 17.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 17.</num>
+<heading>
+<b>Pouvoirs de la CSSF</b>
+<b> et du CAA</b>
+</heading>
+<paragraph id="paragraph_22">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Aux fins de l’application du <ref href="/eli/reg_ue/2017/2402/jo" id="7735fa19-7c0d-4cc0-826f-6ea1f008d5f4">règlement (UE) 2017/2402</ref> et du présent chapitre, la CSSF et le CAA sont investis des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de leurs missions respectives dans les limites définies par ledit règlement.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_23">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les pouvoirs en question sont les suivants :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>d’accéder à tout document et à toute donnée, sous quelque forme que ce soit, et d’en recevoir ou d’en prendre copie ;</li>
+<li>de demander des informations à toute personne et, si nécessaire, de convoquer une personne et de l’entendre ;</li>
+<li>de procéder à des inspections sur place ou des enquêtes auprès des personnes soumises à leur surveillance respective ;</li>
+<li>d’enjoindre de respecter les dispositions du <ref href="/eli/reg_ue/2017/2402/jo" id="100a4abd-d91f-42a0-9bda-bca01627fa01">règlement (UE) 2017/2402</ref> et des mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation audit règlement ou aux mesures prises pour son exécution ;</li>
+<li>d’adopter toute mesure nécessaire pour s’assurer que les personnes soumises à leur surveillance continuent de se conformer aux exigences du <ref href="/eli/reg_ue/2017/2402/jo" id="99ef6704-fbee-4ff1-b76e-c23bc30c6fdb">règlement (UE) 2017/2402</ref>, du présent chapitre et des mesures prises pour leur exécution ;</li>
+<li>de transmettre des informations au procureur d’État en vue de poursuites pénales.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_18">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_18</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_18/20220308</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 18.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-03-08</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 18.</num>
+<heading>
+<b>Sanctions administratives</b>
+</heading>
+<paragraph id="paragraph_24">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA, en tant qu’autorités compétentes désignées en vertu de l’article 29, paragraphes 1<sup>er</sup> à 3, du <ref href="/eli/reg_ue/2017/2402/jo" id="fdf79772-c5f5-48cc-8329-389f07004288">règlement (UE) 2017/2402</ref> et de l’article 16 de la présente loi, ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2, au cas où :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>l’initiateur, le sponsor ou le prêteur initial ne satisfait pas aux exigences prévues à l’article 6 du <ref href="/eli/reg_ue/2017/2402/jo" id="b6f8ff5e-0078-47b2-9269-b5f8d3133e15">règlement (UE) 2017/2402</ref> ;</li>
+<li>l’initiateur, le sponsor ou la SSPE ne satisfait pas aux exigences prévues à l’article 7 du <ref href="/eli/reg_ue/2017/2402/jo" id="418b0c92-9ba9-4288-9f36-bde449c04a4a">règlement (UE) 2017/2402</ref> ;</li>
+<li>l’initiateur, le sponsor ou le prêteur initial ne répond pas aux critères prévus à l’article 9 du <ref href="/eli/reg_ue/2017/2402/jo" id="ef0de8e3-97d0-4984-89ea-3dfef10f8b90">règlement (UE) 2017/2402</ref> ;</li>
+<li>l’initiateur, le sponsor ou la SSPE ne satisfait pas aux exigences prévues à l’article 18 du <ref href="/eli/reg_ue/2017/2402/jo" id="089b6853-e107-43a1-88a9-469f2cec663d">règlement (UE) 2017/2402</ref> ;</li>
+<li>lorsqu’une titrisation est considérée comme étant simple, transparente et standardisée, l’initiateur, le sponsor ou la SSPE de cette titrisation ne satisfait pas aux exigences prévues aux articles 19 à 22 ou 23 à 26 <mod class="mod-start" for="#pm1"/>ou aux articles 26<i>bis</i> à 26<i>sexies<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/> </i>du <ref href="/eli/reg_ue/2017/2402/jo" id="fc7e929e-a1d2-4479-91fa-204cf68991ba">règlement (UE) 2017/2402</ref> ;</li>
+<li>l’initiateur ou le sponsor fait une déclaration trompeuse au titre de l’article 27, paragraphe 1<sup>er</sup>, du <ref href="/eli/reg_ue/2017/2402/jo" id="8ab95eca-b1f8-4bdc-9e4d-38a47c86e572">règlement (UE) 2017/2402</ref> ;</li>
+<li>l’initiateur ou le sponsor ne satisfait pas aux exigences prévues à l’article 27, paragraphe 4, du <ref href="/eli/reg_ue/2017/2402/jo" id="82dcd5ba-fda1-42f9-b104-2c6a1809af82">règlement (UE) 2017/2402</ref> ; ou</li>
+<li>le tiers agréé en vertu de l’article 28 du <ref href="/eli/reg_ue/2017/2402/jo" id="fc894644-92bc-4296-8ec7-c245eaeb51b3">règlement (UE) 2017/2402</ref> n’a pas notifié les modifications significatives apportées aux informations fournies conformément à l’article 28, paragraphe 1<sup>er</sup>, dudit règlement, ou toute autre modification dont on pourrait raisonnablement estimer qu’elle influe sur l’évaluation de la CSSF ou du CAA.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Lorsque les dispositions visées à l’alinéa 1<sup>er</sup> s’appliquent à des personnes morales, la CSSF et le CAA ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 à l’égard des membres de l’organe de direction.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_25">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA peuvent, dans les limites de leurs compétences respectives, pour les cas visés au paragraphe 1<sup>er </sup>:</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>rendre un avis public qui précise l’identité de la personne physique ou morale en cause et la nature de la violation conformément à l’article 37 du <ref href="/eli/reg_ue/2017/2402/jo" id="1844ae2b-ea49-4e8e-ab35-7df3bda9bf92">règlement (UE) 2017/2402</ref> ;</li>
+<li>prononcer une interdiction temporaire d’exercer des fonctions de direction au sein de l’initiateur, du sponsor ou de la SSPE, à l’égard de tout membre de l’organe de direction de ces entreprises ;</li>
+<li>prononcer des amendes administratives d’un montant maximal de deux fois l’avantage retiré de la violation, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux prévus aux points 4 et 5 ;</li>
+<li>dans le cas d’une personne physique, prononcer une amende administrative d’un montant maximal de 5 000 000 euros ;</li>
+<li>dans le cas d’une personne morale, prononcer une amende administrative d’un montant maximal de <span ns3727365:no-break="true">5 000 000 euros</span> ou 10 pour cent du chiffre d’affaires total annuel net de la personne morale tel qu’il ressort des derniers comptes disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la <ref href="/eli/dir_ue/2013/34/jo" id="7aceb70f-302f-463e-8db6-a3354179cdba">directive 2013/34/UE</ref>, le chiffre d’affaires total annuel net à prendre en considération est le chiffre d’affaires total annuel tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La CSSF et le CAA peuvent prononcer, dans les limites de leurs compétences respectives, une amende d’ordre de 250 à 250 000 euros contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite aux injonctions prononcées en vertu de l’article 17, paragraphe 2, point 4, ou qui auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 17, paragraphe 2, points 1 à 3.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_26">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF peut en outre prononcer une interdiction temporaire imposée à l’initiateur et au sponsor de notifier, en application de l’article 27, paragraphe 1<sup>er</sup>, du <ref href="/eli/reg_ue/2017/2402/jo" id="e710d860-6739-4c7c-aa75-cb253a86323a">règlement (UE) 2017/2402</ref>, qu’une titrisation satisfait aux exigences prévues aux articles 19 à 22 ou 23 à 26 <mod class="mod-start" for="#pm2"/>ou aux articles 26<i>bis</i> à 26<i>sexies<mod class="mod-end" for="#pm2"/>
+<noteRef href="#M2" marker="2"/> </i>dudit règlement dans le cas d’une violation visée au paragraphe 1<sup>er</sup>, alinéa 1<sup>er</sup>, points 5 et 6, de la présente loi et prononcer un retrait temporaire de l’agrément visé à l’article 28, du <ref href="/eli/reg_ue/2017/2402/jo" id="6798c283-19ba-4902-a1f1-1a581e188bb9">règlement 2017/2402</ref> dans le cas d’une violation visée au paragraphe 1<sup>er</sup>, alinéa 1<sup>er</sup>, point 8, de la présente loi.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_19">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_19</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_19/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 19.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 19.</num>
+<heading>
+<b>Droit de recours</b>
+</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF ou le CAA en vertu du présent chapitre ou du <ref href="/eli/reg_ue/2017/2402/jo" id="7905c4f6-81be-43ad-87c4-d6e6c5abb1b5">règlement (UE) 2017/2402</ref> peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_20</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_20/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 20.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 20.</num>
+<heading>
+<b>Publication des décisions</b>
+</heading>
+<paragraph id="paragraph_27">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA publient sur leur site internet respectif, conformément aux modalités prévues à l’article 37 du <ref href="/eli/reg_ue/2017/2402/jo" id="70ff9205-e733-4f5d-bc0e-49b40d264d15">règlement (UE) 2017/2402</ref>, toute décision d’imposer une sanction administrative n’ayant fait l’objet d’aucun recours et prononcée en raison d’une violation à l’article 6, 7, 9 ou 27, paragraphe 1<sup>er</sup>, du <ref href="/eli/reg_ue/2017/2402/jo" id="cee739c2-6b27-4d1b-b2f2-ee1eb6d0f55e">règlement (UE) 2017/2402</ref>, sans retard injustifié après que la personne faisant l’objet de cette décision en a été informée.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_28">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Lorsque la publication de l’identité, dans le cas de personnes morales, ou de l’identité et des données à caractère personnel, dans le cas de personnes physiques, est jugée disproportionnée par la CSSF ou le CAA à l’issue d’une évaluation au cas par cas, ou lorsque la CSSF ou le CAA estime qu’une telle publication compromet la stabilité des marchés financiers ou une enquête pénale en cours, ou lorsque la publication est de nature à causer, pour autant que la CSSF ou le CAA puisse le déterminer, un préjudice disproportionné à la personne concernée, la CSSF et le CAA :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:start="1" ns3727365:symbol="1.">
+<li>diffèrent la publication de la décision d’imposer la sanction administrative jusqu’à ce que les raisons de ne pas la publier cessent d’exister ;</li>
+<li>publient la décision d’imposer la sanction administrative de manière anonyme ; ou</li>
+<li>ne publient pas la décision d’imposer la sanction administrative lorsque les options envisagées aux points 1 et 2 sont jugées insuffisantes pour garantir :<ol ns3727365:start="1" ns3727365:symbol="a)">
+<li>que la stabilité des marchés financiers ne serait pas compromise ; ou</li>
+<li>la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.</li>
+</ol>
+</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_4bis">
+<num>
+<mod class="mod-start" for="#pm3"/>
+<u>Chapitre 4<i>bis</i>
+</u>
+</num>
+<heading scl:style-format="n"> <u>Mise en œuvre du règlement (UE) 2019/1238 du Parlement européen et du Conseil du 20 juin 2019 relatif à un produit paneuropéen d’épargne-retraite individuelle (PEPP)</u>
+</heading>
+<article id="art_20-1">
+<num>
+<u>Art. 20-1.</u>
+</num>
+<heading scl:style-format="u">Définitions</heading>
+<alinea>
+<content>
+<p>Les termes utilisés dans le présent chapitre ont la signification qui leur est attribuée par le <ref href="/eli/reg_ue/2019/1238/jo" id="b4882572-6f33-49b6-b10b-eeaa34504d88">règlement (UE) 2019/1238</ref> du Parlement européen et du Conseil du 20 juin 2019 relatif au produit paneuropéen d’épargne-retraite individuelle (PEPP), ci-après le « <ref href="/eli/reg_ue/2019/1238/jo" id="cabe1a17-24c4-4f94-a1d8-99d09e1f415a">règlement (UE) 2019/1238</ref> ».</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-2">
+<num>
+<u>Art. 20-2.</u>
+</num>
+<heading scl:style-format="u">Autorité compétente au Luxembourg</heading>
+<paragraph id="paragraph_29">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente chargée de veiller à l’application du présent chapitre et du <ref href="/eli/reg_ue/2019/1238/jo" id="422f47d5-ab75-4119-9432-559b05403b76">règlement (UE) 2019/1238</ref> par les fournisseurs et distributeurs de PEPP qui relèvent de la surveillance de la CSSF.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente de l’État membre d’accueil pour les fournisseurs et distributeurs de PEPP établis dans un autre État membre qui fournissent ou distribuent des produits paneuropéens d’épargne-retraite individuelle, ci-après « PEPP », au Luxembourg, et qui, s’ils étaient établis au Luxembourg, relèveraient de la surveillance de la CSSF.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_30">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le CAA est l’autorité compétente chargée de veiller à l’application du présent chapitre et du <ref href="/eli/reg_ue/2019/1238/jo" id="0c7ae70b-507f-453c-ac79-e342feef60a8">règlement (UE) 2019/1238</ref> par les fournisseurs et distributeurs de PEPP qui relèvent de la surveillance du CAA.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le CAA est l’autorité compétente de l’État membre d’accueil pour les fournisseurs et distributeurs de PEPP établis dans un autre État membre qui fournissent ou distribuent des PEPP au Luxembourg, et qui, s’ils étaient établis au Luxembourg, relèveraient de la surveillance du CAA.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_31">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente de l’État membre d’accueil pour la fourniture ou la distribution de PEPP au Luxembourg par des institutions de retraite professionnelle établies dans un autre État membre, visées à l’article 6, paragraphe 1<sup>er</sup>, lettre c), du <ref href="/eli/reg_ue/2019/1238/jo" id="9b7bfa90-9c7d-4658-86a1-c39578d1fabe">règlement (UE) 2019/1238</ref>.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-3">
+<num>
+<u>Art. 20-3.</u>
+</num>
+<heading scl:style-format="u">Pouvoirs de la CSSF et du CAA</heading>
+<paragraph id="paragraph_32">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Aux fins de l’application du présent chapitre, du <ref href="/eli/reg_ue/2019/1238/jo" id="ca468655-ca01-4e34-a0a0-c342a27661d3">règlement (UE) 2019/1238</ref> et des mesures prises pour leur exécution, la CSSF et le CAA sont investis des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de leurs fonctions dans les limites définies par ledit règlement.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_33">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les pouvoirs de la CSSF et du CAA sont les suivants :</p>
+<ol xmlns:ns1="http://www.scl.lu" ns1:start="1" ns1:symbol="1.">
+<li>accéder à tout document et à toute donnée, sous quelque forme que ce soit, et en recevoir ou en prendre une copie ;</li>
+<li>exiger du fournisseur de PEPP ou du distributeur de PEPP qu’il fournisse des informations sans délai ;</li>
+<li>exiger des informations auprès de toute personne liée à l’activité du fournisseur de PEPP, et de toute personne liée à l’activité du distributeur de PEPP ;</li>
+<li>procéder à des inspections sur place auprès des personnes soumises à leur surveillance respective ;</li>
+<li>prendre les mesures appropriées pour faire en sorte qu’un fournisseur de PEPP ou un distributeur de PEPP continue de se conformer aux dispositions du <ref href="/eli/reg_ue/2019/1238/jo" id="d33890b7-91c0-4e4a-838e-ca4ee4251203">règlement (UE) 2019/1238</ref> et des mesures prises pour son exécution ;</li>
+<li>enjoindre à un fournisseur de PEPP ou à un distributeur de PEPP de se conformer aux dispositions du <ref href="/eli/reg_ue/2019/1238/jo" id="09346171-221d-484a-bedd-fc0bbcfb70d7">règlement (UE) 2019/1238</ref> et des mesures prises pour son exécution et de s’abstenir de répéter tout comportement qui constitue une violation desdites dispositions ;</li>
+<li>transmettre des informations au procureur d’État en vue de poursuites pénales.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-4">
+<num>
+<u>Art. 20-4.</u>
+</num>
+<heading scl:style-format="u">Sanctions administratives</heading>
+<paragraph id="paragraph_34">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :</p>
+<ol xmlns:ns2="http://www.scl.lu" ns2:start="1" ns2:symbol="custom">
+<li ns2:symbol="1.">en cas de violation de l’article 4, de l’article 5, paragraphe 1<sup>er</sup>, de l’article 6, paragraphe 1<sup>er</sup>, paragraphe 2 et paragraphe 6, alinéa 2, de l’article 7, paragraphe 3, de l’article 8, paragraphe 5, de l’article 9, de l’article 14, de l’article 15, paragraphes 1<sup>er</sup> et 5, de l’article 18, de l’article 19, de l’article 20, paragraphes 1<sup>er</sup> et 4, de l’article 21, paragraphes 1<sup>er</sup> , 2 et 6, de l’article 22, de l’article 23, paragraphe 1<sup>er</sup>, de l’article 24, de l’article 25, paragraphe 1<sup>er</sup>, de l’article 26, de l’article 27, de l’article 28, paragraphes 1<sup>er</sup> à 4, de l’article 29, de l’article 30, paragraphe 1<sup>er</sup>, de l’article 33, paragraphes 1<sup>er</sup> et 2, de l’article 34, de l’article 35, de l’article 36, paragraphe 1<sup>er</sup>, de l’article 37, paragraphe 1<sup>er</sup>, de l’article 38, de l’article 39, de l’article 40, paragraphes 1<sup>er</sup>, 3 et 4, paragraphe 5, alinéa 1<sup>er</sup>, paragraphe 6 et paragraphe 8, de l’article 41, paragraphe 1<sup>er</sup>, de l’article 42, paragraphes 2 et 3, de l’article 44, de l’article 45, paragraphes 1<sup>er</sup> et 2, de l’article 46, paragraphe 1<sup>er</sup>, de l’article 48, paragraphe 1<sup>er</sup>, de l’article 49, paragraphe 3, de l’article 50, paragraphes 1<sup>er</sup> à 5, de l’article 52, de l’article 53, de l’article 54, paragraphes 3 et 4, de l’article 55, paragraphe 1<sup>er</sup>, de l’article 56, de l’article 59 et de l’article 60 du <ref href="/eli/reg_ue/2019/1238/jo" id="c7c8ccdd-6c8d-4672-9616-8055c7fff083">règlement (UE) 2019/1238</ref> ;</li>
+<li ns2:symbol="2.">contre toute personne qui fournit ou distribue des produits portant l’appellation « produit paneuropéen d’épargne-retraite individuelle » ou « PEPP » sans avoir satisfait à l’exigence d’enregistrement ;</li>
+<li ns2:symbol="3.">contre un dépositaire qui ne s’est pas acquitté de ses missions de supervision au titre de l’article 48 du <ref href="/eli/reg_ue/2019/1238/jo" id="69338189-bc7d-4b48-bb70-50de5e6cd4d1">règlement (UE) 2019/1238</ref> ;</li>
+<li ns2:symbol="4.">contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à leurs injonctions prononcées en vertu de l’article 20-3, paragraphe 2, points 5 et 6, ou qui leur auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 20-3, paragraphe 2, points 1 à 4.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_35">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Dans les cas visés au paragraphe 1<sup>er</sup>, la CSSF et le CAA peuvent prononcer, dans les limites de leurs compétences respectives, contre les personnes soumises à leur surveillance respective, contre les membres de leur organe de direction et contre toute autre personne responsable d’une violation :</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>une déclaration publique qui précise l’identité de la personne physique ou morale et la nature de la violation ;</li>
+<li>une injonction ordonnant à la personne physique ou morale de mettre un terme au comportement en cause et lui interdisant de le réitérer ;</li>
+<li>une interdiction temporaire d’exercer des fonctions de direction au sein d’une personne morale soumise à leur surveillance, imposée à tout membre de son organe de direction, de surveillance ou d’administration qui est tenu pour responsable, ou à toute autre personne physique qui est tenue pour responsable ;</li>
+<li>dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 5 000 000 euros ;</li>
+<li>dans le cas d’une personne morale, les amendes administratives maximales visées au point 4 peuvent atteindre jusqu’à 10 pour cent du chiffre d’affaires annuel total selon les derniers comptes disponibles approuvés par l’organe de direction, de surveillance ou d’administration. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des comptes consolidés conformément à la <ref href="/eli/dir_ue/2013/34/jo" id="9f1f59ab-9c56-4f9e-9ea2-404782acfd43">directive 2013/34/UE</ref>, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total, tel qu’il ressort des derniers comptes consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;</li>
+<li>dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 700 000 euros ;</li>
+<li>des amendes administratives d’un montant maximal de deux fois l’avantage retiré de la violation ou les pertes qu’elle a permis d’éviter, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux prévus respectivement aux points 4, 5 ou 6.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les sanctions administratives et autres mesures administratives sont effectives, proportionnées et dissuasives. Lorsque la CSSF ou le CAA déterminent le type de sanctions administratives ou autres mesures administratives et le niveau des amendes administratives, ils tiennent compte de toutes les circonstances prévues à l’article 68, paragraphe 2, du <ref href="/eli/reg_ue/2019/1238/jo" id="f72d90b2-9eb4-4343-8f23-bc51eeb59428">règlement (UE) 2019/1238</ref>.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-5">
+<num>
+<u>Art. 20-5.</u>
+</num>
+<heading scl:style-format="u">Droit de recours</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF ou le CAA en vertu du présent chapitre ou du <ref href="/eli/reg_ue/2019/1238/jo" id="1ca7dc58-1353-4e82-9798-d24927413e24">règlement (UE) 2019/1238</ref> peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-6">
+<num>
+<u>Art. 20-6.</u>
+</num>
+<heading scl:style-format="u">Publication des décisions</heading>
+<paragraph id="paragraph_36">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA publient sur leur site internet respectif, conformément aux modalités prévues à l’article 69 du <ref href="/eli/reg_ue/2019/1238/jo" id="849aa35e-c9f3-40b8-91fb-0a59cba8e962">règlement (UE) 2019/1238</ref>, les décisions imposant une sanction ou mesure administrative prononcée en raison d’une violation visée à l’article 20-4, paragraphe 1<sup>er</sup>, points 1 à 3, sans retard injustifié après que la personne faisant l’objet de cette décision en a été informée. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_37">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA veillent à ce que toute décision publiée conformément au présent article et à l’article 69 du <ref href="/eli/reg_ue/2019/1238/jo" id="58ee5200-ba24-4bc7-bbc4-649d3a23e1d0">règlement (UE) 2019/1238</ref> demeure disponible sur leur site internet respectif pendant une période de cinq ans après sa publication.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les données à caractère personnel des personnes physiques contenues dans les publications visées à l’alinéa 1<sup>er</sup> ne sont maintenues sur leur site internet que pendant une durée maximale de douze mois.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_4ter">
+<num>
+<u>Chapitre 4<i>ter</i>
+</u>
+</num>
+<heading scl:style-format="n"> <u>Mise en œuvre du règlement (UE) 2019/2088 du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers et du règlement (UE) 2020/852 du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le règlement (UE) 2019/2088</u>
+</heading>
+<article id="art_20-7">
+<num>
+<u>Art. 20-7.</u>
+</num>
+<heading scl:style-format="u">Définitions</heading>
+<alinea>
+<content>
+<p>Les termes utilisés dans le présent chapitre ont la signification qui leur est attribuée par le <ref href="/eli/reg_ue/2019/2088/jo" id="c3264b77-56d9-42f3-a4b1-38273564619a">règlement (UE) 2019/2088</ref> du Parlement européen et du Conseil du 27 novembre 2019 sur la publication d’informations en matière de durabilité dans le secteur des services financiers, dénommé ci-après « <ref href="/eli/reg_ue/2019/2088/jo" id="5c16165d-2e6b-48c7-aed4-88b224a9373f">règlement (UE) 2019/2088</ref> » ou le <ref href="/eli/reg_ue/2020/852/jo" id="059c766a-c779-4d2c-a00d-cec789fd7b6d">règlement (UE) 2020/852</ref> du Parlement européen et du Conseil du 18 juin 2020 sur l’établissement d’un cadre visant à favoriser les investissements durables et modifiant le <ref href="/eli/reg_ue/2019/2088/jo" id="0fb7de42-e82d-4a90-8941-4cf40c56af94">règlement (UE) 2019/2088</ref>, dénommé ci-après « <ref href="/eli/reg_ue/2020/852/jo" id="95ffda49-2b51-4123-bec3-fe216561536a">règlement (UE) 2020/852</ref> ».</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-8">
+<num>
+<u>Art. 20-8.</u>
+</num>
+<heading scl:style-format="u">Autorité compétente au Luxembourg</heading>
+<paragraph id="paragraph_38">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente chargée de veiller à l’application du présent chapitre, du <ref href="/eli/reg_ue/2019/2088/jo" id="b0e9d55a-d5c4-4589-a78c-853d9ed20dd1">règlement (UE) 2019/2088</ref> et du <ref href="/eli/reg_ue/2020/852/jo" id="06f73602-cf32-44e9-bf37-a7fecbdf1fe3">règlement (UE) 2020/852</ref>, par les acteurs des marchés financiers et les conseillers financiers qui relèvent de sa surveillance.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_39">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Le CAA est l’autorité compétente chargée de veiller à l’application du présent chapitre, du <ref href="/eli/reg_ue/2019/2088/jo" id="ca64e981-c27d-4fbe-9c7c-d3c328cba533">règlement (UE) 2019/2088</ref> et du <ref href="/eli/reg_ue/2020/852/jo" id="82c23095-a20e-48fa-a95c-daad9dd76f8a">règlement (UE) 2020/852</ref>, par les acteurs des marchés financiers et les conseillers financiers qui relèvent de sa surveillance.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-9">
+<num>
+<u>Art. 20-9.</u>
+</num>
+<heading scl:style-format="u">Pouvoirs de la CSSF et du CAA</heading>
+<paragraph id="paragraph_40">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Aux fins de l’application du présent chapitre, du <ref href="/eli/reg_ue/2019/2088/jo" id="db17362c-b280-45c8-a437-d791292e0b9a">règlement (UE) 2019/2088</ref> et du <ref href="/eli/reg_ue/2020/852/jo" id="d09c7962-0111-4b63-99a6-3b00d66a3350">règlement (UE) 2020/852</ref> et des mesures prises pour leur exécution, la CSSF et le CAA sont investis des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de leurs fonctions dans les limites définies par lesdits règlements.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_41">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les pouvoirs de la CSSF et du CAA sont les suivants :</p>
+<ol xmlns:ns4="http://www.scl.lu" ns4:start="1" ns4:symbol="1.">
+<li>accéder à tout document et à toute donnée, sous quelque forme que ce soit, et en recevoir ou en prendre une copie ;</li>
+<li>exiger d’un acteur des marchés financiers ou d’un conseiller financier qu’il fournisse des informations sans délai ;</li>
+<li>exiger des informations auprès de toute personne liée à l’activité d’un acteur des marchés financiers ou d’un conseiller financier ;</li>
+<li>procéder à des inspections sur place auprès des personnes soumises à leur surveillance respective ;</li>
+<li>prendre les mesures appropriées pour faire en sorte qu’un acteur des marchés financiers ou un conseiller financier continue de se conformer aux dispositions du <ref href="/eli/reg_ue/2019/2088/jo" id="1fc8511c-e74b-49bc-afd2-74090aa5d1f4">règlement (UE) 2019/2088</ref>, du <ref href="/eli/reg_ue/2020/852/jo" id="b4d285ba-12a5-49e4-b5f5-b96e2e22be63">règlement (UE) 2020/852</ref> et des mesures prises pour leur exécution ;</li>
+<li>enjoindre à un acteur des marchés financiers ou à un conseiller financier de se conformer aux dispositions du <ref href="/eli/reg_ue/2019/2088/jo" id="099f0397-6bc2-4a84-9feb-bed5d012277a">règlement (UE) 2019/2088</ref>, du <ref href="/eli/reg_ue/2020/852/jo" id="ed545eb0-bd50-4be2-9c08-0f65f479909d">règlement (UE) 2020/852</ref> et des mesures prises pour leur exécution et de s’abstenir de répéter tout comportement qui constitue une violation desdites dispositions ;</li>
+<li>enjoindre à un acteur des marchés financiers ou à un conseiller financier de publier des informations à publier conformément au <ref href="/eli/reg_ue/2019/2088/jo" id="0947194e-eac9-4076-b236-d5d27a93c98c">règlement (UE) 2019/2088</ref> et au <ref href="/eli/reg_ue/2020/852/jo" id="1a85f6f4-6706-45aa-a05d-db1b3c803c4e">règlement (UE) 2020/852</ref> sur leur site internet, dans les informations précontractuelles ou dans les rapports périodiques, ou de modifier ou de supprimer des informations fausses ou trompeuses publiées afin de rendre celles-ci conformes aux critères posés par les <ref href="/eli/reg_ue/2019/2088/jo" id="ad1fee8c-134a-4210-bbb1-522c203a8500">règlements (UE) 2019/2088</ref> et <ref href="/eli/reg_ue/2020/852/jo" id="db40c281-9ce3-4a10-8c0a-253763b60555">(UE) 2020/852</ref> et les mesures prises pour leur exécution, et d’exiger la publication d’un communiqué rectificatif ;</li>
+<li>transmettre des informations au procureur d’État en vue de poursuites pénales ;</li>
+<li>donner instruction à des réviseurs d’entreprises agréés ou des experts d’effectuer des vérifications ou des enquêtes.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-10">
+<num>
+<u>Art. 20-10.</u>
+</num>
+<heading scl:style-format="u">Sanctions administratives</heading>
+<paragraph id="paragraph_42">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA ont le pouvoir d’infliger les sanctions administratives et autres mesures administratives visées au paragraphe 2 :</p>
+<ol xmlns:ns5="http://www.scl.lu" ns5:start="1" ns5:symbol="1.">
+<li>en cas de violation de l’article 3, de l’article 4, paragraphes 1<sup>er </sup>à 5, de l’article 5, de l’article 6, de l’article 7, de l’article 8, paragraphes 1<sup>er</sup> à 2<i>bis</i>, de l’article 9, paragraphes 1<sup>er</sup> à 4<i>bis</i>, de l’article 10, paragraphe 1<sup>er</sup>, de l’article 11, paragraphes 1<sup>er</sup> à 3, de l’article 12 et de l’article 13, paragraphe 1<sup>er</sup>, du <ref href="/eli/reg_ue/2019/2088/jo" id="4c80b601-859b-4097-b1bd-8176ec52c6ad">règlement (UE) 2019/2088</ref> ;</li>
+<li>en cas de violation de l’article 5, de l’article 6 et de l’article 7 du <ref href="/eli/reg_ue/2020/852/jo" id="e63072f4-e57a-4524-aaa9-7becd15045f3">règlement (UE) 2020/852</ref> ;</li>
+<li>contre ceux qui font obstacle à l’exercice de leurs pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à leurs injonctions prononcées en vertu de l’article 20-9, paragraphe 2, points 6 et 7, ou qui leur auront sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 20-9, paragraphe 2, points 1 à 4.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_43">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Dans les cas visés au paragraphe 1<sup>er</sup>, la CSSF et le CAA peuvent prononcer, dans les limites de leurs compétences respectives, contre les personnes soumises à leur surveillance respective, contre les membres de leur organe de direction et contre toute autre personne responsable d’une violation :</p>
+<ol xmlns:ns6="http://www.scl.lu" ns6:start="1" ns6:symbol="1.">
+<li>une déclaration publique précisant l’identité de la personne responsable et la nature de la violation ;</li>
+<li>l’interdiction temporaire pour une personne exerçant des fonctions de direction ou pour toute personne physique à laquelle incombe la responsabilité d’une telle violation d’exercer des fonctions de direction ;</li>
+<li>une amende administrative d’un montant de 250 à 250 000 euros.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les sanctions administratives et autres mesures administratives sont effectives, proportionnées et dissuasives.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_44">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA lorsqu’ils déterminent le type et le niveau des sanctions ou mesures administratives, tiennent compte de la mesure dans laquelle la violation est intentionnelle ou résulte d’une négligence, ainsi que de toutes les autres circonstances pertinentes, et notamment, le cas échéant :</p>
+<ol xmlns:ns7="http://www.scl.lu" ns7:start="1" ns7:symbol="1.">
+<li>de la matérialité, de la gravité et de la durée de la violation ;</li>
+<li>du degré de responsabilité de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’assise financière de la personne physique ou morale responsable de la violation ;</li>
+<li>de l’importance des gains obtenus ou des pertes évitées par la personne physique ou morale responsable de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>des pertes subies par des tiers du fait de la violation, dans la mesure où il est possible de les déterminer ;</li>
+<li>du degré de coopération de la personne physique ou morale responsable de la violation avec la CSSF ou le CAA, sans préjudice de la nécessité de veiller à la restitution des gains obtenus ou des pertes évitées par cette personne ;</li>
+<li>des violations antérieures commises par la personne physique ou morale responsable de la violation ;</li>
+<li>des mesures prises par la personne responsable de la violation pour éviter sa répétition.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-11">
+<num>
+<u>Art. 20-11.</u>
+</num>
+<heading scl:style-format="u">Droit de recours</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF ou le CAA en vertu du présent chapitre, du <ref href="/eli/reg_ue/2019/2088/jo" id="1a3f74da-a25d-4de1-acea-31a316a864c6">règlement (UE) 2019/2088</ref> ou du <ref href="/eli/reg_ue/2020/852/jo" id="ea5e8881-eb6d-4b10-a9f6-54bbccd28492">règlement (UE) 2020/852</ref> peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-12">
+<num>
+<u>Art. 20-12.</u>
+</num>
+<heading scl:style-format="u">Publication des décisions</heading>
+<paragraph id="paragraph_45">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA publient sur leur site internet respectif les décisions n’ayant fait l’objet d’aucun recours et imposant une sanction ou mesure administrative prononcée en raison d’une violation visée à l’article 20-10, paragraphe 1<sup>er</sup>, points 1 et 2, sans retard injustifié après que la personne faisant l’objet de cette décision en a été informée. La publication contient au moins des informations sur le type et la nature de la violation et sur l’identité des personnes responsables. Cette obligation ne s’applique pas aux décisions imposant des mesures dans le cadre d’une enquête.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cependant, si la publication de l’identité des personnes morales ou des données à caractère personnel des personnes physiques est jugée disproportionnée par la CSSF ou le CAA à l’issue d’une évaluation au cas par cas menée sur la proportionnalité de la publication de telles données ou si une telle publication compromet la stabilité des marchés financiers ou une enquête en cours, la CSSF et le CAA :</p>
+<ol xmlns:ns8="http://www.scl.lu" ns8:start="1" ns8:symbol="1.">
+<li>retardent la publication de la décision imposant la sanction ou mesure jusqu’au moment où les motifs de la non-publication cessent d’exister ;</li>
+<li>publient la décision imposant la sanction ou la mesure de manière anonyme, en conformité avec la législation applicable, si une telle publication anonyme garantit une réelle protection des données à caractère personnel en cause ; ou</li>
+<li>ne publient pas la décision imposant une sanction ou une mesure, lorsque les options envisagées aux points 1 et 2 sont jugées insuffisantes :<ol ns8:start="1" ns8:symbol="a)">
+<li>pour éviter que la stabilité des marchés financiers ne soit compromise ; ou</li>
+<li>pour garantir la proportionnalité de la publication de ces décisions, lorsque les mesures concernées sont jugées mineures.</li>
+</ol>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Au cas où la CSSF ou le CAA décide de publier une sanction ou une mesure de manière anonyme, la publication des données pertinentes peut être différée pendant une période raisonnable s’il est prévu que, au cours de cette période, les motifs de la publication anonyme cesseront d’exister.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_46">
+<num>(2)</num>
+<alinea>
+<content>
+<p>La CSSF et le CAA veillent à ce que toute décision publiée conformément au présent article demeure disponible sur leur site internet respectif pendant une période de cinq ans après sa publication.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les données à caractère personnel des personnes physiques contenues dans les publications visées à l’alinéa 1<sup>er</sup> ne sont maintenues sur leur site internet que pendant une durée maximale de douze mois.<mod class="mod-end" for="#pm3"/>
+<noteRef href="#M3" marker="3"/>
+</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_4quater">
+<num>
+<mod class="mod-start" for="#pm5"/>
+<u>Chapitre 4<i>quater</i>
+</u>
+</num>
+<heading scl:style-format="n"> <u>Mise en œuvre du règlement (UE) 2020/1503 du Parlement européen et du Conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le règlement (UE) 2017/1129 et la directive (UE) 2019/1937</u>
+</heading>
+<article id="art_20-13">
+<num>
+<u>Art. 20-13.</u>
+</num>
+<heading scl:style-format="u">Définitions</heading>
+<alinea>
+<content>
+<p>Les termes utilisés dans le présent chapitre ont la signification qui leur est attribuée par le <ref href="/eli/reg_ue/2020/1503/jo" id="9ec895c4-a61b-4b6f-83bf-79d7037cdf01">règlement (UE) 2020/1503</ref> du Parlement européen et du Conseil du 7 octobre 2020 relatif aux prestataires européens de services de financement participatif pour les entrepreneurs, et modifiant le <ref href="/eli/reg_ue/2017/1129/jo" id="a73e02ef-974d-4b0e-8d48-1cdc60cb552e">règlement (UE) 2017/1129</ref> et la <ref href="/eli/dir_ue/2019/1937/jo" id="d64bd2ec-a4dc-42ff-b29b-0b73e9934153">directive (UE) 2019/1937</ref>, ci-après « <ref href="/eli/reg_ue/2020/1503/jo" id="f9d439d3-3c57-4fa0-925e-e1fccfa7668d">règlement (UE) 2020/1503</ref> ».</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-14">
+<num>
+<u>Art. 20-14.</u>
+</num>
+<heading scl:style-format="u">Fonds reçus par les porteurs de projet</heading>
+<alinea>
+<content>
+<p>Les fonds des investisseurs reçus par les porteurs de projet dans le cadre de prêts facilités par un prestataire de services de financement participatif ne constituent pas des dépôts ou autres fonds remboursables au sens de l’article 2, paragraphe 3, de la <ref href="/eli/etat/leg/loi/1993/04/05/n1/jo" id="6638c85b-ef1d-4656-9a04-e1434f58630a">loi modifiée du 5 avril 1993</ref> relative au secteur financier.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-15">
+<num>
+<u>Art. 20-15.</u>
+</num>
+<heading scl:style-format="u">Autorité compétente au Luxembourg</heading>
+<alinea>
+<content>
+<p>La CSSF est l’autorité compétente chargée de veiller à l’application du <ref href="/eli/reg_ue/2020/1503/jo" id="eb49f81e-98c5-4f66-8716-edaf009f88d4">règlement (UE) 2020/1503</ref> et du présent chapitre.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20-16">
+<num>
+<u>Art. 20-16.</u>
+</num>
+<heading scl:style-format="u">Pouvoirs de la CSSF</heading>
+<paragraph id="paragraph_47">
+<num>(1)</num>
+<alinea>
+<content>
+<p>Aux fins de l’application du <ref href="/eli/reg_ue/2020/1503/jo" id="ae083b31-fab6-41ea-a059-e3ef019019f5">règlement (UE) 2020/1503</ref>, du présent chapitre et des mesures prises pour leur exécution, la CSSF est investie des pouvoirs de surveillance et d’enquête nécessaires à l’exercice de ses fonctions, dans les limites définies par ledit règlement et le présent chapitre.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_48">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les pouvoirs de la CSSF sont les suivants :</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>exiger des prestataires de services de financement participatif, des tiers désignés pour exercer des fonctions en rapport avec la prestation de services de financement participatif et des personnes physiques ou morales qui les contrôlent ou sont contrôlées par eux, et des porteurs de projets, qu’ils fournissent des informations et des documents ;</li>
+<li>exiger des réviseurs d’entreprises et des dirigeants des prestataires de services de financement participatif, et des tiers désignés pour exercer des fonctions en rapport avec la prestation de services de financement participatif, qu’ils fournissent des informations ;</li>
+<li>convoquer les dirigeants des prestataires de services de financement participatif et les entendre pour obtenir des informations ;</li>
+<li>procéder, auprès des personnes soumises à sa surveillance prudentielle, à des inspections sur place ou à des enquêtes sur des sites autres que les résidences privées de personnes physiques et, pour ce faire, pénétrer dans des locaux afin d’accéder à des documents et à d’autres données, sous quelque forme que ce soit ;</li>
+<li>charger des réviseurs d’entreprises ou des experts de procéder à l’enquête ou à l’inspection sur place auprès des personnes visées au point 4 ;</li>
+<li>suspendre une offre de financement participatif pendant un délai maximal de dix jours ouvrables consécutifs, chaque fois qu’il existe des motifs raisonnables de soupçonner qu’il y a eu violation du <ref href="/eli/reg_ue/2020/1503/jo" id="dbe91397-80a2-48a6-82ca-25661bce5dbf">règlement (UE) 2020/1503</ref> ;</li>
+<li>interdire ou suspendre les communications publicitaires ou exiger d’un prestataire de services de financement participatif ou d’un tiers désigné pour exercer des fonctions en rapport avec la prestation de services de financement participatif, qu’il arrête ou suspende les communications publicitaires pendant un délai maximal de dix jours ouvrables consécutifs, chaque fois qu’il existe des motifs raisonnables de croire qu’il y a eu violation du <ref href="/eli/reg_ue/2020/1503/jo" id="dc116383-77a0-4945-95ed-a93c735d9519">règlement (UE) 2020/1503</ref> ;</li>
+<li>interdire une offre de financement participatif en cas de violation du <ref href="/eli/reg_ue/2020/1503/jo" id="7e4c8a79-83f9-42d5-91fc-77def66668b4">règlement (UE) 2020/1503</ref>, ou lorsqu’il existe des motifs raisonnables de soupçonner qu’il y aurait violation du <ref href="/eli/reg_ue/2020/1503/jo" id="b22b6c63-30c1-47e9-aa0b-36689049c92a">règlement (UE) 2020/1503</ref> ;</li>
+<li>suspendre les prestations de services de financement participatif ou exiger d’un prestataire de services de financement participatif qu’il suspende ces prestations pendant un délai maximal de dix jours ouvrables consécutifs, chaque fois qu’il existe des motifs raisonnables de croire qu’il y a eu violation du <ref href="/eli/reg_ue/2020/1503/jo" id="da122775-1ffe-4dee-adc8-714bcf95d283">règlement (UE) 2020/1503</ref> ;</li>
+<li>interdire la prestation de services de financement participatif en cas de violation du <ref href="/eli/reg_ue/2020/1503/jo" id="b7088ea0-390c-4dd3-b943-ac6b85a94395">règlement (UE) 2020/1503</ref> ;</li>
+<li>rendre public le fait qu’un prestataire de services de financement participatif ou un tiers désigné pour exercer des fonctions en rapport avec la prestation de services de financement participatif ne se conforme pas aux obligations qui lui incombent ;</li>
+<li>divulguer ou exiger d’un prestataire de services de financement participatif ou d’un tiers désigné pour exercer des fonctions en rapport avec la prestation de services de financement participatif qu’il divulgue toutes les informations importantes susceptibles d’influer sur la prestation de services de financement participatif, afin de garantir la protection des investisseurs ou le bon fonctionnement du marché ;</li>
+<li>suspendre ou exiger d’un prestataire de services de financement participatif ou d’un tiers désigné pour exercer des fonctions en rapport avec la prestation de services de financement participatif qu’il suspende la prestation de services de financement participatif lorsqu’elle estime que la situation du prestataire de services de financement participatif est telle que cette prestation de services serait préjudiciable aux intérêts des investisseurs ;</li>
+<li>transférer les contrats existants à un autre prestataire de services de financement participatif lorsque l’agrément d’un prestataire de services de financement participatif est retiré conformément à l’article 17, paragraphe 1<sup>er</sup>, alinéa 1<sup>er</sup>, lettre c), du <ref href="/eli/reg_ue/2020/1503/jo" id="48f864b5-92e4-43da-839c-c827e19375e3">règlement (UE) 2020/1503</ref>, sous réserve de l’accord des clients et du prestataire de services de financement participatif destinataire ;</li>
+<li>transmettre des informations au procureur d’État en vue de poursuites pénales.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-17">
+<num>
+<u>Art. 20-17. </u>
+</num>
+<heading scl:style-format="u">Sanctions administratives et autres mesures administratives</heading>
+<paragraph id="paragraph_49">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La CSSF a le pouvoir d’infliger les sanctions administratives et les mesures administratives visées au paragraphe 2 :</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>en cas de violation des articles 3 à 5, de l’article 6, paragraphes 1<sup>er</sup> à 6, de l’article 7, paragraphes 1<sup>er</sup> à 4, de l’article 8, paragraphes 1<sup>er</sup> à 6, de l’article 9, paragraphes 1<sup>er</sup> et 2, de l’article 10, de l’article 11, de l’article 12, paragraphes 1<sup>er</sup> et 11, de l’article 13, paragraphe 2, de l’article 15, paragraphes 2 et 3, de l’article 16, paragraphe 1<sup>er</sup>, de l’article 18, paragraphes 1<sup>er</sup> et 4, de l’article 19, paragraphes 1<sup>er</sup> à 6, de l’article 20, paragraphes 1<sup>er</sup> et 2, de l’article 21, paragraphes 1<sup>er</sup> à 7, de l’article 22, de l’article 23, paragraphes 1<sup>er</sup> à 13, des articles 24 à 26 et de l’article 27, paragraphes 1<sup>er</sup> à 3, du <ref href="/eli/reg_ue/2020/1503/jo" id="51aa653c-5527-4144-a027-bdcdeea9c8d4">règlement (UE) 2020/1503</ref> ;</li>
+<li>en cas de refus de coopérer ou de se soumettre à une enquête, une inspection ou une demande, conformément à l’article 20-16, paragraphe 2, points 1 à 4.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_50">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Pour les cas visés au paragraphe 1<sup>er</sup>, la CSSF peut imposer :</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>une déclaration publique indiquant le nom de la personne physique ou morale responsable de la violation et la nature de la violation, conformément à l’article 42 du <ref href="/eli/reg_ue/2020/1503/jo" id="2da18b24-1bbf-4225-b8ef-b2826ddfd766">règlement (UE) 2020/1503</ref> ;</li>
+<li>une injonction ordonnant à la personne physique ou morale de mettre un terme au comportement constituant une violation et de s’abstenir de le réitérer ;</li>
+<li>une interdiction professionnelle d’exercer des fonctions de direction au sein des prestataires de services de financement participatif pour une durée maximale de 5 ans, à l’encontre de tout membre de l’organe de direction de la personne morale responsable de la violation ou de toute autre personne physique tenue pour responsable de la violation ;</li>
+<li>des amendes administratives d’un montant maximal de deux fois l’avantage retiré de la violation, si celui-ci peut être déterminé, même si ce montant dépasse les montants maximaux visés au point 5 ;</li>
+<li>dans le cas d’une personne morale, des amendes administratives d’un montant maximal de 500 000 euros ou de 5 pour cent du chiffre d’affaires annuel total de la personne morale tel qu’il ressort des derniers états financiers disponibles approuvés par l’organe de direction. Lorsque la personne morale est une entreprise mère ou une filiale d’une entreprise mère qui est tenue d’établir des états financiers consolidés conformément à la <ref href="/eli/dir_ue/2013/34/jo" id="d165d11a-d246-4604-973a-12967f9469a4">directive 2013/34/UE</ref>, le chiffre d’affaires annuel total à prendre en considération est le chiffre d’affaires annuel total ou le type de revenus correspondant selon le droit de l’Union européenne pertinent en matière comptable, tel qu’il ressort des derniers états financiers consolidés disponibles approuvés par l’organe de direction de l’entreprise mère ultime ;</li>
+<li>dans le cas d’une personne physique, des amendes administratives d’un montant maximal de 500 000 euros.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_51">
+<num>(3)</num>
+<alinea>
+<content>
+<p>La CSSF peut prononcer une amende d’ordre de 250 à 250 000 euros contre ceux qui font obstacle à l’exercice de ses pouvoirs de surveillance et d’enquête, qui ne donnent pas suite à ses injonctions prononcées en vertu du paragraphe 2, point 2, ou qui lui ont sciemment donné des informations inexactes ou incomplètes suite à des demandes basées sur l’article 20-16, paragraphe 2, points 1 à 4.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-18">
+<num>
+<u>Art. 20-18. </u>
+</num>
+<heading scl:style-format="u">Responsabilité liée à la fiche d’informations clés sur l’investissement</heading>
+<paragraph id="paragraph_52">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La responsabilité des informations figurant dans une fiche d’informations clés sur l’investissement visée à l’article 23, paragraphe 9, du <ref href="/eli/reg_ue/2020/1503/jo" id="46903399-7cbc-456b-961e-eb797d03dbce">règlement (UE) 2020/1503</ref> incombe au porteur de projet ou à ses organes d’administration, de direction ou de surveillance.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_53">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Conformément à l’article 23, paragraphe 10, du <ref href="/eli/reg_ue/2020/1503/jo" id="b8d2134a-4823-496a-ae41-ec8f0a482e6b">règlement (UE) 2020/1503</ref>, aucune responsabilité ne peut incomber aux personnes physiques et morales responsables des informations communiquées dans une fiche d’informations clés sur l’investissement, y compris dans sa traduction, sauf :</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>si les informations sont trompeuses ou inexactes ; ou</li>
+<li>si la fiche d’informations clés sur l’investissement omet des informations clés nécessaires pour aider les investisseurs lorsqu’ils étudient l’opportunité de financer ou non le projet de financement participatif.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-19">
+<num>
+<u>Art. 20-19. </u>
+</num>
+<heading scl:style-format="u">Responsabilité liée à la fiche d’informations clés sur l’investissement au niveau de la plate-forme</heading>
+<paragraph id="paragraph_54">
+<num>(1)</num>
+<alinea>
+<content>
+<p>La responsabilité des informations figurant dans la fiche d’informations clés sur l’investissement au niveau de la plate-forme visée à l’article 24, paragraphe 4, du <ref href="/eli/reg_ue/2020/1503/jo" id="50ec792c-7299-40ce-b1e3-a5d14ca2edf6">règlement (UE) 2020/1503</ref> incombe au prestataire de services de financement participatif.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_55">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Conformément à l’article 24, paragraphe 5, du <ref href="/eli/reg_ue/2020/1503/jo" id="3c14f3ac-de0b-47e9-8f5a-b399ffe1fd1e">règlement (UE) 2020/1503</ref>, aucune responsabilité ne peut incomber aux personnes physiques et morales responsables des informations communiquées dans une fiche d’informations clés sur l’investissement au niveau de la plate-forme, y compris dans sa traduction, sauf :</p>
+<ol scl:start="1" scl:symbol="1.">
+<li>si les informations sont trompeuses ou inexactes ; ou</li>
+<li>si la fiche d’informations clés sur l’investissement au niveau de la plate-forme omet des informations clés nécessaires pour aider les investisseurs lorsqu’ils envisagent d’investir par le biais de la gestion individuelle de portefeuille de prêts.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_20-20">
+<num>
+<u>Art. 20-20. </u>
+</num>
+<heading scl:style-format="u">Droit de recours</heading>
+<alinea>
+<content>
+<p>Les décisions prises par la CSSF en vertu du <ref href="/eli/reg_ue/2020/1503/jo" id="1d6f42c3-126b-4cd0-90bc-a6730992b411">règlement (UE) 2020/1503</ref> ou du présent chapitre peuvent être déférées dans le délai d’un mois, sous peine de forclusion, au tribunal administratif qui statue comme juge du fond.<mod class="mod-end" for="#pm5"/>
+<noteRef href="#M5" marker="5"/>
+</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_5">
+<num>
+<b>Chapitre 5</b> </num>
+<heading scl:separator="– " scl:style-format="b">
+<b>Modification de la loi modifiée du 5 avril 1993 relative au secteur financier</b>
+</heading>
+<article id="art_21">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_21</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_21/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 21.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 21.</num>
+<alinea>
+<content>
+<p>À l’article 12-3, paragraphe 2, lettre b), alinéa 1<sup>er</sup>, de la <ref href="/eli/etat/leg/loi/1993/04/05/n1/jo" id="d34f621a-899b-442b-af0f-918d3d3ea69b">loi modifiée du 5 avril 1993</ref> relative au secteur financier, les mots <embeddedText>biens mobiliers</embeddedText> sont remplacés par les mots <embeddedText>biens immobiliers</embeddedText>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_22">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_22</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_22/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 22.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 22.</num>
+<alinea>
+<content>
+<p>À l’article 12-5, paragraphe 4<i>bis, </i>de la même loi, il est ajouté un nouvel alinéa 4, libellé comme suit :<embeddedStructure scl:hide-quote="true">
+<paragraph>
+<alinea>
+<content>
+<p>« Les restrictions prévues aux articles 12-1 et 12-5, paragraphes 4, 6 et 7, ne s’appliquent pas aux actifs qui sont inscrits dans le registre de couverture uniquement pour couvrir la liquidité de la masse de couverture. ».</p>
+</content>
+</alinea>
+</paragraph>
+</embeddedStructure>
+</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_6">
+<num>Chapitre 6 </num>
+<heading scl:separator="–" scl:style-format="b">
+<b> Modification de la loi du 23 juillet 2016 relative aux fonds d’investissement alternatifs réservés</b>
+</heading>
+<article id="art_23">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_23</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_23/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 23.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 23.</num>
+<alinea>
+<content>
+<p>À l’article 8 de la <ref href="/eli/etat/leg/loi/2016/07/23/n7/jo" id="015467fe-9b47-4541-86f7-dd5d1b066545">loi du 23 juillet 2016</ref> relative aux fonds d’investissement alternatifs réservés, les mots <embeddedText>répondant aux conditions énumérées à l’article 125-1 ou 125-2</embeddedText> sont remplacés par les mots <embeddedText>agréées conformément aux chapitres 15, 16 ou 18</embeddedText>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_24">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_24</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_24/20190722</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 24.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-07-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 24.</num>
+<alinea>
+<content>
+<p>À l’article 49 de la même loi, il est inséré un paragraphe 12 nouveau, libellé comme suit :<embeddedStructure scl:hide-quote="true">
+<paragraph>
+<num>« (12)</num>
+<alinea>
+<content>
+<p>Les fonds communs de placement visés par la présente loi peuvent se transformer en SICAV et leurs documents constitutifs et d’émission peuvent être mis en harmonie avec les dispositions du chapitre 3, par résolution d’une assemblée générale des porteurs de parts réunissant les deux tiers des voix des porteurs de parts présents ou représentés, quelle que soit la portion de la valeur nette d’inventaire du fonds commun de placement représentée. Les convocations à une telle assemblée sont communiquées aux porteurs de parts conformément aux dispositions régissant la convocation d’assemblées générales d’actionnaires de sociétés anonymes telles que prévues aux articles 450-8 et 450-9 de la <ref href="/eli/etat/leg/loi/1915/08/10/n1/jo" id="55197c51-c60b-487f-850b-a563c850faa6">loi modifiée du 10 août 1915</ref> sur les sociétés commerciales. ».</p>
+</content>
+</alinea>
+</paragraph>
+</embeddedStructure>
+</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_7">
+<num>Chapitre 7 </num>
+<heading scl:separator="–" scl:style-format="b"> <b>Dispositions finales</b>
+</heading>
+<article id="art_25">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_25</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/art_25/20220308</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 25.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-03-08</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 25.</num>
+<heading>
+<b>Intitulé de citation</b>
+</heading>
+<alinea>
+<content>
+<p>La référence à la présente loi se fait sous la forme suivante :</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm6"/>« <ref href="https://legilux.public.lu/eli/etat/leg/loi/2019/07/16/a514/jo" id="1f46417e-1440-403e-b935-d4008d358d09">loi du 16 juillet 2019</ref> relative à l’opérationnalisation de règlements européens dans le domaine des services financiers ».<mod class="mod-end" for="#pm6"/>
+<noteRef href="#M6" marker="6"/>
+</p>
+</content>
+</alinea>
+</article>
+</chapter>
+</body>
+</act>
+</akomaNtoso>

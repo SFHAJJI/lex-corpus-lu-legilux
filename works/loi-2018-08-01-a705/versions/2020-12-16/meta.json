@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 16/12/2020 : Loi du 1er ao\u00FBt 2018 sur la d\u00E9claration obligatoire de certaines maladies dans le cadre de la protection de la sant\u00E9 publique et modifiant :\\n1. la loi modifi\u00E9e du 29 avril 1983 concernant l\u2019exercice des professions de m\u00E9decin, de m\u00E9decin-dentiste et de m\u00E9decin-v\u00E9t\u00E9rinaire ;\\n2. la loi modifi\u00E9e du 16 juillet 1984 relative aux laboratoires d\u2019analyses m\u00E9dicales ;\\n3. la loi modifi\u00E9e du 16 janvier 1990 relative aux dispositifs m\u00E9dicaux ;\\n4. la loi modifi\u00E9e du 8 juin 1999 relative au Coll\u00E8ge m\u00E9dical ;\\n5. la loi du 24 mai 2018 sur les conditions d\u2019hygi\u00E8ne et de salubrit\u00E9 relatives \u00E0 la pratique des techniques de tatouage par effraction cutan\u00E9e, du per\u00E7age, du branding, cutting, ainsi que du bronzage UV.",
       "title_short": "Loi du 1er ao\u00FBt 2018 sur la d\u00E9claration obligatoire de certaines maladies dans le cadre de la protection de la sant\u00E9 publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a705/consolide/20201216/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "117d92bb0adb939f9b41641b41bbc024b12739659e5526c1fdd94d6ff797bac8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a705/consolide/20201216/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a705/consolide/20201216/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ad63c7650018164306170962591b974a131514162260d22ada2609a8411c78a5"
+  "record_sha256": "e463a4cec68a60f83c0d847f77e10a9ca6cb240611acbb26f7994c600a52195e"
 }

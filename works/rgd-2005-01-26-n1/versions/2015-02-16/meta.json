@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/02/2015 : R\u00E8glement grand-ducal du 26 janvier 2005 fixant les modalit\u00E9s pour l\u0027obtention d\u0027un titre de voyage pour \u00E9trangers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20150216/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e4b680aef0ec2fdabc645fd1f8007af8bc313c592edf49bb922e976371260ed2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20150216/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/26/n1/consolide/20150216/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "667c261963c8dbfe632bc9f43fb5d9373cf1dd12b62c1597adc729cca79a32d9"
+  "record_sha256": "e52feb9af82e37a656c16ba91630e55b54a0005495fac742a6d6e6da86ccf836"
 }

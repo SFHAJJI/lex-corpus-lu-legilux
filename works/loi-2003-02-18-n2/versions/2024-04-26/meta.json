@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 26/04/2024 : Loi \u00E9lectorale du 18 f\u00E9vrier 2003 et portant modification\\n - de la loi du 31 octobre 1977 portant fusion des communes de Asselborn, Boevange/Clervaux, Hachiville et Oberwampach\\n - de la loi du 27 juillet 1978 portant fusion des communes de Arsdorf, Bigonville, Folschette et Perl\u00E9\\n - de la loi du 23 d\u00E9cembre 1978 portant fusion des communes de Harlange et Mecher\\n - de la loi du 23 d\u00E9cembre 1978 portant fusion des communes de Junglinster et de Rodenbourg",
       "title_short": "Loi \u00E9lectorale du 18 f\u00E9vrier 2003.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/consolide/20240426/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "80c6a97cbfaf0dd398a59ca5b7752556501cf0c3567bb6c3d39754edb4c5e929",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/consolide/20240426/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/consolide/20240426/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "60737240fc7bb82dea82d93c17039bf79f93ddcbcf2f155874fb15d9098d8cee"
+  "record_sha256": "b46514221ab849df62f3c7c86c27e4f0edd9b2cc07a3151eaaaba7dce7987249"
 }

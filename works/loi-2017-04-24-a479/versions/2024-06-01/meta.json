@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2024 : Loi du 24 avril 2017 portant r\u00E9organisation de l\u2019\u00E9tablissement public nomm\u00E9 \u00AB\u00A0Fonds du Logement\u00A0\u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/04/24/a479/consolide/20240601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33ac098768f43d461ce4ba6a5d378df45690fa6e56b624dc33d73bde36926b84",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/04/24/a479/consolide/20240601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/04/24/a479/consolide/20240601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "33790b0478d595fe589a96910399b17698cb031ac14d0c9e57811021e240d0d2"
+  "record_sha256": "527276d8e912580eddcc5a3352a556a65f642a30b5c31d6c3ce021ceaec75b28"
 }

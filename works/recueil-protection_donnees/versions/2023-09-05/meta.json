@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Protection des donn\u00E9es",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20230905/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fbc23154d6fbcffd6ab7119a55ddb9f103de180da6d713e0b19c1165544d3f9f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20230905/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/protection_donnees/20230905/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7759f51085fe45c9dc816cef61538cc395bfb443eaf19f12916cd592c9deb42b"
+  "record_sha256": "98e0c9b5d7a72d3249f754cb9838f6668ae16d7e2d7961cc104b120ee6a3c00a"
 }

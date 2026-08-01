@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/10/2018 : R\u00E8glement grand-ducal du 26 janvier 2016 relatif \u00E0 la r\u00E9ception et l\u2019immatriculation des v\u00E9hicules routiers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20181009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "58cf9013f3e764b9800535c2665cfe046af30077a04c117d3d21b683fa997e72",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20181009/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n2/consolide/20181009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9eaf11d461f078cb3b0f0109ae4640ac9013bfffbdc68ced0f287b1da9e2deec"
+  "record_sha256": "0617927b00ae6ee943ee1d49430cf84a9e421f040ed47e9823ac0230c0473e7f"
 }

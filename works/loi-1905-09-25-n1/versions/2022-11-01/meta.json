@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2022 : Loi du 25 septembre 1905, sur la transcription des droits r\u00E9els immobiliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1905/09/25/n1/consolide/20221101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2a265a720603ef71a32bdc0a8ddec2e8329b359ad9943aba78331505b95b7247",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1905/09/25/n1/consolide/20221101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1905/09/25/n1/consolide/20221101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5aa3c9e0d36ded18c174b324c9500c32d5adaae652848368e94820537751ed96"
+  "record_sha256": "e3da9474e8106d127e44f99b57e8283cfbf85646ab76c7cbccec6f2498b30dfb"
 }

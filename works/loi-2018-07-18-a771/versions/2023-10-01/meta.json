@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/10/2023 : Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles et modifiant\\n1\u00B0 la loi modifi\u00E9e du 31 mai 1999 portant institution d\u2019un fonds pour la protection de l\u2019environnement ;\\n2\u00B0 la loi modifi\u00E9e du 5 juin 2009 portant cr\u00E9ation de l\u2019Administration de la nature et des for\u00EAts ;\\n3\u00B0 la loi modifi\u00E9e du 3 ao\u00FBt 2005 concernant le partenariat entre les syndicats de communes et l\u2019\u00C9tat et la restructuration de la d\u00E9marche scientifique en mati\u00E8re de protection de la nature et des ressources naturelles.",
       "title_short": "Loi du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20231001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ae1e03d6febb5e080ae787a3f0a8494a206c6804ada434f82d294692f00c1430",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20231001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a771/consolide/20231001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "209e0884b0b41e882f8e678d89e6924d7408244e149270f0bd8c342a00d82938"
+  "record_sha256": "81ce5587ba0aeeb4a2d89ffec475aa341ce40f38f1bb1ed46a446873af9f296b"
 }

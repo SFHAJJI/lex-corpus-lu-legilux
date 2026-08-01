@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2006 : R\u00E8glement grand-ducal du 10 ao\u00FBt 2005 relatif au fonctionnement du lyc\u00E9e-pilote",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/08/10/n2/consolide/20070907/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1d192a621d13686109cff925a0ea3588a4b978fcb67306e2aa49f8f0da28b6ff",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/08/10/n2/consolide/20070907/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/08/10/n2/consolide/20070907/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "057d1d823f4137d5ee38f4e524b74e4d3b06ac34ae170c65c5da820c46bc9304"
+  "record_sha256": "1f50d5c6491ffbb77512d02f9c153d1e15bce19e307f71e8769385beddf5121e"
 }

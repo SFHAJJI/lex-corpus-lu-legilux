@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/09/2023 : Loi du 21 juin 1976 relative \u00E0 la lutte contre le bruit.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20230904/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5747832a8ecd6143243595e6032ef5398d3ee80aad0bbf5a9dc8727a0977deac",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20230904/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20230904/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "08fe0d6a6aa009b75edfafd21f503981a2e4cf6628a8cfdb21e8631709e039e0"
+  "record_sha256": "7ddc52897677bb303e2dfdd2ada4736df19acd70ff4b2ad4f23d4e6080b44fc4"
 }

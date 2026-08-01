@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/05/2020 : R\u00E8glement grand-ducal du 18 d\u00E9cembre 2015 d\u00E9terminant les modalit\u00E9s du concours r\u00E9glant l\u0027admission au stage pr\u00E9parant \u00E0 la fonction d\u0027instituteur de l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/20200522/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "78837e14121c607cee7a3fe3665d102ad75525694b9d6ef81336d4308d98e598",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/20200522/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n12/consolide/20200522/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "79a8a1bd66889af215128e667243733d9c665500eab6a2ba5948cc2b96fb5b0c"
+  "record_sha256": "6b609cefea598b962a24bc94ab93bd795cd7b4951cb9533d80d5cb52384dde5e"
 }

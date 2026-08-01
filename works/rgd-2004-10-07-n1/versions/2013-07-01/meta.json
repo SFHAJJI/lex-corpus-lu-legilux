@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 7 octobre 2004 portant ex\u00E9cution de la loi du 12 septembre 2003 relative aux personnes handicap\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e9aac51feef204b4d1cff47f27ddc718afb0829527edd307a10e6927344857cc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ce4d342e7f358a841074a7a72da282cab5cfe3e0556f3db76ca221eef52cde8e"
+  "record_sha256": "e70ba2a973ef813fa5d7202dde3908b1a6d250cf8916d7af7809dffc2f08afab"
 }

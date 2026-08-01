@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 18 septembre 2012 concernant la composition, l\u0027organisation et le fonctionnement du comit\u00E9 de la gestion de l\u0027eau.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n3/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "06b2388c10abd13cd8d368b52dd3e9fce5fc6cc5a7063a7f10c10642cddb69f9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n3/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/09/18/n3/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5c05d0d9bebfbddbf0c49bf65c9d4fa8ced6c1cbe361e2f8c63b8bc63e97d5dd"
+  "record_sha256": "315eb246cf425797acea7f1aef1140cceaea12c01fe65810849ff5e10f94febc"
 }

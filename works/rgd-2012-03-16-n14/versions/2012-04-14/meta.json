@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2011 : R\u00E8glement grand-ducal du 16 mars 2012 modifiant le r\u00E8glement grand-ducal du 17 f\u00E9vrier 1987 sur l\u0027identification des menues embarcations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/03/16/n14/consolide/20120414/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3a4e83c7746497d94903fa418c22318951a140cd45453004c762bd8b3544d1bf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/03/16/n14/consolide/20120414/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/03/16/n14/consolide/20120414/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "82e391d2b4605f5a7b9aba966d38d7a4edbe525173c4a069af825463fa6fbcad"
+  "record_sha256": "eb990a9c1130d1a48b1dafaed233d37de19f9f454c78e98883350ad4e273d772"
 }

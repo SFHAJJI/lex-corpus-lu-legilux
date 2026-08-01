@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/11/2020 : R\u00E8glement grand-ducal du 26 janvier 2016 arr\u00EAtant la composition, l\u2019organisation et le fonctionnement du groupe de travail charg\u00E9 de l\u2019\u00E9laboration du programme directeur d\u2019am\u00E9nagement du territoire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n6/consolide/20201107/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d89923bfd890d182a84778ab7caef20470fae03d42f9acd09e92b76645631647",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n6/consolide/20201107/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n6/consolide/20201107/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "608b5479a7e6775b56b3e058eea911e6c02f14cdf027c0389267c8db33146f7e"
+  "record_sha256": "40c1feee993b2f6fdecc30ecd5490aa0abb1c0766c5367b759c3205aa7d5f08b"
 }

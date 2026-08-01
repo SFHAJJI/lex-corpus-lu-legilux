@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/06/2018 : R\u00E8glement grand-ducal du 15 juillet 1967 portant fixation de la r\u00E9mun\u00E9ration des volontaires de l\u0027arm\u00E9e.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1967/07/15/n2/consolide/20180602/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "86393d66a8aeaa8f8d2e4c049c2b43f8d13e01319de67848731b6f96fdb36a42",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1967/07/15/n2/consolide/20180602/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1967/07/15/n2/consolide/20180602/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a697a76de32873c95d2c92b89a576c03103937e911cea4c42611db6255da2ddd"
+  "record_sha256": "cd086b18896cf70a2d473595e899f2dc769dcac72b67d6bc663aec7d2524445f"
 }

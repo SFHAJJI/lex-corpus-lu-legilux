@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2024 : Loi du 10 f\u00E9vrier 2015 relative \u00E0 l\u0027organisation du march\u00E9 de produits p\u00E9troliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/02/10/n3/consolide/20241001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f398d4e89484d39a98ecaf55eca26bba2fe3d80981638d3964531b166ffd8bd8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/02/10/n3/consolide/20241001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/02/10/n3/consolide/20241001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b94c84114354f56b42c893929ccbb969ffd40ed362a64d9b42b753013ab7057e"
+  "record_sha256": "328b8fa027fee4f7c551f581262764e3c3c2496997ea6208d95034f3e4dafe41"
 }

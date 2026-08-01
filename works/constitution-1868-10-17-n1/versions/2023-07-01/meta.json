@@ -20,10 +20,17 @@
       "valid_time_source": "publisher",
       "title": "Konsolidierte Fassung, anwendbar ab dem 01/07/2023 : Verfassung des Gro\u00DFherzogtums Luxemburg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/de",
-      "observations": [],
+      "observations": [
+        {
+          "file": "de.xml",
+          "sha256": "7602f09f240263c960a08d6f16665ee8386b411c4de9cff719c53d75a00dea59",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/de",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/de"
       }
     },
@@ -33,10 +40,17 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "efe907e6ae0363f41771ae3195e6108a54cd5ef31fbe23e36fb763a0fb4f1d66",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/fr"
       }
     },
@@ -46,15 +60,22 @@
       "valid_time_source": "publisher",
       "title": "Konsolid\u00E9iert Versioun, applicabel ab dem 01/07/2023 : Verfassung vum Grand-Duch\u00E9 vu L\u00EBtzebuerg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/lb",
-      "observations": [],
+      "observations": [
+        {
+          "file": "lb.xml",
+          "sha256": "c05c3e63578b19681fe47c2a368c6b2817c19b5c0328a39335a252dd6ccdaaaa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/lb",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20230701/lb"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "15bc5b3fb5c77b1eaed4baba9f74f096a49dd10129e6a02172571a545cfeded7"
+  "record_sha256": "5d8dcf49cc9d4469f49d8804d70713db9e0911c5e14595c56707f247d6d4f109"
 }

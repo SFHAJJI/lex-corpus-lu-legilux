@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : R\u00E8glement grand-ducal du 30 janvier 2004 portant organisation des examens-concours pour l\u2019admission au stage des fonctions administratives et scientifiques de la carri\u00E8re sup\u00E9rieure des administrations de l\u2019Etat et des \u00E9tablissements publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ce846c2eaeab5d1241712692ea503be5c6b14f79b80f8616edd93ba0b545078b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/01/30/n3/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "23180319d368096cfc9e039117b4c1b5338da53e07d9390cb98ae875812108c1"
+  "record_sha256": "dbe6f73b1a7594b2cb9cea8ab53d9defc16e114922dba65150b605f2615a558b"
 }

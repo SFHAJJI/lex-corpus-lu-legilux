@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/09/1994 : Loi du 1er septembre 1988 relative \u00E0 la responsabilit\u00E9 civile de l\u0027Etat et des collectivit\u00E9s publiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/consolide/19940916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "50868b9bc35d74912583b5ea6e441d9b8d9901f3a8cd03de67f0ed3222503e15",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/consolide/19940916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1988/09/01/n1/consolide/19940916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "89e850288664322b2cd2f04780239b1a267fd9179ad18014a3dd9f20fbae28ea"
+  "record_sha256": "be829c56972f15dcfbdcfcf39da9f33287c3e06b82fa24c19431ecf2e5df9533"
 }

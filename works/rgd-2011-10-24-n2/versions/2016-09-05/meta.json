@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/09/2016 : R\u00E8glement grand-ducal du 24 octobre 2011 fixant les conditions d\u2019admission au stage, le d\u00E9roulement du stage et l\u2019examen de fin de stage ouvrant l\u2019acc\u00E8s aux fonctions de formateur d\u2019adultes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/24/n2/consolide/20160905/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0107540225af4d5f30688552a9945bb73da839ac779448dcae1be705224709d6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/24/n2/consolide/20160905/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/24/n2/consolide/20160905/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dc03087ae05a44da7aec4b581c358110a57387ed60e9e2dd87f5987313ce0d45"
+  "record_sha256": "7311c12588ebf68cd48990c868214230dfea96be2d1b1474ec8de51edb423be1"
 }

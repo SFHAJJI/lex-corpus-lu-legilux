@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/1979 : Loi du 13 avril 1979 portant r\u00E9forme du droit de la filiation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/13/n2/consolide/19790801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ed4ebd1a6c9aa1a89eecdd38e8f27463d807f36f1c4f94ce798361e5337135cd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/13/n2/consolide/19790801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/13/n2/consolide/19790801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9b3744e9b9299e868f2f15a25c574ae3a6a96e9ebc0068d2c0bb6a6a67631079"
+  "record_sha256": "8d54de533a4278e42dcd9bb379588b891369443ba5bd438274215759965c8f6b"
 }

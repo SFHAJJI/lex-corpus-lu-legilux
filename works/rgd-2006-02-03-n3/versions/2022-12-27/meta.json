@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/12/2022 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2006 fixant les r\u00E8gles de la gestion financi\u00E8re et comptable applicables aux services de l\u0027Etat \u00E0 gestion s\u00E9par\u00E9e ainsi que les modalit\u00E9s du contr\u00F4le de cette gestion.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20221227/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1f1a15c41701f5bc12bd0a70d12099cdd28b8b920664f5c275785e571d1f43fd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20221227/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/02/03/n3/consolide/20221227/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9cfdf9eddd8fc432bc6377d27211dae7f5e70be6674fa242bf6366ee7a97f8f0"
+  "record_sha256": "5ac20f25e8aaf6f3485d9400d63b79f0c052f497eda7d170d26145925d395429"
 }

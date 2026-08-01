@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/08/2022 : Loi du 23 d\u00E9cembre 2014 relative \u00E0 la r\u00E9alisation du P\u00F4le d\u0027\u00E9change multimodal de la Gare d\u0027Ettelbruck et \u00E0 la modification de la loi modifi\u00E9e du 10 mai 1995 relative \u00E0 la gestion de l\u0027infrastructure ferroviaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/consolide/20220802/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "407ed8aed789626d35b3bbf7aebf5bef114e63cd9a0eba88cfc9f66801351c7e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/consolide/20220802/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/12/23/n1/consolide/20220802/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "332ea295faa82cf3bbc5a218a948df62c1a9495033f1ac77486a13164b4e7600"
+  "record_sha256": "a29c41ae4eab14929cb154335d323736dec17bff2e5f847e67cf3d26c8ad119f"
 }

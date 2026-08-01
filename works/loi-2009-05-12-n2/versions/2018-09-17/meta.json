@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/09/2018 : Loi du 12 mai 2009 portant cr\u00E9ation d\u0027une \u00C9cole nationale pour adultes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/12/n2/consolide/20180917/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a2792dd7c36fb98b905249f6d3c587e3a03933c375e6ec01ff68ec144a857b8a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/12/n2/consolide/20180917/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/05/12/n2/consolide/20180917/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "df5669f84346e0bf7ba9fccce9245cfe338068382e1aad5675c1e0c70b62157e"
+  "record_sha256": "915a0b3734fb4dac914bf3a79c0cb6fd2998a106a663710f88d30da64d50cf79"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/12/2014 : Loi du 27 f\u00E9vrier 2011 sur les enqu\u00EAtes parlementaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/consolide/20141213/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ca136d4ccb3db46731813fe8dfb4787e7364f225a8103a774bf3b5de51b21298",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/consolide/20141213/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/02/27/n3/consolide/20141213/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "29912a84175c928f8474a0c58188f018de4907b5347ff6896794f4fa4a28b373"
+  "record_sha256": "6ee7f2782d6798cfcd07b01d1e8e4e084fab779a438e630e0fd15a10d1bd9f46"
 }

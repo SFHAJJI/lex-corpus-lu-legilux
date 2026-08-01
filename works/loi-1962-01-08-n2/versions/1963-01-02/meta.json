@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/01/1963 : Loi du 8 janvier 1962 portant introduction dans la l\u00E9gislation nationale de la loi uniforme sur les lettres de change et billets \u00E0 ordre et sa mise en vigueur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/01/08/n2/consolide/19630102/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "153deb66214145b49e11bfd384601fc111d252b33587893c76278d90d57b39f0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/01/08/n2/consolide/19630102/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1962/01/08/n2/consolide/19630102/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fbd18008411eae17e340c49b77f6485043a69feba4c06abf0fe474ea840e02e8"
+  "record_sha256": "dcbadaff61ab5595edb1294b0191d97492cbf2433149b6d7b14ee6b583f7059c"
 }

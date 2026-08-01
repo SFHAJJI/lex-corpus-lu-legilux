@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/05/2024 : Loi du 25 mars 2020 portant cr\u00E9ation du Fonds sp\u00E9cial pour le logement abordable.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20240501/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b64cfd53622fed3610286f9253bf1b4527f681620762037778830d54ed3fdd15",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20240501/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20240501/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "36751fb0c9a64bed791f4167d3b5397129c38bb954c91d436d6ed79ee550dff3"
+  "record_sha256": "c5ceae554d5756e1cadc0c6822180c2e8bfad09b9c62ee6e9fced0c4191c091b"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2008 : Loi du 28 juillet 1973 r\u00E9glant l\u0027usage des armes et autres moyens de contrainte par les membres de la force publique dans la lutte contre la criminalit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/20080101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cbfa2d7ca8a8c18b9429d1baf93a4fc2bcda31976141c99164ed686c1e42f418",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/20080101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/20080101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5c65b8e79684adab4400d630dea20b19ebaf3f17bfbafd3194f41ab4251b4e23"
+  "record_sha256": "f86a9203e31ac736b6d175d9e71450ea9ffdb65185ec77b156395edcb03d2978"
 }

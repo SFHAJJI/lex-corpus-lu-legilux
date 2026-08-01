@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 17/06/2024 : Acte final de la Conf\u00E9rence sur la Charte Europ\u00E9enne de l\u2019\u00C9nergie et de ses Annexes, sign\u00E9s \u00E0 Lisbonne, le 17 d\u00E9cembre 1994 - D\u00E9nonciation par le Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/div/2023/06/21/a323/consolide/20240617/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d188f0bbfbe53e18cdf59ac927516796c3453dba92a47dc193d6a40beb0dcc8b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/div/2023/06/21/a323/consolide/20240617/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/div/2023/06/21/a323/consolide/20240617/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ec0ef575373095c4eec0bb81253bca379bbe878f4d026c5888a81da1b12d1c7c"
+  "record_sha256": "29cee9abb6991ebe4720665dceb12b45ca63ce310b79f729a44e28832288776c"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 23/02/2026 : R\u00E8glement grand-ducal du 11 f\u00E9vrier 2026 modifiant le r\u00E8glement grand-ducal du 22 juillet 2024 relatif au r\u00E9gime d\u2019aide \u00E0 la restructuration et \u00E0 la reconversion des vignobles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/consolide/20260223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "031922042d088f8c89b5380e1efb935a795d474aae9e4701ac5aae339300c11b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/consolide/20260223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2026/02/11/a74/consolide/20260223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "941781783d47a85824da56e6ddaedec40daafe40267b53c639d01dd966f820f5"
+  "record_sha256": "c8b2cfbc49ac35046e40a6d79be1f79ded5c026f49610cb22561b49e27a91964"
 }

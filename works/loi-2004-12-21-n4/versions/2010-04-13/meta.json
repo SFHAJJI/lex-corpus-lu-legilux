@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/04/2010 : Loi du 21 d\u00E9cembre 2004 portant approbation du Trait\u00E9 entre le Royaume de Belgique, le Royaume des Pays-Bas et le Grand-Duch\u00E9 de Luxembourg en mati\u00E8re d\u0027intervention polici\u00E8re transfrontali\u00E8re, sign\u00E9 \u00E0 Luxembourg le 8 juin 2004.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/12/21/n4/consolide/20100413/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "389a5eff73939250e36b4409e554b4a114e6589e9ff75f0f981659072eba9481",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/12/21/n4/consolide/20100413/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/12/21/n4/consolide/20100413/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5afc3690b293f66ee6331944b6930f91475188801f70331ad1361c218e879ea0"
+  "record_sha256": "7ce3ae0b4e453d660b7176c523d1958491ac8ab0feb01e2f2123336ed42c7d5c"
 }

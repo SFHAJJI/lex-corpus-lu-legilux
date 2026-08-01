@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : Loi du 18 f\u00E9vrier 1885 sur les pourvois et la proc\u00E9dure en cassation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ce2b3030440df9e72f605a193ba54f2f4207ca0d9c5420a64f4b5eea1177057b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1885/02/18/n3/consolide/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d49780003b381a90d816f1668c7a9745930d0c16912b1e9fdf000e386063c99"
+  "record_sha256": "008838f4d15039356a9c9d3f649e70f8e23337eb34c7ab9bfe4cc860a59c30be"
 }

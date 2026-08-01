@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="" scl:page-proof="many">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value=""/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2999-01-01" name=""/>
+					<FRBRauthor as="#author" href="#mdda"/>
+					<FRBRcountry value=""/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value=""/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2999-01-01" name=""/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+					<FRBRlanguage language=""/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value=""/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2999-01-01" name=""/>
+					<FRBRauthor as="#editor" href="#somebody"/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis"/>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2021-08-09</scl:jolux>
+						<scl:jolux scl:name="publicationDate"/>
+						<scl:jolux scl:name="dateEntryInForce">2021-08-09</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf"/>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:lg="fra" scl:name="title">Consolidated text as of 9 August 2021 : Law of 8 August 2000 on international mutual legal assistance in criminal matters.</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis"/>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2000-08-08" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+				<eventRef date="2021-08-09" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+				<eventRef date="2021-08-09" id="e6" originatingExpression="true" source="#rp6" type="amendment"/>
+				<eventRef date="2021-08-09" id="e4" originatingExpression="true" source="#rp4" type="amendment"/>
+				<eventRef date="2021-08-09" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+				<eventRef date="2021-08-09" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+			</lifecycle>
+			<analysis source="#">
+				<passiveModifications>
+					<textualMod id="pm1" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/loi/2021/07/23/a594/jo"/>
+						<destination/>
+					</textualMod>
+				</passiveModifications>
+			</analysis>
+			<references source="#">
+				<original href="/eli/etat/leg/loi/2000/08/08/n4/jo" id="ro1" showAs="Original"/>
+				<passiveRef href="/eli/etat/leg/loi/2021/07/23/a594/jo" id="rp2" showAs="Loi du 23 juillet 2021 portant approbation du Deuxième Protocole additionnel à la Convention européenne d’entraide judiciaire en matière pénale, fait à Strasbourg, le 8 novembre 2001."/>
+				<passiveRef href="/eli/etat/leg/loi/2018/08/01/a787/jo" id="rp3" showAs="Loi du 1er août 2018 portant 1° transposition de la directive 2014/41/UE du Parlement européen et du Conseil du 3 avril 2014 concernant la décision d'enquête européenne en matière pénale ; 2° modification du Code de procédure pénale ; 3° modification de la loi modifiée du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale."/>
+				<passiveRef href="/eli/etat/leg/loi/2016/12/23/n11/jo" id="rp4" showAs="Loi du 23 décembre 2016 portant mise en oeuvre de la réforme fiscale 2017 et portant modification  - de la loi modifiée du 4 décembre 1967 concernant l'impôt sur le revenu;  - de la loi modifiée du 16 octobre 1934 concernant l'mpôt sur la fortune;  - de la loi modifiée du 1er décembre 1936 concernant l'impôt commercial;  - de la loi modifiée du 24 décembre 1996 portant introduction d'une bonification d'impôt sur le revenu en cas d'embauchage de chômeurs;  - de la loi d'adaptation fiscale modifiée du 16 octobre 1934 («Steueranpassungsgesetz);  - de la loi générale des impôts modifiée du 22 mai 1931 («Abgabenordnung»);  - de la loi rectificative du 19 décembre 2014 concernant le budget des recettes et des dépenses de l'Etat pour l'exercice 2015;  - de la loi modifiée du 23 décembre 2005 portant introduction d'une retenue à la source libératoire sur certains intérêts produits par l'épargne mobilière;  - de la loi du 19 décembre 2008 ayant pour objet la coopération interadministrative et judiciaire et le renforcement des moyens de l'Administration des contributions directes, de l'Administration de l'enregistrement et des domaines, de l'Administration des douanes et accises et portant modification de  · la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée; · la loi générale des impôts («Abgabenordnung»); · la loi modifiée du 17 avril 1964 portant réorganisation de l'Administration des contributions directes; · la loi modifiée du 20 mars 1970 portant réorganisation de l'Administration de l'enregistrement et des domaines; · la loi modifiée du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d'assurance sociale; - de la loi du 30 juillet 1983 portant création d'une taxe sur le loto; - de la loi modifiée du 12 février 1979 concernant la taxe sur la valeur ajoutée; - du Code pénal; - de la loi modifiée du 8 août 2000 sur l'entraide judiciaire internationale en matière pénale; - de la loi du 27 août 1997 portant approbation du Protocole additionnel à la Convention européenne d'entraide judiciaire en matière pénale, signé à Strasbourg, le 17 mars 1978; - de la loi du 27 juin 2016 concernant le soutien au développement durable; - de la loi modifiée du 22 frimaire an VII organique de l'enregistrement; - de la loi modifiée du 13 brumaire an VII organique du timbre; - de la loi modifiée du 27 décembre 1817 sur le droit de succession; - de la loi modifiée du 23 décembre 1913 concernant la révision de la législation qui régit les impôts dont le recouvrement est attribué à l'administration de l'enregistrement et des domaines; - de la loi modifiée du 7 août 1920, portant majoration des droits d'enregistrement, de timbre, de succession, etc.; - de la loi modifiée du 28 janvier 1948 tendant à assurer la juste et exacte perception des droits d'enregistrement et de succession; - de la loi modifiée du 13 juin 1984 portant révision de certaines dispositions législatives régissant la perception des droits d'enregistrement, de succession et de timbre; - de l'ordonnance royale grand-ducale du 23 septembre 1841 sur le timbre, l'enregistrement et les droits de succession; - de la loi modifiée du 19 juin 2013 relative à l'identification des personnes physiques; - de la loi modifiée du 25 février 1979 concernant l'aide au logement; - de la loi modifiée du 21 septembre 2006 sur le bail à usage d'habitation et modifiant certaines dispositions du Code civil."/>
+				<passiveRef href="/eli/etat/leg/loi/2010/10/27/n4/jo" id="rp5" showAs="Loi du 27 octobre 2010 portant  1. approbation de la Convention du 29 mai 2000 relative à l’entraide judiciaire en matière pénale entre les États membres de l’Union européenne  2. approbation du Protocole du 16 octobre 2001 à la Convention relative à l’entraide judiciaire en matière pénale entre les États membres de l’Union européenne  3. modification de certaines dispositions du Code d’instruction criminelle et de la loi du 8 août 2000 sur l’entraide judiciaire internationale en matière pénale."/>
+				<passiveRef href="/eli/etat/leg/loi/2010/10/27/n1/jo" id="rp6" showAs="Loi du 27 octobre 2010 portant renforcement du cadre légal en matière de lutte contre le blanchiment et contre le financement du terrorisme; portant organisation des contrôles du transport physique de l'argent liquide entrant au, transitant par ou sortant du Grand-Duché de Luxembourg; relative à la mise en oeuvre de résolutions du Conseil de Sécurité des Nations Unies et d'actes adoptés par l'Union européenne comportant des interdictions et mesures restrictives en matière financière à l'encontre de certaines personnes, entités et groupes dans le cadre de la lutte contre le financement du terrorisme; modifiant: 1. le Code pénal; 2. le Code d'instruction criminelle; 3. la loi modifiée du 7 mars 1980 sur l'organisation judiciaire; 4. la loi modifiée du 12 novembre 2004 relative à la lutte contre le blanchiment et contre le financement du terrorisme; 5. la loi modifiée du 19 février 1973 concernant la vente de substances médicamenteuses et la lutte contre la toxicomanie; 6. la loi modifiée du 11 avril 1985 portant approbation de la Convention sur la protection physique des matières nucléaires, ouverte à la signature à Vienne et à New York en date du 3 mars 1980; 7. la loi modifiée du 31 janvier 1948 relative à la réglementation de la navigation aérienne; 8. la loi du 20 juin 2001 sur l'extradition; 9. la loi du 17 mars 2004 relative au mandat d'arrêt européen et aux procédures de remise entre Etats membres de l'Union européenne; 10. la loi du 8 août 2000 sur l'entraide judiciaire internationale en matière pénale; 11. la loi modifiée du 23 décembre 1998 portant création d'une commission de surveillance du secteur financier; 12. la loi modifiée du 5 avril 1993 relative au secteur financier; 13. la loi modifiée du 6 décembre 1991 sur le secteur des assurances; 14. la loi modifiée du 9 décembre 1976 relative à l'organisation du notariat; 15. la loi modifiée du 10 août 1991 sur la profession d'avocat; 16. la loi modifiée du 10 juin 1999 relative à l'organisation de la profession d'expert-comptable; 17. la loi du 18 décembre 2009 relative à la profession de l'audit; 18. la loi modifiée du 20 avril 1977 relative à l'exploitation des jeux de hasard et des paris relatifs aux épreuves sportives; 19. la loi modifiée du 17 mars 1992 portant approbation de la Convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes, faite à Vienne, le 20 décembre 1988; 20. la loi modifiée du 14 juin 2001 portant approbation de la Convention du Conseil de l'Europe relative au blanchiment, au dépistage, à la saisie et à la confiscation des produits du crime, faite à Strasbourg, le 8 novembre 1990; 21. la loi modifiée du 20 mars 1970 portant réorganisation de l'Administration de l'enregistrement et des domaines."/>
+			</references>
+			<notes scl:type="modification" source="#rp2">
+				<note id="M1" marker="1" refersTo="pm1" title="A|2021-08-05|2021-07-23|L|594">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2021/07/23/a594/jo">Loi du 23 juillet 2021 portant approbation du Deuxième Protocole additionnel à la Convention européenne d’entraide judiciaire en matière pénale, fait à Strasbourg, le 8 novembre 2001.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>Consolidated text as of 9 August 2021 : Law of 8 August 2000 on international mutual legal assistance in criminal matters.</p>
+			</longTitle>
+		</preface>
+		<preamble>
+			<container name="preamble">
+				<p scl:align="center">
+					<b>Unofficial English translation,</b>
+				</p>
+				<p scl:align="center">
+					<b>French version shall prevail.</b>
+				</p>
+			</container>
+		</preamble>
+		<body>
+			<article id="art_1">
+				<num><mod class="mod-start" for="#pm1"/>Art. 1.</num>
+				<alinea>
+					<content>
+						<p>This law shall apply to requests for mutual assistance in criminal matters, hereinafter referred to as "requests for mutual assistance", which seek to have objects, documents, funds and property of any kind seized in the Grand Duchy, which seek to have a communication of information or documents ordered in accordance with articles 66-2 to 66-4 of the <ref href="/eli/etat/leg/code/procedure_penale" id="bdca968c-9dad-4af2-abfc-cf9a47c85b95">Criminal Procedure Code</ref>, which seek to have a search or any other taking of evidence of a similar degree of constraint ordered and which emanate from:</p>
+						<ul scl:symbol="dash">
+							<li>judicial authorities of requesting States which are not bound to the Grand Duchy of Luxembourg by an international agreement on mutual legal assistance;</li>
+							<li>judicial authorities of requesting States which are bound to the Grand Duchy of Luxembourg by an international agreement on mutual legal assistance, unless the provisions of this Law are contrary to those of the international agreement;</li>
+							<li>an international judicial authority recognised by the Grand Duchy of Luxembourg.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2">
+				<num>Art. 2.</num>
+				<paragraph id="paragraph_1">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Subject to the special provisions laid down by conventions providing for the possibility of direct transmission, requests for assistance shall be addressed by the competent authorities of the requesting State to the Luxembourg General State Prosecutor.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_2">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>Following their execution, they shall either be returned directly or through the official channel.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_3">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>Where the requesting State sends the request for assistance directly to the Luxembourg judicial authorities or the Minister of Justice, they must forward the request to the General State Prosecutor in a timely fashion.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_4">
+					<num>(4)</num>
+					<alinea>
+						<content>
+							<p>After having examined the aspects the request for mutual assistance falling under his or her competence and if he or she considers that there are no grounds for not doing so, the General State Prosecutor shall forward the request to the judicial authorities for execution.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_5">
+					<num>(5)</num>
+					<alinea>
+						<content>
+							<p>However, where the case on which the request for mutual assistance is based appears to be serious and where there is an urgency due to, in particular, a risk of loss of evidence, the competent judicial authority which was seized may carry out the requested investigative duties.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_3">
+				<num>Art. 3.</num>
+				<alinea>
+					<content>
+						<p>The General State Prosecutor may refuse mutual legal assistance in the following cases:</p>
+						<ul scl:symbol="dash">
+							<li>if the request for mutual assistance is likely to affect the sovereignty, security, public order or other essential interests of the Grand Duchy of Luxembourg;</li>
+							<li>if the request for mutual assistance relates to offences which may be qualified under Luxembourg law either as political offences or as offences related to political offences;</li>
+							<li>if the request for mutual assistance exclusively relates to offences pertaining to taxes, customs or exchange under Luxembourg law.</li>
+						</ul>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>No appeal may be lodged against the decision of the General State Prosecutor.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_4">
+				<num>Art. 4.</num>
+				<alinea>
+					<content>
+						<p>Requests for mutual assistance that do not contain the following information are refused:</p>
+						<ol scl:start="1" scl:symbol="a)">
+							<li>the authority from which the request emanates,</li>
+							<li>the purpose and reason for the request,</li>
+							<li>the date and place of the commission of the facts, a summary statement of the facts and the link between those facts and the purpose of the requested taking of evidence,</li>
+							<li>as far as possible, the identity and nationality of the person concerned,</li>
+							<li>the name and address of the recipient, if applicable,</li>
+							<li>the text containing the charges and the related sanctions,</li>
+							<li>a French, German or English translation of the request for mutual assistance and of the documents to be produced.</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>The execution of a request for mutual assistance shall also be refused if, without having to carry out a substantive examination, it is foreseeable, in the light of the requirements set out in article 4, point c), that the means to be used are not suitable for achieving the objective referred to in the request for mutual assistance or go beyond what is necessary to achieve it.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>In the event that the request for mutual assistance is incomplete or the information provided by the authorities of the requesting State is insufficient, additional information may be requested.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Requests for mutual assistance that do not meet the conditions of this article shall be refused</p>
+						<ul scl:symbol="dash">
+							<li>by the General State Prosecutor, subject to the powers of the other judicial authorities, in the event that the Grand Duchy of Luxembourg is not bound to the requesting State by an agreement on mutual legal assistance;</li>
+							<li>by the judicial authorities, in the event that the Grand Duchy of Luxembourg is bound to the requesting State by an agreement on mutual legal assistance.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_5">
+				<num>Art. 5.</num>
+				<alinea>
+					<content>
+						<p>The request for mutual assistance must meet the following conditions:</p>
+						<ol scl:start="1" scl:symbol="1)">
+							<li>it must be issued by a judicial authority competent under the law of the requesting State;</li>
+							<li>the act on which the request is based must be able to be classified as a felony or misdemeanour, punishable by a custodial sentence of a maximum of at least one year under Luxembourg law and under the law of the requesting State;</li>
+							<li>the person concerned by the request must not have been tried in the Grand Duchy of Luxembourg for the same act;</li>
+							<li>the Luxembourg judicial authorities must be able to undertake the requested measure for the purpose of investigations or prosecutions under Luxembourg law as if they were dealing with a similar domestic case;</li>
+							<li>unless otherwise provided for in a norm of international law, the limitation period for prosecution must not have passed, neither under Luxembourg law nor under the law of the requesting State.</li>
+						</ol>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Acts interrupting or suspending the limitation period undertaken in the requesting State under the law of that State shall be taken into account for the purpose of calculating the limitation period for prosecution under Luxembourg law.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_6">
+				<num>Art. 6.</num>
+				<alinea>
+					<content>
+						<p>The execution of mutual assistance measures shall be entrusted to the authority which would be competent if the offence had been committed in the Grand Duchy of Luxembourg.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_7">
+				<num>Art. 7.</num>
+				<alinea>
+					<content>
+						<p>Credit institutions and their directors and employees may not disclose to the customer concerned or to third parties that the seizure of documents or the communication of documents or information has been ordered by the investigative judge in execution of a request for mutual assistance, without the express prior consent of the authority that ordered the measure.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Those who knowingly violated this obligation shall be punished by a fine ranging from EUR 1 250 to EUR 1 250 000.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_8">
+				<num>Art. 8.</num>
+				<alinea>
+					<content>
+						<p>Cases of mutual legal assistance are treated as urgent and priority cases. The requested authority shall inform the requesting authority of the status of the procedure and of any delays.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_9">
+				<num>Art. 9.</num>
+				<paragraph id="paragraph_6">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>The Council Chamber shall examine ex officio the "formal" regularity of the procedure<i>. </i>If it finds a cause of invalidity, it shall declare the act, as well as its subsequent acts, null and void.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_7">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>If objects or documents have been seized or if objects, documents or information have been communicated to the investigative judge, their transmission to the requesting State shall be subject to the agreement of the Council Chamber.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_8">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>The Council Chamber shall be seized by an indictment of the State Prosecutor in order to check the regularity of the proceedings and to transmit objects, documents or information.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_9">
+					<num>(4)</num>
+					<alinea>
+						<content>
+							<p>With the exception of persons to whom the measure ordered by the request for mutual assistance has not been disclosed pursuant to article 7, the person concerned by the investigation, as well as any concerned third party who can prove a legitimate personal interest, may file a brief containing observations on the regularity of the proceedings with the Clerk of the Council Chamber of the District Court.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>A request for restitution may also be made in the brief containing the observations on the regularity of the proceedings.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Each brief must be lodged, under penalty of foreclosure, within ten days of notification of the document to the person against whom the measure ordered is executed.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>A brief filed by any of the persons referred to in subparagraph 1 of this paragraph must, under penalty of inadmissibility, be signed by a lawyer at the Court and must contain an election of the law firm as domicile. This election of domicile shall produce its effects for as long as there has not been a new election of domicile.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_10">
+					<num>(5)</num>
+					<alinea>
+						<content>
+							<p>The persons entitled to file a brief, their directors or employees shall not communicate the existence or content of the brief to any person to whom the measure ordered by the request for mutual assistance has not been disclosed pursuant to article 7, all under penalty of the fine provided for in article 7.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_10">
+				<num>Art. 10.</num>
+				<paragraph id="paragraph_11">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>The Council Chamber shall decide, within twenty days of its referral, by a single order on the regularity of the proceedings, on the transmission to the requesting State of objects, documents or information and on the observations and requests for restitution made in the briefs submitted on the basis of article 9.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_12">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>It shall order the restitution of objects, documents, funds and property of any kind that are not directly related to the facts on which the request is based.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_13">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>A copy of the order shall be communicated to the General State Prosecutor and notified to the lawyer in whose office the domicile was elected pursuant to article 9.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_14">
+					<num>(4)</num>
+					<alinea>
+						<content>
+							<p>No appeal may be lodged against the order of the Council Chamber.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_15">
+					<num>(5)</num>
+					<alinea>
+						<content>
+							<p>The persons who filed a brief, their directors or employees shall not communicate the existence or content of the order to any person to whom the order by the request for mutual assistance has not been disclosed pursuant to article 7, all under penalty of the fine provided for in article 7.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_11">
+				<num>Art. 11.</num>
+				<paragraph id="paragraph_16">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>If property other than that referred to in article 9 has been seized in execution of a request for mutual assistance, the owner and any person having rights in such property may claim the return of the property, up until the criminal court has been seized of a request for the enforcement of a foreign confiscation or restitution order relating to such property.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_17">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>To this end, he or she shall file an application with the Clerk of the Council Chamber of the competent district court, signed by a lawyer at the Court in whose office his domicile was elected, all under penalty of inadmissibility of the application.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>This election of domicile shall produce its effects for as long as there has not been a new election of domicile. The convocations or notifications shall be made to the elected domicile.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_18">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>Where an application under paragraphs (1) and (2) of this section has been filed, the following procedure shall be followed:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>At least eight days before the hearing, the clerk shall summon the claimant at his or her elected domicile and his or her counsel by registered postal letter, accompanied by an acknowledgement of receipt, informing them of the date, time and place of the hearing.</li>
+								<li>This time limit shall not be increased due to distance.</li>
+								<li>The Council Chamber shall decide by reasoned order, after having heard, where appropriate, the conclusions of the counsels and the parties, the claimants' counsel and the State Prosecutor.</li>
+								<li>The order of the Council Chamber shall be enforceable once the time period for filing an appeal has expired.</li>
+								<li>The clerk shall notify the Council Chamber’s order by sealed and registered postal letter to the elected domicile, accompanied by an acknowledgement of receipt.</li>
+							</ol>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_19">
+					<num>(4)</num>
+					<alinea>
+						<content>
+							<p>Orders of the Council Chamber may be appealed:</p>
+							<ul scl:symbol="dash">
+								<li>by the General State Prosecutor and the State Prosecutor, in all cases;</li>
+								<li>by the claimant, if the order prejudices his or her rights.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>The appeal must be filed within the following time limits, otherwise it will be barred:</p>
+							<ul scl:symbol="dash">
+								<li>by the General State Prosecutor, within ten days of the Council Chamber’s order;</li>
+								<li>by the State Prosecutor, within three days of the Council Chamber’s order;</li>
+								<li>by the claimant, within three days of notification of the Council Chamber’s order.</li>
+							</ul>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_20">
+					<num>(5)</num>
+					<alinea>
+						<content>
+							<p>The proceedings before the Council Chamber of the District Court shall be applicable before the Council Chamber of the Court of Appeal.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_21">
+					<num>(6)</num>
+					<alinea>
+						<content>
+							<p>The judgment of the Council Chamber of the Court of Appeal shall be enforceable without any further formalities.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_22">
+					<num>(7)</num>
+					<alinea>
+						<content>
+							<p>No appeal to the Court of cassation is admissible.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_12">
+				<num>Art. 12.</num>
+				<alinea>
+					<content>
+						<p>By way of derogation from article 9 and even in the event of the filing of a "brief", the judge presiding over the Council Chamber may, at the written request of the State Prosecutor, authorise the transmission of the results of the execution of an international letter rogatory without delay to the judicial authority of the requesting State if there are serious and consistent signs that the procedure provided for in "article 9" may endanger the physical or mental integrity of a person.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>This decision is not subject to any appeal.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_13">
+				<num>Art. 13.</num>
+				<alinea>
+					<content>
+						<p>Except where the person concerned has consented or where immediate and serious danger to public security exists, the requesting State may not use the objects, documents or information obtained by means of mutual assistance for investigation or as evidence in criminal or administrative proceedings other than those for which mutual assistance was granted without the agreement of the General State Prosecutor.</p>
+					</content>
+				</alinea>
+			</article>
+			<alinea>
+				<content>
+					<p scl:align="center">
+						<b>
+							<eop/>Transitional provisions</b>
+					</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>This Law shall enter into force on the first day of the month following its publication in the <i>Mémorial</i>.</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>The amendments to the <ref href="/eli/etat/leg/loi/2000/08/08/n4/jo" id="5fbf8296-3251-4894-943f-118560b35973">Law of 8 August 2000</ref> on international mutual assistance in criminal matters, provided for in article 12 of this Law, with the exception of point (8) of that article, shall apply to requests for mutual assistance referred to in the <ref href="/eli/etat/leg/loi/2000/08/08/n4/jo" id="b2653979-6ac2-44c5-bb79-f8a21a055eca">Law of 8 August 2000</ref> which shall be referred to the competent authorities as from its entry into force.<mod class="mod-end" for="#pm1"/>
+						<noteRef href="#M1" marker="1"/></p>
+				</content>
+			</alinea>
+		</body>
+	</act>
+</akomaNtoso>

@@ -23,15 +23,22 @@
       "title": "Code civil",
       "title_short": "Code civil",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/civil/20170401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f9325693be6ede2ebc5c6d589be34bf1a4c99ab48349d1173fabb04f6019e57f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/civil/20170401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/civil/20170401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5492bd13712da406e5aa9b16a2d8141056bcb158225d5c6b424324f603306177"
+  "record_sha256": "c5422f13a8b8a190e1abb771862b79d22074e4b8598e8ac89dff156eebba7919"
 }

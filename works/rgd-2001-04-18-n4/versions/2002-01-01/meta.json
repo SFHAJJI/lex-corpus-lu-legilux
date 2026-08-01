@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : R\u00E8glement grand-ducal du 18 avril 2001 \u00E9tablissant le mod\u00E8le de la convention avec les h\u00F4pitaux fixant les modalit\u00E9s de la participation de l\u2019Etat dans les investissements hospitaliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/18/n4/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6968dc349b427ad56b97ab395be092d3b2835ab6866501b02ec7e3ea82115582",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/18/n4/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/18/n4/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9ed116a17e624f30110d900d2cc31850c95e3416f1284ac02cb8eb2e34a9aedc"
+  "record_sha256": "ca8e17d03bbc8eaee4ca362b11213507c3f6131a68f51895ab98e4fe45d7dfb2"
 }

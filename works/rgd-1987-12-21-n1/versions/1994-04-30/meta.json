@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/04/1994 : R\u00E8glement grand-ducal du 21 d\u00E9cembre 1987 fixant les modalit\u00E9s d\u0027application de la loi du 30 mars 1979 organisant l\u0027identification num\u00E9rique des personnes physiques et morales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/12/21/n1/consolide/19940430/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "329f2da0b635fbb780a2953eca41c0c31e64c6d65648c6ae8869aa2b94ae621f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/12/21/n1/consolide/19940430/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1987/12/21/n1/consolide/19940430/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b782f59ea60949ac3f7c28e09c1bdd30a71af1481da6f2f32ca1b3d23c43907b"
+  "record_sha256": "faab780f3d6170e7534d02daf355d1ab6c7176373f2ce80cd9e2e271ee8fe416"
 }

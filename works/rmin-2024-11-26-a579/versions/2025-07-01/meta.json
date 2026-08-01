@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2025 : R\u00E8glement minist\u00E9riel du 26 novembre 2024 fixant le contenu des modules de conseil dans le domaine de l\u2019agriculture et le montant de l\u2019aide ainsi que les qualifications minimales des prestataires de services.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2024/11/26/a579/consolide/20250701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6d5d9f408c48af350b4e26ac2501ef63b7f810c8545673a548c19fbd380c549f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2024/11/26/a579/consolide/20250701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2024/11/26/a579/consolide/20250701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "74f8917e302b4e4cbf4491ac4e19bd506c7ba09c4594ca2cfd4eebaa5c7af0fd"
+  "record_sha256": "9b835d4690b711beb483aeff22495a8b22141a30352190a79239babbbeace3e0"
 }

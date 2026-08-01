@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2021 : Loi du 26 f\u00E9vrier 2016 portant cr\u00E9ation d\u0027une \u00E9cole internationale publique \u00E0 Differdange.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20210915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f98000da5dfb71e13d766da15c83ea2732603870872f92782499e466aad62ea5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20210915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/02/26/n1/consolide/20210915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7acaa4de6ea377ba1973edc63093fd61748053995519cd36b2164ac4c5bbc0cc"
+  "record_sha256": "b3fae74cf286384d1fe1111ba79e9c99880405331c19090af3f45e78708b5cfd"
 }

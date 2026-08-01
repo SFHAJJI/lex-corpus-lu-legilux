@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 19 f\u00E9vrier 2008 d\u00E9terminant la zone de comp\u00E9tence territoriale et le si\u00E8ge des commissions des loyers institu\u00E9es pour l\u0027ensemble des communes de moins de 6.000 habitants, pr\u00E9vues par l\u0027article 7 de la loi du 21 septembre 2006 sur le bail \u00E0 usage d\u0027habitation et modifiant certaines dispositions du Code civil, et d\u00E9terminant le montant des indemnit\u00E9s revenant aux membres et aux secr\u00E9taires des commissions des loyers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8a39a990caa20c4747c3e97f674417bcfb9642778cbd63342578ec54bccc8e9e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/02/19/n1/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0c85cc5d8a5b72965cc7185a4cc57d95e267b8e4d9175393750aa53c9a4231f4"
+  "record_sha256": "9086e295c39270917f916fd5dc88508a29db2f066cba8db2c89961781a2f22c9"
 }

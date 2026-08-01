@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/05/2018 : Arr\u00EAte grand-ducal du 29 juin 1923 portant r\u00E8glement du service consulaire et introduction de certaines taxes \u00E0 percevoir par les agents du corps consulaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/20180522/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dd16757c06fd1475b9b0690ecfe326af994d37b97cc82feffbd7f109e8d37de8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/20180522/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1923/06/29/n1/consolide/20180522/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5ac5de973886c1940df1347984333d3ffcbda57c3af3f3633a19c4209402b0ab"
+  "record_sha256": "630bc02483533de89dbd2891f7d11e5907ddb1d8021193bceca6e2e31a7a0ee0"
 }

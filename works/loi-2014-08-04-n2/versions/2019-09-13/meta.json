@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/09/2019 : Loi du 4 ao\u00FBt 2014 relative \u00E0 l\u0027\u00E9quipement meublant, scientifique, informatique et autre de certains b\u00E2timents de la Cit\u00E9 des Sciences \u00E0 Belval.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/consolide/20190913/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7b277acc1db514706694ed62644289e5e5876ae435e0326a3224f3b75bac6738",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/consolide/20190913/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/08/04/n2/consolide/20190913/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8c334178e795a9b7bfc923777fa77514f44a7893c5fbc8b1e358c342392a76f1"
+  "record_sha256": "4d06fa6660e81855c3e966359e23e95c1dc7f2b9840035384a9f7a98d26ab76c"
 }

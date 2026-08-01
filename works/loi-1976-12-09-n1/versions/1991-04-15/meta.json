@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/04/1991 : Loi du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19910415/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4c59aefd1f5f70baf8345c30934e2b5b62eac34d89cc64311fd87466038d8cfe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19910415/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19910415/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a659bf11694a368736cfbd123538257398b868f3f45965486bf2115bf71124a5"
+  "record_sha256": "07aa3129a9422b5f4ab3c3aeea2f9d9f658aa8333988e5cf346b2c89177fa3e3"
 }

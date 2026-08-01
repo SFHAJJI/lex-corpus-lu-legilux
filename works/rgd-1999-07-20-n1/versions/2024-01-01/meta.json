@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 20 juillet 1999 d\u00E9terminant la composition, le mode de fonctionnement et les indemnit\u00E9s du comit\u00E9 d\u0027accompagnement en mati\u00E8re d\u0027\u00E9tablissements class\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "369fa3158bed3f3fbcfee818fdaeeeab14fbe982c79cfe763ccd0efd993ee3f0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/07/20/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ffc7f54c8058ec73a10ab8e353112d290efa7f1f62985ef2d852a893b8ef5d42"
+  "record_sha256": "1943235609756ee1b30cdb5aca72e16a458631c45fbb28ea18d33180b238e70e"
 }

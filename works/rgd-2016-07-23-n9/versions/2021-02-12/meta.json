@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/02/2021 : R\u00E8glement grand-ducal du 23 juillet 2016 portant ex\u00E9cution des titres I et II de la loi du 27 juin 2016 concernant le soutien au d\u00E9veloppement durable des zones rurales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/07/23/n9/consolide/20210212/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "225d7c83c47980ac85c2fbbe40256177459dccad058640dbef050be96b71b41b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/07/23/n9/consolide/20210212/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/07/23/n9/consolide/20210212/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d54c733f59193b8b94bc7841a4952e32c41a9a14fea21a02b8be4f6c13e11ac4"
+  "record_sha256": "c5bca784549e06a328691fc4e310c4143a71214d19eb5498000f8bad1d4bc0ba"
 }

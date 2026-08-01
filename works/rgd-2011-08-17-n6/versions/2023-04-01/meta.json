@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2023 : R\u00E8glement grand-ducal du 17 ao\u00FBt 2011 pr\u00E9cisant le financement des mesures d\u0027aide sociale \u00E0 l\u0027enfance et \u00E0 la famille.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20230401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "83d9a6a9aaee72f4da64de985070b1af16d0ad4e4d4f33dfa5dce10b9b451d28",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20230401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n6/consolide/20230401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f591c234f22f492bf7e59f3204bdeb9d600dbeedb3df35b90d7562dc0c03f61e"
+  "record_sha256": "b71322dbebc0caf23eb7f1c9845ca2506fab98855f218ebe793e54f23daa6f08"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/06/2015 : R\u00E8glement grand-ducal du 28 avril 2011 d\u00E9terminant l\u2019organisation de l\u2019Administration des Ponts et Chauss\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/28/n7/consolide/20150602/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a94673530acd41f3b9345e165a2eea768dd035b358658ef0e7e903163af1c6e0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/28/n7/consolide/20150602/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/28/n7/consolide/20150602/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "54bff4e0c912cc365da53293275d5eca1327acc3a7d6432855d24ae9fc1c263f"
+  "record_sha256": "341bc088e59823f64231bd994099c6abc591cd5b8ac2406f52d7524446203186"
 }

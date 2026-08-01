@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/06/2007 : Loi du 13 novembre 2002 portant transposition en droit luxembourgeois de la Directive 98/5/CE du Parlement europ\u00E9en et du Conseil du 16 f\u00E9vrier 1998 visant \u00E0 faciliter l\u0027exercice permanent de la profession d\u0027avocat dans un Etat membre autre que celui o\u00F9 la qualification a \u00E9t\u00E9 acquise et portant: 1. modification de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat; 2. modification de la loi du 31 mai 1999 r\u00E9gissant la domiciliation des soci\u00E9t\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20070630/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "101479e35af3639c362d6d22884b753e78dc8f3ff55827c3c0d2d2f4130baa97",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20070630/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/13/n1/consolide/20070630/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "236621e101211f1988b1e352dca8cce2d131e1340756e90b4e826207c6b5e08a"
+  "record_sha256": "54bda408c37b4848506d2c14966c14d2e4c177b2edd3c6856648b84736a227d5"
 }

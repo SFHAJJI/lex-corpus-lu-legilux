@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2019 : R\u00E8glement grand-ducal du 13 juillet 2018 fixant les conditions et modalit\u00E9s de remboursement des assurances compl\u00E9mentaires aux pompiers volontaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/07/13/a607/consolide/20190101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fbaf382af10681b59724dcd4615e33337a2ca3599ec0c8eb52b8ed91c574e602",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/07/13/a607/consolide/20190101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/07/13/a607/consolide/20190101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d14d70f9f0a27e866f55ea1a439fd79a253bcc0c29eaa38cdf9bc68e857b309"
+  "record_sha256": "d81abcbefbc3d175581df777367b701f6f9ce0b4a04e72d6fcf6670c99629449"
 }

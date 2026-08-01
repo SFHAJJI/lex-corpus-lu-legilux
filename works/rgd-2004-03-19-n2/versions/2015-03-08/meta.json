@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/03/2015 : R\u00E8glement grand-ducal du 19 mars 2004 portant fixation des jetons de pr\u00E9sence et des indemnit\u00E9s des personnes composant les bureaux de vote lors des \u00E9lections l\u00E9gislatives, europ\u00E9ennes et communales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20150308/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1fdcf09fe429b0374f754aae72cf79d6cc445baed2c18ffeab216f7a1f2287df",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20150308/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/19/n2/consolide/20150308/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "211a865c24d93c04cd4c3afb0b7760da1882e764f55840d0dff4395c9f15bb75"
+  "record_sha256": "a9a53968cb04f28d37ad4aa494876094d31c0951a42e442c66010a4b1099bbd0"
 }

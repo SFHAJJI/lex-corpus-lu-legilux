@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/12/2019 : Loi du 21 d\u00E9cembre 2009 sur les permissions de voirie et modifiant la loi modifi\u00E9e du 16 ao\u00FBt 1967 ayant pour objet la cr\u00E9ation d\u0027une grande voirie de communication et d\u0027un fonds des routes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/21/n1/consolide/20191227/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0c99a92e803b5002cb1f7be69e9bc5ddde0ae81085c99581debd01a70549fa33",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/21/n1/consolide/20191227/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/21/n1/consolide/20191227/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e7920631bb953402f7fafb46eb59698d065adebed2cbfcdc730807e60ab5e51d"
+  "record_sha256": "1591e0d86b65b36c2f9da3e13e2a82db10cf950b97ae6a2f2bb210797cf54c24"
 }

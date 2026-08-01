@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : R\u00E8glement grand-ducal du 7 mars 1980 d\u00E9terminant les limites et les conditions de l\u2019exercice du droit d\u2019option pour l\u2019application de la taxe sur la valeur ajout\u00E9e aux op\u00E9rations immobili\u00E8res.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4c3c4ec5fc08bb219c2069e4b3d4bcbc50b75e2e5d5d856855e76cda84d628b1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1980/03/07/n3/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d8d0907d7f432ad3a434db55d73026503bdebea7fa38874ccbc69a64f6dbac61"
+  "record_sha256": "0f0d122c4db6b7f5d3b9a9f3e224ade3788f1f4a13c401e3036f300424c19e9b"
 }

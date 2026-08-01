@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2012 : Loi du 18 juillet 2013 concernant des agents intervenant dans l\u0027enseignement fondamental et modifiant: \n1. la loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u0027enseignement fondamental; \n2. la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental; \n3. la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027\u00C9tat; \n4. la loi modifi\u00E9e du 16 ao\u00FBt 1968 portant cr\u00E9ation d\u0027un centre de logop\u00E9die et de services audiom\u00E9trique et orthophonique; \n5. la loi modifi\u00E9e du 14 mars 1973 portant cr\u00E9ation d\u0027instituts et de services d\u0027\u00E9ducation diff\u00E9renci\u00E9e; \n6. la loi modifi\u00E9e du 4 septembre 1990 portant r\u00E9forme de l\u0027enseignement secondaire technique et de la formation professionnelle continue; \n7. la loi du 9 d\u00E9cembre 2005 d\u00E9terminant les conditions et les modalit\u00E9s de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l\u0027\u00C9tat; \n8. le Code de la s\u00E9curit\u00E9 sociale; \n9. la loi du 13 juillet 2006 portant r\u00E9organisation du centre de psychologie et d\u0027orientation scolaires (CPOS).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/18/n3/consolide/20130916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bd7546ee607c1d962630c4ba3c53dc15d3a8e6e21bbf72ccfd625d6835e429e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/18/n3/consolide/20130916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/18/n3/consolide/20130916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "66cb51b69ea13489b210788eab4c5d32f6ada66fa6e23c20530597d4a87afddc"
+  "record_sha256": "6d1fb8126c17e775aaa67de9c2dceb1b774eae00d56644ba05ba22e313a1271e"
 }

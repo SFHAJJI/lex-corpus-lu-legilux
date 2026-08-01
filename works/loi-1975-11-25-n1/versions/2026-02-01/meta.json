@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/02/2026 : Loi du 25 novembre 1975 concernant la d\u00E9livrance au public des m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20260201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "474c3bb15d8ec30227fbb145c8ba7d06810c2fc6af373f6a3b98a36c54eec979",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20260201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/11/25/n1/consolide/20260201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a77865b57e82ddc72acce3dedd5d9851822d528d5089af00a6b6f4a537f7aed8"
+  "record_sha256": "c54446ee6a861a6f7fe1d68d0d53ea1265a6e6c15e5ddf08ac6508d402d414c5"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 29/06/2020 : R\u00E8glement grand-ducal du 5 septembre 2008 portant ex\u00E9cution de certaines dispositions relatives aux formalit\u00E9s administratives pr\u00E9vues par la loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u0027immigration.",
       "title_short": "TC - RGD du 5 septembre 2008 - Libre circulation",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20200629/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "63e224d21a23d83e657fb0b17c65fd1e165ed4b896ec3c13230eaef1b38eea7c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20200629/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20200629/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c032461767fb65b67834063f7d5960e2c4ecdbaeb61491b21fff2cce36b0db72"
+  "record_sha256": "2f2140d870450b9788e41c218bea21a01b619a9208767ba6f7c6c25c953892dc"
 }

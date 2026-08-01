@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2002-10-14" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MT"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2002-10-14" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2002-10-14" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo</scl:jolux><scl:jolux scl:name="dateApplicability">2026-07-31</scl:jolux><scl:jolux scl:name="dateDocument">2002-10-14</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MT</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/635</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/4362</scl:jolux><scl:jolux scl:name="urgentEvent">0</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1131</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr</scl:jolux><scl:jolux scl:name="dateEntryInForce">2002-10-22</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2002/a118</scl:jolux><scl:jolux scl:name="historicalLegalId">2002A28523</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RGD</scl:jolux><scl:jolux scl:name="publicationDate">2002-10-18</scl:jolux><scl:jolux scl:name="initiatedBy">http://data.legilux.public.lu/resource/authority/legal-institution/MT</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/docx</scl:jolux>
+<scl:jolux scl:name="draft">/eli/etat/proj/pr/20020193</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d'indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2002/07/25/n1/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2002-118-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2002/a118/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rgd-2002-10-14-n1-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2002-118-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2002/a118/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2002/a118/fr/pdf/eli-etat-leg-memorial-2002-a118-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2002-10-22" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2026-07-31" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2026/07/24/a379/jo"/>
+<destination href="#art_1er"/>
+</textualMod>
+<textualMod id="pm2" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2026/07/24/a379/jo"/>
+<destination href="#art_4"/>
+</textualMod>
+<textualMod id="pm3" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2026/07/24/a379/jo"/>
+<destination href="#art_5"/>
+</textualMod>
+<textualMod id="pm4" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2026/07/24/a379/jo"/>
+<destination href="#art_5"/>
+</textualMod>
+<textualMod id="pm5" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2026/07/24/a379/jo"/>
+<destination href="#art_6"/>
+</textualMod>
+<textualMod id="pm6" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2026/07/24/a379/jo"/>
+<destination href="#art_8"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/rgd/2002/10/14/n1/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/rgd/2026/07/24/a379/jo" id="rp2" showAs="Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées. "/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="A|2026-07-27|2026-07-24|RGD|379">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/07/24/a379/jo">Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M2" marker="2" refersTo="pm2" title="A|2026-07-27|2026-07-24|RGD|379">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/07/24/a379/jo">Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M3" marker="3" refersTo="pm3" title="A|2026-07-27|2026-07-24|RGD|379">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/07/24/a379/jo">Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M4" marker="4" refersTo="pm4" title="A|2026-07-27|2026-07-24|RGD|379">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/07/24/a379/jo">Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M5" marker="5" refersTo="pm5" title="A|2026-07-27|2026-07-24|RGD|379">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/07/24/a379/jo">Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M6" marker="6" refersTo="pm6" title="A|2026-07-27|2026-07-24|RGD|379">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/07/24/a379/jo">Règlement grand-ducal du 24 juillet 2026 portant modification du : 1. règlement grand-ducal du 7 juillet 1987 concernant l’organisation et le fonctionnement de la commission spéciale chargée du réexamen des décisions de l’Agence pour le développement de l’emploi en matière de chômage complet ; 2. règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d’indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail ; 3. règlement grand-ducal modifié du 7 octobre 2004 portant exécution de la loi du 12 septembre 2003 relative aux personnes handicapées.</ref> </p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version consolidée applicable au 31/07/2026 : Règlement grand-ducal du 14 octobre 2002 concernant le mode de désignation et d'indemnisation des membres, les règles de fonctionnement et les délais de procédure de la commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail.</p>
+</longTitle>
+</preface>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_1er/20260731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2026-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<paragraph>
+<num>(1)</num>
+<alinea>
+<content>
+<p>La commission mixte de reclassement des travailleurs incapables à exercer leur dernier poste de travail, visée à l'article 10 de la <ref href="/eli/etat/leg/loi/2002/07/25/n1/jo" id="f2e95df9-743f-4689-b1ce-1bfa4f4e03f8" scl:verify="true">loi du 25 juillet 2002</ref> concernant l'incapacité de travail et la réinsertion professionnelle, appelée ci-après «commission mixte», se compose</p>
+<ul scl:symbol="dash">
+<li>de deux délégués représentant les assurés;</li>
+<li>de deux délégués des employeurs;</li>
+<li>d'un délégué du Contrôle médical de la sécurité sociale;</li>
+<li>d'un délégué de la Direction de la santé, division de la santé au travail;</li>
+<li>d'un délégué du ministre ayant dans ses attributions le Travail et de l'Emploi;</li>
+<li>d'un délégué de l'Administration de l'emploi.</li>
+</ul>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les membres de la commission mixte sont nommés par le ministre ayant le Travail et l'Emploi dans ses attributions.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La commission mixte est présidée par le délégué du Ministère du Travail et de l'Emploi.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les membres de la commission mixte sont nommés pour une durée de quatre ans. Leur mandat est renouvelable.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(3)</num>
+<alinea>
+<content>
+<p>La commission mixte peut s'adjoindre, en cas de besoin, toutes les personnes dont le concours en raison de leur compétence ou de leur fonction lui paraît utile pour l'exécution de ses missions.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(4)</num>
+<alinea>
+<content>
+<p>Le secrétariat de la commission mixte est assuré par un <mod class="mod-start" for="#pm1"/>ou plusieurs représentants<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/> du Service des travailleurs à capacité de travail réduite de l'Administration de l'emploi.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_2/20021022</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2002-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<paragraph>
+<num>(1)</num>
+<alinea>
+<content>
+<p>La commission mixte se réunit sur convocation du président. En cas d'empêchement de ce dernier, la convocation s'effectue à l'initiative du membre le plus ancien de la commission.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Hormis le cas d'urgence, la convocation des membres se fait par écrit, au moins huit jours ouvrables avant la réunion.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La convocation mentionne le lieu, le jour et l'heure de la réunion et contient l'ordre du jour avec indication des affaires inscrites.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(2)</num>
+<alinea>
+<content>
+<p>La commission mixte délibère valablement si et tant que au moins la moitié de ses membres sont présents.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Lorsque le président ou celui qui le remplace constate que la commission mixte n'est pas ou plus en nombre pour délibérer valablement, il clôt la réunion.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Dans ce cas, il convoque, endéans les trois jours ouvrables, la commission mixte avec le même ordre du jour. La commission siège alors valablement, quel que soit le nombre de membres présents.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_3/20021022</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2002-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<paragraph>
+<num>(1)</num>
+<alinea>
+<content>
+<p>Le président ou celui qui le remplace ouvre et clôt la réunion et dirige les débats.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(2)</num>
+<alinea>
+<content>
+<p>Les décisions de la commission mixte sont prises à la majorité des voix exprimées. Chaque membre dispose d'une voix. Le vote se fait à main levée. En cas de partage de voix, celle du président est prépondérante.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(3)</num>
+<alinea>
+<content>
+<p>Les séances de la commission mixte ne sont pas publiques.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(4)</num>
+<alinea>
+<content>
+<p>La commission mixte peut convoquer la personne incapable d'exercer son dernier poste de travail, appelée dans la suite «la personne concernée» et/ou son employeur en observant les délais prévus à l'article 2, paragraphe (1).</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(5)</num>
+<alinea>
+<content>
+<p>Les membres de la commission mixte et les personnes convoquées sur base de l'article 1, paragraphe (3) respectivement sur base du paragraphe (4) qui précède sont tenus au secret des délibérations.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_4/20260731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2026-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>
+<mod class="mod-start" for="#pm2"/>Art. 4.</num>
+<alinea>
+<content>
+<p>Pour chaque réunion, les membres de la commission, le président, le personnel du secrétariat ainsi que les experts ou conseillers techniques ont droit à des jetons de présence qui sont fixés comme suit :</p>
+<table border="1" id="table_1" scl:cols="33 34 33" scl:cols-align="left" width="100">
+<tr>
+<td/>
+<td>
+<p>Fonctionnaire/Employé de l’État (brut)</p>
+</td>
+<td>
+<p>Salarié/Indépendant (net)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Président</p>
+</td>
+<td>
+<p>30 euros / présence </p>
+</td>
+<td>
+<p>30 euros / présence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Membre</p>
+</td>
+<td>
+<p>30 euros / présence </p>
+</td>
+<td>
+<p>30 euros / présence </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Expert / Conseiller technique</p>
+</td>
+<td>
+<p>30 euros / présence </p>
+</td>
+<td>
+<p>30 euros / présence </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Secrétaire</p>
+</td>
+<td>
+<p>30 euros / présence </p>
+</td>
+<td>
+<p>/<mod class="mod-end" for="#pm2"/>
+<noteRef href="#M2" marker="2"/>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_5/20260731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2026-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5.</num>
+<alinea>
+<content>
+<p>Le <mod class="mod-start" for="#pm3"/>personnel du secrétariat<mod class="mod-end" for="#pm3"/>
+<noteRef href="#M3" marker="3"/> établit pour chaque réunion un procès-verbal indiquant le nom des membres présents ou excusés, l'ordre du jour de la réunion ainsi que les décisions prises avec indication des motifs à la base. Le procèsverbal est signé par le président, ou celui qui le remplace, et par le <mod class="mod-start" for="#pm4"/>personnel du secrétariat<mod class="mod-end" for="#pm4"/>
+<noteRef href="#M4" marker="4"/> et communiqué aux membres de la commission mixte pour approbation.</p>
+</content>
+</alinea>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_6/20260731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2026-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6.</num>
+<alinea>
+<content>
+<p>La commission mixte est saisie par la transmission au <mod class="mod-start" for="#pm5"/>secrétariat<mod class="mod-end" for="#pm5"/>
+<noteRef href="#M5" marker="5"/> de la commission mixte du dossier de la personne par le médecin du travail compétent.</p>
+</content>
+</alinea>
+</article>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_7/20021022</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2002-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 7.</num>
+<alinea>
+<content>
+<p>Les décisions de la commission mixte se basent notamment sur: </p>
+<ol scl:symbol="a)">
+<li>un rapport du médecin du travail de l'Administration de l'emploi sur les capacités de travail résiduelles de la personne concernée ainsi que sa proposition, s'il y a lieu, de mesures de réhabilitation ou de reconversion en vue d'un reclassement interne ou externe;</li>
+<li>un rapport du Service des travailleurs handicapés de l'Administration de l'emploi sur le respect ou non par l'employeur des obligations prévues à l'article 2, paragraphe (1) de la <ref href="/eli/etat/leg/loi/2002/07/25/n1/jo" id="968a1c24-2b8e-459d-a5b7-5c5746b0e145" scl:verify="true">loi du 25 juillet 2002</ref> concernant l'incapacité de travail et la réinsertion professionnelle;</li>
+<li>en cas de refus par l'employeur d'opérer le reclassement interne, un dossier motivé de l'employeur prouvant qu'un reclassement interne lui causerait des préjudices graves, en application de l'article 3, paragraphe (1) de la <ref href="/eli/etat/leg/loi/2002/07/25/n1/jo" id="74130f7a-dc28-4579-8f2d-0bbf996c4546" scl:verify="true">loi du 25 juillet 2002</ref> concernant l'incapacité de travail et la réinsertion professionnelle;</li>
+<li>un avis motivé du médecin du travail compétent sur les possibilités d'un reclassement interne en exécution de l'article 2, paragraphe (1) et, s'il y a lieu, de l'article 4 de la <ref href="/eli/etat/leg/loi/2002/07/25/n1/jo" id="e5f13a42-b17e-4b6b-bdb0-f79e1d7ff15d" scl:verify="true">loi du 25 juillet 2002</ref> concernant l'incapacité de travail et la réinsertion professionnelle.</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_8/20260731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2026-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8.</num>
+<alinea>
+<content>
+<p>Au cas où l'avis motivé du médecin du travail compétent mentionné à l'article 7 sous d) conclut à la possibilité d'un reclassement interne, le <mod class="mod-start" for="#pm6"/>personnel du secrétariat<mod class="mod-end" for="#pm6"/>
+<noteRef href="#M6" marker="6"/> de la commission mixte contacte l'employeur endéans les cinq jours ouvrables en vue de connaître sa position, qui est ajoutée, sous forme écrite, au dossier.</p>
+</content>
+</alinea>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_9/20021022</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2002-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 9.</num>
+<alinea>
+<content>
+<p>La commission mixte prend une décision motivée relative au reclassement interne ou externe de la personne incapable d'exercer son dernier poste de travail. La décision est signée par le président, ou celui qui le remplace, et par le secrétaire.</p>
+</content>
+</alinea>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_10/20021022</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2002-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 10.</num>
+<paragraph>
+<num>(1)</num>
+<alinea>
+<content>
+<p>Endéans les quinze jours ouvrables, la décision de la commission mixte est notifiée à la personne concernée ainsi qu'à son employeur.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(2)</num>
+<alinea>
+<content>
+<p>La notification de la décision indique les délais et voies de recours.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num>(3)</num>
+<alinea>
+<content>
+<p>La notification contient par ailleurs une note explicative concernant les droits découlant par la <ref href="/eli/etat/leg/loi/2002/07/25/n1/jo" id="3c327f5e-7f9c-4a18-9a98-2dc0fb32c456" scl:verify="true">loi du 25 juillet 2002</ref> concernant l'incapacité de travail et la réinsertion professionnelle pour l'employeur respectivement pour la personne concernée, et notamment les aides financières, ainsi que les procédures et délais applicables pour entrer en jouissance de ces droits.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_11">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_11</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1/art_11/20021022</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2002/10/14/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2002-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 11.</num>
+<alinea>
+<content>
+<p>Notre Ministre du Travail et de l'Emploi est chargé de l'exécution du présent règlement qui sera publié au Mémorial.</p>
+</content>
+</alinea>
+</article>
+</body>
+</act>
+</akomaNtoso>

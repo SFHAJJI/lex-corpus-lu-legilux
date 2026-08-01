@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/01/2027 : Loi du 15 avril 2026 portant cr\u00E9ation de l\u2019Administration des aides individuelles au logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/consolide/20270101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c8b63d6624bad3ce0861666731052b768a1c555fa4699e0b81001f5b6761e4f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/consolide/20270101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2026/04/15/a211/consolide/20270101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "21588f4a122595fd9a3ee07738abd9e7f375ba318a96d9ff6b04bcc6a4014edc"
+  "record_sha256": "22fc4bff36feaa2a09ae0264f0029d21db25f909fa76e4376bfe8134c843d850"
 }

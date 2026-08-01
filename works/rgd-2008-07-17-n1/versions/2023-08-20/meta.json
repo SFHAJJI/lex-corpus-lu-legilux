@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/08/2023 : R\u00E8glement grand-ducal du 17 juillet 2008 ayant pour objet les \u00E9lections pour la Chambre des salari\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/07/17/n1/consolide/20230820/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0b833740849dc43733741781fb935b351b4f48b125709b582c61c03f8e8e564e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/07/17/n1/consolide/20230820/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/07/17/n1/consolide/20230820/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8ceb01badad2054b133e324193949a65b963b0d9cd9ee2f8d9ddc1919050151b"
+  "record_sha256": "1391477b21b3ca712bee620362f460d781be3ee5c44c6d7f7a409a0fb902920e"
 }

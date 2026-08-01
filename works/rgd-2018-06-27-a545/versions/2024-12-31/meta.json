@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/12/2024 : R\u00E8glement grand-ducal du 27 juin 2018 concernant la r\u00E9duction des \u00E9missions nationales de certains polluants atmosph\u00E9riques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a545/consolide/20241231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "81e8a507a4d6e8fc148eb73c91b1f786898ff1a0db2281c7272fc1e463037b68",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a545/consolide/20241231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a545/consolide/20241231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "40b616b1be6c761ba5ba30558c26c1d0ba2d3be9ab95687f3d0734ff9ad317f3"
+  "record_sha256": "b2d6b2e642c010bdab939ab396663dfc164806c78de74957c215f4429ec083a5"
 }

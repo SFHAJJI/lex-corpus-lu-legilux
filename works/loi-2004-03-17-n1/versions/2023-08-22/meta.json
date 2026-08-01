@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/08/2023 : Loi du 17 mars 2004 relative au mandat d\u0027arr\u00EAt europ\u00E9en et aux proc\u00E9dures de remise entre Etats membres de l\u0027Union europ\u00E9enne.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20230822/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f4803d8a203508dc364b62f0fcd085210f8011f5a6fa4472f57e5b642b79e0ff",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20230822/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/03/17/n1/consolide/20230822/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9012698d1636fea5d708284a9d99a85b930e4b53aafb321567064e7aabd949cb"
+  "record_sha256": "cee436c50f851cecaa74e1a1dcd4c456cb831a7fe2f6c51b38c0092b76f8ba77"
 }

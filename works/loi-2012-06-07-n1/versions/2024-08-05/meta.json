@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/08/2024 : Loi du 7 juin 2012 sur les attach\u00E9s de justice et portant modification:\\n - du Code d\u0027instruction criminelle;\\n - de la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u0027\u00C9tat;\\n - de la loi modifi\u00E9e du 7 mars 1980 sur l\u0027organisation judiciaire;\\n - de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat;\\n - de la loi modifi\u00E9e du 7 novembre 1996 portant organisation des juridictions de l\u0027ordre administratif.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/06/07/n1/consolide/20240805/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "556c09378a2b02c061674fcd06f35f322087c4b5ccb22084f54c4ab606ce629b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/06/07/n1/consolide/20240805/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2012/06/07/n1/consolide/20240805/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6f3dd62ede08e3c9c0d980e7c575ea5f1c00613f0f38c113c50cc375f5d54ac6"
+  "record_sha256": "8f97ba49a0ea370277787ae965be4380ea94f39d52709aa30de20f3f034c5f49"
 }

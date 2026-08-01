@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/09/2016 : Arr\u00EAt\u00E9 royal grand-ducal du 5 mars 1849 portant modification au r\u00E8glement sur l\u2019exercice du droit \u00E0 l\u2019affouage.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/argd/1849/03/03/n1/consolide/20160902/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2024dfebd57693bbb6d04d866bd1f5e950a4ed8e791af46cc051c81a779cdcd7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/argd/1849/03/03/n1/consolide/20160902/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/argd/1849/03/03/n1/consolide/20160902/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cbf35296208fbe47432c3cc04d950eb7c40be012a01b920d5752a84e05590c63"
+  "record_sha256": "cc71f4822c38adfe2fe4adbe5d9de9e6c3b26a522bc1fd47ae98980a21e1bee7"
 }

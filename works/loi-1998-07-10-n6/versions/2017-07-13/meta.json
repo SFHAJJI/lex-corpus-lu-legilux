@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/08/2017 : Loi du 10 juillet 1998 portant approbation de la Convention du 31 octobre 1997 entre le Gouvernement, d\u0027une part, et l\u0027Archev\u00EAch\u00E9, d\u0027autre part, concernant l\u0027organisation de l\u0027enseignement religieux dans l\u0027enseignement primaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/consolide/20170713/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2948df9176a364bd952c825d39a328f84b0886392b978c448acdc3229ac047a6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/consolide/20170713/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/07/10/n6/consolide/20170713/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4189565c06ae49367841be1d2e94165b77df7edbc527c3baf8dcc8a0739dd33e"
+  "record_sha256": "4ac7addceb09a9527708095311db0e6386a5e6b12b30f70ad96fbd73e999ab91"
 }

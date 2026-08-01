@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/11/2024 : R\u00E8glement grand-ducal du 8 f\u00E9vrier 2024 arr\u00EAtant les projets \u00E0 subventionner dans le cadre du onzi\u00E8me programme quinquennal d\u2019\u00E9quipement de l\u2019infrastructure touristique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/20241116/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fcea7cb4ce214bcd0d12d843c4afc14d21667a152cc7af7a0e23534ac6d3b559",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/20241116/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/08/a50/consolide/20241116/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "390708d1d047cd9ef100e2fa5239057648ce566b9ad27ad8b09c705f5d4386b0"
+  "record_sha256": "52c144cafc1ef10b8a288d3785e01f41811cad6002d1af5f1e4715ca02344e81"
 }

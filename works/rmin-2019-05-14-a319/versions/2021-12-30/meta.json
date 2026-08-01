@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/12/2021 : R\u00E8glement minist\u00E9riel du 14 mai 2019 relatif \u00E0 la subdivision et aux conditions d\u2019utilisation de l\u2019espace a\u00E9rien luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2019/05/14/a319/consolide/20211230/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "32d6774450e0e5c19bab7d097aeb45568395d42d1288a513fe4097cf6ea19597",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2019/05/14/a319/consolide/20211230/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2019/05/14/a319/consolide/20211230/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "408aba9d868e331783a625f28ce0b5269b9d0e4ef67dca7c561dfa820dd756a9"
+  "record_sha256": "f2d11bcfd4608c6ac8938a778db9ef82edd1d124a193ef3864742ded007db5b0"
 }

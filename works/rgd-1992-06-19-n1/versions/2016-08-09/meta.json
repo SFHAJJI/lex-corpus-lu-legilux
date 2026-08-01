@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/08/2016 : R\u00E8glement grand-ducal du 19 juin 1992 fixant les modalit\u00E9s de structure et de fonctionnement de l\u0027\u00E9tablissement public cr\u00E9\u00E9 par l\u0027article 14 de la loi du 27 juillet 1991 sur les m\u00E9dias \u00E9lectroniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/06/19/n1/consolide/20160809/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "290e2aac0bc28b1e85a8165986bf6c899b78dc1b4053804fac1df8c69a17f502",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/06/19/n1/consolide/20160809/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/06/19/n1/consolide/20160809/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cff7d3a276541fd55382d67551d3fcf1374e3ec119e4f5ed824456e489c4f6c5"
+  "record_sha256": "f8da2fc27c651765794e3d0892b2b3220989e3f3de9c34b65a749b48cca9b7ca"
 }

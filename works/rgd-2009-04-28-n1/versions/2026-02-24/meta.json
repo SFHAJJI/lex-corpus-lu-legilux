@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/02/2026 : R\u00E8glement grand-ducal du 28 avril 2009 pr\u00E9cisant les modalit\u00E9s d\u2019attribution du droit aux soins palliatifs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/04/28/n1/consolide/20260224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8e891f12967e20dc60b7c14e2d2cc3c7551be9d75c1ede69e5b13fff3c75e357",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/04/28/n1/consolide/20260224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/04/28/n1/consolide/20260224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "954487b32f5ff5f674054bc3dd77fd6430028d28f416c1dc4f750928f123d6c5"
+  "record_sha256": "2940ea6a4ce17a219d0aebbebf0b8b5c5f91ebcfe51b075dff54186f5df6f606"
 }

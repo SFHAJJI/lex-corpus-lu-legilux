@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2021 : Loi du 22 juillet 2008 portant cr\u00E9ation d\u0027un lyc\u00E9e \u00E0 Junglinster.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/07/22/n3/consolide/20210915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e59566205b91bb23dafcc99c7bfca248795e2326f70466c1a95d7ce8ac751290",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/07/22/n3/consolide/20210915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/07/22/n3/consolide/20210915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2529c3a6227a0afaeb714cdebfcee69fb5235d28d46a7ff99b83a2d69323b7b3"
+  "record_sha256": "6c073b827b267b17c13e4901f303d1258d5b0b95c335a07bfa5dfb83a294c32c"
 }

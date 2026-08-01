@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 29 avril 2005 concernant les indemnit\u00E9s du jury d\u0027examen pour le stage judiciaire et abrogeant le r\u00E8glement grand-ducal du 19 d\u00E9cembre 1963 portant r\u00E9vision des indemnit\u00E9s du jury d\u0027examen pour le stage judiciaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3b01bd29156c755559bc64797ebb68ff8bdd3d70695e4b589736b1efaac87f95",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/04/29/n1/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "354ec91f996be8374afeabf1c4097efb9f5c4debc299a87b6782227e8668e822"
+  "record_sha256": "d46a4c534229570d24ebb79b06dacbd4f4b9e51d46d58a979f0ed94bc73889c9"
 }

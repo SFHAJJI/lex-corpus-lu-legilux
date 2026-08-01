@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/07/2025 : R\u00E8glement grand-ducal du 20 juin 2022 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive, ainsi que de l\u2019examen de promotion des fonctionnaires aupr\u00E8s de l\u2019Institut national de statistique et des \u00E9tudes \u00E9conomiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/consolide/20250727/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3307bdb96820aa50d3fb039a30c4e6f5784a2c4fb9e2dabde6597060488c2a95",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/consolide/20250727/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/20/a312/consolide/20250727/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "62e800ec56cd787f13114870cbcbdc488800c2cdb4d73b309c7cf01de6880d99"
+  "record_sha256": "ce3ee11a9b14cde1d34c5f747860eac682a18232ef0c42ff0329a5d51be2e26b"
 }

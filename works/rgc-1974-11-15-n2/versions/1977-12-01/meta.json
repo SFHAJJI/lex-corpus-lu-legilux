@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/12/1977 : R\u00E8glement du Gouvernement en conseil du 15 novembre 1974 fixant le r\u00E9gime des indemnit\u00E9s des charg\u00E9s de cours des \u00E9tablissements d\u0027enseignement publics qui d\u00E9pendent du minist\u00E8re de l\u0027Education nationale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ac642ccf995ab669b1d2c656ef218ad0edf2a060afdffdd07805ef630b4cd593",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/1974/11/15/n2/consolide/19771201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "22be00d74b4c397b3e77aac1e6c67438f3c662afd3c33345dbddf4947cc7808a"
+  "record_sha256": "ac874984d1c799a674aaaba98d6bac21c9e8510f80f918decbf45748aa49265f"
 }

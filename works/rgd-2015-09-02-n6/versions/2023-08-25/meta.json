@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/08/2023 : R\u00E8glement grand-ducal du 2 septembre 2015 fixant le contenu du dossier \u00E0 joindre \u00E0 la demande d\u0027admission au b\u00E9n\u00E9fice des aides en faveur des artistes professionnels ind\u00E9pendants et des intermittents du spectacle ainsi que les modalit\u00E9s de versement des aides.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n6/consolide/20230825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "992782352c1366743c6f64a06cd82fa8cc6bd901a14a7ac4471dc670b0920e7a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n6/consolide/20230825/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n6/consolide/20230825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "19f6a78fdfea26db31075469bf98e8c2db0829bd1b375a809d85e45452486738"
+  "record_sha256": "5c4b3cb5786ba5583353f5deccca41ab50706724ed5f557b2c37cc45da873d4f"
 }

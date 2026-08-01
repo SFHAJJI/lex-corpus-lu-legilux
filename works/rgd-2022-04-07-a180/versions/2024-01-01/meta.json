@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 7 avril 2022 d\u00E9terminant les mesures d\u2019ex\u00E9cution de la loi modifi\u00E9e du 23 d\u00E9cembre 2016 instituant un r\u00E9gime d\u2019aides pour la promotion de la durabilit\u00E9, de l\u2019utilisation rationnelle de l\u2019\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement et modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 23 d\u00E9cembre 2016 fixant les mesures d\u2019ex\u00E9cution de la loi du 23 d\u00E9cembre 2016 instituant un r\u00E9gime d\u2019aides pour la promotion de la durabilit\u00E9, de l\u2019utilisation rationnelle de l\u2019\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement.",
       "title_short": "R\u00E8glement grand-ducal du 7 avril 2022 d\u00E9terminant les mesures d\u2019ex\u00E9cution de la loi du 23 d\u00E9cembre 2016 instituant un r\u00E9gime d\u2019aides pour la promotion de la durabilit\u00E9, de l\u2019utilisation rationnelle de l\u2019\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a180/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1e82e5435bfb54a4a00fc97ef033190381f544dc2faf385e170f48c684935680",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a180/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/04/07/a180/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4cd6fceaf7b1a55c76b6b7a440bc052762251ed4c109461f5a512389f08361e9"
+  "record_sha256": "51efaeffab97379e5220361fe9c5d566f57007d5613f648c436ac81a68d409ea"
 }

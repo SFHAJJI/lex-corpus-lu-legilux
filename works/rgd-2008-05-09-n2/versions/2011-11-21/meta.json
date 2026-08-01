@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/11/2011 : R\u00E8glement grand-ducal du 9 mai 2008 concernant l\u0027identification et la d\u00E9claration des chiens.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n2/consolide/20111121/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "53826124926bf089fa7c1dae59359827fd12edc03e0e97520928bb318a326f27",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n2/consolide/20111121/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/05/09/n2/consolide/20111121/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "31810e42d41c99b8393b1c722a73ab76cf2bdb5e7e7f618fb6570833b611fe59"
+  "record_sha256": "7f80164a33b245617d1fb76059ff9edeb0863cbb77d60d6bb1f8802554e8dc42"
 }

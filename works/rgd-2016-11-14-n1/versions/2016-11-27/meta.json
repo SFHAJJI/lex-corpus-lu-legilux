@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 27/11/2016 : R\u00E8glement grand-ducal du 14 novembre 2016 concernant la protection de la s\u00E9curit\u00E9 et de la sant\u00E9 des salari\u00E9s contre les risques li\u00E9s \u00E0 des agents chimiques sur le lieu de travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20161127/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9eb126097fc13a1d670b92be575d5f27bfbbe2a7146a174c0cc38858d9814d3d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20161127/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20161127/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7beb467a40ff04ab6bc9a58f2051744c2682f159e86858cc3f1a69ba4756657a"
+  "record_sha256": "f446b770dae01d1efdd12482cc66bfa0f83c4e672ab03ad59614f7eed04c2fc6"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/05/2021 : R\u00E8glement grand-ducal du 17 novembre 2020 fixant la liste des m\u00E9dicaments pr\u00E9vue \u00E0 l\u2019article 4, paragraphe 2, de la loi modifi\u00E9e du 25 novembre 1975 concernant la d\u00E9livrance au public des m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210502/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cb6bdb452a19ad11fdf974fbd0512c406d3502b4449f19e9b5bdebe8c99af5e1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210502/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/17/a908/consolide/20210502/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3ad4fd91bf076f55b479e15fd3bb238825ddf228ecfe33a3516815c7f83028d8"
+  "record_sha256": "6243324b4ec8511b79f4fde7a6f4c18084d4a96f4f2626947034e17a8f32a4d7"
 }

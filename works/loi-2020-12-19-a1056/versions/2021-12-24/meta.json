@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 24/12/2021 : Loi du 19 d\u00E9cembre 2020 portant\\n1\u00B0 adaptation temporaire de certaines modalit\u00E9s proc\u00E9durales en mati\u00E8re civile et commerciale ;\\n2\u00B0 modification de la loi du 25 novembre 2020 portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 23 septembre 2020 portant des mesures concernant la tenue de r\u00E9unions dans les soci\u00E9t\u00E9s et dans les autres personnes morales\\n2\u00B0 de la loi du 20 juin 2020 portant\\n1\u00B0 prorogation de mesures concernant\\na) la tenue d\u2019audiences publiques pendant l\u2019\u00E9tat de crise devant les juridictions dans les affaires soumises \u00E0 la proc\u00E9dure \u00E9crite ;\\nb) certaines adaptations de la proc\u00E9dure de r\u00E9f\u00E9r\u00E9 exceptionnel devant le juge aux affaires familiales ;\\nc) la suspension des d\u00E9lais en mati\u00E8re juridictionnelle, et\\nd) d\u2019autres modalit\u00E9s proc\u00E9durales ;\\n2\u00B0 d\u00E9rogation temporaire aux articles 74 \u00E0 76 et 83 de la loi modifi\u00E9e du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat ;\\n3\u00B0 d\u00E9rogation temporaire aux articles 15 et 16 de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat ; et\\n4\u00B0 modification de l\u2019article 89 de la loi modifi\u00E9e du 8 mars 2017 sur la nationalit\u00E9 luxembourgeoise\\net portant suspension du d\u00E9lai pr\u00E9vu \u00E0 l\u2019article 55.\\n",
       "title_short": "Loi du 19 d\u00E9cembre 2020 portant adaptation temporaire de certaines modalit\u00E9s proc\u00E9durales en mati\u00E8re civile et commerciale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20211224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ae8cbf5da0aadf02d55d497e8548884b70abc7b669ff06f5b5f94bd3eb49b47c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20211224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1056/consolide/20211224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c85cc643732465092263f74761b54e5a6517dd63f01aa2e93fb4a2bbe76bb84b"
+  "record_sha256": "7c3b0d450d08b5cb81a01f0bd433655d93a96b2fccf538ef2e2b53de5f03c6c3"
 }

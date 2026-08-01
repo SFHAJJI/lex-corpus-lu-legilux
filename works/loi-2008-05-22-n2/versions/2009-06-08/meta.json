@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/06/2009 : Loi du 22 mai 2008 relative \u00E0 l\u2019\u00E9valuation des incidences de certains plans et programmes sur l\u2019environnement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/22/n2/consolide/20090608/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0cce663cf16f19f13d417b23ac7580e6e2b128c37b574993689c51e4feeb60a6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/22/n2/consolide/20090608/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/22/n2/consolide/20090608/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "56994cce6fe77adcfbc91e1f8ad9c6ea14190f915e4da8780ef7c7cb3dab1bdf"
+  "record_sha256": "538500c412e98525c672c7c0595321b3d77ed42a8fd290f4f54fac99009075b8"
 }

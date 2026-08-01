@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/08/2022 : R\u00E8glement grand-ducal du 22 juin 2000 portant ex\u00E9cution de la loi du 29 avril 2000 transposant la directive 92/29/CEE du Conseil du 31 mars 1992 concernant les prescriptions minimales de s\u00E9curit\u00E9 et de sant\u00E9 pour promouvoir une meilleure assistance m\u00E9dicale \u00E0 bord des navires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/06/22/n3/consolide/20220814/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fa79db8211bd125a11aea12af7c25a976c7175e9a6ca3d3242d4c8ee35fc890d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/06/22/n3/consolide/20220814/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/06/22/n3/consolide/20220814/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aa13993b10148018b351db0c3091828658c5f76e65f1ac3b88435cf142734c94"
+  "record_sha256": "71ce1c339212a7a62c1563a492b71a1cd891ce3078ea97883ef9194f15742c95"
 }

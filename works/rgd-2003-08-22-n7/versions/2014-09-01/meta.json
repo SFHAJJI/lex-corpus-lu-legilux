@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2013 : R\u00E8glement grand-ducal du 22 ao\u00FBt 2003 portant ex\u00E9cution de certaines dispositions de la loi du 12 novembre 2002 relative aux activit\u00E9s priv\u00E9es de surveillance et de gardiennage.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/08/22/n7/consolide/20140901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3f80d8f06b760435b6cc55c4bfbe5769a58e1b1c2f7eaa59bdde078f4ef1c62b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/08/22/n7/consolide/20140901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2003/08/22/n7/consolide/20140901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "45741cad6afac937f4dd317d7feaddd658636bf01851970305935241753fa2f6"
+  "record_sha256": "9dc7807fa298f796d78bc02b5275892c196ca5ad7563a5ff59cf1ac3cfedb681"
 }

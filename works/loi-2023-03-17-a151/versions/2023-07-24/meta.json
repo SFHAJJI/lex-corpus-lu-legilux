@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/07/2023 : Loi du 17 mars 2023 instituant une contribution \u00E9tatique visant \u00E0 limiter la hausse des prix d\u2019approvisionnement en chaleur pour certains clients raccord\u00E9s \u00E0 un r\u00E9seau de chauffage urbain.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/03/17/a151/consolide/20230724/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "879f5cece94a2f483a6ee15eeb59fe6d80d869482e45c336222c9f14f5772e08",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/03/17/a151/consolide/20230724/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/03/17/a151/consolide/20230724/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "760933600f63829579c0209642d468b5809b22006d218bae1d19c868ca6b6af3"
+  "record_sha256": "00ed45f2f0be9070f6cbe1f37019923389bb92d6eb10c307b98dc419ec14efb2"
 }

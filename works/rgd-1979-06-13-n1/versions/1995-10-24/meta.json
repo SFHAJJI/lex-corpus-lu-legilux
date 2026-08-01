@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/10/1995 : R\u00E8glement grand-ducal du 13 juin 1979 concernant les directives en mati\u00E8re de s\u00E9curit\u00E9 dans les \u00E9coles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/06/13/n1/consolide/19951024/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "252f37393946e63b04bfc687be2583b18a26ff91eb3a767225ac6aa58c33a81b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/06/13/n1/consolide/19951024/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/06/13/n1/consolide/19951024/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "916b64ed18884c00809ef28fcdfa3ee92e7ddccb4cdb56d545a22a78598cc631"
+  "record_sha256": "391474f609124665efb7d413ab4712d48cd1c488758473e3861404c30009b110"
 }

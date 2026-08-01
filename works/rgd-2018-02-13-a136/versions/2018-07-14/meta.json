@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/07/2018 : R\u00E8glement grand-ducal du 13 f\u00E9vrier 2018 portant ex\u00E9cution de l\u2019article 4, paragraphe 2 de la loi du 23 d\u00E9cembre 2016 relative \u00E0 la d\u00E9claration pays par pays.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/02/13/a136/consolide/20180714/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6071040040a3159a174915a2d7d9e7563cd7387ef058f0a07b6b154268206494",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/02/13/a136/consolide/20180714/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/02/13/a136/consolide/20180714/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1ca34fae101aae9b6c5ccdc10e9941ac3c935640c28c19cfba2e8b2484cf0dcf"
+  "record_sha256": "7b1feb57276d7659beddfc2d9ac3683fae7690733ac669aa1b0807f320d5913e"
 }

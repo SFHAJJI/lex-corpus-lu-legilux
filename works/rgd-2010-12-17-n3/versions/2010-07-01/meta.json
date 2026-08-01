@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/07/2010 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2010 portant nouvelle fixation\\n1) de l\u0027indemnit\u00E9 de remplacement due aux d\u00E9tenteurs de l\u0027attestation habilitant \u00E0 faire des remplacements engag\u00E9s sur base des dispositions de l\u0027article 27 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental; \\n2) de l\u0027indemnit\u00E9 due pour le\u00E7ons suppl\u00E9mentaires assur\u00E9es par les charg\u00E9s de cours de la r\u00E9serve de suppl\u00E9ants de l\u0027enseignement fondamental respectivement par les d\u00E9tenteurs de l\u0027attestation habilitant \u00E0 faire des remplacements engag\u00E9s sur base de l\u0027article 27 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20100701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "558d0e0fb912bf55a422ae4b3107b0a41142ecd1ed713f714c0eb9ccae9406ba",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20100701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20100701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8da533b4de8ddc1d30c7a7ecd5db68defe4209e8a37d80c9d5b16793bf042403"
+  "record_sha256": "598ffd1d1c664c5ae0fe9881970cb8b678998637ac9b45d4866f988408540215"
 }

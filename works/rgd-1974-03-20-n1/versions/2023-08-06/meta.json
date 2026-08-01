@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/08/2023 : R\u00E8glement grand-ducal du 20 mars 1974 concernant certaines substances psychotropes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1974/03/20/n1/consolide/20230806/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "819f08f7df3546223282f38857466ae01087ded611bbcd3b312ce80d4ae35bef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1974/03/20/n1/consolide/20230806/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1974/03/20/n1/consolide/20230806/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ba2993c660895ad96381904efdd4f96a30baac8820997949047465f61d1bf7a8"
+  "record_sha256": "2f18078c53800c43a647e6ec095c00fdf9b9de838a76b74c181140e49675720b"
 }

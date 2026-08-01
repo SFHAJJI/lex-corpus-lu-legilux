@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2024 : R\u00E8glement grand-ducal du 17 juin 2015 portant ex\u00E9cution des articles 6, 7, 8 et 40 de la loi du 10 f\u00E9vrier 2015 relative \u00E0 l\u2019organisation du march\u00E9 de produits p\u00E9troliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/06/17/n3/consolide/20241001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e4755e306e10d38c72d1fe429f6ffa821ce9dc402e5ecc484c665e8b7b545bd0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/06/17/n3/consolide/20241001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/06/17/n3/consolide/20241001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a104f4fbafcbf2ed04900bd900a80d150a305554aaa0a3adca4762908068ac62"
+  "record_sha256": "34040d8b7d776e2dc8ffc45e0a96bb042f19e3862c15e82c1e066d3d358d84ba"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/05/2008 : Loi du 20 juillet 1992 portant modification du r\u00E9gime des brevets d\u0027invention.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20080503/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b36392c37645e778eea60b686fbf1fb8304dbb3469dc47da9027dc1b72210889",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20080503/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/07/20/n1/consolide/20080503/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "057621ac69eaf2b85ee39db970c9e7567ea4a2c24ba2a80cc9391b45e17b42cc"
+  "record_sha256": "cd27a2671a55df9feb16fe5ba111319a5a05e6a94b2769c23a761c7a39930c31"
 }

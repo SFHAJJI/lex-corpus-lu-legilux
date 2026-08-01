@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2011 : R\u00E8glement grand-ducal du 19 d\u00E9cembre 2008 relatif \u00E0 la comptabilit\u00E9 et aux budgets des institutions de s\u00E9curit\u00E9 sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n30/consolide/20110101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "65c73546439bc22e2eb9f2884e09e7c2056c27492f6de35035030e9dc0b867ab",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n30/consolide/20110101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n30/consolide/20110101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9cce9fc90ca36890435b350f9db64d6e84fe8334d9109572918c8223d36cfd79"
+  "record_sha256": "7fa2ae5d29f2820d686bb5c1d2ede92f4293e1e14a30996631a505a50be576f4"
 }

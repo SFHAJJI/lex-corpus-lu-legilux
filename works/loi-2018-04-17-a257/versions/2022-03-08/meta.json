@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 08/03/2022 : Loi du 17 avril 2018 portant mise en \u0153uvre du r\u00E8glement (UE) 2016/1011 du Parlement europ\u00E9en et du Conseil du 8 juin 2016 concernant les indices utilis\u00E9s comme indices de r\u00E9f\u00E9rence dans le cadre d\u0027instruments et de contrats financiers ou pour mesurer la performance de fonds d\u0027investissement et modifiant les directives 2008/48/CE et 2014/17/UE et le r\u00E8glement (UE) n\u00B0 596/2014, et portant:\\n1. modification du Code de la consommation ;\\n2. modification de la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier ;\\n3. modification de la loi modifi\u00E9e du 12 novembre 2004 relative \u00E0 la lutte contre le blanchiment et contre le financement du terrorisme ; et\\n4. modification de la loi modifi\u00E9e du 7 d\u00E9cembre 2015 sur le secteur des assurances.",
       "title_short": "Loi du 17 avril 2018 relative aux indices de r\u00E9f\u00E9rence.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220308/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2266bc7201965c29045447f35f9cbd2837a42c1a2350649587528d00c0fad1f6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220308/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a257/consolide/20220308/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2c02bdb2231aef6afa06c00c73031fb9c954eb7cb9a00a8a99ca6b0f4f36d757"
+  "record_sha256": "e0fd01fc43e243dadacebb7045159f4bafe40835eacc267ddbb235f3d0c9545f"
 }

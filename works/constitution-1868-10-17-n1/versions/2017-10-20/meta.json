@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/10/2017 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9f7b23f7fb3735d537c5baa230d6543cc35e882a33be00b7ecda05de1ffd61f3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20171020/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "083a9b74216b1415a3fa3b61c27ac68744f361de83b3faa9a0638e477c1fcaf1"
+  "record_sha256": "7aee76f6ed73fdd585176047aad22a7fbefa8768621f5ffbdfb213dc201e375d"
 }

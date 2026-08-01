@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 26 octobre 2011 instituant un Conseil scientifique du domaine de la sant\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7ab474bedc1afc0c642861fcd46237378da9cf3961d191a99150f24f70febcf9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/10/26/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3df13d8dc8305b51d20bbe51edd5e4af85c9ac4e1ec61c89e89d38bfd4ec2b10"
+  "record_sha256": "84bd580d8da3873c4cc99039ac1e1d6d78b4901ff984159de27c7d6b88f04559"
 }

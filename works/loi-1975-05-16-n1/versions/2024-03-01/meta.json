@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/03/2024 : Loi du 16 mai 1975 portant statut de la copropri\u00E9t\u00E9 des immeubles b\u00E2tis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/20240301/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "88ee7fecb205c0d4314a65acbcc4821030bebf3ef96223c9e89bed81b70c9a39",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/20240301/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/05/16/n1/consolide/20240301/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "25f999d9b546329b65692484a01c5a4bee044289e01a5b438f65d92d3ec16a6a"
+  "record_sha256": "cce1764e7380cda0a4dcfc15f811c8d0ac3b34200580f1dce6dac3df5dba41fc"
 }

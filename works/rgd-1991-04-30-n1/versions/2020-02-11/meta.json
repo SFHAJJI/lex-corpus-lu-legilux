@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/02/2020 : R\u00E8glement grand-ducal du 30 avril 1991 concernant l\u0027octroi d\u0027un cong\u00E9 sportif.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/consolide/20200211/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0832cf5ff295753a91d0e77a110fecbe6491eb6581ef7fd1f81db9ea1500a344",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/consolide/20200211/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1991/04/30/n1/consolide/20200211/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2c4e034477e9a08f99d28deceabb62d3bd911a3a1c1b3a48ca7a07d3b503c75c"
+  "record_sha256": "8b770cf7b11dc074626a9b4f44b68dd24e1767cbd266691086b35df8cc6c5787"
 }

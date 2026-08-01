@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 24/03/2022 : R\u00E8glement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de d\u00E9but de carri\u00E8re des employ\u00E9s communaux :\\n1\u00B0 modifiant :\\na) le r\u00E8glement grand-ducal modifi\u00E9 du 27 octobre 2000 d\u00E9terminant \u00E0 l\u2019Institut national d\u2019administration publique 1. l\u2019organisation de la commission de coordination, 2. la collaboration avec les administrations et \u00E9tablissements publics de l\u2019\u00C9tat et 3. la collaboration avec le Minist\u00E8re de l\u2019Int\u00E9rieur et les administrations et \u00E9tablissements publics des communes ;\\nb) le r\u00E8glement grand-ducal modifi\u00E9 du 13 ao\u00FBt 2002 portant institution d\u2019une formation sp\u00E9ciale pour les fonctionnaires communaux ; et\\n2\u00B0 abrogeant le r\u00E8glement grand-ducal modifi\u00E9 du 27 octobre 2000 portant 1. organisation \u00E0 l\u2019Institut national d\u2019administration publique de la division de la formation pendant le service provisoire du personnel des communes, des syndicats de communes et des \u00E9tablissements publics des communes et 2. modification du r\u00E8glement grand-ducal modifi\u00E9 du 20 d\u00E9cembre 1990 portant fixation des conditions d\u2019admission et d\u2019examen des fonctionnaires communaux.\\n",
       "title_short": "R\u00E8glement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de d\u00E9but de carri\u00E8re des employ\u00E9s communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/04/23/a337/consolide/20220324/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "85018bf0c23abbe0f762320635c1b36866241d8ab35e150f9923db5565c45302",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/04/23/a337/consolide/20220324/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/04/23/a337/consolide/20220324/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4b2b3e178f8bff1edbdb6731ce26d84230f323535f0e428053f7e321da9a3217"
+  "record_sha256": "016ea4bca53974ded2a336bcf878697edfc06748223bcbcec99cff4b8cd66ed3"
 }

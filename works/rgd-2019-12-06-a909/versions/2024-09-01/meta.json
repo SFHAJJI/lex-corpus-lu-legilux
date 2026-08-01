@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2024 : R\u00E8glement grand-ducal du 6 d\u00E9cembre 2019 pr\u00E9cisant les modalit\u00E9s et conditions de mise en place du dossier de soins partag\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/12/06/a909/consolide/20240901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "77bc16df2db9d06449a33980495fe60c6965eca56c49970fe2b7c6c7c566145d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/12/06/a909/consolide/20240901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/12/06/a909/consolide/20240901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8f2659ffc190498e681f4887943bc938d03a06e5932da49067c00e06670f4ba7"
+  "record_sha256": "c9acd2373c8e64fd3fb639e0b40b7d4c77b6ac752279d57d680e52daaab59420"
 }

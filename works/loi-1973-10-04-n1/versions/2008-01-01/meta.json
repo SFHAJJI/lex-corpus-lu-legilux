@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2008 : Loi du 4 octobre 1973 concernant l\u0027institution d\u0027un cong\u00E9-\u00E9ducation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/consolide/20080101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bcc51be90ff4faffbcff1172d97cd649dd2bf7ab89c4f501a6328692782c20da",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/consolide/20080101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/10/04/n1/consolide/20080101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "903d6504a353575c37bba816305f1c9461a55638fca6bf0dc5d578dd0a98eb7c"
+  "record_sha256": "6101565bc0c5e79eb70c22033e21c80d32bdd556bc67720a84e070c483660545"
 }

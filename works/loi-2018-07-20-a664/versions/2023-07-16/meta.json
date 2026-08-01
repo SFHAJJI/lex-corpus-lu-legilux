@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/07/2023 : Loi du 20 juillet 2018 portant cr\u00E9ation\\n1\u00B0 de Centres de comp\u00E9tences en psycho-p\u00E9dagogie sp\u00E9cialis\u00E9e en faveur de l\u2019inclusion scolaire ;\\n2\u00B0 du Service national de l\u2019\u00E9ducation inclusive.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230716/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aa36a1e35e6ba8c5b23f49f355adfc9770357bfc486b836baad1596696e1c928",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230716/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/20/a664/consolide/20230716/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4e084a18849e15ab442e212a1abcc591ee7f128b68a5a69f1f7f3242de93b4cb"
+  "record_sha256": "d23eb8f0b44bf40f57c29108f2953a26f4d20db46df951d396cd6fd8968b4d16"
 }

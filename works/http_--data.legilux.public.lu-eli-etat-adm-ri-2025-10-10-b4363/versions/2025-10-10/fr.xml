@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="single">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-10-10" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/ME"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-10-10" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-10-10" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo</scl:jolux><scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux><scl:jolux scl:name="dateDocument">2025-10-10</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3244</scl:jolux><scl:jolux scl:name="urgentEvent">0</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/733</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RI</scl:jolux><scl:jolux scl:name="dateEntryInForce">2025-10-10</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b4363</scl:jolux><scl:jolux scl:name="publicationDate">2025-10-28</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/docx</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/pdfa</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="cites">/eli/dir_ue/1995/46/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/dir_ue/2019/1937/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/1978/12/01/n1/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/2006/07/31/n2/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/reg_ue/2016/679/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/reg_ue/2013/611/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/reg_ue/2024/1689/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/2023/05/16/a232/jo</scl:jolux>
+<scl:jolux scl:name="repeals">/eli/etat/adm/ri/2024/02/23/b998/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version rectifiée applicable au 10/10/2025 : Règlement d’ordre intérieur de la Commission nationale pour la protection des données.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2018/08/01/a686/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b4363/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b4363/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2025-10-10" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2025-10-10" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/adm/rect/2026/01/09/b178/jo"/>
+<destination href="#art_23"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/adm/ri/2025/10/10/b4363/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/adm/rect/2026/01/09/b178/jo" id="rp2" showAs="Règlement d’ordre intérieur de la Commission nationale pour la protection des données - Rectificatif."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="B|2026-01-13|2026-01-09|RECT|178">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/adm/rect/2026/01/09/b178/jo">Règlement d’ordre intérieur de la Commission nationale pour la protection des données - Rectificatif.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version rectifiée applicable au 10/10/2025 : Règlement d’ordre intérieur de la Commission nationale pour la protection des données.</p>
+</longTitle>
+</preface>
+<body>
+<alinea>
+<content>
+<p>Adopté par décision n° 28AD/2025 du 10 octobre 2025, en application des articles 32, paragraphe (1<sup>er</sup>) et 33 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="1713ba65-5559-4082-ad5e-a085fdde56f7">loi du 1<sup>er</sup> août 2018</ref> portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:color="#2e74b5" scl:space-after="10" scl:space-before="15"> <b>Sommaire</b> </p>
+<toc>
+<tocItem href="chapitre_1er" level="0" scl:leader="dots">
+<b>Chapitre 1<sup>er</sup> – Conditions de fonctionnement de la Commission nationale</b>
+</tocItem>
+<tocItem href="chapitre_1er.section_ire" level="1" scl:leader="dots">
+<b>Section I<sup>re</sup> – Composition de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_1er" level="2" scl:leader="dots">
+<b>Art. 1<sup>er</sup>. Composition</b>
+</tocItem>
+<tocItem href="art_2" level="2" scl:leader="dots">
+<b>Art. 2. Indépendance, incompatibilités et impartialités des membres de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_3" level="2" scl:leader="dots">
+<b>Art. 3. Remplacement du président</b>
+</tocItem>
+<tocItem href="chapitre_1er.section_ii" level="1" scl:leader="dots">
+<b>Section II – Fonctionnement de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_4" level="2" scl:leader="dots">
+<b>Art. 4. Siège de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_5" level="2" scl:leader="dots">
+<b>Art. 5. Affaires courantes et représentation vers l’extérieur</b>
+</tocItem>
+<tocItem href="art_6" level="2" scl:leader="dots">
+<b>Art. 6. Gestion financière</b>
+</tocItem>
+<tocItem href="chapitre_1er.section_iii" level="1" scl:leader="dots">
+<b>Section III – Séances de délibération de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_7" level="2" scl:leader="dots">
+<b>Art. 7. Convocation et ordre du jour</b>
+</tocItem>
+<tocItem href="art_8" level="2" scl:leader="dots">
+<b>Art. 8. Lieu des séances de délibération</b>
+</tocItem>
+<tocItem href="art_9" level="2" scl:leader="dots">
+<b>Art. 9. Quorum aux séances de délibération</b>
+</tocItem>
+<tocItem href="art_10" level="2" scl:leader="dots">
+<b>Art. 10. Déroulement des séances de délibération</b>
+</tocItem>
+<tocItem href="art_11" level="2" scl:leader="dots">
+<b>Art. 11. Présence aux séances</b>
+</tocItem>
+<tocItem href="art_12" level="2" scl:leader="dots">
+<b>Art. 12. Décisions</b>
+</tocItem>
+<tocItem href="art_13" level="2" scl:leader="dots">
+<b>Art. 13. Communication et publicité des décisions</b>
+</tocItem>
+<tocItem href="art_14" level="2" scl:leader="dots">
+<b>Art. 14. Procès-verbal des débats</b>
+</tocItem>
+<tocItem href="art_15" level="2" scl:leader="dots">
+<b>Art. 15. Secrétaire de séance de délibération</b>
+</tocItem>
+<tocItem href="chapitre_2" level="0" scl:leader="dots">
+<b>Chapitre 2 – Organisation de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_16" level="2" scl:leader="dots">
+<b>Art. 16. Structure générale de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_17" level="2" scl:leader="dots">
+<b>Art. 17. Fonctions directement attachées au Collège de la Commission nationale</b>
+</tocItem>
+<tocItem href="art_18" level="2" scl:leader="dots">
+<b>Art. 18. Division « Administration »</b>
+</tocItem>
+<tocItem href="art_19" level="2" scl:leader="dots">
+<b>Art. 19. Division « Communication et Connaissances »</b>
+</tocItem>
+<tocItem href="art_20" level="2" scl:leader="dots">
+<b>Art. 20. Division « Guidance »</b>
+</tocItem>
+<tocItem href="art_21" level="2" scl:leader="dots">
+<b>Art. 21. Division « Conformité »</b>
+</tocItem>
+<tocItem href="art_22" level="2" scl:leader="dots">
+<b>Art. 22. Division « Intelligence artificielle, Innovation et Technologie »</b>
+</tocItem>
+<tocItem href="art_23" level="2" scl:leader="dots">
+<b>Art. 23. Division « Réclamations »</b>
+</tocItem>
+<tocItem href="art_24" level="2" scl:leader="dots">
+<b>Art. 24. Division « Enquêtes »</b>
+</tocItem>
+<tocItem href="art_25" level="2" scl:leader="dots">
+<b>Art. 25. Gestion des divisions et des missions de la Commission nationale</b>
+</tocItem>
+<tocItem href="chapitre_3" level="0" scl:leader="dots">
+<b>Chapitre 3 – Règles de procédure applicables devant la Commission nationale</b>
+</tocItem>
+<tocItem href="art_26" level="2" scl:leader="dots">
+<b>Art. 26. Notification d’une violation de données à caractère personnel</b>
+</tocItem>
+<tocItem href="art_27" level="2" scl:leader="dots">
+<b>Art. 27. Signalement d’une violation du droit de l’Union</b>
+</tocItem>
+<tocItem href="art_28" level="2" scl:leader="dots">
+<b>Art. 28. Demande de consultation préalable</b>
+</tocItem>
+<tocItem href="art_29" level="2" scl:leader="dots">
+<b>Art. 29. Notification de la désignation du délégué à la protection des données</b>
+</tocItem>
+<tocItem href="art_30" level="2" scl:leader="dots">
+<b>Art. 30. Approbation des codes de conduites</b>
+</tocItem>
+<tocItem href="art_31" level="2" scl:leader="dots">
+<b>Art. 31. Agrément des organismes de suivi des codes de conduite</b>
+</tocItem>
+<tocItem href="art_32" level="2" scl:leader="dots">
+<b>Art. 32. Approbation de critères de certification</b>
+</tocItem>
+<tocItem href="art_33" level="2" scl:leader="dots">
+<b>Art. 33. Agrément des organismes de certification</b>
+</tocItem>
+<tocItem href="art_34" level="2" scl:leader="dots">
+<b>Art. 34. Autorisations des clauses contractuelles et arrangements administratifs</b>
+</tocItem>
+<tocItem href="art_35" level="2" scl:leader="dots">
+<b>Art. 35. Approbation des règles d’entreprise contraignantes</b>
+</tocItem>
+<tocItem href="art_36" level="2" scl:leader="dots">
+<b>Art. 36. Gestion d’une réclamation</b>
+</tocItem>
+<tocItem href="art_37" level="2" scl:leader="dots">
+<b>Art. 37. Demandes d’avis préalable sur base de l’article L. 261-1 du Code du travail</b>
+</tocItem>
+<tocItem href="art_38" level="2" scl:leader="dots">
+<b>Art. 38. Procédure d’enquête</b>
+</tocItem>
+<tocItem href="art_39" level="2" scl:leader="dots">
+<b>Art. 39. Voies de recours</b>
+</tocItem>
+<tocItem href="chapitre_4" level="0" scl:leader="dots">
+<b>Chapitre 4 – Dispositions finales</b>
+</tocItem>
+<tocItem href="art_40" level="2" scl:leader="dots">
+<b>Art. 40. Modification du règlement</b>
+</tocItem>
+<tocItem href="art_41" level="2" scl:leader="dots">
+<b>Art. 41. Entrée en vigueur et publication</b>
+</tocItem>
+<tocItem href="art_42" level="2" scl:leader="dots">
+<b>Art. 42. Abrogation</b>
+</tocItem>
+</toc>
+</content>
+</alinea>
+<alinea>
+<content>
+<p/>
+</content>
+</alinea>
+<chapter id="chapitre_1er">
+<num> Chapitre 1<sup>er</sup>
+</num>
+<heading scl:align="left" scl:separator=" - " scl:style-format="b">Conditions de fonctionnement de la Commission nationale </heading>
+<section id="chapitre_1er.section_ire">
+<num> Section I<sup>re</sup>
+</num>
+<heading scl:align="left" scl:color="#2E74B5" scl:separator=" - " scl:style-format="b">Composition de la Commission nationale </heading>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_1er/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 1er. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 1<sup>er</sup>. </num>
+<heading scl:style-format="b"> Composition </heading>
+<alinea>
+<content>
+<p> La Commission nationale pour la protection des données (ci-après « la Commission nationale ») est un organe collégial composé de quatre Commissaires, dont un président. Quatre membres suppléants sont appelés à suppléer à l’absence ou à l’empêchement de siéger des membres de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Aux fins du présent règlement, les Commissaires et membres suppléants sont appelés conjointement « membres » au pluriel si tous ou plusieurs des Commissaires et membres suppléants sont visés, ou « membre » au singulier si un des Commissaires ou membres suppléants est visé.</p>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_2/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 2. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 2. </num>
+<heading scl:style-format="b"> Indépendance, incompatibilités et impartialités des membres de la Commission nationale </heading>
+<alinea>
+<content>
+<p>Les membres de la Commission nationale exercent leur mandat en toute indépendance sans s’exposer à des pressions ou prises d’influence de quelque ordre que ce soit.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Aux termes de l’article 27 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="96160014-da46-4d11-8604-5103c9d8dee6">loi du 1<sup>er</sup> août 2018</ref> portant organisation de la Commission nationale pour la protection des données et du régime général sur la protection des données (ci-après « la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="5d687a31-c5ab-40cd-b4b7-338184ab9751">loi du 1<sup>er</sup> août 2018</ref> »), les membres de la Commission nationale ne peuvent être membres du Gouvernement, de la Chambre des Députés, du Conseil d’État ou du Parlement Européen, ni exercer d’activité professionnelle ou détenir directement ou indirectement des intérêts dans une entreprise ou tout autre organisme opérant dans le champ des traitements de données.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Toute modification en cours de mandat dans la situation d’un membre de la Commission nationale susceptible de donner lieu à application de l’article 27 précité doit être portée à la connaissance de la Commission nationale par ce membre dans le mois qui suit.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale n’examine pas si l’exercice de ces fonctions ou la détention de ces participations est compatible avec la qualité de membre de la Commission nationale, mais communique les informations obtenues au ministre ayant les relations avec la Commission nationale pour la protection des données dans ses attributions en vue de voir statuer sur une incompatibilité éventuelle dans le chef d’un membre de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les membres ne peuvent siéger, délibérer ou décider dans aucune affaire dans laquelle ils ont un intérêt direct ou indirect.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Si un membre de la Commission nationale estime lui-même avoir un intérêt direct ou indirect dans une affaire, il doit au préalable en avertir les Commissaires de la Commission nationale. Il s’abstient d’assister à la délibération concernant cette affaire et signale sa volonté de ne pas y participer dès réception de la convocation.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le président convoque alors un membre suppléant qui est appelé à siéger et à délibérer en remplacement du membre empêché sur cette affaire.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Dans le cas visé à l’alinéa 6 du présent article, la Commission nationale accepte et respecte le choix du membre sans procéder à une délibération séparée au sujet de l’appréciation personnelle émise par celui-ci.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Dans les autres cas, la Commission nationale constate préalablement à chaque décision les cas de conflits d’intérêts opposables à ses membres et prend cette décision à la majorité des voix, le membre concerné n’étant pas exclu ni des débats y afférents, ni du vote y relatif et il en est pris acte dans le procès-verbal.</p>
+</content>
+</alinea>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_3/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 3. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 3. </num>
+<heading scl:style-format="b"> Remplacement du président </heading>
+<alinea>
+<content>
+<p>En cas d’absence ou de conflit d’intérêts du président, ses fonctions sont assumées par le Commissaire ayant la plus grande ancienneté et, en cas d’égalité d’ancienneté, par le doyen d’âge. La cause du remplacement est mentionnée dans le procès-verbal. Ce remplacement s’effectue sans qu’il ne soit besoin de délégation spécifique. Un membre suppléant siège dans ce cas en remplacement du Commissaire présidant la séance de délibération.</p>
+</content>
+</alinea>
+</article>
+</section>
+<section id="chapitre_1er.section_ii">
+<num> Section II</num>
+<heading scl:align="left" scl:color="#2e74b5" scl:separator=" - " scl:style-format="b">Fonctionnement de la Commission nationale </heading>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_4/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 4. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 4. </num>
+<heading scl:style-format="b"> Siège de la Commission nationale </heading>
+<alinea>
+<content>
+<p>Les bureaux de la Commission nationale sont établis à son siège tel qu’il est fixé par règlement grand-ducal en vertu de l’article 3 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="16b32e45-89b1-4871-a989-010ad1fb1e74">loi du 1<sup>er</sup> août 2018</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_5/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 5. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 5. </num>
+<heading scl:color="#22316e" scl:style-format="b"> Affaires courantes et représentation vers l’extérieur</heading>
+<alinea>
+<content>
+<p>Les affaires courantes et la gestion quotidienne de la Commission nationale incombent au président. Le président assure le contact vers l’extérieur et représente la Commission nationale lors de manifestations publiques. Le président réfère régulièrement de ses activités aux Commissaires lors des séances de délibération.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Un membre de la Commission nationale, sollicité directement ou indirectement pour représenter celle-ci dans un organisme ou une manifestation, doit solliciter le président de le désigner à cet effet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_6/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 6. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 6. </num>
+<heading scl:style-format="b"> Gestion financière </heading>
+<alinea>
+<content>
+<p>La gestion financière de la Commission nationale incombe au président qui détient le pouvoir d’engagement et de signature au nom et pour compte de l’établissement public que constitue la Commission nationale dans le cadre de la gestion courante et quotidienne.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Au-delà d’un seuil à déterminer par la Commission nationale, un deuxième Commissaire contresigne les engagements financiers pris par le président.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les engagements financiers dépassant un seuil à déterminer par la Commission nationale requièrent la signature conjointe de tous les Commissaires.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale peut conférer les pouvoirs de signature dans les limites et pour les domaines qu’elle détermine à un ou à plusieurs des Commissaires et/ou membres de son personnel sans toutefois accorder à ces derniers un pouvoir de subdélégation.</p>
+</content>
+</alinea>
+</article>
+</section>
+<section id="chapitre_1er.section_iii">
+<num> Section III</num>
+<heading scl:align="left" scl:color="#2E74B5" scl:separator=" - " scl:style-format="b">Séances de délibération de la Commission nationale </heading>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_7/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 7. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 7. </num>
+<heading scl:style-format="b"> Convocation et ordre du jour </heading>
+<alinea>
+<content>
+<p>Le président convoque les Commissaires aux séances de délibération à la date et à l’heure qu’il fixe. Il en établit l’ordre du jour.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le membre qui souhaite voir figurer un point à l’ordre du jour de la prochaine séance en fait la demande au président.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Un point à l’ordre du jour peut faire l’objet d’un renvoi à une prochaine séance. Pour assurer le bon fonctionnement de la Commission nationale, elle se réunit toutes les fois que les besoins l’exigent, sur convocation du président ou à la demande de deux Commissaires.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le président indique, dans la mesure du possible, à la fin de chaque séance de délibération le jour de la séance suivante. Il convoque en principe une séance ordinaire toutes les semaines.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La convocation à une séance de délibération extraordinaire est de droit à la demande de deux Commissaires. Cette demande est formulée soit par écrit au président, soit lors d’une séance de délibération de la Commission nationale et précise l’objet de la séance à convoquer. La Commission nationale se réunit dans les quinze jours de la demande.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Sauf cas d’urgence, apprécié par le président, les convocations, accompagnées de l’ordre du jour et, dans la mesure du possible, des documents de support y afférents ou d’un lien vers les documents de support afférents sont envoyés par voie électronique ou tout autre moyen à tous les Commissaires au moins deux jours ouvrables avant la date de la séance de délibération.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Lorsque les documents de support à l’ordre du jour n’ont pas été communiqués conjointement avec les convocations, ils peuvent exceptionnellement être communiqués ultérieurement pour leur permettre d’en prendre connaissance.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Commissaire absent ou empêché d’assister à une séance de délibération pour des raisons visées à l’article 2 en avertit au plus tôt le président. En cas de nécessité ou en fonction de l’ordre du jour, celui-ci pourvoit à son remplacement immédiat.</p>
+</content>
+</alinea>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_8/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 8. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 8. </num>
+<heading scl:style-format="b"> Lieu des séances de délibération </heading>
+<alinea>
+<content>
+<p>Les séances ont lieu au siège de la Commission nationale ou en tout autre lieu du territoire national si elle le décide. Les membres pourront, si techniquement possible, participer aux séances de délibération à distance par recours à la téléconférence ou d’autres moyens techniques approuvés par la Commission nationale.</p>
+</content>
+</alinea>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_9/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 9. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 9. </num>
+<heading scl:style-format="b"> Quorum aux séances de délibération </heading>
+<alinea>
+<content>
+<p>La Commission nationale siège en formation plénière ou en formation restreinte (ci-après « la Formation restreinte »). Elle ne peut valablement siéger ni délibérer qu’à condition de réunir trois membres au moins. Seuls les Commissaires et les membres suppléants siégeant en remplacement d’un Commissaire sont dotés d’une voix délibérative.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les sujets suivants requièrent le vote des quatre membres de la Commission nationale :</p>
+<ol scl:space-tab="5" scl:start="1" scl:symbol="1°">
+<li>l’adoption et les modifications subséquentes du règlement d’ordre intérieur prévu à l’article 32 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="11114931-a2c1-49e7-939c-007ad2f1418a">loi du 1<sup>er</sup> août 2018</ref> ;</li>
+<li>l’adoption et les modifications subséquentes du règlement relatif à la procédure d’enquête devant la Commission nationale prévu à l’article 40 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="c4ab0cca-bdf6-499e-ae93-33ee10faef67">loi du 1<sup>er</sup> août 2018</ref> ;</li>
+<li>la détermination des seuils applicables en matière de gestion financière de la Commission nationale ;</li>
+<li>les pouvoirs d’engagements et de signature au nom et pour compte de l’établissement public que constitue la Commission nationale ;</li>
+<li>la répartition des divisions parmi les Commissaires en vertu de l’article 23 du présent règlement ;</li>
+<li>les procédures de travail adoptées en vertu des dispositions du chapitre 3 du présent règlement.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Formation restreinte est composée de trois membres, à l’exclusion du Commissaire désigné comme chef d’enquête dans un dossier qui figure à l’ordre du jour. La Formation restreinte est compétente, conformément à l’article 41 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="69c54652-a5b1-45ef-ab82-58dd1f38bc93">loi du 1<sup>er</sup> août 2018</ref>, pour décider sur l’issue d’une enquête.</p>
+</content>
+</alinea>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_10/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 10. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 10. </num>
+<heading scl:style-format="b"> Déroulement des séances de délibération </heading>
+<paragraph>
+<num> 1° </num>
+<heading scl:align="left" scl:color="#2e74b5" scl:separator=" " scl:style-format="i">Dispositions communes</heading>
+<alinea>
+<content>
+<p>Le président de séance ouvre et clôture les séances dont il dirige les débats.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les participants à la séance de délibération signent le registre de présence.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale adopte l’ordre du jour au début de chaque séance. Toute question qui ne figure pas à l’ordre du jour ne peut être mise en discussion que si au moins la majorité des membres présents accepte de l’examiner. Dans le cas où des nouveaux documents sont communiqués séance tenante, l’accord unanime des membres siégeant est requis pour les prendre en compte.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les décisions de la Commission nationale sont prises à la majorité des voix. En cas d’égalité des voix, la voix du président est prépondérante. Les abstentions ne sont pas recevables.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le vote par procuration n’est pas autorisé. Les votes ont lieu à main levée, sauf si le président ou deux membres de la Commission nationale demandent un scrutin secret.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>En cas d’urgence, apprécié par le président, le vote par correspondance est autorisé.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les séances de délibération ne sont pas publiques et les débats sont confidentiels.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num> 2° </num>
+<heading scl:align="left" scl:color="#2E74B5" scl:separator=" " scl:style-format="i">Dispositions spécifiques aux séances de délibération de la Formation restreinte</heading>
+<alinea>
+<content>
+<p scl:color="#2e74b5">a) Délibération relative à une proposition de clôture de dossier par le chef d’enquête</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-after="10" scl:space-before="10">Après avoir pris connaissance du dossier d’enquête lui transmis par le chef d’enquête ensemble avec une proposition de clôture, et, le cas échéant, après avoir entendu le chef d’enquête, la Formation restreinte délibère sur l’issue de l’enquête. Ni le chef d’enquête, ni le contrôlé ne prennent part aux délibérations. La Formation restreinte prononce une décision définitive de clôture de l’affaire ou, lorsqu’elle s’estime insuffisamment éclairée, demande au chef d’enquête de procéder à un complément d’enquête.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:color="#2e74b5">b) Délibération suite à une communication des griefs</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-before="10">Après la transmission du dossier d’enquête par le chef d’enquête, le président informe le contrôlé de la date de la séance au cours de laquelle est inscrite l’affaire le concernant et de la faculté qui lui est offerte d’y être entendu, lui-même ou son représentant, par lettre recommandée avec accusé de réception ou par tout moyen permettant d’attester la date de notification. Cette information doit lui parvenir au moins un mois avant la date de la séance au cours de laquelle l’affaire est examinée. En cas de réexamen ou de report de l’affaire lors d’une séance ultérieure, ce délai minimal peut être ramené à sept jours.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Lors de la séance, le chef d’enquête est entendu pour présenter des observations orales sur l’affaire. Ensuite, lorsqu’il assiste à la séance, le contrôlé est invité à présenter des observations orales. Si elle le juge nécessaire, la Formation restreinte peut entendre toute personne dont elle estime l’audition utile, y compris les agents habilités ayant concouru à l’enquête. Dans tous les cas, le contrôlé doit pouvoir prendre la parole en dernier. Lorsque la Formation restreinte s’estime insuffisamment éclairée, elle peut, le cas échéant, demander au chef d’enquête de procéder à un complément d’enquête.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Suite à l’audition du chef d’enquête et du contrôlé, la Formation restreinte délibère sur l’affaire. Ni le chef d’enquête, ni le contrôlé ne prennent part aux délibérations.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_11">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_11</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_11/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 11. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 11. </num>
+<heading scl:style-format="b"> Présence aux séances </heading>
+<alinea>
+<content>
+<p>Le président invite à assister à tout ou partie de la séance toute personne appartenant ou non au cadre du personnel de la Commission nationale, dont la présence paraît utile aux débats. Ces personnes ne participent aux séances qu’à titre consultatif. Elles sont soumises aux dispositions de l’article 42 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="0c872b16-d420-451a-a7dd-97f61531ba43">loi du 1<sup>er</sup> août 2018</ref> relatives au secret professionnel.</p>
+</content>
+</alinea>
+</article>
+<article id="art_12">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_12</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_12/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 12. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 12. </num>
+<heading scl:style-format="b"> Décisions </heading>
+<alinea>
+<content>
+<p>Les décisions de la Commission nationale sont motivées et signées par les Commissaires ou membres suppléants ayant participé à la délibération. Elles sont numérotées avec l’indication de l’année en cours et portent la date du jour de leur signature. Elles portent également mention des voies et délais de recours applicables.</p>
+</content>
+</alinea>
+</article>
+<article id="art_13">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_13</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_13/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 13. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 13. </num>
+<heading scl:style-format="b"> Communication et publicité des décision </heading>
+<alinea>
+<content>
+<p>Le président notifie les décisions sur l’issue d’une enquête aux contrôlés par lettre recommandée avec accusé de réception.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les autres décisions sont communiquées aux intéressés par tout moyen approprié.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Sans préjudice des dispositions de l’article 52 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="7475550e-85a2-47c2-845e-9f53ca1b1499">loi du 1<sup>er</sup> août 2018</ref>, la Commission nationale peut décider, lorsqu’elle le juge utile, de rendre public ses décisions autres que les décisions sur l’issue d’une enquête.</p>
+</content>
+</alinea>
+</article>
+<article id="art_14">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_14</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_14/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 14. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 14. </num>
+<heading scl:style-format="b"> Procès-verbal des débats </heading>
+<alinea>
+<content>
+<p>Les séances de délibération font l’objet d’un procès-verbal qui comporte la liste des membres présents, un compte rendu succinct des débats, les décisions prises par la Commission nationale et, le cas échéant, l’indication de la répartition des voix pour chaque vote intervenu.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les opinions exprimées et votes émis lors d’une séance ne sont pas documentés nominativement, sauf lorsqu’un des membres de la Commission nationale en fait la demande pour ce qui le concerne.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les projets de procès-verbaux sont envoyés pour approbation aux membres ayant délibéré. Seuls les membres qui ont assisté à la séance de délibération dont rend compte le projet de procès-verbal soumis à approbation peuvent en exiger une modification.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les procès-verbaux approuvés sont signés par les Commissaires, les membres suppléants et le secrétaire de séance de délibération concernée.</p>
+</content>
+</alinea>
+</article>
+<article id="art_15">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_15</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_15/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 15. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 15. </num>
+<heading scl:style-format="b"> Secrétaire de séance de délibération </heading>
+<alinea>
+<content>
+<p>La Commission nationale désigne un ou plusieurs secrétaire(s) parmi les membres de son personnel.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le secrétaire assiste le président dans la préparation des séances de délibération, il assiste aux séances de délibération et rédige les procès-verbaux y afférents. Il en assure l’expédition aux membres de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Il veille, sous l’autorité du président, au respect des délais et à l’application correcte des procédures et règles applicables au bon fonctionnement de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le secrétaire tient en outre un registre des présences qui, au début des séances, est signé par les membres présents. Il assure la conservation et l’archivage des documents et procès-verbaux des séances de délibération de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>En cas d’empêchement du secrétaire désigné, le Commissaire ou membre suppléant ayant la plus courte ancienneté et en cas de concours, le plus jeune d’âge, dresse le procès-verbal de la séance.</p>
+</content>
+</alinea>
+</article>
+</section>
+</chapter>
+<chapter id="chapitre_2">
+<num> Chapitre 2</num>
+<heading scl:align="left" scl:separator=" - " scl:style-format="b">Organisation de la Commission nationale </heading>
+<article id="art_16">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_16</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_16/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 16. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 16. </num>
+<heading scl:style-format="b"> Structure générale de la Commission nationale </heading>
+<alinea>
+<content>
+<p>La Commission nationale met en place des divisions, qui sont subdivisées en services selon un organigramme et les dispositions du présent chapitre.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’organigramme comporte les divisions suivantes :</p>
+<ul scl:space-tab="5" scl:symbol="dash">
+<li>une division « Administration » ;</li>
+<li>une division « Communication et Connaissances » ;</li>
+<li>une division « Guidance » ;</li>
+<li>une division « Conformité » ;</li>
+<li>une division « Intelligence artificielle, Innovation et Technologie » ;</li>
+<li>une division « Réclamations » ;</li>
+<li>une division « Enquêtes ».</li>
+</ul>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les fonctions suivantes sont directement attachées au Collège de la Commission nationale :</p>
+<ul scl:space-tab="5" scl:symbol="dash">
+<li>les conseillers généraux ;</li>
+<li>le secrétaire du Collège ;</li>
+<li>le délégué à la protection des données et son adjoint ;</li>
+<li>le ou les chargé(s) aux relations européennes et internationales et son/leur adjoint.</li>
+</ul>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le service juridique est également placé sous la supervision directe du Collège. Il est chargé de la préparation des dossiers pour la Formation restreinte, de la rédaction des décisions sur l’issue d’une enquête, du suivi des recours en justice contre des décisions de la Commission nationale et de la rédaction d’avis juridiques relatifs à des projets de textes légaux nationaux. Cette liste n’est pas exhaustive.</p>
+</content>
+</alinea>
+</article>
+<article id="art_17">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_17</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_17/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 17. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 17. </num>
+<heading scl:style-format="b"> Fonctions directement attachées au Collège de la Commission nationale </heading>
+<paragraph>
+<num> 1° </num>
+<heading scl:align="left" scl:color="#2e74b5" scl:separator=" " scl:style-format="i">Les conseillers généraux</heading>
+<alinea>
+<content>
+<p>Les conseillers généraux conseillent le Collège de la Commission nationale sur les questions liées au fonctionnement, aux missions, ainsi qu’aux pouvoirs de la Commission nationale. Sur instruction du président, ils peuvent représenter la Commission nationale vers l’extérieur, tant au niveau national qu’international pour des missions ponctuelles.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num> 2° </num>
+<heading scl:align="left" scl:color="#2e74b5" scl:separator=" " scl:style-format="i">Le secrétaire du Collège</heading>
+<alinea>
+<content>
+<p>Le secrétaire du Collège assiste le président de la Commission nationale par l’accomplissement des tâches suivantes :</p>
+<ul scl:space-tab="5" scl:symbol="dash">
+<li>Gestion et suivi de l’agenda de la Commission nationale ;</li>
+<li>Organisation, gestion et suivi des réunions et des dossiers de la Commission nationale ;</li>
+<li>Participer à la gestion des relations avec d’autres organismes publics et privés, y inclus l’organisation de réunions et d’évènements ;</li>
+<li>Traitement, gestion, suivi et archivage du courrier et d’autres documents de la Commission nationale.</li>
+</ul>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num> 3° </num>
+<heading scl:align="left" scl:color="#2e74b5" scl:separator=" " scl:style-format="i">
+<i>Le délégué à la protection des données et son adjoint</i>
+</heading>
+<alinea>
+<content>
+<p>Le délégué à la protection des données et son adjoint accomplissent les missions prévues à l’article 39 du <ref href="/eli/reg_ue/2016/679/jo" id="4c0d2ce6-0c3f-40ff-812a-813f9552cc05">Règlement (UE) 2016/679</ref> du Parlement européen et du Conseil relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la <ref href="/eli/dir_ue/1995/46/jo" id="4c0596e3-020d-4da6-85b2-58566794d504">directive 95/46/CE</ref> (ci-après « le <ref href="/eli/reg_ue/2016/679/jo" id="a155ed3c-e097-4a57-b88b-d625422b0922">RGPD</ref> »).</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph>
+<num> 4° </num>
+<heading scl:align="left" scl:color="#2e74b5" scl:separator=" " scl:style-format="i">Le ou les chargé(s) aux relations européennes et internationales et son/leur adjoint</heading>
+<alinea>
+<content>
+<p>Le ou les chargé(s) aux relations européennes et internationales et son/leur adjoint représente(nt) la Commission nationale sur instruction du Collège auprès des organisations européennes et internationales dans le domaine de la protection des données.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Il(s) assiste(nt) le président dans la préparation des séances plénières du Comité européen de la protection des données.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Il(s) supervise(nt) en outre, sous l’autorité du président, les travaux de la Commission nationale dans les différents sous-groupes du Comité susmentionné, ainsi que dans d’autres organisations européennes et internationales.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_18">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_18</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_18/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 18. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 18. </num>
+<heading scl:style-format="b"> Division « Administration » </heading>
+<alinea>
+<content>
+<p>La division « Administration » est en charge de la gestion administrative, budgétaire et technique de la Commission nationale, incluant l’accueil et l’exécution des travaux de secrétariat quotidien, ainsi que la gestion des installations.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cette division est en outre chargée de la gestion des ressources humaines et de la préparation et de l’exécution du budget et des finances de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Par ailleurs, elle supervise l’informatique, la logistique interne et le « Business and Process Management Office » chargé notamment de la gestion et de la mise en œuvre des projets organisationnels, techniques et liés à la digitalisation des processus de la Commission nationale, ainsi que de l’accompagnement et du support des équipes réalisant ces projets.</p>
+</content>
+</alinea>
+</article>
+<article id="art_19">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_19</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_19/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 19. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 19. </num>
+<heading scl:style-format="b"> Division « Communication et Connaissances » </heading>
+<alinea>
+<content>
+<p>La division « Communication et Connaissances » élabore et met en œuvre une stratégie de communication externe de la Commission nationale en tenant compte de tous les moyens et canaux de communication. Elle est le point de contact pour les représentants de la presse.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Cette division opère aussi le « Knowledge Management » en charge de la gestion de la veille juridique, réglementaire et technologique de la Commission nationale et de son implémentation, développement et fonctionnement au quotidien. De manière générale, ce service optimise l’identification, la création, l’analyse et la diffusion des connaissances au sein de la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La division assure en outre des formations et des projets de sensibilisation de tous les acteurs concernés, notamment au vu des obligations imposées par le <ref href="/eli/reg_ue/2016/679/jo" id="4b01040d-7bc1-4095-a5c7-584f4e1efd7c">RGPD</ref> et tous autres textes légaux applicables.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_20</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_20/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 20. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 20. </num>
+<heading scl:style-format="b"> Division « Guidance » </heading>
+<alinea>
+<content>
+<p>La division « Guidance » assure le traitement des demandes d’informations adressées à la Commission nationale, la rédaction de lignes directrices thématiques, ainsi que l’analyse des demandes d’avis préalables dans le cadre de l’article L. 261-1 du <ref href="/eli/etat/leg/code/travail" id="be350cf4-79a5-44ab-852f-0710c90ac128">Code du travail</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_21">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_21</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_21/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 21. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 21. </num>
+<heading scl:style-format="b"> Division « Conformité » </heading>
+<alinea>
+<content>
+<p>La division « Conformité » est compétente pour le développement, la promotion et l’application des outils destinés à faciliter la démonstration de la conformité des responsables de traitement et sous-traitants, tels que des codes de conduite, des certifications ou d’autres outils de support et d’innovation.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elle rédige en outre des avis en matière d’analyses d’impact relatives à la protection des données et s’occupe des audits obligatoires en relation avec les fichiers et systèmes informatiques nationaux et européens à grande échelle.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elle prépare encore des autorisations de clauses contractuelles et d’arrangements administratifs, ainsi que des approbations de règles d’entreprise contraignantes qui sont soumises à la Commission nationale, selon les procédures visées aux articles 32 et 33 du présent règlement.</p>
+</content>
+</alinea>
+</article>
+<article id="art_22">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_22</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_22/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 22. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 22. </num>
+<heading scl:style-format="b"> Division « Intelligence artificielle, Innovation et Technologie » </heading>
+<alinea>
+<content>
+<p>La division « Intelligence artificielle, Innovation et Technologie » est en charge de la coordination relative à la mise en œuvre du <ref href="/eli/reg_ue/2024/1689/jo" id="4c7f12e6-897a-4360-ab76-7a0aadb2b326">règlement (UE) 2024/1689</ref> du 13 juin 2024 établissant des règles harmonisées concernant l’intelligence artificielle et plus particulièrement des missions dont la Commission nationale est investie et ayant trait <ref href="/eli/reg_ue/2024/1689/jo" id="f0ca47cf-b01b-40b6-a43a-9852ddb3c7e4">audit règlement</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elle suit les évolutions en matière d’intelligence artificielle et de technologies émergentes, en évalue les risques et sensibilise tous les acteurs concernés, notamment au vu des obligations imposées par le <ref href="/eli/reg_ue/2016/679/jo" id="09a9ded2-9420-4e81-a244-beb9a05ac61d">RGPD</ref> et tous autres textes légaux applicables.</p>
+</content>
+</alinea>
+</article>
+<article id="art_23">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_23</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_23/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 23. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 23. </num>
+<heading scl:style-format="b"> Division « Réclamations » </heading>
+<alinea>
+<content>
+<p>La division « Réclamations » est compétente pour la gestion des réclamations introduites auprès de la Commission nationale, tant au plan national, que dans le cadre de la coopération européenne.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm1"/>Cette division gère par ailleurs les signalements internes et externes des violations du droit de l’Union, ainsi que les violations de données à caractère personnel notifiées à la Commission nationale conformément aux procédures prévues aux articles 26 et 27 du présent règlement.<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</content>
+</alinea>
+</article>
+<article id="art_24">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_24</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_24/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 24. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 24. </num>
+<heading scl:style-format="b"> Division « Enquêtes  </heading>
+<alinea>
+<content>
+<p>La division « Enquêtes » réalise les enquêtes de la Commission nationale conformément aux instructions du chef d’enquête ou toutes autres opérations de terrain visant la mise en conformité des acteurs.</p>
+</content>
+</alinea>
+</article>
+<article id="art_25">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_25</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_25/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 25. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 25. </num>
+<heading scl:style-format="b"> Gestion des divisions et des missions de la Commission nationale </heading>
+<alinea>
+<content>
+<p>Sur proposition du président, la Commission nationale attribue à chacun des Commissaires une ou plusieurs division(s) et/ou mission(s) en vue de l’exercice des attributions techniques et administratives conférées à la Commission nationale par la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="3dbfeac7-5f49-47be-b081-d73dcc271cb7">loi du 1<sup>er</sup> août 2018</ref>.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_3">
+<num> Chapitre 3</num>
+<heading scl:align="left" scl:separator=" - " scl:style-format="b">Règles de procédure applicables devant la Commission nationale </heading>
+<article id="art_26">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_26</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_26/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 26. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 26. </num>
+<heading scl:style-format="b"> Notification d’une violation de données à caractère personnel </heading>
+<alinea>
+<content>
+<p>Conformément à l’article 33 du <ref href="/eli/reg_ue/2016/679/jo" id="35fd99f8-32a9-4b60-a025-2583a68f1abe">RGPD</ref>, les responsables de traitement doivent notifier les violations de données à caractère personnel à la Commission nationale dans un délai de 72 heures après en avoir pris connaissance si la violation en question est susceptible d’engendrer un risque pour les droits et libertés des personnes concernées.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Conformément à l’article 2 du <ref href="/eli/reg_ue/2013/611/jo" id="6f5da199-cd15-4c1c-b5f1-6ed1a123a042">Règlement (UE) No. 611/2013</ref> de la Commission européenne du 24 juin 2013, les fournisseurs de services de communications électroniques accessibles au public, doivent notifier les violations de données à caractère personnel à la Commission nationale dans un délai de 24 heures après en avoir pris connaissance.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale met à disposition sur son internet des formulaires de notification dédiés à cet effet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_27">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_27</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_27/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 27. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 27. </num>
+<heading scl:style-format="b"> Signalement d’une violation du droit de l’Union </heading>
+<alinea>
+<content>
+<p>Conformément aux articles 6 et 17 de la <ref href="/eli/etat/leg/loi/2023/05/16/a232/jo" id="e46876e7-817d-455c-9b80-c2107006de5b">loi du 16 mai 2023</ref> portant transposition de la <ref href="/eli/dir_ue/2019/1937/jo" id="35ed7dc5-267d-4c2c-a7e4-21fedcc80a11">directive (UE) 2019/1937</ref> du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l’Union, la Commission nationale établit des canaux de signalement interne et externe et s’occupe des signalements reçus à travers ces canaux conformément aux procédures prévues aux articles 7, 18 et suivants de la <ref href="/eli/etat/leg/loi/2023/05/16/a232/jo" id="9d364aba-6651-489b-bcbd-f2cfcf0ba862">loi précitée</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale met à disposition sur son internet des canaux de signalement dédiés à cet effet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_28">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_28</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_28/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 28. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 28. </num>
+<heading scl:style-format="b"> Demande de consultation préalable </heading>
+<alinea>
+<content>
+<p>Conformément à l’article 36 du <ref href="/eli/reg_ue/2016/679/jo" id="1540d4a4-aeeb-4bb8-a6d6-570d6e8fa846">RGPD</ref>, la Commission nationale peut être saisie d’une demande de consultation préalable par un responsable du traitement lorsqu’il résulte d’une analyse d’impact relative à la protection des données, effectuée en vertu de l’article 35 du <ref href="/eli/reg_ue/2016/679/jo" id="a54eefc6-7adb-4cfd-8337-94152e347be9">RGPD</ref>, que le traitement présenterait un risque résiduel élevé si le responsable du traitement ne prenait pas de mesures pour atténuer le risque.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p> À cette fin, la Commission nationale met à disposition du public sur son site internet un formulaire dédié à l’introduction d’une telle demande de consultation préalable.</p>
+</content>
+</alinea>
+</article>
+<article id="art_29">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_29</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_29/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 29. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 29. </num>
+<heading scl:style-format="b"> Notification de la désignation du délégué à la protection des données </heading>
+<alinea>
+<content>
+<p>Lorsqu’un responsable du traitement ou un sous-traitant désigne un délégué à la protection des données en vertu de de l’article 37, paragraphe (1<sup>er</sup>) du <ref href="/eli/reg_ue/2016/679/jo" id="9a1d3544-ab36-4010-bd11-7c66c7eaaf37">RGPD</ref>, la Commission nationale met à disposition sur son site internet un formulaire dédié pour notifier cette désignation à la Commission nationale conformément à l’article 37, paragraphe (7) du <ref href="/eli/reg_ue/2016/679/jo" id="c7e27468-501e-4f19-b1a0-24fc4faf95d7">RGPD</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Dans le mois de la réception de la notification d’une désignation d’un délégué à la protection des données ou d’une modification y relative, la Commission nationale vérifie qu’elle contient tous les éléments requis et adresse un accusé de réception au responsable du traitement ou sous-traitant, ainsi qu’au délégué à la protection des données désigné. Le délai ne court qu’à partir du moment où la notification est complète.</p>
+</content>
+</alinea>
+</article>
+<article id="art_30">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_30</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_30/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 30. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 30. </num>
+<heading scl:style-format="b"> Approbation des codes de conduites </heading>
+<alinea>
+<content>
+<p>Les associations et autres organismes représentant des catégories de responsables du traitement ou de sous-traitants qui ont l’intention d’élaborer un code de conduite ou de modifier ou proroger un code de conduite existant soumettent le projet de code, la modification ou la prorogation à la Commission nationale conformément à l’article 40, paragraphe (5) du <ref href="/eli/reg_ue/2016/679/jo" id="c27d9dca-d9d7-475c-a47a-aab41e241a2e">RGPD</ref> pour les codes à portée nationale ou conformément à l’article 40, paragraphe (7) du <ref href="/eli/reg_ue/2016/679/jo" id="a61251ea-adce-4731-939d-1771baa604c7">RGPD</ref> pour les codes à portée transnationale. La Commission nationale rend un avis sur la question de savoir si le projet de code, la modification ou la prorogation respecte le <ref href="/eli/reg_ue/2016/679/jo" id="d944bd5e-dd76-4ba5-9d7a-0af2fcf9b6d2">RGPD</ref> et approuve ce projet de code de conduite, cette modification ou cette prorogation si elle estime qu’il offre des garanties appropriées suffisantes.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les demandes d’approbation de projet de codes de conduite, de modification ou de prorogation sont introduites selon une procédure adoptée par la Commission nationale et publiée sur son site internet.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Lorsque le projet de code de conduite, la modification ou la prorogation est approuvé, la Commission nationale enregistre et publie le code de conduite.</p>
+</content>
+</alinea>
+</article>
+<article id="art_31">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_31</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_31/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 31. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 31. </num>
+<heading scl:style-format="b"> Agrément des organismes de suivi des codes de conduite </heading>
+<alinea>
+<content>
+<p>Conformément à l’article 41, paragraphe (3) du <ref href="/eli/reg_ue/2016/679/jo" id="c3386908-fa08-411f-8456-364165be4a9d">RGPD</ref>, la Commission nationale adopte des critères d’agrément d’organismes de suivi des codes de conduites approuvés. Les organismes candidats pour un agrément en tant qu’organisme de suivi de code de conduite approuvé en vertu de l’article 41, paragraphe (1<sup>er</sup>) du <ref href="/eli/reg_ue/2016/679/jo" id="98ad58ab-367b-44d0-85bf-fd4a0a1a72ff">RGPD</ref> doivent soumettre leur candidature selon une procédure adoptée par la Commission nationale et publiée sur son site internet.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elle initiera la procédure d’agrément de l’organisme candidat sur base des critères d’agrément adoptés en vigueur lors de la demande.</p>
+</content>
+</alinea>
+</article>
+<article id="art_32">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_32</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_32/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 32. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 32. </num>
+<heading scl:style-format="b"> Approbation de critères de certification </heading>
+<alinea>
+<content>
+<p>Conformément à l’article 42 du <ref href="/eli/reg_ue/2016/679/jo" id="3e8246de-e961-411a-9539-2ee3b5190a72">RGPD</ref>, la Commission nationale approuve des critères de certification ayant pour finalité de démontrer la conformité des opérations de traitement de données, mis en œuvre par des responsables de traitement et sous-traitants, avec le <ref href="/eli/reg_ue/2016/679/jo" id="22b40b7d-1191-473e-9fed-3ab6a623b9d6">RGPD</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale est également compétente pour faire approuver le sceau européen à des critères de certification par le Comité européen de la protection des données conformément au mécanisme de cohérence prévu à l’article 63 du <ref href="/eli/reg_ue/2016/679/jo" id="eb7d94bb-b521-418f-bb56-aedc04c59050">RGPD</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les demandes d’approbation sont introduites devant la Commission nationale selon une procédure adoptée et publiée sur son site internet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_33">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_33</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_33/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 33. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 33. </num>
+<heading scl:style-format="b"> Agrément des organismes de certification </heading>
+<alinea>
+<content>
+<p>Conformément à l’article 15 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="b9c6a2ef-481e-44d6-98db-90998bbf4799">loi du 1<sup>er</sup> août 2018</ref>, les organismes de certification visés à l’article 43, paragraphe (1<sup>er</sup>) du <ref href="/eli/reg_ue/2016/679/jo" id="506b1806-a5e5-4d85-b94f-d5f830ee1687">RGPD</ref> sont agréés par la Commission nationale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les demandes d’agrément sont introduites selon une procédure adoptée par la Commission nationale et publiée sur son site internet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_34">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_34</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_34/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 34. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 34. </num>
+<heading scl:style-format="b"> Autorisations des clauses contractuelles et arrangements administratifs </heading>
+<alinea>
+<content>
+<p>Sous réserve de l’application du mécanisme de cohérence visé à l’article 63 du <ref href="/eli/reg_ue/2016/679/jo" id="a58a591e-7319-4901-9da8-19616bf5b85e">RGPD</ref>, la Commission nationale peut autoriser, conformément à l’article 46, paragraphe (3) du <ref href="/eli/reg_ue/2016/679/jo" id="a8268538-f356-4c35-bda0-0d7b32ed9a70">RGPD</ref> :</p>
+<ol scl:space-tab="5" scl:start="1" scl:symbol="1°">
+<li>des clauses contractuelles entre le responsable du traitement ou le sous-traitant et le responsable du traitement, le sous-traitant ou le destinataire des données à caractère personnel dans le pays tiers ou l’organisation internationale ; ou</li>
+<li>des dispositions à intégrer dans des arrangements administratifs entre les autorités publiques ou les organismes publics qui prévoient des droits opposables et effectifs pour les personnes concernées.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les demandes d’autorisation sont introduites devant la Commission nationale sur papier libre et doivent suivre les procédures décrites dans les documents de travail émis par le Comité européen de la protection des données conformément avec le <ref href="/eli/reg_ue/2016/679/jo" id="a89583de-c78e-4aef-9d1c-ed0eaeab6859">RGPD</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_35">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_35</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_35/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 35. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 35. </num>
+<heading scl:style-format="b"> Approbation des règles d’entreprise contraignantes </heading>
+<alinea>
+<content>
+<p>En vertu de l’article 47 du <ref href="/eli/reg_ue/2016/679/jo" id="0cc1bd6f-9772-462c-a898-fa6a687672cb">RGPD</ref>, la Commission nationale peut approuver des règles d’entreprise contraignantes conformément au mécanisme de cohérence prévu à l’article 63 du <ref href="/eli/reg_ue/2016/679/jo" id="3f9a6c8b-c412-4b99-a965-f602b151ebf9">RGPD</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les demandes d’approbation sont introduites devant la Commission nationale sur papier libre et doivent suivre les procédures décrites dans les documents de travail émis par le Comité européen de la protection des données conformément avec le <ref href="/eli/reg_ue/2016/679/jo" id="947045e0-406b-41ad-a56a-d51b1e430567">RGPD</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_36">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_36</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_36/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 36.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 36.</num>
+<heading scl:style-format="b"> Gestion d’une réclamation </heading>
+<alinea>
+<content>
+<p>Les réclamations sont traitées selon une procédure adoptée par la Commission nationale et publiée sur son site internet.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La Commission nationale met à disposition du public sur son site internet un formulaire dédié à l’introduction d’une réclamation. </p>
+</content>
+</alinea>
+</article>
+<article id="art_37">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_37</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_37/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 37. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 37. </num>
+<heading scl:style-format="b"> Demandes d’avis préalable sur base de l’article L. 261-1 du Code du travail </heading>
+<alinea>
+<content>
+<p>Lorsque la Commission nationale est saisie par une demande d’avis visée à l’article L. 261-1, paragraphe (4) du <ref href="/eli/etat/leg/code/travail" id="3057ae35-3896-4356-bc2e-a3dc58a612af">Code de travail</ref>, elle rend son avis dans le mois de la saisine. Le délai commence à courir à partir du moment où le dossier de demande d’avis est complet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_38">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_38</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_38/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 38. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 38. </num>
+<heading scl:style-format="b"> Procédure d’enquête </heading>
+<alinea>
+<content>
+<p>La procédure d’enquête de la Commission nationale est décrite dans un règlement relatif à la procédure d’enquête pris en exécution de l’article 40 de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="632ab4d0-01c8-492d-914f-df1ed7bc196d">loi du 1<sup>er</sup> août 2018</ref>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_39">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_39</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_39/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 39. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 39. </num>
+<heading scl:style-format="b"> Voies de recours </heading>
+<alinea>
+<content>
+<p>Sous réserve des dispositions du <ref href="/eli/reg_ue/2016/679/jo" id="20761d14-b1b7-4ff8-a595-2c47b8189990">RGPD</ref> et de la <ref href="/eli/etat/leg/loi/2018/08/01/a686/jo" id="621b25e5-ce1c-47cf-9382-e727e215bd8a">loi du 1<sup>er</sup> août 2018</ref>, les règles établies par le <ref href="/eli/etat/leg/rgd/1979/06/08/n7/jo" id="ba61b9ce-d787-45a3-b50a-6a548b41cebc">règlement grand-ducal du 8 juin 1978</ref> relatif à la procédure à suivre par les administrations relevant de l’État et des communes s’appliquent à toutes les décisions administratives individuelles émanant de la Commission nationale pour lesquelles un texte particulier n’organise pas une procédure spéciale présentant au moins des garanties équivalentes pour l’administré conformément à l’article 4 de la <ref href="/eli/etat/leg/loi/1978/12/01/n1/jo" id="4669ab5f-9d86-4aeb-9a1c-c56111706b45">loi du 1<sup>er</sup> décembre 1978</ref> réglant la procédure administrative non contentieuse.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_4">
+<num> Chapitre 4</num>
+<heading scl:align="left" scl:separator=" - " scl:style-format="b">Dispositions finales </heading>
+<article id="art_40">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_40</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_40/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 40. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 40. </num>
+<heading scl:style-format="b"> Modification du règlement </heading>
+<alinea>
+<content>
+<p>Des modifications au présent règlement d’ordre intérieur peuvent être proposées par le président ou un Commissaire. Toute modification du règlement d’ordre intérieur doit être adoptée à l’unanimité.</p>
+</content>
+</alinea>
+</article>
+<article id="art_41">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_41</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_41/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 41. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 41. </num>
+<heading scl:style-format="b"> Entrée en vigueur et publication </heading>
+<alinea>
+<content>
+<p>Le présent règlement d’ordre intérieur entre en vigueur le jour de sa signature.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le règlement d’ordre intérieur et ses modifications ultérieures sont publiés au Journal officiel du Grand-Duché de Luxembourg et sur le site internet de la Commission nationale.</p>
+</content>
+</alinea>
+</article>
+<article id="art_42">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_42</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/art_42/20251010</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title"> Art. 42. </scl:jolux>
+<scl:jolux scl:name="dateApplicability">2025-10-10</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num> Art. 42. </num>
+<heading scl:style-format="b"> Abrogation </heading>
+<alinea>
+<content>
+<p>Le <ref href="/eli/etat/adm/ri/2024/02/23/b998/jo" id="e867e026-3614-4e8b-9840-4719bc9e356d">règlement d’ordre intérieur approuvé par la Commission nationale par décision n° 07AD/2024 du 23 février 2024</ref> est abrogé.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+</body>
+</act>
+</akomaNtoso>

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 28/09/1998 : Loi du 8 septembre 1998 r\u00E9glant les relations entre l\u0027Etat et les organismes oeuvrant dans les domaines social, familial et th\u00E9rapeutique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/19980928/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "748bdc121d17b40148ac27c25ca939a882c7a48d6eaa2cea2496ea6660d27782",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/19980928/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/09/08/n4/consolide/19980928/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "96bd66bcd78b35be339abe80c35b486ec8c96297f6623c1697787af9c63b0260"
+  "record_sha256": "0487d0952da0d56a11b03cbe1c3f8dbae774cf2dff1e01779a8aa46d0659a6ca"
 }

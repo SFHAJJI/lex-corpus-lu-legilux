@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2010 : Loi du 30 mai 2005\n - relative aux dispositions sp\u00E9cifiques de protection de la personne \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel dans le secteur des communications \u00E9lectroniques et\n - portant modification des articles 88-2 et 88-4 du Code d\u0027instruction criminelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20110901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ff9060bd039dae5f33e4fbcbf49600866cf093d543ee54314d2450cce3eeae3e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20110901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n4/consolide/20110901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b43afce81b01eb9cb71df71fb63155635b329f830a6fd5498e9c76bffebf90a6"
+  "record_sha256": "1bb96238b5c7b4f3d0cb0e2bae29e3157b2c581d375b941fc5c91c9914ccb117"
 }

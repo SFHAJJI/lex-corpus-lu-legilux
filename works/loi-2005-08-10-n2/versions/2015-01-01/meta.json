@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 10 ao\u00FBt 2005 portant cr\u00E9ation d\u0027un Lyc\u00E9e technique pour professions \u00E9ducatives et sociales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/consolide/20150101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aebd5115d069f098cd7f7342ea7bc8616c229cfaf8ede446dda1d8edabb888a6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/consolide/20150101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/08/10/n2/consolide/20150101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "730468994b72ee73a47f5c687eb0914d0ff7e792b15f736ae52bfb3dd3253612"
+  "record_sha256": "19742ae58f83ff1290499cf5629c274be0e6cdb28fe2bb47aefb6ecc42476dae"
 }

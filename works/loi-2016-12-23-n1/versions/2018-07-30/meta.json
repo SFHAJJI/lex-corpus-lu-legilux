@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/07/2018 : Loi du 23 d\u00E9cembre 2016 sur les ventes en soldes et sur trottoir et la publicit\u00E9 trompeuse et comparative.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20180730/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b8afedb4c60a475f94473d2a5f696551a7aabef3a22de8d2588b53e39eec16b6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20180730/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20180730/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ece1764d3bd896c6c66552d9d9456d97bfa8f243335e56d3db76690cb6352597"
+  "record_sha256": "6e586a2b5d3c1573d14a839253baf7934b1899a6fba2baea60ab475e0b31084f"
 }

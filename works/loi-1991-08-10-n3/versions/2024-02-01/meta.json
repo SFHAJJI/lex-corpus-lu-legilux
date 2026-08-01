@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/02/2024 : Loi du 10 ao\u00FBt 1991 sur la profession d\u2019avocat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20240201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3a6bb598a9310f8a31240c1f33ae357d6e1f7a46392ca33d223c2718cdded95c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20240201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/08/10/n3/consolide/20240201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b50e3291ac0498054c2ce5fe864a577261e180328553f3daab61e2d488828d94"
+  "record_sha256": "a0b4db48f0973ecd3798cb838c1f769160644b0afea83b98cbe0137c2be55735"
 }

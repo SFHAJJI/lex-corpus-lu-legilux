@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 28/07/2023 : Loi du 12 juillet 2013 relative aux gestionnaires de fonds d\u2019investissement alternatifs et \\n- portant transposition de la directive 2011/61/UE du Parlement europ\u00E9en et du Conseil du 8 juin 2011 sur les gestionnaires de fonds d\u2019investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les r\u00E8glements (CE) n\u00B0 1060/2009 et (UE) n\u00B0 1095/2010; \\n- portant modification: \\n- de la loi modifi\u00E9e du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif; \\n- de la loi modifi\u00E9e du 13 f\u00E9vrier 2007 relative aux fonds d\u2019investissement sp\u00E9cialis\u00E9s; \\n- de la loi modifi\u00E9e du 15 juin 2004 relative \u00E0 la soci\u00E9t\u00E9 d\u2019investissement en capital \u00E0 risque (SICAR); \\n- de la loi modifi\u00E9e du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de soci\u00E9t\u00E9 d\u2019\u00E9pargne-pension \u00E0 capital variable (sepcav) et d\u2019association d\u2019\u00E9pargne-pension (assep); \\n- de la loi du 13 juillet 2005 concernant les activit\u00E9s et la surveillance des institutions de retraite professionnelle; \\n- de la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier; \\n- de la loi modifi\u00E9e du 12 novembre 2004 relative \u00E0 la lutte contre le blanchiment et contre le financement du terrorisme; \\n- de la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier; \\n- de la loi modifi\u00E9e du 10 ao\u00FBt 1915 concernant les soci\u00E9t\u00E9s commerciales; \\n- de la loi modifi\u00E9e du 19 d\u00E9cembre 2002 concernant le registre de commerce et des soci\u00E9t\u00E9s ainsi que la comptabilit\u00E9 et les comptes annuels des entreprises; \\n- du Code de commerce; \\n- de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu; \\n- de la loi modifi\u00E9e du 1er d\u00E9cembre 1936 concernant l\u2019imp\u00F4t commercial; \\n- de la loi modifi\u00E9e d\u2019adaptation fiscale du 16 octobre 1934; \\n- de la loi modifi\u00E9e du 16 octobre 1934 sur l\u2019\u00E9valuation des biens et valeurs; \\n- de la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e.",
       "title_short": "Loi du 12 juillet 2013 relative aux gestionnaires de fonds d\u2019investissement alternatifs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20230728/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef52d6270e5a9bdabb80d4365690d9bcc339da2a61bd621de0fdefcc77b093f8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20230728/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/07/12/n1/consolide/20230728/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "122490de8d2672b2b3670ecb1452e02b25d6b833b5d4750c4180147a53a14863"
+  "record_sha256": "d5079f8505f9f21b88a4abd8791a948b4abf64af2795a6dda94c7ec1bafd1cd3"
 }

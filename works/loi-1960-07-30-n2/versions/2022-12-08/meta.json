@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/12/2022 : Loi du 30 juillet 1960 concernant la cr\u00E9ation d\u0027un Fonds National de Solidarit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1960/07/30/n2/consolide/20221208/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ba323fd4b273c7f6b611a4f9f6496daa2f3c362cc1c7b62a0adc64942f5be833",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1960/07/30/n2/consolide/20221208/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1960/07/30/n2/consolide/20221208/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f5a571d6d26bdd37102ecc99d915b3d1a2c4a198f943c3fffc216ebc7b217a18"
+  "record_sha256": "be72f8387ec422b9f740a5e50d5d2340db1250f0a7c6a7412edf0e729970d858"
 }

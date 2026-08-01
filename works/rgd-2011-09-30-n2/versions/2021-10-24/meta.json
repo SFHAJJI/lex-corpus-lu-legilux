@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/10/2021 : R\u00E8glement grand-ducal du 30 septembre 2011 portant organisation de la proc\u00E9dure \u00E9lectorale pour la Chambre des M\u00E9tiers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/consolide/20211024/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3e41d14774d8779898d79b1acbd869a91c5b6d67abd989200375d4333561cabe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/consolide/20211024/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/30/n2/consolide/20211024/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e489d970275de5c41cf9d96c1d3a7937683bba4e54c82b8703e7adff79425c88"
+  "record_sha256": "f49d021f45286fae784e62d69486c8ce3cf35298872f7dedf5fa8c3f56eb8fdb"
 }

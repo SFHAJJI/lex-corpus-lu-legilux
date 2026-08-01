@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/12/2012 : Loi du 21 juin 1976 relative \u00E0 la lutte contre le bruit.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20130104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d110bff521bbd39abfc821ae5e1fc0c09cba6e26c49f2c48569c1679f34d8477",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20130104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/21/n2/consolide/20130104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d4bead00695208fe963323a888251fe12a5355fb389d432378673987f8f23672"
+  "record_sha256": "49adf8b1bb35782b7b8c0068eda778e9724b4543d478f63b53910114bb600fea"
 }

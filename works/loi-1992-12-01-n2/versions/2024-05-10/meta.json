@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/05/2024 : Loi du 1er d\u00E9cembre 1992 portant \\n1. cr\u00E9ation d\u0027un \u00E9tablissement public pour le d\u00E9veloppement de la formation professionnelle continue et \\n2. fixation des cadres du personnel des Centres de formation professionnelle continue.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/12/01/n2/consolide/20240510/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f365713e873a03a77045944d8485d06e213bb30f19da5601167e262a20451f17",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/12/01/n2/consolide/20240510/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/12/01/n2/consolide/20240510/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bb3a1213620ce723d07a38a547b36fad5eff2259a547ebd9b6941b4162bd160c"
+  "record_sha256": "8bcb0118dfc36f1e2f24d7fadd49c4285f26e347555d1acb137410d38aaf1c9d"
 }

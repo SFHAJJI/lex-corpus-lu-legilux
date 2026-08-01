@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2020 : Loi du 24 f\u00E9vrier 1984 sur le r\u00E9gime des langues.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/consolide/20200901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5d513304238bbda30578f59f963b227d54ca1fbce9283c55b9c5aa7b4436e48f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/consolide/20200901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1984/02/24/n1/consolide/20200901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6f6d885c913d79e9fb3d025f52bb8c26c5ca8a531c14c0d3b2183acc0110e9aa"
+  "record_sha256": "78128098f40f3b4a9a63ca7159a58a25879d8e69d98fec0385d6fc958727a54c"
 }

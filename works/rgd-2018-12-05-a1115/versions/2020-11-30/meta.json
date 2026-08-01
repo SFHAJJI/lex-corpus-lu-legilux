@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/11/2020 : R\u00E8glement grand-ducal du 5 d\u00E9cembre 2018 arr\u00EAtant la nomenclature des actes et services des di\u00E9t\u00E9ticiens pris en charge par l\u2019assurance maladie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1115/consolide/20201130/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33f2906197db2315f995bb638b7c07a2e094ad2b6205d6601226e102398a1def",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1115/consolide/20201130/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1115/consolide/20201130/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dd6eac9d24603bc66fa67395ea521f36490d896f72ced068ace2932d4850de39"
+  "record_sha256": "6b1e3e77c1b04a54eb443a6e3e202d164bcd2a4ce5821acac03f073f309ca177"
 }

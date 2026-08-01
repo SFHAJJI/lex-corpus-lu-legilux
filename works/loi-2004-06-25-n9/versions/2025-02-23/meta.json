@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/02/2025 : Loi du 25 juin 2004 portant organisation des lyc\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n9/consolide/20250223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a09e38f4bb8f7b68f6615a624a05ff62c1808a6fb5d24e3200125c8eb58c332c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n9/consolide/20250223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/25/n9/consolide/20250223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "44a2155cfacb7df3b8bb41083dede719c7fd91ed51eda8b7691a443a53d5385b"
+  "record_sha256": "7134500892063da0768b7bab238c05c9da99793c36ddecaaa5c7b0f7d1587013"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/09/2019 : Loi du 25 juillet 2005 portant cr\u00E9ation d\u0027un lyc\u00E9e-pilote.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/25/n2/consolide/20190916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7efb55c0071177d56a136569f4afecc4340092255cb1c337f2c3cf6b7c711b3e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/25/n2/consolide/20190916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/25/n2/consolide/20190916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fcc380eb5a4f101e8d185880bb2e08e56f4ef37df738849828fc62667b1efa3d"
+  "record_sha256": "62aad5f4322309e88f8aab1e7f3b84effdb3090a7d87950ca6407548bfd0092a"
 }

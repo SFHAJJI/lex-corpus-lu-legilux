@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : Loi du 22 ao\u00FBt 2003 instituant un Ombudsman.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/22/n2/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ddccd834ce6078b0f43e09542e52a9621059463c91a4ad510967e3fd83c75ff8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/22/n2/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/22/n2/consolide/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "04476251842c3923cf168c18e87bac1dc69bc63115db4acfbccbc3ae42fc147f"
+  "record_sha256": "1c5b5c4262d0a13ec8729c8aea3a034554d643f6654e04c01b5cf423298f4951"
 }

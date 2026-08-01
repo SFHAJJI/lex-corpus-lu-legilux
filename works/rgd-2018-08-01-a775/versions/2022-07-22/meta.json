@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/07/2022 : R\u00E8glement grand-ducal du 1er ao\u00FBt 2018 \u00E9tablissant l\u2019\u00E9tat de conservation des habitats d\u2019int\u00E9r\u00EAt communautaire et des esp\u00E8ces d\u2019int\u00E9r\u00EAt communautaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/consolide/20220722/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "20dc0b0ded8868a6076b64075ebb37d97da11ad139a2b13a471a1679a35048bd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/consolide/20220722/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a775/consolide/20220722/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1a952240d16650af8ce39aef82c420a193c0744c9c12842bf1ae237e9d758aa0"
+  "record_sha256": "8bf9271959309fce2563e5c88d3c8246fab948086b6e734de8df3cc57462e922"
 }

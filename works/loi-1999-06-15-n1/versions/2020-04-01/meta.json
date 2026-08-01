@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/04/2020 : Loi du 15 juin 1999 portant organisation de l\u0027Institut national d\u0027administration publique et modification \\n 1. de la loi modifi\u00E9e du 28 mars 1986 portant harmonisation des conditions et modalit\u00E9s d\u0027avancement dans les diff\u00E9rentes carri\u00E8res des administrations et services de l\u0027Etat; \\n 2. de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements desfonctionnaires de l\u0027Etat; \\n 3. de la loi modifi\u00E9e du 24 d\u00E9cembre 1985 fixant le statut g\u00E9n\u00E9ral des fonctionnaires communaux.",
       "title_short": "Loi du 15 juin 1999 portant organisation de l\u0027Institut national d\u0027administration publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/15/n1/consolide/20200401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef26a0fdb3cd57a87db2d4db8cdab804a6d94070abc106ab9c84cae36006b140",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/15/n1/consolide/20200401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/15/n1/consolide/20200401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fae92a76b96af513185207b8696e40c1731012aaf8451b2924fe9ab49875e026"
+  "record_sha256": "a46ade0ee4f8861b5f34f19f3e42e29e63ecf9d1f9d0e6371d2a03a2841e486d"
 }

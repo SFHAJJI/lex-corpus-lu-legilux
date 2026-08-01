@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/04/2019 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 fixant les mesures d\u0027ex\u00E9cution de la loi du 23 d\u00E9cembre 2016 instituant un r\u00E9gime d\u0027aides pour la promotion de la durabilit\u00E9, de l\u0027utilisation rationnelle de l\u0027\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40/consolide/20190423/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ac22965b21ebd33af233e8947e97dff9a2f9c3c6ebd6f39b8c8e57c274ff52fd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40/consolide/20190423/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n40/consolide/20190423/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5249c6fb084c415c15ccca9936da389fba55a8acdc780753f5abc6479e1c5838"
+  "record_sha256": "71556c5e250c643958f8804cc331a04758a9610773dabe928aa70859904b676e"
 }

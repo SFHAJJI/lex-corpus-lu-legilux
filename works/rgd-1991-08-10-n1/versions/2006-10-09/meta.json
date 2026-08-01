@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/10/2006 : R\u00E8glement grand-ducal du 10 ao\u00FBt 1991 concernant la d\u00E9signation, la composition et le fonctionnement des d\u00E9l\u00E9gations des fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/08/10/n1/consolide/20061009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f5a247cbd66a5c1b143b40d7b7c0ded36bc2e7db1181ca5db0dd7c412088f3b9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/08/10/n1/consolide/20061009/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1991/08/10/n1/consolide/20061009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2b29a0f268fbbbe87803327f79a6e6f84f66c7aa97be347015312e35ccc80a32"
+  "record_sha256": "98527a52065e9d4c97cc5f1495983b7e12cfd37c9cdcdd2acdc1b682bd8c5a03"
 }

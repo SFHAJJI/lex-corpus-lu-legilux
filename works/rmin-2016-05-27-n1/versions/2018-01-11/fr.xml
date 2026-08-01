@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-05-27" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MJ"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-05-27" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-05-27" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo</scl:jolux><scl:jolux scl:name="dateEndApplicability">2023-03-15</scl:jolux><scl:jolux scl:name="dateApplicability">2018-01-11</scl:jolux><scl:jolux scl:name="dateDocument">2016-05-27</scl:jolux><scl:jolux scl:name="historicalLegalId">2016A1751A</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MJ</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/287</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/941</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RMIN</scl:jolux><scl:jolux scl:name="dateEntryInForce">2016-06-01</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a94</scl:jolux><scl:jolux scl:name="publicationDate">2016-05-30</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf><scl:rdf scl:name="type">http://www.w3.org/2004/02/skos/core#Concept</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/1915/08/10/n1/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version consolidée applicable au 11/01/2018 : Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2002/12/19/n1/jo</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/rgd/2003/01/23/n1/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-94-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rights">Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a94/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rmin-2016-05-27-n1-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-94-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rights">Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a94/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2016/a94/fr/pdf/eli-etat-leg-memorial-2016-a94-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2016-05-27" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2018-01-11" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+<eventRef date="2023-03-16" id="e4" originatingExpression="false" source="#rp4" type="amendment"/>
+<eventRef date="2023-09-25" id="e3" originatingExpression="false" source="#rp3" type="amendment"/>
+<eventRef date="2023-11-30" id="e2" originatingExpression="false" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rmin/2017/12/20/a24/jo"/>
+<destination href="#art_1er"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/rmin/2016/05/27/n1/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/rmin/2023/11/29/a782/jo" id="rp2" showAs="Règlement ministériel du 29 novembre 2023 modifiant le règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations et au dépôt au registre de commerce et des sociétés."/>
+<passiveRef href="/eli/etat/leg/rmin/2023/09/20/a606/jo" id="rp3" showAs="Règlement ministériel du 20 septembre 2023 modifiant le Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations."/>
+<passiveRef href="/eli/etat/leg/rmin/2023/02/22/a135/jo" id="rp4" showAs="Règlement ministériel du 22 février 2023 modifiant le règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations."/>
+<passiveRef href="/eli/etat/leg/rmin/2017/12/20/a24/jo" id="rp5" showAs="Règlement ministériel du 20 décembre 2017 modifiant le Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations."/>
+</references>
+<notes scl:type="modification" source="#rp5">
+<note id="M1" marker="1" refersTo="pm1" title="A|2018-01-11|2017-12-20|RMIN|24">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rmin/2017/12/20/a24/jo">Règlement ministériel du 20 décembre 2017 modifiant le Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version consolidée applicable au 11/01/2018 : Règlement ministériel du 27 mai 2016 portant fixation des critères de présentation et de forme des documents destinés à la publication au Recueil électronique des sociétés et associations.</p>
+</longTitle>
+</preface>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_1er/20180111</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2018-01-11</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>
+<mod class="mod-start" for="#pm1"/>Art. 1<sup>er</sup>.</num>
+<alinea>
+<content>
+<p>Peuvent être inscrites, auprès du registre de commerce et des sociétés, sur base de l'article 6, point 2°, de la <ref href="/eli/etat/leg/loi/2002/12/19/n1/jo" id="813f9ca8-7da6-4557-a71f-b71de99cc7b7">loi du 19 décembre 2002</ref> concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises, les mentions supplémentaires suivantes :</p>
+<ol xmlns:ns3727365="http://www.scl.lu" ns3727365:space-before="7" ns3727365:space-item="7" ns3727365:space-tab="10" ns3727365:start="1" ns3727365:symbol="1°">
+<li>société d'investissement à capital variable - fonds d'investissement spécialisé ;</li>
+<li>société d'investissement en capital à risque ;</li>
+<li>société d'épargne-pension à capital variable ;</li>
+<li>société de gestion de patrimoine familial ;</li>
+<li>fonds d’investissement spécialisé ; </li>
+<li>société d’investissement à capital variable - fonds d’investissement alternatif réservé ;</li>
+<li>fonds d’investissement alternatif réservé ;</li>
+<li>société d’impact sociétal.<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_2/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<alinea>
+<content>
+<p>Les publications effectuées au Recueil électronique des sociétés et associations doivent répondre aux critères techniques suivants: </p>
+<ol scl:symbol="1°">
+<li>les documents destinés à la publication doivent être transmis au gestionnaire du registre de commerce et des sociétés au format PDF/A et ne doivent ni contenir d’image, ni avoir été numérisés, ou traité par un logiciel de reconnaissance optique de caractères («OCR»);</li>
+<li>les documents destinés à la publication doivent être rédigés avec des polices de caractère communément utilisées en bureautique. La liste des polices est précisée par le gestionnaire du registre de commerce et des sociétés sur son site internet;</li>
+<li>les documents destinés à la publication doivent être présentés au format A4;</li>
+<li>une zone horizontale blanche d’au moins 35 millimètres en haut de la première page doit être réservée;</li>
+<li>les documents destinés à la publication doivent être rédigés en police de caractère noire, sur fond blanc.</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_3/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<alinea>
+<content>
+<p>L’en-tête des publications doit reprendre les informations suivantes: </p>
+<ol scl:symbol="1°">
+<li>la dénomination, suivie le cas échéant de la mention d’une observation de justice frappant la personne ou entité ou d’une mise en liquidation volontaire, <p scl:space-before="1">s’agissant des fonds communs de placement, le nom du fonds, suivi de la dénomination de la société de gestion, </p>
+<p>s’agissant des succursales de personne morale de droit étranger, la dénomination de la succursale le cas échéant, suivie de celle de l’établissement de droit étranger;</p>
+</li>
+<li>le numéro d’immatriculation;</li>
+<li>la forme juridique;</li>
+<li>l’adresse précise du siège, ou dans le cas des succursales de personne morale de droit étranger, l’adresse de la succursale.</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_4/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<alinea>
+<content>
+<p>Les publications pouvant être générées par le gestionnaire du registre de commerce et des sociétés sur base de l’article 2<i>quinquies</i> du <ref href="/eli/etat/leg/rgd/2003/01/23/n1/jo" id="18157a38-3195-4538-901c-8a3d925b4e2a" scl:verify="true">règlement modifié du 23 janvier 2003</ref> portant exécution de la <ref href="/eli/etat/leg/loi/2002/12/19/n1/jo" id="dd0b1352-1418-47a3-883a-fc5ab4f6f6df" scl:verify="true">loi du 19 décembre 2002</ref> concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises concernent: </p>
+<ol scl:symbol="1°">
+<li>les démissions, telles que prévues à l’article 13, point 14), de la <ref href="/eli/etat/leg/loi/2002/12/19/n1/jo" id="32b3ae89-9b5c-4501-b2ed-685d6ee2d09d" scl:verify="true">loi modifiée du 19 décembre 2002</ref> concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises;</li>
+<li>les dénonciations de siège, telles que prévues à l’article 13, point 14) de la <ref href="/eli/etat/leg/loi/2002/12/19/n1/jo" id="b8edbf99-0048-4c82-948c-e84d74cfdd39" scl:verify="true">loi du 19 décembre 2002</ref> concernant le registre de commerce et des sociétés ainsi que la comptabilité et les comptes annuels des entreprises;</li>
+<li>l’extrait prescrit à l’article 11<i>bis</i>, paragraphe 1<sup>er</sup>, point 3), de la <ref href="/eli/etat/leg/loi/1915/08/10/n1/jo" id="bc590d85-ea23-483b-8ecb-79b1a563e240" scl:verify="true">loi modifiée du 10 août 1915</ref> concernant les sociétés commerciales;</li>
+<li>les informations dont la loi prescrit la publication par mention.</li>
+</ol>
+<p>Les publications prescrites aux points 1°, 2° et 3° sont générées par le gestionnaire sur base d’un formulaire spécifique, dûment complété par le déposant.</p>
+</content>
+</alinea>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_5/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5.</num>
+<alinea>
+<content>
+<p>La publication générée par le gestionnaire du registre de commerce et des sociétés en application de l’article 4, point 1° reprend l’identité de la personne démissionnaire, son adresse, sa fonction et la date de dépôt à laquelle le registre de commerce et des sociétés a été informé de la démission;</p>
+<p scl:space-tab="3">s’il s’agit d’une personne physique, ses nom et prénoms ou</p>
+<p scl:space-tab="3">s’il s’agit d’une personne morale, sa dénomination et le cas échéant son numéro d’immatriculation et le nom du registre auprès duquel elle est immatriculée.</p>
+</content>
+</alinea>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_6/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6.</num>
+<alinea>
+<content>
+<p>La publication générée par le gestionnaire du registre de commerce et des sociétés en application de l’article 4, point 2°, reprend la forme juridique et le numéro d’immatriculation de la personne dont le siège a été dénoncé, ainsi que le nom ou la dénomination du domiciliataire, le cas échéant son numéro d’immatriculation, l’adresse du siège dénoncé et la date à laquelle le dépôt a été effectué. La phrase suivante y est ajoutée: «Les effets de la convention et les obligations qui en découlent cessent à partir de la date de dépôt de la dénonciation au registre de commerce et des sociétés.»</p>
+</content>
+</alinea>
+</article>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_7/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 7.</num>
+<alinea>
+<content>
+<p>La publication générée par le gestionnaire du registre de commerce et des sociétés en application de l’article 4, point 3°, est établie selon les informations fournies par le déposant sur le formulaire de réquisition.</p>
+</content>
+</alinea>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_8/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8.</num>
+<alinea>
+<content>
+<p>La publication générée par le gestionnaire du registre de commerce et des sociétés en application de l’article 4, point 4°, prend la forme d’une ligne insérée dans le journal des publications.</p>
+</content>
+</alinea>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_9/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 9.</num>
+<alinea>
+<content>
+<p>Lorsqu’un mandataire, une personne chargée du contrôle des comptes ou un dépositaire d’actions au porteur est une personne morale luxembourgeoise inscrite au RCS, et que ses données signalétiques ont été modifiées, la personne immatriculée, au sein de laquelle cette personne intervient en sa qualité de mandataire, de personne chargée du contrôle des comptes ou dei dépositaire d’actions au porteur, est dispensée de procéder à une publication actant de ces changements, telle que prévue à l’article 11<i>bis</i>, paragraphe 1, point 3) de la <ref href="/eli/etat/leg/loi/1915/08/10/n1">loi modifiée du 10 août 1915</ref> concernant les sociétés commerciales, la publication ayant été effectuée par la personne directement concernée par la modification, au titre de son propre dossier.</p>
+</content>
+</alinea>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_10/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 10.</num>
+<alinea>
+<content>
+<p>Le journal des publications officielles pourra paraître tous les jours calendaires, aussi souvent que de besoin.</p>
+</content>
+</alinea>
+</article>
+<article id="art_11">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_11</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_11/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 11.</num>
+<alinea>
+<content>
+<p>Le présent règlement ministériel entre en vigueur le 1<sup>er</sup> juin 2016.</p>
+</content>
+</alinea>
+</article>
+<article id="art_12">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_12</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/art_12/20160601</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-06-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 12.</num>
+<alinea>
+<content>
+<p>Le présent règlement ministériel est publié au Mémorial.</p>
+</content>
+</alinea>
+</article>
+</body>
+</act>
+</akomaNtoso>

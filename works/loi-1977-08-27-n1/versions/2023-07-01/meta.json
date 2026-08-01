@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : Loi du 27 ao\u00FBt 1977 concernant le statut des fonctionnaires entr\u00E9s au service d\u0027Institutions internationales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c7e5a2cbaf7dbaa156a39f5f009f615185bcc016648edd1623a23bfaaa2fa393",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/08/27/n1/consolide/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1b0cc58a336585deb06fb01c08bc5525f3a73dbabe81f5e13d5af5611f0518e9"
+  "record_sha256": "f6f2ccc7b4bc516e3aabb7fd1023f0d4da808ecdf31e7b669a806bb50d3a9ee3"
 }

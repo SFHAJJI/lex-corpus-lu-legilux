@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/07/2023 : Loi du 7 septembre 2018\\n1\u00B0 portant approbation du Protocole d\u2019accord entre le Gouvernement du Grand-Duch\u00E9 de Luxembourg et le Gouvernement de la R\u00E9publique fran\u00E7aise relatif au renforcement de la coop\u00E9ration en mati\u00E8re de transports transfrontaliers, fait \u00E0 Paris, le 20 mars 2018 ;\\n2\u00B0 relative \u00E0 la participation de l\u2019\u00C9tat luxembourgeois au financement des travaux d\u2019infrastructure r\u00E9alis\u00E9s sur le territoire fran\u00E7ais entre Metz et la fronti\u00E8re franco-luxembourgeoise \u00E0 Zoufftgen.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/07/a812/consolide/20230714/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6c24131734e2eb51a77a687c4b745173c10badc6f6d063d936ac475b13c22d84",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/07/a812/consolide/20230714/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/07/a812/consolide/20230714/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "692220006e008942c2aa87f0bed74f29a9afb828b4807675a1e421a09b70f1ed"
+  "record_sha256": "660c3221ef6b4251cedfc9e57160d3384a36fd753695fec3f3118f4606d4d746"
 }

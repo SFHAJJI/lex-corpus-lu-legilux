@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/05/2026 : Loi du 31 mai 2021 relative aux licences des contr\u00F4leurs de la circulation a\u00E9rienne et aux prestataires de service de navigation a\u00E9rienne.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9f0ad8919e3405837a99bbaf1c18432f25e5f6e13bef6e07e1a3e47b53420880",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/05/31/a412/consolide/20260501/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "912aadc280a4588ed12acb7ab6762d426d8a2ba57bcb8d59e574f71dd3572e5a"
+  "record_sha256": "cb1baf98bba6b02f1a156e21a1e31157a88f7849e26ce5ff8ecb723196bfe17a"
 }

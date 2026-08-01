@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/05/2008 : Loi du 28 novembre 2006 portant\\n 1. transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative \u00E0 la mise en oeuvre du principe de l\u0027\u00E9galit\u00E9 de traitement entre les personnes sans distinction de race ou d\u0027origine ethnique;\\n 2. transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant cr\u00E9ation d\u0027un cadre g\u00E9n\u00E9ral en faveur de l\u0027\u00E9galit\u00E9 de traitement en mati\u00E8re d\u0027emploi et de travail;\\n 3. modification du Code du travail et portant introduction dans le Livre II d\u0027un nouveau titre V relatif \u00E0 l\u0027\u00E9galit\u00E9 de traitement en mati\u00E8re d\u0027emploi et de travail;\\n 4. modification des articles 454 et 455 du Code p\u00E9nal;\\n 5. modification de la loi du 12 septembre 2003 relative aux personnes handicap\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/consolide/20080530/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "270504e5407e6962ef0478cf4674df14b0dbbb6c97de3e8438ccbd48d7f0e955",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/consolide/20080530/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/11/28/n1/consolide/20080530/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "63d16b609989d2dbda444612483270560976245fecc2b21baa8ec9c74f2f6610"
+  "record_sha256": "e4bfa2420c6ea840d904d7a72bf2543a67a9b22242157bc515bb095aafa73fa4"
 }

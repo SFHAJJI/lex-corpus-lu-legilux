@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/02/2024 : R\u00E8glement grand-ducal du 7 mai 2021 concernant les limitations de la vitesse d\u00E9rogatoires sur les voies publiques faisant partie de la voirie normale de l\u2019\u00C9tat en dehors des agglom\u00E9rations et abrogeant le r\u00E8glement grand-ducal du 23 mai 2018 concernant les limitations de la vitesse d\u00E9rogatoires sur les voies publiques faisant partie de la voirie normale de l\u2019\u00C9tat en dehors des agglom\u00E9rations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/07/a358/consolide/20240205/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e08e77c81e00901b12f4ab36bb895582725b066cce5b6b0f4896f92d2a733f40",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/07/a358/consolide/20240205/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/07/a358/consolide/20240205/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "76976a4482db457cdf674cf6d87ce17ba1457a5694c4069e2199f199d6327781"
+  "record_sha256": "d874c6709d65ec396c11dfcd0d39e889717e66870c9cbbe0123f445c0dd5ce06"
 }

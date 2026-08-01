@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 30/07/2016 : Loi du 4 septembre 2015\\na) concernant certaines modalit\u00E9s d\u0027application et les sanctions du r\u00E8glement (UE) n\u00B0 528/2012 du Parlement europ\u00E9en et du Conseil du 22 mai 2012 concernant la mise \u00E0 disposition sur le march\u00E9 et l\u0027utilisation des produits biocides;\\nb) relative \u00E0 l\u0027enregistrement de fabricants et de vendeurs;\\nc) abrogeant la loi modifi\u00E9e du 24 d\u00E9cembre 2002 relative aux produits biocides.",
       "title_short": "Loi du 4 septembre 2015 relative aux produits biocides.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20160730/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a42633fda23057ba0fab735a4704220fed16a726a9a9ddd01c18312d607f9542",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20160730/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/09/04/n1/consolide/20160730/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "abc97d8be9ff26f65c6ddc18ef1cb4b2a9c8279a69c6cc1cf05b1b85625e2cba"
+  "record_sha256": "437f3538fc1b8373d013324d2a18df09bc3d01ff1d6d1a5827710acfbcd2248f"
 }

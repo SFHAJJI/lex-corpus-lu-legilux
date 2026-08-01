@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2021 : R\u00E8glement grand-ducal du 17 mai 2017 concernant les prescriptions minimales de s\u00E9curit\u00E9 et de sant\u00E9 relatives \u00E0 l\u2019exposition des salari\u00E9s aux risques dus aux agents physiques (champs \u00E9lectromagn\u00E9tiques).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/17/a498/consolide/20210323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cab283e319dd868379060b4676c16226756057622d984f0bbe91173f478bc8ad",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/17/a498/consolide/20210323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/17/a498/consolide/20210323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "16437b12f278647d4fe7a23c15dc232e5b94533a3617a46e9d20b4990cbaadd1"
+  "record_sha256": "01818f06153362398ba986987f62a97b9fcb5699e33f574b37fc9096cec505e7"
 }

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#somebody">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2022-05-17" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MENE"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2022-05-17" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2022-05-17" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo</scl:jolux><scl:jolux scl:name="publicationDate">2022-05-19</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux><scl:jolux scl:name="dateDocument">2022-05-17</scl:jolux><scl:jolux scl:name="dateEntryInForce">2022-05-23</scl:jolux><scl:jolux scl:name="dateApplicability">2022-10-01</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2022/a237</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MENE</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/623</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3057</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/488</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/113</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1342</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo/fr</scl:jolux>
+<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 01/10/2022 : Loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.</scl:jolux>
+<scl:jolux scl:name="draft">http://data.legilux.public.lu/eli/etat/projet/pl/20220018</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/jo/fr</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2022/a237/fr/pdf</scl:jolux>
+<scl:jolux scl:name="memorialPage">1</scl:jolux>
+<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’État du Grand-Duché de Luxembourg – Service central de législation</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2022-05-17-a237-jo-fr-xml.xml</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2022-05-17" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2022-10-01" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2022/12/02/a597/jo"/>
+<destination href="#art_1er"/>
+</textualMod>
+<textualMod id="pm2" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2022/12/02/a597/jo"/>
+<destination href="#art_1er"/>
+</textualMod>
+<textualMod id="pm3" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2022/12/02/a597/jo"/>
+<destination href="#art_1er"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/loi/2022/05/17/a237/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/loi/2022/12/02/a597/jo" id="rp2" showAs="Loi du 2 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en gaz naturel pour certains clients finals et modifiant la loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="A|2022-12-05|2022-12-02|L|597">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/jo">Loi du 2 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en gaz naturel pour certains clients finals et modifiant la loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M2" marker="2" refersTo="pm2" title="A|2022-12-05|2022-12-02|L|597">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/jo">Loi du 2 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en gaz naturel pour certains clients finals et modifiant la loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M3" marker="3" refersTo="pm3" title="A|2022-12-05|2022-12-02|L|597">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/jo">Loi du 2 décembre 2022 instituant une contribution étatique visant à limiter la hausse des prix d’approvisionnement en gaz naturel pour certains clients finals et modifiant la loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle style="11">
+<p>Version consolidée applicable au 01/10/2022 : Loi du 17 mai 2022 portant prise en charge par l’État des frais engendrés par l’utilisation des réseaux de distribution de gaz naturel.</p>
+</longTitle>
+</preface>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/art_1er/20221001</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-10-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<paragraph id="paragraph_1">
+<num>(1)</num>
+<alinea>
+<content>
+<p>L’État prend en charge les frais d’utilisation du réseau, y compris pour le comptage, dont les clients finals disposant de compteurs d’un flux horaire maximal inférieur à 65 mètres cubes sont redevables du 1<sup>er</sup> mai 2022 au <mod class="mod-start" for="#pm1"/>31 décembre 2023<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/> jusqu’à concurrence d’un montant maximal de <mod class="mod-start" for="#pm2"/>115 000 000 euros<mod class="mod-end" for="#pm2"/>
+<noteRef href="#M2" marker="2"/>.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_2">
+<num>(2)</num>
+<alinea>
+<content>
+<p>Chaque gestionnaire de réseau de distribution de gaz naturel dresse mensuellement un état des frais d’utilisation exigibles du mois écoulé dans le chef de ses clients finals visés au paragraphe 1<sup>er</sup> et raccordés à son réseau de distribution de gaz naturel. Il transmet au plus tard le dernier jour du mois suivant une demande d’avance reprenant cet état des frais d’utilisation exigibles au ministre ayant l’Énergie dans ses attributions qui règle les frais exigibles dont il est fait état endéans le mois après réception de la demande de paiement de l’avance. Il dresse son décompte final et le transmet au ministre ayant l'Énergie dans ses attributions au plus tard le 30 juin 2023 <mod class="mod-start" for="#pm3"/>pour l’année civile 2022 et au plus tard le 30 juin 2024 pour l’année civile 2023<mod class="mod-end" for="#pm3"/>
+<noteRef href="#M3" marker="3"/>.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_3">
+<num>(3)</num>
+<alinea>
+<content>
+<p>Pour la période visée au paragraphe 1<sup>er</sup>, les gestionnaires de réseau de distribution de gaz naturel ne facturent pas les frais d’utilisation du réseau de gaz naturel, y compris pour le comptage, aux clients finals visés au paragraphe 1<sup>er</sup> et, en cas de fourniture intégrée, les fournisseurs ne procèdent pas à la collecte de ces frais d’utilisation du réseau auprès des clients finals au nom et pour le compte du gestionnaire de réseau concerné.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/art_2/20220523</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-05-23</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<alinea>
+<content>
+<p>Les dépenses occasionnées par l’exécution de l’article 1<sup>er</sup> sont imputées sur le budget de l’État.</p>
+</content>
+</alinea>
+</article>
+</body>
+</act>
+</akomaNtoso>

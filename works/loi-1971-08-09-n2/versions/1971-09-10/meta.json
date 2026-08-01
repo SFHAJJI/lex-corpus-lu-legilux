@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 10/09/1971 : Loi du 9 ao\u00FBt 1971 concernant l\u0027ex\u00E9cution et la sanction des d\u00E9cisions et des directives ainsi que la sanction des r\u00E8glements des Communaut\u00E9s europ\u00E9ennes en mati\u00E8re \u00E9conomique, technique, agricole, foresti\u00E8re, sociale et en mati\u00E8re de transports.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/19710910/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8b52c90ed4e65152f66ae775a96e1e85f158346461f9fbf3e75f14c3847e420d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/19710910/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1971/08/09/n2/consolide/19710910/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4155e965ae62fc45acc1c95a929aabc3a97ca67acedc9d1bc454565cb61e1959"
+  "record_sha256": "6572daaaa51e4de5068323fdc35c1a30f856d9cbd2c3cc82f6eabd62cba03a28"
 }

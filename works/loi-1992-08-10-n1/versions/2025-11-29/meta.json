@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/11/2025 : Loi du 10 ao\u00FBt 1992 portant cr\u00E9ation de l\u2019entreprise des postes et t\u00E9l\u00E9communications.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20251129/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e82513e106d76e3efc499493aaa2ded33adb062040e77b20be110ab45f87ef7f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20251129/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/08/10/n1/consolide/20251129/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "367d0990ae360e06e47290f384c5070ebbe2e97e754906444471875f055d7a07"
+  "record_sha256": "4cbdca927084cb91d32130ffde79a068fda56f897af49446a2ae7d4e6e24d3c8"
 }

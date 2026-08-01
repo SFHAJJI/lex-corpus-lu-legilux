@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/02/2020 : Loi du 29 ao\u00FBt 2008 \\n1) portant sur la libre circulation des personnes et l\u0027immigration; \\n2) modifiant \\n- la loi modifi\u00E9e du 5 mai 2006 relative au droit d\u0027asile et \u00E0 des formes compl\u00E9mentaires de protection, \\n- la loi modifi\u00E9e du 29 avril 1999 portant cr\u00E9ation d\u0027un droit \u00E0 un revenu minimum garanti, \\n- le Code du travail, \\n- le Code p\u00E9nal; \\n3) abrogeant \\n- la loi modifi\u00E9e du 28 mars 1972 concernant \\n1. l\u0027entr\u00E9e et le s\u00E9jour des \u00E9trangers; \\n2. le contr\u00F4le m\u00E9dical des \u00E9trangers; \\n3. l\u0027emploi de la main-d\u0027oeuvre \u00E9trang\u00E8re, \\n- la loi du 26 juin 1953 portant fixation des taxes \u00E0 percevoir en mati\u00E8re de cartes d\u0027identit\u00E9 pour \u00E9trangers, \\n- la loi du 28 octobre 1920 destin\u00E9e \u00E0 endiguer l\u0027affluence exag\u00E9r\u00E9e d\u0027\u00E9trangers sur le territoire du Grand-Duch\u00E9.",
       "title_short": "Loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u0027immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20200201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1d01eb107e6a8e44391ece939b62b0b1e789c8c91f02adb43939842a3041f606",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20200201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/consolide/20200201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "96b4469076594224b7b3d2ddbe3946610e10e3966f705d7d83796956ec62d0ee"
+  "record_sha256": "f19ee08881623f6e8d8ef4d000e9c9c098dff7fa95af5085213022a3199b8892"
 }

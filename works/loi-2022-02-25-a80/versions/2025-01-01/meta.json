@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : Loi du 25 f\u00E9vrier 2022 relative au patrimoine culturel et modifiant :\\n1\u00B0 la loi modifi\u00E9e du 4 mars 1982 a) portant cr\u00E9ation d\u2019un Fonds culturel national ; b) modifiant et compl\u00E9tant les dispositions fiscales tendant \u00E0 promouvoir le m\u00E9c\u00E9nat et la philanthropie ;\\n2\u00B0 la loi modifi\u00E9e du 25 juin 2004 portant r\u00E9organisation des instituts culturels de l\u2019\u00C9tat ;\\n3\u00B0 la loi modifi\u00E9e du 18 juillet 2018 concernant la protection de la nature et des ressources naturelles ;\\n4\u00B0 la loi du 17 ao\u00FBt 2018 relative \u00E0 l\u2019archivage.",
       "title_short": "Loi du 25 f\u00E9vrier 2022 relative au patrimoine culturel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/02/25/a80/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7cacdb8376bfcd8ddf0313e9866623b38c4ab21ec2fa972591c9210bb6529cb5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/02/25/a80/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/02/25/a80/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "398268bc0063bf248b9cbf40a97b7d50103efb8cf3a4b372c37300fe16d72715"
+  "record_sha256": "45d13fa16b3cecd9182272555a6fdf4ee360cb41493b616c9a1fe2a4a17bd995"
 }

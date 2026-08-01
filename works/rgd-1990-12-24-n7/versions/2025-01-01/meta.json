@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 24 d\u00E9cembre 1990 \u00E9tablissant un r\u00E9gime d\u0027imposition forfaitaire des marins.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5f8cae71a3556bed7226f31f73be3ea3c16f612323d07e50266446c3313aaf98",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/24/n7/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b8726353a3d7a8b27a8e8edc57d69a23b274f2746cd98142c92f9c05db1782fa"
+  "record_sha256": "33a77be897290af3436289d50608bf11244c3c5573c7cf4db87f3aa86d21032d"
 }

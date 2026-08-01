@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/05/2021 : Loi du 19 d\u00E9cembre 2020 ayant pour objet la mise en place d\u2019une contribution temporaire de l\u2019\u00C9tat aux co\u00FBts non couverts de certaines entreprises.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/consolide/20210516/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "132f2d4bec0ffb43714069945e95a3537956072bd5c87848d13375fd48f87b59",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/consolide/20210516/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1036/consolide/20210516/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "309897a4f84fd731d696c4a3b79e8ee9c99d9306c97357233fa84c4ea21f33e1"
+  "record_sha256": "10a67bab1c70ca1b8452baa0a53b94cd1921ecb66e9358f6c0109051aad2cab0"
 }

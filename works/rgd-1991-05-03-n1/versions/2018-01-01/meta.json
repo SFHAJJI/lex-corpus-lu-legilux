@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2018 : R\u00E8glement grand-ducal du 3 mai 1991 concernant la prestation d\u2019heures de travail suppl\u00E9mentaires par des fonctionnaires communaux ainsi que leur astreinte \u00E0 domicile.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/05/03/n1/consolide/20180101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e8c7201a55b6a944cb8b164111ad398ad94d83591f7d5eab1232802e430d04c9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/05/03/n1/consolide/20180101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1991/05/03/n1/consolide/20180101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a2c8122856e4e6a8f872968ecb18c39e58ad2210aab176c4aa2e458cf6d39d19"
+  "record_sha256": "4292f0661b1597e55c1766e710a086106540794a03cc22b89267118ba08ca803"
 }

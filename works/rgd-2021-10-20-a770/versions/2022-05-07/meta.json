@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/05/2022 : R\u00E8glement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de c\u00E9r\u00E9ales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220507/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d1f70b31c61c1dc25af23c2fb9730b0d826d42e62419937dd999d528afa063ca",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220507/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a770/consolide/20220507/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8941201bfaf19070d58ee14b1ae679535ba6549ae941b963675950f786815590"
+  "record_sha256": "604298eca34b83e1af3a994b8e24471e0615a201832158a38380e5c1240bcf78"
 }

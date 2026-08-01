@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/10/2015 : Loi du 18 d\u00E9cembre 2009 organisant l\u0027aide sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/consolide/20151003/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "02a75baeb5a7d3d38afd045f87860e343ccaaf6cbffaf36ef1388b1ca4bb5189",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/consolide/20151003/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/consolide/20151003/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3e6453c7c3615e1e27639400b3ebd66cf3845012163e805423126b8d038c745e"
+  "record_sha256": "90934fa7ff1290a8737fa57aa3bfd973daab6955b634820826f0bf91a8495b12"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/03/2018 : Loi du 26 octobre 2010 portant r\u00E9organisation de la Chambre de Commerce.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20180317/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "20af20025e5cfa2598316b6536214a3397692059d0560f22d2660070ba54dbb8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20180317/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/consolide/20180317/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8b6882b5835353ee48105f9dc170ba46595999b7e01eb83bf200fd38f5905b53"
+  "record_sha256": "a5363f28c8b15d32caeb54148e4b08cc6635eaec202fdc1501d67c29e2bcf9f7"
 }

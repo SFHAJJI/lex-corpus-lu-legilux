@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 08/06/2024 : R\u00E8glement grand-ducal du 24 avril 2018 relatif \u00E0 la limitation des \u00E9missions de certains polluants dans l\u0027atmosph\u00E8re en provenance des installations de combustion moyennes et modifiant\\n1. le r\u00E8glement grand-ducal modifi\u00E9 du 27 f\u00E9vrier 2010 concernant les installations \u00E0 gaz\\n2. le r\u00E8glement grand-ducal modifi\u00E9 du 7 octobre 2014 relatif a) aux installations de combustion aliment\u00E9es en combustible solide ou liquide d\u2019une puissance nominale utile sup\u00E9rieure \u00E0 7 kW et inf\u00E9rieure \u00E0 20 MW b) aux installations de combustion aliment\u00E9es en combustible gazeux d\u2019une puissance nominale utile sup\u00E9rieure \u00E0 3 MW et inf\u00E9rieure \u00E0 20 MW.",
       "title_short": "R\u00E8glement grand-ducal du 24 avril 2018 relatif \u00E0 la limitation des \u00E9missions en provenance des installations de combustion moyennes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20240608/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e853e6cb0688301ecc09e22a3e7af4321fd0f910a2ce4bd01b533f1bdcc48440",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20240608/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/24/a331/consolide/20240608/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "15fe97be9d7ae48c6e6378985dcd67b728cda43c44b7831431e27bec160b1040"
+  "record_sha256": "811802b72fddd13064472eb4a55ec18f822390578429a35927c061284a38510e"
 }

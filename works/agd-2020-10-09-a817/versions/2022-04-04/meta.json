@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/04/2022 : Arr\u00EAt\u00E9 grand-ducal du 9 octobre 2020 portant institution de la Maison du Grand-Duc.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/20220404/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7e0b9d3feb718672f3ae9c48dfaecfeedb09e15c2b6602400723ae9f93645114",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/20220404/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2020/10/09/a817/consolide/20220404/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5a0ba876780e4f410b612e6cb9c5ae775b92bb72fba520150c72fd2670db74b9"
+  "record_sha256": "f820fb43ef640318f1f8a535cd177406edddf0e6d5bf4eea2e3af4914a3fa22b"
 }

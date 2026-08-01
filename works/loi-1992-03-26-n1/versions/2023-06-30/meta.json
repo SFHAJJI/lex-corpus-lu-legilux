@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/06/2023 : Loi modifi\u00E9e du 26 mars 1992 sur l\u0027exercice et la revalorisation de certaines professions de sant\u00E9, Texte coordonn\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20230630/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5d68a308d70c161accaa3eb8343a8745203f889a5962993489c934bda2bb7fdb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20230630/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20230630/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2b7267b072b54d5be54e9e549880b48d2747084b0eb4a1f8b5782116c8ea97df"
+  "record_sha256": "7bffb18152ce481cf7ac9061a423c249a636e150d552ed59055b5a170b9bff74"
 }

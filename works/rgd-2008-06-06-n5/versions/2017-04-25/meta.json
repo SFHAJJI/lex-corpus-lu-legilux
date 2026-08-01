@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/04/2017 : R\u00E8glement grand-ducal du 6 juin 2008 d\u00E9terminant les conditions g\u00E9n\u00E9rales et les modalit\u00E9s du recrutement centralis\u00E9 applicables \u00E0 certains employ\u00E9s occup\u00E9s dans les administrations et services de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/06/06/n5/consolide/20170425/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "78acf9183dd3dde77c5b48d614e1f1c00f65e4ec37ea8b672da239847f31c538",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/06/06/n5/consolide/20170425/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/06/06/n5/consolide/20170425/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9c4d689dd977e8d7b2778584ae02b6d45087474cc526d46701708fb4afacda1a"
+  "record_sha256": "d80b3e72ed0c2334c592c25a035963c57267e9e7dcc1ff94c3454dbe6628a8c9"
 }

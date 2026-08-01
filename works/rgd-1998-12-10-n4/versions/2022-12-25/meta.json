@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/12/2022 : R\u00E8glement grand-ducal du 10 d\u00E9cembre 1998 portant organisation et fonctionnement de la Commission d\u0027Harmonisation en ex\u00E9cution de l\u0027article 15 de la loi du 8.9.1998 r\u00E9glant les relations entre l\u0027\u00C9tat et les organismes oeuvrant dans les domaines social, familial et th\u00E9rapeutique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/10/n4/consolide/20221225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33ca43dc4526a27c73fabdde6b6840f7ffcf08caf0269b2784255a767d2b45de",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/10/n4/consolide/20221225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/10/n4/consolide/20221225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "28603d76193a4e899961e17e3c22c4229e759a575a16b7184dd2a704fae47eea"
+  "record_sha256": "6cb160faea0f3f91b0b528c627cf87a89418bb247cbcb2eb59c93a448bc43565"
 }

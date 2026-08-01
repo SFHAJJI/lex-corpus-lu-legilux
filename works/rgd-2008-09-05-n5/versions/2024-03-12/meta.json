@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/03/2024 : R\u00E8glement grand-ducal du 5 septembre 2008 relatif \u00E0 la composition et au fonctionnement \\n1. de la commission consultative des \u00E9trangers; \\n2. de la commission consultative pour travailleurs salari\u00E9s; \\n3. de la commission consultative pour travailleurs ind\u00E9pendants.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20240312/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "162b0a5eb03cc2da24a7e6d3d323683548797fa8700317fa93486a7cf78531bd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20240312/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n5/consolide/20240312/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dcd38f1fe819595af05f706dd34af0124b50b824260965caae3835a27ad2a2fb"
+  "record_sha256": "af8f1fb3543642601a9db9966f2b145ba518e5d82cab772511101467ad9f31c6"
 }

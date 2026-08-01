@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 11 janvier 2010 portant organisation de la validation des acquis de l\u0027exp\u00E9rience pour la d\u00E9livrance des brevets, dipl\u00F4mes et certificats pr\u00E9vue au chapitre V de la loi du 19 d\u00E9cembre 2008 portant r\u00E9forme de la formation professionnelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "56c4f01a8a161a5008a3df03749653ab85e278ee508a0df070db1b1524e018e9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "682cea8bc4b139841d685c959d3733fb4b4b3874cf78eb83bde230e699993479"
+  "record_sha256": "1d12d437729a509c52d971a9072be245dee5b0be063391c54642c2316eeffe8f"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/01/2011 : R\u00E8glement grand-ducal du 27 septembre 2004 portant ex\u00E9cution de la loi du 30 avril 2004 autorisant le Fonds national de solidarit\u00E9 \u00E0 participer aux prix des prestations fournies dans le cadre de l\u0027accueil aux personnes admises dans un centre int\u00E9gr\u00E9 pour personnes \u00E2g\u00E9es, une maison de soins ou un autre \u00E9tablissement m\u00E9dico-social assurant un accueil de jour et de nuit.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/27/n3/consolide/20110103/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9e339efac73192d4fdca243632f00785c667cf030e8ee77ee680dd1ae96002bd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/27/n3/consolide/20110103/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/27/n3/consolide/20110103/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a01d8b3c23be0e9995e68e50e466fc1c9326c6ecf8e341b20a77db1d5d602d26"
+  "record_sha256": "7fad08d39349984d882da2ae19b744f14666583d83c78c7b95c405740ec7bcbf"
 }

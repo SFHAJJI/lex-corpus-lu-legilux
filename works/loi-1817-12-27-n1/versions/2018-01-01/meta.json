@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2018 : Loi du 27 D\u00E9cembre 1817, pour la perception du Droit de Succession.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1817/12/27/n1/consolide/20180101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a8975e07f3d34b217b8461cef19798262ef97917bcd85209c7d48ba9598cee75",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1817/12/27/n1/consolide/20180101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1817/12/27/n1/consolide/20180101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "529d5e03a7f1919034e0fc8c48a69c58b7f4508d3a61578b6caf72f9fc43ab42"
+  "record_sha256": "8ebb5909e085b0c83996427c3f998291c962735ae840aaaef93a91e2f546679d"
 }

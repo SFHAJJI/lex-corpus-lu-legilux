@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/06/2022 : R\u00E8glement grand-ducal du 10 mars 2021 arr\u00EAtant les modalit\u00E9s et les programmes des examens de fin de stage en formation sp\u00E9ciale et des examens de promotion \u00E0 l\u2019Administration du cadastre et de la topographie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/03/10/a200/consolide/20220614/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4cb00798d2b0b060216e6813c0180543b3b026a3a0ea7ac57f91694d8f13ae1a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/03/10/a200/consolide/20220614/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/03/10/a200/consolide/20220614/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5f89c003484dcd2ba3e0527a04c7287004b79e25059b862182869a6ccfa6afd4"
+  "record_sha256": "0e0d5ab4b7a8b3936581fe8b6aa5403139bab3210a776d8464ad670a5260f17c"
 }

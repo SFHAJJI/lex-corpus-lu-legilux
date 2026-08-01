@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 25 octobre 1999 d\u00E9terminant le fonctionnement de la commission de surveillance pr\u00E9vue \u00E0 l\u2019article 72 du Code des assurances sociales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aaa38c89e9bc314f02e4a554438f5da33bb46a462d84f07e902131e72b341d6a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/10/25/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ce11e4a96e3ee16709987e2c7f5820ccca318653ed5eb14359ebcbdd83282122"
+  "record_sha256": "d01fe8d38bd3bfe2130c6e600c47bb04e0a931db58ec1fba65215eeca1ef25b6"
 }

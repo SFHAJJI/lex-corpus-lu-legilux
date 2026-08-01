@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/11/2022 : R\u00E8glement grand-ducal du 3 octobre 2022 d\u00E9terminant les modalit\u00E9s de l\u2019examen-concours de recrutement du personnel enseignant de l\u2019enseignement secondaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/10/03/a506/consolide/20221113/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "13d0995d59ffd1da37fecce95b7530635a52fb7d8c7be2c3bf4430e428e5d0fa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/10/03/a506/consolide/20221113/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/10/03/a506/consolide/20221113/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "281ffdd0ca59e534c4196045d59cb0663bc607f63638912be6bdeab27f2634cd"
+  "record_sha256": "558e5db1855a01c3403a5e1024bce9affc6ef11f980895da2214b700cda2863e"
 }

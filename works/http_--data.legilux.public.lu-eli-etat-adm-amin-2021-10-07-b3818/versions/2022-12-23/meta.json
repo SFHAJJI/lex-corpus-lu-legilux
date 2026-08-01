@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/12/2022 : Arr\u00EAt\u00E9 minist\u00E9riel du 7 octobre 2021 portant nomination des membres de la Commission \u00AB\u00A0Aide \u00E0 la presse\u00A0\u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/adm/amin/2021/10/07/b3818/consolide/20221223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9a23585aa3e5feff2798bfa1f4557a126c7a4308bcebd253cb5fe3581dfddf94",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/amin/2021/10/07/b3818/consolide/20221223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/adm/amin/2021/10/07/b3818/consolide/20221223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ebc51cee5f3b28015f3fce3b1cb6557992844dc0321a6c1ee6bf4cfee446b6a6"
+  "record_sha256": "de6e372c39def1d392481480476873e93fbadb1df5e47caa7f0db3cec5dcabe3"
 }

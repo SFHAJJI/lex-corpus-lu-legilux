@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/03/2023 : R\u00E8glement grand-ducal du 25 ao\u00FBt 2021 d\u00E9terminant la proc\u00E9dure de recherche de nouveaux emplacements pour d\u00E9charges r\u00E9gionales pour d\u00E9chets inertes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0d0c369a98a3e7d66de84325894616d3f24d99312b759caa1ad74b21ccf1ed1c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/08/25/a679/consolide/20230311/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "879a27b895310b92a99358cab8544fd4d71725061ea062d5d977abbcf880efdd"
+  "record_sha256": "de5666657853bc12dbb91b78832bddd4d131abe0c586c5e0c61a3964613af46f"
 }

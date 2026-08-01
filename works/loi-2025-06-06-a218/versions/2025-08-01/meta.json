@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2025 : Loi du 6 juin 2025 portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat ;\\n2\u00B0 de la loi modifi\u00E9e du 25 mars 2015 d\u00E9terminant le r\u00E9gime et les indemnit\u00E9s des employ\u00E9s de l\u2019\u00C9tat ;\\n3\u00B0 de la loi modifi\u00E9e du 25 mars 2015 fixant les conditions et modalit\u00E9s de l\u2019acc\u00E8s du fonctionnaire \u00E0 un groupe de traitement sup\u00E9rieur au sien et de l\u2019employ\u00E9 de l\u2019\u00C9tat \u00E0 un groupe d\u2019indemnit\u00E9 sup\u00E9rieur au sien ;\\n4\u00B0 de la loi modifi\u00E9e du 18 juillet 2018 sur la Police grand ducale ;\\nen vue de l\u2019harmonisation des carri\u00E8res inf\u00E9rieures des fonctionnaires et employ\u00E9s de l\u2019\u00C9tat.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/06/06/a218/consolide/20250801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "52127083cd75b8e2b175ef769595aa28d156cb11c44977fe7637215549ed6b05",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/06/06/a218/consolide/20250801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2025/06/06/a218/consolide/20250801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bae4794757396e4c0b4622f7f2966c01f52dfa24f744e52115f2b8c08b3c8798"
+  "record_sha256": "848f3ea0c1ccf9401ae4d12180734c449019909a7afd12eacc6aaf1df7a58fa1"
 }

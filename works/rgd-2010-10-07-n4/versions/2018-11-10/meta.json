@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/11/2018 : R\u00E8glement grand-ducal du 7 octobre 2010 \u00E9tablissant le code de d\u00E9ontologie de certaines professions de sant\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/10/07/n4/consolide/20181110/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f8338549e7ebe7fc0ba9184bfaa40347ca3f8e3ed60d3c8475b8c58e931f6bf5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/10/07/n4/consolide/20181110/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/10/07/n4/consolide/20181110/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c69e6574fc9c4cbc16d42f957a24e2f342f6d5e9ac30af55df6bd4c25f37a6b9"
+  "record_sha256": "f40d7558c23e205def5ff5c9c9e9554e9d89f7cdc2ff7dace37f7fb5bab8b98c"
 }

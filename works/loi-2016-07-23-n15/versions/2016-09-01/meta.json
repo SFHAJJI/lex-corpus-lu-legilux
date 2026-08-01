@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/09/2016 : Loi du 23 juillet 2016 r\u00E9glant le montant et les modalit\u00E9s d\u0027octroi du soutien financier annuel \u00E0 la communaut\u00E9 musulmane du Grand-Duch\u00E9 de Luxembourg, arr\u00EAtant les exemptions en mati\u00E8re d\u0027acquisition d\u0027immeubles affect\u00E9s \u00E0 l\u0027exercice du culte musulman et conf\u00E9rant la personnalit\u00E9 juridique \u00E0 l\u0027Assembl\u00E9e de la Communaut\u00E9 musulmane du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/consolide/20160901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "234764bb0ac622e38e992015310b8ef78eebba2c36ade28060b68d1e5c702b5f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/consolide/20160901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n15/consolide/20160901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a2c7958b42a1a2f3528f36bf45fc3902279a16ff874381a648c706ead4984162"
+  "record_sha256": "8fe921c9181e9e086419c5964c295b53f7a9e29ead2752f0fe556916af7173dd"
 }

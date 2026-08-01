@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/09/2020 : Loi du 24 juin 2020 portant introduction d\u2019une mesure temporaire relative \u00E0 l\u2019application de l\u2019article 12 de la loi modifi\u00E9e du 19 juillet 2004 concernant l\u2019am\u00E9nagement communal et le d\u00E9veloppement urbain dans le cadre de la lutte contre le Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/consolide/20200923/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9d25c085867cf190e40af5394f7fe9d9b9978c2f89c2e77a519f7ad876e4b0b7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/consolide/20200923/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a532/consolide/20200923/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6f97bb19b96303c04057a7d67660e04d86b74b7b0a53d0be56c8271d0d6366e8"
+  "record_sha256": "ab4ead26bd511f10a9f4bb624c191b75ce99378ca9a6a5ca7a6bb3e346891547"
 }

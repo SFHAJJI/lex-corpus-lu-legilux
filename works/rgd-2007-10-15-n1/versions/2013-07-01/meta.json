@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 15 octobre 2007 concernant l\u0027organisation et le fonctionnement de l\u0027observatoire de l\u0027environnement naturel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/10/15/n1/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "30cce4f5b0bb64a171356ed3dea13c5421cfe612c981a85b9cc7f67ada9423cc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/10/15/n1/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/10/15/n1/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7fff2993620f1e139a9ad48babf485370815e2638609a79a38e9a559c281fd9a"
+  "record_sha256": "e55f35a64ab81bd3e541c7403eaf65342f67c0e5e8a8e0cb8b14c333d2e5e966"
 }

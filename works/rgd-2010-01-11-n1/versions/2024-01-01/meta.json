@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 11 janvier 2010 portant organisation de la validation des acquis de l\u0027exp\u00E9rience pour la d\u00E9livrance des brevets, dipl\u00F4mes et certificats pr\u00E9vue au chapitre V de la loi du 19 d\u00E9cembre 2008 portant r\u00E9forme de la formation professionnelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "48f6718c093240b305eb925ec8c684fd1c21a925e7129730d080ccba128a3204",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/01/11/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "28c30408e27143c51acfcd90cb6d3b4c511eb8f1213d3541652c883e0284b948"
+  "record_sha256": "c85aaa211458f386b5ba59da08c7cab15e4561baf00aefaaffa0abd0d2e2d59a"
 }

@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 13/08/2023 : R\u00E8glement grand-ducal du 14 d\u00E9cembre 2018 portant ex\u00E9cution de la loi du 27 juin 2018 relative au contr\u00F4le des exportations et modifiant le r\u00E8glement grand-ducal du 2 avril 1993 relatif \u00E0 l\u2019ex\u00E9cution des actes \u00E9manant des institutions comp\u00E9tentes des Communaut\u00E9s europ\u00E9ennes touchant la mati\u00E8re agricole.",
       "title_short": "R\u00E8glement grand-ducal du 14 d\u00E9cembre 2018 relatif au contr\u00F4le des exportations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "73eed6243cbc1feec12538c8d2b82ef7b974c8b206043b5f24b9a4bd5e3d94b9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/14/a1158/consolide/20230813/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d26153e4e3a932f970e79c325f91831404c39b3aa575a9954f0a1076b32e63eb"
+  "record_sha256": "c89a82bbbc92dc5fd9a0138528daf2a08d916ac0c07826660c2c8790a9341e0e"
 }

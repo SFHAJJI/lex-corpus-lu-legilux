@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : R\u00E8glement grand-ducal du 5 mars 2004 relatif \u00E0 la repr\u00E9sentation du personnel au sein des administrations, services et \u00E9tablissements publics de l\u2019Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n5/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "78ebcc7b3deafdc9230748617bdb12afd29dcf7b504f4be31bcb1437342f1ef4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n5/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n5/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4e61b12769532c5111ce67b26ec6bdb71ef74c3af481efcc904efd0d855e12c7"
+  "record_sha256": "483e986f0d58ee339297b8cb9cdeaf39b7f0c747b93925493fdd52108e691e61"
 }

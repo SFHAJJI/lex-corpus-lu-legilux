@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2025 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2010 portant nouvelle fixation\\n1) de l\u2019indemnit\u00E9 de remplacement due aux d\u00E9tenteurs de l\u2019attestation habilitant \u00E0 faire des remplacements engag\u00E9s sur base des dispositions de l\u2019article 27 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u2019enseignement fondamental ;\\n2) de l\u2019indemnit\u00E9 due pour le\u00E7ons suppl\u00E9mentaires assur\u00E9es par les d\u00E9tenteurs de l\u2019attestation habilitant \u00E0 faire des remplacements engag\u00E9s sur base de l\u2019article 27 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u2019enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20250915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "773dbf68246dcfdfeb310da936bee0343cacffd042571225b7c2ab9d31403a12",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20250915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n3/consolide/20250915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2249f413bab18e5157783262d29d06ddb7839f9fad6c0ff9841d9fe7e40d059a"
+  "record_sha256": "538831435bbe55b5f8e18cca4d03aaa5ebac4fc5deb8235e73e3b316c2957043"
 }

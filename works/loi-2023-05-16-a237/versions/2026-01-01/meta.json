@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 16 mai 2023 relative \u00E0 l\u2019\u00E9change automatique et obligatoire des informations d\u00E9clar\u00E9es par les Op\u00E9rateurs de Plateforme et portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 19 d\u00E9cembre 2008 ayant pour objet la coop\u00E9ration interadministrative et judiciaire et le renforcement des moyens de l\u2019Administration des contributions directes, de l\u2019Administration de l\u2019enregistrement et des domaines et de l\u2019Administration des douanes et accises et portant modification de\\n- la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e;\\n- la loi g\u00E9n\u00E9rale des imp\u00F4ts (\u00AB\u00A0Abgabenordnung\u00A0\u00BB);\\n- la loi modifi\u00E9e du 17 avril 1964 portant r\u00E9organisation de l\u2019Administration des contributions directes;\\n- la loi modifi\u00E9e du 20 mars 1970 portant r\u00E9organisation de l\u2019Administration de l\u2019enregistrement et des domaines;\\n- la loi modifi\u00E9e du 27 novembre 1933 concernant le recouvrement des contributions directes et des cotisations d\u2019assurance sociale ;\\n2\u00B0 de la loi du 21 juillet 2012 portant transposition de la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l\u2019assistance mutuelle en mati\u00E8re de recouvrement des cr\u00E9ances relatives aux taxes, imp\u00F4ts, droits et autres mesures ;\\n3\u00B0 de la loi modifi\u00E9e du 29 mars 2013 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal ;\\n4\u00B0 de la loi modifi\u00E9e du 18 d\u00E9cembre 2015 relative \u00E0 la Norme commune de d\u00E9claration (NCD) ;\\n5\u00B0 de la loi modifi\u00E9e du 23 d\u00E9cembre 2016 relative \u00E0 la d\u00E9claration pays par pays ;\\n6\u00B0 de la loi modifi\u00E9e du 25 mars 2020 relative aux dispositifs transfronti\u00E8res devant faire l\u2019objet d\u2019une d\u00E9claration ;\\n7\u00B0 de la loi modifi\u00E9e du 25 mars 2020 instituant un syst\u00E8me \u00E9lectronique central de recherche de donn\u00E9es concernant des comptes IBAN et des coffres-forts ;\\nen vue de transposer la directive 2021/514 du Conseil du 22 mars 2021 modifiant la directive 2011/16/UE en ce qui concerne l\u2019\u00E9change automatique et obligatoire d\u2019informations dans le domaine fiscal.\\n",
       "title_short": "Loi du 16 mai 2023 relative \u00E0 l\u2019\u00E9change automatique et obligatoire des informations d\u00E9clar\u00E9es par les Op\u00E9rateurs de Plateforme.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/05/16/a237/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "34be96d028fd35b02f0f40f4f908be3b0bf0054a750b7412a3392b2f541a52cc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/05/16/a237/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/05/16/a237/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8e715535f908144e88d438316f41621d05f515897ae9d6db0f68036d09ba3b46"
+  "record_sha256": "36cdd238c6e4b7ff41078a87bf8e4356062f62bfb04e71f3ef7d33eef7074efd"
 }

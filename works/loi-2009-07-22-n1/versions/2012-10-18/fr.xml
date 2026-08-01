@@ -1,0 +1,1809 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2009-07-22" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MTR"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2009-07-22" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2009-07-22" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo</scl:jolux><scl:jolux scl:name="dateEndApplicability">2015-10-01</scl:jolux><scl:jolux scl:name="dateApplicability">2012-10-18</scl:jolux><scl:jolux scl:name="dateDocument">2009-07-22</scl:jolux><scl:jolux scl:name="dateNoLongerInForce">2021-02-22</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MTR</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3429</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/961</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/15</scl:jolux><scl:jolux scl:name="urgentEvent">0</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/3390</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr</scl:jolux><scl:jolux scl:name="transpositionProcess">http://data.legilux.public.lu/event/etat/trans/2004/49</scl:jolux><scl:jolux scl:name="transpositionProcess">http://data.legilux.public.lu/event/etat/trans/2009/149</scl:jolux><scl:jolux scl:name="dateEntryInForce">2009-07-31</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2009/a169</scl:jolux><scl:jolux scl:name="historicalLegalId">2009A2466A</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux><scl:jolux scl:name="publicationDate">2009-07-27</scl:jolux><scl:jolux scl:name="initiatedBy">http://data.legilux.public.lu/resource/authority/legal-institution/MTR</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/docx</scl:jolux>
+<scl:jolux scl:name="transposes">/eli/dir_ue/2004/49/jo</scl:jolux>
+<scl:jolux scl:name="transposes">/eli/dir_ue/2009/149/jo</scl:jolux>
+<scl:jolux scl:name="draft">/eli/etat/proj/pl/20070261</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/1979/04/16/n1/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/dir_ue/1996/48/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/dir_ue/2001/16/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/reg_ue/2004/881/jo</scl:jolux>
+<scl:jolux scl:name="modifies">/eli/etat/leg/loi/1999/06/11/n1/jo</scl:jolux>
+<scl:jolux scl:name="modifies">/eli/etat/leg/loi/1963/06/22/n1/jo</scl:jolux>
+<scl:jolux scl:name="modifies">/eli/etat/leg/loi/2004/06/29/n1/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="titleShort">Loi du 22 juillet 2009 relative à la sécurité ferroviaire.</scl:jolux>
+<scl:jolux scl:name="title">Version consolidée applicable au 18/10/2012 : Loi du 22 juillet 2009 ayant pour objet\nA) la transposition en droit national de la directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires;\nB) de créer un cadre réglementaire dans le domaine de la sécurité ferroviaire;\nC) d'instituer une Administration des Chemins de Fer; et\nD) de modifier \na) la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation et\nb) la loi modifiée du 29 juin 2004 sur les transports publics.</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2009-169-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rights">Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2009/a169/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2009-07-22-n1-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2009-169-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rights">Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2009/a169/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2009/a169/fr/pdf/eli-etat-leg-memorial-2009-a169-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2009-07-31" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2011-12-31" id="e6" originatingExpression="true" source="#rp6" type="amendment"/>
+<eventRef date="2012-10-18" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+<eventRef date="2015-10-01" id="e4" originatingExpression="false" source="#rp4" type="amendment"/>
+<eventRef date="2016-12-31" id="e3" originatingExpression="false" source="#rp3" type="amendment"/>
+<eventRef date="2021-02-22" id="e2" originatingExpression="false" source="#rp2" type="repeal"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_1er"/>
+</textualMod>
+<textualMod id="pm2" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_2"/>
+</textualMod>
+<textualMod id="pm3" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_2"/>
+</textualMod>
+<textualMod id="pm4" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_4"/>
+</textualMod>
+<textualMod id="pm5" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_5"/>
+</textualMod>
+<textualMod id="pm6" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_12"/>
+</textualMod>
+<textualMod id="pm7" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_14"/>
+</textualMod>
+<textualMod id="pm8" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_14"/>
+</textualMod>
+<textualMod id="pm9" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_15"/>
+</textualMod>
+<textualMod id="pm10" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_17"/>
+</textualMod>
+<textualMod id="pm11" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm12" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm13" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/loi/2011/12/14/n2/jo"/>
+<destination href="#art_4"/>
+</textualMod>
+<textualMod id="pm14" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2012/10/15/n1/jo"/>
+<destination href="#art_9"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/loi/2009/07/22/n1/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/loi/2021/02/05/a121/jo" id="rp2" showAs="Loi du 5 février 2021 relative à l’interopérabilité ferroviaire, à la sécurité ferroviaire et à la certification des conducteurs de train."/>
+<passiveRef href="/eli/etat/leg/loi/2016/12/23/n17/jo" id="rp3" showAs="Loi du 23 décembre 2016 portant transposition de la refonte du 1er paquet ferroviaire et modifiant  1. la loi modifiée du 10 mai 1995 relative à la gestion de l'infrastructure ferroviaire;  2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation;  3. la loi modifiée du 22 juillet 2009 relative à la sécurité ferroviaire; et  4. la loi du 3 août 2010 sur la régulation du marché ferroviaire."/>
+<passiveRef href="/eli/etat/leg/loi/2015/03/25/n3/jo" id="rp4" showAs="Loi du 25 mars 2015 fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’Etat."/>
+<passiveRef href="/eli/etat/leg/rgd/2012/10/15/n1/jo" id="rp5" showAs="Règlement grand-ducal du 15 octobre 2012 fixant le nombre des emplois des différentes fonctions du cadre fermé pour les diverses carrières dans les administrations et services de l’Etat."/>
+<passiveRef href="/eli/etat/leg/loi/2011/12/14/n2/jo" id="rp6" showAs="Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant  1. la loi du 22 juillet 2009 sur la sécurité ferroviaire,  2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation."/>
+</references>
+<notes scl:type="modification" source="#rp6">
+<note id="M1" marker="1" refersTo="pm1" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M2" marker="2" refersTo="pm2" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M3" marker="3" refersTo="pm3" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M4" marker="4" refersTo="pm4" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M5" marker="5" refersTo="pm5" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M6" marker="6" refersTo="pm6" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M7" marker="7" refersTo="pm7" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M8" marker="8" refersTo="pm8" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M9" marker="9" refersTo="pm9" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M10" marker="10" refersTo="pm10" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M11" marker="11" refersTo="pm11" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M12" marker="12" refersTo="pm12" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M13" marker="13" refersTo="pm13" title="A|2011-12-27|2011-12-14|L|273">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/14/n2/jo">Loi du 14 décembre 2011 portant transposition de la directive 2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008 modifiant la directive 2004/49/CE concernant la sécurité des chemins de fer communautaire (Directive sur la sécurité des chemins de fer) et modifiant 1. la loi du 22 juillet 2009 sur la sécurité ferroviaire, 2. la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp5">
+<note id="M14" marker="14" refersTo="pm14" title="A|2012-10-18|2012-10-15|RGD|224">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2012/10/15/n1/jo">Règlement grand-ducal du 15 octobre 2012 fixant le nombre des emplois des différentes fonctions du cadre fermé pour les diverses carrières dans les administrations et services de l’Etat.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version consolidée applicable au 18/10/2012 : Loi du 22 juillet 2009 ayant pour objet</p>
+<ol scl:symbol="A)">
+<li>la transposition en droit national de la directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004 concernant la sécurité des chemins de fer communautaires;</li>
+<li>de créer un cadre réglementaire dans le domaine de la sécurité ferroviaire;</li>
+<li>d'instituer une Administration des Chemins de Fer; et</li>
+<li>de modifier <ol scl:symbol="a)">
+<li>la loi modifiée du 11 juin 1999 relative à l'accès à l'infrastructure ferroviaire et à son utilisation et</li>
+<li>la loi modifiée du 29 juin 2004 sur les transports publics.</li>
+</ol> </li>
+</ol>
+</longTitle>
+</preface>
+<body>
+<chapter id="chapitre_i">
+<num>
+<span scl:style-format="n">
+<i>Chapitre I</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Champ d’application et définitions</i>
+</span> </heading>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_1er/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<alinea>
+<content>
+<p>La présente loi détermine les exigences en matière de sécurité applicables au système ferroviaire luxembourgeois, y compris la gestion sûre de l'infrastructure et du trafic, ainsi que l'interaction entre les entreprises ferroviaires et le gestionnaire de l'infrastructure ferroviaire.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm1"/>Sont exclus du champ d’application de la présente loi les tramways et les infrastructures ferroviaires privées qui sont utilisées exclusivement par leur propriétaire pour ses propres opérations de transport de marchandises, de même que les véhicules à caractère patrimonial qui circulent exceptionnellement sur les réseaux nationaux et ceci seulement dans l’intérêt de préserver, de maintenir et de promouvoir le chemin de fer et son histoire, à condition qu’ils respectent les règles et réglementations nationales en matière de sécurité afin de garantir une circulation en toute sécurité de ces véhicules. De même sont exclus les chemins de fer à caractère patrimonial, muséologique et touristique qui disposent de leurs propres réseaux, y compris les ateliers, véhicules et personnels.<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>En ce qui concerne les réseaux qui sont séparés sur le plan fonctionnel du reste du système ferroviaire et qui sont destinés exclusivement à l'exploitation de services de transport de voyageurs locaux ainsi que les personnes et associations opérant exclusivement sur ces réseaux, un règlement grand-ducal arrête les conditions de sécurité spécifiques applicables à l'exploitation ferroviaire de ces réseaux.</p>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_2/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<alinea>
+<content>
+<p>Aux fins de la présente loi, on entend par: </p>
+<ol scl:symbol="a)">
+<li>«système ferroviaire», l'ensemble des sous-systèmes pour les domaines structurels et fonctionnels, tels qu'ils sont définis dans les <ref href="/eli/dir_ue/1996/48/jo" id="289a9d5e-5068-4e63-ba83-da4f96f20847">directives modifiées 96/48/CE</ref> et <ref href="/eli/dir_ue/2001/16/jo">2001/16/CE,</ref> ainsi que la gestion et l'exploitation du système dans son ensemble;</li>
+<li> <p>«gestionnaire de l'infrastructure», entreprise chargée en particulier de l'établissement et de l'entretien de l'infrastructure ferroviaire, telle qu'elle est définie à l'article 3 de la <ref href="/eli/dir_ue/1991/440/jo" id="b38600e6-f6cc-4789-8b6f-762eb930d2fd">directive 91/440/CEE</ref> modifiée; </p> <p>la gestion du réseau est confiée à la Société Nationale des Chemins de Fer Luxembourgeois, en abrégé CFL, ci-après dénommée le gestionnaire de l'infrastructure; </p> </li>
+<li>«entreprise ferroviaire», toute entreprise à statut privé ou public dont l'activité principale est la fourniture de prestations de transport de marchandises et/ou de voyageurs par chemin de fer, la traction devant obligatoirement être assurée par cette entreprise; ce terme recouvre aussi les entreprises qui assurent uniquement la traction;</li>
+<li>
+<mod class="mod-start" for="#pm2" style="li"/>«système ferroviaire transeuropéen»: le système ferroviaire transeuropéen à grande vitesse et le système ferroviaire transeuropéen conventionnel;</li>
+<li>...<mod class="mod-end" for="#pm2"/>
+<noteRef href="#M2" marker="2"/>
+</li>
+<li>«sous-systèmes», le résultat de la division du système ferroviaire transeuropéen comme indiqué à l'annexe II des <ref href="/eli/dir_ue/1996/48/jo" id="ddc69f95-1879-4193-8de5-80e0891a1a45">directives modifiées 96/48/CE</ref> et <ref href="/eli/dir_ue/2001/16/jo" id="f12b46ef-9132-4fb0-baf4-bde82b120a1b">2001/16/CE</ref>. Ces sous-systèmes, pour lesquels des exigences essentielles doivent être définies, sont de nature structurelle ou fonctionnelle;</li>
+<li>«interopérabilité», l'aptitude du système ferroviaire transeuropéen à permettre la circulation sûre et sans rupture de trains en accomplissant les performances requises pour ces lignes. Cette aptitude repose sur l'ensemble des conditions réglementaires, techniques et opérationnelles qui doivent être remplies pour satisfaire aux exigences essentielles;</li>
+<li>«spécifications techniques d'interopérabilité» en abrégé «STI», les spécifications dont chaque sous-système ou partie de sous-système fait l'objet en vue de satisfaire aux exigences essentielles et d'assurer l'interopérabilité des systèmes ferroviaires transeuropéens à grande vitesse et conventionnel, tels qu'ils sont définis dans les <ref href="/eli/dir_ue/1996/48/jo" id="e6caf8b9-a3e0-4cda-8d20-a1255976500b">directives modifiées 96/48/CE</ref> et <ref href="/eli/dir_ue/2001/16/jo" id="31ce435d-3be7-429d-89ae-30667905c801">2001/16/CE</ref>;</li>
+<li>«constituants d'interopérabilité», tout composant élémentaire, groupe de composants, sous-ensemble ou ensemble complet d'équipements incorporés ou destinés à être incorporés dans un sous-système, dont dépend directement ou indirectement l'interopérabilité du système ferroviaire à grande vitesse ou conventionnel, tels qu'ils sont définis dans les <ref href="/eli/dir_ue/1996/48/jo" id="ca4537e8-d26d-48e4-bf72-4c14006fae47">directives modifiées 96/48/CE</ref> et <ref href="/eli/dir_ue/2001/16/jo" id="94df7e05-186b-4ebf-a6ca-0df82b0f58ad">2001/16/CE</ref>. La notion de «constituant» recouvre des objets matériels mais aussi des objets immatériels comme les logiciels;</li>
+<li>«objectifs de sécurité communs» en abrégé «OSC», les niveaux de sécurité que doivent au moins atteindre les différentes parties du système ferroviaire (comme le système ferroviaire conventionnel, le système ferroviaire à grande vitesse, les tunnels ferroviaires de grande longueur ou les lignes uniquement utilisées pour le transport de marchandises) et le système dans son ensemble, exprimés sous forme de critères d'acceptation des risques;</li>
+<li>«méthodes de sécurité communes» en abrégé «MSC», les méthodes qui sont élaborées pour décrire comment évaluer les niveaux de sécurité, la réalisation des objectifs de sécurité et la conformité à d'autres exigences en matière de sécurité;</li>
+<li>«système de gestion de la sécurité», l'organisation et les dispositions établies par un gestionnaire de l'infrastructure ou par une entreprise ferroviaire pour assurer la gestion sûre de ses activités;</li>
+<li>«accident», un événement indésirable ou non intentionnel et imprévu, ou un enchaînement particulier d'événements de cette nature, ayant des conséquences préjudiciables; les accidents sont ventilés suivant les types ci-après: collisions, déraillements, accidents aux passages à niveau, accidents de personnes causés par le matériel roulant en marche, incendies et autres;</li>
+<li>«accident grave», toute collision de trains ou tout déraillement de train faisant au moins un mort ou au moins cinq personnes grièvement blessées ou d'importants dommages au matériel roulant, à l'infrastructure ou à l'environnement, et tout autre accident similaire ayant des conséquences évidentes sur la réglementation ou la gestion de la sécurité ferroviaire; on entend par «importants dommages» des dommages qui peuvent être immédiatement estimés par un organisme d'enquête à un total d'au moins 2 millions d'euros;</li>
+<li>«incident», tout événement, autre qu'un accident ou un accident grave, lié à l'exploitation de trains et affectant la sécurité d'exploitation;</li>
+<li>«Agence ferroviaire européenne», en abrégé «Agence», l'agence communautaire pour la sécurité ferroviaire et l'interopérabilité, instituée par le <ref href="/eli/reg_ue/2004/881">règlement 2004/881/CE</ref> du Parlement européen et du Conseil du 29 avril 2004 instituant une Agence ferroviaire européenne;</li>
+<li>«Administration des Chemins de Fer», l'administration publique instituée par la présente loi comme organisme national chargé des tâches relatives à la sécurité des chemins de fer conformément à la <ref href="/eli/dir_ue/2004/49/jo" id="e2ba1604-6247-4220-9b78-a2a2cdd2834e">directive 2004/49/CE</ref>.</li>
+<li>
+<mod class="mod-start" for="#pm3" style="li"/>«entité chargée de l’entretien», une entité chargée de l’entretien d’un véhicule et inscrite en tant que telle dans le registre national des véhicules (RNV);</li>
+<li>«véhicule», un véhicule ferroviaire apte à circuler sur ses propres roues sur une ligne ferroviaire, avec ou sans traction. Un véhicule se compose d’un ou plusieurs sous-systèmes de nature structurelle et fonctionnelle ou de parties de ces sous-systèmes;</li>
+<li>«détenteur», la personne ou l’entité, propriétaire du véhicule ou disposant d’un droit de disposition sur celui-ci, qui exploite ledit véhicule à titre de moyen de transport et est inscrite en tant que telle au registre national des véhicules;</li>
+<li>«registre national des véhicules», le registre des véhicules autorisés à circuler sur le réseau ferré luxembourgeois.<mod class="mod-end" for="#pm3"/>
+<noteRef href="#M3" marker="3"/>
+</li>
+</ol>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_ii">
+<num>
+<span scl:style-format="n">
+<i>Chapitre II</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Administration des Chemins de Fer</i>
+</span>
+</heading>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_3/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<alinea>
+<content>
+<p>Il est créé une Administration des Chemins de Fer (ACF), appelée ci-après «Administration», qui est placée sous l'autorité du membre du gouvernement ayant les chemins de fer dans ses attributions, ci-après désigné le Ministre. Elle est dirigée par un Directeur de l'Administration des Chemins de Fer qui en est le supérieur hiérarchique.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le personnel de l'Administration est composé des fonctionnaires et employés recrutés conformément aux articles 9 et 10 de la présente loi. L'Administration peut s'assurer l'assistance technique d'experts selon ses besoins.</p>
+</content>
+</alinea>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_4/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<paragraph id="paragraph_1">
+<num>1.</num>
+<alinea>
+<content>
+<p>L'Administration veille au maintien et à l'amélioration du niveau de sécurité dans le domaine ferroviaire en conformité avec les dispositions nationales et internationales applicables. A cette fin, elle accomplit de manière ouverte, non discriminatoire et transparente notamment les missions suivantes: </p>
+<ol scl:symbol="a)">
+<li>
+<mod class="mod-start" for="#pm13" style="li"/>veiller à ce que les véhicules soient dûment enregistrés et que les informations relatives à la sécurité figurant dans le registre national soient exactes et tenues à jour.<mod class="mod-end" for="#pm13"/>
+<noteRef href="#M13" marker="13"/>
+</li>
+<li>instruire les dossiers en vue de l'émission, du renouvellement, du réexamen, de la modification, du retrait et de la suspension par le Ministre des certificats et agréments de sécurité conformément aux dispositions de la présente loi et des règlements grand-ducaux pris en son exécution ainsi que vérifier que les conditions de validité en sont remplies;</li>
+<li>vérifier la conformité des constituants d'interopérabilité aux exigences prévues par la législation et la réglementation en vigueur;</li>
+<li>autoriser en application de la législation et de la réglementation en vigueur la mise en service des sous-systèmes de nature structurelle constituant le système ferroviaire implanté ou exploité au Luxembourg et vérifier qu'ils sont exploités et entretenus conformément aux exigences essentielles les concernant;</li>
+<li>accomplir les missions lui dévolues conformément à la présente loi et aux règlements grand-ducaux pris en son exécution dans le cadre de la mise en service du matériel roulant utilisé sur le réseau ferré luxembourgeois, à savoir notamment autoriser la mise en service du matériel roulant nouveau ou substantiellement modifié qui n'est pas encore couvert par une STI et vérifier qu'il est exploité et entretenu conformément aux exigences essentielles le concernant;</li>
+<li>accomplir les missions lui dévolues conformément à la présente loi et aux règlements grand-ducaux pris en son exécution dans le cadre de la formation et de la certification du personnel affecté à des tâches de sécurité sur le réseau ferré luxembourgeois;</li>
+<li>vérifier, promouvoir, faire appliquer, développer et publier le cadre réglementaire en matière de sécurité ferroviaire, y compris le système des règles nationales de sécurité;</li>
+<li>assister et conseiller le Ministre dans l'exécution de ses attributions en matière de sécurité et d'interopérabilité ferroviaires;</li>
+<li>apporter son concours à des études et activités en rapport avec la sécurité ferroviaire;</li>
+<li>coopérer avec ses homologues, en particulier en vue d'une harmonisation des critères de certification en matière de sécurité ferroviaire.</li>
+<li>
+<mod class="mod-start" for="#pm4" style="li"/>vérifier, dans le cadre des audits relatifs aux wagons de fret, à ce que l’entité chargée de l’entretien soit certifiée conformément au cadre légal communautaire et national;</li>
+<li>tenir, mettre à jour et adapter le registre national des véhicules en veillant à ce que les véhicules soient dûment inscrits dans le registre national des véhicules et à ce que les informations relatives à la sécurité y figurant soient exactes et tenues à jour.<mod class="mod-end" for="#pm4"/>
+<noteRef href="#M4" marker="4"/>
+</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_2">
+<num>2.</num>
+<alinea>
+<content>
+<p>L'Administration se voit confier en outre la mission de garantir à toute entreprise ferroviaire un accès équitable et non discriminatoire à l'infrastructure ferroviaire et d'éviter tout abus de position dominante d'une ou de plusieurs entreprises ferroviaires au détriment des autres. A cette fin, elle assume les fonctions d'organisme de répartition des sillons et d'organisme de tarification de l'infrastructure ferroviaire, telles que prévues respectivement aux articles 22 et 25 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="e21d9840-611b-47e8-9471-85bf5e6b4278" scl:verify="true">loi modifiée du 11 juin 1999</ref> relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_5/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5.</num>
+<alinea>
+<content>
+<p>Avant le premier septembre de chaque année, l'Administration rend compte, dans un rapport écrit, au Ministre de l'exécution de ses missions au cours de l'année précédente. Dans ce rapport, elle relève plus particulièrement: </p>
+<ol scl:symbol="a)">
+<li>les informations sur l'évolution de la sécurité ferroviaire, y compris un inventaire des indicateurs de sécurité communs définis à l'annexe I de la <ref href="/eli/dir_ue/2004/49/jo" id="e431ecc0-adb7-4957-8a45-6b6b97b7a383">directive 2004/49/CE</ref>,</li>
+<li>les modifications importantes apportées aux règles applicables en matière de sécurité ferroviaire,</li>
+<li>l'évolution de la certification et de l'agrément en matière de sécurité, ainsi que</li>
+<li>les résultats de la surveillance du gestionnaire de l'infrastructure ferroviaire et des entreprises ferroviaires et les enseignements qui en ont été tirés.</li>
+<li>
+<mod class="mod-start" for="#pm5" style="li"/>les dérogations qui ont été décidées conformément à l’article 20<i>ter</i>.<mod class="mod-end" for="#pm5"/>
+<noteRef href="#M5" marker="5"/>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Elle publie son rapport annuel et le transmet à l'Agence au plus tard le 30 septembre de l'année suivante.</p>
+</content>
+</alinea>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_6/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6.</num>
+<paragraph id="paragraph_3">
+<num>1.</num>
+<alinea>
+<content>
+<p>Dans la mesure où l'Administration ne dispose pas de spécialistes en nombre ou qualité suffisants pour pouvoir effectuer toutes les inspections ou tous les contrôles exigés dans le cadre de l'accomplissement des missions de l'Administration prévues à la présente loi, le Directeur peut, après en avoir été autorisé par le Ministre, confier des missions à du personnel qualifié appartenant à des autorités de sécurité étrangères ou à une société privée spécialisée, à condition que:</p>
+<ul scl:symbol="custom">
+<li scl:symbol="–">la société privée présente toutes les garanties d'indépendance par rapport au gestionnaire de l'infrastructure ferroviaire ou à l'entreprise ferroviaire visés par ses inspections et contrôles;</li>
+<li scl:symbol="–">l'assistance procurée par du personnel d'une autorité étrangère fasse l'objet d'un contrat passé avec cette autorité;</li>
+<li scl:symbol="–">les procédures pratiquées et les documents utilisés soient conformes au cadre réglementaire luxembourgeois;</li>
+<li scl:symbol="–">les éléments recueillis permettent à l'Administration de prendre une décision en toute connaissance de cause.</li>
+</ul>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_4">
+<num>2.</num>
+<alinea>
+<content>
+<p>Les frais d'inspection et de contrôle sont à arrêter par règlement grand-ducal qui fixe les barèmes.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_5">
+<num>3.</num>
+<alinea>
+<content>
+<p>Pour l'exécution de sa mission, l'Administration peut demander l'assistance du gestionnaire de l'infrastructure et des entreprises ferroviaires. Dans les limites de ce qui est nécessaire à l'exécution des vérifications prévues à l'article 4, elle a le droit de demander rapport aux organes de direction et de prendre connaissance, mais sans les déplacer, des livres, comptes et autres documents de la société visée par l'inspection ou le contrôle.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_6">
+<num>4.</num>
+<alinea>
+<content>
+<p>Quiconque empêche ou entrave sciemment l'accomplissement des missions incombant à l'Administration, est puni d'un emprisonnement de huit jours à un an et d'une amende de 251 à 125.000 euros ou d'une de ces peines seulement.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_7/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 7.</num>
+<paragraph id="paragraph_7">
+<num>1.</num>
+<alinea>
+<content>
+<p>En vue d'obtenir le certificat de sécurité et l'agrément de sécurité prévus à la présente loi, le requérant doit adresser sa demande écrite sous pli recommandé au Directeur de l'Administration des Chemins de Fer.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La demande doit être rédigée en langue française ou allemande. Elle doit être remise en trois exemplaires. Elle indique notamment l'objet de la demande et le relevé des pièces dont le requérant entend se servir. Elle est accompagnée de tous les pièces et documents exigés par la réglementation.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_8">
+<num>2.</num>
+<alinea>
+<content>
+<p>Le requérant peut demander des informations sur les modalités d'obtention des certifications. A cette fin, l'Administration dresse notamment un dossier d'information sur les exigences et met gratuitement tous les documents appropriés à la disposition du requérant. Des éléments d'orientation spécifiques sont fournis aux entreprises ferroviaires qui introduisent une demande de certificat de sécurité concernant des services sur une partie limitée du réseau ferré; ils précisent notamment les règles applicables à la partie du réseau en question.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_9">
+<num>3.</num>
+<alinea>
+<content>
+<p>L'Administration avise les demandes endéans les trois mois à compter du jour où le dossier comportant toutes les pièces utiles au bon déroulement de la procédure lui a été communiqué.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_8/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8.</num>
+<alinea>
+<content>
+<p>Dans la phase d'élaboration des règles nationales de sécurité, l'Administration consulte toutes les parties concernées et intéressées, y compris le gestionnaire de l'infrastructure ferroviaire, les entreprises ferroviaires, les fabricants et les fournisseurs de services d'entretien, les usagers et les représentants du personnel. Les avis des parties intéressées sont réputés favorables s'ils ne sont pas intervenus dans le mois suivant la transmission du projet.</p>
+</content>
+</alinea>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_9/20121018</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2012-10-18</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 9.</num>
+<paragraph id="paragraph_10">
+<num>1.</num>
+<alinea>
+<content>
+<p>En dehors d'un directeur, le cadre du personnel de l'Administration comprend, dans l'ordre hiérarchique, les fonctions et emplois suivants: <mod class="mod-start" for="#pm14"/>
+</p>
+<ol scl:symbol="a)">
+<li> dans la carrière supérieure:<ul scl:symbol="dash">
+<li>un conseiller de direction première classe ou ingénieur première classe ou conseiller de direction ou ingénieur-chef de division;</li>
+<li> des conseillers de direction adjoints ou ingénieurs principaux;</li>
+<li>des attachés de Gouvernement premiers en rang ou ingénieurs inspecteurs; </li>
+<li>des attachés de Gouvernement ou ingénieurs.</li>
+</ul> </li>
+<li> <p>dans la carrière moyenne du rédacteur:</p>
+<ul scl:symbol="dash">
+<li>un inspecteur principal premier en rang;</li>
+<li>un inspecteur principal ou inspecteur;</li>
+<li>des chefs de bureau; </li>
+<li>des chefs de bureaux adjoints;</li>
+<li>des rédacteurs principaux;</li>
+<li> des rédacteurs.</li>
+<li>(…)<mod class="mod-end" for="#pm14"/>
+<noteRef href="#M14" marker="14"/>
+</li>
+</ul> <p>La promotion aux fonctions supérieures à celles de rédacteur principal est subordonnée à la réussite d'un examen de promotion.</p> <p>Lorsqu'un emploi d'une fonction de promotion n'est pas occupé, le nombre des emplois d'une fonction inférieure au grade de la même carrière pourra être temporairement augmenté en conséquence.</p> </li>
+<li> <p>Dans la carrière moyenne de l'ingénieur-technicien:</p> <p>grade de computation de la bonification d'ancienneté: grade 7:</p> <ul scl:symbol="custom">
+<li scl:symbol="–">des ingénieurs-techniciens inspecteurs principaux premiers en rang;</li>
+<li scl:symbol="–">des ingénieurs-techniciens inspecteurs principaux;</li>
+<li scl:symbol="–">des ingénieurs-techniciens inspecteurs;</li>
+<li scl:symbol="–">des ingénieurs-techniciens principaux;</li>
+<li scl:symbol="–">des ingénieurs-techniciens.</li>
+</ul> <p>La promotion aux fonctions supérieures à celles d'ingénieur-technicien principal est subordonnée à la réussite d'un examen de promotion.</p> <p>Lorsqu'un emploi d'une fonction de promotion n'est pas occupé, le nombre des emplois d'une fonction inférieure au grade de la même carrière pourra être temporairement augmenté en conséquence.</p> </li>
+<li>Le cadre prévu au présent paragraphe peut être complété par des employés de l'Etat et des ouvriers de l'Etat dans les limites des crédits budgétaires. En outre, le cadre prévu au présent paragraphe peut être complété par des stagiaires suivant les besoins du service et dans les limites des crédits budgétaires.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_11">
+<num>2.</num>
+<alinea>
+<content>
+<p>Le directeur doit être titulaire d'un diplôme de fin d'études universitaires représentant la sanction finale d'un cycle complet d'études universitaires, homologué ou reconnu conformément aux dispositions législatives en vigueur.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La nomination aux fonctions de directeur est faite au gré du Gouvernement.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_12">
+<num>3.</num>
+<alinea>
+<content>
+<p>Les nominations aux fonctions classées au grade 9 et aux grades supérieures sont faites par le Grand-Duc. Les nominations aux autres grades sont faites par le Ministre.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_13">
+<num>4.</num>
+<alinea>
+<content>
+<p>Sans préjudice des conditions générales d'admission au service de l'Etat, et pour autant qu'elles ne sont pas fixées par la présente loi, les conditions particulières d'admission au stage, de nomination et d'avancement du personnel de l'Administration sont fixées par voie de règlement grand-ducal.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_14">
+<num>5.</num>
+<alinea>
+<content>
+<p>La <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="cb1542e0-f380-4e16-bca9-7925ba8d8cf0">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l'Etat est modifiée comme suit: </p>
+<ol scl:symbol="a)">
+<li> L'article 22 section IV est modifié comme suit:<ul scl:symbol="custom">
+<li scl:symbol="–">au numéro 9 est ajoutée la mention <embeddedText>le directeur de l'Administration des Chemins de Fer</embeddedText>.</li>
+</ul> </li>
+<li> L'annexe A - classification des fonctions - rubrique I, «Administration générale», est modifiée comme suit:<ul scl:symbol="custom">
+<li scl:symbol="–">au grade 17 est ajoutée la mention <embeddedText>Administration des Chemins de Fer - directeur</embeddedText>.</li>
+</ul> </li>
+<li> L'annexe D - détermination - rubrique I, «Administration générale», est modifiée comme suit:<ul scl:symbol="custom">
+<li scl:symbol="–">à la carrière supérieure de l'administration, au grade 12 de la computation de la bonification d'ancienneté, au grade 17, est ajoutée la mention <embeddedText>directeur de l'Administration des Chemins de Fer</embeddedText>.</li>
+</ul> </li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_10/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 10.</num>
+<alinea>
+<content>
+<p>Afin d'assumer les missions, responsabilités et obligations qui sont dévolues à l'Administration par les dispositions de la présente loi, des agents des CFL qui, au moment de l'entrée en vigueur de la présente loi, sont chargés de tâches relevant de la compétence de l'Administration ou qui disposent des qualifications requises, peuvent être transférés sur une base volontaire à l'Administration selon les modalités prévues à l'article 7 de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="4eb53c55-73a3-44b0-aec7-0af7ad1e34b0">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l'Etat. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L'agent transféré à l'Administration garde son statut de personnel des chemins de fer avec tous les droits et prérogatives que cela implique.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Avant d'entrer en fonctions, l'agent transféré à l'Administration prête devant le Ministre ou son délégué le serment qui suit:</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-tab="20">«Je jure fidélité au Grand-Duc, obéissance à la Constitution et aux lois de l’Etat. Je promets de remplir mes fonctions avec intégrité, exactitude et impartialité.» </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Trésor rembourse aux CFL les traitements, indemnités, salaires, charges sociales patronales et la quote-part des pensions des agents en question. </p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_iii">
+<num>
+<span scl:style-format="n">
+<i>Chapitre III</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Mise en place et gestion de la sécurité ferroviaire</i>
+</span>
+</heading>
+<article id="art_11">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_11</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_11/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 11.</num>
+<paragraph id="paragraph_15">
+<num>1.</num>
+<alinea>
+<content>
+<p>Les règles nationales de sécurité contiennent les exigences en matière de sécurité. Elles évoluent conformément aux spécifications techniques d'interopérabilité (STI), aux objectifs de sécurité communs (OSC) et aux méthodes de sécurité communes (MSC).</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Tout projet de règle nationale de sécurité qui exige un niveau de sécurité plus élevé que celui des OSC adoptés, ou qui est susceptible d'affecter sur le réseau ferré national les activités effectuées par des entreprises ferroviaires qui sont établies en dehors du Luxembourg en conformité avec les exigences du droit communautaire, est soumis par l'Administration à l'avis des parties intéressées conformément à l'article 8.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les règles de sécurité nationales sont publiées par voie de règlement grand-ducal.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_16">
+<num>2.</num>
+<alinea>
+<content>
+<p>Le gestionnaire de l'infrastructure ferroviaire et chaque entreprise ferroviaire adoptent, chacun en ce qui le concerne, des règles internes de sécurité dans le cadre de leur système de gestion de la sécurité. Les règles internes sont établies dans le respect des règles de sécurité nationales; elles doivent atteindre au moins les OSC, être conformes aux exigences de sécurité définies dans les STI et MSC. Elles ne s'appliquent qu'à l'organisme qui les édicte.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_17">
+<num>3.</num>
+<alinea>
+<content>
+<p>Toute entreprise ferroviaire admise à utiliser le réseau ferré luxembourgeois ainsi que le gestionnaire de l'infrastructure doivent employer aux tâches de sécurité qu'ils assument, du personnel titulaire d'une formation et d'une certification conformes aux exigences de sécurité définies par le droit communautaire, par les spécifications techniques d'interopérabilité et par les règles de sécurité nationales.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_18">
+<num>4.</num>
+<alinea>
+<content>
+<p>Chaque année, avant le 30 juin, le gestionnaire de l'infrastructure ferroviaire et les entreprises ferroviaires autorisées à utiliser le réseau ferré luxembourgeois soumettent à l'Administration un rapport annuel sur la sécurité concernant l'année civile précédente. Le rapport de sécurité contient: </p>
+<ol scl:symbol="a)">
+<li>des informations sur la manière dont le gestionnaire de l'infrastructure ferroviaire ou l'entreprise ferroviaire réalise ses propres objectifs de sécurité et les résultats des plans de sécurité;</li>
+<li>la mise au point d'indicateurs de sécurité nationaux et des indicateurs de sécurité communs définis à l'annexe I de la <ref href="/eli/dir_ue/2004/49/jo" id="25dfc266-5d5b-4ac6-a319-b133777062d6">directive 2004/49/CE</ref>, dans la mesure où cela est pertinent pour l'organisation déclarante;</li>
+<li>les résultats des audits de sécurité internes;</li>
+<li>des observations sur les insuffisances et les défauts de fonctionnement des opérations ferroviaires et de la gestion de l'infrastructure qui peuvent présenter un intérêt pour l'Administration.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_12">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_12</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_12/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 12.</num>
+<alinea>
+<content>
+<p>Le gestionnaire de l'infrastructure ferroviaire et les entreprises ferroviaires prennent toutes les mesures requises en vue d'assurer la sécurité de l'exploitation du système ferroviaire et de maîtriser les risques qui en résultent, le cas échéant, en coopération les uns avec les autres. Ils appliquent les règles nationales de sécurité visées à l'article 11, paragraphe 1<sup>er</sup> et établissent leur système de gestion de la sécurité conformément aux dispositions de l'article 11, paragraphe 2.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Sans préjudice de la responsabilité civile établie conformément aux prescriptions légales, le gestionnaire de l'infrastructure et chaque entreprise ferroviaire est responsable de sa partie du système ferroviaire et de la sécurité d'exploitation de celle-ci, y compris la fourniture de matériel et la sous-traitance de services, vis-à-vis des usagers, des clients, des travailleurs concernés et des tiers.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La responsabilité du gestionnaire de l'infrastructure ferroviaire et de chaque entreprise ferroviaire dans l'exploitation du système ferroviaire n'affecte pas la responsabilité de chaque fabricant, fournisseur de services d'entretien, <mod class="mod-start" for="#pm6"/>détenteur<mod class="mod-end" for="#pm6"/>
+<noteRef href="#M6" marker="6"/>, prestataire de services et entité adjudicatrice de livrer du matériel roulant, des installations, des accessoires et des équipements ainsi que des services conformes aux exigences et conditions d'utilisation prescrites, de sorte que ceux-ci puissent être exploités en toute sécurité par l'entreprise ferroviaire respectivement par le gestionnaire de l'infrastructure ferroviaire.</p>
+</content>
+</alinea>
+</article>
+<article id="art_13">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_13</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_13/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 13.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 13.</num>
+<alinea>
+<content>
+<p>La mise en circulation sur le réseau ferré luxembourgeois de trains par une entreprise ferroviaire déterminée n'est admise que dans les conditions prévues par les paragraphes 1 et 2 de l'article 11 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="4cacc7f8-26a7-4ce9-a3b9-e6470f07c2b6" scl:verify="true">loi modifiée du 11 juin 1999</ref> relative à l'accès à l'infrastructure ferroviaire et à son utilisation.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La preuve du respect de ces conditions est rapportée soit par le fait d'être titulaire d'une licence luxembourgeoise prévue à l'article 4 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="7493a432-980b-4fc8-9328-f9d35a668a63">loi modifiée du 11 juin 1999</ref> relative à l'accès à l'infrastructure ferroviaire et à son utilisation, soit par le rapport d'un réviseur d'entreprises certifiant l'existence de moyens financiers pour couvrir la responsabilité civile dont question à l'alinéa premier.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_iv">
+<num>
+<span scl:style-format="n">
+<i>Chapitre IV</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Certification de l’entreprise ferroviaire</i>
+</span> </heading>
+<article id="art_14">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_14</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_14/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 14.</num>
+<alinea>
+<content>
+<p>L'allocation et l'utilisation d'un sillon exigent de la part de l'entreprise bénéficiaire la détention d'un certificat de sécurité. Le certificat de sécurité confirme l'acceptation du système de gestion de la sécurité de l'entreprise ferroviaire. Il précise le type et la portée des activités ferroviaires couvertes. Il est valable sur l'ensemble du territoire de l'Union européenne pour des activités de transport ferroviaires équivalentes.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le certificat de sécurité se compose d’une certification générale et d’une certification spéciale.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm7"/>La certification générale atteste l’établissement par l’entreprise ferroviaire d’un système de gestion de la sécurité en due forme et sa conformité aux normes et aux règles de sécurité pertinentes du droit communautaire.<mod class="mod-end" for="#pm7"/>
+<noteRef href="#M7" marker="7"/>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm8"/>La certification spéciale atteste l’acceptation par l’entreprise ferroviaire des mesures de sécurité applicables pour atteindre les exigences nationales spécifiques nécessaires pour la fourniture de ses services sur le réseau ferré luxembourgeois en toute sécurité. Les exigences peuvent porter sur l’application des STI et des règles de sécurité nationales, y compris les règles d’exploitation du réseau, l’acceptation des certificats du personnel et l’autorisation de mettre en service les véhicules utilisés par les entreprises ferroviaires. La certification est fondée sur la documentation soumise par l’entreprise ferroviaire conformément à l’annexe IV de la <ref href="/eli/dir_ue/2004/49/jo" id="cbbc6b4a-f8f3-4dc4-8ccb-d6f17676ffc3">directive 2004/49/CE</ref> du Parlement européen et du Conseil du 29 avril 2004 sur la sécurité ferroviaire.<mod class="mod-end" for="#pm8"/>
+<noteRef href="#M8" marker="8"/>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le détail des conditions d’obtention et de validité du certificat de sécurité ainsi que les modalités de son établissement sont arrêtées par règlement grand-ducal qui fixe également le détail des conditions et des modalités de renouvellement, de réexamen et de retrait du certificat de sécurité.</p>
+</content>
+</alinea>
+</article>
+<article id="art_15">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_15</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_15/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 15.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 15.</num>
+<paragraph id="paragraph_19">
+<num>1.</num>
+<alinea>
+<content>
+<p>Le Ministre est l'autorité compétente pour la délivrance, le renouvellement, le réexamen et le retrait des certificats de sécurité sur base des dossiers instruits par l'Administration.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_20">
+<num>2.</num>
+<alinea>
+<content>
+<p>Le certificat de sécurité est valable pour une durée de cinq ans.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_21">
+<num>3.</num>
+<alinea>
+<content>
+<p>Le Ministre procède à l'octroi, au changement ou renouvellement du certificat de sécurité à chaque modification substantielle du type ou de la portée des activités de transport ferroviaires effectuées par l'entreprise ferroviaire.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Ministre décide de la nécessité de procéder à un réexamen du certificat de sécurité.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Ministre peut à tout instant procéder à la vérification des certificats de sécurité.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Ministre procède au retrait de la certification générale et/ou de la certification spéciale en cas de manquement grave ou répété par une entreprise ferroviaire concernant l'utilisation des sillons alloués ou si le titulaire d'un certificat de sécurité délivré par le Ministre ne remplit plus les conditions requises.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_22">
+<num>4.</num>
+<alinea>
+<content>
+<p>Les décisions de refus du Ministre sont motivées.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les décisions du Ministre sont susceptibles d'un recours en réformation devant le tribunal administratif.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_23">
+<num>5.</num>
+<alinea>
+<content>
+<p>Il est institué une commission administrative indépendante qui est composée de trois membres désignés par le Ministre et qui a pour mission d'aviser le dossier instruit par l'Administration.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les avis de la commission sont rendus à la majorité des voix.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm9"/>La commission peut demander tous les renseignements nécessaires pour examiner la conformité des dossiers qui lui sont soumis par l’Administration, et le cas échéant, s’assurer à ces fins le concours d’organismes et d’experts indépendants. La commission émet son avis dans un délai de trois mois à partir du moment où l’Administration des Chemins de Fer lui a transmis un dossier complet.<mod class="mod-end" for="#pm9"/>
+<noteRef href="#M9" marker="9"/>
+</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_16">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_16</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_16/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 16.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 16.</num>
+<alinea>
+<content>
+<p>L'Administration notifie à l'Agence, dans un délai d'un mois, la délivrance, le renouvellement, la modification et le retrait des certificats de sécurité. La notification mentionne le nom et l'adresse des entreprises ferroviaires, la date de délivrance, le domaine d'application et la validité du certificat de sécurité et, en cas de retrait, les motifs de la décision.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_v">
+<num>
+<span scl:style-format="n">
+<i>Chapitre V</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Certification du gestionnaire de l’infrastructure ferroviaire</i>
+</span>
+</heading>
+<article id="art_17">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_17</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_17/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 17.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 17.</num>
+<paragraph id="paragraph_24">
+<num>1.</num>
+<alinea>
+<content>
+<p>Pour pouvoir gérer et exploiter l'infrastructure ferroviaire, le gestionnaire de l'infrastructure ferroviaire doit être titulaire d'un agrément de sécurité. L'agrément confirme l'acceptation des dispositions prises par le gestionnaire de l'infrastructure pour satisfaire aux exigences particulières requises afin de garantir la sécurité de l'infrastructure ferroviaire aux niveaux de la conception, de l'entretien et de l'exploitation du système de contrôle du trafic et de signalisation.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le détail des conditions d'obtention et de validité de l'agrément de sécurité ainsi que les modalités de son établissement sont arrêtées par règlement grand-ducal qui fixe également le détail des conditions et des modalités de renouvellement, de réexamen et de retrait de l'agrément de sécurité.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_25">
+<num>2.</num>
+<alinea>
+<content>
+<p>Le Ministre est l'autorité compétente pour la délivrance, le renouvellement, le réexamen et le retrait des agréments de sécurité sur base de dossiers instruits par l'Administration.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_26">
+<num>3.</num>
+<alinea>
+<content>
+<p>L'agrément de sécurité est valable pour une durée de cinq ans.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_27">
+<num>4.</num>
+<alinea>
+<content>
+<p>Le Ministre procède à l'octroi, au changement ou renouvellement de l'agrément de sécurité à chaque modification substantielle de l'infrastructure, de la signalisation, de l'approvisionnement en énergie ou des principes applicables à son exploitation et à son entretien.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Ministre décide de la nécessité de procéder à un réexamen de l'agrément de sécurité.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Ministre peut à tout instant procéder à la vérification des agréments de sécurité.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le Ministre procède au retrait de l'agrément de sécurité si le gestionnaire de l'infrastructure agréé ne remplit plus les conditions requises.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_28">
+<num>5.</num>
+<alinea>
+<content>
+<p>Les décisions de refus du Ministre sont motivées.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les décisions du Ministre sont susceptibles d'un recours en réformation devant le tribunal administratif.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_29">
+<num>6.</num>
+<alinea>
+<content>
+<p>La commission administrative instituée en vertu de l'article 15, paragraphe 5, a pour mission d'aviser le dossier instruit par l'Administration.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les avis de la commission sont rendus à la majorité des voix.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<mod class="mod-start" for="#pm10"/>La commission peut demander tous les renseignements nécessaires pour examiner la conformité des dossiers qui lui sont soumis par l’Administration, et le cas échéant, s’assurer à ces fins le concours d’organismes et d’experts indépendants. La commission émet son avis dans un délai de trois mois à partir du moment où l’Administration des Chemins de Fer lui a transmis un dossier complet.<mod class="mod-end" for="#pm10"/>
+<noteRef href="#M10" marker="10"/>
+</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+<article id="art_18">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_18</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_18/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 18.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 18.</num>
+<alinea>
+<content>
+<p>L'Administration notifie à l'Agence, dans un délai d'un mois, la délivrance, le renouvellement, la modification et le retrait des agréments de sécurité. La notification mentionne le nom et l'adresse du gestionnaire de l'infrastructure, la date de délivrance, le domaine d'application et la validité de l'agrément de sécurité et, en cas de retrait, les motifs de la décision.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_vi">
+<num>
+<span scl:style-format="n">
+<i>Chapitre VI</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Qualification et formation du personnel affecté à des tâches de sécurité</i>
+</span>
+</heading>
+<article id="art_19">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_19/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 19.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 19.</num>
+<paragraph id="paragraph_30">
+<num>1.</num>
+<alinea>
+<content>
+<p>Toute entreprise ferroviaire admise à utiliser le réseau ferré luxembourgeois ainsi que le gestionnaire de l'infrastructure doivent employer aux tâches de sécurité qu'ils assument, du personnel titulaire d'une formation et d'une certification conformes aux exigences de sécurité définies par le droit communautaire, par les STI et par les règles de sécurité nationales. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les critères d’aptitude et de qualification, y compris les modalités et la sanction de la formation des agents affectés à des tâches de sécurité au sein d’une entreprise ferroviaire ou par le gestionnaire de l’infrastructure, sont réglés par règlement grand-ducal qui détermine également les conditions selon lesquelles une certification établie par l’autorité compétente d’un autre Etat pourra être reconnue. </p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_31">
+<num>2.</num>
+<alinea>
+<content>
+<p>La formation du personnel affecté à des tâches de sécurité au sein d'une entreprise ferroviaire ou du gestionnaire de l'infrastructure est organisée et dispensée par des centres de formation accrédités par le Ministre sur proposition de l'Administration. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L'accréditation n'est valable qu'à condition pour le centre de formation concerné d'assurer aux différentes catégories de personnel affecté à des tâches de sécurité un accès équitable et non discriminatoire à ses services de formation, lorsque cette formation est requise pour remplir les conditions d'obtention du certificat de sécurité respectivement de l'agrément de sécurité.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le processus d'accréditation qui se fonde notamment sur des critères d'indépendance, de compétence et d'impartialité est arrêté par règlement grand-ducal.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_vii">
+<num>
+<span scl:style-format="n">
+<i>Chapitre VII</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Certification du matériel roulant ferroviaire</i>
+</span> </heading>
+<article id="art_20">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 20.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 20.</num>
+<paragraph id="paragraph_33">
+<num>1.</num>
+<alinea>
+<content>
+<p>Toute entreprise ferroviaire admise à utiliser le réseau ferré luxembourgeois ne fera circuler sur le réseau ferré luxembourgeois que des trains composés de matériel roulant couvert par les STI et les règles nationales pertinentes ou dont la mise en service a été dûment autorisée par l'Administration ou dont l'autorisation de mise en service accordée par les autorités compétentes d'un autre Etat aura été reconnue par l'Administration.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_34">
+<num>2.</num>
+<alinea>
+<content>
+<p>Le dossier à soumettre à l'Administration contiendra au moins les informations suivantes: </p>
+<ol scl:symbol="a)">
+<li>le cas échéant, la preuve que la mise en service du matériel roulant a été autorisée dans un autre Etat et des registres faisant apparaître l'historique de son exploitation, de son entretien et, le cas échéant, les modifications techniques apportées après l'autorisation;</li>
+<li>les données techniques, le programme d'entretien et les caractéristiques opérationnelles appropriés requis par l'autorité de sécurité et nécessaires pour son autorisation;</li>
+<li>les caractéristiques techniques et opérationnelles prouvant que le matériel roulant est compatible avec le système d'alimentation en énergie, le système de signalisation et de contrôle-commande, l'écartement des voies et les gabarits de l'infrastructure, la charge maximale à l'essieu et d'autres contraintes du réseau;</li>
+<li>des informations sur les dérogations aux règles de sécurité nationales qui sont nécessaires pour accorder l'autorisation, et la preuve, basée sur l'évaluation des risques, que l'acceptation du matériel roulant ne crée pas de risque excessif sur le réseau.</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_35">
+<num>3.</num>
+<alinea>
+<content>
+<p>Le détail des conditions d'obtention et de validité de l'autorisation de mise en service du matériel roulant ferroviaire circulant sur le réseau ferré national ainsi que les modalités de sa délivrance sont arrêtés par règlement grand-ducal qui détermine également les conditions selon lesquelles l'autorisation de mise en service délivrée dans un autre Etat pourra être intégralement ou partiellement reconnue.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_36">
+<num>4.</num>
+<alinea>
+<content>
+<p>Le détail des conditions d'obtention et de validité de l'autorisation de mise en service du matériel roulant ferroviaire historique circulant sur le réseau ferré national ainsi que les modalités de sa délivrance sont définies par l'Administration des Chemins de Fer.</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_viibis">
+<num>
+<span scl:style-format="n">
+<i>
+<mod class="mod-start" for="#pm11"/>Chapitre VII</i>bis</span>
+</num>
+<heading scl:separator=" " scl:style-format="b"> <br/>
+<span scl:style-format="n">
+<i>Entretien des véhicules</i>
+</span>
+</heading>
+<article id="art_20bis">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20bis</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20bis/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 20bis.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 20<i>bis</i>.</num>
+<alinea>
+<content>
+<p>Il est créé un registre national des véhicules géré selon des modalités à fixer par règlement grand-ducal.</p>
+</content>
+</alinea>
+</article>
+<article id="art_20ter">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20ter</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_20ter/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 20ter.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 20<i>ter</i>.</num>
+<paragraph id="paragraph_37">
+<num> 1.</num>
+<alinea>
+<content>
+<p>Chaque véhicule, avant qu’il ne soit mis en service ou utilisé sur le réseau ferré luxembourgeois, se voit assigner une entité chargée de l’entretien qui est inscrite dans le registre national des véhicules.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_38">
+<num> 2.</num>
+<alinea>
+<content>
+<p>Une entreprise ferroviaire, un gestionnaire d’infrastructure ou un détenteur peut être entité chargée de l’entretien.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_39">
+<num> 3.</num>
+<alinea>
+<content>
+<p>Sans préjudice de la responsabilité des entreprises ferroviaires et des gestionnaires d’infrastructure pour l’exploitation d’un train en toute sécurité prévue à l’article 12, paragraphe 3, l’entité veille, au moyen d’un système d’entretien, à ce que les véhicules dont elle assure l’entretien soient dans un état de marche assurant la sécurité. A cette fin, l’entité chargée de l’entretien veille à ce que les véhicules soient entretenus conformément:</p>
+<ol scl:start="1" scl:symbol="a)">
+<li>au carnet d’entretien de chaque véhicule; </li>
+<li>aux exigences en vigueur y compris aux règles en matière d’entretien et aux dispositions relatives aux STI. <p>L’entité chargée de l’entretien effectue l’entretien elle-même ou le sous-traite à des ateliers d’entretien.</p>
+</li>
+</ol>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_40">
+<num> 4.</num>
+<alinea>
+<content>
+<p>Lorsqu’il s’agit de wagons de fret, chaque entité chargée de l’entretien doit être certifiée par un organe accrédité ou reconnu. Les processus d’accréditation et de reconnaissance se fondent sur des critères d’indépendance, de compétence et d’impartialité. L’accréditation et la reconnaissance sont prononcées par le Ministre après avoir demandé l’avis de l’Administration des Chemins de Fer. </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Lorsque l’entité chargée de l’entretien est une entreprise ferroviaire ou un gestionnaire d’infrastructure, la conformité aux exigences est contrôlée par l’Administration des Chemins de Fer conformément aux procédures en vigueur pour la certification et l’agrément en matière de sécurité. Cette certification n’est applicable qu’aux véhicules dont l’entreprise ferroviaire ou le gestionnaire de l’infrastructure est le détenteur.</p>
+</content>
+</alinea>
+</paragraph>
+<paragraph id="paragraph_41">
+<num> 5.</num>
+<alinea>
+<content>
+<p>Les obligations d’identification et de certification de l’entité chargée de l’entretien peuvent être remplies par d’autres mesures, dans les cas suivants:</p>
+<ol scl:start="1" scl:symbol="a)">
+<li>véhicules immatriculés dans un pays tiers et entretenus conformément à la législation de ce pays;</li>
+<li>véhicules utilisés sur des réseaux ou des lignes dont l’écartement des voies est différent de celui du réseau ferré principal dans l’Union européenne et pour lesquels la conformité aux exigences visées au paragraphe 3 est assurée par des accords internationaux conclus avec des pays tiers; </li>
+<li>véhicules visés à l’article 1<sup>er</sup>, paragraphe 2 et paragraphe 3, ainsi que transports spéciaux ou de matériel militaire nécessitant la délivrance d’un permis ad hoc par l’Administration des Chemins de Fer avant la mise en service. Dans ce cas, les dérogations sont accordées pour des périodes maximales de cinq ans.</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Ces autres mesures sont mises en œuvre par le biais de dérogations accordées par l’Administration des Chemins de Fer:</p>
+<ol scl:start="1" scl:symbol="a)">
+<li>lors de l’immatriculation des véhicules, en ce qui concerne l’identification de l’entité chargée de l’entretien;</li>
+<li>lors de la délivrance des autorisations et des certificats de sécurité aux entreprises ferroviaires et aux gestionnaires d’infrastructure, conformément aux procédures en vigueur pour la certification et l’agrément en matière de sécurité, en ce qui concerne l’identification ou la certification de l’entité chargée de l’entretien. </li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Ces dérogations sont identifiées et justifiées dans le rapport annuel sur la sécurité visé à l’article 5.<mod class="mod-end" for="#pm11"/>
+<noteRef href="#M11" marker="11"/>
+</p>
+</content>
+</alinea>
+</paragraph>
+</article>
+</chapter>
+<chapter id="chapitre_viii">
+<num>
+<span scl:style-format="n">
+<i>Chapitre VIII</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Dispositions pénales</i>
+</span>
+</heading>
+<article id="art_21">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_21</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_21/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 21.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 21.</num>
+<alinea>
+<content>
+<p>La violation des obligations découlant des articles 14, 17, 19 et 20 est punie d'un emprisonnement d'un mois à trois ans et d'une amende de 251 à 5000 euros ou d'une de ces peines seulement.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_ix">
+<num>
+<span scl:style-format="n">
+<i>Chapitre IX</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Dispositions modificatives et abrogatoires</i>
+</span>
+</heading>
+<article id="art_22">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_22</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_22/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 22.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 22.</num>
+<alinea>
+<content>
+<p>Le deuxième alinéa de l'article 10 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="07e1f091-62b4-431f-bb41-e19d76bf940b">loi modifiée du 11 juin 1999</ref> précitée est abrogé.</p>
+</content>
+</alinea>
+</article>
+<article id="art_23">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_23</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_23/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 23.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 23.</num>
+<alinea>
+<content>
+<p>Dans le Chapitre III - La répartition des sillons de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="a164d5d1-5761-4b36-9156-99d6fdeab62f">même loi</ref> - il est inséré derrière l'article 20 un article 20bis nouveau, libellé comme suit:<mod> <quotedText> <embeddedStructure>
+<article>
+<num> <u>Art. 20 bis.</u> </num>
+<alinea>
+<content>
+<p>L'allocation et l'utilisation d'un sillon exigent de la part de l'entreprise ferroviaire bénéficiaire la détention d'un certificat de sécurité délivré conformément aux dispositions de la <ref href="/eli/etat/leg/loi/2009/07/22/n1/jo" id="e1eb6156-40be-4fe9-853e-e54b303bdab1" scl:verify="true">loi du 22 juillet 2009</ref> sur la sécurité ferroviaire.</p>
+</content>
+</alinea>
+</article>
+</embeddedStructure> </quotedText> </mod> </p>
+</content>
+</alinea>
+</article>
+<article id="art_24">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_24</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_24/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 24.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 24.</num>
+<alinea>
+<content>
+<p>A l'article 22 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="07c5fe9e-6bcb-4ac6-9acd-f88c4d5465d7">même loi</ref> sont apportées les modifications suivantes: </p>
+<ol scl:symbol="1°">
+<li>Au paragraphe 1<sup>er</sup> , le terme <embeddedText>la cellule «accès réseau» de la Communauté des Transports, établissement public institué en vertu de la <ref href="/eli/etat/leg/loi/2004/06/29/n1/jo" id="d4124d41-ee9a-4284-be90-0a437521e461" scl:verify="true">loi modifiée du 29 juin 2004</ref> sur les transports publics</embeddedText> est remplacé par <embeddedText>l'Administration des Chemins de Fer, instituée en vertu de la <ref href="/eli/etat/leg/loi/2009/07/22/n1/jo" id="d00b94ec-236b-4f7e-a90f-25c44f26ae1d">loi du 22 juillet 2009</ref> relative à la sécurité ferroviaire</embeddedText>.</li>
+<li>Au paragraphe 2, alinéa 3, la référence <embeddedText>article 26</embeddedText> est remplacée par <embeddedText>article 20bis</embeddedText>.</li>
+<li>Le paragraphe 3 est abrogé.</li>
+<li>Au paragraphe 4, le terme <embeddedText>la cellule «accès réseau» de la Communauté des Transports</embeddedText> est remplacé par <embeddedText>l'Administration des Chemins de Fer</embeddedText>.</li>
+<li>Le paragraphe 9 est remplacé par le texte suivant:<mod> <embeddedStructure>
+<paragraph>
+<num>9.</num>
+<alinea>
+<content>
+<p>Sans préjudice des dispositions de l’article 22bis, lorsqu’une entreprise ferroviaire qui demande l’allocation d’un sillon ou qui utilise le réseau ferré luxembourgeois trouve mal fondée une décision de l’organisme de répartition prise à son égard dans le cadre de la répartition des sillons, elle peut déférer celle-ci au Ministre qui, après avoir entendu les parties, la confirme ou la réforme dans un délai de dix jours ouvrables.</p>
+</content>
+</alinea>
+</paragraph>
+</embeddedStructure>
+</mod>
+</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_25">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_25</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_25/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 25.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 25.</num>
+<alinea>
+<content>
+<p> L'article 24 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="40862bdb-5645-4476-ac43-9346a4382cee">même loi</ref> est remplacé par le texte suivant:<mod> <quotedText> <embeddedStructure>
+<article>
+<num> <u>Art. 24. </u> </num>
+<alinea>
+<content>
+<p>L'utilisation du réseau ferré luxembourgeois est soumise au paiement d'une redevance d'utilisation dont les modalités d'application sont arrêtées par règlement grand-ducal, l'avis de l'organisme de tarification demandé.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les redevances d'utilisation sont calculées pour chaque entreprise dans le respect du principe de l'application non discriminatoire de ces redevances dans le cadre d'un même marché et par rapport à un barème tarifaire de référence établi par l'organisme de tarification prévu à l'article 25 selon les modalités arrêtées par règlement grand-ducal.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les redevances d'utilisation sont prélevées pour compte de l'Etat et sous le contrôle de l'organisme de tarification prévu à l'article 25 par le gestionnaire de l'infrastructure ferroviaire sur toute entreprise ferroviaire qui emprunte le réseau ferré luxembourgeois; elles sont imputées sur le Fonds du Rail.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le gestionnaire de l'infrastructure ferroviaire doit pouvoir prouver que les redevances à payer par une entreprise ferroviaire ont été calculées conformément aux modalités de tarification de la redevance prévue.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L'organisme de tarification prévu à l'article 25 tient à la disposition de toute entreprise ferroviaire demandant l'allocation de sillons toute information utile sur les redevances imposées.</p>
+</content>
+</alinea>
+</article>
+</embeddedStructure> </quotedText> </mod> </p>
+</content>
+</alinea>
+</article>
+<article id="art_26">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_26</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_26/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 26.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 26.</num>
+<alinea>
+<content>
+<p>Au paragraphe 1<sup>er</sup> de l'article 25 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="aa581ae4-7d87-4f7a-8259-1d5b0c371338">même loi</ref>, le terme <embeddedText>la cellule «accès réseau» de la Communauté des Transports, instituée en vertu de la <ref href="/eli/etat/leg/loi/2004/06/29/n1/jo" id="fca50759-fd72-462f-8bbf-223968681d2f" scl:verify="true">loi modifiée du 29 juin 2004</ref> sur les transports publics</embeddedText> est remplacé par <embeddedText>l'Administration des Chemins de Fer, instituée en vertu de la <ref href="/eli/etat/leg/loi/2009/07/22/n1/jo" id="96879934-a383-40cf-a616-e5a2818d0b46" scl:verify="true">loi du 22 juillet 2009</ref> relative à la sécurité ferroviaire</embeddedText>.</p>
+</content>
+</alinea>
+</article>
+<article id="art_27">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_27</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_27/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 27.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 27.</num>
+<alinea>
+<content>
+<p>Le Chapitre V - Les règles de sécurité relatives à l'utilisation du réseau de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="70c3bae3-4f50-4d9f-a0a8-e025b6cf86ab">même loi</ref> - est abrogé.</p>
+</content>
+</alinea>
+</article>
+<article id="art_28">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_28</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_28/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 28.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 28.</num>
+<alinea>
+<content>
+<p>A l'article 31 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="b97c8389-c11b-428b-9fa4-6d5bc4a6c87c">même loi</ref>, la référence aux articles 20 à 29 est remplacée par la référence aux articles 20 à 25.</p>
+</content>
+</alinea>
+</article>
+<article id="art_29">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_29</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_29/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 29.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 29.</num>
+<alinea>
+<content>
+<p>L'article 7quater de la <ref href="/eli/etat/leg/loi/2004/06/29/n1/jo" id="e4cdc380-cb69-46c5-891c-ecc501bb369d" scl:verify="true">loi modifiée du 29 juin 2004</ref> sur les transports publics est abrogé.</p>
+</content>
+</alinea>
+</article>
+<article id="art_30">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_30</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_30/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 30.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 30.</num>
+<alinea>
+<content>
+<p> L'alinéa 2 de l'article 30 de la <ref href="/eli/etat/leg/loi/1999/06/11/n1/jo" id="83940768-8a00-4ea3-89ac-67d927a934d2">loi modifiée du 11 juin 1999</ref> relative à l'accès à l'infrastructure ferroviaire et à son utilisation est abrogé.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+<chapter id="chapitre_x">
+<num>
+<span scl:style-format="n">
+<i>Chapitre X</i>
+</span>
+</num>
+<heading scl:separator=" ">
+<span scl:style-format="n">
+<i>
+<br/>Dispositions finales</i>
+</span>
+</heading>
+<article id="art_31">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_31</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_31/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 31.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 31.</num>
+<alinea>
+<content>
+<p>La référence à la présente loi peut se faire sous une forme abrégée en recouvrant à l'intitulé suivant: «<ref href="???" scl:verify="true">loi du 22 juillet 2009</ref> relative à la sécurité ferroviaire».</p>
+</content>
+</alinea>
+</article>
+<article id="art_31bis">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_31bis</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_31bis/20111231</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 31bis.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2011-12-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>
+<mod class="mod-start" for="#pm12"/>Art. 31<i>bis</i>.</num>
+<alinea>
+<content>
+<p>Les références faites à la <ref href="/eli/dir_ue/1996/48/jo" id="1ad396e7-bd8b-4547-afaf-8eb29b3bfe9a">directive 96/48/CE</ref> et à la <ref href="/eli/dir_ue/2001/16/jo" id="d06544c5-8720-4464-8bac-11105de2801e">directive 2001/16/CE</ref>, telles qu’abrogées par la <ref href="/eli/dir_ue/2008/57/jo" id="ac4ae5bf-3aef-4783-865c-cab1545deb60">directive 2008/57/CE</ref>, s’entendent faites à la <ref href="/eli/dir_ue/2008/57/jo" id="20f09d53-c4b4-4164-a62e-51eef16283b7">directive 2008/57/CE</ref> précitée et sont à lire selon le tableau de correspondance figurant à son annexe XI.<mod class="mod-end" for="#pm12"/>
+<noteRef href="#M12" marker="12"/>
+</p>
+</content>
+</alinea>
+</article>
+<article id="art_32">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_32</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1/art_32/20090731</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2009/07/22/n1</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 32.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2009-07-31</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 32.</num>
+<alinea>
+<content>
+<p>La présente loi entre en vigueur le premier jour du mois qui suit celui de sa publication au Mémorial.</p>
+</content>
+</alinea>
+</article>
+</chapter>
+</body>
+</act>
+</akomaNtoso>

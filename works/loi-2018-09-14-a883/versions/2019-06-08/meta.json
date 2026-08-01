@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/06/2019 : Loi du 14 septembre 2018 relative \u00E0 une administration transparente et ouverte.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20190608/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b7844baa9662f7865dae2b2f447045e025a970129b5d9fc4b828e79c6a68263e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20190608/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20190608/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9d8ae9b0b05224e1e3986dad4cff262fb4bd08c666f0b186582427ae9ec98f6b"
+  "record_sha256": "54b436bb111006d359c8fd5b12925d0628dc70dd195eb3775a8644ace19cfa87"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/03/2013 : R\u00E8glement grand-ducal du 10 juin 2009 portant organisation du stage judiciaire et r\u00E8glementant l\u0027acc\u00E8s au notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/consolide/20130322/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b1dcdf8e822b8fb5fbbc6cb89d61f67c3a8f2c989137805e094d77cd2abdc39d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/consolide/20130322/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/06/10/n1/consolide/20130322/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c696dd5ac54f061094aa96133181cd1d0f3af1cd1683850e10512b5408014934"
+  "record_sha256": "338e2f983d65c3d3de0649c1e171ef65d59f9a3afba610ad992e46a71e845c28"
 }

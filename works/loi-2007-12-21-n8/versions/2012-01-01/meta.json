@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2012 : Loi du 21 d\u00E9cembre 2007 portant r\u00E9glementation du financement des partis politiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20120101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "21332f7daba01f2f0deaa14a25eb20fa3fcef8ec9d1284ccb9d73f5c1f2ac4fe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20120101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n8/consolide/20120101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ec699a8a3441e1da5f4dc59f96a01cdb425c5d1bdc727ba08f815d521cdcd365"
+  "record_sha256": "3f177609386c52927ae691ff124e5ffaa76f1acecb87395e00ca46b17988792f"
 }

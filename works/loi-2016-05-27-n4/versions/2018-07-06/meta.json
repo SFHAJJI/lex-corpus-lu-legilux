@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/07/2018 : Loi du 27 mai 2016 concernant la mise \u00E0 disposition sur le march\u00E9 d\u2019articles pyrotechniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n4/consolide/20180706/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aaf6fb73998bc1a8b4e53ef2fa832a33398f314a2f29194bb854839757346180",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n4/consolide/20180706/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/05/27/n4/consolide/20180706/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "52e866fab48fc558e75bb4231f7f83296ca2df2aff11982e915a86c255f9d01a"
+  "record_sha256": "da337afb80525bbcd3d4663c0cb9929335816568e44d0bb46728dad006874b9f"
 }

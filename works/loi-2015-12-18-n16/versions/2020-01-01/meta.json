@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2020 : Loi du 18 d\u00E9cembre 2015 relative \u00E0 l\u0027accueil des demandeurs de protection internationale et de protection temporaire, et modifiant la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u0027avocat.",
       "title_short": "Loi du 18 d\u00E9cembre 2015 relative \u00E0 l\u2019accueil des demandeurs de protection internationale et de protection temporaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20200101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "443296f1028a2c742a1d437bbdfdf803c3627982ee82c27b24073803a6c1f6fb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20200101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n16/consolide/20200101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "15e0d1f444bd30150b03be3c78dbda20157910d0cc733c02ac32b8493b69a239"
+  "record_sha256": "184c0afa5555709c9f29a0ce2c820acdc7f20faf07ea4b4cf7c173cd97f9175f"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/01/2021 : R\u00E8glement grand-ducal du 8 octobre 2020 portant fixation de la date d\u2019ouverture et de cl\u00F4ture des soldes de l\u2019hiver 2020/2021 et de l\u2019\u00E9t\u00E9 2021.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/10/08/a819/consolide/20210115/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "882f99c5896e0096fde4b822c99a72cfb0b2c908046caaaa2d34301856861df6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/10/08/a819/consolide/20210115/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/10/08/a819/consolide/20210115/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "46a37ca72af19ba04a1f7ec8c00b4909a1c59d51e149f4fe4f4ea7fd756334fd"
+  "record_sha256": "806d34dbea04f88e0fb2e5f8870b7d574b69cc561295bda83e287d82408eb295"
 }

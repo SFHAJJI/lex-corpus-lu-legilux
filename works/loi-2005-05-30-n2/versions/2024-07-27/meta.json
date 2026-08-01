@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/07/2024 : Loi du 30 mai 2005 portant organisation de la gestion des ondes radio\u00E9lectriques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n2/consolide/20240727/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "463c8af8ad74834a80206af0ef839b97be91d4dcbbb99d92a5ce43a0b41a3be6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n2/consolide/20240727/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n2/consolide/20240727/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "01430db18baa5fdf319bbc31c3c0030e4eb2ad8d51b5b10319a3d0b560daa915"
+  "record_sha256": "8ca0e7384b5677ac7556833132920fdc76d9868d99527f07534b8d7d472edd0c"
 }

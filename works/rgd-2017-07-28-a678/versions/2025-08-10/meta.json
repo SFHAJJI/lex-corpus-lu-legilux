@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/08/2025 : R\u00E8glement grand-ducal du 28 juillet 2017 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a678/consolide/20250810/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "838fc3f3c259ef0983b11f7de0cc771bf35f7532522d3d0e1cdaec8f9ab5d631",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a678/consolide/20250810/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a678/consolide/20250810/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1ad7f9145088fd0425231c361e82b1cb4812e57460fbc2c7c3e0ade383a554b9"
+  "record_sha256": "d0bbaaee1dff3c53059085d98ada305ac68b71a94f56292cc368baa61e24460b"
 }

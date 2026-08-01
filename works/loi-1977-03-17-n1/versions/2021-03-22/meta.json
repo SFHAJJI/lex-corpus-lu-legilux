@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/03/2021 : Loi du 17 mars 1977 concernant l\u0027heure l\u00E9gale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/consolide/20210322/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef59c4f168d7aae15485b4b6b1c6afc399aab279088826216a36c7e6ebb041f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/consolide/20210322/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/03/17/n1/consolide/20210322/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b51965c137370cf477d7e522eae6dd772bce71c0f1d5b27c267a46b9cf6155e3"
+  "record_sha256": "0f261cefbdfae30f5f54a8ddd65dbd15570dcd437d974dcb5794e502a5b037e9"
 }

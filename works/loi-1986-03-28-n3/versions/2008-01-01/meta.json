@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2008 : Loi du 28 mars 1986 portant harmonisation des conditions et modalit\u00E9s d\u0027avancement dans les diff\u00E9rentes carri\u00E8res des administrations et services de l\u00B4Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/03/28/n3/consolide/20080101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "db0c0782402f21ebe0de031f7f012586e107a12e754d794809d6194ca3062d30",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/03/28/n3/consolide/20080101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1986/03/28/n3/consolide/20080101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b1b582feaeb1f5721d5a0f622148e88ddd221eb873536b37b7f2bd7effeb4b22"
+  "record_sha256": "a1f177a6b2e502c71037ee996253d076e5a244f115e699c59ae6c53bcee79d82"
 }

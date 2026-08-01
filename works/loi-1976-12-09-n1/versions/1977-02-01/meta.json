@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/02/1977 : Loi du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19770201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "98c009ffb11180d499cb9185c731ef2829a7287bc097c7588b4c7cb2ede2a698",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19770201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19770201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1ef0ccd3f5ee46698cc91cd088b98b6376fadac8ac02cd41ad446ed1a54add6d"
+  "record_sha256": "8cc113eb4769f6624dbe6e5408c0e7478ee974ee312570d8d591a3f196a4d093"
 }

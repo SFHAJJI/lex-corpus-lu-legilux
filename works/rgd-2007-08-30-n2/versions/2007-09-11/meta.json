@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 11/09/2007 : R\u00E8glement grand-ducal du 30 ao\u00FBt 2007 d\u00E9terminant certaines exigences techniques relatives au don, \u00E0 l\u2019obtention et au contr\u00F4le de tissus et de cellules d\u2019origine humaine.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20070911/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "90fd3942484f30ca791056e93724a79d2539a7399f335ef151ef90b42f84cec3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20070911/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n2/consolide/20070911/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fe90adb38b779b07e61523a7687f91374b26ba5e50679160b345b34841bf7fbe"
+  "record_sha256": "d025fd9b79c1a743447e02a84da5852e3dec08a872c23c285bea9a0ae9ff1922"
 }

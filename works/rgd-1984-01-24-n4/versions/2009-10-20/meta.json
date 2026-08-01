@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/10/2009 : R\u00E8glement grand-ducal relatif au service national de coordination pour le pr\u00E9l\u00E8vement d\u0027organes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/24/n4/consolide/20091020/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "81f359b55c4f2fd7e786bf3440498c785b3eea762a77a11a1eae67ae447c66da",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/24/n4/consolide/20091020/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/24/n4/consolide/20091020/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7ccbd9c7ed62b78a996e93bef28026adc5dcf2eafdc0c6cd8a7df9060b8008a4"
+  "record_sha256": "e105d1a8f3ea443227fa2f9102a77d9cebf45c316bde027491d78c297d906195"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/11/2023 : R\u00E8glement minist\u00E9riel du 27 mai 2016 portant fixation des crit\u00E8res de pr\u00E9sentation et de forme des documents destin\u00E9s \u00E0 la publication au Recueil \u00E9lectronique des soci\u00E9t\u00E9s et associations et au d\u00E9p\u00F4t au registre de commerce et des soci\u00E9t\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20231130/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c0aaf5fcb23141bb82ffda6b27dab7efc9dfdc6282425d1d0b3212f25d1db3af",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20231130/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20231130/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8fc9292437ec750aae5b6593945233782b0eb832fa1a5033407a899b35df98d9"
+  "record_sha256": "104702ada3992530b0fd8724dac4baf5158084d89881c8526f4f62cd258f0673"
 }

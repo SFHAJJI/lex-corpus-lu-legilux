@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/10/2025 : R\u00E8glement du Gouvernement en Conseil du 22 septembre 2023 portant fixation de l\u2019indemnit\u00E9 sp\u00E9ciale allou\u00E9e aux participants \u00E0 une op\u00E9ration pour le maintien de la paix, \u00E0 une op\u00E9ration de pr\u00E9vention ou \u00E0 une op\u00E9ration de gestion de crise.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/consolide/20251010/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2305397707013bfe1f700b26a7155564f47612a2cbdf0f4a69ec6de35a18016d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/consolide/20251010/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/2023/09/22/a636/consolide/20251010/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cce1ab928a7dba1922dff981614f5084bd1479928fac51b7888457ce3c345b27"
+  "record_sha256": "53a85ee740e51b1963abfd8c371e4fc4f61b8da3d59ad1a806b6e032495149d8"
 }

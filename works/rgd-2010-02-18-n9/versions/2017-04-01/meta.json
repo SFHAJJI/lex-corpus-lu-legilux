@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2017 : R\u00E8glement grand-ducal du 18 f\u00E9vrier 2010 d\u00E9terminant les modalit\u00E9s d\u2019\u00E9tablissement du contingent de le\u00E7ons attribu\u00E9es aux communes et aux syndicats scolaires pour assurer l\u2019enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/02/18/n9/consolide/20170401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cc137778f6fc78b4ee492826fabe79fb73882e76b57bc5553b98c4785539d844",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/02/18/n9/consolide/20170401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/02/18/n9/consolide/20170401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "85846428eb93d48dce0762613797ae603e212bb1a991c07def75faec2addf62b"
+  "record_sha256": "8d34df3aa1eaff51f4d1f515922808fa85037e31ecc512bf7ee71ab881ab7b2b"
 }

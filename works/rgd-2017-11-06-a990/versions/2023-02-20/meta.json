@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/02/2023 : R\u00E8glement grand-ducal du 6 novembre 2017 portant modification du r\u00E8glement grand-ducal du 29 ao\u00FBt 2003 relatif aux avertissements tax\u00E9s et aux consignations pour contrevenants non-r\u00E9sidents en mati\u00E8re de navigation int\u00E9rieure et du catalogue annex\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7dc2f842ba2c6710cedb475fbd6dd76b830c700fbf931c7a1e730eb6a2b3e87e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/11/06/a990/consolide/20230220/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7f2f59311d01cca0ab1e88156ea82af6a5626489e7bd27add384286e0c838aed"
+  "record_sha256": "cc7198ae33e4c84d57bee55f58a277b088c9f5b7a41ebba09873b25933df7ab5"
 }

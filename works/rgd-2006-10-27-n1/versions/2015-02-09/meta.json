@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/02/2015 : R\u00E8glement grand-ducal du 27 octobre 2006 pris en ex\u00E9cution de l\u2019article 4 de la loi modifi\u00E9e du 18 juin 1969 sur l\u2019enseignement sup\u00E9rieur et l\u2019homologation des titres et grades \u00E9trangers d\u2019enseignement sup\u00E9rieur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20150209/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3c1d82d94f5a81216c14589af22a7e08ec84e6fa1406eac1c99e69b0ab80cea3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20150209/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20150209/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "19de183a36b5f765d42f9980c7abb7b80c941277d9c0e23170350e20c36b11d0"
+  "record_sha256": "86dc1fb5243b4f674443ba18c6366738601c6f10b9b9b660a161713db3610701"
 }

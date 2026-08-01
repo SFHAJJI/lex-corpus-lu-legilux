@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 15/12/2024 : Loi du 18 juillet 2018 sur l\u2019Inspection g\u00E9n\u00E9rale de la Police et modifiant :\\n1\u00B0 la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat ;\\n2\u00B0 la loi modifi\u00E9e du 25 mars 2015 instituant un r\u00E9gime de pension sp\u00E9cial transitoire pour les fonctionnaires de l\u2019\u00C9tat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois ;\\n3\u00B0 le livre Ier du Code de la s\u00E9curit\u00E9 sociale.",
       "title_short": "Loi du 18 juillet 2018 sur l\u2019Inspection g\u00E9n\u00E9rale de la Police.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a623/consolide/20241215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0dd9aacd0613afd0fca546fbccaa0e3ad23c168fbf50c8a98ca6f23bb6cdbc8e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a623/consolide/20241215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a623/consolide/20241215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ad9f2f12ade742b5aefbea3a1403b0ca436ccfbb1cad14752d27c1f0e35cb23b"
+  "record_sha256": "fd72a72e3f4a9b7ea23d4eb1af5506d3d38df74f9dae2edf4b916cca21366ae4"
 }

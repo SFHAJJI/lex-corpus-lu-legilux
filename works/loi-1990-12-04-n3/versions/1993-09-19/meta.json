@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/09/1993 : Loi du 4 d\u00E9cembre 1990 portant organisation du service des huissiers de justice.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/19930919/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cf56e5a1075e4a01140223fdbfb1d2db9684f8be0d513a0f5774b6f1b6b63526",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/19930919/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/12/04/n3/consolide/19930919/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a96f3f98519f43d0d998ba4decd50272800cd90b7366d9aca3bc94cb61c99d82"
+  "record_sha256": "da5e1b8079893fa39d0c27ffc4789d360d2d7e35bf0f664f6f93dd04c80ace91"
 }

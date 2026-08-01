@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 24/12/2024 : R\u00E8glement grand-ducal du 21 mai 2019 fixant les montants du droit d\u2019usage pour l\u2019utilisation de certaines routes par des v\u00E9hicules utilitaires lourds et modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 26 ao\u00FBt 1993 relatif aux avertissements tax\u00E9s, aux consignations pour contrevenants non r\u00E9sidents ainsi qu\u2019aux mesures d\u2019ex\u00E9cution de la l\u00E9gislation en mati\u00E8re de mise en fourri\u00E8re des v\u00E9hicules et en mati\u00E8re de permis \u00E0 points.",
       "title_short": "R\u00E8glement grand-ducal du 21 mai 2019 fixant les montants du droit d\u2019usage pour l\u2019utilisation de certaines routes par des v\u00E9hicules utilitaires lourds.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/05/21/a353/consolide/20241224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0c32af93665613cf820f58e4764a5bc10659a8155b3418d8faeb2f9252cf5c37",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/05/21/a353/consolide/20241224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/05/21/a353/consolide/20241224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fbe27608f3fd1f91ca0e5ae2a3876996447a85981cbbc7298338a284d72620b6"
+  "record_sha256": "194b007686ad3a6afb775ee1fe432bead71de8c65c423b5315cab2365977e5c9"
 }

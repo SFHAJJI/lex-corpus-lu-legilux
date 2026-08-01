@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/09/2019 : R\u00E8glement grand-ducal du 31 ao\u00FBt 2018 \\n1\u00B0 cr\u00E9ant la section gestion de l\u2019hospitalit\u00E9, la section architecture, design et d\u00E9veloppement durable et la section sciences environnementales ;\\n2\u00B0 fixant les grilles horaires, les coefficients des disciplines et des disciplines combin\u00E9es, ainsi que les disciplines fondamentales de l\u2019enseignement secondaire g\u00E9n\u00E9ral.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "30277f6ce9a4e14a9d036bae69e8a4f89f24533a17c82c107dac2a3376681d0c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/31/a816/consolide/20190916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "518255088eff78aec96c51652ca12f396b77cf082135291a237eb40d8eff1a70"
+  "record_sha256": "ae130cbb51edca1a8347853d9bcb027e2e580931481575038ac5c151111a1b30"
 }

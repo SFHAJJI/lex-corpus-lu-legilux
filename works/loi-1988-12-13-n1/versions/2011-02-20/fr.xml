@@ -1,0 +1,3617 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2011-02-17" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MI"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2011-02-17" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2011-02-17" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2011-02-17</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2011A0249A</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MI</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/5</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/746</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2011-02-21</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/30</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2011-02-17</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="consolidates">/eli/etat/leg/loi/1988/12/13/n1/jo</scl:jolux>
+					<scl:jolux scl:name="titleAlternative">TC - Loi communale du 13 décembre 1988</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">TEXTE COORDONNÉ de la loi communale du 13 décembre 1988.</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1993/04/20/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1995/12/28/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1995/12/28/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1999/05/31/n7/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2001/02/23/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/tc/2001/03/26/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2001/08/01/n16/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20000140</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/rgd/2003/07/07/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/rgd/2004/04/23/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2004/06/12/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2004/07/19/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2004/07/09/n3/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20020083</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2005/07/19/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20050028</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2006/08/05/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20060026</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2006/12/22/n8/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20050107</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2008/10/23/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20060146</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/rgd/2009/03/18/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/rgd/2009/08/03/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/dir_ue/2004/17/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/dir_ue/2004/18/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/dir_ue/2005/51/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2009/12/10/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20080033</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2009/12/18/n14/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20080010</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2011/02/13/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/proj/pl/20080041</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/constitution/1868/10/17/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1913/07/13/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1984/02/24/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1900/02/14/n5/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1955/02/14/n3/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1961/02/08/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/agd/1944/10/26/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1819/04/29/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1843/02/24/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/argd/1846/12/11/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1847/09/23/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/argd/1882/03/29/n4/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1919/08/01/n3/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1929/02/16/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1920/04/06/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1972/07/24/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1996/11/07/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/dir_ue/1989/665/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1996/07/12/n3/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1999/06/21/n2/jo</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/30/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2011-02-17-n1-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">249</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/30/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2011-30-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">249</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2011/02/17/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2011-02-17" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+			</lifecycle>
+			<analysis source="#"/>
+			<references source="#">
+				<original href="/eli/etat/leg/tc/2011/02/17/n1/jo" id="ro1" showAs="Original"/>
+			</references>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_0_0">
+					<p>Renuméroté par la <ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="bdf96af1-b4e4-4a66-8595-7a5ed8e35995">loi du 13 février 2011</ref>. </p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_1_0">
+					<p>Implicitement modifié en vertu de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/jo" id="0035f8a9-1362-4077-bd87-8ff26d389706">loi du 1<sup>er</sup> août 2001</ref> relative au basculement en euro (Mém. A - 117 du 18 septembre 2001, p. 2440; <ref href="/eli/etat/proj/pl/20000140" id="3eb260ff-7cce-4b41-b861-07a0fde4cb1b">doc. parl. 4722</ref>).</p>
+				</note>
+				<note id="note_0_1_1">
+					<p>Ainsi modifié par la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2009/12/18/n14/jo" id="0ca96f9b-3413-47b5-9ade-fcddba5e60e9">loi du 18 décembre 2009</ref>.</p>
+				</note>
+				<note id="note_0_1_2">
+					<p>Ainsi modifié par la <ref href="/eli/etat/leg/loi/2009/12/18/n14/jo" id="29d339fc-9030-4e5f-9bad-5b7730b6b683">loi du 18 décembre 2009</ref>.</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_2_0">
+					<p>En vertu de la <ref href="/eli/etat/leg/loi/1996/11/07/n1/jo" id="5c72cde0-9f4e-4d99-acdc-2fdc9475f9de">loi du 7 novembre 1996</ref>, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif (Mém. A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A).</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_3_0">
+					<p>Ainsi modifié en vertu du <ref href="http://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n2/jo" id="846c80f0-9687-41b1-b600-5b95d29ad0af">règl. g.-d. du 23 avril 2004</ref>.</p>
+				</note>
+				<note id="note_0_3_1">
+					<p>
+						<ref href="http://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n2/jo" id="d5d03a0e-d024-4281-92bb-269daba6ec7e">Ainsi modifié en vertu du règl. g.-d. du 23 avril 2004.</ref>
+					</p>
+				</note>
+				<note id="note_0_3_2">
+					<p>
+						<ref href="http://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n2/jo" id="e6133493-6ac2-4045-9db0-1578f8e628ab">Ainsi modifié en vertu du règl. g.-d. du 23 avril 2004.</ref>
+					</p>
+				</note>
+				<note id="note_0_3_3">
+					<p>
+						<ref href="http://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n2/jo" id="6e65727d-e7e7-419c-8491-5b538871991b">Ainsi modifié en vertu du règl. g.-d. du 23 avril 2004.</ref>
+					</p>
+				</note>
+				<note id="note_0_3_4">
+					<p>
+						<ref href="http://legilux.public.lu/eli/etat/leg/rgd/2009/08/03/n1/jo" id="301a4ce2-e393-4808-a734-02c747d6175a">Ainsi modifié en vertu du règl. g.-d. du 3 août 2009.</ref>
+					</p>
+				</note>
+				<note id="note_0_3_5">
+					<p>
+						<ref href="http://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n2/jo" id="c16c84da-8d26-4efa-93f9-45f47ebfb42f">Ainsi modifié en vertu du règl. g.-d. du 23 avril 2004.</ref>
+					</p>
+				</note>
+				<note id="note_0_3_6">
+					<p>En vertu de l’alinéa (2) de l’art. 100 de la <ref href="/eli/etat/leg/loi/1996/11/07/n1/jo" id="2e967202-b45b-4638-84f4-3a7e9b917a3b">loi du 7 novembre 1996</ref> (Mém. A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A), tel que modifié par le point 9 de l’article 61 de la <ref href="/eli/etat/leg/loi/1999/06/21/n2/jo" id="a06916d6-9925-4330-8a97-3ba74fd6da81">loi du 21 juin 1999</ref> portant règlement de procédure devant les juridictions administratives (Mém. A - 98 du 26 juillet 1999, p. 1892; doc. parl. 4326; <ref href="/eli/dir_ue/1989/665/jo" id="7997f212-5acd-4055-84ba-dce5e572bae8">dir. 89/665</ref>), la référence au Comité du Contentieux du Conseil d’Etat dans le texte original s’entend ici comme référence à la Cour administrative.</p>
+				</note>
+				<note id="note_0_3_7">
+					<p>La <ref href="/eli/etat/leg/loi/1961/02/08/n1/jo" id="c49dcf17-1a8b-48d2-a4ed-e04ab000f839">loi du 8 février 1961</ref> a été abrogée par la <ref href="/eli/etat/leg/loi/1996/07/12/n3/jo" id="4bdb903f-02d5-4c38-acba-a05a2b25428e">loi du 12 juillet 1996</ref> portant réforme du Conseil d’Etat (Mém. A - 45 du 12 juillet 1996, p. 1319).</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_4_0">
+					<p>En vertu de la <ref href="/eli/etat/leg/loi/1996/11/07/n1/jo" id="f3579ddc-9832-4b86-94af-925794abb4a3">loi du 7 novembre 1996</ref>, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif (Mém. A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A).</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_5_0">
+					<p>En vertu de la <ref href="/eli/etat/leg/loi/1996/11/07/n1/jo" id="8b62ae5b-9832-4da0-bd69-ce18498edf93">loi du 7 novembre 1996</ref>, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif (Mém. A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A).</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_6_0">
+					<p>En vertu de la <ref href="/eli/etat/leg/loi/1996/11/07/n1/jo" id="8f560976-a4b0-4e27-9b83-4d2d85b7c135">loi du 7 novembre 1996</ref>, la référence au Comité du Contentieux du Conseil d’Etat s’entend comme référence au tribunal administratif (Mém. A - 79 du 19 novembre 1996, p. 2262; doc. parl. 3940A).</p>
+				</note>
+			</notes>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2011-02-17-n2-jo-fr-xml">
+				<note id="note_0_7_0">
+					<p>Ainsi modifié en vertu du <ref href="http://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n2/jo" id="4baaa928-bda0-474b-9256-6da300497b71">règl. g.-d. du 23 avril 2004</ref>.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>TEXTE COORDONNÉ de la loi communale du 13 décembre 1988,</p>
+			</longTitle>
+		</preface>
+		<preamble>
+			<container name="preamble">
+				<p scl:align="center">(<ref href="/eli/etat/leg/loi/1988/12/13/n1/jo" id="76b41493-2067-4466-ab1a-fc5c7638ac55">Mém. A - 64 du 13 décembre 1988</ref>, p. 1222; doc. parl. 2675)</p>
+				<p>modifiée par:</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/1993/04/20/n1/jo" id="23a998d5-89e9-4985-827a-bb087c4f05c8">Loi du 20 avril 1993</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 35 du 7 mai 1993, p. 624; doc. parl. 3670)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/1995/12/28/n1/jo" id="f04b33d5-aa71-4822-a351-c6972d592191">Loi du 28 décembre 1995</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 101 du 28 décembre 1995, p. 2551; doc. parl. 4051) </p>
+				<p>
+					<ref href="/eli/etat/leg/loi/1995/12/28/n2/jo" id="9382996b-5526-456c-af11-05c0220030da">Loi du 28 décembre 1995</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 101 du 28 décembre 1995, p. 2553; doc. parl. 4051A)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/1999/05/31/n7/jo" id="7e0046d0-7e5f-4169-9530-2cdb00014c9d">Loi du 31 mai 1999</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 87 du 5 juillet 1999, p. 1802; doc. parl. 4437)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2001/02/23/n1/jo" id="b2079cbf-8af0-4e59-bf2e-040cd4d68454">Loi du 23 février 2001</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 36 du 26 mars 2001, p. 858; doc. parl. 4139)</p>
+				<p scl:space-tab="20">(<ref href="/eli/etat/leg/tc/2001/03/26/n1/jo" id="7b98393d-cb3a-420a-ae80-6a6de68664d9">Texte coordonné</ref> du 26 mars 2001 - Mém. A - 36 du 26 mars 2001, p. 864)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2001/08/01/n16/jo" id="4cd24b06-79df-42e6-9f32-7b3a4f181439">Loi du 1<sup>er</sup> août 2001</ref> (basculement en euro)</p>
+				<p scl:space-tab="20">(Mém. A - 117 du 18 septembre 2001, p. 2440; doc. parl. <ref href="/eli/etat/proj/pl/20000140" id="87fdb555-61c3-4263-8243-a67b62da06bc">4722</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2003/07/07/n1/jo" id="e042364e-8da4-40b4-b5bc-6013d6eb3ea1">Règlement grand-ducal du 7 juillet 2003</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 93 du 10 juillet 2003, p. 1694)</p>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2004/04/23/n2/jo" id="9a255f43-d8b6-4a31-8cd4-438752f51250">Règlement grand-ducal du 23 avril 2004</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 74 du 18 mai 2004, p. 1096)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2004/06/12/n1/jo" id="bcef71d3-97a1-4765-96e5-c9d69533b4d5">Loi du 12 juin 2004</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 96 du 25 juin 2004, p. 1578; doc. parl. 4536)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="55be4360-c1cf-4e6d-833c-8d3a88b90adb">Loi du 19 juillet 2004</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 141 du 4 août 2004, p. 1992; doc. parl. 4486)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2004/07/09/n3/jo" id="47fa53f2-8fa1-48dc-84a4-bd66af16d371">Loi du 9 juillet 2004</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 143 du 6 août 2004, p. 2020; doc. parl. <ref href="/eli/etat/proj/pl/20020083" id="f0387692-2c01-467f-a3d2-f6a07b16c5d1">4946</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2005/07/19/n1/jo" id="9eeead43-dcb8-4cd6-8429-4d7bb24f4756">Loi du 19 juillet 2005</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 109 du 26 juillet 2005, p. 1888; doc. parl. <ref href="/eli/etat/proj/pl/20050028" id="ed624471-f92b-4334-8ba9-ff80741e3733">5449</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2006/08/05/n1/jo" id="66936c30-249d-4df6-968a-a4fc5d05bf4e">Loi du 5 août 2006</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 151 du 30 août 2006. p. 2670; doc. parl. <ref href="/eli/etat/proj/pl/20060026" id="555e4bc7-466f-4737-9640-0e57d3cd84de">5548</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2006/12/22/n8/jo" id="48e9ccf3-cce3-4ee5-92db-03442dcb8211">Loi du 22 décembre 2006</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 237 du 29 décembre 2006, p. 4618; doc. parl. <ref href="/eli/etat/proj/pl/20050107" id="5b7b844d-5f75-4155-9665-95f9be3aab2d">5490</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2008/10/23/n1/jo" id="b24fd8c0-90db-4587-badb-dca92224b8d8">Loi du 23 octobre 2008</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 158 du 27 octobre 2008, p. 2222; doc. parl. <ref href="/eli/etat/proj/pl/20060146" id="b7433b5f-73e3-49b5-9af4-8e32d60dcf69">5620</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2003/07/07/n1/jo" id="79bf815a-a4f4-4082-86b9-0a9386e179a5">Règlement grand-ducal du 7 juillet 2003</ref> tel que modifié par le <ref href="/eli/etat/leg/rgd/2009/03/18/n2/jo" id="36072e03-55fa-4083-a7d4-56c4bf5b866a">règlement grand-ducal du 18 mars 2009</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 59 du 26 mars 2009, p. 796)</p>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2009/08/03/n1/jo" id="48d0fd42-72fd-469a-be04-78116b528916">Règlement grand-ducal du 3 août 2009</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 180 du 11 août 2009, p. 2608; <ref href="/eli/dir_ue/2004/17/jo" id="15d8ee7b-ac6d-43fd-8962-fea15a993749">dir. 2004/17/CE</ref>, <ref href="/eli/dir_ue/2004/18/jo" id="3858170b-c5cb-4b87-8ca5-f28294417885">2004/18/CE</ref> et <ref href="/eli/dir_ue/2005/51/jo" id="6acf364a-c935-4a94-9f78-46cae1a9946d">2005/51/CE</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2009/12/10/n1/jo" id="61cb87b2-0206-40f8-8038-b121dc7bff08">Loi du 10 décembre 2009</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 263 du 31 décembre 2009, p. 5490; doc. parl. <ref href="/eli/etat/proj/pl/20080033" id="4469d071-8af2-47a5-9d21-fa35c3bbbc6c">5856</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2009/12/18/n14/jo" id="f246ad04-af33-444b-8af2-d9c766ce74ca">Loi du 18 décembre 2009</ref>
+				</p>
+				<p scl:space-tab="20">(Mém. A - 260 du 29 décembre 2009, p. 5474; doc. parl. <ref href="/eli/etat/proj/pl/20080010" id="0e06bd4a-1add-42bf-9ef0-e5ec0f1a7ca5">5830</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="a7d4d12a-96a3-43dd-8d57-e77b0138eb5a">Loi du 13 février 2011</ref>.</p>
+				<p scl:space-tab="20">(Mém. A - 29 du 16 février 2011, p. 240; doc. parl. <ref href="/eli/etat/proj/pl/20080041" id="a6f4d524-9336-4736-8cb9-c0a3dcd7c895">5858</ref>)</p>
+				<p scl:align="center" scl:space-before="15">
+					<b>Texte coordonné</b>
+				</p>
+			</container>
+			<formula name=""/>
+		</preamble>
+		<body>
+			<title id="titre_1er">
+				<num>
+					<b>Titre 1<sup>er</sup>. </b>
+				</num>
+				<heading scl:separator=" – " scl:style-format="b">
+					<b> De la division du pays, du territoire de la commune et de son nom</b>
+				</heading>
+				<chapter id="titre_1er.chapitre_1er">
+					<num>
+						<b>Chapitre 1<sup>er</sup>. </b>
+					</num>
+					<heading scl:separator="– " scl:style-format="b">
+						<b> De la division du pays</b>
+					</heading>
+					<article id="art_1er">
+						<num>Art. 1<sup>er</sup>.</num>
+						<alinea>
+							<content>
+								<p>Le Grand-Duché est divisé en communes et celles-ci forment des districts, le tout de la manière qu’il est établi ou qu’il sera ultérieurement arrêté.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La dénomination de ville est attribuée par la loi. Elle est conservée aux communes de Luxembourg, Diekirch, Differdange, Dudelange, Echternach, Esch-sur-Alzette, Ettelbruck, Grevenmacher, Remich, Rumelange, Vianden et Wiltz.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les communes peuvent, par décision du conseil communal, prise sur avis préalable de la commission héraldique de l’Etat, se doter d’armoiries propres. Ces armoiries doivent être agréées et enregistrées par le ministre d’Etat, président du Gouvernement, conformément aux dispositions légales en vigueur.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_1er.chapitre_2">
+					<num>
+						<b>Chapitre 2. </b>
+					</num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du territoire de la commune</b>
+					</heading>
+					<article id="art_2">
+						<num>Art. 2.</num>
+						<alinea>
+							<content>
+								<p>La création de nouvelles communes, soit par l’érection en commune distincte de fractions d’une ou de plusieurs communes, soit par la fusion de deux ou de plusieurs communes, ainsi que la modification de leurs limites, ne peuvent se faire que par la loi.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_1er.chapitre_3">
+					<num>
+						<b>Chapitre 3. </b>
+					</num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du nom de la commune</b>
+					</heading>
+					<article id="art_3">
+						<num>Art. 3.</num>
+						<alinea>
+							<content>
+								<p>Le changement de nom d’une commune ne peut se faire que par la loi, sur la demande du conseil communal.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+			</title>
+			<title id="titre_2">
+				<num>
+					<b>Titre 2. </b>
+				</num>
+				<heading scl:separator=" – " scl:style-format="b">
+					<b> De la composition et des attributions des organes de la commune</b>
+				</heading>
+				<chapter id="titre_2.chapitre_1er">
+					<num>
+						<b>Chapitre 1<sup>er</sup>. </b>
+					</num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du corps communal</b>
+					</heading>
+					<article id="art_4">
+						<num>Art. 4.</num>
+						<alinea>
+							<content>
+								<p>Il y a dans chaque commune un corps communal qui se compose du conseil communal, du collège des bourgmestre et échevins et du bourgmestre.</p>
+							</content>
+						</alinea>
+					</article>
+					<alinea>
+						<content>
+							<p>
+								<i>(</i>
+								<i>
+									<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="a4517634-7749-4dbb-96b5-df896c773805">Loi du 13 février 2011</ref>
+								</i>
+								<i>)</i>
+							</p>
+						</content>
+					</alinea>
+					<article id="art_4bis">
+						<num>
+							<span scl:style-format="n">«</span>Art. 4<i>bis</i>.</num>
+						<alinea>
+							<content>
+								<p>En vue de déterminer le nombre des membres du conseil communal assignés à chaque commune, il est procédé, au moins tous les dix ans, au recensement de la population du Grand-Duché de Luxembourg</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La date et les modalités de ce recensement sont fixées par règlement grand-ducal. Le recensement se fait sur la base de la résidence habituelle qui est le lieu géographique où la personne à recenser habite d’ordinaire.»</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_2.chapitre_2">
+					<num>
+						<b>Chapitre 2. </b>
+					</num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du conseil communal</b>
+					</heading>
+					<section id="titre_2.chapitre_2.section_1re">
+						<num>
+							<i>Section 1<sup>re</sup>. </i>
+						</num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>De la formation du conseil communal</i>
+						</heading>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="8188f001-e2f9-4fa7-9cf6-28dba392b8d1">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_5">
+							<num>
+								<span scl:style-format="n">«</span>Art. 5.</num>
+							<alinea>
+								<content>
+									<p>Les conseils communaux, y compris les membres du collège des bourgmestre et échevins, sont composés:</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 7 membres dans les communes dont la population ne dépasse pas 999 habitants;</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 9 membres dans les communes de 1.000 à 2.999 habitants;</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 11 membres dans les communes de 3.000 à 5.999 habitants;</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 13 membres dans les communes de 6.000 à 9.999 habitants;</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 15 membres dans les communes de 10.000 à 14.999 habitants;</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 17 membres dans les communes de 15.000 à 19.999 habitants;</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>de 19 membres dans les communes de 20.000 habitants et plus, sauf que le conseil communal de la Ville de Luxembourg est composé de 27 membres.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="1b35ea5b-38b4-4bd9-a615-638296b2bc5c">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_5bis">
+							<num>
+								<span scl:style-format="n">«</span>Art. 5<i>bis</i>.</num>
+							<alinea>
+								<content>
+									<p>Les conseillers communaux sont élus directement par les électeurs de la commune, le tout dans la forme et de la manière déterminées par la loi électorale. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le conseil communal est installé et entre en fonctions dès que les nominations et les assermentations du bourgmestre et des échevins, tels que présentés par la majorité des nouveaux élus au conseil communal, ont été opérées.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les fonctions du conseil communal sortant suite à des élections ordinaires cessent au moment de l’entrée en fonctions du nouveau conseil communal. Elles ne peuvent en aucun cas se prolonger au-delà du 31 décembre suivant les élections communales ordinaires par lesquelles il est procédé au renouvellement intégral de tous les conseils communaux.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="12b3f20e-a490-49a3-ad4f-5e2188bfc709">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_5ter">
+							<num>
+								<span scl:style-format="n">«</span>Art. 5<i>ter</i>.</num>
+							<alinea>
+								<content>
+									<p>La fixation du nombre des conseillers communaux attribués à chaque commune est faite par règlement grand-ducal, sur proposition du ministre de l’Intérieur, eu égard au résultat des recensements de la population du Grand-Duché de Luxembourg.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le règlement grand-ducal qui dispose de cette fixation est publié dans le délai de douze mois à partir du recensement. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Lorsque le dernier recensement de la population prévu à l’article 4<i>bis</i> est antérieur de plus de cinq ans à la date des élections communales ordinaires, le nombre des conseillers communaux attribués à chaque commune est fixé eu égard à la population réelle de chaque commune au 31 décembre de l’année précédant les élections communales. Le règlement grand-ducal qui fixe ce nombre est publié au plus tard six mois avant la date des élections communales.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’augmentation ou la réduction du nombre des conseillers ne s’opère qu’à l’occasion des élections communales ordinaires.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>
+										<eop/>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="58cfba18-1751-4f3e-8276-ec4b4ed4563f">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_5quater">
+							<num>
+								<span scl:style-format="n">«</span>Art. 5<i>quater</i>.</num>
+							<alinea>
+								<content>
+									<p>Les membres du conseil communal sont élus pour le terme de six ans, à compter du 1<sup>er</sup> janvier qui suit leur élection, sans préjudice des dispositions de l’article 5<i>bis</i> de la présente loi. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Ils sont rééligibles.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_6">
+							<num>Art. 6.</num>
+							<alinea>
+								<content>
+									<p>Les conseillers prêtent, avant d’entrer en fonctions, le serment suivant:</p>
+									<p>«Je jure fidélité au Grand-Duc, d’observer la <ref href="/eli/etat/leg/constitution/1868/10/17/n1/jo" id="7db5fa66-d7a3-4798-814e-82370f0e13e2">Constitution</ref> et les lois du pays, et de remplir avec zèle, exactitude, intégrité et impartialité les fonctions qui me sont confiées.»</p>
+									<p>Ce serment est prêté par les conseillers entre les mains du bourgmestre ou de celui qui le remplace.</p>
+									<p>(…) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="21223996-f02b-4262-99e1-8901907b9db4">loi du 13 février 2011</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="58e87b08-d28d-450b-8475-7d8310ae4610">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_7">
+							<num>
+								<span scl:style-format="n">«</span>Art. 7.</num>
+							<alinea>
+								<content>
+									<p>Toute personne élue au conseil communal peut, avant la prestation de serment, renoncer à son mandat en faisant part de son désistement par écrit au ministre de l’Intérieur qui pourvoira à la vacance en procédant selon les dispositions des articles 222 ou 259 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/1913/07/13/n1/jo" id="e3bf78cb-407c-4789-8750-9b7fffb2c44a">loi électorale</ref>.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_8">
+							<num>Art. 8.</num>
+							<alinea>
+								<content>
+									<p>Le conseiller qui, après avoir reçu deux convocations consécutives aux fins de prêter serment, s’abstient, sans motif légitime, de remplir cette formalité, est considéré comme ayant renoncé à son mandat. Cette renonciation est formellement constatée par le ministre de l’Intérieur sur proposition du conseil communal ou du commissaire de district.</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="3fcb3edb-e2f2-45da-8482-9c29be24db1f">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_9">
+							<num>
+								<span scl:style-format="n">«</span>Art. 9.</num>
+							<alinea>
+								<content>
+									<p>La personne élue au conseil communal, frappée d’incompatibilité par l’article 11<i>ter</i> de la présente loi ou par l’article 196 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/1913/07/13/n1/jo" id="4b71672d-81bb-4b1d-b6fa-84cec80fbe2f">loi électorale</ref>, ne peut être admise à prêter serment aussi longtemps que l’incompatibilité subsiste.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La personne élue est considérée comme se désistant de son mandat si, dans les trente jours à dater de son élection, elle n’a pas mis fin à la situation incompatible avec le mandat de conseiller communal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas de désistement implicite, conformément à l’alinéa qui précède, le bourgmestre en exercice de fonctions en informe immédiatement par écrit le ministre de l’Intérieur qui fera appel au suivant conformément aux dispositions des articles 222 et 259 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/1913/07/13/n1/jo" id="0766b5ce-3b82-4bfc-8f24-de0b0377d894">loi électorale</ref>.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_10">
+							<num>Art. 10.</num>
+							<alinea>
+								<content>
+									<p>Tout membre du conseil communal qui accepte des fonctions incompatibles avec son mandat cesse de faire partie du conseil si, dans les trente jours à dater de la mise en demeure que lui notifie le collège des bourgmestre et échevins ou le ministre de l’Intérieur, il n’a pas résilié les fonctions incompatibles avec son mandat.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_11">
+							<num>Art. 11.</num>
+							<alinea>
+								<content>
+									<p>Aussitôt après la prestation de serment, il est procédé à la formation du tableau de préséance des membres du conseil. Ce tableau qui est dressé par le conseil communal, sous l’approbation du ministre de l’Intérieur, est réglé d’après l’ordre d’ancienneté de service des conseillers.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les nouveaux membres y sont inscrits d’après la date et dans l’ordre de leur élection, à la suite de ceux qui sont déjà inscrits au tableau préexistant. Ceux qui sont élus par continuation ne sont pas considérés comme nouvellement entrés.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Lorsque l’entrée en service a lieu à la même époque pour plusieurs conseillers, l’ancienneté est déterminée d’après le nombre des suffrages. Au cas de parité de voix, le plus âgé l’emporte. (…)<i>(supprimé par la <ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="69f4d336-e655-4ca9-925d-9fb100a9d537">loi du 13 février 2011</ref>)</i>.</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="b061735e-ffdf-46e5-a493-bc5dbc02a776">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_11bis">
+							<num>
+								<span scl:style-format="n">«</span>Art. 11<i>bis</i>.</num>
+							<alinea>
+								<content>
+									<p>La démission des fonctions de conseiller communal est donnée par écrit au ministre de l’Intérieur par l’intermédiaire du commissaire de district. Le ministre de l’Intérieur accepte la démission du conseiller. Cette acceptation est notifiée par simple lettre à l’intéressé et sort ses effets trois jours après sa signature. Copie en est adressée au bourgmestre de la commune pour information par l’intermédiaire du commissaire de district. Le bourgmestre informe le conseil communal de la démission du conseiller dans sa prochaine séance.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le bourgmestre ou l’échevin qui désirerait donner sa démission comme conseiller communal doit avoir préalablement obtenu sa démission comme bourgmestre ou échevin par l’autorité de nomination.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="http://legilux.public.lu/eli/etat/leg/loi/2011/02/13/n1/jo" id="0d095428-0f5c-47f0-a252-5b0899c6640f">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+					</section>
+					<section id="titre_2.chapitre_2.section_2">
+						<num>
+							<i>«Section 2. </i>
+						</num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Des incompatibilités</i>
+						</heading>
+						<article id="art_11ter">
+							<num>Art. 11<i>ter</i>.</num>
+							<paragraph id="paragraph_1">
+								<num>(1)</num>
+								<alinea>
+									<content>
+										<p>Ne peuvent faire partie d’un conseil communal:</p>
+										<ol scl:start="1" scl:symbol="1.">
+											<li>les ministres et les secrétaires d’Etat;</li>
+											<li>les fonctionnaires et employés affectés au département de l’Intérieur ainsi qu’à ses administrations;</li>
+											<li>les militaires de carrière;</li>
+											<li>les membres civils et militaires de la direction et du personnel de la Police grand-ducale, hormis ceux des agents qui n’assument pas des fonctions de police; </li>
+											<li>les ministres des cultes liés à l’Etat par voie de convention au sens de l’article 22 de la <ref href="http://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="594adb00-c9a1-4422-9d8d-ed348f91bd35">Constitution</ref> et visés par ces conventions;</li>
+											<li>les membres des juridictions de l’ordre administratif et de l’ordre judiciaire ainsi que de leurs parquets. </li>
+										</ol>
+									</content>
+								</alinea>
+							</paragraph>
+							<paragraph id="paragraph_2">
+								<num>(2)</num>
+								<alinea>
+									<content>
+										<p>Ne peuvent faire partie du conseil communal d’une commune déterminée: </p>
+										<ol scl:start="1" scl:symbol="1.">
+											<li>toute personne qui reçoit une rémunération, fixe ou variable, de la commune ou d’un établissement subordonné à l’administration de la commune ou d’un syndicat intercommunal dont la commune fait partie ainsi que de toute autre personne morale de droit public ou de droit privé dans laquelle la commune est associée;</li>
+											<li>toute personne intervenant dans l’enseignement et l’encadrement des élèves, y compris les chargés de cours de religion et de formation morale et sociale dans l’enseignement fondamental de la commune. </li>
+										</ol>
+									</content>
+								</alinea>
+							</paragraph>
+						</article>
+						<article id="art_11quater">
+							<num>Art. 11<i>quater</i>.</num>
+							<alinea>
+								<content>
+									<p>Ne peuvent être ni bourgmestre, ni échevin, ni en exercer temporairement les fonctions:</p>
+									<ol scl:start="1" scl:symbol="1.">
+										<li>les fonctionnaires et employés de l’Administration des ponts et chaussées, de l’Administration des services techniques de l’agriculture, de l’Administration des bâtiments publics, de l’Administration de l’environnement, de l’Administration de la nature et des forêts, de l’Inspection sanitaire, de l’Inspection du travail et des mines et des administrations fiscales de l’Etat, si la commune de leur domicile fait partie du ressort territorial de leur activité;</li>
+										<li>les ministres d’un culte.»</li>
+									</ol>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_2.section_3">
+						<num>
+							<i>Section «3»<noteRef href="#note_0_0_0"/>
+							</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Du fonctionnement du conseil communal</i>
+						</heading>
+						<article id="art_12">
+							<num>Art. 12.</num>
+							<alinea>
+								<content>
+									<p>Le conseil communal se réunit toutes les fois que l’exigent les affaires comprises dans ses attributions et au moins une fois tous les trois mois.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Il est convoqué par le collège des bourgmestre et échevins ou, en cas d’urgence, par le bourgmestre seul. Sur la demande écrite et motivée de la majorité des membres du conseil ou du ministre de l’Intérieur, le collège des bourgmestre et échevins est tenu de convoquer le conseil, avec l’ordre du jour proposé, dans un délai maximum de quinze jours. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_13">
+							<num>Art. 13.</num>
+							<alinea>
+								<content>
+									<p>Sauf le cas d’urgence, la convocation se fait, par écrit et à domicile, au moins cinq jours avant celui de la réunion; elle mentionne le lieu, le jour et l’heure de la réunion et en contient l’ordre du jour.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Aucun objet étranger à l’ordre du jour ne peut être mis en discussion, sauf dans les cas d’urgence. L’urgence est déclarée par la majorité des membres présents. Leurs noms sont inscrits au procès-verbal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Tout objet d’intérêt communal qu’un membre du conseil communal demande au bourgmestre de faire figurer à l’ordre du jour du conseil doit y être porté par le collège des bourgmestre et échevins, pour autant que la demande motivée a été faite par écrit et trois jours au moins avant la date de la réunion du conseil.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Pour chaque point à l’ordre du jour, les documents, actes et pièces afférents peuvent être consultés, sans déplacement, par les membres du conseil à la maison communale durant le délai prévu à l’alinéa 1<sup>er</sup> du présent article. Il peut en être pris copie, le cas échéant contre remboursement.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_14">
+							<num>Art. 14.</num>
+							<alinea>
+								<content>
+									<p>Le conseil communal se donne un règlement d’ordre intérieur qui arrête la façon dont il exerce ses attributions, compte tenu des dispositions de la loi. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/1995/12/28/n1/jo" id="97171ccc-729b-44fd-a07b-3a75ce7e6862">Loi du 28 décembre 1995</ref> - Citoyens de l’Union Européenne)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«La langue usuelle parlée au conseil communal est le luxembourgeois. Les conseillers peuvent s’exprimer également dans l’une des autres langues visées à l’article 3 de la <ref href="/eli/etat/leg/loi/1984/02/24/n1/jo" id="7f2747fb-306a-4a8e-a596-9a130c403820">loi du 24 février 1984</ref> sur le régime des langues. Nul ne saurait toutefois demander une interprétation de la langue parlée ou une traduction des documents écrits présentés en une des langues visées par la loi précitée ou en toute autre langue.» </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_15">
+							<num>Art. 15.</num>
+							<alinea>
+								<content>
+									<p>Le conseil communal peut constituer des commissions consultatives dont la composition, le fonctionnement et les attributions sont fixés par règlement d’ordre intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans les communes qui votent d’après le système de la représentation proportionnelle chaque groupement de candidats est représenté dans les commissions consultatives en fonction du nombre de ses élus au conseil.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_16">
+							<num>Art. 16.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre ou celui qui le remplace préside le conseil communal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le président ouvre et clôt la séance. Il peut aussi la suspendre pour un temps limité dans les conditions fixées par le règlement d’ordre intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_17">
+							<num>Art. 17.</num>
+							<alinea>
+								<content>
+									<p>Le président a seul la police de l’assemblée. Il peut faire expulser de l’auditoire ou faire arrêter toute personne qui trouble l’ordre.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_18">
+							<num>Art. 18.</num>
+							<alinea>
+								<content>
+									<p>Le conseil ne peut prendre de résolution, si la majorité de ses membres en fonction n’est présente.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Cependant, si l’assemblée a été convoquée deux fois sans s’être trouvée en nombre requis, elle pourra, après une nouvelle et dernière convocation, quel que soit le nombre des membres présents, prendre une résolution sur les objets mis pour la troisième fois à l’ordre du jour.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les deuxième et troisième convocations se feront conformément aux règles prescrites par les articles 12 et 13, et il sera fait mention si c’est pour la deuxième fois ou pour la troisième que la convocation a lieu; en outre la troisième convocation rappellera textuellement les deux premières dispositions du présent article.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Un membre du conseil qui, sans motif légitime, n’aura pas été présent à trois séances consécutives pourra, sur la proposition du conseil, être déclaré démissionnaire par le ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_19">
+							<num>Art. 19.</num>
+							<alinea>
+								<content>
+									<p>Le conseil décide à la majorité des suffrages. En cas de partage, l’objet en discussion devra être reporté à l’ordre du jour de la séance suivante; au même cas de partage dans cette seconde séance, le bourgmestre, ou celui qui le remplace, a voix prépondérante.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les membres du conseil votent à haute voix, à main levée ou par assis et levé. Le vote à haute voix a lieu par ordre alphabétique et commence par le conseiller dont le nom est sorti premier de l’urne.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2006/08/05/n1/jo" id="e2f2e1e2-3b43-4583-a9c3-7310ffa2229e">Loi du 5 août 2006</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Les présentations de candidats, nominations aux emplois, promotions, démissions ou peines disciplinaires sont décidées à huis clos à la majorité absolue.»</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>(...) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2006/08/05/n1/jo" id="cff528c8-eac3-40a0-ae5a-851528485efb">loi du 5 août 2006</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En ce qui concerne l’administration des hospices civils, les conditions de validité des délibérations de la commission, de l’ordre et de la tenue des séances, sauf en ce qui concerne la publicité, les conditions d’annulation de ses délibérations et de recours sont celles que fixe la législation en vigueur pour les conseils communaux.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_20">
+							<num>Art. 20.</num>
+							<alinea>
+								<content>
+									<p>Il est interdit à tout membre du corps communal, au secrétaire et receveur:</p>
+									<ol scl:start="1" scl:symbol="1°">
+										<li>d’être présent aux délibérations du conseil communal et du collège des bourgmestre et échevins sur des objets auxquels il a un intérêt direct, soit personnellement, soit comme chargé d’affaires ou fondé de pouvoir ou auxquels ses parents ou alliés jusqu’au troisième degré inclusivement ont un intérêt personnel et direct. Cette interdiction s’applique tant aux discussions qu’au vote;</li>
+										<li> d’intervenir comme avocat, avoué ou chargé d’affaires dans les procès dirigés contre la commune. Il ne pourra, en la même qualité, servir la commune, si ce n’est gratuitement;</li>
+										<li>de prendre part, directement ou par personne interposée, à aucun marché de travaux, de fournitures ou de services pour la commune. Cette interdiction s’applique également aux sociétés civiles, en nom collectif, en commandite simple ou à responsabilité limitée dans lesquelles le membre du corps communal, le secrétaire ou le receveur est associé, gérant ou mandataire salarié ainsi qu’aux sociétés par actions ou coopératives dans lesquelles il est administrateur chargé de la gestion courante ou employé dirigeant.</li>
+									</ol>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Cette interdiction s’applique encore aux sociétés par actions et sociétés coopératives dans lesquelles un membre du collège des bourgmestre et échevins appartient au conseil d’administration.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’interdiction visée aux alinéas qui précèdent sub 3° ne s’applique pas aux fournitures et prestations urgentes de faible envergure faites par un commerçant ou artisan, lorsqu’aucune autre entreprise de la même branche n’existe dans la commune ou dans le voisinage.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Elle ne s’applique pas non plus aux sociétés visées à l’article 13 de la <ref href="/eli/etat/leg/loi/1900/02/14/n5/jo" id="9c16e4e7-853c-4093-b26a-3e2beae14042">loi modifiée du 14 février 1900</ref> concernant la création de syndicats de communes.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_21">
+							<num>Art. 21.</num>
+							<alinea>
+								<content>
+									<p>Les séances du conseil communal sont publiques. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Toutefois, pour des considérations d’ordre public ou à cause d’inconvénients graves, le conseil, à la majorité des deux tiers des membres présents, peut décider, par délibération motivée, que la séance est tenue à huis clos.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_22">
+							<num>Art. 22.</num>
+							<alinea>
+								<content>
+									<p>Le conseil communal se réunit à la maison communale ou dans un local particulier à désigner par le conseil communal, sous l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_23">
+							<num>Art. 23.</num>
+							<alinea>
+								<content>
+									<p>Les membres du conseil communal ont le droit de prendre connaissance des décisions du collège des bourgmestre et échevins prises en exécution des délibérations du conseil communal.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_24">
+							<num>Art. 24.</num>
+							<alinea>
+								<content>
+									<p>Tout habitant de la commune et toute personne intéressée a le droit de prendre connaissance et copie, le cas échéant contre remboursement, sans déplacement, des délibérations du conseil communal, à l’exception de celles qui furent prises à huis clos, aussi longtemps que le conseil n’a pas décidé de les rendre publiques.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le même droit ne peut en aucun cas et sous aucun prétexte être refusé au fonctionnaire délégué à cet effet par le ministre de l’Intérieur ou par le commissaire de district. A de pareils délégués ou commissaires spéciaux doivent aussi être fournis tous les renseignements que possède l’administration communale et dont ils ont besoin pour remplir leur mission.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_25">
+							<num>Art. 25.</num>
+							<alinea>
+								<content>
+									<p>Les membres du conseil ont le droit de poser au collège des bourgmestre et échevins des questions relatives à l’administration de la commune. Il y est répondu par écrit dans le mois ou oralement lors de la première réunion utile du conseil communal, le tout dans la forme et de la manière prévues au règlement d’ordre intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_26">
+							<num>Art. 26.</num>
+							<alinea>
+								<content>
+									<p>Les délibérations du conseil communal sont rédigées par le secrétaire et transcrites sans blanc ni interligne, sur un registre à feuilles fixes ou mobiles qui est coté et paraphé par le bourgmestre; elles sont signées par tous les membres présents dans les meilleurs délais et si possible lors de la prochaine réunion du conseil, sans qu’il puisse en être délivré expédition avant les signatures de la majorité.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les délibérations constatent le nombre des membres qui ont voté pour et contre.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Ces expéditions sont signées par le bourgmestre ou celui qui le remplace et contresignées par le secrétaire; elles énoncent les noms de tous les membres qui ont concouru à la délibération.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_27">
+							<num>Art. 27.</num>
+							<alinea>
+								<content>
+									<p>Des jetons de présence peuvent, sous l’approbation du ministre de l’Intérieur, être accordés aux membres du conseil et aux membres des commissions consultatives pour l’assistance aux séances du conseil et à celles de ses commissions. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2009/12/18/n14/jo" id="61f1df91-d897-46cc-a198-6276bdba0c66">Loi du 18 décembre 2009</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Des jetons de présence peuvent également être accordés, sous l’approbation du Ministre de l’Intérieur, aux membres des commissions administratives des hospices civils pour l’assistance aux séances desdites commissions.»</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_2.section4">
+						<num>
+							<i>Section«4»<noteRef href="#note_0_0_0"/>
+							</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i> Des attributions du conseil communal</i>
+						</heading>
+						<article id="art_28">
+							<num>Art. 28.</num>
+							<alinea>
+								<content>
+									<p>Le conseil communal règle tout ce qui est d’intérêt communal; il délibère ou donne son avis toutes les fois que ses délibérations ou avis sont requis par les lois et règlements ou demandés par l’autorité supérieure.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les délibérations du conseil sont précédées d’une information lorsqu’elle est prescrite par les lois et règlements ainsi que toutes les fois que le conseil communal le juge nécessaire.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_29">
+							<num>Art. 29.</num>
+							<alinea>
+								<content>
+									<p>Le conseil fait les règlements communaux.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Ces règlements ne peuvent être contraires aux lois ni aux règlements d’administration générale.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le conseil en transmet, dans les huit jours, des expéditions au ministre de l’Intérieur. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les infractions aux règlements communaux sont punies de peines de police, à moins que d’autres peines ne soient prévues par des lois spéciales.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Lorsque l’importance de la matière l’exige, le conseil communal peut, par délibération spécialement motivée, porter le maximum de l’amende jusqu’à «2.500 euros»<noteRef href="#note_0_1_0"/>.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Ces délibérations sont soumises à l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_30">
+							<num>Art. 30.</num>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2006/08/05/n1/jo" id="091698b5-971e-4407-ae3f-485080f43594">Loi du 5 août 2006</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Le conseil communal procède sous l’approbation du Ministre de l’Intérieur à la création de tout emploi communal à occuper par un agent ayant le statut soit du fonctionnaire, de l’employé communal, de l’employé privé ou de l’ouvrier.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Il nomme, révoque et démissionne les fonctionnaires et les employés de la commune sous l’approbation du ministre de l’Intérieur.» </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_31">
+							<num>Art. 31.</num>
+							<alinea>
+								<content>
+									<p>«Le conseil nomme les membres des commissions administratives des hospices civils.»<noteRef href="#note_0_1_1"/> Cette nomination est faite pour le terme fixé par la loi. Elle a lieu sur deux propositions, présentées l’une par l’administration de ces établissements, l’autre par le collège des bourgmestre et échevins. Le candidat figurant dans une proposition peut également figurer dans l’autre.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Les membres des commissions administratives des hospices civils doivent être de nationalité luxembourgeoise.»<noteRef href="#note_0_1_2"/> Les incompatibilités établies à l’égard des conseillers communaux leur sont applicables, sauf qu’ils peuvent être choisis parmi les ministres d’un culte salariés comme tels par l’Etat.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Expédition des actes de nomination est transmise au ministre de l’Intérieur, par l’intermédiaire du commissaire de district.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le conseil communal peut révoquer les membres des commissions administratives, sous l’approbation du ministre de l’Intérieur qui peut également dissoudre lesdites commissions, le conseil communal entendu.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Il n’est pas dérogé par les dispositions qui précèdent aux actes de fondation qui établissent des administrateurs spéciaux dont la gestion reste soumise à telle surveillance que de droit de la part de l’autorité supérieure compétente. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_32">
+							<num>Art. 32.</num>
+							<alinea>
+								<content>
+									<p>Sans préjudice des dispositions prévues à l’article 19 de la présente loi, toutes les fois que le conseil communal a une nomination ou une proposition de candidats à faire, le scrutin se fait par bulletins non signés, qui sont réunis par le bourgmestre ou celui qui le remplace, lequel donne ensuite lecture de ce qu’ils contiennent, tandis que deux autres membres présents du conseil communal, les premiers en rang après les échevins, s’occupent, l’un d’annoter successivement le contenu des bulletins, et l’autre d’en tenir le contrôle; il est en outre tenu par le secrétaire une liste des membres votants de l’assemblée pour chaque élection, ainsi que des personnes qui ont obtenu les voix; toutes ces opérations ont lieu en présence de l’assemblée. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_33">
+							<num>Art. 33.</num>
+							<alinea>
+								<content>
+									<p>Il est fait un scrutin particulier pour chaque place vacante, à laquelle on doit nommer, de même que pour chaque personne à porter sur une liste de proposition; on n’admet pas de bulletin de suffrage de personnes absentes; tout bulletin est considéré comme nul, si le conseil communal juge que la désignation de la personne n’est pas assez claire, ou que, pour d’autres raisons, fondées sur la présente loi, le bulletin ne soit pas admissible.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La nullité d’un ou de plusieurs bulletins de suffrage, ainsi que des bulletins laissés en blanc, n’invalide pas le scrutin.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_34">
+							<num>Art. 34.</num>
+							<alinea>
+								<content>
+									<p>Nul n’est admis au premier tour de scrutin, s’il ne réunit plus de la moitié des votes valables.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas de partage de toutes les voix entre deux candidats, le sort décide.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Si aucun des candidats ne réunit la majorité absolue des suffrages, il est procédé à un scrutin de ballottage entre les deux personnes qui ont le plus de voix, et la nomination a lieu à la majorité des votes.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Si le premier tour de scrutin donne à plus de deux candidats le plus de voix et en nombre égal, un second scrutin est ouvert entre eux, et les deux candidats qui obtiennent à ce scrutin le plus de voix, sont seuls soumis au ballottage. Au cas d’une nouvelle parité de suffrages dans le second scrutin, le sort désigne les candidats à soumettre au ballottage.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Si le premier ou le deuxième scrutin, sans donner à aucun des candidats la majorité, donne le plus de voix à l’un d’eux et parité de voix à plusieurs autres, il est procédé comme au cas précédent, pour trouver celui qui, avec le premier, sera soumis au ballottage.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_35">
+							<num>Art. 35.</num>
+							<alinea>
+								<content>
+									<p>Le conseil communal peut appeler les électeurs à se prononcer par la voie du référendum dans les cas d’intérêt communal et sous les conditions qu’il détermine. Le référendum est de droit lorsque la demande en est faite par un cinquième des électeurs dans les communes de plus de trois mille habitants, et par un quart des électeurs dans les autres communes. Dans ces cas, le conseil doit organiser le référendum dans les trois mois de la demande.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les modalités du référendum sont fixées par règlement grand-ducal Les dispositions de la <ref href="/eli/etat/leg/loi/1913/07/13/n1/jo" id="1b5e6375-8354-4d59-b84c-1f6368a58669">loi électorale</ref> relatives au vote obligatoire, notamment les articles 259 à 262 inclusivement, sont applicables.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans tous les cas, le référendum n’a qu’un caractère consultatif.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_36">
+							<num>Art. 36.</num>
+							<alinea>
+								<content>
+									<p>Sans préjudice des dispositions de l’article 35, le conseil communal ou le collège des bourgmestre et échevins peuvent inviter les administrés de la commune, en totalité ou en partie, à faire connaître leur opinion au sujet d’un problème communal spécifique.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La participation est facultative.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les modalités sont déterminées par l’autorité consultante.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le résultat de la consultation est communiqué au conseil communal.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_37">
+							<num>Art. 37.</num>
+							<alinea>
+								<content>
+									<p>En cas de rejet par le conseil communal du projet de budget présenté par le collège des bourgmestre et échevins, le conseil peut être saisi d’une motion de censure, laquelle, pour être recevable, doit être signée par un tiers au moins des membres du conseil. Le vote ne peut avoir lieu que cinq jours au moins et vingt jours au plus tard après le dépôt. Seuls sont recensés les votes favorables à la motion de censure, qui ne peut être adoptée qu’à la majorité des membres composant le conseil. <i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="df5a2d90-4ef9-499a-8905-e3324eec8994">Loi du 13 février 2011</ref>)</i> «En cas d’adoption de la motion, les membres du collège des bourgmestre et échevins sont déclarés démissionnaires. Le bourgmestre est démissionné par le Grand-Duc et les échevins sont démissionnés par le ministre de l’Intérieur.»</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La motion de censure n’est plus recevable lors du vote sur le budget de l’année dans laquelle aura lieu le renouvellement intégral des conseils communaux. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La motion de censure est formulée par écrit; elle est remise au bourgmestre ou à celui qui le remplace.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+				</chapter>
+				<chapter id="titre_2.chapitre_3">
+					<num>
+						<b>Chapitre 3</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du collège des bourgmestre et échevins</b>
+					</heading>
+					<section id="titre_2.chapitre_3.section_1re">
+						<num>
+							<i>Section 1<sup>re</sup>
+							</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>De la formation du collège des bourgmestre et échevins</i>
+						</heading>
+						<article id="art_38">
+							<num>Art. 38.</num>
+							<alinea>
+								<content>
+									<p>Le collège des bourgmestre et échevins de chaque commune se compose d’un bourgmestre et de deux échevins.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Par dérogation à l’alinéa qui précède, le nombre des échevins peut être fixé, par arrêté grand-ducal, à 3 dans les communes de 10.000 à 19.999 habitants et à 4 dans les communes de 20.000 habitants et plus, sauf que le nombre des échevins de la Ville de Luxembourg peut être de 6.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="6ff760a4-b2ad-4722-bce0-6c124e4a8467">Loi du 13 février 2011</ref>)</i>
+									</p>
+									<p>«Lorsque le dernier recensement de la population prévu à l’article 4<i>bis</i> est antérieur de plus de cinq ans à la date des élections communales ordinaires, le nombre des échevins attribués à chaque commune est fixé eu égard à la population réelle de chaque commune au 31 décembre de l’année précédant les élections communales.»</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="5bb86156-590f-4647-a1d8-e7110909417d">Loi du 13 février 2011</ref>)</i>
+									</p>
+									<p>«L’augmentation ou la réduction du nombre d’échevins ne s’opère qu’à l’occasion des élections communales ordinaires.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="5bc59482-c510-425d-aa84-379a7d0d454d">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_39">
+							<num>«Art. 39.</num>
+							<alinea>
+								<content>
+									<p>Les échevins sont nommés par le ministre de l’Intérieur sur présentation de la majorité des nouveaux élus au conseil communal ou du conseil communal. La nomination du candidat proposé est de droit, à moins qu’il n’ait perdu une condition d’éligibilité ou qu’il ne soit frappé d’une incompatibilité, auquel cas le ministre de l’Intérieur demande aux nouveaux élus au conseil communal ou au conseil communal de désigner un nouveau candidat.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_40">
+							<num>Art. 40.</num>
+							<alinea>
+								<content>
+									<p>Le rang des échevins est déterminé par ordre de nomination. Il peut toutefois être modifié par une décision du collège des bourgmestre et échevins, sous l’approbation du ministre de l’Intérieur. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_41">
+							<num>Art. 41.</num>
+							<alinea>
+								<content>
+									<p>En cas d’inconduite notoire, de faute ou de négligence graves, les échevins peuvent être suspendus de l’exercice de leurs fonctions par le ministre de l’Intérieur pour un temps qui ne pourra excéder trois mois, sauf à être renouvelé par décision motivée. Ils peuvent être démis par le même ministre à l’exception des échevins des villes, auxquels le Grand-Duc seul peut donner leur démission.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’échevin démis ne peut siéger au collège des bourgmestre et échevins jusqu’au renouvellement du conseil communal qui suit sa démission.</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/1995/12/28/n2/jo" id="562c31fd-8ec2-47cd-a810-49bfb112a70f">Loi du 28 décembre 1995</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_42">
+							<num>
+								<span scl:style-format="n">«</span>Art. 42.</num>
+							<alinea>
+								<content>
+									<p>En cas d’absence ou d’empêchement d’un échevin, de vacance d’un mandat d’échevin ou de remplacement du bourgmestre par un échevin, le président du collège des bourgmestre et échevins peut remplacer l’échevin par un conseiller communal de nationalité luxembourgeoise.»</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le remplacement est de droit dès que l’absence ou l’empêchement dépasse la durée d’un mois.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le remplaçant doit, dans tous les actes, énoncer la qualité en laquelle et la cause pour laquelle il agit comme tel.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_43">
+							<num>Art. 43.</num>
+							<alinea>
+								<content>
+									<p>Les échevins sont nommés pour un terme de six ans. Toutefois, ils perdent cette qualité si, dans l’intervalle, ils cessent de faire partie du conseil communal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="596b040a-3192-458d-bd48-7e1254da10ed">Loi du 13 février 2011</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Le mandat de l’échevin est renouvelable.» </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’échevin nommé en remplacement d’un autre échevin achève le mandat de celui-ci.</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="88f14e7e-ed2d-40f8-933d-748bb5049092">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_44">
+							<num>
+								<b>
+									<span scl:style-format="n">«</span>Art. 44.</b>
+							</num>
+							<alinea>
+								<content>
+									<p>Avant d’entrer en fonctions, les échevins prêtent, entre les mains du ministre de l’Intérieur ou de son délégué, le serment prévu à l’article 6.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La prestation de ce serment les dispense de celui à prêter comme conseiller communal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’échevin qui, après avoir reçu deux convocations consécutives aux fins de prêter le serment, s’abstient, sans motif légitime, de remplir cette formalité, est considéré comme se désistant de son mandat. Dans ce cas, le ministre de l’Intérieur demande aux nouveaux élus au conseil communal ou au conseil communal de lui désigner un nouveau candidat.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_45">
+							<num>Art. 45.</num>
+							<alinea>
+								<content>
+									<p>La démission des fonctions d’échevin est adressée par écrit au bourgmestre qui en donne connaissance en séance publique au conseil communal. Une copie de la lettre de démission est adressée en même temps au ministre de l’Intérieur pour la Ville de Luxembourg et au commissaire de district pour toutes les autres communes.</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="6ef53d09-82b7-4c4f-a97a-47880070fddf">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_45bis">
+							<num>
+								<b>
+									<span scl:style-format="n">«</span>Art. 45<i>bis</i>.</b>
+							</num>
+							<alinea>
+								<content>
+									<p>En cas de vacance d’un poste d’échevin en cours de mandat, le conseil communal procède parmi ses membres à la désignation d’un candidat à proposer à la nomination par le ministre de l’Intérieur.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="b814fe76-ad66-441b-a930-d30cd163b9f8">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_46">
+							<num>
+								<b>
+									<span scl:style-format="n">«</span>Art. 46.</b>
+							</num>
+							<alinea>
+								<content>
+									<p>Les membres du collège des bourgmestre et échevins frappés d’inéligibilité ou d’incompatibilité et qui, dans ce dernier cas, n’ont pas mis fin à la situation incompatible avec leur mandat, dans les trente jours à dater de la mise en demeure que leur notifie le ministre de l’Intérieur, sont déclarés démissionnaires. Le bourgmestre est démissionné par le Grand-Duc et les échevins sont démissionnés par le ministre de l’Intérieur.» </p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="e11cfba7-98a3-452c-8e70-3849518136b2">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_47">
+							<num>
+								<b>
+									<span scl:style-format="n">«</span>Art. 47.</b>
+							</num>
+							<alinea>
+								<content>
+									<p>Le collège des bourgmestre et échevins issu d’élections générales entre en fonctions à partir du moment où tous ses membres sont assermentés conformément à l’article 44.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’échevin démissionnaire est tenu de continuer l’exercice de son mandat jusqu’à ce qu’il ait été remplacé.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas de renouvellement intégral du conseil communal, les échevins sortants restent en fonctions jusqu’au moment de l’entrée en fonctions du nouveau collège des bourgmestre et échevins.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_48">
+							<num>Art. 48.</num>
+							<alinea>
+								<content>
+									<p>L’échevin qui remplit les fonctions de bourgmestre pendant plus d’un mois a droit à l’indemnité du titulaire. Dans aucun cas, l’échevin ne peut cumuler son indemnité avec celle du bourgmestre.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_3.section_2">
+						<num>
+							<i>Section 2</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Du fonctionnement du collège des bourgmestre et échevins</i>
+						</heading>
+						<article id="art_49">
+							<num>Art. 49.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre est de droit président du collège des bourgmestre et échevins. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_50">
+							<num>Art. 50.</num>
+							<alinea>
+								<content>
+									<p>Le collège des bourgmestre et échevins se réunit aussi souvent que l’exige la prompte expédition des affaires, soit aux jours et heures fixés par son règlement d’ordre intérieur, soit sur convocation du bourgmestre. Il ne peut délibérer que si plus de la moitié de ses membres sont présents.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les résolutions sont prises à la majorité des suffrages. En cas de parité des voix, et si le président ne remet pas l’affaire à une autre réunion, sa voix est prépondérante.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_51">
+							<num>Art. 51.</num>
+							<alinea>
+								<content>
+									<p>Sauf disposition légale contraire, les réunions du collège des bourgmestre et échevins ont lieu à huis clos.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_52">
+							<num>Art. 52.</num>
+							<alinea>
+								<content>
+									<p>Les réunions du collège échevinal se tiennent à la maison communale ou dans un local à désigner par le collège.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_53">
+							<num>Art. 53.</num>
+							<alinea>
+								<content>
+									<p>Les délibérations du collège des bourgmestre et échevins sont rédigées par le secrétaire communal et transcrites sur un registre dont la forme et la tenue sont assujetties aux règles prévues à l’article 26 de la présente loi pour le registre aux délibérations du conseil communal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas d’unanimité, il suffit que l’accord de chaque membre du collège soit consigné par écrit.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_54">
+							<num>Art. 54.</num>
+							<alinea>
+								<content>
+									<p>Il est réservé au Grand-Duc de déterminer un signe distinctif et le modèle d’une pièce de légitimation pour les bourgmestres et échevins.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_55">
+							<num>Art. 55.</num>
+							<alinea>
+								<content>
+									<p>Les indemnités des bourgmestre et échevins sont fixées par le conseil communal, sous l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Un règlement grand-ducal peut arrêter les maxima de ces indemnités.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les commissions administratives des hospices civils peuvent allouer une indemnité à leurs présidents sous l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En dehors de ces indemnités, les personnes visées aux deux alinéas qui précèdent ne peuvent jouir d’aucun émolument à charge de la commune ou de l’hospice civil, sous quelque prétexte ou dénomination que ce soit.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_56">
+							<num>Art. 56.</num>
+							<alinea>
+								<content>
+									<p>Lorsqu’un conseiller communal remplace un échevin pour un terme d’un mois ou plus, l’indemnité attachée à la fonction d’échevin lui est allouée pour tout le temps qu’il l’a remplie. Dans ce cas, l’échevin remplacé n’a pas droit à son indemnité, sauf s’il est empêché pour cause de maladie. Le conseiller remplaçant ne peut cumuler l’indemnité qu’il touche en tant qu’échevin faisant fonction et les jetons de présence auxquels il aurait droit comme conseiller pour son assistance aux séances du conseil communal.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_3.section_3">
+						<num>
+							<i>Section 3</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Des attributions du collège des bourgmestre et échevins</i>
+						</heading>
+						<article id="art_57">
+							<num>Art. 57.</num>
+							<alinea>
+								<content>
+									<p>Indépendamment des attributions qui lui sont conférées par d’autres dispositions légales le collège des bourgmestre et échevins est chargé:</p>
+									<ol scl:space-after="1" scl:start="1" scl:symbol="1°">
+										<li>de l’exécution des lois, des règlements et arrêtés grand-ducaux et ministériels, pour autant qu’ils ne concernent pas la police;</li>
+										<li>de la publication et de l’exécution des résolutions du conseil communal; </li>
+										<li>de l’instruction des affaires à soumettre au conseil communal ainsi que de l’établissement de l’ordre du jour des réunions du conseil communal;</li>
+										<li> de l’administration des établissements communaux et du contrôle des établissements publics placés sous la surveillance de la commune;</li>
+										<li>de la surveillance des services communaux;</li>
+										<li>de la direction des travaux communaux;</li>
+										<li>de l’administration des propriétés de la commune ainsi que la conservation de ses droits; </li>
+									</ol>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2006/08/05/n1/jo" id="7d03f0ec-7f77-4584-8d13-6450dc27319f">Loi du 5 août 2006</ref>)</i>
+									</p>
+									<ol scl:start="8" scl:symbol="custom">
+										<li scl:symbol="«8°">de l’engagement des ouvriers communaux sous l’approbation du ministre de l’Intérieur, de la surveillance des fonctionnaires, employés et ouvriers de la commune, de l’application à ces personnes des mesures qui découlent impérativement de dispositions législatives ou réglementaires en matière de congés, promotions et autres droits statutaires;»</li>
+									</ol>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<ol scl:start="9" scl:symbol="1°">
+										<li> du contrôle de la composition régulière des conseils des fabriques d’église;</li>
+										<li>de la surveillance spéciale des hospices civils et des offices sociaux;<p scl:space-before="1">Le collège visite ces établissements chaque fois qu’il le juge convenable, veille à ce qu’ils ne s’écartent pas de la volonté des donateurs et testateurs et fait rapport au conseil des améliorations à y introduire et des abus qu’il y a découverts;</p>
+										</li>
+										<li>de la garde des archives, des titres et des registres de l’état civil.</li>
+									</ol>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_58">
+							<num>Art. 58.</num>
+							<alinea>
+								<content>
+									<p>En cas d’émeutes, d’attroupements hostiles, d’atteintes ou de menaces graves à la paix publique ou d’autres événements imprévus, lorsque le moindre retard peut occasionner des dangers ou des dommages pour les habitants, les bourgmestres et échevins peuvent faire des règlements et ordonnances de police, à charge d’en donner communication au conseil et d’en envoyer immédiatement copie au ministre de l’Intérieur et au commissaire de district, en exposant les motifs pour lesquels ils ont cru devoir se dispenser de recourir au conseil communal. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans les cas mentionnés au présent article le collège des bourgmestre et échevins peut délibérer, quel que soit le nombre des membres présents. En cas de partage la voix du président est prépondérante.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Ces règlements et ordonnances cessent immédiatement d’avoir effet, s’ils ne sont pas confirmés par le conseil communal à sa prochaine séance.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas d’inaction du collège échevinal ou à défaut de confirmation par le conseil communal des ordonnances du collège échevinal, le commissaire de district peut prendre les règlements et ordonnances dont il est question à l’alinéa 1<sup>er</sup> du présent article et en adresse immédiatement une copie au ministre de l’Intérieur et au collège échevinal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les règlements et ordonnances pris par le commissaire de district sont publiés de la même manière que ceux édictés par le collège échevinal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’exécution des règlements et ordonnances prévus au présent article peut être suspendue par le ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/1999/05/31/n7/jo" id="65bcd0fa-2a54-4854-9777-202d9eb2285b">Loi du 31 mai 1999</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Les contraventions aux règlements et ordonnances prévus au présent article seront punies de peines de police, à moins que d’autres peines ne soient prévues par des lois spéciales.»</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+				</chapter>
+				<chapter id="titre_2.chapitre_4">
+					<num>
+						<b>Chapitre 4. </b>
+					</num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du bourgmestre</b>
+					</heading>
+					<section id="titre_2.chapitre_4.section_1re">
+						<num>
+							<i>Section 1<sup>re</sup>
+							</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>De la nomination du bourgmestre</i>
+						</heading>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="9927013b-d006-4d41-a382-749e8207ff14">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_59">
+							<num>
+								<span scl:style-format="n">«</span>Art. 59.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre est nommé par le Grand-Duc sur présentation de la majorité des nouveaux élus au conseil communal ou du conseil communal, pour un terme de six ans. La nomination du candidat proposé est de droit, à moins qu’il n’ait perdu une condition d’éligibilité ou qu’il ne soit frappé d’une incompatibilité, auquel cas le Grand-Duc demande aux nouveaux élus au conseil communal ou au conseil communal de désigner un nouveau candidat. Son mandat est renouvelable.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Toutefois, il perd la qualité de bourgmestre si, dans l’intervalle, il cesse de faire partie du conseil.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_60">
+							<num>Art. 60.</num>
+							<alinea>
+								<content>
+									<p>Avant d’entrer en fonctions, le bourgmestre prête, entre les mains du ministre de l’Intérieur ou de son délégué, le serment prévu à l’article 6 de la présente loi.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La prestation de ce serment le dispense de celui à prêter comme conseiller communal.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="3f917cc1-4398-498b-bd4e-fbfd7bb95020">Loi du 13 février 2011</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>(…)</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Le bourgmestre qui, après avoir reçu deux convocations consécutives aux fins de prêter le serment, s’abstient, sans motif légitime, de remplir cette formalité, est considéré comme se désistant de son mandat. Dans ce cas, le ministre de l’Intérieur demande aux nouveaux élus au conseil communal ou au conseil communal de désigner un nouveau candidat.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_61">
+							<num>Art. 61.</num>
+							<alinea>
+								<content>
+									<p>La démission des fonctions de bourgmestre est adressée au Grand-Duc et notifiée au conseil communal. Elle ne devient effective qu’après avoir été acceptée par le Souverain. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le bourgmestre qui désire donner sa démission comme conseiller communal doit avoir obtenu préalablement sa démission comme bourgmestre.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les fonctions de bourgmestre sont indépendantes de celles de membre du conseil communal de sorte qu’une personne peut demander et obtenir démission des premières de ces fonctions, sans cesser d’être membre du conseil communal.</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>
+										<eop/>(<ref href="/eli/etat/leg/loi/2011/02/13/n1/jo" id="41746f12-c8f7-4720-90a7-3e249bad9ce6">Loi du 13 février 2011</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_61bis">
+							<num>
+								<span scl:style-format="n">«</span>Art. 61<i>bis</i>.</num>
+							<alinea>
+								<content>
+									<p>En cas de vacance du poste de bourgmestre en cours de mandat, le conseil communal procède parmi ses membres à la désignation d’un candidat à proposer à la nomination du Grand-Duc.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_62">
+							<num>Art. 62.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre sortant ou le bourgmestre démissionnaire est tenu de continuer l’exercice de ses fonctions jusqu’à ce que son successeur ait prêté serment.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_63">
+							<num>Art. 63.</num>
+							<alinea>
+								<content>
+									<p>En cas d’inconduite notoire, de faute ou de négligence graves, le bourgmestre peut être suspendu de l’exercice de ses fonctions par le Grand-Duc, pour un temps qui ne pourra excéder trois mois, sauf à être renouvelé par décision motivée. Il peut également être démis.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Il est préalablement entendu par le ministre de l’Intérieur ou son délégué.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le bourgmestre démis ne peut siéger au collège des bourgmestre et échevins jusqu’au renouvellement du conseil communal qui suit sa démission.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_64">
+							<num>Art. 64.</num>
+							<alinea>
+								<content>
+									<p>En cas de maladie, absence ou autre empêchement, le bourgmestre délègue un échevin pour le remplacer, et en informe l’autorité immédiatement supérieure; à défaut de délégation, le service passe à un échevin suivant l’ordre établi par l’article 40 de la présente loi. <i>(<ref href="/eli/etat/leg/loi/1995/12/28/n2/jo" id="24382fbd-6da3-44bd-8c8a-41a33dd83f51">Loi du 28 décembre 1995</ref>)</i> «A défaut d’échevin, le service passe au premier en rang des conseillers de nationalité luxembourgeoise, et ainsi de suite. Il en est ainsi dans tous les cas de remplacement du bourgmestre ou d’un échevin par un conseiller posant un acte qui ressort de la puissance publique. Le remplaçant doit, dans tous les actes, énoncer la qualité en laquelle et la cause pour laquelle il agit comme tel.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_65">
+							<num>Art. 65.</num>
+							<alinea>
+								<content>
+									<p>Lorsqu’un échevin remplace le bourgmestre pour un terme d’un mois ou plus, l’indemnité ou le traitement attaché à cette fonction lui est alloué pour tout le temps qu’il l’a remplie. Dans ce cas, le bourgmestre n’a pas droit à son indemnité ou à son traitement, sauf s’il a été empêché pour cause de maladie.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_66">
+							<num>Art. 66.</num>
+							<alinea>
+								<content>
+									<p>L’échevin remplaçant ne peut cumuler son indemnité avec l’indemnité du bourgmestre. </p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_4.section_2">
+						<num>
+							<i>Section 2. </i>
+						</num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Des attributions du bourgmestre</i>
+						</heading>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/1999/05/31/n7/jo" id="a7d827ef-3c44-4f9b-8d98-5ee497f01191">Loi du 31 mai 1999</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_67">
+							<num>«Art. 67. </num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre est chargé de l’exécution des lois et règlements de police sous la surveillance du commissaire de district. Il peut, sous sa responsabilité, déléguer ses attributions, en tout ou en partie, à un des échevins.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/1999/05/31/n7/jo" id="bc7868e5-36cf-4800-b7bc-d6b9eb9bdf4b">Loi du 31 mai 1999</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_68">
+							<num>«Art. 68.</num>
+							<alinea>
+								<content>
+									<p>Dans les cas prévus à l’alinéa 1<sup>er</sup> de l’article 58, le bourgmestre ou celui qui le remplace pourra requérir directement l’intervention de la force publique, à charge d’en informer sans retard le commissaire de district. La réquisition devra être faite par écrit. Les commandants sont tenus d’y obtempérer.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Pour l’application du présent article et de l’article précédent, la Ville de Luxembourg est comprise dans le ressort du commissaire du district de Luxembourg.»</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_69">
+							<num>Art. 69.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre, un échevin ou un conseiller par lui délégué à ces fins remplit les fonctions d’officier de l’état civil; il est particulièrement chargé de faire observer tout ce qui concerne les actes et la tenue des registres de l’état civil.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas d’empêchement de l’officier délégué, il est remplacé momentanément par le bourgmestre, par un échevin, dans l’ordre des nominations, ou par un conseiller, d’après le rang d’ancienneté. Il est fait mention dans chaque acte du motif du remplacement.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2008/10/23/n1/jo" id="9e6f4454-d0a3-4923-86e8-a2b4e83bdd9c">Loi du 23 octobre 2008</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Le secrétaire communal est chargé des écritures des actes de l’état civil et des actes d’indigénat, sous la surveillance et la responsabilité de l’officier désigné à ces fins.»</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans le cas où le secrétaire communal est dispensé de la rédaction des actes, l’officier de l’état civil peut, à ces fins, avoir sous ses ordres, suivant les besoins du service, un ou plusieurs fonctionnaires ou employés rémunérés par la commune.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_70">
+							<num>Art. 70.</num>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2008/10/23/n1/jo" id="a0fa968d-a82b-4d7b-973a-e247a7beb9ea">Loi du 23 octobre 2008</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Sans préjudice des dispositions de l’article 69 de la présente loi, le bourgmestre peut déléguer à un ou plusieurs fonctionnaires communaux, âgés d’au moins vingt-cinq ans, les fonctions qu’il exerce en tant qu’officier de l’état civil pour la réception des déclarations de naissance, de décès, d’enfants sans vie, de reconnaissance d’enfants naturels, de partenariat, pour les actes d’indigénat, pour la transcription, la mention en marge de tous actes ou jugements sur les registres d’état civil, de même que pour dresser tous les actes relatifs aux déclarations ci-dessus. Les actes ainsi dressés comportent la seule signature du fonctionnaire délégué.» </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Cette délégation est exercée sous la surveillance et la responsabilité de l’officier de l’état civil déterminé par l’article 69.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2008/10/23/n1/jo" id="f891b9e5-a9bb-40de-b958-e16d186fb9c0">Loi du 23 octobre 2008</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«L’arrêté portant délégation est transmis tant au ministre de l’Intérieur qu’au procureur d’Etat près le tribunal d’arrondissement dans le ressort duquel se trouve la commune intéressée. Le ou les agents communaux délégués pour la réception des déclarations, la rédaction, la transcription et la mention en marge des actes de l’état civil et des actes d’indigénat prévus par le présent article peuvent valablement, sous le contrôle et la responsabilité du bourgmestre, délivrer tous copies et extraits d’état civil et d’indigénat, quelle que soit la nature des actes.» </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le ou les agents communaux délégués pour la réception des déclarations, la rédaction, la transcription et la mention en marge des actes de l’état civil prévus par le présent article peuvent valablement, sous le contrôle et la responsabilité du bourgmestre, délivrer tous copies et extraits d’état civil, quelle que soit la nature de ces actes.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_71">
+							<num>Art. 71.</num>
+							<alinea>
+								<content>
+									<p>La police des spectacles appartient au bourgmestre; il peut, dans des circonstances extraordinaires, interdire toute représentation, pour assurer le maintien de l’ordre et de la tranquillité publics.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_72">
+							<num>Art. 72.</num>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2009/12/18/n14/jo" id="7a2a024d-8170-4b77-a65f-ffde86a5972c">Loi du 18 décembre 2009</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Le bourgmestre ou son délégué assiste, lorsqu’il le juge convenable, aux réunions des commissions administratives des hospices civils et prend part à leurs délibérations avec voix délibérative. Il a le droit de présider l’assemblée.» </p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2009/12/10/n1/jo" id="ebcaa05b-e2a5-42c4-8889-20c3fe97a855">Loi du 10 décembre 2009</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_73">
+							<num>«Art. 73.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre ou celui qui le remplace a qualité pour demander l’admission dans un établissement ou service de psychiatrie des personnes qui compromettent l’ordre ou la sécurité publics, dans les conditions et suivant les modalités déterminées à l’article 7 de la <ref href="/eli/etat/leg/loi/2009/12/10/n1/jo" id="14363cdf-26c4-4d4a-8874-3cd428309bea">loi du 10 décembre 2009</ref> relative à l’hospitalisation sans leur consentement de personnes atteintes de troubles mentaux.» </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_74">
+							<num>Art. 74.</num>
+							<alinea>
+								<content>
+									<p>Les règlements et arrêtés du conseil communal et du collège des bourgmestre et échevins, les publications, les actes et la correspondance de la commune sont signés par le bourgmestre ou celui qui le remplace et contresignés par le secrétaire. La signature de la correspondance de la commune peut être déléguée par le bourgmestre à un ou plusieurs échevins. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_75">
+							<num>Art. 75.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre, ou celui qui le remplace, est autorisé à légaliser des signatures conformément aux dispositions d’un règlement grand-ducal</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>La signature manuscrite donnée par le bourgmestre ou par celui qui le remplace vaut en matière administrative sans être légalisée par une autre autorité, si elle est accompagnée du sceau de l’administration communale. </p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_76">
+							<num>Art. 76.</num>
+							<alinea>
+								<content>
+									<p>Le bourgmestre peut, sous sa surveillance et sous sa responsabilité, déléguer à un fonctionnaire de l’administration communale</p>
+									<ol scl:start="1" scl:symbol="1°">
+										<li>la délivrance des cartes d’identité;</li>
+										<li>la délivrance d’extraits des registres de la population et de certificats établis en tout ou en partie d’après ces registres; </li>
+										<li>la légalisation de signatures et</li>
+										<li>la certification conforme de copies de documents.</li>
+									</ol>
+									<p>La signature des fonctionnaires délégués en vertu du présent article doit être précédée de la mention de la délégation qu’ils ont reçue.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_77">
+							<num>Art. 77.</num>
+							<alinea>
+								<content>
+									<p>Toute délégation doit se faire par un acte formel qui est inscrit au registre des délibérations du collège des bourgmestre et échevins.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+				</chapter>
+				<chapter id="titre_2.chapitre_5">
+					<num>
+						<b>Chapitre 5</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> De l’institution d’un congé politique</b>
+					</heading>
+					<article id="art_78">
+						<num>Art. 78.</num>
+						<alinea>
+							<content>
+								<p>Les agents des secteurs public et privé qui sont bourgmestre, échevin ou conseiller communal ont droit à un congé politique pour remplir leurs mandats ou fonctions.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Par agent des secteurs public et privé on entend toute personne qui fournit contre rémunération un travail sous l’autorité d’une autre personne, publique ou privée. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_79">
+						<num>Art. 79.</num>
+						<alinea>
+							<content>
+								<p>Le Grand-Duc fixe, pour chacun des mandats et fonctions énumérés à l’article 78 et selon les critères et conditions qu’il détermine, le nombre maximum de jours de travail ou de parties de jours de travail par semaine qui sont considérés comme congé politique.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Pendant ce congé, les agents qui exercent un de ces mandats ou une de ces fonctions peuvent s’absenter du lieu de leur travail avec maintien de leur rémunération normale pour remplir leurs mandats ou fonctions.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les éléments à prendre en considération pour l’établissement de la rémunération normale sont fixés par règlement grand-ducal. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_80">
+						<num>Art. 80.</num>
+						<alinea>
+							<content>
+								<p>Il est remboursé à l’employeur de l’agent, par l’intermédiaire du fonds des dépenses communales, un montant correspondant à la rémunération brute majorée des cotisations patronales versées aux organismes de la sécurité sociale pendant la période pendant laquelle l’agent s’est absenté du travail pour remplir son mandat ou ses fonctions, le tout aux conditions et selon les modalités fixées par règlement grand-ducal. </p>
+							</content>
+						</alinea>
+					</article>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/1993/04/20/n1/jo" id="2a8cbde5-3958-414f-b2d6-e88d96105f15">Loi du 20 avril 1993</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<article id="art_81">
+						<num>«Art. 81.</num>
+						<alinea>
+							<content>
+								<p>Les membres des professions indépendantes ainsi que les personnes sans profession ne bénéficiant pas d’un régime statutaire, âgés de moins de 65 ans, toucheront, dans les limites et sous les conditions fixées par les articles 79 et 80, une indemnité dont le montant est fixé forfaitairement et uniformément par règlement grand-ducal.»</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_2.chapitre_6">
+					<num>
+						<b>Chapitre 6</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> De la publication des règlements</b>
+					</heading>
+					<article id="art_82">
+						<num>Art. 82.</num>
+						<alinea>
+							<content>
+								<p>Les règlements du conseil ou du collège des bourgmestre et échevins sont publiés par voie d’affiche.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les affiches mentionnent l’objet du règlement, la date de la décision par laquelle il a été établi et, le cas échéant, de son approbation par l’autorité supérieure. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le texte du règlement est à la disposition du public, à la maison communale, où il peut en être pris copie sans déplacement, le cas échéant contre remboursement. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les règlements deviennent obligatoires trois jours après leur publication par voie d’affiche dans la commune, sauf si le règlement en dispose autrement.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Une copie du règlement est envoyée au ministre de l’Intérieur et au commissaire de district, avec un certificat du bourgmestre constatant la publication et l’affiche. Mention du règlement et de sa publication dans la commune est faite au Mémorial et soit dans au moins deux quotidiens publiés et imprimés dans le Grand-Duché de Luxembourg soit dans un bulletin communal distribué périodiquement à tous les ménages.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_2.chapitre_7">
+					<num>
+						<b>Chapitre 7</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Des actions judiciaires</b>
+					</heading>
+					<article id="art_83">
+						<num>Art. 83.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins répond en justice à toute action intentée à la commune. Il intente les actions en référé, les actions en possessoire et toutes les actions sur lesquelles le juge de paix statue en dernier ressort. Il fait tous les actes conservatoires ou interruptifs de la prescription et des déchéances.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Toutes les autres actions dans lesquelles la commune intervient comme demanderesse ne peuvent être intentées par le collège des bourgmestre et échevins qu’après autorisation du conseil communal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_84">
+						<num>Art. 84.</num>
+						<alinea>
+							<content>
+								<p>Les communes sont habilitées à exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux règlements édictés par elles et portant un préjudice direct ou indirect aux intérêts collectifs confiés à leur vigilance, même si elles ne justifient pas d’un intérêt matériel et même si l’intérêt collectif dans lequel elles agissent se couvre entièrement avec l’intérêt social dont la défense est exercée par le ministère public.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_85">
+						<num>Art. 85.</num>
+						<alinea>
+							<content>
+								<p>Un ou plusieurs habitants peuvent, à défaut du collège échevinal, ester en justice au nom de la commune, moyennant l’autorisation du ministre de l’Intérieur, en offrant, sous caution de se charger personnellement des frais du procès et de répondre des condamnations qui seraient prononcées. Le ministre de l’Intérieur est juge de la suffisance de la caution.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La commune ne peut transiger sur le procès sans l’intervention de celui ou de ceux qui ont poursuivi l’action en son nom.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas de refus, un recours est ouvert auprès du «tribunal administratif»<noteRef href="#note_0_2_0"/>, statuant (...)<noteRef href="#note_0_2_0"/> comme juge du fond.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_2.chapitre_8">
+					<num>
+						<b>Chapitre 8</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> De certains fonctionnaires communaux</b>
+					</heading>
+					<article id="art_86">
+						<num>Art. 86.</num>
+						<alinea>
+							<content>
+								<p>Les conditions d’admission, de promotion, de démission, de rémunération ainsi que les droits et devoirs des fonctionnaires et employés communaux sont déterminés par la loi et, dans les limites de la loi, par des délibérations du conseil communal dûment approuvées par le ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+					<section id="titre_2.chapitre_8.section_1re">
+						<num>
+							<i>Section 1<sup>re</sup>
+							</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i> Du secrétaire communal</i>
+						</heading>
+						<article id="art_87">
+							<num>Art. 87.</num>
+							<alinea>
+								<content>
+									<p>Il y a dans chaque commune un secrétaire.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_88">
+							<num>Art. 88.</num>
+							<alinea>
+								<content>
+									<p>Deux ou trois communes, dont la population réunie ne dépasse pas 2.500 habitants, peuvent être autorisées par le ministre de l’Intérieur à avoir un secrétaire en commun, occupé à plein temps</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les décisions relatives aux nominations provisoire et définitive, à la démission, aux peines disciplinaires, sauf l’avertissement et la réprimande, à la réglementation du service, à la part de chaque commune dans la rémunération du secrétaire commun sont prises conformément aux articles 19 et 32 à 34 de la présente loi par les conseils communaux des communes concernées, réunis sous la présidence du commissaire de district et votant séparément.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Si le candidat est déjà en possession d’une nomination provisoire ou définitive dans l’une des communes concernées, la nouvelle nomination lui sera conférée uniquement par le conseil communal des autres communes. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans les cas où les communes sont situées dans des districts différents, la réunion est présidée par le commissaire du district dans lequel est située la commune ayant la population la plus nombreuse. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les décisions afférentes sont sujettes à l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le secrétaire en commun prête serment entre les mains du commissaire de district qui a présidé l’assemblée des communes. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le service du secrétaire en commun est contrôlé par les collèges des bourgmestre et échevins des communes intéressées.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_89">
+							<num>Art. 89.</num>
+							<alinea>
+								<content>
+									<p>Dans les communes de plus de 5.000 habitants, le conseil communal peut adjoindre au secrétaire un fonctionnaire auquel il est donné le titre de secrétaire adjoint.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Pour l’admission à l’emploi ce fonctionnaire doit remplir les mêmes conditions d’études, d’admissibilité, d’admission définitive et de stage que le secrétaire. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le secrétaire adjoint est subordonné au secrétaire communal qu’il aide et assiste. Il le remplace en cas de maladie, absence ou autre empêchement. Sa signature est précédée de la mention: «Pour le secrétaire empêché, le secrétaire adjoint».</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le secrétaire adjoint peut, en outre, sous l’approbation du ministre de l’Intérieur, être chargé par le collège des bourgmestre et échevins de remplir une partie déterminée des fonctions que la loi attribue au secrétaire. Les signatures données en cette qualité sont précédées de la mention: «Le secrétaire adjoint délégué».</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas de démission, de révocation ou de décès du secrétaire, ses fonctions sont remplies par l’adjoint jusqu’à ce qu’il ait été procédé à l’installation d’un nouveau secrétaire.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_90">
+							<num>Art. 90.</num>
+							<alinea>
+								<content>
+									<p>En cas d’empêchement momentané du secrétaire, le collège des bourgmestre et échevins pourvoit à son remplacement.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas d’empêchement de longue durée du secrétaire ou de vacance de son poste, un remplaçant est désigné par le conseil communal, sous l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans tous les cas, la durée du remplacement peut être limitée par le ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_91">
+							<num>Art. 91.</num>
+							<alinea>
+								<content>
+									<p>Outre les obligations résultant des articles 26, 53 et 69 le secrétaire est chargé, en général, de la correspondance et des écritures de la commune, en prêtant assistance au conseil communal, au collège des bourgmestre et échevins et au bourgmestre.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le secrétaire est tenu de se conformer aux instructions qui lui sont données par le collège des bourgmestre et échevins. </p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_8.section_2">
+						<num>
+							<i>Section 2</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Du receveur communal</i>
+						</heading>
+						<article id="art_92">
+							<num>Art. 92.</num>
+							<alinea>
+								<content>
+									<p>Il y a en outre dans chaque commune un receveur.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_93">
+							<num>Art. 93.</num>
+							<alinea>
+								<content>
+									<p>Deux ou trois communes, dont la population réunie ne dépasse pas 2.500 habitants, peuvent décider, sous l’approbation du ministre de l’Intérieur, qu’ils ont un receveur en commun, occupé à plein temps, le tout selon les modalités prévues à l’article 88 de la présente loi.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_94">
+							<num>Art. 94.</num>
+							<alinea>
+								<content>
+									<p>Le receveur communal est chargé, seul et sous sa responsabilité, d’effectuer les recettes de la commune ainsi que d’acquitter les dépenses qui sont ordonnancées dans les formes et conditions déterminées par la loi.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Pour permettre au receveur le recouvrement des recettes, dans les délais prescrits par la loi, le collège des bourgmestre et échevins doit lui délivrer, en temps utile, contre récépissé, une expédition, copie ou photocopie de tous les contrats, baux, jugements, actes et autres titres. Le collège des bourgmestre et échevins lui remet également ampliation tant du budget établi que du budget arrêté et lui notifie toutes les modifications budgétaires qui surviennent ultérieurement.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le receveur inscrit régulièrement dans les livres à ce destinés, les recettes et les paiements qu’il a effectués.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_95">
+							<num>Art. 95.</num>
+							<alinea>
+								<content>
+									<p>Le collège des bourgmestre et échevins veille à l’organisation de la sécurité du personnel de la recette.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_96">
+							<num>Art. 96.</num>
+							<alinea>
+								<content>
+									<p>En cas d’empêchement momentané du receveur, le collège des bourgmestre et échevins pourvoit à son remplacement.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>En cas d’empêchement de longue durée du receveur ou de vacance de son poste, un remplaçant est désigné par le conseil communal, sous l’approbation du ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dans tous les cas, la durée du remplacement peut être limitée par le ministre de l’Intérieur.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_8.section_3">
+						<num>
+							<i>Section 3.</i>
+						</num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Du garde champêtre</i>
+						</heading>
+						<article id="art_97">
+							<num>Art. 97.</num>
+							<alinea>
+								<content>
+									<p>Chaque commune peut avoir un ou plusieurs gardes champêtres.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Le garde champêtre est principalement chargé de veiller à la conservation des propriétés, des récoltes et des fruits de la terre. Il concourt, sous l’autorité du bourgmestre, à l’exécution des lois et règlements de police ainsi qu’au maintien du bon ordre et de la tranquillité dans la commune.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Il est en outre à la disposition de l’administration communale pour tous les autres services en rapport avec ses aptitudes et la durée de ses autres prestations. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>A la demande des administrations communales intéressées, le ministre de l’Intérieur peut autoriser le garde champêtre d’une commune à exercer ses attributions dans une ou plusieurs communes limitrophes, à condition qu’il y ait accord sur la répartition du traitement et la réglementation du service.</p>
+								</content>
+							</alinea>
+						</article>
+						<article id="art_98">
+							<num>Art. 98.</num>
+							<alinea>
+								<content>
+									<p>Le garde champêtre est nommé par le conseil communal, sous l’approbation du ministre de l’Intérieur. Un règlement grand-ducal détermine les conditions d’admissibilité, d’admission définitive, de promotion et de stage.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<section id="titre_2.chapitre_8.section_4">
+						<num>
+							<i>Section 4</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i>Des agents municipaux</i>
+						</heading>
+						<article id="art_99">
+							<num>Art. 99.</num>
+							<alinea>
+								<content>
+									<p>Chaque commune peut avoir un ou plusieurs agents municipaux.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Les agents municipaux concourent, sous l’autorité du collège des bourgmestre et échevins, en accord avec le commandant du commissariat de police, à la constatation des infractions en matière de stationnement en décernant des avertissements taxés conformément aux alinéas 1<sup>er</sup>, 2 et 3 de l’article 15 de la <ref href="/eli/etat/leg/loi/1955/02/14/n3/jo" id="83732da9-d1e6-463e-af1b-079b70f91590">loi du 14 février 1955</ref> réglementant la circulation sur toutes les voies publiques.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Ils sont à la disposition de l’administration communale pour tous les services en rapport avec leurs aptitudes.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Un règlement grand-ducal déterminera les conditions de formation, de recrutement et de rémunération des agents municipaux.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Un règlement grand-ducal fixera les conditions dans lesquelles les agents municipaux pourront constater des contraventions aux règlements communaux</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>A la demande des administrations communales intéressées, le ministre de l’Intérieur pourra autoriser l’agent municipal d’une commune à exercer ses attributions dans une ou plusieurs communes limitrophes à condition qu’il y ait accord sur la répartition du traitement et la réglementation du service.</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="42243444-8b11-478b-b868-609c628a4e0a">Loi du 19 juillet 2004</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<section id="titre_2.chapitre_8.section_5">
+						<num>
+							<i>«Section 5</i>. </num>
+						<heading scl:separator=" – " scl:style-format="n">
+							<i> Du service technique</i>
+						</heading>
+						<article id="art_99bis">
+							<num>Art. 99<i>bis</i>.<span scl:style-format="n">»</span>
+							</num>
+							<alinea>
+								<content>
+									<p>
+										<i>(<ref href="/eli/etat/leg/loi/2005/07/19/n1/jo" id="cf71ebf4-c28a-4beb-a0e4-d3436d922759">Loi du 19 juillet 2005</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Chaque commune de 10.000 habitants au moins est tenue d’avoir un service technique communal approprié comprenant au moins un homme de l’art conformément à l’article 28 (1) de la <ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="d02a57bd-c927-4849-a010-4f6e27620d7a">loi modifiée du 19 juillet 2004</ref> concernant l’aménagement communal et le développement urbain engagé à titre de fonctionnaire ou employé de la carrière de l’architecte respectivement de l’ingénieur, ainsi qu’un ou plusieurs fonctionnaires de la carrière d’ingénieur technicien.»</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>
+										<eop/>
+										<i>(<ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="87b7db18-df1f-4463-9d8f-cfe9d06e6297">Loi du 19 juillet 2004</ref>)</i>
+									</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>«Le service technique communal a pour mission de veiller à l’application de la loi concernant l’aménagement communal et le développement urbain, de ses règlements d’exécution et en particulier du règlement sur les bâtisses, les sites et les voies publiques. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Il conseille à ces fins les communes dans l’application de la prédite loi en préparant et en contrôlant les aspects techniques des dossiers relatifs aux projets et plans d’aménagement en collaboration avec la personne qualifiée visée à l’alinéa 1 du présent article.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2005/07/19/n1/jo" id="83df9d47-33f5-4bbd-8854-816fe8289c18">Loi du 19 juillet 2005</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_99ter">
+							<num>
+								<span scl:style-format="n">«</span>Art. 99<i>ter</i>.</num>
+							<alinea>
+								<content>
+									<p>Plusieurs communes de moins de 10.000 habitants peuvent décider, sous l’approbation du ministre de l’Intérieur, d’engager en commun un homme de l’art à titre de fonctionnaire ou employé au sens de l’article 99<i>bis</i>, le tout selon les modalités de l’article 88 ci-dessus.»</p>
+								</content>
+							</alinea>
+						</article>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2004/07/19/n1/jo" id="1b5b37e8-9bdd-4085-bb8b-301f4ac2ac49">Loi du 19 juillet 2004</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<article id="art_99quater">
+							<num>
+								<span scl:style-format="n">«</span>Art. 99<i>quater</i>.</num>
+							<alinea>
+								<content>
+									<p>Sans préjudice de l’obligation prévue à l’article 99<i>bis</i>, chaque commune de 3.000 habitants au moins est tenue d’avoir au moins un fonctionnaire communal de la carrière de l’ingénieur technicien, chargé de la mission prévue à l’article 99<i>bis</i> alinéa 2.»</p>
+								</content>
+							</alinea>
+						</article>
+					</section>
+				</chapter>
+				<chapter id="titre_2.chapitre_9">
+					<num>
+						<b>Chapitre 9</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du service d’incendie et de sauvetage</b>
+					</heading>
+					<article id="art_100">
+						<num>Art. 100.</num>
+						<alinea>
+							<content>
+								<p>Sans préjudice des structures nationales et régionales des secours d’urgence de la protection civile, chaque commune est tenue de créer ou de maintenir un service d’incendie et de sauvetage assuré par au moins un corps de sapeurs-pompiers volontaires ou professionnels et disposant des locaux et du matériel nécessaires. Le ministre de l’Intérieur peut autoriser une commune à avoir recours au service d’incendie et de sauvetage d’une autre commune moyennant le paiement d’une redevance forfaitaire et annuelle qu’il fixera.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L’intervention ponctuelle d’un corps sur le territoire d’une autre commune peut donner lieu au paiement d’une indemnité dans les conditions à fixer par règlement grand-ducal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_101">
+						<num>Art. 101.</num>
+						<alinea>
+							<content>
+								<p>L’organisation générale, la composition, le fonctionnement et la mission des services communaux d’incendie et de sauvetage sont fixés par règlement grand-ducal.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La loi règle les rapports des services communaux d’incendie et de sauvetage avec les services de la protection civile. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_102">
+						<num>Art. 102.</num>
+						<alinea>
+							<content>
+								<p>(<i>abrogé par la <ref href="/eli/etat/leg/loi/2004/06/12/n1/jo" id="3aa1a8c8-7e5c-4761-9589-45f6d19a0bea">loi du 12 juin 2004</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+			</title>
+			<title id="titre_3">
+				<num>
+					<b>Titre 3</b>. </num>
+				<heading scl:separator=" – " scl:style-format="b">
+					<b> De la tutelle administrative</b>
+				</heading>
+				<chapter id="titre_3.chapitre_1er">
+					<num>
+						<b>Chapitre 1<sup>er</sup>
+						</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> De l’annulation</b>
+					</heading>
+					<article id="art_103">
+						<num>Art. 103.</num>
+						<alinea>
+							<content>
+								<p>Le Grand-Duc peut annuler les actes collectifs et individuels des autorités communales qui sont contraires à la loi ou à l’intérêt général. L’arrêté d’annulation doit être motivé et indiquer les moyens légaux ou les éléments d’intérêt général qui sont en cause et qu’il s’agit de protéger.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Par autorités communales au sens des articles 103 à 108 inclus de la présente loi, on entend le conseil communal, le collège des bourgmestre et échevins, le bourgmestre, le receveur ainsi que les organes des syndicats de communes et établissements publics placés sous la surveillance des communes. </p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_3.chapitre_2">
+					<num>
+						<b>Chapitre 2</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> De la suspension</b>
+					</heading>
+					<article id="art_104">
+						<num>Art. 104.</num>
+						<alinea>
+							<content>
+								<p>Le ministre de l’Intérieur peut, par arrêté motivé, suspendre l’exécution de l’acte par lequel une autorité communale viole la loi ou lèse l’intérêt général.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les motifs de la suspension sont communiqués à l’autorité communale dans les cinq jours de la suspension. Si l’annulation de l’acte par le Grand-Duc n’intervient pas dans les quarante jours à partir de la communication à l’autorité communale, la suspension est levée.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_3.chapitre_3">
+					<num>
+						<b>Chapitre 3</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> De l’approbation</b>
+					</heading>
+					<article id="art_105">
+						<num>Art. 105.</num>
+						<alinea>
+							<content>
+								<p>Sont soumises à l’approbation du Grand-Duc les délibérations des conseils communaux relatives à l’établissement, au changement et à la suppression des impositions communales et les règlements y relatifs.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas de refus d’approbation le refus doit être motivé.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_106">
+						<num>Art. 106.</num>
+						<alinea>
+							<content>
+								<p>Sans préjudice d’autres dispositions légales spéciales sont soumises à l’approbation du ministre de l’Intérieur les délibérations des conseils communaux portant sur les objets suivants:</p>
+								<ol scl:start="1" scl:symbol="1°">
+									<li>Les acquisitions d’immeubles ou de droits immobiliers, si la valeur en dépasse «250.000 euros»<noteRef href="#note_0_3_0"/>. Cette somme pourra être relevée par règlement grand-ducal. </li>
+									<li>Les aliénations et échanges de biens ou droits immobiliers de la commune, les partages de biens immobiliers indivis, à moins que ces partages ne soient ordonnés par l’autorité judiciaire, les constitutions d’hypothèques, les emprunts, les garanties d’emprunts, les ouvertures de crédits, le tout si la valeur en dépasse «50.000 euros»<noteRef href="#note_0_3_1"/>. Cette somme pourra être relevée par règlement grand-ducal.</li>
+									<li>Les baux immobiliers dont la durée dépasse trois ans et dont le loyer annuel dépasse la somme de «10.000 euros»<noteRef href="#note_0_3_2"/>.<p scl:space-before="2">Cette somme pourra être relevée par règlement grand-ducal.</p>
+									</li>
+									<li> Les ventes et échanges qui ont pour objet des créances, obligations, capitaux et actions appartenant à la commune ou aux établissements publics placés sous sa surveillance, le tout si la valeur en dépasse «250.000 euros»<noteRef href="#note_0_3_3"/>. Cette somme pourra être relevée par règlement grand-ducal.</li>
+									<li>Les dispositions entre vifs ou par testament au profit des communes.</li>
+									<li>Les règlements communaux relatifs au service d’incendie et de sauvetage.</li>
+									<li> Les règlements ou tarifs relatifs à la fourniture d’eau, de gaz et d’électricité, au prix de location des places dans les halles, foires, marchés et abattoirs, aux droits de pesage et à tous les autres tarifs dus pour rémunération de services prêtés par la commune.</li>
+									<li> La reconnaissance, le classement, le déclassement et la suppression des rues et chemins communaux conformément aux lois et règlements y relatifs.</li>
+									<li>Le changement du mode de jouissance des biens communaux.</li>
+									<li>Les projets de construction, de grosses réparations, de démolition des édifices communaux, le tout si le montant en dépasse «500.000 euros»<noteRef href="#note_0_3_4"/>, somme qui pourra être relevée par règlement grand-ducal. Les projets comprennent le devis, les plans et les cahiers des charges.</li>
+									<li> Les transactions et les conventions d’arbitrage portant sur des litiges d’une valeur supérieure à «100.000 euros»<noteRef href="#note_0_3_5"/>. Cette somme pourra être relevée par règlement grand-ducal.</li>
+								</ol>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les dispositions du présent article sont applicables aux syndicats de communes et aux établissements publics placés sous la surveillance des communes.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les actes délibérés par les établissements publics placés sous la surveillance des communes sont, en outre, soumis à l’avis du conseil communal.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas de refus d’approbation le refus doit être motivé.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_107">
+						<num>Art. 107.</num>
+						<alinea>
+							<content>
+								<p>Il est ouvert aux autorités communales dont la décision à caractère individuel ou réglementaire a fait l’objet d’une annulation ou d’un refus d’approbation par le Grand-Duc ou par le ministre de l’Intérieur un recours en annulation devant «la Cour administrative»<noteRef href="#note_0_3_6"/>, pour les causes d’ouverture prévues à l’article 31 de la <ref href="/eli/etat/leg/loi/1961/02/08/n1/jo" id="e9152cb8-7018-49d6-bdcd-0f8ccc4b5d25">loi du 8 février 1961</ref> portant organisation du Conseil d’Etat.<noteRef href="#note_0_3_7"/>
+								</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le même recours est ouvert contre le refus d’approbation d’une décision émanant d’une autorité autre que le Grand-Duc ou le ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L’article 32 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/1961/02/08/n1/jo" id="8023eac5-6eeb-420a-99ba-9f73d026a487">loi précitée du 8 février 1961</ref> est applicable aux recours visés aux alinéas 1 et 2.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_3.chapitre_4">
+					<num>
+						<b>Chapitre 4</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du commissaire spécial</b>
+					</heading>
+					<article id="art_108">
+						<num>Art. 108.</num>
+						<alinea>
+							<content>
+								<p>Après deux avertissements consécutifs envoyés sous pli recommandé à la poste avec accusé de réception, le ministre de l’Intérieur ou le commissaire de district peut charger un ou plusieurs commissaires spéciaux de se rendre sur les lieux aux frais personnels des autorités communales en retard de satisfaire aux avertissements, à l’effet de recueillir les renseignements et observations demandés et de mettre à exécution les mesures prescrites par les lois et les règlements généraux ou par les décisions du ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sauf le cas d’urgence dûment constaté dans l’arrêté de nomination du commissaire spécial, ce dernier ne peut être envoyé qu’après l’expiration d’un délai de huit jours à partir de la réception du deuxième avertissement. Contre l’arrêté de nomination du commissaire spécial un recours est ouvert devant le «tribunal administratif»<noteRef href="#note_0_4_0"/>, qui statue comme juge du fond (...)<noteRef href="#note_0_2_0"/>. Ce recours doit être introduit dans les dix jours à partir de la réception du deuxième avertissement; il n’est pas suspensif. Dans le même délai, copie du recours est notifiée à l’autorité qui a envoyé les avertissements prévus au présent article.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>A défaut de recours ou si celui-ci est rejeté, le recouvrement des frais exposés pourra être poursuivi comme en matière de contributions directes, sur l’exécutoire du ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_3.chapitre_5">
+					<num>
+						<b>Chapitre 5</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Des commissaires de district</b>
+					</heading>
+					<article id="art_109">
+						<num>Art. 109.</num>
+						<alinea>
+							<content>
+								<p>Le Grand-Duché est divisé en trois districts, dont les chefs-lieux sont établis à Luxembourg, à Diekirch et à Grevenmacher.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le district de Luxembourg comprend les cantons de Capellen, Esch-sur-Alzette, Luxembourg et Mersch.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Celui de Diekirch se compose des cantons de Clervaux, Diekirch, Redange, Wiltz et Vianden. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Celui de Grevenmacher comprend les cantons d’Echternach, Grevenmacher et Remich.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_110">
+						<num>Art. 110.</num>
+						<alinea>
+							<content>
+								<p>Il y a dans chaque district un fonctionnaire nommé par le Grand-Duc et portant le titre de commissaire de district.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_111">
+						<num>Art. 111.</num>
+						<alinea>
+							<content>
+								<p>Il est attaché à chaque commissariat de district un secrétaire de district qui est nommé par le Grand-Duc sur proposition du commissaire de district.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les conditions de nomination et de promotion du secrétaire de district sont celles qui sont applicables au personnel de l’administration gouvernementale.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Il est le chef des bureaux du commissariat.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas d’empêchement, le commissaire de district peut se faire remplacer par le secrétaire de district dans les cas spéciaux à déterminer par lui, mais toujours sous sa responsabilité personnelle. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_112">
+						<num>Art. 112.</num>
+						<alinea>
+							<content>
+								<p>Les commissaires de district sont placés sous la surveillance du ministre de l’Intérieur; ils sont tenus d’exécuter les dispositions et les instructions émanant des membres du Gouvernement. Ils correspondent avec les départements ministériels par l’intermédiaire du ministre de l’Intérieur, excepté les cas qui requièrent célérité et ceux pour lesquels des lois ou règlements spéciaux en disposent autrement.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_113">
+						<num>Art. 113.</num>
+						<alinea>
+							<content>
+								<p>La compétence des commissaires de district s’étend à toutes les villes et communes de leur ressort, à l’exception de la ville de Luxembourg qui reste sous l’autorité directe du ministre de l’Intérieur, sauf dans les cas prévus par des lois spéciales.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_114">
+						<num>Art. 114.</num>
+						<alinea>
+							<content>
+								<p>Indépendamment des attributions qui leur sont conférées par d’autres dispositions de la présente loi ou par des lois spéciales, les commissaires de district ont les attributions suivantes:</p>
+								<ol scl:start="1" scl:symbol="1°">
+									<li>Ils veillent à l’exécution des lois et règlements généraux et communaux et rendent compte à l’autorité supérieure des infractions qui parviennent à leur connaissance.</li>
+									<li>Ils veillent au maintien du bon ordre, de la sûreté, de la tranquillité et de la salubrité publiques; ils prennent immédiatement, en cas d’événements extraordinaires, telles mesures qu’il appartient; ils requièrent, au besoin, la gendarmerie et toute autre force publique. Les commandants sont tenus d’obtempérer à ces réquisitions.</li>
+									<li>Ils assistent aux délibérations des autorités locales, lorsqu’ils le jugent utile; ils réunissent, le cas échéant, sous leur présidence, les autorités de plusieurs communes, pour délibérer sur des affaires d’intérêt commun.</li>
+									<li>Les administrations communales et leur personnel sont placés sous leur surveillance immédiate. Ils veillent à ce qu’ils remplissent les devoirs qui leur sont imposés par des lois, règlements et instructions. Ils rendent compte des abus de quelque nature qu’ils soient, commis par des fonctionnaires communaux à l’occasion de l’exercice de leurs fonctions.<p scl:space-before="2">Ces autorités et fonctionnaires correspondent avec l’autorité supérieure par l’intermédiaire des commissaires de district, sauf en cas d’urgence. Les dispositions qui précèdent s’appliquent également aux offices sociaux et hospices civils.</p>
+									</li>
+									<li>Ils surveillent l’administration régulière des biens et revenus des communes, celles des fabriques d’église et des cures, en tant que ces établissements sont placés sous la surveillance tutélaire du Gouvernement, ainsi que celles des hospices civils et des offices sociaux.</li>
+									<li>Ils provoquent, au besoin, auprès des administrations communales les règlements de police et toutes autres mesures dont ils reconnaissent la nécessité ou l’utilité.</li>
+									<li>Ils examinent les budgets et les comptes des communes, ceux des établissements publics placés sous la surveillance des communes et ceux des syndicats de communes et les adressent avec leur avis au ministre de l’Intérieur pour être arrêtés.</li>
+									<li>Ils rendent exécutoires les rôles des impositions communales dont le montant est porté aux budgets, ainsi que les contraintes pour recouvrement d’impositions communales et reliquats de comptes arrêtés.</li>
+									<li>Ils surveillent la gestion des receveurs des communes, des établissements publics placés sous la surveillance des communes et des syndicats de communes et ils vérifient leurs caisses aussi souvent qu’ils le jugent nécessaire; ils s’assurent de la tenue régulière des écritures et donnent les instructions convenables à cet effet. En cas d’irrégularités graves constatées ils peuvent prendre toute mesure conservatoire propre à assurer le service de la recette et les intérêts communaux, notamment en suspendant les receveurs et les autres agents communaux chargés du maniement de fonds communaux; ils rendent compte à l’autorité supérieure de tout ce qu’ils auront fait en semblable occasion, pour y être disposé.</li>
+									<li>L’administration des Eaux et Forêts leur soumet les plans d’aménagement, de culture et de coupe de bois des communes, des établissements publics placés sous la surveillance des communes et des syndicats de communes. Ils les transmettent à l’administration propriétaire avec les observations qu’ils jugeront utiles.</li>
+									<li>Tous projets, toutes propositions de communes généralement quelconques, sont adressés aux commissaires qui les soumettent avec leurs considérations à l’autorité supérieure compétente, pour y être disposés.</li>
+								</ol>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_115">
+						<num>Art. 115.</num>
+						<alinea>
+							<content>
+								<p>Les commissaires de district se rendent dans les communes de leur ressort aussi souvent que l’intérêt du service y exige leur présence.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ils examinent l’état des édifices communaux; ils s’assurent si les registres de l’état civil sont régulièrement tenus, si les écritures des bureaux sont en règle, les archives soigneusement classés et si, en général, les fonctionnaires et employés communaux s’acquittent bien de leurs devoirs.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ils veillent à ce que les revenus communaux soient employés dans l’intérêt le mieux compris des communes et à ce que tous les biens susceptibles d’être loués ou affermés le soient au profit des communes ou établissements propriétaires.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ils adressent, s’il y a lieu, au ministre de l’Intérieur, les rapports traitant des problèmes que soulève la gestion administrative et financière des communes, des établissements publics placés sous la surveillance des communes et des syndicats de communes.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+			</title>
+			<title id="titre_4">
+				<num>
+					<b>Titre 4</b>. </num>
+				<heading scl:separator=" – " scl:style-format="b">
+					<b> De la comptabilité communale</b>
+				</heading>
+				<chapter id="titre_4.chapitre_1er">
+					<num>
+						<b>Chapitre 1<sup>er</sup>
+						</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Du budget</b>
+					</heading>
+					<article id="art_116">
+						<num>Art. 116.</num>
+						<alinea>
+							<content>
+								<p>L’administration communale est tenue d’établir annuellement un budget comprenant toutes les recettes et toutes les dépenses à effectuer au cours de l’exercice financier pour lequel il est voté.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L’exercice financier commence le 1<sup>er</sup> janvier et finit le 31 décembre de la même année.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Appartiennent seuls à un exercice, les dépenses engagées et les droits constatés de la commune pendant l’année qui donne sa dénomination à l’exercice.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Toutefois, les opérations relatives au recouvrement des recettes se rapportant à cet exercice et au paiement des dépenses engagées jusqu’au 31 décembre peuvent se prolonger jusqu’au 30 avril de l’année suivante. A cette date l’exercice est définitivement clos.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_117">
+						<num>Art. 117.</num>
+						<alinea>
+							<content>
+								<p>Le budget est divisé en chapitre ordinaire et en chapitre extraordinaire tant en recettes qu’en dépenses suivant les modalités à fixer par règlement grand-ducal. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Chaque chapitre budgétaire est subdivisé en sections et articles. Les dépenses de chaque chapitre sont équilibrées par des recettes de même nature. Toutefois, un excédent de recette dans le chapitre ordinaire peut contribuer à équilibrer le chapitre extraordinaire.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_118">
+						<num>Art. 118.</num>
+						<alinea>
+							<content>
+								<p>L’administration communale peut recourir au crédit pour financer des dépenses extraordinaires si un autre financement n’est ni possible ni économique et si le remboursement régulier des annuités est assuré.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_119">
+						<num>Art. 119.</num>
+						<alinea>
+							<content>
+								<p>Les dépenses se composent de dépenses obligatoires et de dépenses non obligatoires.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Seules les dépenses résultant d’obligations légales, d’engagements contractuels et de décisions judiciaires coulées en force de chose jugée sont considérées comme obligatoires.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Des engagements nouveaux ne peuvent être contractés que si les crédits budgétaires afférents ont été votés par le conseil communal et approuvés par le ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_120">
+						<num>Art. 120.</num>
+						<alinea>
+							<content>
+								<p>Les crédits des articles de dépenses sont limitatifs à l’exception de ceux pour dépenses obligatoires.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_121">
+						<num>Art. 121.</num>
+						<alinea>
+							<content>
+								<p>Lorsque des dépenses obligatoires intéressent plusieurs communes, elles y concourent toutes proportionnellement à l’intérêt qu’elles peuvent y avoir. En cas de refus ou de désaccord sur la proportion de cet intérêt et des charges à supporter, il y est statué par le ministre de l’Intérieur, sauf recours au «tribunal administratif»<noteRef href="#note_0_5_0"/> qui statue comme juge du fond (...)<noteRef href="#note_0_2_0"/>. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_122">
+						<num>Art. 122.</num>
+						<alinea>
+							<content>
+								<p>Le budget est proposé par le collège des bourgmestre et échevins qui en justifie les dispositions. Il est voté par le conseil communal avant le début de l’exercice financier.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le vote séparé sur un ou plusieurs articles est de rigueur lorsqu’il est demandé par un tiers au moins des membres présents du conseil communal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_123">
+						<num>Art. 123.</num>
+						<alinea>
+							<content>
+								<p>Le budget voté est soumis sans retard par le collège des bourgmestre et échevins au commissaire de district qui le transmet avec ses observations éventuelles au ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le budget de la Ville de Luxembourg est adressé directement au ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_124">
+						<num>Art. 124.</num>
+						<alinea>
+							<content>
+								<p>Le ministre de l’Intérieur redresse le budget s’il n’est pas conforme aux lois et règlements. Il l’arrête définitivement, sans préjudice du recours prévu à l’article 107.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins communique le budget redressé aux membres du conseil communal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_125">
+						<num>Art. 125.</num>
+						<alinea>
+							<content>
+								<p>Si le budget n’est pas proposé par le collège des bourgmestre et échevins ou si le conseil communal ne le vote pas dans les délais prescrits, le ministre de l’Intérieur se substitue à ces organes pour proposer ou arrêter d’office un budget limité aux dépenses obligatoires ainsi qu’aux recettes et aux dépenses indispensables au fonctionnement de la commune.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dans tous les cas où le conseil communal chercherait à éluder le paiement des dépenses obligatoires que la loi met à sa charge, en refusant leur allocation en tout ou en partie, le ministre de l’Intérieur, après avoir entendu le conseil communal, portera d’office la dépense au budget, dans la proportion du besoin, sans préjudice du recours prévu à l’article 107.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_126">
+						<num>Art. 126.</num>
+						<alinea>
+							<content>
+								<p>Si le budget n’est pas arrêté avant le commencement de l’exercice financier, le collège des bourgmestre et échevins ne peut mandater par mois que les dépenses obligatoires du chapitre ordinaire.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_127">
+						<num>Art. 127.</num>
+						<alinea>
+							<content>
+								<p>Durant l’exercice financier des crédits nouveaux ou supplémentaires ne peuvent être votés par le conseil communal que pour des dépenses imprévues, sous l’approbation du ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_128">
+						<num>Art. 128.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins peut transférer, jusqu’à la clôture définitive de l’exercice, les excédents de crédit d’un article à un autre à l’intérieur d’une même section.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ne sont pas susceptibles d’être transférés à d’autres articles les crédits figurant au chapitre des dépenses extraordinaires de même que les crédits non limitatifs du chapitre des dépenses ordinaires et tout autre crédit marqué comme tel par son libellé.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Quel que soit leur libellé, les crédits pour l’allocation de subventions à caractère bénévole ne sont pas susceptibles d’être majorés moyennant des transferts d’excédents de crédit d’autre nature. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dans le mois qui suit la clôture définitive de l’exercice, le collège des bourgmestre et échevins peut reporter à l’exercice suivant les crédits non entièrement absorbés du chapitre des dépenses extraordinaires pour solder les dépenses auxquelles ils sont destinés.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_129">
+						<num>Art. 129.</num>
+						<alinea>
+							<content>
+								<p>Avant de procéder au vote du budget, le conseil communal arrête, sous l’approbation du ministre de l’Intérieur, les prévisions actualisées des recettes et des dépenses de l’exercice en cours sous forme d’un budget rectifié, qui est établi et voté dans les mêmes conditions et selon les mêmes règles que le budget.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_4.chapitre_2">
+					<num>
+						<b>Chapitre 2</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b>De l’exécution du budget</b>
+					</heading>
+					<article id="art_130">
+						<num>Art. 130.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins vérifie les droits des créanciers de la commune et ordonnance les dépenses dans la limite des crédits autorisés.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_131">
+						<num>Art. 131.</num>
+						<alinea>
+							<content>
+								<p>Les mandats de paiement sont signés par le bourgmestre ou celui qui le remplace et par un échevin et contresignés par le secrétaire communal.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Aucun paiement à charge de la caisse communale ne peut avoir lieu qu’en vertu d’un mandat établi en due forme.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_132">
+						<num>Art. 132.</num>
+						<alinea>
+							<content>
+								<p>Si le moindre retard est de nature à causer un préjudice à la commune, le collège des bourgmestre et échevins peut, sous sa responsabilité, ordonnancer une dépense pour laquelle aucun crédit n’est prévu au budget, sous condition d’en donner sans délai connaissance au conseil communal qui y statue.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La délibération afférente du conseil communal est soumise à l’approbation du ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_133">
+						<num>Art. 133.</num>
+						<alinea>
+							<content>
+								<p>Si le collège des bourgmestre et échevins refuse ou omet d’ordonnancer les dépenses que la loi met à charge de la commune, le ministre de l’Intérieur peut ordonner que la dépense soit immédiatement payée.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Cette décision tient lieu de mandat et le receveur est tenu d’en acquitter le montant.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_134">
+						<num>Art. 134.</num>
+						<alinea>
+							<content>
+								<p>Dès réception des mandats régulièrement établis, le receveur communal est tenu de les payer dans la limite des crédits budgétaires autorisés.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_135">
+						<num>Art. 135.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins établit les rôles et les titres de recettes et surveille la rentrée des fonds.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le bourgmestre ou celui qui le remplace et un échevin signent les titres et rôles qui sont contresignés par le secrétaire.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_136">
+						<num>Art. 136.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins émet les titres rectificatifs pour redresser les doubles emplois, les taxations erronées et les erreurs matérielles et pour accorder les escomptes et dégrèvements usuels. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_137">
+						<num>Art. 137.</num>
+						<alinea>
+							<content>
+								<p>Si le collège des bourgmestre et échevins refuse ou omet d’établir un titre pour une recette due, le ministre de l’Intérieur peut ordonner que la recette soit immédiatement recouvrée.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Cette décision tient lieu de titre de recette imposant au receveur l’obligation de faire rentrer les montants en question. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_138">
+						<num>Art. 138.</num>
+						<alinea>
+							<content>
+								<p>Le receveur est chargé seul, sous sa responsabilité, d’encaisser les recettes et d’acquitter les dépenses de la commune. Il est responsable de la gestion et de la bonne garde des fonds. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le recouvrement de recettes déterminées peut être confié, le cas échéant, par le collège des bourgmestre et échevins, à un ou plusieurs agents spéciaux. Ceux-ci gèrent les fonds perçus, sous leur propre responsabilité et sous la surveillance du receveur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_139">
+						<num>Art. 139.</num>
+						<alinea>
+							<content>
+								<p>A la clôture définitive de l’exercice, le receveur porte les recettes non rentrées, par débiteur et par nature, sur un état des recettes restant à recouvrer.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_140">
+						<num>Art. 140.</num>
+						<alinea>
+							<content>
+								<p>Le receveur est déchargé de la perception des recettes irrécouvrables ainsi que de celles dont le collège des bourgmestre et échevins lui donne décharge. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le collège ne peut accorder décharge totale ou partielle à un débiteur que dans les cas prévus par la loi, à moins qu’il n’y soit autorisé par le conseil communal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_141">
+						<num>Art. 141.</num>
+						<alinea>
+							<content>
+								<p>Le receveur peut être forcé en recettes par le ministre de l’Intérieur pour les montants qui n’ont pas été recouvrés deux années après la clôture définitive de l’exercice auquel ils se rapportent.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_142">
+						<num>Art. 142.</num>
+						<alinea>
+							<content>
+								<p>Le receveur est forcé d’office en recettes pour les montants devenus irrécouvrables par sa négligence ou par sa faute.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Il est tenu de verser à la caisse communale les montants pour lesquels il a été forcé en recettes.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Il est subrogé dans ce cas aux droits et actions de la commune contre les débiteurs en retard de payer.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_143">
+						<num>Art. 143.</num>
+						<alinea>
+							<content>
+								<p>Il est tenu par exercice financier une comptabilité du collège des bourgmestre et échevins et une comptabilité du receveur selon les modalités à déterminer par règlement grand-ducal. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_144">
+						<num>Art. 144.</num>
+						<alinea>
+							<content>
+								<p>Le ministre de l’Intérieur peut autoriser les communes à créer des fonds de réserves, d’amortissement ou de renouvellement et à porter en dépense provisoire les sommes prévues à ces fins, selon les modalités à fixer par règlement grand-ducal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_145">
+						<num>Art. 145.</num>
+						<alinea>
+							<content>
+								<p>La forme des budgets, des comptes et des autres documents comptables est déterminée par le ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_146">
+						<num>Art. 146.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins ou un de ses membres délégué par lui vérifie au moins tous les trois mois, avec le concours du secrétaire communal, la comptabilité du receveur.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dans les communes qui disposent d’un service financier spécial, les vérifications trimestrielles peuvent se faire par ce service sous la surveillance du collège des bourgmestre et échevins.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_147">
+						<num>Art. 147.</num>
+						<alinea>
+							<content>
+								<p>Sans préjudice des attributions spéciales des commissaires de district, le contrôle des budgets, des comptes, de la comptabilité et des caisses des communes se fait par un service spécial dénommé «service de contrôle de la comptabilité des communes». Ce service est placé sous l’autorité directe du ministre de l’Intérieur.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La mission du service de contrôle de la comptabilité des communes consiste, en cours d’exercice, à procéder à des vérifications périodiques et approfondies des caisses de la comptabilité des communes. Il en est dressé procès-verbal qui est communiqué au collège des bourgmestre et échevins concerné.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_4.chapitre_3">
+					<num>
+						<b>Chapitre 3</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b>Du recouvrement des impôts et taxes</b>
+					</heading>
+					<article id="art_148">
+						<num>Art. 148.</num>
+						<alinea>
+							<content>
+								<p>Le recouvrement des taxes et impositions communales perçues directement par la commune se fait soit par la voie judiciaire soit par la voie administrative selon les dispositions ci-après.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_149">
+						<num>Art. 149.</num>
+						<alinea>
+							<content>
+								<p>En exécution des rôles et des titres prévus à l’article 135 de la présente loi, le receveur adresse aux débiteurs un bulletin qui est considéré comme premier avertissement les invitant à se libérer dans les quatre semaines à partir de la réception du bulletin.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_150">
+						<num>Art. 150.</num>
+						<alinea>
+							<content>
+								<p>En cas de non-paiement un dernier avertissement est adressé aux débiteurs les sommant de s’exécuter dans les quinze jours de sa réception. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_151">
+						<num>Art. 151.</num>
+						<alinea>
+							<content>
+								<p>Les débiteurs qui n’ont pas payé dans le délai prévu à l’art. 150 sont portés par le receveur sur un relevé qu’il certifie conforme aux rôles et aux titres. Ce relevé qui indique les montants dus par chaque débiteur est rendu exécutoire par le ministre de l’Intérieur pour la ville de Luxembourg et par le commissaire de district pour les autres communes. Il constitue la contrainte. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_152">
+						<num>Art. 152.</num>
+						<alinea>
+							<content>
+								<p>Le receveur notifie un extrait individuel du relevé soit par lettre recommandée avec avis de réception soit par voie d’huissier à chaque débiteur avec sommation de s’acquitter dans un délai de sept jours. Après expiration de ce délai la contrainte emporte exécution forcée, sauf opposition de la part du débiteur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_153">
+						<num>Art. 153.</num>
+						<alinea>
+							<content>
+								<p>Les contestations en matière d’impositions communales sont vidées conformément à l’article 8 de l’<ref href="/eli/etat/leg/agd/1944/10/26/n2/jo" id="fccf28d1-71c2-4389-a22d-53397e63edfc">arrêté grand-ducal du 26 octobre 1944</ref> sur les impôts, taxes, cotisations et droits. Le recours n’est pas suspensif.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La réclamation est à présenter dans les trois mois de la réception du bulletin visé à l’article 149.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ce bulletin doit contenir une information sur les voies de recours admissibles.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_154">
+						<num>Art. 154.</num>
+						<alinea>
+							<content>
+								<p>Le recouvrement par voie judiciaire ou administrative des recettes visées à l’article 148 se prescrit par cinq ans. Ce délai commence à courir à partir du 1<sup>er</sup> janvier qui suit la date de l’établissement du premier avertissement.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_155">
+						<num>Art. 155.</num>
+						<alinea>
+							<content>
+								<p>A l’exception des frais de port, toutes les dépenses occasionnées par la contrainte et par son exécution forcée sont à charge du débiteur et recouvrées avec la créance principale.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_156">
+						<num>Art. 156.</num>
+						<alinea>
+							<content>
+								<p>L’assignation en justice et la notification de la contrainte au débiteur interrompent la prescription.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_157">
+						<num>Art. 157.</num>
+						<alinea>
+							<content>
+								<p>Le conseil communal peut exiger par un règlement-taxe le paiement d’intérêts de retard pour les recettes fiscales et fixer le montant et le délai à partir desquels ils sont exigibles. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le taux des intérêts de retard réclamés par les communes ne peut excéder celui fixé par l’Etat en matière d’impôt sur le revenu.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_158">
+						<num>Art. 158.</num>
+						<alinea>
+							<content>
+								<p>Pour le recouvrement de l’impôt foncier la commune jouit des mêmes privilèges et hypothèques que ceux dont dispose l’Etat en matière d’impôt sur le revenu.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_159">
+						<num>Art. 159.</num>
+						<alinea>
+							<content>
+								<p>Pour les recettes provenant de la fourniture d’eau, de gaz et d’électricité le receveur communal peut demander soit au début du contrat de fourniture soit au cours de son exécution une avance qui ne peut dépasser quatre fois la consommation mensuelle présumée ou effective du débiteur.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_160">
+						<num>Art. 160.</num>
+						<alinea>
+							<content>
+								<p>En cas de paiement partiel le débiteur a le droit de désigner les dettes qu’il désire acquitter.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dans ce cas l’imputation doit se faire, en premier lieu, sur les frais de poursuite et les intérêts de retard se rapportant à la dette désignée.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>A défaut d’instruction de la part du débiteur, l’imputation se fait:</p>
+								<ol scl:start="1" scl:symbol="1°">
+									<li>sur les frais de poursuite,</li>
+									<li>sur les intérêts de retard échus,</li>
+									<li>sur les créances pour lesquelles le risque de la prescription est le plus élevé.</li>
+								</ol>
+								<p>Lors de la liquidation d’un mandat au profit d’un débiteur le receveur est tenu de retenir les sommes que ce dernier doit à la commune.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_4.chapitre_4">
+					<num>
+						<b>Chapitre 4</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b>Des comptes</b>
+					</heading>
+					<article id="art_161">
+						<num>Art. 161.</num>
+						<alinea>
+							<content>
+								<p>Dès la clôture définitive de l’exercice, le compte administratif est établi par le collège des bourgmestre et échevins et le compte de gestion par le receveur communal.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le receveur qui quitte ses fonctions en cours d’exercice est tenu d’établir un compte de fin de gestion à la date de la cessation de ses fonctions.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas de remplacement temporaire du receveur, le ministre de l’Intérieur peut dispenser le titulaire et le remplaçant, sur leur demande conjointe, de l’établissement de comptes distincts.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En cas de décès du receveur, le compte est établi par ses héritiers. A défaut d’héritiers ou en cas de renonciation de ces derniers à la succession du receveur, le compte de fin de gestion est établi aux frais de la commune par une personne à désigner par le conseil communal.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_162">
+						<num>Art. 162.</num>
+						<alinea>
+							<content>
+								<p>Le collège des bourgmestre et échevins justifie par le compte administratif l’exécution du budget conformément aux lois et aux règlements. Le receveur justifie par le compte de gestion le recouvrement des recettes selon les rôles et les titres qui lui ont été remis et le paiement des dépenses mandatées.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_163">
+						<num>Art. 163.</num>
+						<alinea>
+							<content>
+								<p>Le compte administratif et le compte de gestion sont vérifiés par le service de contrôle de la comptabilité des communes qui les transmet avec ses observations éventuelles au conseil communal. Le conseil arrête provisoirement les deux comptes. Le ministre de l’Intérieur examine les comptes provisoirement arrêtés et redresse les écritures non conformes à la loi. Il arrête définitivement les comptes.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_164">
+						<num>Art. 164.</num>
+						<alinea>
+							<content>
+								<p>Les bourgmestre et échevins peuvent être déclarés personnellement responsables des dépenses qu’ils ont mandatées en violation des lois et règlements et des recettes qui n’ont pu être recouvrées par leur faute. Dans ces cas, le ministre de l’Intérieur ordonne que l’action en recouvrement soit portée devant le tribunal compétent. Elle peut être exercée au nom de la commune, soit par citation directe, soit, si le ministre l’ordonne, par les soins du ministère public.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_165">
+						<num>Art. 165.</num>
+						<alinea>
+							<content>
+								<p>Dans tous les cas où les budgets, comptes ou autres documents ne sont pas présentés dans les délais prescrits, le ministre de l’Intérieur ou le commissaire de district peut, conformément à l’article 108 de la présente loi, désigner un commissaire spécial qui exécutera aux frais des personnes en défaut les travaux en souffrance.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_166">
+						<num>Art. 166.</num>
+						<alinea>
+							<content>
+								<p>Les arrêtés du ministre de l’Intérieur sur le compte de gestion ont force exécutoire entre le receveur ou ses héritiers et la commune. Ces arrêtés peuvent être attaqués par voie de recours au «tribunal administratif»<noteRef href="#note_0_6_0"/> qui statue comme juge du fond (...)<noteRef href="#note_0_2_0"/>. </p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_167">
+						<num>Art. 167.</num>
+						<alinea>
+							<content>
+								<p>Le ministre de l’Intérieur peut rectifier les comptes arrêtés pour faux, erreur, omission ou double emploi.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_168">
+						<num>Art. 168.</num>
+						<alinea>
+							<content>
+								<p>Les budgets, comptes et autres documents comptables sont conservés par l’administration communale pendant dix ans au moins.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_169">
+						<num>Art. 169.</num>
+						<alinea>
+							<content>
+								<p>Un règlement grand-ducal prévoit les cas dans lesquels des services industriels assurés par une commune doivent tenir une comptabilité selon les principes de la comptabilité commerciale et en fixe les modalités. Les services en question doivent établir un bilan et un compte de profits et pertes, indépendamment de leur soumission aux règles qui gouvernent les budgets et les comptes des communes.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_4.chapitre_5">
+					<num>
+						<b>Chapitre 5.</b>
+					</num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Des syndicats de communes et des établissements publics placés sous la<br/> surveillance des communes</b>
+					</heading>
+					<article id="art_170">
+						<num>Art. 170.</num>
+						<alinea>
+							<content>
+								<p>Les dispositions des chapitres 1 à 4 du titre 4 relatifs à la comptabilité des communes sont applicables aux syndicats de communes et aux établissements publics placés sous la surveillance des communes, sous réserve des adaptations et modifications prévues aux articles 171 à 173.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_171">
+						<num>Art. 171.</num>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2001/02/23/n1/jo" id="8643aa0c-68d0-4931-a423-e25b44c58a65">Loi du 23 février 2001</ref>)</i>
+								</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>«L’organe directeur et le président de l’organe directeur des établissements publics placés sous la surveillance des communes exercent les attributions dévolues par les dispositions des chapitres 1 à 4 du présent titre respectivement au conseil communal et au bourgmestre. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le président de l’organe directeur assume également celles qui sont confiées au collège des bourgmestre et échevins.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le comité des syndicats de communes exerce les attributions dévolues par les dispositions des chapitres 1 à 4 du présent titre au conseil communal, le bureau assume celles qui sont confiées au collège des bourgmestre et échevins et le président celles du bourgmestre.»</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_172">
+						<num>Art. 172.</num>
+						<alinea>
+							<content>
+								<p>Il est tenu par exercice une seule comptabilité selon les modalités à déterminer par règlement grand-ducal.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le ministre de l’Intérieur désigne les syndicats de communes et les établissements publics placés sous la surveillance des communes qui doivent tenir leur comptabilité selon les principes de la comptabilité commerciale et selon les modalités à fixer par règlement grand-ducal Les crédits pour dépenses d’exploitation de ces syndicats et établissements publics sont non limitatifs. Leurs comptes d’exercice sont remplacés par un bilan et un compte de pertes et profits.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Pour les syndicats de communes et les établissements publics placés sous la surveillance des communes qui ne tiennent pas une comptabilité commerciale un seul compte est rendu à la fin de l’exercice par l’organe directeur chargé de l’exécution du budget.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_173">
+						<num>Art. 173.</num>
+						<alinea>
+							<content>
+								<p>Les budgets et les comptes des établissements publics placés sous la surveillance des communes sont soumis à l’approbation du conseil communal. </p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+			</title>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2001/02/23/n1/jo" id="8d16b320-45cb-48f2-b502-b0a5a8dc72c9">Loi du 23 février 2001</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<title id="titre_4bis">
+				<num>
+					<b>«Titre 4<i>bis</i>
+					</b>. </num>
+				<heading scl:separator=" – " scl:style-format="b">
+					<b> Des formes de collaboration des communes et syndicats de communes</b>
+				</heading>
+				<article id="art_173bis">
+					<num>Art. 173<i>bis</i>.</num>
+					<alinea>
+						<content>
+							<p>Les communes et les syndicats de communes, dans les limites de leur objet, peuvent prendre des participations financières dans des sociétés de droit privé en vue d’une œuvre ou d’un service d’intérêt communal. Les communes ne peuvent s’engager que divisément et jusqu’à concurrence d’une somme déterminée. La prise de participation est autorisée par arrêté grand-ducal qui en détermine les modalités et conditions.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_173ter">
+					<num>Art. 173<i>ter</i>.</num>
+					<alinea>
+						<content>
+							<p>Sans préjudice de la législation sur les marchés publics les communes et les syndicats de communes peuvent conclure entre elles et avec des personnes morales de droit public et de droit privé et avec des particuliers des conventions en des matières d’intérêt communal. Ces conventions sont soumises à l’approbation du ministre de l’Intérieur, si leur valeur dépasse «100.000 euros»<noteRef href="#note_0_7_0"/>. Cette somme pourra être relevée par règlement grand-ducal.»</p>
+						</content>
+					</alinea>
+				</article>
+			</title>
+			<title id="titre_5">
+				<num>
+					<b>Titre 5</b>. </num>
+				<heading scl:separator=" – " scl:style-format="b">
+					<b> Dispositions diverses</b>
+				</heading>
+				<chapter id="titre_5.chapitre_1er">
+					<num>
+						<b>Chapitre 1<sup>er</sup>
+						</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Entrée en vigueur</b>
+					</heading>
+					<article id="art_174">
+						<num>Art. 174.</num>
+						<alinea>
+							<content>
+								<p>Les dispositions de la présente loi entrent en vigueur le premier du mois qui suit leur publication au Mémorial à l’exception de celles qui figurent aux chapitres 1 à 5 du titre 4 et qui sortent leurs effets le premier janvier de l’année qui suit leur publication au Mémorial.</p>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_5.chapitre_2">
+					<num>
+						<b>Chapitre 2</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Des dispositions abrogatoires</b>
+					</heading>
+					<article id="art_175">
+						<num>Art. 175.</num>
+						<alinea>
+							<content>
+								<p>Toutes les dispositions généralement quelconques qui sont contraires à la présente loi sont abrogées, notamment</p>
+								<ul scl:symbol="dash">
+									<li>la <ref href="/eli/etat/leg/loi/1819/04/29/n1/jo" id="2e029fac-d010-4b01-a35b-f2bf478cd0ca">loi du 29 avril 1819</ref> contenant des dispositions propres à assurer efficacement le recouvrement des impositions communales, </li>
+									<li>la <ref href="/eli/etat/leg/loi/1843/02/24/n1/jo" id="43296353-d1df-4c2d-bd1a-77f85a452305">loi du 24 février 1843</ref> sur l’organisation communale et des districts,</li>
+									<li>les articles 45 à 47 et 51 à 71 de l’<ref href="/eli/etat/leg/argd/1846/12/11/n1/jo" id="bcfab42d-81f2-4d1a-bfdb-4545e8836162">arrêté royal grand-ducal du 11 décembre 1846</ref> concernant la réorganisation et le règlement des bureaux de bienfaisance,</li>
+									<li> la <ref href="/eli/etat/leg/loi/1847/09/23/n1/jo" id="7c0c9013-4358-40c9-93ba-c68f9ad03356">loi du 23 septembre 1847</ref> sur le règlement des comptes des communes et des établissements publics,</li>
+									<li>l’<ref href="/eli/etat/leg/argd/1882/03/29/n4/jo" id="08e057c7-8a5f-41b1-b861-cb0bcf0ab8b5">arrêté royal grand-ducal du 29 mars 1882</ref> concernant les poursuites pour le recouvrement des impositions communales directes autres que les centimes additionnels,</li>
+									<li>l’article 4 alinéa 2 de la <ref href="/eli/etat/leg/loi/1900/02/14/n5/jo" id="42fb34d4-2744-4bde-9128-e4db7e7be526">loi modifiée du 14 février 1900</ref> concernant les syndicats de communes,</li>
+									<li>la <ref href="/eli/etat/leg/loi/1919/08/01/n3/jo" id="eb217b00-0969-43af-a130-321f80b27f64">loi du 1<sup>er</sup> août 1919</ref> concernant les cautionnements des receveurs des communes, des syndicats de communes, des hospices et des bureaux de bienfaisance, telle qu’elle a été modifiée par la <ref href="/eli/etat/leg/loi/1929/02/16/n1/jo" id="8fedad60-513c-4d15-a4ed-071ed68b4aec">loi du 16 février 1929</ref> et</li>
+									<li> la <ref href="/eli/etat/leg/loi/1920/04/06/n1/jo" id="5851004a-eaca-4242-bad8-f06db2cf7538">loi du 6 avril 1920</ref> portant réorganisation du service de contrôle des caisses de la comptabilité des communes et des établissements publics.</li>
+								</ul>
+							</content>
+						</alinea>
+					</article>
+				</chapter>
+				<chapter id="titre_5.chapitre_3">
+					<num>
+						<b>Chapitre 3</b>. </num>
+					<heading scl:separator=" – " scl:style-format="b">
+						<b> Disposition spéciale</b>
+					</heading>
+					<article id="art_176">
+						<num>Art. 176.</num>
+						<alinea>
+							<content>
+								<p>La <ref href="/eli/etat/leg/loi/1972/07/24/n1/jo" id="d93ff472-3653-4be9-ab87-8fae0dde3bb8">loi du 24 juillet 1972</ref> concernant l’action sociale en faveur des immigrants est complétée par un article 7<i>bis</i> de la teneur suivante:</p>
+							</content>
+						</alinea>
+						<article id="art_7bis">
+							<num>
+								<span scl:style-format="n">«</span>Art. 7<i>bis</i>. </num>
+							<alinea>
+								<content>
+									<p>Dans les communes dont la population comprend plus de 20% d’étrangers, le conseil communal constituera une commission consultative spéciale chargée des intérêts des résidents de nationalité étrangère sur le plan communal. Des résidents luxembourgeois et étrangers en feront partie. </p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>L’organisation et le fonctionnement de ces commissions sont fixés par règlement grand-ducal.»</p>
+								</content>
+							</alinea>
+						</article>
+					</article>
+				</chapter>
+			</title>
+		</body>
+	</act>
+</akomaNtoso>

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/04/2026 : R\u00E8glement interne du Gouvernement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2023/11/27/a779/consolide/20260416/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bfc024eb7020cec49f897c23affe6d442874508b2664ca4ceade44a95256c225",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2023/11/27/a779/consolide/20260416/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/ri/2023/11/27/a779/consolide/20260416/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "be27759605b22fc3f9595442135db504da293acf9d7bc4bd8b3f2f60117d270f"
+  "record_sha256": "e1cc70e5b9fb911d36a875cf9de9887c636df74f950280d622507d36764ef2ed"
 }

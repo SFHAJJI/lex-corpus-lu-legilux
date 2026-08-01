@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : R\u00E8glement grand-ducal du 2 f\u00E9vrier 2015 fixant le montant et les modalit\u00E9s de paiement des taxes \u00E0 percevoir par l\u0027Autorit\u00E9 luxembourgeoise ind\u00E9pendante de l\u0027audiovisuel en mati\u00E8re de surveillance des services de m\u00E9dias audiovisuels et sonores.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dc945fad4b3ad813f2801e9d6d7530b1791d38dc68bf75a46356702495833982",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/02/n5/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ac32e2c641ac6cc1ac25d3208d1ef933f527d20768107e1a0334bf91f61555fb"
+  "record_sha256": "f9b5fa634aa827b0bde143caa5bcb3ed4be807efa80109d4d3353920a98a72ea"
 }

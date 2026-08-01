@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2007 : Loi du 6 mars 1965 concernant les taxes \u00E0 percevoir sur les demandes en obtention des documents prescrits pour la mise en circulation et la conduite de v\u00E9hicules.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1965/03/06/n1/consolide/20071001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c639cab847ac2967f32bebb6dbec2ce9ec9656d4493d63648f6bbcd6a3c6a7c2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1965/03/06/n1/consolide/20071001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1965/03/06/n1/consolide/20071001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d88c44368f4fc175cec74a668244b219d91b5747d5a988054e866eabfffb518c"
+  "record_sha256": "00c9538b002a60ffa592fb8b3b1a906400a763124ffd1da2393c2281e29e75d8"
 }

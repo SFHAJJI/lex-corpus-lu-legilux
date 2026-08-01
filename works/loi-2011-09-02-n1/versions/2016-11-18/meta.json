@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 18/11/2016 : Loi du 2 septembre 2011 r\u00E9glementant l\u2019acc\u00E8s aux professions d\u2019artisan, de commer\u00E7ant, d\u2019industriel ainsi qu\u2019\u00E0 certaines professions lib\u00E9rales et \\n- modifiant l\u2019article 542-2 du Code du travail; \\n- modifiant la loi modifi\u00E9e du 16 juillet 1987 concernant le colportage, la vente ambulante, l\u2019\u00E9talage de marchandises et la sollicitation de commandes; \\n- modifiant la loi modifi\u00E9e du 10 juin 1999 relative \u00E0 la profession d\u2019expert-comptable; \\n- portant abrogation de la loi modifi\u00E9e du 21 f\u00E9vrier 1976 ayant pour objet d\u2019instaurer un jour de fermeture hebdomadaire dans les stations de vente de carburant et de lubrifiant pour v\u00E9hicules automoteurs.",
       "title_short": "Loi du 2 septembre 2011 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20161118/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6d1120ed6a308293c97bbfe28eae0e653731d283db7e3b2361e36142e7d2213c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20161118/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/consolide/20161118/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d5968a85f023774066a933a126d531c529bc1d1de6f8390134cbc294bd7b57de"
+  "record_sha256": "eb510da8ae5e69b95427f93d598d527fe04976c9f53dd09e602ff6e88461e10e"
 }

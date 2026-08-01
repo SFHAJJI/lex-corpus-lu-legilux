@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "R\u00E9utilisation des informations du secteur public",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/reutilisation_informations_publics/20211207/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e4e9b21d000f1cde345507c46e9385094ac571acbcc86e855f4da1b0374569c5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/reutilisation_informations_publics/20211207/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/reutilisation_informations_publics/20211207/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a7e212f21b5f64a1c4e0605011f777e1c93593786a987e6f99e4223dae687317"
+  "record_sha256": "f37354725ba5c9b8c5f7735e11aae277b8801b1bef0b09feba5c96e86e815683"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/05/2022 R\u00E8glement grand-ducal du 22 janvier 2021 fixant les conditions de commercialisation, de production et de certification des semences de plantes fourrag\u00E8res.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/01/22/a133/consolide/20220502/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b88077fba00f42ff3c12b39eaef1ea50a3e9d7591038bddd3f737007f47835be",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/01/22/a133/consolide/20220502/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/01/22/a133/consolide/20220502/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a3d384d7dc9f4fc5cd5d1cc26e56e8363de4ada4a4f3b08b5cbe8c3e34bc4ae0"
+  "record_sha256": "a8a25a609d84afff3ee3051b72688bf5cf2e1e3194afb1718024da64146f55bd"
 }

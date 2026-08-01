@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/10/2005 : Loi du 23 d\u00E9cembre 1978 portant fusion des communes de Harlange et de Mecher.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n6/consolide/20051009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7a88d6899f42a3605f46743cc02a192bf12c1f479928676a43d220eaacf617d0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n6/consolide/20051009/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n6/consolide/20051009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1b072576f43b53fe94e05b88b0bdf8131a8b0dcb672f65831694e7e2fdab2588"
+  "record_sha256": "b7b43a2a5bc29a5454eb551a268ca67ca640ceb92ab67116ae08d7420fcf6d84"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2006 : Loi du 18 juin 1982 portant r\u00E9glementation du bail \u00E0 ferme.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/20061101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "41aed80fdbcc05014870554ae147cf365c5811b2ecfc76781746756931f2e535",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/20061101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1982/06/18/n1/consolide/20061101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c98527247cdaa4fed59d0a11d0a864c66b5fb6112a17fcb81840003f2d4af8d2"
+  "record_sha256": "f683d17e20cb689bcbfcb0051d4f355e0497e90ea20b411343e9a634e1c5fa82"
 }

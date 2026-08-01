@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 1er ao\u00FBt 2001 relative au basculement en euro le 1er janvier 2002 et modifiant certaines dispositions l\u00E9gislatives.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d609056fd6d905bcb952504dc1539cdf6a40746cb2129588aab5240b4a643227",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2001/08/01/n16/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "da7137a3cb762e61f185861fff113c8dae0831b96517ca9e6f0e08833db1f615"
+  "record_sha256": "8c30763217c08680492483c63f9276bfb11fa87c3773b5bc64224148131f309b"
 }

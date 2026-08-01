@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/02/2021 : R\u00E8glement grand-ducal du 4 octobre 2018 fixant les conditions de r\u00E9alisation des tests rapides \u00E0 orientation diagnostique de l\u2019infection \u00E0 virus de l\u2019immunod\u00E9ficience humaine, d\u2019h\u00E9patites virales et d\u2019autres infections sexuellement transmissibles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/consolide/20210215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e8661b1409cae4de577f7d790bc08feaa4534c0bcdb4056da802dc6c5f48f7dd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/consolide/20210215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/04/a923/consolide/20210215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cff877fd5797bdc67cd8cfc8c54a7736e9237c9f02755518cc7c72483cd36fd0"
+  "record_sha256": "debbe5cacbc3d5dede4179db6961a444f8432395340e6b5892d671a9ea103428"
 }

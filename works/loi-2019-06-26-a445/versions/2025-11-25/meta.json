@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/11/2025 : Loi du 26 juin 2019 relative \u00E0 certaines modalit\u00E9s d\u2019application et \u00E0 la sanction du r\u00E8glement (UE) 2018/302 du Parlement europ\u00E9en et du Conseil du 28 f\u00E9vrier 2018 visant \u00E0 contrer le blocage g\u00E9ographique injustifi\u00E9 et d\u2019autres formes de discrimination fond\u00E9e sur la nationalit\u00E9, le lieu de r\u00E9sidence ou le lieu d\u2019\u00E9tablissement des clients dans le march\u00E9 int\u00E9rieur, et modifiant les r\u00E8glements (CE) n\u00B0 2006/2004 et (UE) 2017/2394 et la directive 2009/22/CE.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/06/26/a445/consolide/20251125/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "053ff58407d64d5664da96c453023f7fa0e8e98a96956af3f06bf76a460b4611",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/06/26/a445/consolide/20251125/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/06/26/a445/consolide/20251125/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "77ec46a39dd38ff71fa584901c1deb718988a9affecca095942b1b891ee532df"
+  "record_sha256": "29858b83c169b97b03ac8b7a15cebd1eb095104c260b4d65fa510f2b5be6199d"
 }

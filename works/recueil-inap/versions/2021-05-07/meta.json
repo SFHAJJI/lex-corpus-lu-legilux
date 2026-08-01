@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Institut national d\u0027administration publique",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/inap/20210507/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8a4ab0159f99d49d1b57e78c2b430a6eae37182f8110d7eef5f35819afca4243",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/inap/20210507/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/inap/20210507/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "76584ede3cbdc26065398f959acbfbc7c47dd30ea90c0ec5720057aa2d7a2e1c"
+  "record_sha256": "553d522aea66de7a732a2dca898ae197c0f79bb6c1ddad5e6002b894c50ee557"
 }

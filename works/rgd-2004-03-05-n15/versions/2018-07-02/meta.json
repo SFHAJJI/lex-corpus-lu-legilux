@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/07/2018 : R\u00E8glement grand-ducal du 5 mars 2004 concernant la sant\u00E9 et la s\u00E9curit\u00E9 du travail et le contr\u00F4le m\u00E9dical dans la fonction publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/consolide/20180702/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "94d00fb164860740f4c09f93f254bbad6bea30476fc012b138896470ce71ce94",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/consolide/20180702/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n15/consolide/20180702/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5483e030d7ba6e600e6b3de2a299822f38e1d787d8c5c0589c052501e94dee6c"
+  "record_sha256": "683a03c18537620223494e535b163e7ef8d1d7734b0859203710939bd4f6748e"
 }

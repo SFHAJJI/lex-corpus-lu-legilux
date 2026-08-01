@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2012 : R\u00E8glement grand-ducal du 8 novembre 2002 portant application de la directive 2001/81/CE du Parlement europ\u00E9en et du Conseil du 23 octobre 2001 fixant des plafonds d\u0027\u00E9mission nationaux pour certains polluants atmosph\u00E9riques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/11/08/n2/consolide/20131108/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "72953b4044f1c159bb3e53f252098d09eb1b424425adf0ab0e98113312152cff",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/11/08/n2/consolide/20131108/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/11/08/n2/consolide/20131108/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5ced2ff8be0d3f1e42f13d4ad60f5a094c21577508542e40c8f75a72e6927de3"
+  "record_sha256": "404336f3cf0f8584b8c65e75956d93def57ee4d272b59ce1343f11032aa3e7ae"
 }

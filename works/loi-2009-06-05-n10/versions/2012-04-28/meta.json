@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 28/04/2012 : Loi du 5 juin 2009 relative \u00E0 la qualification initiale et \u00E0 la formation continue des conducteurs de certains v\u00E9hicules routiers affect\u00E9s aux transports de marchandises ou de voyageurs et modifiant la loi modifi\u00E9e du 27 juillet 1993 ayant pour objet\\n 1. le d\u00E9veloppement et la diversification \u00E9conomiques et\\n 2. l\u2019am\u00E9lioration de la structure g\u00E9n\u00E9rale et de l\u2019\u00E9quilibre r\u00E9gional de l\u2019\u00E9conomie.",
       "title_short": "Loi modifi\u00E9e du 5 juin 2009 relative \u00E0 la qualification initiale et \u00E0 la formation continue des conducteurs de certains v\u00E9hicules routiers affect\u00E9s aux transports de marchandises ou de voyageurs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20120428/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "28df03b94f88f8e0fc3bf04a854c0d0abf3dc5e6ec2cd18603246fda6dcd78a8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20120428/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/06/05/n10/consolide/20120428/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "61084b731fbc4738452b9c19c3426ec3d89232d2ad4fdb835d5a3e30b12984e8"
+  "record_sha256": "18561f87af80c8d996337a94ccab8868ecd23143b828760343f1dccc6c3375a8"
 }

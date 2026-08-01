@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/11/1956 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19561107/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5b2961516f8167f98fbca03719d015e7db612323bd8963905ed001c52535a6b7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19561107/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19561107/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "012e62d9fa13571e7dbbcdc64d15cc02fb9c634a9fbe81768115e9bf03ba1e4d"
+  "record_sha256": "432f6cf5493bf47effa3957d302484f3df368866a68f5f2b1d51f5003a6914c0"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/10/2006 : R\u00E8glement grand-ducal du 19 novembre 2004 concernant la fabrication de m\u00E9dicaments, les bonnes pratiques de fabrication de m\u00E9dicaments et les bonnes pratiques de fabrication de m\u00E9dicaments exp\u00E9riementaux \u00E0 usage humain.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/11/19/n4/consolide/20061021/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "08ddacfcfd253a871ed481825cc3035a9e5fd8ac4b9da8c1b2a95ba52c75c346",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/11/19/n4/consolide/20061021/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/11/19/n4/consolide/20061021/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0cefeb7defc034515b2f58e61eabf212b1483c4045b1fb4c7866450349923705"
+  "record_sha256": "4358c401123a523844905500a1972a4685e2004ca31c76c86c4d307bafbc13d0"
 }

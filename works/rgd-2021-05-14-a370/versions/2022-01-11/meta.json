@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 11/01/2022 : R\u00E8glement grand-ducal du 14 mai 2021 fixant les conditions de r\u00E9alisation et de certification des tests de d\u00E9pistage ou diagnostique de l\u2019infection par virus SARS-CoV-2 et abrogeant le r\u00E8glement grand-ducal modifi\u00E9 du 10 f\u00E9vrier 2021 fixant les conditions de r\u00E9alisation des tests de d\u00E9pistage ou diagnostique de l\u2019infection par virus SARS-CoV-2.",
       "title_short": "R\u00E8glement grand-ducal du 14 mai 2021 fixant les conditions de r\u00E9alisation et de certification des tests de d\u00E9pistage ou diagnostique de l\u2019infection par virus SARS-CoV-2.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/14/a370/consolide/20220111/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "becc0b1939a2e71f3a7560b6f681da0d6505fc7aa2ba718b9e4813d80b85c5f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/14/a370/consolide/20220111/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/14/a370/consolide/20220111/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cf0ac4328e61d71686e33287c459a5da0e5844064080cf7b7cf84339865a17f6"
+  "record_sha256": "c5f66655989a453b52852b3a04b407f32f92941a5d4cd4b28299dd175c6cfb88"
 }

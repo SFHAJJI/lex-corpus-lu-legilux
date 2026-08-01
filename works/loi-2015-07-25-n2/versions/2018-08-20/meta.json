@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 20/08/2018 : Loi du 25 juillet 2015 portant cr\u00E9ation du syst\u00E8me de contr\u00F4le et de sanction automatis\u00E9s et modification de la loi modifi\u00E9e du 14 f\u00E9vrier 1955 concernant la r\u00E9glementation de la circulation sur toutes les voies publiques.",
       "title_short": "Loi du 25 juillet 2015 portant cr\u00E9ation du syst\u00E8me de contr\u00F4le et de sanction automatis\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/consolide/20180820/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "16dda45057872fd766f47af5a6b029630ab7912dc0a65bdc2aa6416434d70744",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/consolide/20180820/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/25/n2/consolide/20180820/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d96fe11f9cd943d6e4aaa5aebe52579a4ba032dc1f145472da9c1f557b88d7f0"
+  "record_sha256": "c43aca16de60e04f027acb919a557ec441df44b87b31e5dcd8fee134e2f6a684"
 }

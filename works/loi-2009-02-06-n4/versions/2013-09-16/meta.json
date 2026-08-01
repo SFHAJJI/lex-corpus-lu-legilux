@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2012 : Loi du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e0cd24b4660a42c7b517386aea4e21f2b48225f51e9d0af02a4ef960047b953e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20130916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "881702a793901984cb9a47db400773713b6c7ffbc8101ec946c10200a427ef79"
+  "record_sha256": "fbee098bf5df4c25e3defa88db91893f3197ecc632751b9d67434dd06724387d"
 }

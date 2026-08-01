@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Chambres professionnelles",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20240806/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dbaa2b81769d9740f7b7bff6f003876f9a9972bbc0de7931d7d4c70f62cc9d0b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20240806/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/chambres_professionnelles/20240806/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a0d111a0246567e4f94c1dce882823d0d6b5ba19a1fcfa89555ef5e84e4639b6"
+  "record_sha256": "284faad325852736a2ab55872f6442f68db7ae9ce71cb54dd2aa04d45ecc4c69"
 }

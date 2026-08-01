@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/07/2022 : Loi du 7 mars 1980 sur l\u0027organisation judiciaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20220705/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c88d6217c6ea7936862d801289e08fdbf99aa61b3782dc67da34e69053299fed",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20220705/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20220705/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4108869e4c1602c0842148b549c9956214edf960037e1bb4699f2789d3bfefb2"
+  "record_sha256": "e0c016b68d004fe052001ee728a76390f60d8d47fc2f16ccca55c3791a6c9392"
 }

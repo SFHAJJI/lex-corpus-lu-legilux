@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : Loi du 17 avril 2018 portant mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 1286/2014 du Parlement europ\u00E9en et du Conseil du 26 novembre 2014 sur les documents d\u2019informations cl\u00E9s relatifs aux produits d\u2019investissement packag\u00E9s de d\u00E9tail et fond\u00E9s sur l\u2019assurance et portant modification de la loi modifi\u00E9e du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b0507945704abbe5e6e182301f141b017d68188ba90b8021a4cd096fbba1c22a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a256/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "15db73d4ef60f7153b940469c21c7ec1a89591efb8a2b849eeaf7ea2748fd2ae"
+  "record_sha256": "e8defafaf9f15ca463eeab8e0aecb41ccec9095436b3693437d9fe5762317207"
 }

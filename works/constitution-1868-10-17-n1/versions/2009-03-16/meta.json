@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/03/2009 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "25125d42bb38385f6aab1c13e8a170dffb47c53e231c30a721ca33434eac8330",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20090316/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b66969b49f3c4924d4eb705630ff652b221eaf7c73fb364c5a3a406d7c83e0a1"
+  "record_sha256": "1f93913f47d411333ea6225cab9958c708da3a6580422140fb241338bf0f2376"
 }

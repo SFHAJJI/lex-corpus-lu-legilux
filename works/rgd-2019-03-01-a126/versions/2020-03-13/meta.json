@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/03/2020 : R\u00E8glement grand-ducal du 1er mars 2019 fixant pour l\u2019ann\u00E9e 2019 le montant annuel de r\u00E9f\u00E9rence 2019 tel que pr\u00E9vu \u00E0 l\u2019article 3 de la loi modifi\u00E9e du 3 ao\u00FBt 1998 sur la promotion de la presse \u00E9crite. ",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a126/consolide/20200313/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0ca3fb6048d39d1db61f4096b8c82ac13ddb2554063f39bdaddb01d4e7db6787",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a126/consolide/20200313/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a126/consolide/20200313/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e3a31a8ee7c0bc6d8fe9254234ff7c9b65ff570d0f39a5e14b77db07f5a4c233"
+  "record_sha256": "6d8091d0ef7c5d63c546f2ddf48f2fccf241d0e8d7c6eb8b0cc0468ae55ff85e"
 }

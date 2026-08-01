@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/1981 : R\u00E8glement grand-ducal du 8 juillet 1976 concernant l\u0027organisation m\u00E9dicale, pharmaceutique et param\u00E9dicale du Centre hospitalier de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1976/07/08/n1/consolide/19811228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "27dde0f9ee1499000b4d2bb5c5757df83a85ccc66285ef00ebb47c39e85d3292",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1976/07/08/n1/consolide/19811228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1976/07/08/n1/consolide/19811228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4a0b74a6f55503cebb3cce3a5b523710d3712b4e9a3a8fec5dc7c65f55926875"
+  "record_sha256": "888fd9836ccdcdca756b9bc81705345d2d78219bc67ed0be883d1c0ff4fd23dc"
 }

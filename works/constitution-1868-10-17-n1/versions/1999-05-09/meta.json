@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/05/1999 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "12f2fff87a6525c66e39919295e5dcc48e9d26399710ac09b4cff5f21d525a24",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19990509/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5c534e7b71c13a09b192532fe1f26c39b69f423a21f35b2605264c8a7534cdb4"
+  "record_sha256": "6979ee38469dbc99185c5d659f1d611558e299797713b98cacc29ae101ae90be"
 }

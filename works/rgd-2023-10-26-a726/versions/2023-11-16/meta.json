@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 16/11/2023 : R\u00E8glement grand-ducal du 26 octobre 2023 portant modification du r\u00E8glement grand-ducal du 26 octobre 2021 relatif \u00E0 la participation de l\u2019Arm\u00E9e luxembourgeoise \u00E0 la mission EUTM au Mozambique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a726/consolide/20231116/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8abfb74954af16d3004afbf63b2591af8655394dd33d857e9b118b04282ae3f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a726/consolide/20231116/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a726/consolide/20231116/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "70c719dfa9469117b6edb5fb18b050a033bf652834119a5c53ce770f043b4ea4"
+  "record_sha256": "147592c6478e761873ffa4b40fdc41e8792cc751053e6f1b0a7d8f869b41b39b"
 }

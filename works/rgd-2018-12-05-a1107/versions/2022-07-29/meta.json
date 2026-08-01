@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/07/2022 : R\u00E8glement grand-ducal du 5 d\u00E9cembre 2018 fixant l\u2019organisation des services d\u2019ex\u00E9cution de l\u2019Administration de l\u2019enregistrement, des domaines et de la TVA et abrogeant le r\u00E8glement grand-ducal modifi\u00E9 du 25 octobre 2007 d\u00E9terminant l\u2019organisation de la direction de l\u2019administration de l\u2019enregistrement et des domaines et les attributions de son personnel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20220729/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6b440370efb47861805ed7579bda4ab7a6e2c511750505d861cc7ccba08b4bb9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20220729/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/05/a1107/consolide/20220729/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "094a10304fcbba47a4e71761b9697cd504930632e857f00a3ea1b52fef9b00d6"
+  "record_sha256": "ec52a49dcc87996855e12c380db1b7f8039d0f6389af6e8fd8b066a9c7bd2392"
 }

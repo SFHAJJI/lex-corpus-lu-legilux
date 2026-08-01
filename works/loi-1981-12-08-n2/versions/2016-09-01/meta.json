@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2016 : Loi du 8 d\u00E9cembre 1981 sur les r\u00E9quisitions en cas de conflit arm\u00E9, de crise internationale grave ou de catastrophe.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20160901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "162ff916af0ae89ca5feedb468245d91303b3bedf5547dd376cce8182aa13dcf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20160901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1981/12/08/n2/consolide/20160901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "00cc533a737fc572ab4f9a3cc92a8fc1de051473ed36e61c0e21da7117de128a"
+  "record_sha256": "cf9b394b4bb4376d8f2b6ed52d4ca7d67ebcd735267c32b0745bc38cbeb792d7"
 }

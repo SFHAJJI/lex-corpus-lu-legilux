@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/09/2021 : R\u00E8glement grand-ducal du 24 ao\u00FBt 2016 concernant le statut du personnel de l\u2019Association d\u2019assurance accident.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n5/consolide/20210911/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1e90f6d96cf9daaf4c39afa4efc20cb3c81ab81dbc54a385c3f3e713c95dee3d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n5/consolide/20210911/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n5/consolide/20210911/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e23d05b11f93cd73c05c4638b32ee7ef227cc90dc195505dfca818cbdd0361ac"
+  "record_sha256": "e6ea5bca19938feb0064e5837b4a2ea5111609df2e92a4ddb05d114c422c2e2c"
 }

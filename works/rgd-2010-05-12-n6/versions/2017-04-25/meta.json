@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/04/2017 : R\u00E8glement grand-ducal du 12 mai 2010 fixant les modalit\u00E9s du contr\u00F4le de la connaissance des trois langues administratives pour le recrutement des fonctionnaires et employ\u00E9s des administrations de l\u0027Etat et des \u00E9tablissements publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n6/consolide/20170425/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "108a47ca19d3ced99c5c44ddf7689ab78ac487a9616caf089ab35b1f86b1bf6e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n6/consolide/20170425/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/05/12/n6/consolide/20170425/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1e2af25c68cc5871f9fe24380095c4fa02759fe719a1647a157b80249111ee06"
+  "record_sha256": "bb2cb3ef6e61807ace01f368a4096c9e070e445150de0694e5c66f96dd772dc6"
 }

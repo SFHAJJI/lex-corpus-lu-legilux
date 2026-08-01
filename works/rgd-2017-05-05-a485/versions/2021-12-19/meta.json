@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/12/2021 : R\u00E8glement grand-ducal du 5 mai 2017, 1. portant ex\u00E9cution de la loi du 5 mai 2017 concernant certaines modalit\u00E9s d\u2019application et les sanctions du r\u00E8glement (UE) n\u00B0 2019/1148 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 relatif \u00E0 la commercialisation et \u00E0 l\u2019utilisation de pr\u00E9curseurs d\u2019explosifs, modifiant le r\u00E8glement (CE) n\u00B0 1907/2006 et abrogeant le r\u00E8glement (UE) n\u00B0 98/2013 ; 2. relatif \u00E0 la formation et au contr\u00F4le des connaissances des fonctionnaires charg\u00E9s de constater les infractions au r\u00E8glement (UE) n\u00B0 2019/1148.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20211219/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e4b1d83b4b2b7189e78c8510cb8cd9c4f63d2f5d0574518c0962c86836c3f00a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20211219/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/05/05/a485/consolide/20211219/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "55e0298d03098fc2539a4803539a9b52441d812bd06b35418957898430d511f5"
+  "record_sha256": "a55178556b7ad8a94ba7d227be9f5b58af8317541c61c6e3a3e12ce39a7d5391"
 }

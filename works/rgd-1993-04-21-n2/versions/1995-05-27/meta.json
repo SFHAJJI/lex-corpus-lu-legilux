@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/05/1995 : R\u00E8glement grand-ducal du 21 avril 1993 concernant la compatibilit\u00E9 \u00E9lectromagn\u00E9tique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/04/21/n2/consolide/19950527/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d5261886ff0995e26a7f26cf2f410077dbf820da80eec781b1f623ed063f2304",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/04/21/n2/consolide/19950527/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/04/21/n2/consolide/19950527/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e77fbabc760c9b21d3db60aa302ddcbcef2c1e111c9f2b04ba8fd31e7df27d73"
+  "record_sha256": "b74c1454cc9ab92e51a1769794dec7744a2708a9501b71eb872c1601491c937f"
 }

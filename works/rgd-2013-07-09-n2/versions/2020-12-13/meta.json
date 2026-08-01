@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/12/2020 : R\u00E8glement grand-ducal du 9 juillet 2013 portant d\u00E9nomination du lyc\u00E9e \u00E0 Junglinster.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/09/n2/consolide/20201213/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d57108a034cdc91c2b3e0765dc3caca890a50166d37a362cffdbc5723c7b62e7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/09/n2/consolide/20201213/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/09/n2/consolide/20201213/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "61fb9868af887c5e287c7dc6d112f577b569442abb4bc61bcbcbe30303c236b1"
+  "record_sha256": "23d5149087e5eee6906bb25f9836b3349889fec6519d7f95bad1b8ba8b6eb790"
 }

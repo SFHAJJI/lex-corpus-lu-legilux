@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/05/2019 : R\u00E8glement grand-ducal du 29 ao\u00FBt 2017 d\u00E9terminant le montant et la perception des taxes et redevances relatives \u00E0 l\u2019utilisation du domaine public fluvial.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a799/consolide/20190524/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e59eee681df85a26497ba382f1a59213c4fffbc9f1ac637a4531453f1c1f5a5e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a799/consolide/20190524/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a799/consolide/20190524/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2a218173287a1962db554ba134360cd03f92ef8e012f3a234c7beb294df9ae82"
+  "record_sha256": "9ee43260e735230e196d93be760afcf4c2974d8d472ec4c11e3ed46400b4225e"
 }

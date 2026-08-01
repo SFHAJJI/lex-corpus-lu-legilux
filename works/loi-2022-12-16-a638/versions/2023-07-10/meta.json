@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/07/2023 : Loi du 16 d\u00E9cembre 2022 autorisant l\u2019\u00C9tat \u00E0 participer au financement du surco\u00FBt des produits \u00E9nerg\u00E9tiques et d\u2019\u00E9lectricit\u00E9 support\u00E9 par les centres int\u00E9gr\u00E9s pour personnes \u00E2g\u00E9es, maisons de soins, logements encadr\u00E9s pour personnes \u00E2g\u00E9es et centres psycho-g\u00E9riatriques agr\u00E9\u00E9s en vertu de la loi modifi\u00E9e du 8 septembre 1998 r\u00E9glant les relations entre l\u2019\u00C9tat et les organismes \u0153uvrant dans les domaines social, familial et th\u00E9rapeutique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20230710/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1915cb5b6d8b89a611ea4b28ac9149c75d2f3c36b9dcf97392c4cd79f6a41665",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20230710/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/16/a638/consolide/20230710/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1a5f963b4e28000ce1cf2aa1eeedd22e1cd83849dee1e526fb70e09383884364"
+  "record_sha256": "e5b738985a984e788f8093990acfbf0b0b97dc0aa56be94f7943d6b9b2d4529e"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2009 : Loi du 8 ao\u00FBt 2000 sur l\u0027entraide judiciaire internationale en mati\u00E8re p\u00E9nale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20101107/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6c022293091193f9a9aaa9fadecc227941b78e134b73f0dec181ea077e95e922",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20101107/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20101107/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "61ce3584b88d45e2fe4c906a3d81191d6e907286619facc12ec926f5ac3b582e"
+  "record_sha256": "b289c819b8bb7f0fafe917d40ea28990ec6b4621b2a336ce78b8eaec50222ca5"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/06/2018 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2004 concernant les r\u00E8gles de conduite dans les lyc\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/consolide/20180602/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "71e3342ec04043ff2dc8f2f13d42edf8dbb15ea67b23120872556505f5d3058d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/consolide/20180602/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/12/23/n1/consolide/20180602/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b825a1397d24baae2da47eabd1673571ee97b2a0f0e430693951f8881acdbb1b"
+  "record_sha256": "ad3034f243cacd619acf4d6a624d25c86e628ce599ce40364be55e9917883dcf"
 }

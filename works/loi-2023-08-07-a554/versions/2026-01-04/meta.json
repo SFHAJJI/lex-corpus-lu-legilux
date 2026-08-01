@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/01/2026 : Loi du 7 ao\u00FBt 2023 relative aux aides individuelles au logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/20260104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f18882a839e254b004bceb388658d97d07368f5a314f3b2e29801b75ac2fc161",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/20260104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a554/consolide/20260104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "05edc2b6e9e12c5372e662e43e3d16f39a4602aca5c6834efdc334c3f65d324c"
+  "record_sha256": "6f8d97df179e49b4c61b064e7dbe69a46b203847fe3dda42ec8adc07b0820862"
 }

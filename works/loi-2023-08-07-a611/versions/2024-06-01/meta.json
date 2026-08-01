@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/06/2024 : Loi du 7 ao\u00FBt 2023 relative au logement abordable et modifiant :\\n1\u00B0 la loi modifi\u00E9e du 25 f\u00E9vrier 1979 concernant l\u2019aide au logement ;\\n2\u00B0 la loi modifi\u00E9e du 19 juillet 2004 concernant l\u2019am\u00E9nagement communal et le d\u00E9veloppement urbain ;\\n3\u00B0 la loi modifi\u00E9e du 25 mars 2020 portant cr\u00E9ation du Fonds sp\u00E9cial de soutien au d\u00E9veloppement du logement ;\\n4\u00B0 la loi du 30 juillet 2021 relative au Pacte logement 2.0 ;\\n5\u00B0 la loi du 7 ao\u00FBt 2023 relative aux aides individuelles au logement.\\n",
       "title_short": "Loi du 7 ao\u00FBt 2023 relative au logement abordable.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a611/consolide/20240601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "815e4cd26214ad2cf79c7b47695ef26fdc7bf7b7e8567126c5b7ecb93fa53a8a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a611/consolide/20240601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a611/consolide/20240601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "03f4c0ada5a36bcaa1dafbb2d2a4925ddbd73710090aea5eab397df0304bb098"
+  "record_sha256": "dcb10d994b4083b4269968d47cdd66284a2d3060a9125b1ba2ccbb29bf36d972"
 }

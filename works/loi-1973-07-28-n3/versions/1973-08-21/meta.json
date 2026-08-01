@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 21/08/1973 : Loi du 28 juillet 1973 r\u00E9glant l\u0027usage des armes et autres moyens de contrainte par les membres de la force publique dans la lutte contre la criminalit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/19730821/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e46d070b2a5cff954c0ffd80c22f9184a59d522e9875d4790bfdd4dd7848747b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/19730821/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/07/28/n3/consolide/19730821/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f14df22b78dc7feadebab73120601fa4f3e30086362202d3d795a08369989537"
+  "record_sha256": "455139794786b48d215f1799973e530030b34ffd7fbe178503e4516b942d9cee"
 }

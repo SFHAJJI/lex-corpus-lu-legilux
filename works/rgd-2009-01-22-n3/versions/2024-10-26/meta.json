@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/10/2024 : R\u00E8glement grand-ducal du 22 janvier 2009 concernant la coop\u00E9ration interadministrative de l\u0027Administration des Contributions Directes et de l\u0027Administration de l\u0027Enregistrement et des Domaines.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/consolide/20241026/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8a58046bbc0f9d28c15644c21b286ded6919d1a44ec1abd40f6d11b1406b332c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/consolide/20241026/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/01/22/n3/consolide/20241026/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bf27d9606172a068248b01683fba65c5e6bac61eee716e02f5eec84a00b27322"
+  "record_sha256": "ca1a4d029f4dfb1dc69626eae1ac98648184bc9f605a69f4dcdca17654c45f6a"
 }

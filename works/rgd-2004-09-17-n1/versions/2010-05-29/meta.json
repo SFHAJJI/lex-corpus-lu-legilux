@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/05/2010 : R\u00E8glement grand-ducal du 17 septembre 2004 fixant les conditions et modalit\u00E9s de l\u0027octroi d\u0027avances temporaires de fonds pour le paiement de d\u00E9penses de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20100529/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a20d26ce30653f7c759ef90a841f5f3d7608e04a2559ded4f2a584de0ac453d2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20100529/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/09/17/n1/consolide/20100529/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4cc648c7290a58b0289d9745694931b755a327c2ccdba5c64f74f1b41aaffa61"
+  "record_sha256": "bbc4513d596e98979ec6c4bd970d006c7be02919bbbd2b9d2eb637c78bf48162"
 }

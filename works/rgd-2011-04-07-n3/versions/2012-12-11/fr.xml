@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#2014A3411A">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MEN"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2014-09-04</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2014-09-04</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2014A3411A</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2012-12-11</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2014-09-07</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d'admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l'enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d'orientation scolaires, à l'Action locale pour jeunes, à l'École de la 2e Chance et au Centre national de formation professionnelle continue; 2. les modalités de l'examen de promotion de l'éducateur.</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="titleShort">TEXTE COORDONNE du RGD modifié du 7 avril 2011</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/621</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/21</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo/fr</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal modifié du 7 avril 2011 déterminant 1. les conditions d'admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l'enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d'orientation scolaires, à l'Action locale pour jeunes, à l'École de la 2e Chance et au Centre national de formation professionnelle continue; 2. les modalités de l'examen de promotion de l'éducateur.</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="titleShort">TEXTE COORDONNE du RGD modifié du 7 avril 2011</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n15/jo/fr</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="memorialPage">3411</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2014-09-04-n15-jo-fr-xml.xml</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2011/04/07/n3">Règlement grand-ducal modifié du 7 avril 2011</ref> déterminant </p>
+				<ol scl:symbol="1.">
+					<li>les conditions d'admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs et éducateurs gradués intervenant dans l'enseignement fondamental ou affectés aux lycées, au Centre de psychologie et d'orientation scolaires, à l'Action locale pour jeunes, à l'École de la 2e Chance et au Centre national de formation professionnelle continue;</li>
+					<li>les modalités de l'examen de promotion de l'éducateur,</li>
+				</ol>
+				<p>(Mémorial A - 74 du 18 avril 2011, p. 1218)</p>
+			</longTitle>
+		</preface>
+		<preamble>
+			<formula name="">
+				<p>Texte coordonné</p>
+			</formula>
+		</preamble>
+		<body>
+			<article id="art_1er">
+				<num>Art. 1<sup>er</sup>.</num>
+				<heading>Champ d'application</heading>
+				<alinea>
+					<content>
+						<p>Le présent règlement fixe les modalités du stage et de l'examen de fin de stage pour la fonction de l'éducateur et celle de l'éducateur gradué dans les établissements scolaires de l'Éducation nationale c.-à-d. dans les écoles fondamentales, les lycées y compris le lycée-pilote, l'École de la 2e Chance, le Centre de psychologie et d'orientation scolaires et le Centre national de formation professionnelle continue (Règl. g.-d. du 30 novembre 2012) «et l'Action locale pour jeunes».</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Le règlement fixe aussi les modalités de l'examen de promotion de l'éducateur.</p>
+					</content>
+				</alinea>
+			</article>
+			<section id="chapitre_1er">
+				<num>Chapitre 1<sup>er</sup>.</num><heading scl:align="center" scl:separator=" " scl:style-format="b">Le stage</heading>
+				<article id="art_2">
+					<num>Art. 2.</num>
+					<heading>Admission et durée</heading>
+					<alinea>
+						<content>
+							<p>Les stagiaires sont admis au stage de leur carrière respective conformément au règlement grand-ducal modifié du 30 janvier 2004 déterminant les conditions générales et les modalités de recrutement et de sélection applicables à tous les examens-concours d'admission au stage dans les administrations et services de l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La durée du stage est fixée à deux ans.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le candidat pouvant se prévaloir d'une expérience professionnelle d'une durée de trois années au moins dans la profession, antérieure à son admission au stage, peut bénéficier d'une réduction de la durée du stage, selon les disposition du règlement grand-ducal modifié du 30 janvier 2004 déterminant les cas d'exception ou de tempérament aux conditions de stage, de formation pendant le stage et d'examen de fin de stage pour certains candidats des administrations de l'État.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_3">
+					<num>Art. 3.</num>
+					<heading>La supervision du stage</heading>
+					<alinea>
+						<content>
+							<p>Le stage est supervisé par</p>
+							<ul scl:symbol="dot">
+								<li>l'inspecteur d'arrondissement territorialement compétent ou son délégué, si le stagiaire est affecté à une commune, un syndicat scolaire, une école ou une classe de l'État ou un bureau de l'inspection;</li>
+								<li>le directeur du lycée ou son délégué, si le stagiaire est affecté à un lycée;</li>
+								<li>le directeur du Centre de psychologie et d'orientation scolaires ou son délégué si le stagiaire est affecté au Centre;</li>
+								<li>le directeur à la Formation professionnelle ou son délégué, si le stagiaire est affecté au Centre national de formation professionnelle continue, désigné ci-après par «le directeur ou l'inspecteur» (Règl. g.-d. du 30 novembre 2012) «ou à l'Action locale pour jeunes».</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le directeur ou l'inspecteur s'assure régulièrement de la progression et du bon encadrement du stagiaire et donne des directives pour assurer le bon déroulement du stage.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour chaque stagiaire, le directeur ou l'inspecteur désigne un patron de stage.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_4">
+					<num>Art. 4.</num>
+					<heading>La formation pendant le stage</heading>
+					<alinea>
+						<content>
+							<p>Les formations portent sur deux volets, à savoir:</p>
+							<ul>
+								<li>une partie générale organisée par l'Institut national d'administration publique, le «cycle court» prévu par le règlement grand-ducal modifié du 27 octobre 2000 déterminant l'organisation à l'Institut national d'administration publique de la division de la formation pendant le stage du personnel de l'État et des établissements publics de l'État;</li>
+								<li>une partie spécifique d'au moins 124 heures organisée sous l'égide du ministre ayant l'Éducation nationale dans ses attributions, appelé ci-après «le ministre».</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les formations de la partie spécifique portent sur la pratique professionnelle, notamment:</p>
+							<ul scl:symbol="dot">
+								<li>la législation scolaire et le droit du travail;</li>
+								<li>la prise en charge et l'inclusion d'élèves à besoins spécifiques;</li>
+								<li>l'orientation scolaire et professionnelle;</li>
+								<li>la prévention de l'échec et du décrochage scolaires;</li>
+								<li>la prévention et la médiation dans le cadre de la lutte contre la violence à l'école;</li>
+								<li>les spécificités de la fonction d'éducateur ou d'éducateur gradué en milieu scolaire.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le stagiaire doit suivre les formations que choisit le directeur ou l'inspecteur en tenant compte de la spécificité respective de la fonction d'éducateur et de la fonction d'éducateur gradué.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5">
+					<num>Art. 5.</num>
+					<heading>Le carnet de stage</heading>
+					<alinea>
+						<content>
+							<p>Les constatations et directives du directeur ou de l'inspecteur et du patron de stage sont consignées dans le dossier formation (carnet de stage) qui est prévu à l'article 12 du règlement grand-ducal modifié du 27 octobre 2000 déterminant l'organisation à l'Institut national d'administration publique de la division de la formation pendant le stage du personnel de l'État et des établissements publics de l'État ainsi que du cycle de formation de début de carrière pour les employés de l'État.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_6">
+					<num>Art. 6.</num>
+					<heading>Le projet socio-éducatif</heading>
+					<alinea>
+						<content>
+							<p>Au début de son stage, le candidat définit un projet socio-éducatif, relatif à la prévention du décrochage scolaire, à l'inclusion scolaire ou à un autre sujet qui est en rapport étroit avec son travail et qui est agréé par le directeur ou l'inspecteur, mettant en oeuvre les techniques spécifiques de la profession et de sa tâche.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le projet est à réaliser en coopération ou avec un éducateur ou un éducateur gradué qui n'intervient pas à la même école ou au même centre, ou avec un enseignant.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'élaboration du projet est supervisée par le patron de stage.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le candidat est tenu de rédiger un rapport sur le projet. Il portera sur les objectifs, le déroulement, l'évaluation et les perspectives du projet. Le rapport sera clôturé par des conclusions personnelles du candidat.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_7">
+					<num>Art. 7.</num>
+					<heading>Le mémoire de l'éducateur gradué</heading>
+					<alinea>
+						<content>
+							<p>Le candidat à la fonction d'éducateur gradué est tenu de rédiger un mémoire portant sur un sujet qui est en rapport étroit avec la fonction que le candidat est appelé à exercer. Le sujet doit être approuvé par le directeur ou l'inspecteur.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Ce mémoire est rédigé soit en français soit en allemand au choix du candidat et comporte au moins soixante mille caractères.</p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+			<section id="chapitre_2">
+				<num>Chapitre 2.</num><heading scl:align="center" scl:separator=" " scl:style-format="b">L'examen de fin de stage</heading>
+				<article id="art_8">
+					<num>Art. 8.</num>
+					<heading>Organisation et commission</heading>
+					<alinea>
+						<content>
+							<p>Le stage est sanctionné par un examen de fin de stage conformément au règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d'examen du concours d'admission au stage, de l'examen de fin de stage et de l'examen de promotion dans les administrations et services de l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'examen de fin de stage a lieu devant une commission de trois membres effectifs comprenant soit le directeur ou son délégué, soit l'inspecteur ou son délégué, ainsi que le patron de stage. Trois membres suppléants sont adjoints à la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre désigne parmi les membres effectifs un commissaire du Gouvernement qui préside la commission ainsi qu'un secrétaire.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un observateur est nommé par le ministre sur proposition de la Chambre des Fonctionnaires et Employés publics, conformément au règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d'examen du concours d'admission au stage, de l'examen de fin de stage et de l'examen de promotion dans les administrations et services de l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La commission ne peut délibérer valablement qu'en présence de trois membres effectifs ou suppléants.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La commission décide de l'admissibilité du candidat à l'examen de fin de stage. Elle s'assure notamment, avant de procéder à l'examen, que le stage a été accompli conformément aux dispositions du présent règlement.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_9">
+					<num>Art. 9.</num>
+					<heading>Les opérations et épreuves d'examen</heading>
+					<alinea>
+						<content>
+							<p>Les opérations d'examen sont fixées et assurées par la commission selon les dispositions de l'article 5 du règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d'examen du concours d'admission au stage, de l'examen de fin de stage et de l'examen de promotion dans les administrations et services de l'État. Le candidat en est informé lors d'une réunion préliminaire convoquée par le président de la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'examen de fin de stage comporte les épreuves suivantes qui sont notées chacune sur 60 points. Une note d'au moins 30 points est suffisante. </p>
+							<ol scl:symbol="1.">
+								<li>La partie générale est évaluée par l'Institut national d'administration publique par une note finale transmise au ministre qui la communique au président de la commission.</li>
+								<li>La partie spécifique est évaluée par la commission d'examen sur la base des épreuves suivantes:<ul>
+										<li>une épreuve écrite portant sur les notions générales de la législation scolaire et du droit de travail;</li>
+										<li>le rapport du projet socio-éducatif prévu à l'article 6 ainsi que la discussion du rapport devant la commission d'examen;</li>
+										<li>pour l'éducateur gradué: le mémoire prévu à l'article 7 ainsi que la soutenance et la discussion du mémoire devant la commission d'examen;</li>
+										<li>pour l'éducateur: une épreuve écrite ou orale portant sur la préparation d'une activité socio-éducative à prévoir avec des élèves.</li>
+									</ul>
+								</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le programme relatif aux notions générales de la législation scolaire et du droit de travail est fixé par le ministre.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_10">
+					<num>Art. 10.</num>
+					<heading>Les décisions de la commission d'examen et son indemnisation</heading>
+					<alinea>
+						<content>
+							<ul>
+								<li>Est reçu le candidat qui a obtenu une note suffisante dans chacune des épreuves visées et qui a obtenu sur l'ensemble des épreuves au moins les trois cinquièmes du total des points.</li>
+								<li>Est refusé le candidat qui a obtenu une note insuffisante dans plus d'une épreuve ou qui n'a pas obtenu sur l'ensemble des épreuves au moins les trois cinquièmes du total des points.</li>
+								<li>Est ajourné le candidat qui a obtenu sur l'ensemble des épreuves au moins les trois cinquièmes du total des points et qui a eu une note insuffisante dans une épreuve.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un procès-verbal est dressé et signé par les membres de la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'ajournement a lieu au plus tard trois mois suivant la date de la décision d'ajournement. En cas de note insuffisante, le candidat est refusé.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En cas de refus, le ministre peut prolonger le stage pour une période s'étendant au maximum sur douze mois. Le candidat refusé est tenu de se présenter une seconde fois à la totalité des épreuves de l'examen de fin de stage. Le candidat refusé pour la seconde fois est écarté du stage.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le candidat reçu à l'examen de fin de stage peut être nommé à la fonction d'éducateur ou d'éducateur gradué.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres de la commission d'examen bénéficient d'une indemnité dont le montant est fixé par le Conseil de Gouvernement.</p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+			<section id="chapitre_3">
+				<num>Chapitre 3.</num><heading scl:align="center" scl:separator=" " scl:style-format="b">L'examen de promotion de l'éducateur</heading>
+				<article id="art_11">
+					<num>Art. 11.</num>
+					<heading>Organisation et commission</heading>
+					<alinea>
+						<content>
+							<p>Nul ne peut accéder au grade 8bis de la carrière de l'éducateur s'il n'a pas subi avec succès un examen de promotion.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'examen de promotion a lieu devant une commission de trois membres effectifs nommés par le ministre sur proposition du directeur ou de l'inspecteur.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres de la commission sont choisis parmi les agents de l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le directeur ou son délégué, ou bien l'inspecteur ou son délégué est membre de la commission. Un autre membre au moins provient du lycée, de l'arrondissement ou du centre dans lequel le candidat exerce sa tâche.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre désigne parmi les membres un commissaire du Gouvernement qui préside la commission ainsi qu'un secrétaire.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Trois membres suppléants sont adjoints à la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un observateur est nommé par le ministre sur proposition de la Chambre des Fonctionnaires et Employés publics, conformément au règlement grand-ducal modifié du 13 avril 1984 déterminant la procédure des commissions d'examen du concours d'admission au stage, de l'examen de fin de stage et de l'examen de promotion dans les administrations et services de l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La commission ne peut délibérer valablement qu'en présence de trois de ses membres effectifs ou suppléants.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_12">
+					<num>Art. 12.</num>
+					<heading>Les opérations et épreuves d'examen</heading>
+					<alinea>
+						<content>
+							<p>Les opérations d'examen sont fixées et assurées par la commission et communiquées au candidat lors d'une réunion préliminaire fixée par le président de la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'examen de promotion porte sur les épreuves suivantes:</p>
+							<ul>
+								<li>une épreuve écrite portant sur la promotion et l'orientation scolaire et professionnelle et les textes législatifs y relatifs;</li>
+								<li>une épreuve écrite portant sur la pédagogie spéciale et/ou sociale;</li>
+								<li>une épreuve écrite ou orale portant sur la pratique professionnelle.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les épreuves sont notées chacune sur 60 points. Une note d'au moins 30 points est suffisante.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le programme relatif à la législation scolaire et à la pédagogie est fixé par arrêté ministériel.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_13">
+					<num>Art. 13.</num>
+					<heading>Les décisions de la commission d'examen et son indemnisation</heading>
+					<alinea>
+						<content>
+							<ul>
+								<li>Est reçu le candidat qui a obtenu une note suffisante dans chacune des épreuves visées et qui a obtenu sur l'ensemble des épreuves au moins les trois cinquièmes du total des points.</li>
+								<li>Est refusé le candidat qui a obtenu une note insuffisante dans plus d'une épreuve ou qui n'a pas obtenu sur l'ensemble des épreuves au moins les trois cinquièmes du total des points.</li>
+								<li>Est ajourné le candidat qui a obtenu sur l'ensemble des épreuves au moins les trois cinquièmes du total des points et qui a eu une note insuffisante dans une épreuve.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un procès-verbal est dressé et signé par les membres de la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L'ajournement a lieu au plus tard trois mois suivant la date de la décision d'ajournement. En cas de note insuffisante, le candidat est refusé.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres de la commission d'examen bénéficient d'une indemnité dont le montant est fixé par le Conseil de Gouvernement.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14">
+					<num>Art. 14.</num>
+					<heading>Disposition abrogatoire</heading>
+					<alinea>
+						<content>
+							<p>Le règlement grand-ducal du 24 avril 2000 déterminant les conditions d'admission au stage, les modalités du stage ainsi que les conditions de nomination des éducateurs gradués affectés au Centre de psychologie et d'orientation scolaires et aux Centres de formation professionnelle continue est abrogé.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_15">
+					<num>Art. 15.</num>
+					<alinea>
+						<content>
+							<p>Notre Ministre de l'Éducation nationale et de la Formation professionnelle, Notre Ministre des Finances et Notre Ministre déléguée à la Fonction publique et à la Réforme administrative sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.</p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

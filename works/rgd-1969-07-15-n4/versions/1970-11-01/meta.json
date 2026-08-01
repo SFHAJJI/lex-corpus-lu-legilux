@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/1970 : R\u00E8glement grand-ducal du 15 juillet 1969 portant ex\u00E9cution des articles 1er et 5 de la loi du 18 novembre 1967 portant r\u00E9glementation de certaines professions param\u00E9dicales, en ce qui concerne la profession de laborantin.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/19701101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "132a4a15c133f822344b9d92b2067500cd1ea8ae439cf4c2f0fd28349265efa4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/19701101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1969/07/15/n4/consolide/19701101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d7aca5539bdc181d202e3e317b83520c3219057e3375185751a07096720098fd"
+  "record_sha256": "fd37b0ed11fceaf560c1cddf54af94c82d01e4f9a2f2488f65e4134fafa075f2"
 }

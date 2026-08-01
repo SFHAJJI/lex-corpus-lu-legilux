@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2024 : R\u00E8glement grand-ducal modifi\u00E9 du 6 d\u00E9cembre 1989 concernant le cong\u00E9 politique des bourgmestres, \u00E9chevins et conseillers communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20240801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5004951897d45f93a3fb7e2996d0ecdcd2263df5a91f672b34a096b38c978709",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20240801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1989/12/06/n3/consolide/20240801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3fe0e9241b17dd8b15ab2f5f3aa89c4e13a2ec99410d22ce42e4d391470f32db"
+  "record_sha256": "44919c573170d2c174e3b8020dee328695b44fdaa65eac1ef413af6bc1a585c0"
 }

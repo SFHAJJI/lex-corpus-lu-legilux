@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/05/2021 : R\u00E8glement grand-ducal du 16 mars 2020 concernant l\u2019\u00E9mission d\u2019une pi\u00E8ce de collection d\u00E9di\u00E9e \u00E0 la \u00AB\u00A0M\u00E9lusine\u00A0\u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7619b0477cc1b03e7a389d859714ae17efd7b915f0f0ba43967ea5d95ab5978c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a157/consolide/20210514/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "23743a7fa3bdd93c1ab9177947672e1132a4ec4b7ad21caa533d78f14eca373c"
+  "record_sha256": "f9e7d68549c596bd597a189c97e5f4c20f3895f62b988df383031a24143a4fcb"
 }

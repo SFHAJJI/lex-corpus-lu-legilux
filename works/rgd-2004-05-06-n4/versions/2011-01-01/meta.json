@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2011 : R\u00E8glement grand-ducal du 6 mai 2004 relatif aux dotations fiscales du fonds pour l\u0027emploi.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/consolide/20110101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "45c639bf22fd4be35601020ea96f987d3230f776a2079d468ac3a8d42bec06d1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/consolide/20110101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/05/06/n4/consolide/20110101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "21538e100e782b995563dfa5f49ac9483b79ef55cd40c444ad143ba8920ef62f"
+  "record_sha256": "5b79f3a0a09fa148e68ad4e38612b92234ec201e4921828467e2a0dafc0d9561"
 }

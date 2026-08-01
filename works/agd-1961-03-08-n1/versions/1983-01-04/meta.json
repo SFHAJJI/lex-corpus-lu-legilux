@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/01/1983 : Arr\u00EAt\u00E9 grand-ducal du 8 mars 1961 concernant l\u0027assurance obligatoire contre les accidents des fonctionnaires et employ\u00E9s publics jouissant d\u0027un r\u00E9gime sp\u00E9cial de pensions de retraite.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1961/03/08/n1/consolide/19830104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fd2172910cc1bff1f0135ddf99e7d33ed9e28244302b9a8e01085cd897ed2ffe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1961/03/08/n1/consolide/19830104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1961/03/08/n1/consolide/19830104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "54dd065b38aef8d48aea985f94f3b79b95d459e671cc6916b72d4f97fdf68b43"
+  "record_sha256": "062bbed28cb7950b752fec0c9e717b6de412e1476f96abb9a5957d723cf8b858"
 }

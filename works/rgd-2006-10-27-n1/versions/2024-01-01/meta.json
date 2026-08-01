@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 27 octobre 2006 pris en ex\u00E9cution de l\u2019article 4 de la loi modifi\u00E9e du 18 juin 1969 sur l\u2019enseignement sup\u00E9rieur et l\u2019homologation des titres et grades \u00E9trangers d\u2019enseignement sup\u00E9rieur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d264e91f5cbb81cf3af3313ee60d8c37c5c8920a3cac39cee49ea6bf726a2efa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2006/10/27/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2f3d3c400db06ca3664cd5a062c399f5e1dbcad2e91d27bbf0d2a886543a055b"
+  "record_sha256": "fe293f3e4f16b011999eaf393947ae08703ae0bc0d3e8ee76c820e7b57ac8795"
 }

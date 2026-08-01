@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 24/07/2023 : Loi du 2 d\u00E9cembre 2022 instituant une contribution \u00E9tatique visant \u00E0 limiter la hausse des prix d\u2019approvisionnement en gaz naturel pour certains clients finals et modifiant la loi du 17 mai 2022 portant prise en charge par l\u2019\u00C9tat des frais engendr\u00E9s par l\u2019utilisation des r\u00E9seaux de distribution de gaz naturel.",
       "title_short": "Loi du 2 d\u00E9cembre 2022 instituant une contribution \u00E9tatique visant \u00E0 limiter la hausse des prix d\u2019approvisionnement en gaz naturel pour certains clients finals.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/consolide/20230724/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9755e399b5fff6ffbd6529625035fba3dd743cfcdffefb7b4659821c50d3b6dd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/consolide/20230724/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/02/a597/consolide/20230724/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9b10ace71d95c8058477d79ac9ef1d5b6215b04efa0d84a2f8ee241aa8419dbb"
+  "record_sha256": "176d38cb205802915b54041786fe661e67901f8c4c05e14f6139c2604fdefc9a"
 }

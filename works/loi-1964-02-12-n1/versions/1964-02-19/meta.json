@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 19/02/1964 : Loi du 12 f\u00E9vrier 1964 ayant pour objet de compl\u00E9ter la loi du 4 avril 1924, portant cr\u00E9ation de chambres professionnelles \u00E0 base \u00E9lective par la cr\u00E9ation d\u2019une chambre des fonctionnaires et employ\u00E9s publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1964/02/12/n1/consolide/19640219/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b3725a97a6b1024efe9aa5274dd3b15615b014e0c1f1edd31e1e2a9cf1d29443",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1964/02/12/n1/consolide/19640219/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1964/02/12/n1/consolide/19640219/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "96008524dbe8882a4ef583401a208f0a0103eeda91f358413f292ad5bfbef4f6"
+  "record_sha256": "7ad4e0fdddf4ce43624dad87ad3499a4eea50f9e313d5c12a1faaab540206311"
 }

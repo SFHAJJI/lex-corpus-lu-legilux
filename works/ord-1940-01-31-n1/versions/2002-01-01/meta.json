@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Dritte Verordnung zur Durchf\u00FChrung des Gewerbesteuergesetzes Vom 31. Januar 1940.\\nOrdonnance d\u2019ex\u00E9cution du 31 janvier 1940 relative \u00E0 la loi de l\u2019imp\u00F4t commercial communal.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/ord/1940/01/31/n1/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "be6d70a39e87d9b9610b8b770e87ebb396792ac1c677e0f0e68eae5ddfee8333",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/ord/1940/01/31/n1/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/ord/1940/01/31/n1/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7e49706a46890919792bd401f6a6a659bf611e862ea595759ef884c045fb3401"
+  "record_sha256": "5dc829edfd09c40e01cc0a91734cdab05e4d5bbc093700738b9eefbb9e90424b"
 }

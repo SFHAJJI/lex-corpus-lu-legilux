@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/09/2024 : R\u00E8glement minist\u00E9riel du 16 d\u00E9cembre 2020 portant cr\u00E9ation de zones g\u00E9ographiques UAS.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20240914/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e3b08bcb45ec0ddc2ec137ace4e9fa7573e58c1d1c1e3390010e1ee3df9fb6d5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20240914/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2020/12/16/a1028/consolide/20240914/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c3f75537f04b3a3a5500e55337a3924ac6e170e37a5755588adb4caf8b884d38"
+  "record_sha256": "bb2e15fb7efd889f2a1a9aba76cec1ba701ad8acb71eb445eb77bd1ee305ab02"
 }

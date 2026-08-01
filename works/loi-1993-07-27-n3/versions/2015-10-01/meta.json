@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 27 juillet 1993 portant organisation de l\u0027administration des douanes et accises.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n3/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0c5d272e083a52b18fc4f14ab47627e0165126004f8c36499f7d1ffa350d5821",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n3/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n3/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f74a892156ddcb1ffc82ab686611f241f63c74e9d3bacc0fb570a67004aa94cf"
+  "record_sha256": "6b69fd6382861cbaeb36cdcbf9f12d093eda5a9de89ce15d279a2123d4d302fd"
 }

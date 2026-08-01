@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/10/2017 : R\u00E8glement grand-ducal du 5 mars 2004 fixant les modalit\u00E9s de d\u00E9signation, les droits et les devoirs des d\u00E9l\u00E9gu\u00E9s \u00E0 l\u0027\u00E9galit\u00E9 entre femmes et hommes au sein des d\u00E9partements minist\u00E9riels et des administrations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/20171007/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8e46991e004529ff40b6fb4fe3761cfb3ee235f2f1b77a36cb613d90b1db0c47",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/20171007/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/03/05/n10/consolide/20171007/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cc82855d78ba7917bd0e1ec978605716e44c87891f70fb1dae0cc805d4653915"
+  "record_sha256": "fd50b3015dd9c755449ed2ae92c482400e238b9e0f0b6a437bd583f4ed34b43f"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/05/2005 : R\u00E8glement grand-ducal du 18 octobre 2001 d\u00E9terminant la liste des vaccinations recommand\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20050502/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "63658057bf265006a41b71be6b90752a67707e9e4cb19c13a0528d9b058f75b3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20050502/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20050502/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "739b96f96df84473f7b6dc66ed77fe2cb310d0e457eddbcca4c41259b1e1693d"
+  "record_sha256": "d05c2d6571d4464e83a854f08f3750ab7bc3ff38406f29f185ae65783bbd5acb"
 }

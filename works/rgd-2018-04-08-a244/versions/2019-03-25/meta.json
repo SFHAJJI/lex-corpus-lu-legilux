@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 25/03/2019 : R\u00E8glement grand-ducal du 8 avril 2018 portant ex\u00E9cution de la loi du 8 avril 2018 sur les march\u00E9s publics et portant modification du seuil pr\u00E9vu \u00E0 l\u2019article 106 point 10\u00B0 de la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988.",
       "title_short": "R\u00E8glement grand-ducal d\u2019ex\u00E9cution du 8 avril 2018 de la loi du 8 avril 2018 sur les march\u00E9s publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20190325/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "748d3058f4e150d8fd969d5f15e3f394a4173e37f293bbf16bba7303c19eb988",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20190325/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/04/08/a244/consolide/20190325/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "df81910b94fb1e13d821803eb4a6ccee90e3f27a33bbfa57e2edbf92cd795b4f"
+  "record_sha256": "3c9fe813cfffc73301bf60d57af816066fcbf13c78845102ca22ae31387bd9c2"
 }

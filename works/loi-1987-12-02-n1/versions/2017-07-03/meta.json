@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/07/2017 : Loi du 2 d\u00E9cembre 1987 portant r\u00E9glementation de la m\u00E9decine scolaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1987/12/02/n1/consolide/20170703/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "794a3e77ffa54e0f68fa8202d60dc831bd9765d36024454d94716986d8732f2e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1987/12/02/n1/consolide/20170703/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1987/12/02/n1/consolide/20170703/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8f4b791a3a0e99921b9ca426e37c8d9a920ea4864a86283224796f8a44691d20"
+  "record_sha256": "3cd0f64fad2b8054de52d8f8b5a990018c968af9dbd4473ac857ef9e5c71328c"
 }

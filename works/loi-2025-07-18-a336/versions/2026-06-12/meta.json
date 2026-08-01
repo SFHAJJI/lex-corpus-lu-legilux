@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/06/2026 : Loi du 18 juillet 2025 autorisant le Fonds national de solidarit\u00E9 \u00E0 participer aux prix des prestations et services fournis dans les structures d\u2019h\u00E9bergement pour personnes \u00E2g\u00E9es et dans les logements encadr\u00E9s agr\u00E9\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/07/18/a336/consolide/20260612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "65e37bc42469ab5f272714e8ec79b459e49aa90509e3258845d6caefea401d94",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/07/18/a336/consolide/20260612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2025/07/18/a336/consolide/20260612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1e436534ec1fff3138d4fcbc08b7e3aca50301b2e715cc751bf38c2511a666d0"
+  "record_sha256": "d2fa70bb650326e5ebe8fb69674952b34458f6409efa3aa72d1f9dc9db55a79f"
 }

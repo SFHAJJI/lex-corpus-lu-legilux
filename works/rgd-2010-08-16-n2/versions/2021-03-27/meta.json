@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/03/2021 : R\u00E8glement grand-ducal du 16 ao\u00FBt 2010 d\u00E9finissant les r\u00E8gles sp\u00E9ciales applicables \u00E0 la commercialisation du b\u00E9tail de boucherie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20210327/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "51222c0fad6f3548544fe83d6b4f355358c8c3d406c06489d69f86d7b598d34c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20210327/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/08/16/n2/consolide/20210327/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c0d3d19c46829de816a06220982288cf446dab73940b62f1d7239ed50d375b4a"
+  "record_sha256": "9cec143b328b852ccaad31c0a56d079dd16fdad2f0c7a31b41d45c794464483e"
 }

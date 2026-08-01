@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2012-04-26" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MAE"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2012-04-26" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2012-04-26" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2012-04-26</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2012A0916A</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MAE</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/126</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/548</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2012-04-30</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2012/80</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2012-04-26</scl:jolux>
+						<scl:jolux scl:name="consolidates">http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n2/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/rgd/2012/01/25/n3/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2009/50/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1999/04/29/n11/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/rgd/1979/02/25/n5/jo</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr</scl:jolux>
+					<scl:jolux scl:name="titleAlternative">TC - Règlement grand-ducal du 5 septembre 2008</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">TEXTE COORDONNÉ du Règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration.</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2012/80/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2012-04-26-n3-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">916</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2012/80/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2012-80-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">916</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n3/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2012-04-26" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+			</lifecycle>
+			<analysis source="#"/>
+			<references source="#">
+				<original href="/eli/etat/leg/tc/2012/04/26/n3/jo" id="ro1" showAs="Original"/>
+			</references>
+			<notes scl:border="50" scl:page-footer="true" source="#eli-etat-leg-tc-2012-04-26-n4-jo-fr-xml">
+				<note id="note_0_0_0">
+					<p>Base légale: <ref href="/eli/etat/leg/loi/2008/08/29/n1/jo" id="ae65af24-83b1-4efa-b058-ff88f0e12354">Loi du 29 août 2008</ref> sur la libre circulation des personnes et l’immigration.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>Règlement grand-ducal du 5 septembre 2008 définissant les critères de ressources et de logement prévus par la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration<noteRef href="#note_0_0_0"/>, - TEXTE COORDONNÉ</p>
+			</longTitle>
+		</preface>
+		<body>
+			<alinea>
+				<content>
+					<p scl:align="center">(<ref href="/eli/etat/leg/rgd/2008/09/05/n1/jo" id="192ef22a-d4d3-4e6a-ad6b-0c3460318eb2">Mém. A - 138 du 10 septembre 2008</ref>, p. 2053) </p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>modifié par: </p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>
+						<ref href="/eli/etat/leg/rgd/2011/08/11/n2/jo" id="45e23897-8c64-4c44-b288-e45d85fe0686" scl:verify="true">Règlement grand-ducal du 11 août 2011</ref>
+					</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:space-tab="15">(Mém. A - 180 du 22 août 2011, p. 3218) </p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>
+						<ref href="/eli/etat/leg/rgd/2012/01/25/n3/jo" id="9a06b846-401c-4551-bcad-e45a4a54ee87">Règlement grand-ducal du 25 janvier 2012</ref>. </p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:space-tab="15">(Mém. A - 19 du 3 février 2012, p. 242; <ref href="/eli/dir_ue/2009/50/jo" id="416c1735-2abc-42eb-ab2c-88edc846a6a9">dir. 2009/50</ref>)</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:align="center" scl:font-size="15">
+						<b>Texte coordonné au 3 février 2012</b>
+					</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:align="center" scl:font-size="15">
+						<b>Version applicable à partir du 7 février 2012</b>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_1er">
+				<num>Art. 1<sup>er</sup>.</num>
+				<alinea>
+					<content>
+						<p>Au sens du présent règlement grand-ducal on entend par: </p>
+						<ul scl:symbol="dash">
+							<li>«loi»: la <ref href="/eli/etat/leg/loi/2008/08/29/n1/jo" id="2c0f5c7b-9ba8-4372-ab72-c09da69e7509" scl:verify="true">loi du 29 août 2008</ref> sur la libre circulation des personnes et l’immigration;</li>
+							<li> «ministre»: le membre du gouvernement ayant l’immigration dans ses attributions.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2">
+				<num>Art. 2.</num>
+				<paragraph id="paragraph_1">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Les ressources suffisantes exigées en vertu de l’article 6, paragraphe (1), points 2 et 3 et de l’article 18 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="b9bc5c90-8b6c-49b0-8fd9-0c9b5b13c4a0">loi</ref> sont appréciées en tenant compte de la situation personnelle de la personne concernée. En aucun cas, le montant exigé ne peut excéder le montant du revenu minimum garanti défini par la <ref href="/eli/etat/leg/loi/1999/04/29/n11/jo" id="7644ae1a-d56b-4659-b48c-ca5076737c4d">loi modifiée du 29 avril 1999</ref> portant création d’un droit à un revenu minimum garanti.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_2">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>La personne concernée produit les documents attestant ses moyens de subsistance et notamment la nature et la régularité de ses revenus.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_3">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>La preuve à fournir par l’étudiant visé à l’article 6, paragraphe (1), point 3 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="f8a3c53a-a316-434b-b21b-ee48a661f570">loi</ref> qui garantit disposer de ressources suffisantes pour lui-même et le cas échéant pour les membres de sa famille, est rapportée par déclaration ou par tout autre moyen équivalent.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_3">
+				<num>Art. 3.</num>
+				<paragraph id="paragraph_4">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Le ressortissant d’un pays tiers qui sollicite l’entrée sur le territoire du Grand-Duché de Luxembourg conformément à l’article 34 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="6f9dd4ba-7dce-4533-b279-3be1325364ca">loi</ref> doit justifier qu’il possède les ressources personnelles suffisantes tant pour la durée du séjour, que pour le retour dans le pays d’origine ou le transit vers un autre pays. La justification des ressources exigées se fait notamment par la présentation d’argent liquide, de chèques de voyage ou de cartes de crédit ainsi que par la présentation d’un document attestant la possibilité d’acquérir légalement les moyens nécessaires. La justification des ressources exigées peut également se faire par la production de lettres de crédit émises par un institut bancaire ou d’une attestation de prise en charge dans les cas visés par l’article 34, paragraphe (3) de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="e385e581-eb08-46a0-8d72-a4d2df6e5513">loi</ref>.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_5">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>Les justificatifs énumérés au paragraphe (1) qui précède, sont appréciés compte tenu de la durée et de l’objet du séjour.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/rgd/2012/01/25/n3/jo" id="3c06d7f3-69da-4a75-8b18-79ad404a79fc">Règl. g.-d. du 25 janvier 2012</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_3bis">
+				<num>«Art. 3<i>bis</i>.</num>
+				<alinea>
+					<content>
+						<p>Pour l’application de l’article 46, paragraphe (2) de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="b86cee9a-fa40-44c4-97e6-453e47c19de3">loi</ref>, les ressources du titulaire de la carte bleue européenne sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié. Le ministre peut tenir compte du nombre de membres que compte la famille de la personne concernée. Cette évaluation n’a pas lieu pendant la période de chômage prévue à l’article 45-3 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="f3f681d5-3846-4b17-aba6-544b8a239a2f">loi</ref>.»</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_4">
+				<num>Art. 4.</num>
+				<paragraph id="paragraph_6">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Pour l’application de l’article 56, paragraphe (1), point 3 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="a4c6481e-a60d-41da-94e9-4905b1aa62d0">loi</ref>, le demandeur d’une autorisation de séjour à des fins d’études doit justifier de ressources mensuelles correspondant à 80% au moins du montant du revenu minimum garanti défini par la <ref href="/eli/etat/leg/loi/1999/04/29/n11/jo" id="c2c472d8-0fbc-4058-a990-063388e44728" scl:verify="true">loi modifiée du 29 avril 1999</ref> portant création d’un droit à un revenu minimum garanti.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_7">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>La preuve des ressources visées au paragraphe (1) qui précède, est rapportée notamment par la production d’un des documents suivants:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>une attestation de bourse ou de prêt d’étudiant indiquant le montant alloué et sa durée; </li>
+								<li> une attestation bancaire justifiant les ressources exigées;</li>
+								<li>une attestation de prise en charge à l’égard de l’Etat luxembourgeois et de l’étudiant, pour les frais de séjour, y compris les frais d’études et de santé, d’au moins une année académique et les frais de retour, établie dans les formes prévues à l’article 4 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="d0038162-0d41-4266-898d-37d578283e19">loi</ref>.</li>
+							</ol>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_8">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>Dans l’appréciation des ressources, sont également pris en compte les avantages matériels dont dispose le demandeur, tels que le logement gratuit, de même que les revenus tirés de l’activité salariée exercée par l’intéressé conformément à l’article 57, paragraphe (3) de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="015ae09b-060e-4b58-b527-d2260fcb671d">loi</ref>.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_5">
+				<num>Art. 5.</num>
+				<paragraph id="paragraph_9">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Pour l’application de l’article 61, paragraphe (1), point 3 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="df27420c-d107-4794-9747-c0c0ee6ea8ba">loi</ref>, le demandeur d’une autorisation de séjour aux fins d’un stage de formation non rémunéré doit justifier de ressources mensuelles correspondant au montant prévu à l’article 4, paragraphe (1).</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_10">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>La preuve des ressources visées au paragraphe (1) qui précède, est rapportée notamment par la production des pièces visées à l’article 4, paragraphe (2).</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_11">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>Dans l’appréciation des ressources, sont également pris en compte les avantages matériels dont dispose le demandeur, tels que le logement gratuit, de même que les revenus provenant du paiement d’un argent de poche.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_6">
+				<num>Art. 6.</num>
+				<paragraph id="paragraph_12">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Pour l’application de l’article 69, paragraphe (1), point 1 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="9c9f0175-b499-4900-a897-c915d3e6f16c">loi</ref>, le niveau des ressources du ressortissant de pays tiers qui sollicite le regroupement familial des membres de sa famille est apprécié par référence à la moyenne du taux mensuel du salaire social minimum d’un travailleur non qualifié sur une durée de douze mois. Lorsque le niveau de cette référence est atteint, les ressources sont considérées comme suffisantes. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Lorsque le niveau des ressources du demandeur n’atteint pas la moyenne visée à l’alinéa qui précède, le ministre peut néanmoins émettre une décision favorable en tenant compte de l’évolution de la situation de l’intéressé, notamment par rapport à la stabilité de son emploi et à ses revenus ou par rapport au fait qu’il est propriétaire de son logement ou en jouit à titre gratuit.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_13">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>Pour l’appréciation des ressources visées au paragraphe (1) qui précède, sont pris en considération les revenus provenant d’une activité salariée ou indépendante, y compris les revenus de remplacement, de même que les revenus provenant du patrimoine. Outre les ressources personnelles du demandeur, sont également prises en compte les ressources du conjoint qui alimentent de manière stable le budget de la famille.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_14">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>Les documents justifiant de ressources suffisantes doivent être afférents à la période des douze mois précédant le dépôt de la demande.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_7">
+				<num>Art. 7.</num>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/rgd/2011/08/11/n2/jo" id="f1bbfbda-3363-4bbd-95ec-07a0d6244a6a">Règl. g.-d. du 11 août 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Pour l’application de l’article 78, paragraphe (1), point a) de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="a7d97cb7-e7de-493a-9669-6d71cd55ec34">loi</ref>, les ressources du demandeur sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié. </p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Pour l’appréciation des ressources visées aux points b) et c) du paragraphe (1), sont prises en compte toutes les ressources du demandeur et, le cas échéant, de son conjoint ou autre membre de famille, de même qu’une prise en charge de ses frais de séjour par une tierce personne établie conformément aux prescriptions de l’article 4 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="fffee4a6-99d7-484e-ad21-1062582fbdd6">loi</ref>. Ces ressources doivent atteindre un montant au moins égal au revenu minimum garanti et sont appréciées au regard des conditions de logement.» </p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_8">
+				<num>Art. 8.</num>
+				<paragraph id="paragraph_15">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>Pour l’application de l’article 81, paragraphe (1), point 1 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="885c4c42-ae9e-43da-8811-0fc588bccca3">loi</ref>, les ressources du ressortissant de pays tiers qui sollicite l’obtention du statut de résident de longue durée sont appréciées sur la période des cinq années précédant l’introduction de sa demande, par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_16">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p>Les ressources visées à l’article 86, paragraphe (1), point 1 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="26911885-13ea-416f-9c39-903925c13a4b">loi</ref> sont évaluées par rapport à leur nature et leur régularité, ainsi que par référence au montant mensuel du salaire social minimum d’un travailleur non qualifié.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_17">
+					<num>(3)</num>
+					<alinea>
+						<content>
+							<p>Sont pris en considération les revenus provenant d’une activité salariée ou indépendante, y compris les revenus de remplacement, de même que les revenus provenant du patrimoine. Outre les ressources personnelles du demandeur, sont également prises en compte les ressources du conjoint qui alimentent de manière stable le budget de la famille.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_18">
+					<num>(4)</num>
+					<alinea>
+						<content>
+							<p>Lorsque les ressources du demandeur ne sont pas suffisantes ou ne sont pas stables et régulières pour la période des cinq années précédant l’introduction de la demande, une décision favorable peut être prise par le ministre si le demandeur justifie être propriétaire de son logement ou en jouir à titre gratuit.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_9">
+				<num>Art. 9.</num>
+				<paragraph id="paragraph_19">
+					<num>(1)</num>
+					<alinea>
+						<content>
+							<p>La condition de logement approprié prévue par la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="b304812b-9a53-40ac-be6b-74be1a6e3d96">loi</ref> est appréciée par rapport aux stipulations du <ref href="/eli/etat/leg/rgd/1979/02/25/n5/jo" id="cc4cfe55-8bcd-490f-95ef-d19566983bbf" scl:verify="true">règlement grand-ducal du 25 février 1979</ref> déterminant les critères de location, de salubrité ou d’hygiène auxquels doivent répondre les logements destinés à la location. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour l’application de l’article 69, paragraphe (1), point 2 de la <ref href="http://legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo" id="bcbec6be-61b1-4951-bfed-c4c31360c469">loi</ref>, est considéré comme logement approprié, le logement considéré comme normal pour une famille de taille comparable dans la même localité et répondant aux critères visés à l’alinéa qui précède.</p>
+						</content>
+					</alinea>
+				</paragraph>
+				<paragraph id="paragraph_20">
+					<num>(2)</num>
+					<alinea>
+						<content>
+							<p> La justification que le demandeur dispose d’un logement approprié peut notamment être apportée par tout document attestant sa qualité de propriétaire ou de locataire du logement.</p>
+						</content>
+					</alinea>
+				</paragraph>
+			</article>
+			<article id="art_10">
+				<num>Art. 10.</num>
+				<alinea>
+					<content>
+						<p>Le présent règlement entrera en vigueur le 1<sup>er</sup> octobre 2008. </p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_11">
+				<num>Art. 11.</num>
+				<alinea>
+					<content>
+						<p>Notre Ministre délégué aux Affaires étrangères et à l’Immigration est chargé de l’exécution du présent règlement qui sera publié au Mémorial.</p>
+					</content>
+				</alinea>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

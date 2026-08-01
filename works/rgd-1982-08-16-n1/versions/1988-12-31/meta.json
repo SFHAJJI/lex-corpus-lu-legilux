@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/1987 : R\u00E8glement grand-ducal du 16 ao\u00FBt 1982 relatif aux assises financi\u00E8res des \u00E9tablissements de cr\u00E9dit.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1982/08/16/n1/consolide/19881231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "002f3f746463735629588b84cc876e963b259ec58ca8dff7e8ffdb8eb76b9ebd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1982/08/16/n1/consolide/19881231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1982/08/16/n1/consolide/19881231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "722848be16e5936b4bfa7e4f01fc66f85aafafed02b5f8da78ba77d685e25f04"
+  "record_sha256": "0ae2254809a9a1b3d49008ff807961ced865a62465cf20b3c9270bd8c89b4d65"
 }

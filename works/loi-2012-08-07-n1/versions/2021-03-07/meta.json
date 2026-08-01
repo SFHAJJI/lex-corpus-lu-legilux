@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 07/03/2021 : Loi du 7 ao\u00FBt 2012 portant cr\u00E9ation de l\u0027\u00E9tablissement public \u00AB\u00A0Laboratoire national de sant\u00E9\u00A0\u00BB et modifiant :\\n - la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu ;\\n - la loi modifi\u00E9e du 16 juillet 1984 relative aux laboratoires d\u0027analyses m\u00E9dicales ;\\n - la loi modifi\u00E9e du 15 juin 1994 relative \u00E0 la classification, l\u0027emballage et l\u0027\u00E9tiquetage des substances dangereuses ;\\n - la loi modifi\u00E9e du 13 janvier 1997 relative au contr\u00F4le de l\u0027utilisation et de la diss\u00E9mination des organismes g\u00E9n\u00E9tiquement modifi\u00E9s ;\\n - la loi modifi\u00E9e du 24 novembre 2002 relative aux produits biocides ;\\n - la loi du 3 ao\u00FBt 2005 relative \u00E0 la classification, \u00E0 l\u0027emballage et \u00E0 l\u0027\u00E9tiquetage des pr\u00E9parations dangereuses.",
       "title_short": "Loi du 7 ao\u00FBt 2012 portant cr\u00E9ation de l\u0027\u00E9tablissement public \u00ABLaboratoire national de sant\u00E9\u00BB",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/08/07/n1/consolide/20210307/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fd3a0cb6bfa3862e7716b57f1750eabe13382b56f6d9925dc79ec27704e7fa4f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/08/07/n1/consolide/20210307/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2012/08/07/n1/consolide/20210307/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "83ded152cd3b9d381895c7007606c704779074db28d00ecf0ce5d02cdb70061c"
+  "record_sha256": "61533e7fb4e5904de70ef8ef2fbaaf1586c57e063c1eb61f0fe7716d359a6379"
 }

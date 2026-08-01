@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#2005A05481">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2005-02-04" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/ME"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2005-02-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2005-02-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401</scl:jolux>
+						<scl:jolux scl:name="basicAct">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2017-04-01</scl:jolux>
+						<scl:jolux scl:name="dateEndApplicability">2018-03-16</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2005-02-04</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2021-11-04</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2005A05481</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2017-04-01</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2005/27</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/393</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/5</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 01/04/2017 : Loi du 4 février 2005 relative au référendum au niveau national.</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 01/04/2017 : Loi du 4 février 2005 relative au référendum au niveau national.</scl:jolux>
+					<scl:jolux scl:name="draft">http://data.legilux.public.lu/eli/etat/proj/PL/20030112</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1999/06/21/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1879/06/18/n1/jo</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr/xml</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2005-02-04-n1-consolide-20170401-fr-xml.xml</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20170401/fr</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2005-02-04-n1-consolide-20170401-fr-pdf.pdf</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2005-02-04" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+				<eventRef date="2008-12-24" id="e6" originatingExpression="true" source="#rp6" type="amendment"/>
+				<eventRef date="2015-02-17" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+				<eventRef date="2015-12-21" id="e4" originatingExpression="true" source="#rp4" type="amendment"/>
+				<eventRef date="2017-04-01" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+				<eventRef date="2018-03-16" id="e2" originatingExpression="false" source="#rp2" type="amendment"/>
+			</lifecycle>
+			<analysis source="#">
+				<passiveModifications>
+					<textualMod id="pm1" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/loi/2008/12/19/n11/jo"/>
+						<destination href="#art_35"/>
+					</textualMod>
+					<textualMod id="pm2" incomplete="false" type="insertion">
+						<source href="/eli/etat/leg/loi/2015/02/10/n2/jo"/>
+						<destination/>
+					</textualMod>
+					<textualMod id="pm3" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/loi/2015/02/10/n2/jo"/>
+						<destination href="#chapter_5"/>
+					</textualMod>
+					<textualMod id="pm4" incomplete="false" type="substitution">
+						<source href="/eli/etat/leg/loi/2015/12/14/n3/jo"/>
+						<destination href="#art_65_20170401"/>
+					</textualMod>
+					<textualMod id="pm5" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/loi/2017/03/03/a318/jo"/>
+						<destination href="#art_11"/>
+					</textualMod>
+					<textualMod id="pm6" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/loi/2017/03/03/a318/jo"/>
+						<destination href="#art_11"/>
+					</textualMod>
+					<textualMod id="pm7" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/loi/2017/03/03/a318/jo"/>
+						<destination href="#art_13"/>
+					</textualMod>
+				</passiveModifications>
+			</analysis>
+			<references source="#">
+				<original href="/eli/etat/leg/loi/2005/02/04/n1/jo" id="ro1" showAs="Original"/>
+				<passiveRef href="/eli/etat/leg/loi/2018/03/08/a178/jo" id="rp2" showAs="Loi du 8 mars 2018 portant modification 1° de la loi électorale modifiée du 18 février 2003 ; 2° de la loi modifiée du 4 février 2005 relative au référendum au niveau national."/>
+				<passiveRef href="/eli/etat/leg/loi/2017/03/03/a318/jo" id="rp3" showAs="Loi du 3 mars 2017 dite « Omnibus » portant modification :  - de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain ; - de la loi du 30 juillet 2013 concernant l’aménagement du territoire ; - de la loi du 22 octobre 2008 portant promotion de l’habitat et création d’un pacte logement avec les communes ; - de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ; - de la loi modifiée du 19 décembre 2008 relative à l’eau ; - de la loi communale modifiée du 13 décembre 1988 ; - de l’article 44bis du Code civil ; - de la loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux ; - de la loi électorale modifiée du 18 février 2003 ; - de la loi modifiée du 4 février 2005 relative au référendum au niveau national ; - de la loi modifiée du 10 juin 1999 relative aux établissements classés ; et abrogeant : - l’arrêté grand-ducal modifié du 13 août 1915 portant règlement du service des femmes dans les hôtels et cabarets ; - l’arrêté grand-ducal du 15 septembre 1939 concernant l’usage des appareils radiophoniques, des gramophones et des haut-parleurs."/>
+				<passiveRef href="/eli/etat/leg/loi/2015/12/14/n3/jo" id="rp4" showAs="Loi du 14 décembre 2015 relative aux sondages d'opinion politique et portant modification  1. de la loi électorale modifiée du 18 février 2003;  2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques;  3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national."/>
+				<passiveRef href="/eli/etat/leg/loi/2015/02/10/n2/jo" id="rp5" showAs="Loi du 10 février 2015 portant modification de la loi modifiée du 4 février 2005 relative au référendum au niveau national."/>
+				<passiveRef href="/eli/etat/leg/loi/2008/12/19/n11/jo" id="rp6" showAs="Loi du 19 décembre 2008 portant modification  1. de la loi électorale modifiée du 18 février 2003;  2. de la loi du 4 février 2005 relative au référendum au niveau national."/>
+			</references>
+			<notes scl:type="modification" source="#rp6">
+				<note id="M1" marker="1" refersTo="pm1" title="A|2008-12-24|2008-12-19|L|210">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2008/12/19/n11/jo">Loi du 19 décembre 2008 portant modification 1. de la loi électorale modifiée du 18 février 2003; 2. de la loi du 4 février 2005 relative au référendum au niveau national.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp5">
+				<note id="M2" marker="2" refersTo="pm2" title="A|2015-02-13|2015-02-10|L|26">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2015/02/10/n2/jo">Loi du 10 février 2015 portant modification de la loi modifiée du 4 février 2005 relative au référendum au niveau national.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp5">
+				<note id="M3" marker="3" refersTo="pm3" title="A|2015-02-13|2015-02-10|L|26">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2015/02/10/n2/jo">Loi du 10 février 2015 portant modification de la loi modifiée du 4 février 2005 relative au référendum au niveau national.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp4">
+				<note id="M4" marker="4" refersTo="pm4" title="A|2015-12-17|2015-12-14|L|236">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2015/12/14/n3/jo">Loi du 14 décembre 2015 relative aux sondages d'opinion politique et portant modification 1. de la loi électorale modifiée du 18 février 2003; 2. de la loi modifiée du 27 juillet 1991 sur les médias électroniques; 3. de la loi modifiée du 4 février 2005 relative au référendum au niveau national.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M5" marker="5" refersTo="pm5" title="A|2017-03-23|2017-03-03|L|318">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2017/03/03/a318/jo">Loi du 3 mars 2017 dite « Omnibus » portant modification : - de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain ; - de la loi du 30 juillet 2013 concernant l’aménagement du territoire ; - de la loi du 22 octobre 2008 portant promotion de l’habitat et création d’un pacte logement avec les communes ; - de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ; - de la loi modifiée du 19 décembre 2008 relative à l’eau ; - de la loi communale modifiée du 13 décembre 1988 ; - de l’article 44bis du Code civil ; - de la loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux ; - de la loi électorale modifiée du 18 février 2003 ; - de la loi modifiée du 4 février 2005 relative au référendum au niveau national ; - de la loi modifiée du 10 juin 1999 relative aux établissements classés ; et abrogeant : - l’arrêté grand-ducal modifié du 13 août 1915 portant règlement du service des femmes dans les hôtels et cabarets ; - l’arrêté grand-ducal du 15 septembre 1939 concernant l’usage des appareils radiophoniques, des gramophones et des haut-parleurs.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M6" marker="6" refersTo="pm6" title="A|2017-03-23|2017-03-03|L|318">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2017/03/03/a318/jo">Loi du 3 mars 2017 dite « Omnibus » portant modification : - de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain ; - de la loi du 30 juillet 2013 concernant l’aménagement du territoire ; - de la loi du 22 octobre 2008 portant promotion de l’habitat et création d’un pacte logement avec les communes ; - de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ; - de la loi modifiée du 19 décembre 2008 relative à l’eau ; - de la loi communale modifiée du 13 décembre 1988 ; - de l’article 44bis du Code civil ; - de la loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux ; - de la loi électorale modifiée du 18 février 2003 ; - de la loi modifiée du 4 février 2005 relative au référendum au niveau national ; - de la loi modifiée du 10 juin 1999 relative aux établissements classés ; et abrogeant : - l’arrêté grand-ducal modifié du 13 août 1915 portant règlement du service des femmes dans les hôtels et cabarets ; - l’arrêté grand-ducal du 15 septembre 1939 concernant l’usage des appareils radiophoniques, des gramophones et des haut-parleurs.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M7" marker="7" refersTo="pm7" title="A|2017-03-23|2017-03-03|L|318">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2017/03/03/a318/jo">Loi du 3 mars 2017 dite « Omnibus » portant modification : - de la loi modifiée du 19 juillet 2004 concernant l’aménagement communal et le développement urbain ; - de la loi du 30 juillet 2013 concernant l’aménagement du territoire ; - de la loi du 22 octobre 2008 portant promotion de l’habitat et création d’un pacte logement avec les communes ; - de la loi modifiée du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles ; - de la loi modifiée du 19 décembre 2008 relative à l’eau ; - de la loi communale modifiée du 13 décembre 1988 ; - de l’article 44bis du Code civil ; - de la loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux ; - de la loi électorale modifiée du 18 février 2003 ; - de la loi modifiée du 4 février 2005 relative au référendum au niveau national ; - de la loi modifiée du 10 juin 1999 relative aux établissements classés ; et abrogeant : - l’arrêté grand-ducal modifié du 13 août 1915 portant règlement du service des femmes dans les hôtels et cabarets ; - l’arrêté grand-ducal du 15 septembre 1939 concernant l’usage des appareils radiophoniques, des gramophones et des haut-parleurs.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle style="11">
+				<p>Version consolidée applicable au 01/04/2017 : Loi du 4 février 2005 relative au référendum au niveau national.</p>
+			</longTitle>
+		</preface>
+		<body>
+			<chapter id="chapitre_1er">
+				<num>Chapitre 1<sup>er</sup>.</num>
+				<heading scl:separator=" " scl:style-format="bi">Dispositions générales</heading>
+				<article id="art_1er">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_1er</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_1er/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 1<sup>er</sup>.</num>
+					<alinea>
+						<content>
+							<p>Les dispositions de la présente loi s'appliquent aux référendums prévus aux articles 51, paragraphe 7, et 114 de la <ref href="https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="6d886a2d-b919-468e-8af3-6eeef376965f">Constitution</ref>.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_2">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_2</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_2/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 2.</num>
+					<alinea>
+						<content>
+							<p>Pour l'application de la présente loi, on entend par:</p>
+							<ol scl:symbol="1)">
+								<li>«le référendum prévu à l'article 114 de la <ref href="https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="400fa403-0f12-4de0-8f4f-80cd6d374bb2">Constitution</ref>»: le référendum dans le cadre d'une procédure de révision constitutionnelle;</li>
+								<li>«loi électorale»: la <ref href="/eli/etat/leg/loi/2003/02/18/n2/jo" id="02fc1d69-8805-4ada-8e50-06d6839f41ef">loi électorale du 18 février 2003</ref>, telle que modifiée par la suite;</li>
+								<li>«électeurs»: les électeurs inscrits sur les listes électorales pour les élections législatives conformément aux dispositions de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="227f5c04-1fdc-428d-9c28-00db5c6e59f1">loi électorale</ref>;</li>
+								<li>«domicile électoral»: le domicile électoral du citoyen est au lieu de sa résidence habituelle, c'est-à-dire au lieu où il habite d'ordinaire conformément à l'article 10 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="d414c1db-1a4d-4056-9d23-e9b904a26deb">loi électorale</ref>;</li>
+								<li>«comité d'initiative»: l'ensemble des personnes physiques à l'origine d'une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle;</li>
+								<li>«listes d'inscription»: les feuilles officielles préimprimées mises à disposition des communes sur lesquelles les électeurs peuvent apposer leur signature en vue de soutenir une demande visant l'organisation d'un référendum dans le cadre d'une procédure de révision constitutionnelle.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_2">
+				<num>Chapitre 2.</num>
+				<heading scl:separator=" " scl:style-format="bi">Collecte des signatures en vue d'un référendum prévu à l'article 114 de la Constitution</heading>
+				<article id="art_3">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_3</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_3/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 3.</num>
+					<alinea>
+						<content>
+							<p>La demande visant l'organisation d'un référendum prévu à l'article 114 de la <ref href="https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="7ff3472c-74ea-4dab-b55a-5711557e8bf7">Constitution</ref> doit être présentée au Premier Ministre, Ministre d'Etat, par un comité d'initiative composé de cinq électeurs au moins au plus tard le quatorzième jour suivant celui de l'adoption du texte de révision constitutionnelle en première lecture par la Chambre des députés.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La demande d'introduction doit comporter:</p>
+							<ol scl:symbol="1)">
+								<li>l'intitulé et le texte de la révision constitutionnelle adoptée par la Chambre des députés en première lecture, qui sont mis à la disposition de toute personne intéressée par le greffe de la Chambre des députés;</li>
+								<li>les noms, prénoms, dates de naissance et adresses des membres du comité d'initiative;</li>
+								<li>les signatures manuscrites des personnes préqualifiées en vue d'attester leur appartenance au comité d'initiative;</li>
+								<li>l'attestation que les personnes préqualifiées sont inscrites en tant qu'électeurs sur les listes électorales pour les élections législatives;</li>
+								<li>l'adresse élue du comité d'initiative.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_4">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_4</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_4/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 4.</num>
+					<alinea>
+						<content>
+							<p>Le Premier Ministre, Ministre d'Etat, décide dans les trois jours de la saisine si ladite demande satisfait aux exigences fixées par la présente loi.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour le cas où plusieurs demandes ayant le même objet lui parviennent, le Premier Ministre, Ministre d'Etat, retient celle qui a été régulièrement présentée en premier lieu.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La décision est notifiée par lettre recommandée à l'adresse élue du comité d'initiative.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_5</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_5/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 5.</num>
+					<alinea>
+						<content>
+							<p>Si le Premier Ministre, Ministre d'Etat, retient que la demande répond aux conditions de la présente loi, il fait publier endéans la huitaine au Mémorial, Recueil administratif et économique, et dans au moins trois quotidiens paraissant au Luxembourg une communication reprenant</p>
+							<ol scl:symbol="1)">
+								<li>l'intitulé et le texte de la révision constitutionnelle adoptée en première lecture par la Chambre des députés;</li>
+								<li>les noms, prénoms, âges et adresses des membres du comité d'initiative;</li>
+								<li>les dates de début et de fin de la période de collecte des signatures pendant laquelle les électeurs peuvent soutenir la demande d'organisation d'un référendum prévu à l'article 114 de la <ref href="https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="0a0f2d27-3187-4bed-b41f-f15b22395be9">Constitution</ref> en s'inscrivant sur les listes d'inscription tenues à cette fin par les communes.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La collecte des signatures commence au plus tard quinze jours après la date de la publication au Mémorial.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_6">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_6</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_6/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 6.</num>
+					<alinea>
+						<content>
+							<p>La confection, l'impression et la mise à disposition des communes des listes d'inscription pour la collecte des signatures incombe au Premier Ministre, Ministre d'Etat.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Il en va de même de l'impression et de la mise à disposition du texte de la révision constitutionnelle.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les frais y relatifs sont à charge du budget de l'Etat.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_7">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_7</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_7/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 7.</num>
+					<alinea>
+						<content>
+							<p>Chaque liste d'inscription conçue d'après le modèle figurant à l'annexe 1 de la présente loi doit mentionner:</p>
+							<ol scl:symbol="1)">
+								<li>l'intitulé du texte de la révision constitutionnelle qui fait l'objet de la demande d'organisation d'un référendum, précédé de la mention <i>«Demande d'organisation d'un référendum sur la révision constitutionnelle»</i>;</li>
+								<li>les dates de début et de fin de la période de collecte des signatures;</li>
+								<li>le nom de la commune respective.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_8">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_8</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_8/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 8.</num>
+					<alinea>
+						<content>
+							<p>En vue d'organiser et d'assurer le bon déroulement de la collecte des signatures, chaque commune doit, en faisant dûment référence à la publication officielle de la décision du Premier Ministre, Ministre d'Etat, informer par toute voie appropriée, mais en tout cas par voie d'affichage, les électeurs domiciliés dans ladite commune, qu'ils peuvent, endéans la période de collecte prévue, consulter le texte de la révision constitutionnelle et soutenir la demande d'organisation d'un référendum en apposant leur signature manuscrite sur la liste d'inscription tenue à cette fin.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_9">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_9</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_9/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 9.</num>
+					<alinea>
+						<content>
+							<p>Chaque commune doit communiquer, de la même manière, le ou les lieux où lesdites listes d'inscription sont tenues, ainsi que les horaires et les jours pendant lesquels les inscriptions pourront être reçues.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Tant les lieux que les heures et les jours d'ouverture sont fixés librement par chaque commune, dans la mesure du possible, de manière à permettre à tous les électeurs intéressés de s'y présenter.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Toutefois, les heures d'ouverture sont à fixer au minimum à six heures par semaine et parmi les jours d'ouverture doit figurer le samedi.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un exemplaire du texte de la révision constitutionnelle est à afficher dans chaque lieu d'inscription ensemble avec les dispositions pénales des articles 66 à 71 de la présente loi.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Toutes les communications précitées sont à faire dans les trois langues administratives au moins huit jours avant le début de la collecte des signatures.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_10">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_10</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_10/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 10.</num>
+					<alinea>
+						<content>
+							<p>Pour soutenir la demande d'organisation d'un référendum, les électeurs doivent se rendre en personne auprès de la commune de leur domicile électoral respectif et s'y inscrire sur les listes tenues à cet effet.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_11">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_11</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_11/20170401</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-04-01</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 11.</num>
+					<alinea>
+						<content>
+							<p>L'électeur qui se présente, endéans la période de collecte prévue, auprès de la commune où il a son domicile électoral, en vue de soutenir une demande d'organisation d'un référendum, doit déclarer ses nom, prénoms et adresse au <mod class="mod-start" for="#pm5"/>fonctionnaire, employé communal ou salarié à tâche principalement intellectuelle au service de la commune<mod class="mod-end" for="#pm5"/>
+								<noteRef href="#M5" marker="5"/> en charge des listes d'inscription.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Sur présentation obligatoire d'une pièce d'identité valable, le <mod class="mod-start" for="#pm6"/>fonctionnaire, employé communal ou salarié à tâche principalement intellectuelle au service de la commune<mod class="mod-end" for="#pm6"/>
+								<noteRef href="#M6" marker="6"/> est tenu de vérifier l'identité de la personne qui se présente, avant de contrôler qu'elle est bien inscrite sur la liste des électeurs.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans le cas où il constate la qualité d'électeur du requérant, il lui présente la liste d'inscription et y inscrit, sous peine de nullité, les nom, prénoms et date de naissance du requérant, à charge de ce dernier de vérifier les inscriptions avant d'y apposer sa signature manuscrite.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_12">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_12</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_12/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 12.</num>
+					<alinea>
+						<content>
+							<p>Sont autorisés à apposer leur signature les électeurs inscrits sur les listes électorales pour les élections législatives le jour qui précède celui où la collecte des signatures débute.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>A défaut d'inscription sur la liste électorale, nul n'est admis à signer s'il ne se présente muni d'une décision du bourgmestre de la commune de résidence ou, le cas échéant, de son remplaçant ou d'une autorité de justice constatant qu'il a le droit de vote dans la commune.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Malgré l'inscription sur la liste, ne sont pas admis à signer ceux qui sont privés du droit de vote en vertu d'une disposition légale ou par une décision de l'autorité judiciaire coulée en force de chose jugée.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Chaque électeur ne peut signer qu'une seule fois la même demande d'organisation d'un référendum.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Une signature au nom d'un tiers est interdite.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_13">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_13</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_13/20170401</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 13.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-04-01</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 13.</num>
+					<alinea>
+						<content>
+							<p>La signature de l'électeur vaut soutien de la demande d'organisation d'un référendum.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Une fois que la signature a été portée sur la liste, il n'est plus possible à quiconque de demander qu'elle soit rayée.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le <mod class="mod-start" for="#pm7"/>fonctionnaire, employé communal ou salarié à tâche principalement intellectuelle au service de la commune<mod class="mod-end" for="#pm7"/>
+								<noteRef href="#M7" marker="7"/> en charge de la tenue des listes d'inscription est toutefois habilité à rayer une ligne entière de la liste d'inscription en cas d'erreur matérielle et à rayer toutes celles des signatures qui auront été données plus d'une fois, à condition d'indiquer les raisons de ladite rature dans un procès-verbal à joindre aux listes d'inscription.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_14</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_14/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 14.</num>
+					<alinea>
+						<content>
+							<p>Sont nulles les inscriptions:</p>
+							<ol scl:symbol="1)">
+								<li>apposées sur des listes non conformes;</li>
+								<li>apposées par des personnes ne remplissant pas les conditions énumérées à l'article 11, alinéa 3;</li>
+								<li>supplémentaires concernant des électeurs qui ont déjà soutenu la même demande;</li>
+								<li>reçues avant ou après la période de collecte des signatures fixée et publiée au Mémorial par le Premier Ministre, Ministre d'Etat.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_15">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_15</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_15/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 15.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 15.</num>
+					<alinea>
+						<content>
+							<p>Les communes sont tenues de numéroter les inscriptions sur leurs listes en recourant au système de la numérotation continue en chiffres arabes.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_16">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_16</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_16/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 16.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 16.</num>
+					<alinea>
+						<content>
+							<p>A la fin de la période de collecte des signatures, chaque commune dispose d'un délai de huit jours pour déterminer le nombre total:</p>
+							<ol scl:symbol="1)">
+								<li>d'inscriptions reçues;</li>
+								<li>d'inscriptions nulles;</li>
+								<li>d'inscriptions valables.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Au plus tard à l'expiration du délai précité, les résultats obtenus sont à attester dans un procès-verbal, conformément au modèle figurant à l'annexe 2 de la présente loi, à transmettre, ensemble avec les listes d'inscription, au Premier Ministre, Ministre d'Etat.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Une fois déposées auprès du Premier Ministre, Ministre d'Etat, les listes d'inscription ne peuvent être ni restituées ni consultées.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_17">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_17</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_17/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 17.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 17.</num>
+					<alinea>
+						<content>
+							<p>Le Premier Ministre, Ministre d'Etat, dispose d'un délai de huit jours pour vérifier tous les résultats et déterminer, pour l'ensemble des communes, le nombre total:</p>
+							<ol scl:symbol="1)">
+								<li>d'inscriptions reçues;</li>
+								<li>d'inscriptions nulles;</li>
+								<li>d'inscriptions valables.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Afin de constater si l'initiative populaire en vue de l'organisation d'un référendum a abouti ou non, le Premier Ministre, Ministre d'Etat, vérifie si le nombre total d'inscriptions valables visées à l'alinéa précédent, point 3, correspond au moins à vingt-cinq mille signatures.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Au plus tard trois semaines après la fin de la période de collecte des signatures, les résultats de cette constatation et de celles figurant à l'alinéa 1 sont notifiés par simple lettre au comité d'initiative et publiés au Mémorial, Recueil administratif et économique.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_18">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_18</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_18/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 18.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 18.</num>
+					<alinea>
+						<content>
+							<p>Tant la détermination que la constatation du résultat peuvent être contestées par tout électeur devant la Cour administrative.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le recours doit être introduit sous peine de forclusion dans les cinq jours de la date de la publication des résultats au Mémorial par le Premier Ministre, Ministre d'Etat.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La requête, qui porte date, contient</p>
+							<ul scl:symbol="dash">
+								<li>les nom, prénoms et domicile du requérant,</li>
+								<li>l'exposé sommaire des faits et des moyens invoqués,</li>
+								<li>les prétentions du requérant et</li>
+								<li>le relevé des pièces dont il entend se servir.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La Cour administrative, statuant par voie d'urgence conformément à l'article 46, paragraphe 5 de la <ref href="/eli/etat/leg/loi/1999/06/21/n2/jo" id="d65f7ad9-2a0c-48e6-bd8f-30de4d62c43d">loi modifiée du 21 juin 1999</ref> portant règlement de procédure devant les juridictions administratives, et en dernier ressort, examine tant la recevabilité que le bien-fondé du recours. Elle redresse d'office les erreurs contenues dans les calculs.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le recours exercé contre la décision du Premier Ministre, Ministre d'Etat, est suspensif.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_19">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_19</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_19/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 19.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 19.</num>
+					<alinea>
+						<content>
+							<p>Lorsqu'à l'expiration du délai de recours, aucun recours n'a été exercé contre la décision du Premier Ministre, Ministre d'Etat, un référendum sur la révision constitutionnelle doit être organisé.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans le cas contraire, le Gouvernement est tenu d'attendre la décision de justice avant d'organiser un référendum.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans tous les cas, l'organisation d'un référendum ne peut avoir lieu que lorsque la demande d'organiser un référendum sur une révision constitutionnelle a abouti.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_3">
+				<num>Chapitre 3.</num>
+				<heading scl:separator=" " scl:style-format="bi">Organisation d'un référendum prévu à l'article 114 de la Constitution</heading>
+				<article id="art_20">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_20</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_20/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 20.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 20.</num>
+					<alinea>
+						<content>
+							<p>Si la demande d'organiser un référendum a été faite par plus d'un quart des membres de la Chambre des députés ou, dans les conditions prévues au chapitre 2 de la présente loi, par vingt-cinq mille électeurs, le Gouvernement doit organiser un référendum endéans un délai de six mois. En cas d'élections législatives ou européennes dans ce délai, celui-ci est prorogé de six mois.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_21">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_21</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_21/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 21.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 21.</num>
+					<alinea>
+						<content>
+							<p>La décision du Grand-Duc, prise sur proposition du Gouvernement en Conseil, d'organiser un référendum, fixe le jour du déroulement du référendum qui doit être un dimanche ou un jour férié légal. Aucun référendum ne peut être tenu ni pendant les trois mois qui précèdent ni pendant les trois mois qui suivent les élections législatives ou européennes.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal fixe le jour du déroulement du référendum et la ou les questions soumises au référendum.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_4">
+				<num>Chapitre 4.</num>
+				<heading scl:separator=" " scl:style-format="bi">Des modalités d'organisation d'un référendum sur base de l'article 51, paragraphe 7, ou de l'article 114 de la Constitution</heading>
+				<section id="chapitre_4.chapter_4__section_1" wId="chapter_4__section_1">
+					<heading>
+						<i>Champ d'application</i>
+					</heading>
+					<article id="art_22">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_22</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_22/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 22.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 22.</num>
+						<alinea>
+							<content>
+								<p>Les dispositions du présent chapitre fixent les modalités d'organisation d'un référendum sur base de l'article 51, paragraphe 7, ou de l'article 114 de la <ref href="https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="706bbcae-a6b1-4917-b38c-80c39ffff8bd">Constitution</ref>.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_2" wId="chapter_4__section_2">
+					<heading>
+						<i>Formation des collèges électoraux</i>
+					</heading>
+					<article id="art_23">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_23</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_23/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 23.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 23.</num>
+						<alinea>
+							<content>
+								<p>Pour le déroulement d'un référendum, le pays forme une circonscription électorale unique.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le chef-lieu est Luxembourg.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le premier bureau de vote de la Ville de Luxembourg fonctionne comme bureau principal de la circonscription unique.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_24">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_24</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_24/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 24.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 24.</num>
+						<alinea>
+							<content>
+								<p>Les électeurs votent au chef-lieu de la commune ou dans les localités de vote déterminées conformément à la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="957a58d4-cfd0-4233-a9c4-77e3b903f309">loi électorale</ref>.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_25">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_25</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_25/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 25.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 25.</num>
+						<alinea>
+							<content>
+								<p>Les collèges électoraux sont formés conformément à la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="7fd787bf-127b-4a56-af72-43c0f7ed4c8b">loi électorale</ref>.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_3" wId="chapter_4__section_3">
+					<heading>
+						<i>Composition des bureaux</i>
+					</heading>
+					<article id="art_26">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_26</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_26/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 26.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 26.</num>
+						<alinea>
+							<content>
+								<p>Les bureaux électoraux sont composés conformément aux dispositions des articles 58, 59, alinéas 1 à 3, 60, alinéas 1 à 4 et 6, 61 à 66, 67, alinéas 3 et 4 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="363b7ad1-5baa-4fdb-9a4b-6448dbf70e88">loi électorale</ref>, sauf adaptation des termes s'il y a lieu.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_4" wId="chapter_4__section_4">
+					<heading>
+						<i>Confection et mise à disposition des bulletins de vote</i>
+					</heading>
+					<article id="art_27">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_27</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_27/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 27.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 27.</num>
+						<alinea>
+							<content>
+								<p>Le papier électoral servant à la confection des bulletins est fourni par l'Etat et timbré par ses soins. Les bulletins de vote sont imprimés par les soins du Premier Ministre, Ministre d'Etat, conformément aux modèles figurant aux annexes 5 et 6 qui font partie intégrante de la présente loi, et remis au président du bureau principal de la circonscription unique, qui les transmet aux présidents des bureaux principaux des communes. L'impression des bulletins doit être terminée au plus tard vingt jours avant le jour du référendum.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_28">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_28</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_28/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 28.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 28.</num>
+						<alinea>
+							<content>
+								<p>Le bulletin de vote doit désigner, tout d'abord, le jour du déroulement du référendum précédé de l'indication «<i>Référendum du</i>...».</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ensuite, le bulletin comprend au milieu le texte de la question soumise au référendum en langues française, luxembourgeoise et allemande et dans cet ordre.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Une case en forme de carré vide figure à gauche et à droite de la question. Celle à gauche est destinée à recevoir les votes négatifs, celle à droite les votes affirmatifs.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En haut, à gauche et en dessous de la case qui se situe à gauche du libellé de la question précitée doivent figurer, et dans cet ordre, les mots «<i>Non</i>», «<i>Nee</i>», «<i>Nein</i>».</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>En haut, à droite et en dessous de la case qui se situe à droite du libellé de la question précitée doivent figurer, et dans cet ordre, les mots «Oui», «Jo», «Ja».</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Un modèle d'un tel bulletin de vote figure à l'annexe 5 de la présente loi.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_29">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_29</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_29/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 29.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 29.</num>
+						<alinea>
+							<content>
+								<p>Lorsque le référendum porte sur deux ou plusieurs questions ou lorsque plusieurs référendums se tiennent le même jour, le bulletin unique contient à côté des éléments mentionnés à l'alinéa 1 de l'article 28 ceux prévus aux alinéas suivants du même article, qui doivent alors être repris individuellement pour chaque question soumise au référendum.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les questions se suivent en recourant au système de la numérotation continue en chiffres arabes.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Un modèle d'un tel bulletin de vote figure à l'annexe 6 de la présente loi.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_30">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_30</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_30/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 30.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 30.</num>
+						<alinea>
+							<content>
+								<p>La dimension du bulletin de vote peut varier selon la longueur du texte de la ou des questions posées.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_31">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_31</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_31/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 31.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 31.</num>
+						<alinea>
+							<content>
+								<p>Au plus tard la veille du jour fixé pour le référendum, le président du bureau principal de la commune fait remettre à chacun des présidents des bureaux de vote, sous enveloppe cachetée, les bulletins nécessaires au référendum. La suscription extérieure de l'enveloppe indique, outre l'adresse, le nombre de bulletins qu'elle contient. Cette enveloppe ne peut être décachetée et ouverte qu'en présence du bureau régulièrement constitué. Le nombre de bulletins est vérifié immédiatement et le résultat de la vérification indiqué au procès-verbal.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_5" wId="chapter_4__section_5">
+					<heading>
+						<i>Information et convocation des électeurs</i>
+					</heading>
+					<article id="art_32">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_32</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_32/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 32.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 32.</num>
+						<alinea>
+							<content>
+								<p>Pour tout référendum, le Premier Ministre, Ministre d'Etat, avise les électeurs du jour du déroulement du référendum par l'insertion d'une communication à trois reprises dans trois quotidiens luxembourgeois.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_33">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_33</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_33/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 33.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 33.</num>
+						<alinea>
+							<content>
+								<p>Chaque commune doit, quinze jours avant le jour du déroulement du référendum, en faisant dûment référence à la publication prévue à l'article 21 ou à celle faite à la suite d'une loi appelant les électeurs à se prononcer par voie du référendum en application de l'article 51, paragraphe 7 de la <ref href="https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo" id="26941556-babc-41fc-bec2-880a01fdbd0b">Constitution</ref>, informer par toute voie appropriée, mais en tout cas par voie d'affichage, les électeurs domiciliés dans ladite commune qu'ils peuvent consulter le texte sur lequel porte le référendum dans les lieux et aux heures et jours d'ouverture indiqués dans la communication.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Tant les lieux que les heures et les jours d'ouverture sont fixés librement par chaque commune, dans la mesure du possible, de manière à permettre à tous les électeurs intéressés de s'y présenter.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Toutefois, les heures d'ouverture sont à fixer au minimum à six heures par semaine et parmi les jours d'ouverture doit figurer le samedi.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Un exemplaire du texte sur lequel porte le référendum est à afficher bien visiblement dans chaque bureau de vote.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_34">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_34</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_34/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 34.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 34.</num>
+						<alinea>
+							<content>
+								<p>Les communications visées aux articles 32 et 33 sont à faire dans les trois langues administratives.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_35">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_35</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_35/20081224</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 35.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2008-12-24</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 35.</num>
+						<alinea>
+							<content>
+								<p>
+									<mod class="mod-start" for="#pm1"/>Les collèges des bourgmestre et échevins envoient, au moins cinq jours à l’avance, à chaque électeur une lettre de convocation à caractère informatif indiquant le jour, les heures d’ouverture et de fermeture du scrutin, le local où le référendum a lieu, et, s’il y a plusieurs bureaux, la désignation de celui où l’électeur est appelé à voter. La convocation des électeurs est, en outre, publiée dans chaque localité de vote.<mod class="mod-end" for="#pm1"/>
+									<noteRef href="#M1" marker="1"/>
+								</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L'instruction pour l'électeur figurant respectivement à l'annexe 3 et à l'annexe 4 qui font partie intégrante de la présente loi, ainsi que la ou les questions soumises au référendum sont reproduites sur la lettre de convocation.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_36">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_36</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_36/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 36.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 36.</num>
+						<alinea>
+							<content>
+								<p>Les collèges électoraux ne peuvent s'occuper que du référendum pour lequel ils sont convoqués. Les électeurs ne peuvent se faire remplacer.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_37">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_37</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_37/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 37.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 37.</num>
+						<alinea>
+							<content>
+								<p>Le vote est obligatoire conformément aux articles 89 et 90 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="66736b3c-aaed-4182-8396-6e11aaf6ee18">loi électorale</ref>.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_6" wId="chapter_4__section_6">
+					<heading>
+						<i>Installation des bureaux</i>
+					</heading>
+					<article id="art_38">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_38</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_38/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 38.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 38.</num>
+						<alinea>
+							<content>
+								<p>L'installation des bureaux de vote est faite conformément aux dispositions des articles 70 à 72 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="0d4851fa-3551-4f3f-a941-fe38bd7dd88e">loi électorale</ref>.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_7" wId="chapter_4__section_7">
+					<heading>
+						<i>Admission des électeurs au vote</i>
+					</heading>
+					<article id="art_39">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_39</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_39/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 39.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 39.</num>
+						<alinea>
+							<content>
+								<p>L'admission des électeurs au vote se fait dans les conditions déterminées aux articles 70 à 77, 78, alinéas 1 à 4 et 79 à 82 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="8ec4af86-48b8-4e3d-a4f3-7590f6f4ed68">loi électorale</ref>, sauf adaptation des termes s'il y a lieu.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_8" wId="chapter_4__section_8">
+					<heading>
+						<i>Police des bureaux électoraux</i>
+					</heading>
+					<article id="art_40">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_40</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_40/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 40.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 40.</num>
+						<alinea>
+							<content>
+								<p>La police des bureaux électoraux est réglée conformément aux dispositions des articles 83 à 86 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="5f3dfdb0-861e-4fe5-b1e6-15ed0930b548">loi électorale</ref>, sauf adaptation des termes s'il y a lieu, notamment les termes «l'élection» devant se lire comme «le référendum».</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_41">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_41</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_41/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 41.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 41.</num>
+						<alinea>
+							<content>
+								<p>Les textes de la présente loi et de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="88234362-9d34-43f8-b71c-bc43f163883f">loi électorale</ref> sont déposés à chaque bureau à la disposition des électeurs.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sont affichées à la porte de la salle d'attente de chaque bureau, en caractères gras, les pénalités prévues par la présente loi et par la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="ccc244d5-a62a-49c7-b03e-13aa99a7538e">loi électorale</ref>.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_9" wId="chapter_4__section_9">
+					<heading>
+						<i>Dépenses relatives à l'organisation du référendum</i>
+					</heading>
+					<article id="art_42">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_42</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_42/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 42.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 42.</num>
+						<alinea>
+							<content>
+								<p>Les communes mettent à disposition des électeurs les bureaux de vote et le mobilier électoral.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Toutes les autres dépenses, y compris le papier électoral et les frais des enquêtes administratives, sont à charge du budget de l'Etat.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les urnes doivent être conformes au modèle approuvé par le Gouvernement.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_10" wId="chapter_4__section_10">
+					<heading>
+						<i>Vote</i>
+					</heading>
+					<article id="art_43">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_43</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_43/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 43.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 43.</num>
+						<alinea>
+							<content>
+								<p>Le vote a lieu par l'intermédiaire d'un bulletin de vote conformément au modèle figurant respectivement aux annexes 5 et 6 de la présente loi.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_44">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_44</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_44/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 44.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 44.</num>
+						<alinea>
+							<content>
+								<p>Chaque électeur dispose d'une voix par question posée.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L'électeur exprime son vote:</p>
+								<p>– soit en remplissant le carré d'une des deux cases figurant sur le bulletin de vote à côté de chaque question;</p>
+								<p>– soit en inscrivant une croix (+ ou x) dans l'une des deux cases à côté de chaque question.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L'électeur procède aux inscriptions sur le bulletin de vote à l'aide d'un crayon, d'une plume, d'un stylo à bille ou d'un instrument analogue.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Tout cercle rempli même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l'intention de rendre le bulletin reconnaissable ne soit manifeste.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_45">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_45</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_45/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 45.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 45.</num>
+						<alinea>
+							<content>
+								<p>Lorsque le scrutin est clos, le bureau fait le récolement des bulletins non employés, lesquels sont immédiatement détruits. Il est fait mention du nombre de ces bulletins au procès-verbal.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_11" wId="chapter_4__section_11">
+					<heading>
+						<i>Vote par correspondance</i>
+					</heading>
+					<article id="art_46">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_46</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_46/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 46.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 46.</num>
+						<alinea>
+							<content>
+								<p>Sont admis au vote par correspondance lors du référendum les électeurs âgés de plus de 75 ans.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_47">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_47</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_47/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 47.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 47.</num>
+						<alinea>
+							<content>
+								<p>Peuvent être admis au vote par correspondance lors du référendum:</p>
+								<ol scl:symbol="1)">
+									<li>les électeurs qui, pour des raisons professionnelles ou personnelles dûment justifiées, se trouvent dans l'impossibilité de se présenter en personne devant le bureau de vote auquel ils sont affectés;</li>
+									<li>les Luxembourgeois et les Luxembourgeoises domiciliés à l'étranger.</li>
+								</ol>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_48">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_48</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_48/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 48.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 48.</num>
+						<alinea>
+							<content>
+								<p>Sont applicables au vote par correspondance les articles 169 à 174 et 176 à 181 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="97cb0731-7799-4540-a4e6-5ddc99d2a55c">loi électorale</ref>, sauf adaptation des termes s'il y a lieu, notamment la mention «Elections – Vote par correspondance» étant remplacée par la mention «Référendum – Vote par correspondance».</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_49">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_49</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_49/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 49.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 49.</num>
+						<alinea>
+							<content>
+								<p>Les votants remplissent leur bulletin de vote conformément aux dispositions de l'article 44 de la présente loi.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_12" wId="chapter_4__section_12">
+					<heading>
+						<i>Dépouillement du scrutin et proclamation du résultat du référendum</i>
+					</heading>
+					<article id="art_50">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_50</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_50/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 50.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 50.</num>
+						<alinea>
+							<content>
+								<p>Chaque bureau électoral compte, sans les déplier, les bulletins contenus dans l'urne.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le nombre des votants et celui des bulletins sont inscrits au procès-verbal.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le président, avant d'ouvrir aucun bulletin, mêle tous ceux que le bureau est chargé de dépouiller.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_51">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_51</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_51/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 51.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 51.</num>
+						<alinea>
+							<content>
+								<p>L'un des assesseurs déplie les bulletins et les remet au président, qui énonce les suffrages obtenus par chaque question.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Deux assesseurs font le recensement des votes affirmatifs et des votes négatifs et en tiennent note, chacun séparément.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_52">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_52</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_52/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 52.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 52.</num>
+						<alinea>
+							<content>
+								<p>Les bulletins nuls n'entrent point en compte pour fixer le nombre des voix.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sont nuls:</p>
+								<ol scl:symbol="1)">
+									<li>tous les bulletins autres que ceux dont l'usage est permis par la présente loi;</li>
+									<li>les bulletins qui expriment plus d'un suffrage par question posée; ceux dont les formes et dimensions ont été altérées, qui contiennent à l'intérieur un papier ou un objet quelconque, ou dont l'auteur pourrait être rendu reconnaissable par un signe, une rature ou une marque non autorisés par la loi.</li>
+								</ol>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sont blancs, les bulletins qui ne contiennent l'expression d'aucun suffrage.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_53">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_53</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_53/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 53.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 53.</num>
+						<alinea>
+							<content>
+								<p>Lorsque tous les bulletins ont été dépouillés, les autres membres du bureau les examinent et soumettent au bureau leurs observations ou réclamations.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les bulletins qui ont fait l'objet de réclamations sont ajoutés aux bulletins valables au cas où ils ont été admis comme tels par décision du bureau.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les bulletins annulés ou contestés, autres que les blancs, sont paraphés par deux membres du bureau.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les réclamations sont actées au procès-verbal, ainsi que les décisions du bureau.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_54">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_54</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_54/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 54.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 54.</num>
+						<alinea>
+							<content>
+								<p>Le bureau dresse, d'après les relevés tenus par un assesseur et le secrétaire, le répertoire des électeurs figurant sur le relevé électoral du bureau de vote et qui n'ont pas pris part au référendum. Ce répertoire, signé par le président et le secrétaire du bureau de vote, est transmis le jour même par son président, au président du bureau principal de la commune.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le président du bureau de vote consigne sur ce répertoire les observations présentées et y annexe les pièces qui peuvent lui avoir été transmises par les absents aux fins de justification.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le président du bureau principal de la commune, après avoir recueilli tous les répertoires, les adresse, avec les pièces y annexées, au juge de paix territorialement compétent.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_55">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_55</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_55/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 55.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 55.</num>
+						<alinea>
+							<content>
+								<p>Les bulletins de vote sont groupés par bulletins valables et bulletins nuls et placés, à l'exclusion de toutes autres pièces, dans deux enveloppes, dont l'une renferme les bulletins valables et l'autre les bulletins nuls.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La suscription de chacune de ces enveloppes porte l'indication du lieu et de la date du référendum, du numéro du bureau de dépouillement, du genre ainsi que du nombre des bulletins qu'elle renferme.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ces deux enveloppes sont réunies en un seul paquet qui est cacheté du sceau communal ou de celui d'un membre du bureau et muni des signatures du président et d'un assesseur, et dont la suscription porte les mêmes indications.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le bureau arrête le nombre des votants, celui des bulletins blancs et nuls et des bulletins valables, ainsi que le nombre des votes affirmatifs et des votes négatifs. Il les fait inscrire au procès-verbal. Le procès-verbal est clos par un tableau, conçu d'après le modèle figurant respectivement aux annexes 7 et 8, qui font partie intégrante de la présente loi, qui renseigne:</p>
+								<ul scl:symbol="dash">
+									<li>le nombre des bulletins trouvés dans l'urne;</li>
+									<li>le nombre des bulletins blancs et nuls;</li>
+									<li>le nombre des bulletins valables;</li>
+									<li>pour chaque question posée, classée dans l'ordre de son numéro, le nombre des votes affirmatifs et le nombre des votes négatifs.</li>
+								</ul>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ces opérations terminées, le président du bureau de vote proclame publiquement le résultat du référendum de son bureau pour chaque question soumise au référendum.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_56">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_56</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_56/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 56.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 56.</num>
+						<alinea>
+							<content>
+								<p>Le procès-verbal dont question aux articles précédents et qui renseigne sur les opérations faites par le bureau est dressé en double exemplaire et signé séance tenante par les membres du bureau. Il est immédiatement porté par le président du bureau de vote au président du bureau principal de la commune en même temps que les bulletins de vote et toutes les pièces tenues par le bureau de vote.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_57">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_57</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_57/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 57.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 57.</num>
+						<alinea>
+							<content>
+								<p>Le président du bureau principal de la commune, après avoir recueilli les procès-verbaux des bureaux de vote, procède au recensement général des votes. Ensuite, il dresse un procès-verbal, en double exemplaire, conformément aux articles précédents, qui renseigne sur les opérations faites par son bureau. Le procès-verbal est signé séance tenante par les membres du bureau.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ces opérations terminées, le président du bureau principal de la commune proclame publiquement le résultat du référendum de sa commune pour chaque question soumise au référendum.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le procès-verbal est immédiatement porté par le président du bureau principal de la commune au président du bureau principal de la circonscription unique en même temps que les bulletins de vote et toutes les pièces tenues par le bureau principal de la commune.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_58">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_58</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_58/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 58.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 58.</num>
+						<alinea>
+							<content>
+								<p>Le président du bureau principal de la circonscription unique, après avoir recueilli les procès-verbaux des bureaux principaux des communes, procède au recensement général des votes.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ensuite, il dresse un procès-verbal, en double exemplaire, conformément aux articles précédents, qui renseigne sur les opérations faites par son bureau. Le procès-verbal est signé séance tenante par les membres du bureau.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ces opérations terminées, le président du bureau principal de la circonscription unique proclame publiquement le résultat du référendum au niveau national pour chaque question soumise au référendum.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le référendum a abouti lorsqu'une majorité des électeurs ayant émis un bulletin valable se sont exprimés en faveur du texte soumis au référendum.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sont valables les bulletins ayant exprimé un vote affirmatif ou un vote négatif. Les bulletins nuls et blancs ne sont pas pris en compte.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_59">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_59</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_59/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 59.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 59.</num>
+						<alinea>
+							<content>
+								<p>Un exemplaire du procès-verbal et toutes les pièces sont adressés, sous plis fermés et scellés du sceau du président du bureau principal de la circonscription unique, par envois séparés recommandés à la poste, le jour qui suit celui de la proclamation du résultat, au Premier Ministre, Ministre d'Etat, pour être transmis à la Chambre des députés. Le double reste déposé au greffe du Tribunal d'arrondissement de Luxembourg, où tout électeur peut en prendre connaissance.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_60">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_60</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_60/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 60.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 60.</num>
+						<alinea>
+							<content>
+								<p>Sur base de ce procès-verbal, le Premier Ministre, Ministre d'Etat, arrête le nombre total:</p>
+								<ul scl:symbol="dash">
+									<li>de votants;</li>
+									<li>de bulletins blancs et nuls;</li>
+									<li>de bulletins valables;</li>
+									<li>pour chaque question posée, classée dans l'ordre de son numéro, le nombre des votes affirmatifs et le nombre des votes négatifs,</li>
+								</ul>
+								<p>et proclame officiellement le résultat du référendum au niveau national pour chaque question soumise au référendum. Ce résultat est publié au Mémorial, Recueil administratif et économique.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_61">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_61</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_61/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 61.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 61.</num>
+						<alinea>
+							<content>
+								<p>Les bulletins sont détruits par le Bureau de la Chambre des députés lorsqu'il a été définitivement statué sur le référendum</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="chapitre_4.chapter_4__section_13" wId="chapter_4__section_13">
+					<heading>
+						<i>Recours contre les opérations de vote</i>
+					</heading>
+					<article id="art_62">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_62</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_62/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 62.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 62.</num>
+						<alinea>
+							<content>
+								<p>Tout électeur peut introduire auprès de la Cour administrative un recours contre les opérations de vote en relation avec le référendum.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les alinéas 2 à 5 de l'article 18 de la présente loi sont applicables.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_63">
+						<scl:JOLUXWork>
+							<scl:JOLUXComplexWork>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_63</scl:jolux>
+							</scl:JOLUXComplexWork>
+							<scl:JOLUXLegalResource>
+								<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_63/20050306</scl:jolux>
+								<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+								<scl:jolux scl:lg="fra" scl:name="title">Art. 63.</scl:jolux>
+								<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+								<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+							</scl:JOLUXLegalResource>
+						</scl:JOLUXWork>
+						<num>Art. 63.</num>
+						<alinea>
+							<content>
+								<p>Lorsqu'un référendum est définitivement déclaré nul, le Grand-Duc fixe dans la huitaine la date du nouveau scrutin, qui devra avoir lieu dans les six mois, ce délai étant prorogé de six mois dans les hypothèses visées aux articles 20 et 21.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapitre_5">
+				<num><mod class="mod-start" for="#pm2"/>Chapitre 5.</num>
+				<heading scl:separator=" " scl:style-format="bi">Bureau centralisateur gouvernemental</heading>
+				<article id="art_63bis">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_63bis</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_63bis/20150217</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 63bis.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2015-02-17</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 63<i>bis</i>.</num>
+					<alinea>
+						<content>
+							<p>Le Gouvernement en conseil installe à l'occasion de chaque référendum au niveau national un bureau centralisateur chargé de la détermination et de la diffusion du résultat officieux.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le Gouvernement en conseil installe à l'occasion de chaque référendum au niveau national un bureau centralisateur chargé de la détermination et de la diffusion du résultat officieux.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine la composition, le fonctionnement et les attributions du bureau centralisateur gouvernemental et fixe le montant des indemnités revenant à ses membres.<mod class="mod-end" for="#pm2"/>
+								<noteRef href="#M2" marker="2"/>
+							</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_6">
+				<num><mod class="mod-start" for="#pm3"/>Chapitre 6<mod class="mod-end" for="#pm3"/>
+						<noteRef href="#M3" marker="3"/>.</num>
+				<heading scl:separator=" " scl:style-format="bi">Dispositions pénales</heading>
+				<article id="art_64">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_64</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_64/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 64.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 64.</num>
+					<alinea>
+						<content>
+							<p>Sont applicables à la présente loi, les dispositions pénales contenues aux articles 94 à 96, 97 alinéa 1, 98 à 106, 108 à 109, 110 alinéa 2, 112 à 114 alinéas 1 et 2, et 115 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="42f8e084-338c-4ea7-a403-cfd69de61981">loi électorale</ref>.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_65_20170401" style="del">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_65</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_65/20151221</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 65.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2015-12-21</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>
+						<mod class="mod-start" for="#pm4"/>
+						<del>Art. 65.</del>
+					</num>
+					<alinea>
+						<content>
+							<p>
+								<del>Pendant le mois qui précède le jour du référendum, ainsi que pendant le déroulement de celui-ci, la publication, la diffusion et le commentaire de tout sondage d'opinion ayant un rapport direct ou indirect avec le vote, par quelque moyen que ce soit, sont interdits. Ceux qui ont contrevenu aux dispositions du présent article sont punis d'un emprisonnement de huit jours à un mois et d'une amende de 500 à 12.500 euros.</del>
+								<mod class="mod-end" for="#pm4"/>
+								<noteRef href="#M4" marker="4"/>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_66">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_66</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_66/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 66.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 66.</num>
+					<alinea>
+						<content>
+							<p>Est puni d'un emprisonnement de trois mois à deux ans et d'une amende de 500 à 15.000 euros, quiconque se rend coupable de corruption active ou passive relativement à une collecte de signatures ou celui qui falsifie le résultat d'une collecte de signatures effectuée à l'appui d'un référendum sur initiative populaire en matière de révision constitutionnelle.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Est puni des mêmes peines, quiconque a contrefait une liste d'inscription destinée à recueillir les signatures des électeurs ou a fait usage d'une liste d'inscription contrefaite.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_67">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_67</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_67/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 67.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 67.</num>
+					<alinea>
+						<content>
+							<p>Est puni d'un emprisonnement d'un mois à un an et d'une amende de 251 à 10.000 euros, quiconque a apposé la signature d'autrui sur une liste d'inscription.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Est puni des mêmes peines celui qui a signé ou s'est présenté pour signer une liste d'inscription sous le nom d'un autre électeur et celui qui, d'une manière quelconque, a altéré, détruit, distrait, rendu illisible ou retenu une ou plusieurs listes d'inscription.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_68">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_68</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_68/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 68.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 68.</num>
+					<alinea>
+						<content>
+							<p>Dans les cas prévus par les articles 65 à 67 de la présente loi, si le coupable est fonctionnaire ou salarié du secteur public ou s'il est ministre d'un culte rétribué par l'Etat, le maximum des peines y prévues constitue le minimum à prononcer, et le maximum à prononcer peut aller jusqu'au doublement des peines d'emprisonnement et d'amende précitées.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_69">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_69</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_69/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 69.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 69.</num>
+					<alinea>
+						<content>
+							<p>L'électeur, qui, contrairement aux dispositions de l'article 12 de la présente loi, a signé plus d'une fois la même liste d'inscription destinée à recueillir des signatures à l'occasion d'une même initiative ou qui a signé plus d'une liste, est passible d'une amende de 251 à 5.000 euros.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_70">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_70</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_70/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 70.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 70.</num>
+					<alinea>
+						<content>
+							<p>Sans préjudice de l'application de l'article 12 du <ref href="/eli/etat/leg/code/penal" id="89471a87-6277-456f-bde1-9e7e2fdacdc9">Code pénal</ref>, l'interdiction du droit de vote et d'éligibilité est prononcée contre les personnes qui ont contrevenu aux articles 65 à 67 de la présente loi.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_71">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_71</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_71/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 71.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 71.</num>
+					<alinea>
+						<content>
+							<p>Sont punis d'une amende de 251 à 500 euros, les citoyens qui, invités conformément aux dispositions de la présente loi à remplir au jour du référendum les fonctions de membre du bureau pour lesquelles ils sont désignés, n'ont pas fait connaître, dans les quarante-huit heures, leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, ou ayant été désignés d'office par la loi, se sont abstenus sans cause légitime de se présenter pour les remplir.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Est puni des mêmes peines, le membre du bureau qui refuse, sans cause légitime, de continuer à concourir aux opérations de vote jusqu'à la clôture définitive des procès-verbaux.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_72">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_72</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/art_72/20050306</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 72.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2005-03-06</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 72.</num>
+					<alinea>
+						<content>
+							<p>L'action publique résultant des infractions prévues par la présente loi est prescrite après une année révolue à partir du jour où les crimes et délits ont été commis, sans préjudice de ce qui est statué par l'article 94 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2003/02/18/n2/jo" id="1ec6296c-6a87-4e47-8982-8ac3dd2a5ac5">loi électorale</ref>.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

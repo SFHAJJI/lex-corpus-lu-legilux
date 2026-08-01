@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/1978 : R\u00E8glement grand-ducal du 8 d\u00E9cembre 1977 portant sur les modalit\u00E9s des examens m\u00E9dicaux et de l\u0027examen dentaire de la femme enceinte et de l\u0027examen postnatal de la m\u00E8re, ainsi que sur le carnet de maternit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cfd2c55d8f9d14a2c0d0a04524113d7dfd3dd973febc452d1de1d468443e4bf2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1977/12/08/n2/consolide/19780401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6513b3252f7b26a01074442ce1391bb966c1d96d3ec97b867fe4a01eb863a914"
+  "record_sha256": "690819f9a0d704c3c5aa14067e6d3df3240dcd05accd46a82d82ca1858f7bd8e"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/11/2025 : Loi du 11 avril 1983 portant r\u00E9glementation de la mise sur le march\u00E9 et de la publicit\u00E9 des sp\u00E9cialit\u00E9s pharmaceutiques et des m\u00E9dicaments pr\u00E9fabriqu\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20251125/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "140c6adc5bdb6cf101bd346496e7fcaa42c65d60e90d8244ad6dea393477486a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20251125/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/11/n4/consolide/20251125/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fe2efb8e8cd9085f365b5c455968301634758cdef04812271f69d89c9d704e7c"
+  "record_sha256": "c50c33512bade2fffc695e59ace388d8c9773de03ea44714c83f06901af58a42"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/11/2014 : R\u00E8glement grand-ducal du 29 avril 2002 concernant les sports nautiques sur la Moselle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n5/consolide/20141107/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "648155934548f0c481249b32104c4f3c7801895f7f55d4e8c8e4c149c1fba941",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n5/consolide/20141107/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n5/consolide/20141107/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "59ef583d1fbe2c0da6dd06bd136fb3848fe36f763e9c0ee85b00317e4440c985"
+  "record_sha256": "f2e5397266066bbe28dd9d68a6fd9ca941c4a26a158ba276d17c7cd68f72205d"
 }

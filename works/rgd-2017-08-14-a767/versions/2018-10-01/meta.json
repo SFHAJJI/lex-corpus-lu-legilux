@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2018 : R\u00E8glement grand-ducal du 14 ao\u00FBt 2017 d\u00E9terminant pour les fonctionnaires et employ\u00E9s communaux : I. les cas d\u2019exception ou de temp\u00E9rament aux conditions du service provisoire ; II. la bonification d\u2019anciennet\u00E9 de service pour la fixation du traitement initial ; III. la proc\u00E9dure d\u2019attribution d\u2019une prime pour les d\u00E9tenteurs d\u2019un doctorat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/20181001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f6f44461976f51015c0651fe00cac2a46509c0da21c92afeb175e1ad62853412",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/20181001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/14/a767/consolide/20181001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b4f5d59d72c2f13333a76f104e80de88d934e3a28e1f6d2c5355d01a1509acb5"
+  "record_sha256": "57697f6af0ac18d7f35fff9d8b9ee43f2e6dd884dc7f771c2570608478475b30"
 }

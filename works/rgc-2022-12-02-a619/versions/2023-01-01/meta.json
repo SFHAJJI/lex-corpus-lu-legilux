@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/01/2023 : R\u00E8glement du Gouvernement en Conseil du 2 d\u00E9cembre 2022 fixant les indemnit\u00E9s pr\u00E9vues aux articles 16, alin\u00E9a 1er, 18 et 20, paragraphe 1er, du r\u00E8glement grand-ducal du 14 juin 2015 sur les frais de route et de s\u00E9jour ainsi que sur les indemnit\u00E9s de d\u00E9m\u00E9nagement des fonctionnaires et employ\u00E9s de l\u2019\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2022/12/02/a619/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e9205ebe0f49e6c69377aa54b02359bad4dd9ccd2a2b2c832ebcae2ce1337652",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2022/12/02/a619/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/2022/12/02/a619/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4c634dc2afea5048c5fde67d41d90899b7f40013d7016c7ce907bdbdc41c33df"
+  "record_sha256": "c24d817492458cae7c77724913b371cf92106ec9901a7ddea882239c6b42d63b"
 }

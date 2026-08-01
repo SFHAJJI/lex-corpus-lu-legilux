@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name=""><meta>
+	<identification source="#2014A4012A">
+		<FRBRWork>
+			<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo"/>
+			<FRBRuri value=""/>
+			<FRBRdate date="2014-10-29" name="document"/>
+			<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MENV"/>
+			<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+		</FRBRWork>
+		<FRBRExpression>
+			<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo/fr"/>
+			<FRBRuri value=""/>
+			<FRBRdate date="2014-10-29" name="document"/>
+			<FRBRauthor as="#author" href=""/>
+			<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+		</FRBRExpression>
+		<FRBRManifestation>
+			<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo/fr/xml"/>
+			<FRBRuri value=""/>
+			<FRBRdate date="2014-10-29" name="document"/>
+			<FRBRauthor as="#author" href=""/>
+		</FRBRManifestation>
+             <scl:JOLUXWork>
+                 <scl:JOLUXComplexWork>
+                     <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1</scl:jolux>
+                 </scl:JOLUXComplexWork>
+                 <scl:JOLUXLegalResource>
+                     <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo</scl:jolux>
+                     <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1</scl:jolux>
+                     <scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+                     <scl:jolux scl:name="dateDocument">2014-10-29</scl:jolux>
+                     <scl:jolux scl:name="publicationDate">2014-10-29</scl:jolux>
+                     <scl:jolux scl:name="historicalLegalId">2014A4012A</scl:jolux>
+                     <scl:jolux scl:name="dateApplicability">2014-11-02</scl:jolux>
+                     <scl:jolux scl:name="dateEntryInForce">2014-11-01</scl:jolux>
+                     <scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/202</scl:jolux>
+                     <scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal du 30 juillet 2013 relatif à la limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques.</scl:jolux>
+                     <scl:jolux scl:lg="fra" scl:name="titleShort">TEXTE COORDONNE du règlement grand-ducal du 30 juillet 2013</scl:jolux>
+                     <scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MENV</scl:jolux>
+                     <scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/913</scl:jolux>
+                     <scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/289</scl:jolux>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+                 </scl:JOLUXLegalResource>
+             </scl:JOLUXWork>
+             <scl:JOLUXExpression>
+                 <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo/fr</scl:jolux>
+                 <scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo</scl:jolux>
+                 <scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+                 <scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal du 30 juillet 2013 relatif à la limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques.</scl:jolux>
+                 <scl:jolux scl:lg="fra" scl:name="titleShort">TEXTE COORDONNE du règlement grand-ducal du 30 juillet 2013</scl:jolux>
+             </scl:JOLUXExpression>
+             <scl:JOLUXManifestation>
+                 <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo/fr/xml</scl:jolux>
+                 <scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2014/10/29/n1/jo/fr</scl:jolux>
+                 <scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/202/fr/pdf</scl:jolux>
+                 <scl:jolux scl:name="memorialPage">4012</scl:jolux>
+                 <scl:jolux scl:name="memorialSequence">A</scl:jolux>
+                 <scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                 <scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+                 <scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                 <scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+                 <scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+                 <scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+                 <scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2014-10-29-n1-jo-fr-xml.xml</scl:jolux>
+                 
+             </scl:JOLUXManifestation>
+	</identification>
+</meta>
+     <preface>
+	<longTitle>
+			<p><ref href="/eli/etat/leg/rgd/2013/07/30/n2">TEXTE COORDONNE du Règlement grand-ducal du 30 juillet 2013</ref> relatif à la limitation de l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques,</p>
+	</longTitle>
+</preface>
+     <preamble>
+          <container name="preamble">
+               <p>(Mém. A - 145 du 5 août 2013, p. 2863; rectificatif: Mém. A - 184 du 23 octobre 2013, p. 3496; dir. 2011/65/UE, 2012/50/UE et 2012/51/UE) modifié par:</p>
+               <p>Règlement grand-ducal du 24 mars 2014</p>
+               <p>(Mém. A - 51 du 7 avril 2014, p. 570; dir. 2014/1/UE, 2014/2/UE, 2014/3/UE, 2014/4/UE, 2014/5/UE, 2014/6/UE, 2014/7/UE, 2014/8/UE, 2014/9/UE, 2014/10/UE, 2014/11/UE, 2014/12/UE, 2014/13/UE, 2014/14/UE, 2014/15/UE et 2014/16/UE)</p>
+               <p>Règlement grand-ducal du 21 octobre 2014.</p>
+               <p>(Mém. A - 202 du 29 octobre 2014, p. 4010; dir. 2014/69/UE, 2014/70/UE, 2014/71/UE, 2014/72/UE, 2014/73/UE, 2014/74/UE, 2014/75/UE, 2014/76/UE)</p>
+          </container>
+     <formula name=""><p>Texte coordonné au 29 octobre 2014 - Version applicable à partir du 2 novembre 2014</p></formula></preamble>
+     <body>
+          
+          <article id="art_1er">
+               <num>Art. 1<sup>er</sup>.</num>
+               <heading>Champ d'application</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Sous réserve du paragraphe (2), le présent règlement s'applique aux EEE relevant des catégories énumérées à l'annexe I.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Sans préjudice de l'article 3, paragraphes (3) et (4), un EEE qui ne relevait pas du champ d'application du règlement grand-ducal modifié du 18 janvier 2005 relatif aux déchets des équipements électriques et électroniques ainsi qu'à la limitation d'emploi de certains de leurs composants dangereux mais qui ne respecterait pas le présent règlement peut toutefois continuer à être mis à disposition sur le marché jusqu'au 22 juillet 2019.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>Le présent règlement s'applique sans préjudice des exigences de la législation en matière de sécurité et de santé ainsi que de produits chimiques, en particulier la loi du 16 décembre 2011 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que la classification, l'étiquetage et l'emballage des substances et mélanges chimiques, et des dispositions spécifiques en matière de gestion des déchets.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>Le présent règlement ne s'applique pas: </p><ol scl:symbol="a)">
+                              <li>aux équipements nécessaires à la protection des intérêts essentiels de sécurité de l'Etat, y compris les armes, les munitions et le matériel de guerre destinés à des fins spécifiquement militaires;</li>
+                              <li>aux équipements destinés à être envoyés dans l'espace;</li>
+                              <li>aux équipements qui sont spécifiquement conçus pour être installés en tant que partie d'un autre type d'équipement, qui ne relève pas du champ d'application du présent règlement ou en est exclu, qui ne peuvent remplir leur fonction que s'ils font partie de cet autre équipement et qui ne peuvent être remplacés que par le même équipement spécifiquement conçu;</li>
+                              <li>aux gros outils industriels fixes;</li>
+                              <li>aux grosses installations fixes;</li>
+                              <li>aux moyens de transport de personnes ou de marchandises, à l'exception des véhicules électriques à deux roues qui ne sont pas réceptionnés par type;</li>
+                              <li>aux engins mobiles non routiers destinés exclusivement à un usage professionnel;</li>
+                              <li>aux dispositifs médicaux implantables actifs;</li>
+                              <li>aux panneaux photovoltaïques destinés à être utilisés dans un système conçu, monté et installé par des professionnels pour une utilisation permanente en un lieu donné, en vue de la production d'énergie à partir de la lumière du soleil, pour des applications publiques, commerciales, industrielles et résidentielles;</li>
+                              <li>aux équipements spécifiquement conçus aux seules fins de recherche et de développement, et disponibles uniquement dans un contexte interentreprises.</li>
+                         </ol></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_2">
+               <num>Art. 2.</num>
+               <heading>Définitions</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Aux fins du présent règlement, on entend par: </p><ol scl:symbol="1)">
+                              <li>«équipements électriques et électroniques» ou «EEE»: les équipements fonctionnant grâce à des courants électriques ou à des champs électromagnétiques, et les équipements de production, de transfert et de mesure de ces courants et champs, conçus pour être utilisés à une tension ne dépassant pas 1.000 volts en courant alternatif et 1.500 volts en courant continu;</li>
+                              <li>aux fins du point 1), «fonctionnant grâce à»: nécessitant, en ce qui concerne les EEE, des courants électriques ou des champs électromagnétiques pour l'exécution d'au moins une fonction prévue;</li>
+                              <li>«gros outils industriels fixes»: ensemble de grande ampleur de machines, d'équipements et/ou de composants, qui fonctionnent ensemble pour une application spécifique, installés de façon permanente et démontés par des professionnels dans un lieu donné, et utilisés et entretenus par des professionnels dans un centre de fabrication industrielle ou dans un établissement de recherche et développement;</li>
+                              <li>«grosse installation fixe»: combinaison de grande ampleur de plusieurs types d'appareils et, le cas échéant, d'autres dispositifs, qui sont assemblés et installés par des professionnels pour être utilisés de façon permanente à un endroit prédéfini et dédié, et démontés par des professionnels;</li>
+                              <li>«câbles»: tous les câbles d'une tension nominale inférieure à 250 volts qui ont une fonction de connexion ou de prolongation pour raccorder l'EEE au réseau ou pour raccorder deux ou plusieurs EEE entre eux;</li>
+                              <li>«fabricant»: toute personne physique ou morale qui fabrique un EEE ou fait concevoir ou fabriquer un EEE et le commercialise sous son propre nom ou sa propre marque;</li>
+                              <li>«mandataire»: toute personne physique ou morale établie au Luxembourg ayant reçu mandat écrit du fabricant pour agir en son nom aux fins de l'accomplissement de tâches déterminées;</li>
+                              <li>«distributeur»: toute personne physique ou morale faisant partie de la chaîne d'approvisionnement, autre que le fabricant ou l'importateur, qui met un EEE à disposition sur le marché;</li>
+                              <li>«importateur»: toute personne physique ou morale établie dans l'Union européenne, dénommée ci-après «Union», qui met un EEE provenant d'un pays tiers sur le marché de l'Union;</li>
+                              <li>«opérateurs économiques»: le fabricant, le mandataire, l'importateur et le distributeur;</li>
+                              <li>«mise à disposition sur le marché»: toute fourniture d'un EEE destiné à être distribué, consommé ou utilisé sur le marché de l'Union dans le cadre d'une activité commerciale, à titre onéreux ou gratuit;</li>
+                              <li>«mise sur le marché»: la première mise à disposition d'un EEE sur le marché de l'Union;</li>
+                              <li>«norme harmonisée»: une norme adoptée par l'un des organismes européens de normalisation visés à l'annexe I de la directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d'information dans le domaine des normes et réglementations techniques et des règles relatives aux services de la société de l'information, sur la base d'une demande formulée par la Commission conformément à l'article 6 de ladite directive;</li>
+                              <li>«spécifications techniques»: un document fixant les exigences techniques devant être respectées par un produit, processus ou service;</li>
+                              <li>«marquage CE»: le marquage par lequel le fabricant indique que le produit est conforme aux exigences applicables de la législation d'harmonisation de l'Union prévoyant son apposition;</li>
+                              <li>«évaluation de la conformité»: processus évaluant s'il est démontré que les exigences du présent règlement relatives à un EEE ont été respectées;</li>
+                              <li>«surveillance du marché»: les opérations effectuées et les mesures prises pour garantir que les EEE sont conformes aux exigences définies dans le présent règlement et ne portent pas atteinte à la santé et à la sécurité ou à d'autres aspects de la protection de l'intérêt public;</li>
+                              <li>«rappel»: toute mesure visant à obtenir le retour d'un produit qui a déjà été mis à la disposition de l'utilisateur final;</li>
+                              <li>«retrait»: toute mesure visant à empêcher la mise à disposition sur le marché d'un produit de la chaîne d'approvisionnement;</li>
+                              <li>«matériau homogène»: soit un matériau dont la composition est parfaitement uniforme, soit un matériau constitué d'une combinaison de matériaux, qui ne peut être divisé ou séparé en différents matériaux, au moyen d'actions mécaniques, telles que le dévissage, le coupage, le broyage, le meulage et les procédés abrasifs;</li>
+                              <li>«dispositif médical»: un dispositif médical ou accessoire d'un dispositif médical au sens de l'article 1<sup>er</sup>, paragraphe (3) , point a) ou b), respectivement, de la loi modifiée du 16 juin 1990 relative aux dispositifs médicaux, et qui est aussi un EEE;</li>
+                              <li>«dispositif médical de diagnostic in vitro»: un dispositif médical de diagnostic in vitro ou accessoire d'un dispositif médical de diagnostic in vitro au sens de l'article 1<sup>er</sup>, point b) ou c), respectivement, du règlement grand-ducal modifié du 24 juillet 2001 relatif aux dispositifs médicaux de diagnostic in vitro;</li>
+                              <li>«dispositif médical implantable actif»: un dispositif médical implantable actif au sens de l'article 1<sup>er</sup>, paragraphe (2), point c), du règlement grand-ducal modifié du 5 février 1993 relatif aux dispositifs médicaux implantables actifs;</li>
+                              <li>«instruments de contrôle et de surveillance industriels»: les instruments de contrôle et de surveillance conçus à des fins exclusivement industrielles ou professionnelles;</li>
+                              <li>«disponibilité d'un produit de substitution»: la possibilité de fabriquer et de livrer un produit de substitution dans un délai raisonnable en comparaison avec le temps nécessaire à la fabrication et la livraison des substances énumérées à l'annexe II;</li>
+                              <li>«fiabilité d'un produit de substitution»: la probabilité qu'un EEE utilisant un produit de substitution remplira les fonctions requises sans défaillance dans des conditions données pour une période de temps donnée;</li>
+                              <li>«pièce détachée»: une pièce distincte d'un EEE pouvant remplacer une pièce d'un EEE. L'EEE ne peut fonctionner comme prévu sans cette pièce. La fonctionnalité de l'EEE est rétablie ou mise à jour lorsque la pièce est remplacée par une pièce détachée;</li>
+                              <li>«engins mobiles non routiers mis à disposition uniquement pour un usage professionnel»: engins disposant d'un bloc d'alimentation embarqué, dont le fonctionnement nécessite soit la mobilité, soit un déplacement continu ou semi-continu entre une succession d'emplacements de travail fixes pendant le travail, et mis à disposition uniquement pour un usage professionnel.</li>
+                         </ol></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Pour les besoins d'application du présent règlement, l'administration de l'Environnement, dénommée ci-après «administration», est l'autorité de surveillance du marché.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_3">
+               <num>Art. 3.</num>
+               <heading>Prévention</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Les EEE mis sur le marché, y compris les câbles et les pièces détachées destinées à leur réparation, à leur réemploi, à la mise à jour de leurs fonctionnalités ou au renforcement de leur capacité, ne contiennent aucune des substances énumérées à l'annexe II.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Aux fins du présent règlement, il n'est pas toléré que la valeur de la concentration maximale en poids dans les matériaux homogènes excède celle précisée à l'annexe II.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>Le paragraphe (1) s'applique aux dispositifs médicaux et aux instruments de contrôle et de surveillance qui sont mis sur le marché à compter du 22 juillet 2014, aux dispositifs médicaux de diagnostic in vitro qui sont mis sur le marché à compter du 22 juillet 2016 et aux instruments de contrôle et de surveillance industriels qui sont mis sur le marché à compter du 22 juillet 2017.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>Le paragraphe (1) ne s'applique pas aux câbles ou pièces détachées destinés à la réparation, au réemploi, à la mise à jour des fonctionnalités ou au renforcement de la capacité des équipements indiqués ci-après: </p><ol scl:symbol="a)">
+                              <li>les EEE mis sur le marché avant le 1<sup>er</sup> juillet 2006;</li>
+                              <li>les dispositifs médicaux mis sur le marché avant le 22 juillet 2014;</li>
+                              <li>les dispositifs médicaux de diagnostic in vitro mis sur le marché avant le 22 juillet 2016;</li>
+                              <li>les instruments de contrôle et de surveillance mis sur le marché avant le 22 juillet 2014;</li>
+                              <li>les instruments de contrôle et de surveillance industriels mis sur le marché avant le 22 juillet 2017;</li>
+                              <li>les EEE bénéficiant d'une exemption et mis sur le marché avant expiration de l'exemption, pour le cas où ladite exemption est concernée.</li>
+                         </ol></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(5)</num>
+                    <alinea><content><p>Le paragraphe (1) ne s'applique pas aux pièces détachées réemployées, issues d'un EEE mis sur le marché avant le 1<sup>er</sup> juillet 2006 et qui se trouvent dans un équipement mis sur le marché avant le 1<sup>er</sup> juillet 2016, à condition que ce réemploi s'effectue dans le cadre de systèmes de récupération interentreprises en circuit fermé et contrôlables et que le réemploi des pièces soit notifié aux consommateurs.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(6)</num>
+                    <alinea><content><p>Le paragraphe (1) ne s'applique pas aux applications énumérées aux annexes III et IV.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_4">
+               <num>Art. 4.</num>
+               <heading>Obligations des fabricants</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Les fabricants s'assurent, lorsqu'ils mettent un EEE sur le marché, que celui-ci a été conçu et fabriqué conformément aux exigences visées à l'article 3.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Les fabricants établissent la documentation technique requise et mettent ou font mettre en oeuvre la procédure de contrôle interne de la fabrication conformément à l'annexe II, module A, de la décision n° 768/2008/CE.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>Lorsqu'il a été démontré, à l'aide de la procédure visée au paragraphe (2), que l'EEE respecte les exigences applicables, les fabricants établissent une déclaration UE de conformité et apposent le marquage CE sur le produit fini. Lorsqu'un autre acte législatif ou réglementaire applicable requiert l'application d'une procédure d'évaluation de la conformité qui est au moins aussi stricte, la conformité avec les exigences fixées à l'article 4, paragraphe (1) du présent règlement peut être démontrée dans le contexte de cette procédure. Une documentation technique unique peut être élaborée.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>Les fabricants conservent la documentation technique et la déclaration UE de conformité pendant une durée de dix ans à partir de la mise sur le marché de l'EEE.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(5)</num>
+                    <alinea><content><p>Les fabricants s'assurent que des procédures sont en place pour que la production en série reste conforme. Il est dûment tenu compte des modifications de la conception ou des caractéristiques du produit ainsi que des modifications des normes harmonisées ou des spécifications techniques par rapport auxquelles la conformité d'un EEE est déclarée.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(6)</num>
+                    <alinea><content><p>Les fabricants tiennent un registre sur les EEE non conformes et les rappels de produits et informent les distributeurs d'un tel suivi.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(7)</num>
+                    <alinea><content><p>Les fabricants s'assurent que leur EEE porte un numéro de type, de lot ou de série, ou un autre élément permettant son identification ou, lorsque la taille ou la nature de l'EEE ne le permet pas, que les informations requises figurent sur l'emballage ou dans un document accompagnant l'EEE.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(8)</num>
+                    <alinea><content><p>Les fabricants indiquent leur nom, leur raison sociale ou leur marque déposée et l'adresse à laquelle ils peuvent être contactés sur l'EEE ou, lorsque ce n'est pas possible, sur son emballage ou dans un document accompagnant l'EEE.</p></content></alinea>
+                    <alinea><content><p>L'adresse doit préciser un lieu unique où le fabricant peut être contacté. Lorsqu'un autre acte législatif ou réglementaire applicable comporte des dispositions relatives à l'apposition du nom et de l'adresse du fabricant qui sont au moins aussi strictes, ces dispositions s'appliquent.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(9)</num>
+                    <alinea><content><p>Les fabricants qui considèrent ou ont des raisons de croire qu'un EEE qu'ils ont mis sur le marché n'est pas conforme au présent règlement prennent sans délai les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire, et en informent immédiatement l'administration au cas où ils ont mis l'EEE à disposition au Luxembourg, en fournissant des précisions, notamment, sur la non-conformité et toute mesure corrective adoptée.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(10)</num>
+                    <alinea><content><p>Sur requête motivée de l'administration, les fabricants lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité de l'EEE avec le présent règlement, en langue française, allemande ou anglaise, et coopèrent, à la demande de cette dernière, à toute mesure adoptée en vue de garantir la conformité des EEE qu'ils ont mis sur le marché avec le présent règlement.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_5">
+               <num>Art. 5.</num>
+               <heading>Obligations des mandataires</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Les fabricants sont autorisés à désigner, par un mandat écrit, un mandataire. Les obligations énoncées à l'article 4, paragraphe (1), et l'établissement de la documentation technique ne font pas partie du mandat du mandataire.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Le mandataire exécute les tâches indiquées dans le mandat reçu du fabricant. Le mandat autorise au minimum le mandataire:</p><ul>
+                              <li>à tenir la déclaration UE de conformité et la documentation technique à la disposition de l'administration pendant une durée de dix ans suivant la mise sur le marché de l'EEE,</li>
+                              <li>sur requête motivée de l'administration, à lui communiquer toutes les informations et tous les documents nécessaires pour démontrer la conformité de l'EEE avec le présent règlement,</li>
+                              <li>à coopérer, à la demande de l'administration, à toute mesure adoptée en vue de garantir la conformité avec le présent règlement des EEE couverts par son mandat.</li>
+                         </ul></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_6">
+               <num>Art. 6.</num>
+               <heading>Obligations des importateurs</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Les importateurs ne mettent sur le marché de l'Union qu'un EEE conforme au présent règlement.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Les importateurs, avant de mettre un EEE sur le marché, s'assurent que la procédure appropriée d'évaluation de la conformité a été appliquée par le fabricant et ils s'assurent, en outre, que le fabricant a établi la documentation technique, que l'EEE porte le marquage CE et est accompagné des documents requis, et que le fabricant a respecté les exigences visées à l'article 4, paragraphes (6) et (7).</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>Lorsqu'un importateur considère ou a des raisons de croire qu'un EEE n'est pas conforme à l'article 4, il ne met cet EEE sur le marché qu'après que ce dernier a été mis en conformité et en informe le fabricant ainsi que l'administration.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>Les importateurs indiquent leur nom, leur raison sociale ou leur marque déposée et l'adresse à laquelle ils peuvent être contactés sur l'EEE ou, lorsque ce n'est pas possible, sur son emballage ou dans un document accompagnant l'EEE.</p></content></alinea>
+                    <alinea><content><p>Lorsqu'un autre acte législatif ou réglementaire applicable comporte des dispositions relatives à l'apposition du nom et de l'adresse de l'importateur qui sont au moins aussi strictes, ces dispositions s'appliquent.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(5)</num>
+                    <alinea><content><p>Les importateurs, afin d'assurer la conformité avec le présent règlement, tiennent un registre sur les EEE non conformes et les rappels d'EEE et en informent les distributeurs.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(6)</num>
+                    <alinea><content><p>Les importateurs qui considèrent ou ont des raisons de croire qu'un EEE qu'ils ont mis sur le marché n'est pas conforme au présent règlement prennent sans délai les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler, si nécessaire, et en informent immédiatement l'administration au cas où ils ont mis l'EEE à disposition au Luxembourg, en fournissant des précisions, notamment, sur la non-conformité et toute mesure corrective adoptée.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(7)</num>
+                    <alinea><content><p>Pendant une durée de dix ans suivant la mise sur le marché de l'EEE, les importateurs tiennent une copie de la déclaration UE de conformité à la disposition de l'administration et s'assurent que la documentation technique peut être fournie à cette dernière, sur demande.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(8)</num>
+                    <alinea><content><p>Sur requête motivée de l'administration, les importateurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité d'un EEE avec le présent règlement, en langue française, allemande ou anglaise, et coopèrent, à la demande de cette dernière, à toute mesure adoptée en vue de garantir la conformité des EEE qu'ils ont mis sur le marché avec le présent règlement.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_7">
+               <num>Art. 7.</num>
+               <heading>Obligations des distributeurs</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Lorsqu'ils mettent un EEE à disposition sur le marché, les distributeurs agissent avec la diligence requise en ce qui concerne les exigences applicables, et vérifient en particulier que l'EEE porte le marquage CE, qu'il est accompagné des documents requis dans une langue aisément compréhensible par les consommateurs et autres utilisateurs finals, et que le fabricant et l'importateur ont respecté les exigences visées à l'article 4, paragraphes (6) et (7), et à l'article 6, paragraphe (4).</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Lorsqu'un distributeur considère ou a des raisons de croire qu'un EEE n'est pas conforme à l'article 3, il ne met cet EEE à disposition sur le marché qu'après qu'il a été mis en conformité et en informe le fabricant ou l'importateur ainsi que l'administration.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>Les distributeurs qui considèrent ou ont des raisons de croire qu'un EEE qu'ils ont mis à disposition sur le marché n'est pas conforme au présent règlement veillent à ce que les mesures correctives nécessaires pour le mettre en conformité, le retirer ou le rappeler soient prises, si nécessaire, et en informent immédiatement l'administration au cas où ils ont mis l'EEE à disposition au Luxembourg, en fournissant des précisions, notamment, sur la non-conformité et toute mesure corrective adoptée.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>Sur requête motivée de l'administration, les distributeurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité d'un EEE avec le présent règlement, et coopèrent, à la demande de cette dernière, à toute mesure adoptée en vue de garantir la conformité des EEE qu'ils ont mis à disposition sur le marché avec le présent règlement. Art. 8. Cas dans lesquels les obligations des fabricants s'appliquent aux importateurs et aux distributeurs</p></content></alinea>
+                    <alinea><content><p>Un importateur ou un distributeur est considéré comme un fabricant pour l'application du présent règlement et est soumis aux obligations incombant au fabricant en vertu de l'article 4 lorsqu'il met un EEE sur le marché sous son propre nom ou sa propre marque, ou modifie un EEE déjà mis sur le marché de telle sorte que la conformité aux exigences applicables peut en être affectée.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_9">
+               <num>Art. 9.</num>
+               <heading>Identification des opérateurs économiques</heading>
+               <alinea><content><p>Les opérateurs économiques, sur demande de l'administration, identifient à l'intention de cette dernière, pendant une durée de dix ans suivant la mise sur le marché de l'EEE: </p><ol scl:symbol="a)">
+                         <li>tout opérateur économique qui leur a fourni un EEE;</li>
+                         <li>tout opérateur économique auquel ils ont fourni un EEE.</li>
+                    </ol></content></alinea>
+          </article>
+          <article id="art_10">
+               <num>Art. 10.</num>
+               <heading>Déclaration UE de conformité</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>La déclaration UE de conformité atteste que le respect des exigences visées à l'article 3 a été démontré.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>La déclaration UE de conformité est établie selon le modèle figurant à l'annexe V, contient les éléments précisés dans ladite annexe et est mise à jour en cas de besoin. Elle est traduite dans la ou les langues française, allemande ou anglaise.</p></content></alinea>
+                    <alinea><content><p>Lorsqu'un autre acte législatif ou réglementaire applicable requiert l'application d'une procédure d'évaluation de la conformité qui est au moins aussi stricte, la conformité avec les exigences fixées à l'article 3, paragraphe (1) du présent règlement peut être démontrée dans le contexte de ladite procédure. Une documentation technique unique peut être élaborée.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>En établissant la déclaration UE de conformité, le fabricant assume la responsabilité de la conformité de l'EEE avec le présent règlement.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_11">
+               <num>Art. 11.</num>
+               <heading>Principes généraux du marquage CE</heading>
+               <alinea><content><p>Le marquage CE est soumis aux principes généraux énoncés à l'article 30 du règlement (CE) n° 765/2008.</p></content></alinea>
+          </article>
+          <article id="art_12">
+               <num>Art. 12.</num>
+               <heading>Règles et conditions d'apposition du marquage CE</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Le marquage CE est apposé de façon visible, lisible et indélébile sur l'EEE fini ou sur sa plaque signalétique.</p></content></alinea>
+                    <alinea><content><p>Lorsque la nature du produit ne le permet pas ou ne le justifie pas, il est apposé sur son emballage et sur les documents d'accompagnement.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Le marquage CE est apposé avant que l'EEE ne soit mis sur le marché.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_13">
+               <num>Art. 13.</num>
+               <heading>Présomption de conformité</heading>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>En l'absence de preuve du contraire, les EEE portant le marquage CE sont présumés conformes au présent règlement.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Les matériaux, composants et EEE ayant fait l'objet d'essais et de mesures démontrant leur conformité avec les exigences prévues à l'article 3, ou qui ont été évalués, conformément à des normes harmonisées dont les références ont été publiées au Journal officiel de l'Union européenne, sont présumés conformes aux exigences du présent règlement.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_14">
+               <num>Art. 14.</num>
+               <heading>Surveillance du marché et contrôle de l'entrée des EEE sur le marché de l'Union</heading>
+               <alinea><content><p>Sans préjudice de la loi modifiée du 20 mai 2008 relative à la création d'un Institut luxembourgeois de la normalisation, de l'accréditation, de la sécurité et qualité des produits et services, la surveillance du marché est réalisée conformément aux articles 15 à 29 du règlement (CE) n° 765/2008.</p></content></alinea>
+          </article>
+          <article id="art_15">
+               <num>Art. 15.</num>
+               <heading>Dispositions abrogatoires</heading>
+               <alinea><content><p>Le règlement grand-ducal modifié du 18 janvier 2005 relatif aux déchets des équipements électriques et électroniques ainsi qu'à la limitation d'emploi de certains de leurs composants dangereux est abrogé.</p></content></alinea>
+          </article>
+          <article id="art_16">
+               <num>Art. 16.</num>
+               <heading>Exécution</heading>
+               <alinea><content><p>Notre Ministre délégué au Développement durable et aux Infrastructures, Notre Ministre de l'Intérieur et à la Grande Région, Notre Ministre des Classes moyennes et du Tourisme et Notre Ministre de l'Economie et du Commerce extérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.</p></content></alinea>
+          </article>
+     </body>
+     
+          
+          
+          
+          
+          
+     
+</act></akomaNtoso>

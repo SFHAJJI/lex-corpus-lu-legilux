@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/05/2021 : R\u00E8glement grand-ducal du 15 ao\u00FBt 2019 portant sur l\u2019\u00E9valuation et la promotion des \u00E9l\u00E8ves de la formation professionnelle et abrogeant le r\u00E8glement grand-ducal du 31 ao\u00FBt 2016 portant sur l\u2019\u00E9valuation et la promotion des \u00E9l\u00E8ves de la formation professionnelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/15/a571/consolide/20210515/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "caf5c56dbdde2226d8d1e1b850959e6845063d097c72a571ef4a0b20955b57ff",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/15/a571/consolide/20210515/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/08/15/a571/consolide/20210515/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b1c20c3c96164008b7b646a7e53b44c0912f15173978fc9e2011769f15043a16"
+  "record_sha256": "714bc97809483a54e131741f8c2d8cacf47cd709822bedc4a8cd30bd947862aa"
 }

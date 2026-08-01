@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/03/2019 : Loi du 25 novembre 2014 pr\u00E9voyant la proc\u00E9dure applicable \u00E0 l\u0027\u00E9change de renseignements sur demande en mati\u00E8re fiscale et modifiant la loi du 31 mars 2010 portant approbation des conventions fiscales et pr\u00E9voyant la proc\u00E9dure y applicable en mati\u00E8re d\u0027\u00E9change de renseignements sur demande.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/11/25/n2/consolide/20190309/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "68f8854aa37ea70976ef9a66d531417d3e41667c5ebbe6898fc488f9bab45ad5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/11/25/n2/consolide/20190309/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/11/25/n2/consolide/20190309/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e95a2e4fafa34da7f21c3eb39329734b62bf7283507564236c0f75b960ffa6bc"
+  "record_sha256": "8027405d90e6eedef81ac2d6876a64fbaecd9f3a7cb759291fdd9f46d085db33"
 }

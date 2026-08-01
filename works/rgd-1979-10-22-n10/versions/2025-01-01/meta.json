@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 22 octobre 1979 relatif \u00E0 l\u2019assujettissement des collectivit\u00E9s de droit public \u00E0 la taxe sur la valeur ajout\u00E9e.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6acc63063b5be0d12a124eb08d6b592f5e3799839dc5a862365a56cb43d9c728",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/10/22/n10/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b5e9989d0ae75ad8321c67e892b6b942c89be2b5cf42465f605987e8bab624f9"
+  "record_sha256": "65a37ef821a2ddac65f451fc863b32948e60899bca809ff9861f65036d86a030"
 }

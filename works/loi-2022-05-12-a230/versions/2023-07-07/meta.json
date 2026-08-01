@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/07/2023 : Loi du 12 mai 2022 instaurant une compensation financi\u00E8re permettant la r\u00E9duction temporaire du prix de vente de certains produits p\u00E9troliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/consolide/20230707/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cd6f2fd45bc21382ca4c330d90550d888b38fda9976c74751cf9e711c6ebf379",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/consolide/20230707/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/12/a230/consolide/20230707/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2e8860d8ff278ba8509b1f54da9533a12a1c57a35ee1ce609046610e1bd537dd"
+  "record_sha256": "570392f206152e6c25b66c62977fdfdeb4b4aac88bbd0c2103a18eba83233982"
 }

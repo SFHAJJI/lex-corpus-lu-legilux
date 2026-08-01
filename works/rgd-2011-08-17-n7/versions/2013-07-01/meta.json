@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 17 ao\u00FBt 2011 r\u00E9glant l\u0027organisation et le fonctionnement du Conseil Sup\u00E9rieur de l\u0027aide \u00E0 l\u0027enfance et \u00E0 la famille.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n7/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c51d1f77cf5c0fe7c3dd92176e0b7947cba35823e99554d9a439e6d07caab980",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n7/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/17/n7/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fc482619a1cc0f7b4b062e3243aeba9fb479c6c9b31193af6e22e29490be502d"
+  "record_sha256": "811a250af76022f70895d5e2d77d50ed7b345df1ea96d05e85a815996e369c44"
 }

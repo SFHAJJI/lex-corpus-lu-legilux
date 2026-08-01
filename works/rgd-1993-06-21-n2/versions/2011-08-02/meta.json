@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/08/2011 : R\u00E8glement grand-ducal du 21 juin 1993 relatif \u00E0 la proc\u00E9dure de m\u00E9diation pr\u00E9vue \u00E0 l\u2019article 69 du code des assurances sociales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/06/21/n2/consolide/20110802/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a6d91191e5341d3fe28678ce5db2a4597dcbefa403427b04cdbc8549e8a6b7ec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/06/21/n2/consolide/20110802/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/06/21/n2/consolide/20110802/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "88903f10f9935788a98b705ce309cd539accd2eb8e0f384cacbe88164ee597cb"
+  "record_sha256": "db0260b477a2f5dd2e957a36dbdf583aef38d69ebf2bb821258ea47677f8c8d3"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/06/2026 : Loi du 28 juin 2023 relative au financement de l\u2019exploitation des services de transports sp\u00E9cifiques r\u00E9guliers sp\u00E9cialis\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a333/consolide/20260629/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9a6b5344c8a0817c78bb229b6762946e8d3ec8eb34dd7b995ca2926c4274a23a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a333/consolide/20260629/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/06/28/a333/consolide/20260629/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "735b0c80c55b6908c86521a7dd92ce47387a2127371dcc474970893179771fe9"
+  "record_sha256": "d36fb45c8d6ea04c882fada5c4fa45b0330c5d3754d71abe7b2427b931abbcaf"
 }

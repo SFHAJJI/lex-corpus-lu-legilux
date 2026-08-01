@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 05/09/2023 : Loi du 1er ao\u00FBt 2018 relative au traitement des donn\u00E9es des dossiers passagers dans le cadre de la pr\u00E9vention et de la r\u00E9pression du terrorisme et de la criminalit\u00E9 grave et portant modification de la loi du 5 juillet 2016 portant r\u00E9organisation du Service de renseignement de l\u2019\u00C9tat.",
       "title_short": "Loi du 1er ao\u00FBt 2018 relative au traitement des donn\u00E9es des dossiers passagers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1a7fc1911008da7fdf738010a26fdcd0aeca63272fffa6e883f9e5e5b1ec2afa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/01/a690/consolide/20230905/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3c19b639ca9334634f2f54e80dec4ce13dc23df3faef6ab9466de70bc2ee24f8"
+  "record_sha256": "e38dcd7db150e0df3de53bdac5e05c0c79e877b06db17f11f45b95df99311173"
 }

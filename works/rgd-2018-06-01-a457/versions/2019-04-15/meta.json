@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/04/2019 : R\u00E8glement grand-ducal du 1er juin 2018 fixant les conditions de commercialisation, de production et de certification des semences de plantes fourrag\u00E8res.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/01/a457/consolide/20190415/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8595a6d247dfeaf5466f3898ef387ec530120958e523fddafcdc07cfff56c302",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/01/a457/consolide/20190415/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/01/a457/consolide/20190415/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fd38799523423bbcf221ac8922ac2f7a814e120bfa804066845aa694721bf49f"
+  "record_sha256": "111320664a6c03fecd45e55e957fd6df7536a6aa5bc612c3efe31db03d4978f6"
 }

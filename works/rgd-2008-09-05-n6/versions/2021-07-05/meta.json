@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/07/2021 : R\u00E8glement grand-ducal du 5 septembre 2008 portant ex\u00E9cution de certaines dispositions relatives aux formalit\u00E9s administratives pr\u00E9vues par la loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u0027immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20210705/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "36118c4b62f8b0fb7e09cfca060173023e33988586dbd8901f9b6b990aced09e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20210705/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n6/consolide/20210705/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a406de95b247f626f254e9d2b331b2c5369236d3175c2b960d39f2ab3ce09727"
+  "record_sha256": "f624a68899543a61696767f578064313e1e4d18fe02e095c942bb913f30fa738"
 }

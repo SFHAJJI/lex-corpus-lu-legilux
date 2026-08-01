@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/08/2018 : Loi du 25 septembre 1953, ayant pour objet la r\u00E9organisation du contr\u00F4le des denr\u00E9es alimentaires, boissons et produits usuels.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1953/09/25/n1/consolide/20180814/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7a26cd25b68a2c45fd8a54eadc335eb70cde9452461c224d07f120c0c9414494",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1953/09/25/n1/consolide/20180814/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1953/09/25/n1/consolide/20180814/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0ccdb1202861a8ed562bbf5874cc2be4f6705130d3d4e9b48600a65d109ed107"
+  "record_sha256": "384199f17a4f5ef83d0a3288882c518772468602eedd125fe0d3d22c7f60e365"
 }

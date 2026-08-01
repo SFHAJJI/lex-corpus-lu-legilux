@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/06/2022 : Loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives \u00E0 l\u2019application de la loi modifi\u00E9e du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/consolide/20220630/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4233eb1643ffb7521a78d490d3c1a2b2dab04c627119e81093e5e589aa3cd69e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/consolide/20220630/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/consolide/20220630/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ca81684796b3ac45b9b9c0e0f194cd315efe21a177186417fc7127672cbd62b6"
+  "record_sha256": "d98be0e75d26c37f9e103bff5fd051f4edc1a7e29b597345ba718b3eae6875e6"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/04/2026 : Loi du 7 d\u00E9cembre 2015 sur le secteur des assurances.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20260403/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9fd65595a9032e987293d9e82c13a6120f0868c5eb6f475e913c95e32856d4c4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20260403/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/07/n1/consolide/20260403/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bbdc6be1619a0a1711d79468f005577b86b14c4f9e3843e2fb1fc47311b5accb"
+  "record_sha256": "98d6c83640b69abd95b36de72247fdc369b547afc38770576e200350396f4da8"
 }

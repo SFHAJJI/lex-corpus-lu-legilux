@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2022 : Loi du 17 mai 2022 portant prise en charge par l\u2019\u00C9tat des frais engendr\u00E9s par l\u2019utilisation des r\u00E9seaux de distribution de gaz naturel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/consolide/20221001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "455e85727b50370b7a2f4fd089790a5234c9db432bc0b6002abeb7859e1babda",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/consolide/20221001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/17/a237/consolide/20221001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2a558db1aa7f3554d9bc8a38884e5bde05d10c6da343831ac3c3b7b131e9ed57"
+  "record_sha256": "a585924b366dc33200c5e28f889658e7cf76c8510cf205c877a675a93acd408f"
 }

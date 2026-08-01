@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 14/04/2025 : R\u00E8glement grand-ducal du 4 avril 2025 fixant les modalit\u00E9s d\u2019organisation et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive des fonctionnaires stagiaires ainsi que des examens de promotion des fonctionnaires aupr\u00E8s de l\u2019Administration d\u2019\u00E9valuation et de contr\u00F4le de l\u2019assurance d\u00E9pendance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2025/04/04/a133/consolide/20250414/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a23b509047e1175851aa75aa3d07eb352868abd16bec1781caae9bc0a5472395",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2025/04/04/a133/consolide/20250414/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2025/04/04/a133/consolide/20250414/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fdfc02043f3fdb359dbc6658742834e3d8a47aa7492394c8ca052c0a22f887d1"
+  "record_sha256": "6fb1091899d42d4dfb427e710d7b1c073a5fd6ab2319591ded5ad07c9d3ae98a"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/11/2023 : Arr\u00EAt\u00E9 grand-ducal du 1er juillet 2023 portant approbation du r\u00E8glement interne du Gouvernement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2023/07/01/a346/consolide/20231120/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ce19244205ee9a8d4b5569aa1534b8ed006c340c36353b8fdd6ff7490ae006a1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2023/07/01/a346/consolide/20231120/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2023/07/01/a346/consolide/20231120/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7ba639bab41b1e6b352b67c9d41ce5bda12aeca74245c92a5f6c5fc24220fedf"
+  "record_sha256": "9fb2c3e70081083c0c855d165c13591a9e2413af813b2caedea87a483ca66132"
 }

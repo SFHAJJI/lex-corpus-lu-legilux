@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 5 mars 2021 relative \u00E0 certaines modalit\u00E9s de mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 2019/1150 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 promouvant l\u2019\u00E9quit\u00E9 et la transparence pour les entreprises utilisatrices de services d\u2019interm\u00E9diation en ligne.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/03/05/a185/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d208f421ae97200085001773b2f522a5231f68a8a25463db97834e4e6eaf91c8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/03/05/a185/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/03/05/a185/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9ea96e31429f6f23cca7bc50a087f2bef35ba6c0ea495f07d92fe66d477a425c"
+  "record_sha256": "0b42615214c196b89ab91c14ba26eeff5a14b894694342c7e3d35796519e3e95"
 }

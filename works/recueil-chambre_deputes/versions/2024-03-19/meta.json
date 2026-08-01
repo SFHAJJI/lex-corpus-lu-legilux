@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Chambre des D\u00E9put\u00E9s",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20240319/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "422413c36d479e1c8e123e1b997f8f9250f45708d3084df0894190879e930358",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20240319/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/chambre_deputes/20240319/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d50e2d64c1522c56876cbf8c5620b64e2b676d4a2a3c8dfcc1d4c96f41ce8b53"
+  "record_sha256": "617d4d23d0eb2b9a19543b0d543583851eff7bd47f09048b708dac84a05fd7ac"
 }

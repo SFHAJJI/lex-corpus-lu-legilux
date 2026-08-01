@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2013 : R\u00E8glement grand-ducal du 22 juillet 2009 d\u00E9terminant le contenu de la convention de stage de pratique professionnelle des \u00E9l\u00E8ves du r\u00E9gime technique de l\u0027enseignement secondaire technique du lyc\u00E9e technique pour professions \u00E9ducatives et sociales ainsi que le montant de l\u0027aide particuli\u00E8re \u00E0 verser aux institutions qui prennent en stage des \u00E9l\u00E8ves.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20130701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "365afdddcb2306d07d7a7e8600f40cb8a2a9eb93dee27870810176e2dc8d2cd1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20130701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20130701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4f06edd1cb518b4cc7de43ea2189e7f4dd98d4f6d6ef2c8e803270a8dda49e66"
+  "record_sha256": "868b70bd3dfa388106dd50014b9740332a9bbc0e249d32c7c1587e9edf3c6790"
 }

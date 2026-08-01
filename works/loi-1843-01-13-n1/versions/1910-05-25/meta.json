@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/05/1910 : Loi du 13 janvier 1843 sur la comp\u00E9tence des tribunaux pour juger les contraventions en mati\u00E8re de grande voirie, et sur les autorisations de faire des constructions ou des plantations le long des routes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19100525/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "922b3f1bb4b6984f0412e7adc0d4965a0c9d071f40ca56e3bb97e5e957a77a9b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19100525/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1843/01/13/n1/consolide/19100525/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ad2ace72a4a928002324e09891cfa3fc78613f9a90c01b7d474129b799c784bf"
+  "record_sha256": "522e3a80c6e20b27331392c48387732b2034eb7b7f3b67ead710f4a0b08b0d8b"
 }

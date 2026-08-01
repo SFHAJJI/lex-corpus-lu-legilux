@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2023 : R\u00E8glement grand-ducal du 13 juin 1975 prescrivant les mesures d\u0027ex\u00E9cution de la loi du 16 mai 1975 portant statut de la copropri\u00E9t\u00E9 des immeubles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20230801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33794dae434be53e2098ca828c77253724b73ac1a799852790e0a658d5493955",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20230801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1975/06/13/n1/consolide/20230801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ab4e8a5f15083955552b32b968dbb1622c132b3da2be21ce29fba3227e1ebd55"
+  "record_sha256": "5abca2da079d8added6d641084758516f74327896beb9917cda3cb68fca490ae"
 }

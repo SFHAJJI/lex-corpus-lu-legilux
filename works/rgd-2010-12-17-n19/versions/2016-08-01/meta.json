@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2016 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2010 d\u00E9terminant la proc\u00E9dure de d\u00E9claration des accidents et des maladies professionnelles et pr\u00E9cisant la prise en charge de certaines prestations par l\u2019assurance accident.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/consolide/20160801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6bacdd5e980f2582d4701cc96022c6c79f53d8df5660673e00dcacedbc3a3129",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/consolide/20160801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n19/consolide/20160801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "67ad82c788c8f00a5381ad50116b615b90670f00be9506eefc2b9991f36354da"
+  "record_sha256": "1fb9e64183ccc32ffb2fbabc594e4a3533cad2a9eddddff94e46617134c9747a"
 }
