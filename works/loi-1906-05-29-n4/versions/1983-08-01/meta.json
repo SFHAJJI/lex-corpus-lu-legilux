@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/1983 : Loi du 29 mai 1906 sur les habitations \u00E0 bon march\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19830801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9c5bac51fefe8ee27bf18e2c5788ccae7e78f1206722f9bbf4b6189143219dbb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19830801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19830801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "173dbb9f282cf7dd784833e857365c4c463bf62fe3af9b3ab3acce594cc4cd89"
+  "record_sha256": "317e9eddb9f693f011da4d30ac67480749eba1bd6c2f189a7cc1727486df498b"
 }

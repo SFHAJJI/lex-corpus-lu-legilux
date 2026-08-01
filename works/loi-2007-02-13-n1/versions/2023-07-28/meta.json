@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 28/07/2023 : Loi du 13 f\u00E9vrier 2007 relative aux fonds d\u0027investissement sp\u00E9cialis\u00E9s et portant\\n - modification de la loi modifi\u00E9e du 20 d\u00E9cembre 2002 relative aux organismes de placement collectif,\\n - modification de la loi modifi\u00E9e du 12 f\u00E9vrier 1979 concernant la taxe sur la valeur ajout\u00E9e.",
       "title_short": "Loi du 13 f\u00E9vrier 2007 relative aux fonds d\u0027investissement sp\u00E9cialis\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a6364c32e6696c05e18df69fe11d9f48d56012fe2c0ec6782c8b0c7936575b21",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/02/13/n1/consolide/20230728/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2400607ceaacb2925a4432f59af7599867d13744aa450c941295078fa330f5d8"
+  "record_sha256": "0d3875fa165aa0071a5c61ea00569eb4f8a0269b81f60869399498e042b18f50"
 }

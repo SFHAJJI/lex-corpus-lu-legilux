@@ -21,15 +21,22 @@
       "title": "Version rectifi\u00E9e applicable au 01/01/2023 : Loi du 23 d\u00E9cembre 2022 relative \u00E0 la qualit\u00E9 des eaux destin\u00E9es \u00E0 la consommation humaine et modifiant la loi modifi\u00E9e du 19 d\u00E9cembre 2008 relative \u00E0 l\u2019eau.",
       "title_short": "Loi du 23 d\u00E9cembre 2022 relative \u00E0 la qualit\u00E9 des eaux destin\u00E9es \u00E0 la consommation humaine.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a704/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "32939edc544753275646a6d63fcdf3903974665e7c4bd8b10d0b820587125ac1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a704/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a704/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b5761bab9212965647de3c67e10020f09883d550abcfc2933258a25d08bb51ba"
+  "record_sha256": "29c31b965cb5856da46655e3a444e9a2faebe2d7f1fef5fed31b18bc08154b6d"
 }

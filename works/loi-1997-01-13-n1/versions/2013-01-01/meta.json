@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2013 : Loi du 13 janvier 1997 relative au contr\u00F4le de l\u2019utilisation et de la diss\u00E9mination des organismes g\u00E9n\u00E9tiquement modifi\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20130101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9b19d7259e759f483cb6327c578a95e00972abfbedd2fa3d8f0812c8e3f7718c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20130101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1997/01/13/n1/consolide/20130101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4df4b6149ebd07d5dedb378ee7be83aff8becec41f97afc8ed815895ba770b57"
+  "record_sha256": "4306d9fbcaa244a515af520a5a6f390676dcaa5db81aefffd6b9d4c82ff8896d"
 }

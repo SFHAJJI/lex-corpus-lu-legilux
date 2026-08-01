@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : R\u00E8glement grand-ducal du 28 juillet 2000 fixant le r\u00E9gime des indemnit\u00E9s des employ\u00E9s occup\u00E9s dans les administrations et services de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/28/n5/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e84668fe193a74b9a2970ed053dc45e65b8e3ded36c3a4b2f13e9c94a239f50e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/28/n5/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/28/n5/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "79a7f2ca894a3eab2e5a569ff36a410a0a5ba2d78ffa0e0097baaa9cb496e1ea"
+  "record_sha256": "e9b454df0d14b727f538c7bc0aaf01d30757a153f2a337a45580623935921b81"
 }

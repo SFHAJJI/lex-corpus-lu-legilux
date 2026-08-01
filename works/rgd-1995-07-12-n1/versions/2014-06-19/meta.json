@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/12/2013 : R\u00E8glement grand-ducal du 12 juillet 1995 relatif aux g\u00E9n\u00E9rateurs d\u0027a\u00E9rosols.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1995/07/12/n1/consolide/20140619/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6363f06072dab9f8e4e34379ddde96103eb820073ba823806e9b118d76292e65",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1995/07/12/n1/consolide/20140619/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1995/07/12/n1/consolide/20140619/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f377cbf43bfa2b5ea3d4bd3b2072911f19b9436f5f74f3dc536a450368b53736"
+  "record_sha256": "2f803606a3b6a797995b32eee0787147a0cb021aaa180ac7aef16c191329161c"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2021 : Loi du 10 juillet 2020 portant prorogation de la d\u00E9rogation aux dispositions des articles 3, 6, 7 et 9 de la loi du 1er ao\u00FBt 2019 concernant les mutuelles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20210701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "87bc1d6ae452dd8286691c1d3ad8df4fb6f3c3139eef9e910f9d9f562d7ce40c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20210701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/10/a580/consolide/20210701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cff301e435e977f502aa9600573ff177558f0ea0a52aac2ada06adc4d4770352"
+  "record_sha256": "ff14f1adc53d34a766738ac068bf090c91b6a6efb88c17aeab0a966a5c4cf31f"
 }

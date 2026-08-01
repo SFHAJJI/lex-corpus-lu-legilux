@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/03/2010 : R\u00E8glement grand-ducal du 15 octobre 1992 concernant le mode d\u0027\u00E9lection des repr\u00E9sentants du personnel salari\u00E9 au conseil d\u0027administration de l\u0027Entreprise des Postes et T\u00E9l\u00E9communications et l\u0027exercice de ses fonctions.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20100314/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5d228f613686614eb0eba1392d67d72c37c0fc0095c8363f9b7a00a65839bf6d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20100314/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20100314/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "991bf2981f70332f08814534a094ae3640718d3b9cae6c316d08f7e8aba5bd9d"
+  "record_sha256": "866b419e8f7953b3031102679b29506849104fbb6277dfa826410c373acb4f57"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/11/2018 : R\u00E8glement grand-ducal du 3 d\u00E9cembre 2015 relatif \u00E0 l\u0027infrastructure publique li\u00E9e \u00E0 la mobilit\u00E9 \u00E9lectrique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/03/n2/consolide/20181123/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "99402afb8c386248b9e991bbd3ada98959950c18a611e248d9332b403252cd6c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/03/n2/consolide/20181123/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/03/n2/consolide/20181123/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d68fed3a09a14c806572bfd77578c69cfc7d7df38d0d81c0e015b6ac4165a5d3"
+  "record_sha256": "21b23988c150a7da01d5fd36a7b023fec24ac9038b6c5f278e2944348f95e5dd"
 }

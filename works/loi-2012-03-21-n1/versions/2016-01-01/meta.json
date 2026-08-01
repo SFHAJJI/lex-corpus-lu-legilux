@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2016 : Loi du 21 mars 2012 relative \u00E0 la gestion des d\u00E9chets, et modifiant 1. la loi du 31 mai 1999 portant institution d\u0027un fonds pour la protection de l\u0027environnement; 2. la loi du 25 mars 2005 relative au fonctionnement et au financement de l\u0027action SuperDrecksK\u00EBscht; 3. la loi du 19 d\u00E9cembre 2008 a) relative aux piles et accumulateurs ainsi qu\u0027aux d\u00E9chets de piles et d\u0027accumulateurs b) modifiant la loi modifi\u00E9e du 17 juin 1994 relative \u00E0 la pr\u00E9vention et \u00E0 la gestion des d\u00E9chets; 4. la loi du 24 mai 2011 relative aux services dans le march\u00E9 int\u00E9rieur.",
       "title_short": "Loi du 21 mars 2012 relative aux d\u00E9chets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20160101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7726f58767873c76044065a0716e0d6629c04c9898d99c8856c9daa9d3fb6311",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20160101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2012/03/21/n1/consolide/20160101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0ec092155afc6c71ab9c0cba5892b0a125c6a3cf780c2686af2c367c2a0a9973"
+  "record_sha256": "7e5b6a989f6f0e2ea188d253ab00f511c6ef4df0f0f23f07db90991a1eb74c78"
 }

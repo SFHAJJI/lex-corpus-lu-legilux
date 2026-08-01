@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2021 : Loi du 11 mai 2007 relative \u00E0 la cr\u00E9ation d\u0027une soci\u00E9t\u00E9 de gestion de patrimoine familial (SPF).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/05/11/n1/consolide/20210701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fd20470313f4528ed903056b6d0ba5b35da13612d8bcce69ebeceb9d3750b417",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/05/11/n1/consolide/20210701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/05/11/n1/consolide/20210701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5a7ef7c12268f48de74b86ce70a3bcf64d378ff32d22bd3dc520477693a9e31e"
+  "record_sha256": "7c41235d9d6293882934514f4848c00cacbacd39342b89b665e58fe2d4e74a45"
 }

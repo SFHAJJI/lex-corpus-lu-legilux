@@ -1,0 +1,2695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#1868A0220A">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="1868-10-17" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/ME"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo/lb"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="1868-10-17" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/LTZ"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/jo/lb/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="1868-10-17" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+			</identification>
+		</meta>
+		<preface>
+			<longTitle>
+				<p scl:align="center" scl:space-after="40">Konsolidéiert Versioun, applicabel ab dem 01/07/2023 : </p>
+				<p scl:align="center" scl:space-after="40">Verfassung<br/>
+					<br/>vum<br/>
+					<br/>Grand-Duché vu Lëtzebuerg</p>
+			</longTitle>
+		</preface>
+		<body>
+			<chapter id="chapter_1">
+				<num>
+					<b>Kapitel I.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>De Staat, säin Territoire a seng Awunner</i>
+				</heading>
+				<section id="section_1">
+					<num>
+						<b>Sektioun 1.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>De Staat, seng politesch Form an d’Souveränitéit</i>
+					</heading>
+					<article id="art_1">
+						<num>
+							<b>Art. 1.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duché vu Lëtzebuerg ass en demokrateschen, fräien, onofhängegen an ondeelbare Staat.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_2">
+						<num>
+							<b>Art. 2.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duché vu Lëtzebuerg funktionéiert no de Reegele vun enger parlamentarescher Demokratie. D’Staatsform ass déi vun enger constitutionneller Monarchie.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Staat berout op de Prinzippie vum Rechtsstaat an op dem Respekt vun de Mënscherechter.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_3">
+						<num>
+							<b>Art. 3.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Souveränitéit läit bei der Natioun, vun där d’Staatsgewalten ausginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_4">
+						<num>
+							<b>Art. 4.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Sprooch vum Grand-Duché vu Lëtzebuerg ass Lëtzebuergesch. D’Gesetz reegelt d’Benotzung vun der lëtzebuergescher, der franséischer an der däitscher Sprooch.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Nationalsymbol ass den dräifaarwege Fändel Rout-Wäiss-Blo.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz definéiert d’Staatswopen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>D’Nationalhymn ass „Ons Heemecht“.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_5">
+						<num>
+							<b>Art. 5.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duché vu Lëtzebuerg bedeelegt sech un der europäescher Integratioun.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Den Exercice vu Staatsgewalte kann un d’Europäesch Unioun an un international Institutiounen iwwerdroe ginn duerch e Gesetz, dat no de Konditioune vum Artikel 131, Alinea 2 vun der Verfassung ugeholl gëtt.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_2">
+					<num>
+						<b>Sektioun 2.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>Den Territoire</i>
+					</heading>
+					<article id="art_6">
+						<num>
+							<b>Art. 6.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Keen Territoire kann ofgetrueden, getosch oder derbäigesat ginn, ausser opgrond vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_7">
+						<num>
+							<b>Art. 7.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Grenzen an d’Haaptuertschafte vun de Kantonen, de Gemengen an de Geriichtsarrondissementer gi vum Gesetz festgeluecht.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_8">
+						<num>
+							<b>Art. 8.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Stad Lëtzebuerg ass d’Haaptstad vum Grand-Duché vu Lëtzebuerg an de Sëtz vun de constitutionnellen Institutiounen.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapter_2">
+				<num>
+					<b>Kapitel II.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>D’Rechter an d’Fräiheeten</i>
+				</heading>
+				<section id="section_2_1">
+					<num>
+						<b>Sektioun 1.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Nationalitéit an d’politesch Rechter</i>
+					</heading>
+					<article id="art_9">
+						<num>
+							<b>Art. 9.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Gesetz leet fest, wéi een d’lëtzebuergesch Nationalitéit kritt, behält a verléiert.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_10">
+						<num>
+							<b>Art. 10.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Lëtzebuerger hu sämtlech politesch Rechter, déi si no de Konditioune vun der Verfassung an de Gesetzer ausüben.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Ënner Ausschloss vum Artikel 64 kann d’Gesetz Netlëtzebuerger d’Ausübe vu politesche Rechter accordéieren.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_11">
+						<num>
+							<b>Art. 11.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Gesetz reegelt den Zougang zu den ëffentlechen Aarbechtsplazen. Ëffentlech Aarbechtsplazen, bei deenen een direkt oder indirekt un dem Exercice vun der Staatsgewalt an u Funktiounen deelhëlt, déi dorop ausgeriicht sinn, d’allgemeng Interessie vum Staat ze schützen, kënne vum Gesetz de Lëtzebuerger virbehale ginn.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_2_2">
+					<num>
+						<b>Sektioun 2.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Grondrechter</i>
+					</heading>
+					<article id="art_12">
+						<num>
+							<b>Art. 12.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Mënschewürd ass onverletzlech.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_13">
+						<num>
+							<b>Art. 13.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>All Persoun huet d’Recht op hir kierperlech a geeschteg Integritéit.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Keen däerf gefoltert oder onmënschlechen an erniddregende Strofen oder Behandlungen ausgesat ginn.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>D’Doudesstrof kann net agefouert ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_14">
+						<num>
+							<b>Art. 14.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Persoun huet d’Recht op Meenungsfräiheet, Gewëssensfräiheet a Reliounsfräiheet.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_2_3">
+					<num>
+						<b>Sektioun 3.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’ëffentlech Fräiheeten</i>
+					</heading>
+					<article id="art_15">
+						<num>
+							<b>Art. 15.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Lëtzebuerger si virum Gesetz gläich.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>D’Gesetz kann eng ënnerschiddlech Behandlung virgesinn, déi op enger objektiver Differenz baséiert an déi rationell gerechtfäerdegt, adequat a proportional zu hirem Zil ass.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Et dierf kee wéinst senger Situatioun oder senge perséinlechen Ëmstänn diskriminéiert ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Fraen a Männer sinn an hire Rechter a Flichte gläich.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>De Staat setzt sech aktiv fir d’Eliminatioun vun den Hindernisser an, déi am Beräich vun der Gläichheet tëschent Fraen a Männer kënne bestoen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>All Persoun huet d’Recht, eng Famill ze grënnen.</p>
+									<p>All Persoun huet d’Recht op de Respekt vun hirem Familljeliewen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(5)</num>
+							<alinea>
+								<content>
+									<p>An all Entscheedung, déi e Kand betrëfft, huet säin Interessi Virrang.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Jiddwer Kand kann zu all Fro, déi et betrëfft, seng Meenung fräi äusseren. Seng Meenung gëtt jee no Alter an Urteelsfäegkeet a Betruecht gezunn.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Jiddwer Kand huet d’Recht op de Schutz, op d’Moossnamen an op d’Fleeg, déi fir säi Wuelbefannen a seng Entwécklung néideg sinn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(6)</num>
+							<alinea>
+								<content>
+									<p>Jiddwer handicapéiert Persoun huet d’Recht, op déi selwecht Aart a Weis all Rechter ze genéissen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_16">
+						<num>
+							<b>Art. 16.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Netlëtzebuerger, dee sech um Territoire vum Grand-Duché befënnt, genéisst de Schutz, deen de Persounen an de Saachen accordéiert gëtt, ënner Virbehalt vun den Ausnamen, déi d’Gesetz virgesäit.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_17">
+						<num>
+							<b>Art. 17.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’perséinlech Fräiheet ass garantéiert.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Keen dierf strofverfollegt, festgeholl oder senger Fräiheet entzu ginn, ausser an de Fäll an an der Form, déi d’Gesetz virgesäit.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Ausser wann een op frëscher Dot ertappt gëtt, dierf een nëmmen opgrond vun enger begrënnter riichterlecher Entscheedung festgeholl ginn, déi bei der Festnam oder spéitstens véieranzwanzeg Stonnen dono zougestallt gëtt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>All Persoun, déi enger Strofdot beschëllegt gëtt, gëllt als onschëlleg, bis hir Schold dem Gesetz no bewisen ass.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>All Persoun muss direkt iwwer d’Grënn vun hirer Festnam oder hirem Fräiheetsentzuch, iwwer d’Uschëllegunge géint si an iwwer d’gesetzlech Recoursen informéiert ginn, déi hir opstinn, fir hir Fräiheet zeréckzekréien.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_18">
+						<num>
+							<b>Art. 18.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Persoun huet d’Recht, datt hire Fall virun deem Geriicht, dat d’Gesetz virgesäit, gehéiert gëtt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Kee ka géint säi Wëllen dem Riichter, deen d’Gesetz him zouweist, entzu ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_19">
+						<num>
+							<b>Art. 19.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Strofe kënnen nëmmen opgrond vun engem Gesetz festgeluecht an applizéiert ginn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Et dierf kee fir eng Dot oder eng Ënnerloossung verurteelt ginn, déi zum Zäitpunkt, zu deem se begaange ginn ass, keng gesetzlech Strofdot war.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Et dierf keen zu enger méi héijer Strof verurteelt gi wéi där, déi applicabel war zum Zäitpunkt, zu deem d’Strofdot begaange gouf.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_20">
+						<num>
+							<b>Art. 20.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Persoun huet d’Recht op de Respekt vun hirem Privatliewen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_21">
+						<num>
+							<b>Art. 21.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Wunneng ass onverletzlech. En Hausbesuch kann nëmmen an de Fäll an an de Formen, déi vum Gesetz virgesi sinn, duerchgefouert ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_22">
+						<num>
+							<b>Art. 22.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>En Eed kann nëmmen opgrond vun engem Gesetz imposéiert ginn, dat och seng Formel festleet.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_23">
+						<num>
+							<b>Art. 23.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Meenungsfräiheet an d’Pressefräiheet si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheeten begaange ginn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Et dierf keng Zensur agefouert ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_24">
+						<num>
+							<b>Art. 24.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Fräiheet, fir seng philosophesch oder reliéis Iwwerzeegungen auszedrécken, an d’Fräiheet, fir enger Relioun bäizetrieden oder net bäizetrieden, si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.</p>
+								<p>D’Reliounsfräiheet an hiert Ausübe si garantéiert, ofgesi vun de Strofdoten, déi am Zesummenhang mam Ausübe vun dëse Fräiheete begaange ginn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Kee ka gezwonge ginn, op iergend eng Aart a Weis un den Handlungen an Zeremonië vun enger Relioun deelzehuelen oder hir Roudeeg anzehalen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_25">
+						<num>
+							<b>Art. 25.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Persoun huet d’Recht, sech friddlech, am Respekt vum Gesetz, ze versammelen. Nëmme fir Versammlungen, déi dobaussen, op enger Plaz, déi ëffentlech zougänglech ass, stattfannen, kann eng prealabel Autorisatiounsflicht virgesi ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_26">
+						<num>
+							<b>Art. 26.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Vereenegungsfräiheet ass garantéiert. Wéi se ausgeüübt gëtt, gëtt vum Gesetz gereegelt, dat dofir keng prealabel Autorisatiounsflicht aféieren dierf.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_27">
+						<num>
+							<b>Art. 27.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’politesch Parteien droen derzou bäi, de Wëlle vum Vollek ze forméieren an dem allgemenge Walrecht Ausdrock ze ginn. Si drécken den demokratesche Pluralismus aus.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_28">
+						<num>
+							<b>Art. 28.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Fräiheete vun de Gewerkschafte si garantéiert.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Gesetz reegelt d’Ausübe vum Streikrecht.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_29">
+						<num>
+							<b>Art. 29.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Persoun kann Demanden, déi vun enger oder méi Persounen ënnerschriwwe goufen, un d’ëffentlech Autoritéiten adresséieren.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’ëffentlech Autoritéite si verflicht, bannent engem räsonabelen Delai op d’schrëftlech Ufroe vun den Demandeuren ze äntweren.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_30">
+						<num>
+							<b>Art. 30.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Persoun huet d’Recht op d’Onverletzlechkeet vun hire Kommunikatiounen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dëst Recht dierf net ageschränkt ginn, ausser an de Fäll, ënnert de Konditiounen a mat de Kontrollen, déi vum Gesetz virgesi sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_31">
+						<num>
+							<b>Art. 31.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Jiddereen huet d’Recht op Selbstbestëmmung, wat d’Informatiounen ugeet, an op de Schutz vu senge perséinlechen Daten. Dës Daten dierfen nëmmen zu den Zwecker an ënnert de Konditiounen, déi vum Gesetz festgeluecht sinn, traitéiert ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_32">
+						<num>
+							<b>Art. 32.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Recht op Asyl ass garantéiert ënnert de Konditiounen, déi d’Gesetz virgesäit.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_33">
+						<num>
+							<b>Art. 33.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>All Persoun huet d’Recht op Bildung.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>De Staat organiséiert den Enseignement a garantéiert den Zougang derzou.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>D’Dauer vun der Schoulflicht gëtt vum Gesetz festgeluecht.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Den ëffentlechen Enseignement am Fondamental an am Secondaire ass gratis.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Fräiheet vum Enseignement gëtt ausgeüübt am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>D’staatlech Interventioun am privaten Enseignement gëtt vum Gesetz gereegelt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>All Persoun ass fräi, zu Lëtzebuerg oder am Ausland ze studéieren an ze wielen, wéi eng Universitéite si besicht. D’Konditioune vun der Unerkennung vun den Diplomer gi vum Gesetz bestëmmt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_34">
+						<num>
+							<b>Art. 34.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Sozialversécherung, de Schutz vun der Gesondheet an d’Rechter vun de Leit op der Aarbecht ginn, wat d’Prinzippien ugeet, vum Gesetz gereegelt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_35">
+						<num>
+							<b>Art. 35.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Fräiheet vun Handel an Industrie an d’fräit Ausübe vu liberale Professiounen a vun der landwirtschaftlecher Aktivitéit si garantéiert, ënner Virbehalt vun de Restriktiounen, déi d’Gesetz festleet.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_36">
+						<num>
+							<b>Art. 36.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Kengem ka säi Besëtz ewechgeholl ginn, ausser am allgemengen Notzen a géint eng fair Indemnisatioun, an de Fäll an op d’Aart a Weis, déi vum Gesetz festgeluecht sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_37">
+						<num>
+							<b>Art. 37.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Restriktioun vum Exercice vun de Grondrechter muss vum Gesetz virgesi sinn an hire weesentlechen Inhalt respektéieren. Am Respekt vum Prinzip vun der Proportionalitéit si Restriktiounen nëmme méiglech, wa si an enger demokratescher Gesellschaft néideg sinn an effektiv den allgemengen Interessi oder de Schutz vun aneren hire Rechter a Fräiheeten zum Zil hunn.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_2_4">
+					<num>
+						<b>Sektioun 4.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>Staatsziler mat Verfassungsrang</i>
+					</heading>
+					<article id="art_38">
+						<num>
+							<b>Art. 38.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staat garantéiert d’Recht op Aarbecht a këmmert sech drëm, dass et ausgeüübt ka ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_39">
+						<num>
+							<b>Art. 39.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staat fërdert de Sozialdialog.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_40">
+						<num>
+							<b>Art. 40.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staat suergt derfir, datt jidderee mënschewierdeg ka liewen an eng gëeegent Wunneng huet.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_41">
+						<num>
+							<b>Art. 41.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staat garantéiert de Schutz vun der mënschlecher a natierlecher Ëmwelt, andeems e sech fir en dauerhaft Gläichgewiicht asetzt tëschent dem Erhalt vun der Natur, virun allem hirer Kapazitéit, sech ze erneieren, an dem Erhalt vun der Biodiversitéit, an der Satisfaktioun vun de Besoine vun den haitegen an den nächste Generatiounen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Staat verflicht sech, de Klimawandel ze bekämpfen a sech fir d’Klimaneutralitéit anzesetzen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Hien erkennt un, dass d’Déieren netmënschlech Liewewiese sinn, déi eng Sensibilitéit hunn, a suergt dofir, dass hiert Wuelbefanne geschützt gëtt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_42">
+						<num>
+							<b>Art. 42.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staat garantéiert den Zougang zur Kultur an d’Recht op kulturell Selbstverwierklechung.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Staat fërdert de Schutz vum kulturelle Patrimoine.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_43">
+						<num>
+							<b>Art. 43.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staat fërdert d’Fräiheet vun der wëssenschaftlecher Fuerschung am Respekt vun de Wäerter vun enger demokratescher Gesellschaft, déi op de Grondrechter an den ëffentleche Fräiheeten opgebaut ass.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapter_3">
+				<num>
+					<b>Kapitel III.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>De Grand-Duc</i>
+				</heading>
+				<section id="section_3_1">
+					<num>
+						<b>Sektioun 1.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Funktioun vum Staatschef</i>
+					</heading>
+					<article id="art_44">
+						<num>
+							<b>Art. 44.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc ass de Staatschef.</p>
+									<p>Hie representéiert de Staat. Hien ass d’Symbol vun der nationaler Eenheet an Onofhängegkeet.</p>
+									<p>Seng Persoun ass onverletzlech.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc huet nëmmen déi Attributiounen, déi d’Verfassung an d’Gesetzer him iwwerdroen.</p>
+									<p>Hien exercéiert zesumme mat der Regierung d’Exekutivgewalt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Dem Grand-Duc seng Bestëmmunge musse vun engem Member vun der Regierung, deen d’Verantwortung derfir iwwerhëlt, géigegezeechent ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_45">
+						<num>
+							<b>Art. 45.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc hëlt d’Reglementer an d’Arrêtéen, déi fir d’Vollstreckung vun de Gesetzer néideg sinn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kann de Grand-Duc Reglementer an Arrêtéen nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung huelen, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Hien hëlt d’Reglementer, déi néideg sinn, fir d’Rechtsakte vun der europäescher Unioun ze applizéieren.</p>
+									<p>An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen opgrond vun enger besonnescher gesetzlecher Bestëmmung geholl ginn, déi d’Zil vun de Vollstreckungsmoossnamen an eventuell d’Konditiounen, deene si ënnerleien, festleet. Geméiss de Konditiounen, déi d’Gesetz festleet, kënnen dës Reglementer vu besteeënde Gesetzesbestëmmungen ofwäichen oder se ersetzen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_46">
+						<num>
+							<b>Art. 46.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc schléisst d’Traitéen a kënnegt se. D’Traitéen – ausser, een Traité enthält eng spezifesch Klausel dozou – an hir Kënnegung wierken eréischt, nodeems si vun engem Gesetz autoriséiert goufen. Si gi publizéiert an de Formen, déi fir d’Publikatioun vun de Gesetzer virgesi sinn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Grand-Duc mécht d’Reglementer an d’Arrêtéen, déi fir d’Ausféierung vun den Traitéen néideg sinn, an de Formen, déi d’Ausféierungsmoossname vun de Gesetzer reegelen, a mat der Wierkung, déi dës Moossnamen hunn, ouni Schued fir d’Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_47">
+						<num>
+							<b>Art. 47.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Am Ausübe vun der Muecht, déi den Artikel 45, Paragraf 1 an 3, Alinea 1 an den Artikel 46, Alinea 2 vun der Verfassung him ginn, kann de Grand-Duc an de Fäll, déi hie festleet, d’Membere vu senger Regierung beoptragen, Ausféierungsbestëmmungen ze huelen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_48">
+						<num>
+							<b>Art. 48.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Am Fall vun enger internationaler Kris, vu reelle Menacë fir d’vital Interessie vun der ganzer Populatioun oder engem Deel dovun oder vun enger imminenter Gefor wéinst schwéiere Beanträchtegunge vun der ëffentlecher Sécherheet kann de Grand-Duc an alle Beräicher per Reglement Moossnamen ergräifen, nodeems hien d’Drénglechkeet vun der Situatioun festgestallt huet, déi doraus resultéiert, dass et der Chamber onméiglech ass, matzäit ze legiferéieren.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dës Moossname kënne vu Gesetzer, déi existéieren, ofwäichen. Si mussen néideg, adequat a proportional zum Zil, dat verfollegt gëtt, a konform mat der Verfassung an den internationalen Traitéë sinn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Verlängerung vum Krisenzoustand iwwer zéng Deeg eraus kann nëmmen duerch een oder méi Gesetzer entscheet ginn, déi d’Dauer dovu festleeën, woubäi d’Verlängerung eng maximal Dauer vun dräi Méint net iwwerschreiden dierf. Dës Gesetzer gi mat enger qualifizéierter Majoritéit vun zwee Drëttel vun de Stëmme vun den Deputéierte gestëmmt. D’Ofstëmmung iwwer Procuratioun ass dobäi net erlaabt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>All Reglementer, déi opgrond vun dëser Bestëmmung geholl ginn, verléieren hir Wierkung spéitstens, wann de Krisenzoustand eriwwer ass.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Chamber ka wärend dem Krisenzoustand net opgeléist ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_49">
+						<num>
+							<b>Art. 49.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc promulgéiert d’Gesetzer bannent dräi Méint, nodeems se vun der Chamber ugeholl goufen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_50">
+						<num>
+							<b>Art. 50.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc ernennt a Konformitéit mam Gesetz fir ëffentlech Aarbechtsplazen, ausser, d’Gesetz gesäit dat anescht vir.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Eng vum Staat bezuelten Aarbechtsplaz kann nëmmen opgrond vun engem Gesetz geschafe ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>De Statut vun de Staatsbeamte gëtt vum Gesetz festgeluecht.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_51">
+						<num>
+							<b>Art. 51.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc huet d’Recht, d’Strofen, déi vun de Geriichter gesprach goufen, an de Konditiounen, déi d’Gesetz festleet, opzehiewen oder erofzesetzen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_52">
+						<num>
+							<b>Art. 52.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc huet d’Recht, Adelstitelen un d’Membere vun der groussherzoglecher Famill ze verginn, ouni awer jeemools Privileegien domat ze verbannen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_53">
+						<num>
+							<b>Art. 53.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc dréit den Titel vum Kommandant vun der Arméi. Dëse Kommando gëtt ënner der Verantwortung vun der Regierung ausgeüübt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc iwwergëtt zivil a militäresch Uerden am Respekt vum Gesetz.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_54">
+						<num>
+							<b>Art. 54.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc, de fréiere Staatschef, den Ierfgroussherzog, de Regent an de Lieutenant-Representant kréien eng järlech Dotatioun aus dem Staatsbudget. D’Elementer an de Montant dovunner gi vum Gesetz festgeluecht.</p>
+								<p>De Grand-Duc definéiert an organiséiert seng Verwaltung, déi d’Rechtsperséinlechkeet huet, a berécksiichtegt dobäi den ëffentlechen Interessi.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_55">
+						<num>
+							<b>Art. 55.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De groussherzogleche Palais an der Stad Lëtzebuerg an d’Schlass Bierg sinn dem Grand-Duc als Residenz virbehalen.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_3_2">
+					<num>
+						<b>Sektioun 2.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’constitutionnell Monarchie</i>
+					</heading>
+					<article id="art_56">
+						<num>
+							<b>Art. 56.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Funktioun vum Staatschef ass verierflech ënnert den direkte Nokomme vu Senger Kinneklecher Altesse Adolphe, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, an der Reiefolleg vun der Éischtgebuert an no der Reegel vun der Vertriedung. Nëmme Kanner, déi an engem Bestietnis gebuer goufen, kënnen d’Nofolleg untrieden.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Persoun, déi zur Nofolleg berechtegt ass, kann dorop verzichten. Dëse Verzicht huet d’Form vun engem schrëftlechen Akt, deen net ka widderruff ginn an deem seng Konsequenzen nëmmen den Auteur betreffen.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Wann aussergewéinlech Ëmstänn dat verlaangen, kann d’Chamber eng oder méi Persounen duerch e Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, vun der Trounfolleg ausschléissen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Wann et keen Nofollger gëtt, versammelt sech d’Chamber spéitstens drësseg Deeg nom Doud oder der Ofdankung vum Grand-Duc, fir en neie Staatschef ze designéieren. D’Entscheedung gëtt mat der qualifizéierter Majoritéit ugeholl.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>Dem Grand-Duc seng Ofdankung muss d’Form vun engem schrëftlechen Akt hunn, deen net ka widderruff ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_57">
+						<num>
+							<b>Art. 57.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Grand-Duc ass Staatschef vun deem Moment un, wou hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Den Eed gëtt spéitstens den zéngten Dag nom Doud, der Ofdankung oder der Designatioun vum Grand-Duc ënnert de Konditioune vum Artikel 56, Paragraf 3 ofgeluecht.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>De Refus, den Eed ofzeleeën, bedeit de Verzicht op d’Funktioun vu Staatschef.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_58">
+						<num>
+							<b>Art. 58.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc ka sech vun enger Persoun vertriede loossen, déi d’Konditioune vum Artikel 56, Paragraf 1 erfëllt an déi den Titel „Lieutenant-Representant vum Grand-Duc“ dréit.</p>
+								<p>De Lieutenant-Representant vum Grand-Duc iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_59">
+						<num>
+							<b>Art. 59.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Wa beim Grand-Duc sengem Doud oder um Datum vu senger Ofdankung säin Nofollger mannerjäreg ass, versammelt sech d’Chamber bannent zéng Deeg, fir d’Regence op Propositioun vun der Regierung ze reegelen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Wann et dem Grand-Duc onméiglech ass, seng constitutionnell Attributiounen zäitweileg ze erfëllen oder den Eed ofzeleeën, deen den Artikel 57 virgesäit, informéiert d’Regierung d’Chamber doriwwer. D’Chamber versammelt sech bannent zéng Deeg, fir dës Onméiglechkeet festzestellen an eng Regence anzesetzen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Regence kann nëmmen enger eenzeler Persoun uvertraut ginn, déi groussjäreg muss sinn an zum Persounekrees, deen am Artikel 56, Paragraf 1 genannt gëtt, gehéiere muss.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Regent iwwerhëlt seng Funktioun eréischt, nodeems hie virun der Chamber de follgenden Eed ofgeluecht huet: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng constitutionnell Attributiounen trei ze erfëllen.“</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Regence hält op, wann den Nofollger groussjäreg gëtt oder wann déi zäitweilleg Onméiglechkett vum Grand-Duc, seng constitutionnell Attributiounen ze erfëllen, eriwwer ass.</p>
+								<p>D’Regierung informéiert d’Chamber doriwwer, déi bannent zéng Deeg zesummekënnt, fir der Regence en Enn ze setzen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_60">
+						<num>
+							<b>Art. 60.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Wann de Grand-Duc seng constitutionnell Attributiounen net erfëllt, entscheet d’Chamber, op Ufro vun der Regierung an nodeems den Avis vum Staatsrot gehéiert gouf, mat der qualifizéierter Majoritéit, datt een dovun ausgoe muss, datt de Grand-Duc ofgedankt huet.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_61">
+						<num>
+							<b>Art. 61.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Vum Grand-Duc sengem Doud, senger Ofdankung oder der Feststellung un, datt et him net méiglech ass, seng constitutionnell Attributiounen ze erfëllen, bis datt säin Nofollger den Eed ofleet, gëtt d’Funktioun vu Staatschef vun der Regierung ausgeüübt. Dat ass och de Fall, wann de Regent stierft oder demissionéiert.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapter_4">
+				<num>
+					<b>Kapitel IV.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>D’Chamber vun den Deputéierten</i>
+				</heading>
+				<section id="section_4_1">
+					<num>
+						<b>Sektioun 1.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Vertriedung vum Land</i>
+					</heading>
+					<article id="art_62">
+						<num>
+							<b>Art. 62.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber vertrëtt d’Land. Si exercéiert d’legislativ Gewalt. Si kontrolléiert d’Aktioun vun der Regierung.</p>
+								<p>D’Deputéiert stëmmen ouni Récksproch mat hiren Optraggeber of an dierfen nëmmen d’Allgemengwuel a Betruecht zéien.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_63">
+						<num>
+							<b>Art. 63.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Chamber besteet aus siechzeg Deputéierten.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Deputéiert gi fir fënnef Joer gewielt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Wal ass direkt. D’Deputéiert ginn opgrond vum allgemenge Walrecht, op Lëschten, no de Reegele vun der proportionaler Vertriedung an nom Prinzip vum klengste Walquotient gewielt.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>D’Wal ass obligatoresch a geheim. Hir Modalitéite gi vum Gesetz gereegelt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>D’Land ass a véier Walbezierker agedeelt:</p>
+									<ol scl:start="1" scl:symbol="1°">
+										<li>de Süde mat de Kantonen Esch-Uelzecht a Capellen;</li>
+										<li>den Zentrum mat de Kantone Lëtzebuerg a Miersch;</li>
+										<li>den Norde mat de Kantonen Dikrech, Réiden, Wolz, Clierf a Veianen;</li>
+										<li>den Oste mat de Kantone Gréiwemaacher, Réimech an Iechternach.</li>
+									</ol>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>E Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, leet d’Zuel vun den Deputéierte fest, déi an all Bezierk gewielt ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_64">
+						<num>
+							<b>Art. 64.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>Fir wielen ze kënnen, muss ee Lëtzebuerger an uechtzéng Joer al sinn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Fir kënne gewielt ze ginn, muss een ausserdeem säi Wunnsëtz am Grand-Duché vu Lëtzebuerg hunn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>An de Fäll, déi d’Gesetz virgesäit, kënnen d’Geriichter de Verloscht vum aktiven a vum passive Walrecht ausspriechen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_65">
+						<num>
+							<b>Art. 65.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Mandat vum Deputéierten ass onvereenbar mat de Funktioune vum Regierungsmember a vum Member vum Staatsrot.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Déi selwecht Onvereenbarkeet gëllt fir ëffentlech Aarbechtsplazen a Funktiounen, déi vun engem Gesetz, dat mat der qualifizéierter Majoritéit ugeholl gëtt, festgeluecht ginn. Si kann op aner politesch Mandater ausgebreet ginn, déi vun engem Gesetz, dat mat der qualifizéiert Majoritéit ugeholl gëtt, festgeluecht ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_66">
+						<num>
+							<b>Art. 66.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>Den Deputéierten, dee vun der Regierung fir eng bezuelten Aarbechtsplaz ernannt gëtt, déi hien akzeptéiert, verléiert direkt säi Sëtz a ka seng Funktioun nëmmen opgrond vun neie Walen nees iwwerhuelen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Den Deputéierten, deen zum Regierungsmember ernannt gëtt, verléiert säi Mandat als Deputéierten. Hie gëtt nees op der Lëscht, op där hie gewielt gouf, als Suppleant an der Reiefolleg vun de Stëmmen, déi hie kritt huet, ageschriwwen.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dat selwecht gëllt fir e Suppleant, deen zum Regierungsmember ernannt gouf a wärend sengem Regierungsmandat op e Mandat als Deputéierten, dat em zoustoung, verzicht huet.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Wann e puer Persounen erëm op d’Lëscht vun de Suppleanten ageschriwwe ginn, geschitt dat an der Reiefolleg vun der Stëmmenunzuel, déi si bei de Wale kritt hunn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Persounen, déi vun enger Incompatibilitéit betraff sinn, kënnen tëschent dem Deputéiertemandat an hirer Plaz oder Aktivitéit wielen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+				</section>
+				<section id="section_4_2">
+					<num>
+						<b>Sektioun 2.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Organisatioun an de Fonctionnement vun der Chamber</i>
+					</heading>
+					<article id="art_67">
+						<num>
+							<b>Art. 67.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Chamber versammelt sech vum Recht hier den drëtten Dënschdeg no de Wale an enger ëffentlecher Sitzung, fir d’Pouvoire vun hire Memberen ze iwwerpréiwen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Chamber ass zoustänneg fir festzestellen, datt ee vun hire Memberen de Statut vum Deputéierte verluer huet, well wärend dem Mandat en Ineligibilitéitsgrond am Sënn vum Artikel 64 oder eng Onvereenbarkeet am Sënn vum Artikel 65 opgetrueden ass.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>E Recours géint dës Entscheedunge ka virum Verfassungsgeriicht agereecht ginn. D’Modalitéite vun dësem Recours gi vum Gesetz gereegelt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>Wa si hir Funktioun untrieden, leeën d’Deputéiert an enger ëffentlecher Sëtzung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(5)</num>
+							<alinea>
+								<content>
+									<p>Mat der ëffentlecher Versammlung vun der Chamber no de Walen, am Sënn vum Paragraf 1, ginn d’Funktioune vun den Deputéierten, déi aus de viregte Walen ervirgaange sinn, zu Enn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_68">
+						<num>
+							<b>Art. 68.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber bestëmmt duerch hiert Reglement d’Aart a Weis, no där si hir Attributiounen ausüübt, souwéi hir materiell a finanziell Organisatioun, dorënner och de Statut vun hire Beamten.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Chamberreglement leet d’Ausféierungsbestëmmunge vun de Gesetzer fest, déi hir Organisatioun betreffen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_69">
+						<num>
+							<b>Art. 69.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber ernennt hire President an hir Vizepresidenten a stellt hire Büro zesummen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_70">
+						<num>
+							<b>Art. 70.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Sëtzunge vun der Chamber sinn ëffentlech, ausser an de Fäll, déi hiert Reglement virgesäit.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_71">
+						<num>
+							<b>Art. 71.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber kann nëmmen Entscheedungen, Resolutiounen a Motiounen unhuelen, wann d’Majoritéit vun den Deputéierte versammelt ass.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>All Entscheedung, all Resolutioun an all Motioun gëtt mat der Majoritéit vun de Stëmmen ugeholl. D’Enthalunge ginn net fir d’Berechnung vun der Majoritéit a Betruecht gezunn. D’Ofstëmmung iwwer Procuratioun ass erlaabt. Keen Deputéierten dierf méi wéi eng Procuratioun kréien.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Decisiounen an d’Resolutiounen, fir déi d’Verfassung d’qualifizéiert Majoritéit verlaangt, musse mat op d’mannst zwee Drëttel vun de Stëmme vun den Deputéierten ugeholl ginn. D’Ofstëmmung iwwer Procuratioun ass an dëse Fäll net erlaabt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_72">
+						<num>
+							<b>Art. 72.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamberreglement leet d’Majoritéitsreegele fir d’Ernennung vu Persounen op Mandater oder Funktiounen fest, fir déi d’Chamber zoustänneg ass.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_73">
+						<num>
+							<b>Art. 73.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Grand-Duc kann nëmme virgezunne Wale fixéieren, wann d’Chamber mat der Majoritéit vun hire Memberen entweeder der Regierung e Vertrauensvote refuséiert oder e Mësstrauensvote géint d’Regierung unhëlt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Wann d’Regierung demissionéiert an d’Chamber mat der absoluter Majoritéit vun hire Memberen den Accord dozou gëtt, fixéiert de Grand-Duc virgezunne Walen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Neiwale gi spéitstens bannent dräi Méint ofgehalen.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Grand-Duc ka keng virgezunne Wale wärend dem Krisenzoustand fixéieren.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_74">
+						<num>
+							<b>Art. 74.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Regierungsmemberen hunn Zougang zu der Chamber a musse gehéiert ginn, wa si dat verlaangen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_75">
+						<num>
+							<b>Art. 75.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Fir d’Missiounen ze erfëllen, déi am Artikel 62 virgesi sinn, kann d’Chamber:</p>
+								<ol scl:start="1" scl:symbol="1°">
+									<li>d’Präsenz vun engem oder méi Membere vun der Regierung verlaangen;</li>
+									<li>Froen an Interpellatiounen un d’Regierung adresséieren, op déi d’Regierung verflicht ass ze äntweren;</li>
+									<li>all méiglech Informatiounen an Dokumenter vun der Regierung verlaangen;</li>
+									<li>e Vertrauens- oder e Mësstrauensvote géintiwwer der Regierung unhuelen.</li>
+								</ol>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Ausübe vun dëse Prerogativë gëtt am Chamberreglement gereegelt.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_4_3">
+					<num>
+						<b>Sektioun 3.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Unhuele vun de Gesetzer</i>
+					</heading>
+					<article id="art_76">
+						<num>
+							<b>Art. 76.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Regierung deposéiert Gesetzesprojete bei der Chamber.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_77">
+						<num>
+							<b>Art. 77.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Deputéierten huet d’Recht, fir der Chamber Gesetzespropositiounen ze ënnerbreeden.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_78">
+						<num>
+							<b>Art. 78.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetzer gi vun der Chamber ugeholl.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Chamber kann d’Gesetzesprojeten an d’Gesetzespropositiounen änneren.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Chamber stëmmt iwwer dat ganzt Gesetz of. Et gëtt ëmmer mam Numm ofgestëmmt.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Wann op d’mannst fënnef Deputéiert dat verlaangen, ka virun der Ofstëmmung iwwer dat ganzt Gesetz eng Ofstëmmung iwwer een oder méi Artikele vum Gesetz gemaach ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>Iwwer all Gesetz gëtt eng zweete Kéier ofgestëmmt, ausser wann d’Chamber mam Accord vum Staatsrot, deen dofir an enger ëffentlecher Sëtzung zësummekënnt, de Contraire entscheet. Et gëtt en Intervalle vu mindestens dräi Méint tëschent den zwou Ofstëmmungen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+				</section>
+				<section id="section_4_4">
+					<num>
+						<b>Sektioun 4.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>Déi aner Attributioune vun der Chamber</i>
+					</heading>
+					<article id="art_79">
+						<num>
+							<b>Art. 79.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Zu de motivéierte Propositiounen, déi op eng Gesetzgebung hinzilen an déi vu mindestens honnertfënnefanzwanzeg Wieler presentéiert ginn a vu mindestens zwielefdausendfënnefhonnert Wieler ënnerstëtzt ginn, hëllt d’Chamber an enger ëffentlecher Sitzung Stellung.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Gesetz reegelt d’Ausübe vun dësem legislativen Initiativrecht.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_80">
+						<num>
+							<b>Art. 80.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber kann decidéieren, e Referendum duerchzeféieren an de Fäll, ënnert de Konditiounen a mat der Wierkung, déi an engem Gesetz festzeleeë sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_81">
+						<num>
+							<b>Art. 81.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber huet d’Recht, Enquêten duerchzeféieren. D’Gesetz reegelt d’Ausübe vun dësem Recht.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Eng Enquêtëkommissioun muss agesat ginn, wa mindestens een Drëttel vun den Deputéierten dat verlaangt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_82">
+						<num>
+							<b>Art. 82.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Chamber hëlt d’Petitiounen entgéint, déi an der Form, déi hiert Reglement virgesäit, u si adresséiert ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_83">
+						<num>
+							<b>Art. 83.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Den Ombudsman gëtt vum Grand-Duc ernannt, op Virschlag vun der Chamber, dee mat der qualifizéierter Majoritéit, déi am Artikel 71, Alinea 3 virgesinn ass, gestëmmt gëtt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Dem Ombudsman seng Kompetenzen, d’Reegele vu sengem Fonctionnement an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_4_5">
+					<num>
+						<b>Sektioun 5.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>De Statut vum Deputéierten</i>
+					</heading>
+					<article id="art_84">
+						<num>
+							<b>Art. 84.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>En Deputéierte ka wéinst de Meenungen an de Votten, déi hien am Ausübe vu senge Funktiounen ausdréckt, weeder zivilrechtlech nach strofrechtlech belaangt ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_85">
+						<num>
+							<b>Art. 85.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Mat Ausnam vun de Fäll, déi am Artikel 84 ernimmt sinn, kënnen d’Deputéiert strofrechtlech verfollegt ginn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Allerdéngs kann en Deputéierten nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet, ausser wann en op frëscher Dot ertappt gëtt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Autorisatioun vun der Chamber ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint en Deputéierte gesprach ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_86">
+						<num>
+							<b>Art. 86.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Deputéiert kréien eng Indemnitéit, där hire Montant an hir Konditioune vum Gesetz festgeluecht ginn.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapter_5">
+				<num>
+					<b>Kapitel V.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>D’Regierung</i>
+				</heading>
+					<article id="art_87">
+						<num>
+							<b>Art. 87.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Regierung dirigéiert d’allgemeng Politik vum Staat.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_88">
+						<num>
+							<b>Art. 88.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Regierung besteet aus engem Premierminister, engem oder méi Vizepremierministeren, Ministeren an eventuell engem oder méi delegéierte Ministeren a Staatssekretären.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Grand-Duc ernennt de Premierminister an déi aner Membere vun der Regierung a beendegt hir Funktiounen.</p>
+								<p>Ier si hir Funktioun untrieden, leeën d’Membere vun der Regierung de follgenden Eed of: „Ech schwieren, d’Verfassung an d’Gesetzer ze respektéieren a meng Funktioun mat Integritéit, Exaktheet an Onparteilechkeet ze erfëllen.“</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_89">
+						<num>
+							<b>Art. 89.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Funktioun vum Regierungsmember ass net vereenbar mat der Funktioun vum Deputéierten, Member vum Staatsrot, Member vun engem Gemengerot an och net mat ëffentlechen Ämter oder enger berufflecher Aktivitéit.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_90">
+						<num>
+							<b>Art. 90.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Membere vun der Regierung exercéieren hir Attributiounen entweeder am Regierungsrot oder eenzel fir déi Ugeleeënheeten, fir déi si zoustänneg sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_91">
+						<num>
+							<b>Art. 91.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Premierminister koordinéiert d’Regierungsgeschäfter a suergt fir en eenheetlecht Virgoe vun der Regierung.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_92">
+						<num>
+							<b>Art. 92.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Regierung leet hir Organisatioun an hire Fonctionnement an engem interne Reglement fest, dat duerch e groussherzoglechen Arrêté approuvéiert gëtt, mat Ausnam vun de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_93">
+						<num>
+							<b>Art. 93.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Premierminister engagéiert d’Verantwortung vun der neier Regierung, wann en der Chamber de Regierungsprogramm presentéiert.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>Am Zesummenhang mat enger Ofstëmmung iwwert e Gesetzesentworf oder mat enger Regierungserklärung kann de Premierminister mam Accord vum Regierungsrot d’Verantwortung vun der Regierung géintiwwer der Chamber engagéieren.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Chamber kann d’Verantwortung vun der Regierung duerch e Mësstrauensvote engagéieren.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>Wann d’Chamber der Regierung hiert Vertraue refuséiert, presentéiert de Premierminister dem Grand-Duc d’Demissioun vun der Regierung.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(5)</num>
+							<alinea>
+								<content>
+									<p>Déi demissionär Regierung dirigéiert weider d’allgemeng Politik vum Staat.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_94">
+						<num>
+							<b>Art. 94.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Regierung an hir Membere si virun der Chamber verantwortlech.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Membere vun der Regierung kënne wéinst Meenungen, déi si am Kader vun hire Funktiounen äusseren, weeder zivil- nach strofrechtlech verantwortlech gemaach ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Membere vun der Regierung si strofrechtlech verantwortlech fir d’Handlungen, déi si am Ausübe vun hirer Funktioun beginn.</p>
+								<p>Nëmmen de Parquet kann eng Poursuite géint e Member vun der Regierung wéinst dësen Handlungen aleeden an dirigéieren, och nom Enn vun deem senger Funktioun.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>Ausser wann en op frëscher Dot ertappt gëtt, kann e Member vun der Regierung nëmme festgeholl ginn, wann d’Chamber am Virfeld hiren Accord dozou ginn huet. Dës Autorisatioun ass net néideg fir d’Vollstreckung vun de Strofen, d’Fräiheetsstrofen abegraff, déi géint e Member vun der Regierung gesprach ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+			</chapter>
+			<chapter id="chapter_6">
+				<num>
+					<b>Kapitel VI.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>De Staatsrot</i>
+				</heading>
+					<article id="art_95">
+						<num>
+							<b>Art. 95.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>De Staatsrot gëtt säin Avis zu de Gesetzesprojeten, de Gesetzespropositiounen an den Ännerungen of, déi dorunner kënne proposéiert ginn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Wann de Staatsrot der Meenung ass, datt e Gesetzesprojet oder eng Gesetzespropositioun Bestëmmungen enthält, déi net konform si mat der Verfassung, mat internationalen Traitéen, bei deenen de Grand-Duché vu Lëtzebuerg Vertragsstaat ass, mat Rechtsakte vun der Europäescher Unioun oder mat den allgemenge Rechtsprinzippien, dann erwäänt hien dat a sengem Avis.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Wann d’Chamber Artikel fir Artikel iwwer e Gesetzesprojet oder eng Gesetzespropositioun ofgestëmmt huet, ouni datt de Staatsrot säin Avis ofginn huet, kann d’Chamber iwwer d’komplett Gesetz ofstëmmen, wa si en Delai vu mindestens dräi Méint anhält, nodeems si de Staatsrot informéiert huet.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ausser an dréngende Fäll, déi an de Limitte vum Gesetz vum Grand-Duc appreciéiert ginn, gëtt de Staatsrot säin Avis iwwer Projete vu Reglementer of, déi fir d’Ausféierung vun de Gesetzer an den internationalen Traitéen a fir d’Applikatioun vun de Rechtsakte vun der Europäescher Unioun ugeholl ginn. Wann hien der Meenung ass, datt de Projet vum Reglement net konform mat de méi héije Rechtsnormen ass, da geet en a sengem Avis dorop an.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Chamber an d’Regierung kënnen dem Staatsrot all aner Froen no deene vum Gesetz festgeluechte Modalitéite virleeën.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_96">
+						<num>
+							<b>Art. 96.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Organisatioun vum Staatsrot an d’Aart a Weis, seng Kompetenzen auszeüben, gi vum Gesetz gereegelt.</p>
+							</content>
+						</alinea>
+					</article>
+			</chapter>
+			<chapter id="chapter_7">
+				<num>
+					<b>Kapitel VII.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>D’Justiz</i>
+				</heading>
+				<section id="section_7_1">
+					<num>
+						<b>Sektioun 1.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Organisatioun vun der Justiz</i>
+					</heading>
+					<article id="art_97">
+						<num>
+							<b>Art. 97.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Justizgewalt gëtt vun de Geriichtshäff an de Geriichter exercéiert.</p>
+								<p>D’Urteeler ginn am Numm vum Grand-Duc vollstreckt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_98">
+						<num>
+							<b>Art. 98.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’uerdentlech Geriichter sinn allgemeng zoustänneg an alle Beräicher, mat Ausnam vun deenen Attributiounen, déi d’Verfassung un aner Geriichter mat enger spezifescher Zoustännegkeet iwwerdréit.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_99">
+						<num>
+							<b>Art. 99.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Verwaltungsgeriichter si fir administrativ a steierlech Streidegkeeten zoustänneg an de Fäll an ënnert de Konditiounen, déi d’Gesetz festleet.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_100">
+						<num>
+							<b>Art. 100.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Organisatioun vun de Geriichter am Beräich vun der Sozialversécherung gëtt vum Gesetz gereegelt.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_101">
+						<num>
+							<b>Art. 101.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Gesetz reegelt d’Organisatioun vun de Geriichter an d’Recoursen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_102">
+						<num>
+							<b>Art. 102.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Geriichter applizéieren d’Gesetzer an d’Reglementer nëmmen esouwäit, ewéi si konform mat de méi héije Rechtsnorme sinn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_103">
+						<num>
+							<b>Art. 103.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Annulatioun vun engem Reglement duerch e Verwaltungsgeriicht huet en absolutte Charakter vun deem Dag un, wou d’Urteel definitiv ass, ausser wann d’Geriicht, dat d’Annulatioun ausgeschwat huet, en aneren Delai ordonéiert.</p>
+								<p>D’Geriicht, dat d’Annulatioun ausschwätzt, leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Reglement hat, kënnen a Fro gestallt ginn.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_7_2">
+					<num>
+						<b>Sektioun 2.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>De Statut vun de Magistraten</i>
+					</heading>
+					<article id="art_104">
+						<num>
+							<b>Art. 104.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Riichtere sinn onofhängeg am Ausübe vun hire riichterleche Funktiounen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>De Parquet exercéiert d’ëffentlech Uklo a fuerdert d’Uwendung vum Gesetz. Am Ausübe vun individuelle Recherchen a Poursuitten ass en onofhängeg; der Regierung hiert Recht, strofpolitesch Direktiven ze ginn, bleift dobäi intakt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_105">
+						<num>
+							<b>Art. 105.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>De Statut vun de Riichteren a vun de Membere vum Parquet gëtt vum Gesetz festgeluecht.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Riichtere kënnen net ofgesat ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz reegelt d’Pensionéierung vun de Riichteren a vun de Membere vum Parquet aus Alters-, Gesondheets- oder Déngschtonfäegkeetsgrënn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_106">
+						<num>
+							<b>Art. 106.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Ier si hir Funktioun untrieden, leeën d’Riichteren an d’Membere vum Parquet den Eed of, deen d’Gesetz virgesäit.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_7_3">
+					<num>
+						<b>Sektioun 3.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>Den nationale Justizrot</i>
+					</heading>
+					<article id="art_107">
+						<num>
+							<b>Art. 107.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Den nationale Justizrot suergt fir de gudde Fonctionnement vun der Justiz am Respekt vun hirer Onofhängegkeet.</p>
+								<p>D’Zesummestellung an d’Organisatioun vum nationale Justizrot gi vum Gesetz festgeluecht. Den nationale Justizrot muss majoritär aus Magistrate bestoen.</p>
+								<p>De Grand-Duc ernennt d’Magistraten, déi vum nationale Justizrot proposéiert ginn, ënnert de Konditiounen, déi d’Gesetz virgesäit.</p>
+								<p>Dem Justizrot seng Attributiounen bei Disziplinarverfare géint Magistrate gi vum Gesetz festgeluecht.</p>
+								<p>Dem nationale Justizrot seng aner Attributioune gi vum Gesetz festgeluecht, dat och d’Ausübungsmodalitéiten dovunner festleet.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_7_4">
+					<num>
+						<b>Sektioun 4.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>De Persounen hir Garantië viru Geriicht</i>
+					</heading>
+					<article id="art_108">
+						<num>
+							<b>Art. 108.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Verhandlunge virun de Geriichter sinn ëffentlech, ausser wann dës Ëffentlechkeet e Risiko fir d’Uerdnung oder d’Sitten duerstellt, woubäi d’Geriicht dëst an esou engem Fall an engem Urteel deklaréiert.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_109">
+						<num>
+							<b>Art. 109.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Urteel ass begrënnt. Et gëtt an enger ëffentlecher Sëtzung gesprach.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_110">
+						<num>
+							<b>Art. 110.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Gesetz garantéiert d’Onparteilechkeet vun de Riichteren, de fairen a loyale Charakter an de raisonnabelen Delai vun de Prozeduren, de Respekt vum Contradictoire an d’Rechter vun der Defense.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_111">
+						<num>
+							<b>Art. 111.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Bestëmmunge vun der Verfassung stinn den Obligatiounen, déi aus dem Statut vum Internationale Strofgeriichtshaff ervirginn, net am Wee.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Sektioun 5. – D’Verfassungsgeriicht</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_7_5">
+					<num>
+						<b>Sektioun 5.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Verfassungsgeriicht</i>
+					</heading>
+					<article id="art_112">
+						<num>
+							<b>Art. 112.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Verfassungsgeriicht entscheet per Arrêt iwwer d’Konformitéit vun de Gesetzer mat der Verfassung.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Verfassungsgeriicht ka prejudiciel no de Modalitéiten, déi d’Gesetz virgesäit, vun all Geriicht saiséiert ginn, fir iwwer d’Verfassungskonformitéit vun de Gesetzer, mat Ausnam vun de Gesetzer, déi Traitéen approuvéieren, ze entscheeden.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Verfassungsgeriicht reegelt d’Kompetenzkonflikter nom Verfaren, dat vum Gesetz bestëmmt gëtt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>Dem Verfassungsgeriicht seng Attributioune kënnen duerch e Gesetz, dat mat enger qualifizéierter Majoritéit vun op mannst zwee Drëttel vun de Stëmme vun de Membere vun der Chamber gestëmmt gëtt, erweidert ginn. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(5)</num>
+							<alinea>
+								<content>
+									<p>D’Verfassungsgeriicht besteet:</p>
+									<ol scl:start="1" scl:symbol="1°">
+										<li>
+											<p>aus néng effektive Memberen:</p>
+											<ol scl:start="1" scl:symbol="a)">
+												<li>dem President vum Ieweschte Geriichtshaff an dem President vum Verwaltungsgeriichtshaff;</li>
+												<li>zwee Riichtere vum Cassatiounshaff a fënnef Magistraten, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;</li>
+											</ol>
+										</li>
+										<li>siwe stellvertriedend Memberen, déi vum Grand-Duc, mat der Zoustëmmung vum Ieweschte Geriichtshaff a vum Verwaltungsgeriichtshaff, ernannt ginn;</li>
+									</ol>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(6)</num>
+							<alinea>
+								<content>
+									<p>D’Verfassungsgeriicht siegéiert an enger Chamber vu fënnef Memberen. Wann d’Verfassungsgeriicht der Meenung ass, dass eng Affär, mat där et saiséiert ass, besonnesch wichteg ass, da siegéiert et als Plenum mat néng Memberen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(7)</num>
+							<alinea>
+								<content>
+									<p>D’Organisatioun vum Verfassungsgeriicht an d’Aart a Weis, wéi et seng Kompetenzen ausüübt, gi vum Gesetz gereegelt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(8)</num>
+							<alinea>
+								<content>
+									<p>Gesetzesbestëmmungen, déi duerch en Urteel vum Verfassungsgeriicht als verfassungswiddereg deklaréiert goufen, verléieren hir juristesch Wierkung den Dag no der gesetzlech virgeschriwwener Verëffentlechung vun dësem Urteel, ausser wann d’Verfassungsgeriicht en aneren Delai ordonéiert huet. D’Verfassungsgeriicht leet d’Konditiounen an d’Limitte fest, an deenen d’Wierkungen, déi d’Bestëmmung hat, kënnen a Fro gestallt ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapter_8">
+				<num>
+					<b>Kapitel VIII.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>Verschidde Bestëmmungen iwwer d’Staatsverwaltung</i>
+				</heading>
+				<section id="section_8_1">
+					<num>
+						<b>Sektioun 1.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>Déi allgemeng Verwaltungsreegelen</i>
+					</heading>
+					<article id="art_113">
+						<num>
+							<b>Art. 113.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Kee Gesetz, kee Reglement a keen allgemenge Verwaltungsarrêté ass obligatoresch, ausser nodeems et an der Form, déi d’Gesetz festleet, verëffentlecht gouf.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_114">
+						<num>
+							<b>Art. 114.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Gesetz leet d’Konditiounen, d’Limitten an d’Modalitéite fest, ënnert deenen de Staat an déi aner ëffentlech-rechtlech juristesch Persoune fir Schied kënnen haftbar gemaach ginn, déi si verursaacht hunn oder déi hir Mandatairen oder Agenten am Ausübe vun hire Funktioune verursaacht hunn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_115">
+						<num>
+							<b>Art. 115.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Organisatioun an d’Attributioune vun der Force publique gi vum Gesetz gereegelt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>All Deklaratioun iwwer de Krichszoustand an all Bedeelegung vun der Force publique un Operatiounen am Ausland erfuerderen d’Autorisatioun vun der Chamber no de Modalitéiten, déi d’Gesetz festleet.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+				<section id="section_8_2">
+					<num>
+						<b>Sektioun 2.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Finanzen</i>
+					</heading>
+					<article id="art_116">
+						<num>
+							<b>Art. 116.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>All staatlech Steier, all Exemptioun oder Reduktioun vun de Steiere gi vum Gesetz festgeluecht.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Steieren zu Gonschte vum Staat ginn all Joer gestëmmt. D’Gesetzer, déi se festleeën, gëllen nëmme fir ee Joer, ausser si ginn erneiert.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Eng Contributioun ka vun de Bierger oder ëffentlechen Ariichtungen nëmmen a Form vun enger Steier zu Gonschte vum Staat oder enger Gemeng verlaangt ginn, ausser, d’Gesetz gesäit formell eng Ausnam vir.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_117">
+						<num>
+							<b>Art. 117.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>All Prêt zu Laaschte vum Staat muss mat der Zoustëmmung vun der Chamber ofgeschloss ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>All Verkaf vu Grondeegentum oder beweegleche Gidder, déi dem Staat gehéieren, muss duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz kann allerdéngs eng Limitt festleeën, ënnert där eng speziell Autorisatioun vun der Chamber net néideg ass.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>All Kaf vu gréisserem Grondeegentum oder gréissere beweegleche Gidder duerch de Staat, all Duerchféierung vun engem groussen Infrastrukturprojet oder enger grousser Konstruktioun zu Gonschte vum Staat an all grousst finanziellt Engagement vum Staat mussen duerch e speziellt Gesetz autoriséiert ginn. En allgemengt Gesetz leet d’Grenzwäerter fest, vun deenen un dës Autorisatioun néideg ass, esouwéi d’Konditiounen an d’Modalitéite fir de Finanzement vun de Virbereedungsaarbechten.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>All Charge, déi de Staatsbudget wärend méi wéi engem Exercice belaascht, muss duerch e speziellt Gesetz festgeluecht ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(5)</num>
+							<alinea>
+								<content>
+									<p>All Pensioun, all Waardegeld an all Gratifikatioun zu Laaschte vum Staat ginn duerch e Gesetz accordéiert.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_118">
+						<num>
+							<b>Art. 118.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Joer arrêtéiert d’Chamber d’Staatskonten duerch e Gesetz a stëmmt de Budget. All Recetten an Depensë vum Staat mussen an de Budget an an d’Konten agedroe ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_119">
+						<num>
+							<b>Art. 119.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>E Rechnungshaff ass zoustänneg fir d’Kontroll vun der Finanzgestioun vun den Organer, Administratiounen a Servicer vum Staat. D’Gesetz kann him aner Missioune fir d’Kontroll vun der Finanzgestioun mat ëffentleche Gelder uvertrauen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>De Rechnungshaff ënnerbreet der Chamber seng Kriticken a Recommandatiounen zu de Staatskonten.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>Dem Rechnungshaff seng Kompetenzen, seng Organisatioun esouwéi d’Modalitéite vu senger Kontroll an d’Relatioune mat der Chamber gi vum Gesetz festgeluecht.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(4)</num>
+							<alinea>
+								<content>
+									<p>D’Membere vum Rechnungshaff gi vum Grand-Duc op Propositioun vun der Chamber ernannt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+				</section>
+				<section id="section_8_3">
+					<num>
+						<b>Sektioun 3.</b>
+					</num>
+					<heading scl:separator="–">
+						<i>D’Relatiounen tëschent dem Staat an de Reliounsgemeinschaften</i>
+					</heading>
+					<article id="art_120">
+						<num>
+							<b>Art. 120.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Kierchen an d’Reliounsgemeinschafte si vum Staat getrennt.</p>
+								<p>D’Gesetz reegelt d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschaften.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>An de Limitten a Formen, déi d’Gesetz festleet, kënne Konventiounen, déi musse vun der Chamber approuvéiert ginn, d’Relatiounen tëschent dem Staat an de Kierchen a Reliounsgemeinschafte preziséieren.</p>
+							</content>
+						</alinea>
+					</article>
+				</section>
+			</chapter>
+			<chapter id="chapter_9">
+				<num>
+					<b>Kapitel IX.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>D’Gemengen</i>
+				</heading>
+					<article id="art_121">
+						<num>
+							<b>Art. 121.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Gemenge sinn autonom Kollektivitéiten op territorialer Basis, déi d’Rechtsperséinlechkeet hunn an duerch hir Organer hir eegen Interessien an hiert eegent Verméige verwalten.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz reegelt d’Zesummesetzung, d’Organisatioun an d’Kompetenze vun de Gemengenorganer.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_122">
+						<num>
+							<b>Art. 122.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>All Gemeng huet e Gemengerot, deen op Basis vum allgemenge Walrecht direkt an duerch Geheimwal gewielt gëtt.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Gemeng gëtt ënnert der Autoritéit vun engem Schäfferot verwalt, deen aus dem Buergermeeschter an de Schäffe besteet. Si ginn innerhalb vun de Membere vum Gemengerot ernannt, an der Form, déi d’Gesetz virgesäit.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_123">
+						<num>
+							<b>Art. 123.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Steieren zu Gonschte vun de Gemenge gi vum Gesetz festgeluecht.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Am Respekt vu senge constitutionnellen a gesetzleche Kompetenze kann de Gemengerot d’Steieren an d’Taxe festleeën, déi néideg sinn, fir den Interessi vun der Gemeng kënnen ze realiséieren. D’Gemengesteieren an -taxe gi vun der Iwwerwaachungsautoritéit approuvéiert.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>De Gemengerot erstellt all Joer de Gemengebudget a schléisst d’Konten of.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Gemengen hunn d’Recht op d’finanziell Ressourcen, fir d’Missiounen ze erfëllen, déi d’Gesetz hinnen uvertraut.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_124">
+						<num>
+							<b>Art. 124.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Ausser an dréngende Fäll hëlt de Gemengerot d’Gemengereglementer.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen d’Gemengereglementer nëmmen op Basis vun enger bestëmmter Gesetzesbestëmmung ugeholl ginn, déi d’Ziler vun den Ausféierungsmoossname an eventuell d’Konditioune festleet, deene si ënnerleien.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>D’Gemengereglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_125">
+						<num>
+							<b>Art. 125.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>Fir d’Redaktioun vun de Persounestandsakten an d’Féiere vun de Registere vun dësen Akte sinn exklusiv d’Gemengenorganer zoustänneg, déi d’Gesetz festleet.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz leet de Statut vun de Gemengebeamte fest.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_126">
+						<num>
+							<b>Art. 126.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Gemeng kann eleng oder mat anere Gemengen ëffentlech Ariichtunge grënnen an de Limitten an op d’Aart a Weis, déi vum Gesetz festgeluecht ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_127">
+						<num>
+							<b>Art. 127.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Gesetz reegelt d’Iwwerwaachung vun der Gemengeverwaltung a leet eng limitéiert Lëscht vun Handlunge vun de Gemengenorganer fest, déi vun der Iwwerwaachungsautoritéit mussen approuvéiert ginn. Et ka virgesinn, dass verschidden Handlunge vun de Gemengenorganer musse vun der Iwwerwaachungsautoritéit approuvéiert ginn an dass se annuléiert oder suspendéiert ginn, wa se illegal sinn oder géint den allgemengen Interessi sinn, ouni Aschränkung vun de Attributioune vun den uerdentleche Geriichter oder de Verwaltungsgeriichter.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>De Regierungsrot kann de Gemengerot am Interessi vun der Verwaltung vun der Gemeng opléisen.</p>
+							</content>
+						</alinea>
+					</article>
+			</chapter>
+			<chapter id="chapter_10">
+				<num>
+					<b>Kapitel X.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>Dem Staat seng Établissement-publicken an d’Beruffsorganer</i>
+				</heading>
+					<article id="art_128">
+						<num>
+							<b>Art. 128.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz kann Établissement-publicke schafen, déi eng eege Rechtsperséinlechkeet hunn an ënnert dem Staat senger Tutelle stinn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz ka Beruffschambere schafen, déi eng eege Rechtsperséinlechkeet hunn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(3)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz ka representativ Organer vun de liberale Beruffer schafen an hinnen d’Rechtsperséinlechkeet ginn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+					<article id="art_129">
+						<num>
+							<b>Art. 129.</b>
+						</num>
+						<paragraph>
+							<num>(1)</num>
+							<alinea>
+								<content>
+									<p>D’Gesetz leet den Objet, d’Organisatioun an d’Kompetenze vun den ëffentlechen Ariichtungen, de Beruffschamberen an den Organer vun de liberale Beruffer fest, déi d’Rechtsperséinlechkeet hunn.</p>
+								</content>
+							</alinea>
+						</paragraph>
+						<paragraph>
+							<num>(2)</num>
+							<alinea>
+								<content>
+									<p>An der Limitt vun hirem Objet kann d’Gesetz hinnen d’Kompetenz ginn, Reglementer ze huelen.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>An de Beräicher, déi duerch d’Verfassung dem Gesetz virbehale sinn, kënnen dës Reglementer nëmmen zu den Zwecker an ënnert de Konditiounen, déi d’Gesetz preziséiert, geholl ginn.</p>
+								</content>
+							</alinea>
+							<alinea>
+								<content>
+									<p>Dës Reglementer musse konform mat de Gesetzer a mat de Reglementer sinn, déi an Applikatioun vum Artikel 45 geholl goufen.</p>
+								</content>
+							</alinea>
+						</paragraph>
+					</article>
+			</chapter>
+			<chapter id="chapter_11">
+				<num>
+					<b>Kapitel XI.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>D’Verfassungsrevisioun</i>
+				</heading>
+					<article id="art_130">
+						<num>
+							<b>Art. 130.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>Keng Bestëmmung vun der Verfassung ka suspendéiert ginn.</p>
+							</content>
+						</alinea>
+					</article>
+					<article id="art_131">
+						<num>
+							<b>Art. 131.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>All Revisioun vun der Verfassung muss vun der Chamber an de selwechten Termen an zwou successiven Ofstëmmungen am Ofstand vu mindestens dräi Méint ugeholl ginn.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Keng Revisioun gëtt ugeholl, wa si net mindestens zwee Drëttel vun de Stëmme vun de Membere vun der Chamber kritt. D’Ofstëmmen iwwer Procuratioun ass dobäi net erlaabt.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Den Text, deen an éischter Lecture vun der Chamber ugeholl ginn ass, gëtt engem Referendum ënnerzunn, deen der Chamber hir zweet Ofstëmmung ersetzt, wa bannent zwee Méint no der éischter Ofstëmmung eng entspriechend Demande gemaach gëtt, entweeder vu méi wéi engem Véierel vun de Membere vun der Chamber oder vu fënnefanzwanzegdausend Wieler, déi op de Wielerlëschte fir d’Parlamentswalen ageschriwwe sinn. D’Revisioun ass nëmmen ugeholl, wa se d’Majoritéit vun de gülteg ausgedréckte Stëmme kritt. D’Gesetz reegelt d’Organisatiounsmodalitéite vum Referendum.</p>
+							</content>
+						</alinea>
+					</article>
+			</chapter>
+			<chapter id="chapter_12">
+				<num>
+					<b>Kapitel XII.</b>
+				</num>
+				<heading scl:separator="–">
+					<i>Iwwergangsbestëmmungen</i>
+				</heading>
+					<article id="art_132">
+						<num>
+							<b>Art. 132.</b>
+						</num>
+						<alinea>
+							<content>
+								<p>D’Bestëmmunge vum Artikel 56 si fir d’éischte Kéier op d’Nokomme vu Senger Kinneklecher Altesse Henri, Grand-Duc vu Lëtzebuerg, Herzog vun Nassau, applicabel.</p>
+							</content>
+						</alinea>
+					</article>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

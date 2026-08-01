@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/03/2004 : R\u00E8glement grand-ducal du 13 avril 1984 d\u00E9terminant les pi\u00E8ces contenues dans le dossier personnel des fonctionnaires de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aea0f48a1bc3636d710a76a042e095476f20f3e60ffa1694b39ad59bc177f566",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/04/13/n11/consolide/20040315/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb4fdcbd912f4724d8f70517a196b712b99cdedc1e3ec634df1acac02741af6c"
+  "record_sha256": "e25b4c04f4075ba16efd97bac4ad4ac5778dc362e80cc4f230e3dc9a95e07e3a"
 }

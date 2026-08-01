@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 15/09/2021 : Loi du 13 juillet 2018 portant cr\u00E9ation d\u2019un lyc\u00E9e \u00E0 Mondorf-les-Bains et modification\\n1. de la loi du 22 juillet 2008 portant cr\u00E9ation d\u2019un lyc\u00E9e \u00E0 Junglinster ;\\n2. de la loi modifi\u00E9e du 13 juin 2013 portant cr\u00E9ation d\u2019un lyc\u00E9e \u00E0 Clervaux et ;\\n3. de la loi modifi\u00E9e du 26 f\u00E9vrier 2016 portant cr\u00E9ation d\u2019une \u00E9cole internationale publique \u00E0 Differdange,\\n4. de la loi du 15 d\u00E9cembre 2017 concernant le budget des recettes et des d\u00E9penses de l\u2019\u00C9tat pour l\u2019exercice 2018.",
       "title_short": "Loi du 13 juillet 2018 portant cr\u00E9ation d\u2019un lyc\u00E9e \u00E0 Mondorf-les-Bains.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/consolide/20210915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d104feee1008839bfd5ca811a135a4521fcfe819ae2217b14a2b86b9573134ef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/consolide/20210915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/13/a652/consolide/20210915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2aee45b90fb96d12cf341f4027922f3aca9b67e5d6e79ff7530a4737ca37b521"
+  "record_sha256": "57d3b026396e95dea85031cb5a4b29de9677e0f64d118ecda68887666b0f58b8"
 }

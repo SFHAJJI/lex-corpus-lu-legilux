@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/06/1967 : Arr\u00EAt\u00E9 grand-ducal du 30 mars 1946 portant institution d\u0027une d\u00E9coration civique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/19670605/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "40a234d69b9840a19fce7e659d4bae8a31e8e2ff85f6ac2107edd762bfa9cc37",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/19670605/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1946/03/30/n9/consolide/19670605/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7a6df5c5401d33764c1046418d858bf9f89ac822ead2ae5ea0e2d81a07d6eaf5"
+  "record_sha256": "7033613ca0505c2c7954a6d9e08eed24cebb1f88448458724248f3a85f915d56"
 }

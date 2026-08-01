@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2017 : R\u00E8glement grand-ducal du 18 d\u00E9cembre 2009 d\u00E9terminant les conditions de reconnaissance des prestataires d\u2019autres Etats membres pour exercer par la voie de la libre prestation de service toutes missions qui sont confi\u00E9es par la loi \u00E0 titre exclusif aux r\u00E9viseurs d\u2019entreprises.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/consolide/20170701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "618416cbe9a4921489ed19cca3abef088b1da9f66d4f9b576ad022edc42729e3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/consolide/20170701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/18/n17/consolide/20170701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b0ef2005ef0dbde631dc0624be6ddbebe2904f9c4ea1127a6da6b215e20906af"
+  "record_sha256": "e5d8c699a0588f22963a0fa9b75daec54e5a64b37f1657d2bb9fe92c8cbe6cc8"
 }

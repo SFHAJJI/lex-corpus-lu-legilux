@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/06/2026 : Loi du 7 ao\u00FBt 2023 portant organisation de l\u2019assistance judiciaire et portant abrogation de l\u2019article 37-1 de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f62ad38a90a774f2eff1938974c6ee195ccfea779388e2a429932ba8f0e8876a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a542/consolide/20260612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "af967de7ce48a1df88f5d23b6ae8196a6ad92a280e1c5e2f938f6fdba3f86b4b"
+  "record_sha256": "595622047618282daa58c7645f7e5c6afdfd871080385d9d53067bc0f2617659"
 }

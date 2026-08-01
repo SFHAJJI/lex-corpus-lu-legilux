@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/2007 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8fc6ad5db0ff81134f0d8a4d19c7f6ef2b88423bbd4750638ac1ae42606d0bee",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20071102/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "893efcd3fcc1390db0e6d67800d69efb900a3d7c96dfaddd8337935c9bb5092e"
+  "record_sha256": "e0c5e455dac3dc7e9b55e4901e61f695889587ca77b5ada95b801ef7a63f3e33"
 }

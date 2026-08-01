@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/04/2024 : Loi du 16 avril 2003 relative \u00E0 l\u2019assurance obligatoire de la responsabilit\u00E9 civile en mati\u00E8re de v\u00E9hicules automoteurs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20240406/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e203ea0c34bb94e0616a78d7b60563fdecbc5b5b02b7bbe7ae20fab8bf694bd3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20240406/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/04/16/n2/consolide/20240406/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3f5563171dd6a6d8b9e5004030c90dc3abf850bb28da26a9f738b6ae93928dd4"
+  "record_sha256": "175be7a5d8116b0137b19a2d31f16f70a4ab76f10cf31930ca59df99843a6593"
 }

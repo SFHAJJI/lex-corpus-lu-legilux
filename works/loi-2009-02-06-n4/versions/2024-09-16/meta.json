@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/09/2024 : Loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20240916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1bb88fdf81494086d0cb734fd3a70574cd6b8ad9b0cc38cdf67c1fb837fb2726",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20240916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/consolide/20240916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8bff95293969d6e1cd5ade2ca19382e9adaa5377a2c8e1466a9988f6d96283ed"
+  "record_sha256": "e9f86e9a9f2e1bd7ee00111ab4ec6ae035b197c0fe6da32e853cc4978910443c"
 }

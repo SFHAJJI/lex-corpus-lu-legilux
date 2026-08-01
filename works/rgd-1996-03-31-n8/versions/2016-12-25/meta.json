@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/12/2016 : R\u00E8glement grand-ducal modifi\u00E9 du 31 mars 1996 portant cr\u00E9ation d\u0027un Comit\u00E9 interminist\u00E9riel de l\u0027\u00E9galit\u00E9 des femmes et des hommes et portant cr\u00E9ation des cellules de comp\u00E9tences en genre dans les minist\u00E8res.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/03/31/n8/consolide/20161225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "25ff3ee9a0aae7df85f26c4fd44a144244bcbb2bba284fb0dedeec00eb73897e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/03/31/n8/consolide/20161225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1996/03/31/n8/consolide/20161225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9a1e4e0d89c3f6b68b228f125b3c2e04b8e05aaea16550ebde97d34fc6b9531a"
+  "record_sha256": "922f63c0fe2710b94a08d043ecb16b7431b5b23f2bf00ddaae7acf32cbf5cc23"
 }

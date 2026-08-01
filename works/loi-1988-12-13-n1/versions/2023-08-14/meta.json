@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/08/2023 : Loi communale du 13 d\u00E9cembre 1988.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20230814/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1ae3b83aeaa63e36e3a709919cae63ef420fa2533757d387863cfdca074f4e4b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20230814/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1988/12/13/n1/consolide/20230814/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bb961e9172232b7c58fd142d85ff39f6937cc5e96bacb2276ee4f2fa9a914f3a"
+  "record_sha256": "86b3f5f8dc6678591bc14d7eaf28e125e57e14c22571d1198766728cdf0fb243"
 }

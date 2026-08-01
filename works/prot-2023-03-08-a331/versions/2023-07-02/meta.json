@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 02/07/2023 : Protocole d\u2019accord sign\u00E9 en ex\u00E9cution des articles 36 et 37 de la convention du 10 juin 2015, conclue entre la F\u00E9d\u00E9ration luxembourgeoise des Laboratoires d\u2019analyses m\u00E9dicales et la Caisse nationale de sant\u00E9, portant fixation de la valeur de la lettre-cl\u00E9 pour les exercices 2023 et 2024 pour les actes et services des laboratoires d\u2019analyses m\u00E9dicales et de biologie clinique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/prot/2023/03/08/a331/consolide/20230702/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7eb02a116e2f277625f9f6d2e2240b8f7c2ad3080b8a31aeec0c37a8bcca29b5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/prot/2023/03/08/a331/consolide/20230702/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/prot/2023/03/08/a331/consolide/20230702/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "133a3aa2998668bf6f81b4b51ca7e5236e75c3dd44487c68325e83d44d3e569d"
+  "record_sha256": "d2ae4d42f7e8c8ea1b433fe99cf45d72c43006deb69d73fb07117261ee65d9d7"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2006 : Loi du 17 juin 1994 concernant les services de sant\u00E9 au travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/consolide/20060901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f2f839113aad46737c118bcc6f03a00d162c4a5c0c19809f0a310f40709d99e0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/consolide/20060901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n2/consolide/20060901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d3a01829cb9adc4d8e99bd18e33e53b9b417fdc73f9b22edc40b7bfb42da462b"
+  "record_sha256": "8fff68900cb6d84fb6aaad8ed79e2f3d8249113c4b1de48abc798d165c9edb0b"
 }

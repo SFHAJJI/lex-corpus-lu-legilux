@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2016 : Loi du 23 juillet 2016 portant modification 1. du Code de la s\u00E9curit\u00E9 sociale; 2. de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu, et abrogeant la loi modifi\u00E9e du 21 d\u00E9cembre 2007 concernant le boni pour enfant.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n2/consolide/20160801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3036c8d1f982a84bcf41d5414472c1050a53195ece4dc8b18f89e704d4680b52",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n2/consolide/20160801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n2/consolide/20160801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cc88a71724f8475760b26b6270988f76332471401ad5c37d250914abbf1ef692"
+  "record_sha256": "263c09b0872f055608b8d9ad5faefffe9ecbe450ed00c5ebcfe2bebd353580a1"
 }

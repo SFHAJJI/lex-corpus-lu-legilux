@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 28 juillet 2000 ayant pour objet la coordination des r\u00E9gimes l\u00E9gaux de pension et modifiant a) le Code des assurances sociales, b) la loi modifi\u00E9e du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat, c) la loi du 3 ao\u00FBt 1998 instituant des r\u00E9gimes de pension sp\u00E9ciaux pour les fonctionnaires de l\u0027Etat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5661f8d83b8b6da0123b9d10b11307e4c67b989d94172d53aaac04d8a5caee7a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/07/28/n2/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "01a78372509427c4f997d91c34009c82d96384763940b6b58598fae66d112594"
+  "record_sha256": "38bb6459a8879fd222890f426dbce83edde1ef828fdaa6aa17b87eb6e889db44"
 }

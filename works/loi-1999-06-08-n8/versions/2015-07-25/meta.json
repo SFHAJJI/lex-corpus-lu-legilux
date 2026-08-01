@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/07/2015 : Loi du 8 juin 1999 relative au Coll\u00E8ge m\u00E9dical.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n8/consolide/20150725/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7cbfff1c5154b3bafa60a1fe90da137c03db313db01ae7a065707e017e21ff5e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n8/consolide/20150725/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/08/n8/consolide/20150725/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b99b4de396a096bb904f481f66232795359fd68da554602132b1e5b1a15b33d6"
+  "record_sha256": "f0ca15ec2a9847521c762df8ad0e8b834d93c2ca03dccbc76632c64082b23732"
 }

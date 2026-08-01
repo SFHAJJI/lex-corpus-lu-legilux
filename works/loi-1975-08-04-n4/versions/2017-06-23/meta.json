@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/06/2017 : Loi du 4 ao\u00FBt 1975 concernant la fabrication et l\u0027importation des m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/consolide/20170623/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c399717a1f4d31cb97f8120aa467147dbe3edacb57184130e2d0d78a7b84c654",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/consolide/20170623/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/08/04/n4/consolide/20170623/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4a8e09e42cbede36d584e59a89ddc8aa9742f6ff85444772c783fac2ed279a90"
+  "record_sha256": "738f2be7ecc7a502ef248e612f32573360e4dcc4f973a21be32e280e24a405bb"
 }

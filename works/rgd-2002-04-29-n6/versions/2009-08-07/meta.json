@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/12/2008 : R\u00E8glement grand-ducal du 29 avril 2002 portant r\u00E9glementation de la police et de la s\u00E9curit\u00E9 sur les cours et plans d\u0027eau.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n6/consolide/20090807/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f844a41256ffb2a6ab108172c36ada3bb3944bf548f8dec8effe5280c61a9ba6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n6/consolide/20090807/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/04/29/n6/consolide/20090807/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8b99dfd781bfcd53701b9bc7581890fca183b4835c1469e393a6f1f9cf6b96f5"
+  "record_sha256": "e1a1c9059940dc71b2bd2bac0d4eac4ac41a575afd9bbf8c824feac339f7040c"
 }

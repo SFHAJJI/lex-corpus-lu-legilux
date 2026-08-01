@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/10/2023 : R\u00E8glement grand-ducal du 28 novembre 2009 portant tarif des frais de justice de toute nature.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b6dd13cb846acd2ea50aa586f16241fe9fd2cbcdc797be964073376e9e3d9f34",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20231009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7d8c21e885767af2681aff8978f05f53e781383c416778db821385cd203a620c"
+  "record_sha256": "d5dca09b76a6844de359e354742150fb7221af72fda3ddbee00f69a0fdba9a70"
 }

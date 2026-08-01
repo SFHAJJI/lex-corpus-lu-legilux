@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/1992 : R\u00E8glement du Gouvernement en conseil du 8 mai 1987 portant allocation d\u0027un suppl\u00E9ment d\u0027indemnit\u00E9 \u00E0 certains employ\u00E9s exer\u00E7ant une profession m\u00E9dicale ou param\u00E9dicale aupr\u00E8s d\u0027une administration ou d\u0027un service de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1987/05/08/n6/consolide/19920915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "38ba16f8ce13fd29497b41993c2ce0173e19d5ca0453cb3853755588d8e276d6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1987/05/08/n6/consolide/19920915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/1987/05/08/n6/consolide/19920915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4f6278658fcc03dc01872c66de716fd3ec7f2f7dd1944b88b432c8c5a2e95e5c"
+  "record_sha256": "956901ca64fdd9c14a8622526144bc89ac39e1204886075678039e777ae0f443"
 }

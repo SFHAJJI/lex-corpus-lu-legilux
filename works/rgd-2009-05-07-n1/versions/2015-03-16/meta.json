@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/03/2015 : R\u00E8glement grand-ducal du 7 mai 2009 fixant les modalit\u00E9s pour l\u2019\u00E9tablissement d\u2019un laissez-passer.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/consolide/20150316/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c2ed5c99969fdea7bb7931c636c9e5bcb7ae31989990a998720681a708db6531",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/consolide/20150316/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/07/n1/consolide/20150316/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "11189e3899baa7f198bc2b6f7a43dd2a1ab8f8c5aceaaa574f5b9d005ef29595"
+  "record_sha256": "1cd9428dccc2741ef9b0c00a40ac3cd54ec28256a428c7ae7f2895991427ac66"
 }

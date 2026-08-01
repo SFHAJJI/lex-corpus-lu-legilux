@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : R\u00E8glement grand-ducal du 25 juillet 2002 portant ex\u00E9cution de l\u2019article 111bis, alin\u00E9a 1er de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6d7d586074d90cffa803abe0d1114aa14a54c5987390450e8d2a3533189c77c3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/25/n1/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a075be2ff4244792749ecc8a4d1ea931e5bedd912e4e5cd7e43faa45bc54bb2e"
+  "record_sha256": "6ab93e80fcb74a10005567e1c2fd4e5fe2ddda4c7a6eb6f9d43658ca114b210a"
 }

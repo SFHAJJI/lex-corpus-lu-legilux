@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/09/2018 : Loi du 6 janvier 1996 sur la coop\u00E9ration au d\u00E9veloppement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20180918/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "26c7f5a65a521e948f3a73decba64c9f0cb8f966738c25614f0b1928111fdcfc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20180918/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20180918/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8289095cbdcd8952e458cb47623cb5f9a133d9c82fb43b73dec90c8e55aa77c6"
+  "record_sha256": "b68937c4847be07516284b2600ab91e75fc51e9ff53221dbb77189d75c45898a"
 }

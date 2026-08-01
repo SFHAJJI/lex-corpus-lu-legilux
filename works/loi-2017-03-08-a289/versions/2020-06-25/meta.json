@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 25/06/2020 : Loi du 8 mars 2017 sur la nationalit\u00E9 luxembourgeoise et portant abrogation de : \\n1. la loi du 23 octobre 2008 sur la nationalit\u00E9 luxembourgeoise ; \\n2. la loi du 7 juin 1989 relative \u00E0 la transposition des noms et pr\u00E9noms des personnes qui acqui\u00E8rent ou recouvrent la nationalit\u00E9 luxembourgeoise.",
       "title_short": "Loi du 8 mars 2017 sur la nationalit\u00E9 luxembourgeoise.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a289/consolide/20200625/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3cacf8bb5fb1b9f3ec73bf707b6a845241d2e95ca7e9515913c6f1de70b5b7a6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a289/consolide/20200625/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/03/08/a289/consolide/20200625/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aafbcf5ff3f020e1af51f30f2679bc8a6f0f001a7acc3c0e750bcd34c1abf5b9"
+  "record_sha256": "aa6c846cdd1981ef657463ccc2e4e47511c3b76c063915bb2cedc84a0c4e3aba"
 }

@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2999-01-01" name=""/>
+<FRBRauthor as="#author" href="#mdda"/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2999-01-01" name=""/>
+<FRBRauthor as="#editor" href="#somebody"/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2999-01-01" name=""/>
+<FRBRauthor as="#editor" href="#somebody"/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis"/>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/AGD</scl:jolux><scl:jolux scl:name="dateDocument">2022-07-22</scl:jolux><scl:jolux scl:name="publicationDate">2022-07-22</scl:jolux><scl:jolux scl:name="responsibilityOf"/><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MS</scl:jolux><scl:jolux scl:name="subjectLevel1"/><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/4218</scl:jolux><scl:jolux scl:name="subjectLevel2"/><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/408</scl:jolux><scl:jolux scl:name="dateEntryInForce">2022-09-01</scl:jolux><scl:jolux scl:name="dateNoLongerInForce">2029-08-31</scl:jolux><scl:jolux scl:name="dateApplicability">2022-09-01</scl:jolux></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 01/09/2022 : Arrêté grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du président de l’Observatoire national de la santé.</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2005/12/09/n1/jo</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2021/03/02/a168/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis"/>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2022-07-22" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2022-09-01" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/adm/rect/2022/07/22/b2953/jo"/>
+<destination href="#art_2"/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/adm/agd/2022/07/22/b2867/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/adm/rect/2022/07/22/b2953/jo" id="rp2" showAs="Arrêté grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du président de l’Observatoire national de la santé - RECTIFICATIF."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="B|2022-08-19|2022-07-22|RECT|2953">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/adm/rect/2022/07/22/b2953/jo">Arrêté grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du président de l’Observatoire national de la santé - RECTIFICATIF.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle style="11">
+<p>Version consolidée applicable au 01/09/2022 : Arrêté grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du président de l’Observatoire national de la santé.</p>
+</longTitle>
+</preface>
+<preamble class="show_in_pdf" style="show_in_pdf">
+<container name="">
+<p scl:space-before="10">Nous Henri, Grand-Duc de Luxembourg, Duc de Nassau,</p>
+<p>Vu la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2005/12/09/n1/jo" id="5aa9e019-9609-40ad-831c-733c1a4d588e" scl:verify="true">loi modifiée du 9 décembre 2005</ref> déterminant les conditions et modalités de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l’État ;</p>
+<p>Vu la <ref href="/eli/etat/leg/loi/2021/03/02/a168/jo" id="89db7c8a-f7ea-4a9e-b3a0-796a8ab01c85" scl:verify="true">loi du 2 mars 2021</ref> portant création d’un Observatoire national de la santé et notamment son article 4 ;</p>
+<p>Sur le rapport de Notre Ministre de la Santé et après délibération du Gouvernement en conseil ;</p>
+</container>
+<formula name="">
+<p>Arrêtons :</p>
+</formula>
+</preamble>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">/art_1er/20220901</scl:jolux>
+<scl:jolux scl:name="isMemberOf"/>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-09-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<alinea>
+<content>
+<p>Sont nommés <b>membres effectifs</b> du Conseil des observateurs de l’Observatoire national de la santé pour une durée de sept ans avec effet au 1<sup>er</sup> septembre 2022 :</p>
+<ul scl:space-item="3" scl:symbol="none">
+<li> <i>en tant qu’expert ayant des compétences en épidémiologie ;</i> <p>Madame Corinne ALBERTI,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en santé publique ;</i> <p>Madame Françoise BERTHET, Directeur adjoint de la Direction de la santé,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences dans l’analyse des systèmes de santé ;</i> <p>Monsieur Kenneth GRECH,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en matière de gestion de registres ;</i> <p>Madame Dionne KRINGOS-PEREIRA MARTINS,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en matière d’études en santé de la population ;</i> <p>Monsieur Arnaud CHIOLERO,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en matière de statistiques en santé ou un biostatisticien ;</i> <p>Madame Laetitia HUIART,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en économie de la santé ;</i> <p>Monsieur Thomas DOMINIQUE, Directeur de l’Inspection générale de la Sécurité sociale,</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en démographie ;</i> <p>Monsieur Serge ALLEGREZZA, Directeur de l’Institut national de la Statistique et des études économiques</p> </li>
+<li> <i>en tant qu’expert ayant des compétences en matière de mesures de résultats rapportés par les patients</i> <p>Monsieur Guy FAGHERAZZI<i>.</i> </p> </li>
+</ul>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">/art_2/20220901</scl:jolux>
+<scl:jolux scl:name="isMemberOf"/>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-09-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>
+<mod class="mod-start" for="#pm1"/>Art. 2.</num>
+<alinea>
+<content>
+<p>Sont nommés <b>membres suppléants</b> du Conseil des observateurs de l’Observatoire national de la santé pour une durée de sept ans avec effet au 1<sup>er</sup> septembre 2022 :</p>
+<table id="table_1" scl:cols="2 98" scl:cols-align="justify" width="100">
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en épidémiologie ;</i>
+</p>
+<p>Monsieur Pedrag DURIC,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en santé publique ;</i>
+</p>
+<p>Madame Karine CHEVREUL,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences dans l’analyse des systèmes de santé ;</i>
+</p>
+<p>Madame Juliane WINCKELMANN,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en matière de gestion de registres ;</i>
+</p>
+<p>Madame Claudine BACKES,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en matière d’études en santé de la population ;</i>
+</p>
+<p>Madame Maria RUIZ-CASTELL,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en matière de statistiques en santé ou un biostatisticien ;</i>
+</p>
+<p>Monsieur Michel VAILLANT,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en économie de la santé ;</i>
+</p>
+<p>Monsieur Marc SUHRCKE,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en démographie ;</i>
+</p>
+<p>Monsieur Louis CHAUVEL,</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<i>en tant qu’expert ayant des compétences en matière de mesures de résultats rapportés par les patients</i>
+</p>
+<p>Monsieur Dorijan MARUSIC.<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">/art_3/20220901</scl:jolux>
+<scl:jolux scl:name="isMemberOf"/>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-09-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<alinea>
+<content>
+<p>Madame Françoise BERTHET est nommée présidente de l’Observatoire national de la santé.</p>
+</content>
+</alinea>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">/art_4/20220901</scl:jolux>
+<scl:jolux scl:name="isMemberOf"/>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2022-09-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<alinea>
+<content>
+<p>Notre ministre ayant la Santé dans ses attributions est chargé de l’exécution du présent arrêté qui sera publié au Journal officiel du Grand-Duché de Luxembourg.</p>
+</content>
+</alinea>
+</article>
+</body>
+<conclusions class="show_in_pdf" style="show_in_pdf">
+<p>
+<signature>
+<shortTitle>La Ministre de la Santé,</shortTitle>
+<person refersTo="">Paulette Lenert</person>
+</signature>
+</p>
+<p>
+<signature>
+<docDate date="2022-10-11">Cabasson, le 22 juillet 2022.</docDate>
+<person refersTo="">Henri</person>
+</signature>
+</p>
+</conclusions>
+</act>
+</akomaNtoso>

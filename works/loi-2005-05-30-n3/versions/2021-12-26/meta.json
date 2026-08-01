@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/12/2021 : Loi du 30 mai 2005 portant:\\n1) organisation de l\u0027Institut Luxembourgeois de R\u00E9gulation;\\n2) modification de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n3/consolide/20211226/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "32480a3f6dcb499224d49578749305cb8b1abc109a80e3e7dc6a64fb067be8f6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n3/consolide/20211226/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/05/30/n3/consolide/20211226/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e074412396bd5e60d24c9c0e918743fe999dabb804b57c4cf5e0e20cd8ae65ff"
+  "record_sha256": "662020f2314465fc59a34287f1ee698ac1565b631017c50c1499f988136da8d1"
 }

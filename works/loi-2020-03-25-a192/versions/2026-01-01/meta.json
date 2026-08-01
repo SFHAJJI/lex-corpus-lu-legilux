@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 25 mars 2020 relative aux dispositifs transfronti\u00E8res devant faire l\u2019objet d\u2019une d\u00E9claration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a192/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4ce11c9874e94a94f720a0d86872ebb3d62ac0daee21344335c621306b093630",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a192/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a192/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f74bbbea572c2d19e5546fb2dbb16a11b83e16d4d0021a9e3852f976fbc508e1"
+  "record_sha256": "8c04741cf960bf7327cf6484cda4007230d1fe9caddbcb40780bb61891bd4fd8"
 }

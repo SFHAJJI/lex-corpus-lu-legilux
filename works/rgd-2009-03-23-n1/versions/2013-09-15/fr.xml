@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#2014A3389A">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MEN"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2014-09-04</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2014-09-04</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2014A3389A</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2009-03-31</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2014-09-07</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal modifié du 23 mars 2009 fixant la tâche des instituteurs de l'enseignement fondamental.</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="titleShort">TEXTE COORDONNE du RGD modifié du 23 mars 2009</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1546</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/61</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo/fr</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal modifié du 23 mars 2009 fixant la tâche des instituteurs de l'enseignement fondamental.</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="titleShort">TEXTE COORDONNE du RGD modifié du 23 mars 2009</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2014/09/04/n12/jo/fr</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="memorialPage">3389</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2014-09-04-n12-jo-fr-xml.xml</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>
+					<ref href="/eli/etat/leg/rgd/2009/03/23/n1">TEXTE COORDONNE du Règlement grand-ducal modifié du 23 mars 2009</ref> fixant la tâche des instituteurs de l'enseignement fondamental, </p>
+				<p>(Mémorial A - 61 du 27 mars 2009, p. 816)</p>
+			</longTitle>
+		</preface>
+		<preamble>
+			<container name="preamble">
+				<p>modifié par:</p>
+			</container>
+			<container name="considerando">
+				<p>Règlement grand-ducal du 27 avril 2009</p>
+				<p>(Mémorial A - 98 du 14 mai 2009, p. 1466)</p>
+				<p>Règlement grand-ducal du 18 avril 2013.</p>
+				<p>(Mémorial A - 77 du 26 avril 2013, p. 943)</p>
+			</container>
+			<formula name="">
+				<p>Texte coordonné</p>
+			</formula>
+		</preamble>
+		<body>
+			<article id="art_1er">
+				<num>Art. 1<sup>er</sup>.</num>
+				<alinea>
+					<content>
+						<p>L'enseignement direct et l'appui pédagogique comprennent la conduite des leçons ou de l'appui pédagogique, la préparation des leçons, respectivement des heures d'appui, la correction des devoirs, la documentation et l'évaluation des progrès des élèves, la surveillance des élèves telle que définie par l'organisation scolaire arrêtée par le conseil communal, ainsi que la participation aux réunions de service.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2">
+				<num>Art. 2.</num>
+				<alinea>
+					<content>
+						<p>Si les conditions locales le permettent et en accord avec le comité d'école et l'inspecteur, des leçons d'enseignement direct peuvent être remplacées par des heures d'appui pédagogique; des heures d'appui pédagogique peuvent être remplacées par des leçons d'enseignement direct.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_3">
+				<num>Art. 3.</num>
+				<alinea>
+					<content>
+						<p>La durée d'une leçon est fixée à 55 minutes. Pour des raisons d'organisation cette durée peut être réduite à 50 minutes sans que toutefois le nombre des leçons d'enseignement à durée réduite ne dépasse les 2/5 de la somme des leçons d'enseignement et des heures d'appui pédagogique.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_4">
+				<num>Art. 4.</num>
+				<alinea>
+					<content>
+						<p>Les heures de travail à assurer dans l'intérêt des élèves et de l'école sont constituées de:</p>
+						<ul>
+							<li>60 heures de concertation au sein de l'équipe pédagogique, avec les équipes multi-professionnelles et les collaborateurs de la maison-relais;</li>
+							<li>40 heures de disponibilité pour le partenariat avec les parents des élèves. Les réunions et les entretiens avec les parents d'élèves sont à fixer à des horaires qui tiennent compte des contraintes des parents exerçant une activité professionnelle;</li>
+							<li>18 heures de travaux administratifs;</li>
+							<li>l'équivalent de 8 heures de formation continue.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_5">
+				<num>Art. 5.</num>
+				<alinea>
+					<content>
+						<p>L'année scolaire est divisée en trois périodes de référence correspondant chacune à un trimestre. La moitié des heures d'appui pédagogique, des heures de concertation et des heures de disponibilité pour le partenariat avec les parents des élèves peuvent être réparties de manière inégale sur les trois périodes de référence selon les besoins des élèves. Les heures excédant la durée prévue et les heures inférieures à la durée prévue de la 1 re et 2 e période peuvent être reportées à la période suivante.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_6">
+				<num>Art. 6.</num>
+				<alinea>
+					<content>
+						<p>Les heures de formation continue peuvent être réparties de manière inégale sur une période de trois années sous réserve que le total des heures de formation continue n'est pas inférieur à 24.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_7">
+				<num>Art. 7.</num>
+				<alinea>
+					<content>
+						<p>À la fin de chaque trimestre, l'instituteur remet le relevé sur les heures d'appui pédagogique et de travail dans l'intérêt des élèves et de l'école prestées au cours de la période de référence écoulée au président qui transmet l'ensemble des relevés des instituteurs de l'école à l'inspecteur.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_8">
+				<num>Art. 8.</num>
+				<alinea>
+					<content>
+						<p>La préparation des leçons d'enseignement et des heures d'appui pédagogique, la correction des devoirs, la documentation et l'évaluation des progrès des élèves, la concertation au sein de l'équipe pédagogique, la disponibilité pour le partenariat avec les parents des élèves, les travaux administratifs, la formation continue ainsi que les activités connexes déterminées à l'article 14 peuvent également être réparties sur les périodes pendant lesquelles les classes chôment.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_9">
+				<num>Art. 9.</num>
+				<alinea>
+					<content>
+						<p>La tâche de l'instituteur des deuxième, troisième et quatrième cycles bénéficiant d'une demi-tâche ou d'un congé pour travail à mi-temps comprend 11 leçons d'enseignement direct et 27 heures d'appui pédagogique.</p>
+						<p>La tâche de l'instituteur du premier cycle bénéficiant d'une demi-tâche ou d'un congé pour travail à mi-temps comprend 12 leçons d'enseignement direct et 27 heures d'appui pédagogique.</p>
+						<p>La tâche de l'instituteur des deuxième, troisième et quatrième cycles assurant un service à temps partiel, correspondant à 75% d'une tâche complète, comprend 17 leçons d'enseignement direct et 40 heures d'appui pédagogique.</p>
+						<p>La tâche de l'instituteur du premier cycle assurant un service à temps partiel, correspondant à 75% d'une tâche complète, comprend 18 leçons d'enseignement direct et 40 heures d'appui pédagogique.</p>
+						<p>Pour tous, le nombre d'heures de concertation et de formation continue est le même que celui des instituteurs assurant un service à temps complet.</p>
+						<p>Le nombre d'heures de disponibilité pour le partenariat avec les parents des élèves et le nombre d'heures de travaux administratifs peut être fixé en concertation avec le ou les instituteurs assurant le service à temps partiel complémentaire à une tâche complète de manière que les totaux des heures de travail correspondent à ceux prévus pour une tâche normale.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_10">
+				<num>Art. 10.</num>
+				<alinea>
+					<content>
+						<p>Les instituteurs de l'enseignement fondamental bénéficient des décharges pour années d'âge suivantes:</p>
+						<ul>
+							<li>après 45 années d'âge: 1 leçon d'enseignement</li>
+							<li>après 50 années d'âge: 2 leçons d'enseignement</li>
+							<li>après 55 années d'âge: 4 leçons d'enseignement.</li>
+						</ul>
+						<p>La décharge est due à partir du premier du mois qui suit celui où le titulaire aura atteint l'âge de 45, 50 ou 55 ans. Si elle est attribuée en cours d'année scolaire elle est créditée sous forme de leçon supplémentaire d'après les modalités définies à l'article 17 jusqu'à la fin de l'année scolaire et prise en compte dans l'organisation scolaire de l'année subséquente.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_11">
+				<num>Art. 11.</num>
+				<alinea>
+					<content>
+						<p>Lorsqu'un instituteur bénéficie d'un congé pour travail à mi-temps, la moitié de la décharge pour années d'âge est mise en compte.</p>
+						<p>Lorsqu'un instituteur assure un service à temps partiel correspondant à 25% d'une tâche complète, la décharge n'est pas accordée.</p>
+						<p>Lorsqu'un instituteur assure un service à temps partiel correspondant à 50% ou 75% d'une tâche complète, la décharge est réduite respectivement à 50% ou à 75% des leçons hebdomadaires à mettre en compte.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_12">
+				<num>Art. 12.</num>
+				<alinea>
+					<content>
+						<p>La tâche de l'instituteur de l'enseignement fondamental peut également comprendre des activités connexes à autoriser par le ministre pour la durée renouvelable d'une année scolaire consistant en: </p>
+						<ol scl:symbol="a)">
+							<li>des activités dans l'intérêt du fonctionnement de l'école non comprises dans les activités définies à l'article 4;</li>
+							<li>des activités dans l'intérêt de l'enseignement en général.</li>
+						</ol>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_13">
+				<num>Art. 13.</num>
+				<alinea>
+					<content>
+						<p>Les activités dans l'intérêt du fonctionnement de l'école non comprises dans les activités définies à l'article 4 peuvent comprendre:</p>
+						<ul>
+							<li>la coordination du cycle;</li>
+							<li>la participation au comité d'école ou au comité de gestion;</li>
+							<li>la présidence du comité d'école;</li>
+							<li>le secrétariat de la Commission d'inclusion scolaire;</li>
+							<li>la gestion et l'animation de la bibliothèque scolaire et de la médiathèque;</li>
+							<li>la gestion du parc informatique;</li>
+							<li>la prestation d'activités périscolaires dans le domaine du sport, de la musique et des arts;</li>
+							<li>la délégation à la sécurité.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_14">
+				<num>Art. 14.</num>
+				<alinea>
+					<content>
+						<p>Les activités dans l'intérêt de l'enseignement en général peuvent comprendre:</p>
+						<ul>
+							<li>la participation à des commissions instituées par le ministre;</li>
+							<li>la fonction d'instituteur-ressource;</li>
+							<li>la participation à l'élaboration du plan d'études, à la définition des socles de compétences et à l'élaboration des programmes afférents;</li>
+							<li>la réalisation d'activités culturelles;</li>
+							<li>l'élaboration de matériel didactique;</li>
+							<li>la participation à des travaux ou des projets de recherche ou d'innovation pédagogiques effectués par un service du ministère de l'Éducation nationale;</li>
+							<li>la formation des stagiaires;</li>
+							<li>la formation des enseignants dans l'institut de formation continue du personnel enseignant et éducatif des écoles et des lycées;</li>
+							<li>le travail dans des organismes oeuvrant pour l'éducation nationale en général;</li>
+							<li>la collaboration à un projet européen;</li>
+							<li>le détachement à une administration ou à un service de l'État, ainsi qu'à un service d'une commune sur la base d'une convention établie entre l'État et la commune respective.</li>
+						</ul>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_15">
+				<num>Art. 15.</num>
+				<alinea>
+					<content>
+						<p>Les activités connexes sont rémunérées soit par indemnités, soit moyennant décharge de la tâche d'enseignement. La somme des décharges qui peuvent être accordées à un enseignant ne peut pas dépasser la tâche normale. Les intitulés et les codes administratifs des différentes décharges sont établis au tableau annexé qui fait partie intégrante du présent règlement.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_16">
+				<num>Art. 16.</num>
+				<alinea>
+					<content>
+						<p>Pour chaque instituteur la tâche est constituée par l'organisation scolaire en fonction des besoins du service et conformément aux dispositions du présent règlement. Les heures de travail à assurer sont réparties de la manière la plus appropriée à leur objectif. La répartition est coordonnée par le coordinateur de cycle.</p>
+						<p>La répartition des heures d'appui pédagogique est coordonnée par le coordinateur de cycle de la manière appropriée à leur objectif.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_17">
+				<num>Art. 17.</num>
+				<alinea>
+					<content>
+						<p>Seul le surplus de travail assuré dans le cadre de la tâche d'enseignement et des activités connexes donne lieu à une rémunération particulière.</p>
+						<p>L'indemnité pour leçons supplémentaires d'enseignement direct se base sur le nombre de leçons supplémentaires effectivement prestées à raison de:</p>
+						<ul>
+							<li>6,52 Euros N.I. 100 par leçon pendant les 12 premières années de service et de</li>
+							<li>8,92 Euros N.I. 100 par leçon après 12 années de service.</li>
+						</ul>
+						<p>Chaque heure prestée dans le cadre de l'appui ou des activités connexes est rémunérée à raison de 4,75 Euros N.I. 100.</p>
+					</content>
+				</alinea>
+			</article>
+			<section id="chapter_1" wId="chapter_1">
+				<heading>Dispositions transitoires</heading>
+				<article id="art_18">
+					<num>Art. 18.</num>
+					<alinea>
+						<content>
+							<p>La tâche de l'instituteur d'enseignement spécial en fonction au moment de l'entrée en vigueur du présent règlement grand-ducal est constituée de 21 leçons d'enseignement direct par semaine, de 54 heures d'appui pédagogique par année ainsi que de 126 heures de travail annuelles à assurer dans l'intérêt des élèves et de l'école.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_19">
+					<num>Art. 19.</num>
+					<alinea>
+						<content>
+							<p>L'instituteur qui au moment de l'entrée en vigueur du présent règlement grand-ducal bénéficie de deux leçons de décharge pour années d'âge bénéficie d'une troisième leçon de décharge pour années d'âge jusqu'au moment où il atteint 55 années d'âge.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_20">
+					<num>Art. 20.</num>
+					<alinea>
+						<content>
+							<p>Les dispositions du présent règlement grand-ducal sont applicables à partir de la rentrée scolaire 2009/2010.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_21">
+					<num>Art. 21.</num>
+					<alinea>
+						<content>
+							<p>Notre Ministre de l'Éducation nationale et de la Formation professionnelle est chargée de l'exécution du présent règlement qui sera publié au Mémorial.</p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

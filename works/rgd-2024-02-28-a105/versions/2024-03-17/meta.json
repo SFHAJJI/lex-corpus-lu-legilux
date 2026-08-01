@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 17/03/2024 : R\u00E8glement grand-ducal du 28 f\u00E9vrier 2024 modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 23 novembre 2017 concernant la commercialisation des mat\u00E9riels de multiplication de plantes fruiti\u00E8res et des plantes fruiti\u00E8res destin\u00E9es \u00E0 la production de fruits.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/28/a105/consolide/20240317/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a033e154bbe5cc373efad49299b516222ce0f13d35c49eb7f83fe08e375f9d3d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/28/a105/consolide/20240317/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/02/28/a105/consolide/20240317/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "13120d58374aab3f57808b1213f2277a753d736ec25f06438b1be82e387587e6"
+  "record_sha256": "0c0b84eb568777adf5bcf10f5f91acf4340c90f856c553dfb7f6cc246260d6bf"
 }

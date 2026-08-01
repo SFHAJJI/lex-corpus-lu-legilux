@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/03/2024 : Loi du 3 ao\u00FBt 1998 instituant des r\u00E9gimes de pension sp\u00E9ciaux pour les fonctionnaires de l\u0027Etat et des communes ainsi que pour les agents de la Soci\u00E9t\u00E9 nationale des Chemins de Fer luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n10/consolide/20240309/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b9a91ba588360b79a022c748273eb9ad279106576c7e2cf3777465f89f000c3d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n10/consolide/20240309/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/03/n10/consolide/20240309/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9f33a656fdf776c3b9b3a53e2baeb78398b595caad13b15812ccec7460cdbfe7"
+  "record_sha256": "d544152daffce9d8ff7b7be35d746a8fc56989c4a2b486cc1208452d7df82618"
 }

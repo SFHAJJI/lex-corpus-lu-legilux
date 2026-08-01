@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/03/2017 : R\u00E8glement grand-ducal du 31 juillet 2015 fixant la proc\u00E9dure \u00E0 suivre pour obtenir l\u0027autorisation d\u0027exercer la profession de psychoth\u00E9rapeute.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/07/31/n1/consolide/20170310/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a7e197d5cc71f5f6e6737d1bde768750f7f1ecc393848a449c2339abb81ee7f8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/07/31/n1/consolide/20170310/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/07/31/n1/consolide/20170310/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fe193da0d33cc254b5dce2a46d0e58a80f9c978e9bf447314aa26dff2c869590"
+  "record_sha256": "0ca979cad479c8f3629577766fc981a4e80d584cb1eae488c974bd7e939867ef"
 }

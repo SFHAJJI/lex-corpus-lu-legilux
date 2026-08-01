@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2009 : Loi du 18 avril 2001 sur les droits d\u2019auteur, les droits voisins et les bases de donn\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20090601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "52b7184059ea8b48a9d6772802d9922441b66deeb116df3e17675d4af172b0ea",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20090601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2001/04/18/n2/consolide/20090601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b8442c038fcb6d2e093d2ae9c3a3af623732d8e6dadcabd4e579237a0296afbb"
+  "record_sha256": "2efedc644fe2737971208f4a76b800c4f3d0beae7fb570fe3f5e3ee98a8c3733"
 }

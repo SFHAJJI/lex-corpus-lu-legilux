@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : Loi du 29 mars 2013 portant transposition de la directive 2011/16/UE du Conseil du 15 f\u00E9vrier 2011 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE et portant \\n1. modification de la loi g\u00E9n\u00E9rale des imp\u00F4ts; \\n2. abrogation de la loi modifi\u00E9e du 15 mars 1979 concernant l\u2019assistance administrative internationale en mati\u00E8re d\u2019imp\u00F4ts directs.",
       "title_short": "Loi du 29 mars 2013 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n2/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4a0d305830082b3e3b19cb623a55187b00accb864bbe4df5e5bbd2dbcb42d979",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n2/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/03/29/n2/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "04642e99d175552d12f9ebe3d731365b91ddf4cbd898121c41f02e33013e4d2c"
+  "record_sha256": "60fe3998b114c9e25cfc783504756eda38829ddccacb20adcb6756583bf8e4a4"
 }

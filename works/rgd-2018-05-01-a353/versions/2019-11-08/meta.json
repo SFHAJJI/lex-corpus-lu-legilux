@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/11/2019 : R\u00E8glement grand-ducal du 1er mai 2018 portant tarification des prestations du Bureau luxembourgeois de m\u00E9trologie en mati\u00E8re de m\u00E9trologie l\u00E9gale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/01/a353/consolide/20191108/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9f21f77dfb34a90f00ae4e277891733b7c4d6ca538624d06d1b52c9c2fa78eb9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/01/a353/consolide/20191108/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/01/a353/consolide/20191108/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "68baab3b6b206004218e15893e4d2e63306b4dd87920dfd03f9104c0cbafd939"
+  "record_sha256": "1f3f821a45ff0a827c936256245f5831efe7655b8d5aee3439380f1a1b7f639e"
 }

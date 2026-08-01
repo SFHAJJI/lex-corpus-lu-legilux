@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/12/2025 : R\u00E8glement grand-ducal du 25 janvier 2019 d\u00E9terminant les exigences et les normes auxquelles doivent r\u00E9pondre les services hospitaliers d\u2019urgence des h\u00F4pitaux et le service hospitalier national d\u2019urgence p\u00E9diatrique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/01/25/a53/consolide/20251231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fa38e5b3d69e10b2420cd3e94b49e1fd02fbc426fd3b19d3d51caf52647f48e8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/01/25/a53/consolide/20251231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/01/25/a53/consolide/20251231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dfe56ec50c4de824005d181b8c01b305ddfb7ce7e3f3c62fc8e222d8bef37bb0"
+  "record_sha256": "b4db68cf05e862e4fed5c99dc085a32f584f188410680c24d0327c0dec4cf4b8"
 }

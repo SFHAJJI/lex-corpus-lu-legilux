@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/01/2025 : Loi du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de soci\u00E9t\u00E9 d\u0027\u00E9pargne-pension \u00E0 capital variable (sepcav) et d\u0027association d\u0027\u00E9pargne-pension (assep) et portant modification de l\u0027article 167, alin\u00E9a 1 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/13/n3/consolide/20250117/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2664a29bd98493ff31c07d2fbf65f02199b7fe5dcb4fe932b3b5bbcc2bb22b52",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/13/n3/consolide/20250117/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/07/13/n3/consolide/20250117/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "513bd8c3b1854c1ba9866178ac97bc932b3ffd59470a69882593ea898c84b860"
+  "record_sha256": "8886bfd85108e97fe3200463c94558408d670ab6fdf7e7eadef58ca989ea38b0"
 }

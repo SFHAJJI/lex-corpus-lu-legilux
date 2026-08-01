@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/09/2021 : R\u00E8glement grand-ducal du 24 ao\u00FBt 2016 concernant le statut du personnel du Centre commun de la s\u00E9curit\u00E9 sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n4/consolide/20210911/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "aa59eba237a0dbf9c0ec8c62001f2faf8ff8c91f49be5fb5e121eaddff0c0eb0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n4/consolide/20210911/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n4/consolide/20210911/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "08f66bec85e95533672560950a18351da52314b20d4f1e86e55893595bec8b3d"
+  "record_sha256": "4ef9a6d2175927850127b1bccd8193b9739d76b1e977c8f1cf9b050215a66591"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/07/2023 : Loi du 23 d\u00E9cembre 2022 instituant une contribution \u00E9tatique visant \u00E0 limiter la hausse des prix des granul\u00E9s de bois pour le chauffage primaire des m\u00E9nages priv\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a671/consolide/20230724/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "04765302dcdc140a5352328b698bfd42ba1cbca1ed2c964e4123ffbbf8b418de",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a671/consolide/20230724/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/12/23/a671/consolide/20230724/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "887ce22b8328adc3947795625142457be2612b155bbcd5568d51f4c23adcac34"
+  "record_sha256": "bb588a70411c5dbe907d16629c64aab6b55842e601324b28b4cb464e793b5e36"
 }

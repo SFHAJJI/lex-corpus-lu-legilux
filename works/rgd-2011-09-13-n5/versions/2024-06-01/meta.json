@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2024 : R\u00E8glement grand-ducal du 13 septembre 2011 concernant la proc\u00E9dure particuli\u00E8re \u00E0 suivre pour certains \u00E9tablissements class\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/13/n5/consolide/20240601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef67453407f13f0b89d036114173114543efe4e59996c2e653b48c64ff3c6381",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/13/n5/consolide/20240601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/13/n5/consolide/20240601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "98fe7531a40012d8c36b6053aeea945b6eee60f70c8daeb719c58463ebd13dbb"
+  "record_sha256": "df195810bab1ec5b647e954fdd0613301288b3458ecb3832c2f001df37787126"
 }

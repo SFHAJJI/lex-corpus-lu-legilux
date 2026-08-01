@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2020 : R\u00E8glement grand-ducal du 20 juin 2020 relatif \u00E0 la dur\u00E9e de l\u2019interdiction et la port\u00E9e des exceptions pr\u00E9vues par l\u2019article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives \u00E0 l\u2019application de la loi modifi\u00E9e du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "524f7a1cf04889b1341548f34bd1a9e67b1dd3b46f0229c5e8cd518edc13fcd5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "da4f6b88084babdbbd1fb13bd3509fe2d95ffc1fb41d27ce7064d971de45b050"
+  "record_sha256": "9e7cbd6afbc1467e14e56e7d8fe057193fbb51556c01b03354ec6c35a3c02090"
 }

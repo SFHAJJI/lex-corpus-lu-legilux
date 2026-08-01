@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 12/02/1990 : Loi du 24 janvier 1990 relative aux actes de naissance des personnes n\u00E9es en d\u00E9portation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n2/consolide/19900212/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6222ad4580d6ebc223183e218f0e1b3d79a954937d9ff0b1398198ad91f429d4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n2/consolide/19900212/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/24/n2/consolide/19900212/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "83f60af135d084eed3427e5291a2392a7289d24d7b0f5c0afa8e6c93e3b3df9d"
+  "record_sha256": "b522e60125f1f085d41c5687de007039471a41650805b4358c002c1fdbc5636d"
 }

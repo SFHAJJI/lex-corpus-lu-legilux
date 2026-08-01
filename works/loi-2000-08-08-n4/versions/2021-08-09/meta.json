@@ -22,10 +22,17 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/08/2021 : Loi du 8 ao\u00FBt 2000 sur l\u2019entraide judiciaire internationale en mati\u00E8re p\u00E9nale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20210809/en",
-      "observations": [],
+      "observations": [
+        {
+          "file": "en.xml",
+          "sha256": "2b750bb30a64be333b036b760c0713b30d3a6aae28b6eda2e0dfc4465c9049d8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20210809/en",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20210809/en"
       }
     },
@@ -36,15 +43,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/08/2021 : Loi du 8 ao\u00FBt 2000 sur l\u2019entraide judiciaire internationale en mati\u00E8re p\u00E9nale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20210809/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a7bf771dd75fd55febff30461e1bb67b0712ade4cefd8be5998db00104214956",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20210809/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/08/n4/consolide/20210809/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7ac00a0d8cd56e1a5a269cb6665eab8f482c73b56fa0dbe99578936e69ba4af6"
+  "record_sha256": "3fbfab82f26bbdbd923ea0162e95c9b476e415e0d0edd254338018a9f317e75b"
 }

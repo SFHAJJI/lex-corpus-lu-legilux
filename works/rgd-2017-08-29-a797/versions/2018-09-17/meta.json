@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/09/2018 : R\u00E8glement grand-ducal du 29 ao\u00FBt 2017 fixant les modalit\u00E9s d\u2019octroi de la subvention pour m\u00E9nage \u00E0 faible revenu et de la subvention du maintien scolaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a797/consolide/20180917/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3893b7319ebc3cb2f3f944fd9d3499553100c73cee437c2519194924ed3c8c2b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a797/consolide/20180917/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/08/29/a797/consolide/20180917/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5a8ae323c2af19fad74b5f44ff0326f83a734a352da531c33d79858fe1aa2293"
+  "record_sha256": "f105f6b6a38b7d8a4bde9e23ba32888cc6552c12a1100b568a09e47cf7aa1f9f"
 }

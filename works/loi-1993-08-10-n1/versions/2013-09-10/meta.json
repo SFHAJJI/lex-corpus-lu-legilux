@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/09/2013 : Loi du 10 ao\u00FBt 1993 relative aux parcs naturels.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/08/10/n1/consolide/20130910/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6418e9d2b3dfee645d3de48c4771dcaaf32e9408319c5cf5dc738314d9b6696c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/08/10/n1/consolide/20130910/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/08/10/n1/consolide/20130910/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8caea5970fef40e104d59ae79780dc129ff90d17ef3ab78e6c277c0b98d12ead"
+  "record_sha256": "b62d1be6b573d404ab05e1f3c8d1d274f6e8f4cd17404b90e39af068c3f4c48f"
 }

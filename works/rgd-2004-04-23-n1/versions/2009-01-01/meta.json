@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2009 : R\u00E8glement grand-ducal du 23 avril 2004 concernant l\u2019agr\u00E9ment gouvernemental \u00E0 accorder aux gestionnaires de services pour personnes handicap\u00E9es et portant ex\u00E9cution de la loi du 8 septembre 1998 r\u00E9glant les relations entre l\u2019Etat et les organismes oeuvrant dans les domaines social, familial et th\u00E9rapeutique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n1/consolide/20090101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7ec3f720272ecccc6e543ee74e8a953302ce02025edc6daad60c38b4734c55cc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n1/consolide/20090101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/04/23/n1/consolide/20090101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "afa26d7345a6a257385d63b2f196394f9dc53e9fc87ea2549d3ed951cf463930"
+  "record_sha256": "8899d0fe4f16a15568dbef163de3242da0e93e26664c04662c11cb1e55fb9162"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 23 juillet 2016 relative \u00E0 la profession de l\u2019audit portant: - transposition de la directive 2014/56/UE du Parlement europ\u00E9en et du Conseil du 16 avril 2014 modifiant la directive 2006/43/CE concernant les contr\u00F4les l\u00E9gaux des comptes annuels et des comptes consolid\u00E9s; - mise en oeuvre du r\u00E8glement (UE) n\u00B0 537/2014 du Parlement europ\u00E9en et du Conseil du 16 avril 2014 relatif aux exigences sp\u00E9cifiques applicables au contr\u00F4le l\u00E9gal des comptes des entit\u00E9s d\u2019int\u00E9r\u00EAt public et abrogeant la d\u00E9cision 2005/909/CE de la Commission; - modification de la loi modifi\u00E9e du 13 juillet 2005 relative aux institutions de retraite professionnelle sous forme de sepcav et assep; - modification de la loi modifi\u00E9e du 10 ao\u00FBt 1915 concernant les soci\u00E9t\u00E9s commerciales; - abrogation de la loi modifi\u00E9e du 18 d\u00E9cembre 2009 relative \u00E0 la profession de l\u2019audit.",
       "title_short": "Loi du 23 juillet 2016 relative \u00E0 la profession de l\u0027audit.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a5074db98cedabf3dbafcbf23370b728422ab3d10170eaae2a76c3a0ce5b3376",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n8/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dec96e31b50083a804e43fcddd11aedc14a3e19e70ae62fd3cda092a5a040ef2"
+  "record_sha256": "5e005d0d09c552ee21d92c6ca7bb9cbfa65edd4fa92aec2ccfe575799861fe44"
 }

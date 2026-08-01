@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/07/2026 : Loi du 2 septembre 2011 portant r\u00E9organisation de la Chambre des M\u00E9tiers et modifiant la loi du 26 octobre 2010 portant r\u00E9organisation de la Chambre de Commerce.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20260713/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ddecabfa3d43cb63419de4be630038dd71a71e19212fc2bd64d8fe1c91e1d7ca",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20260713/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20260713/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f1805f0e64c0af4482fc5f36f87ee837ad22c8b89ad7aeac3a04b729db88dde7"
+  "record_sha256": "f1d6521bc4dac1d4dcd70b0c37e5b241b0c0dfb636dce5d35aace5379156999c"
 }

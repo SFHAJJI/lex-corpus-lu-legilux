@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 28/12/2015 : Loi du 24 mai 2011 concernant l\u0027exercice de certains droits des actionnaires aux assembl\u00E9es g\u00E9n\u00E9rales de soci\u00E9t\u00E9s cot\u00E9es et portant transposition de la directive 2007/36/CE du Parlement europ\u00E9en et du Conseil du 11 juillet 2007 concernant l\u0027exercice de certains droits des actionnaires de soci\u00E9t\u00E9s cot\u00E9es.",
       "title_short": "Loi du 24 mai 2011 concernant l\u0027exercice de certains droits des actionnaires aux assembl\u00E9es g\u00E9n\u00E9rales des soci\u00E9t\u00E9s cot\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20151228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8028832972a302d27c7b7eaf166778d75cb2d8552da4b990eef235ee1f06df7a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20151228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n2/consolide/20151228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "555cc565a1a4061d49e1587238ac6536cee0d6f4e57cd44ddb7d88f888b367d4"
+  "record_sha256": "8d307f949d3b16e98f6ca6feb60a6fbc291a695cd5d579762ec8e945d31a014e"
 }

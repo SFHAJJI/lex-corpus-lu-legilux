@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2021 : Loi du 19 d\u00E9cembre 2020 portant d\u00E9rogation temporaire \u00E0 l\u2019article L. 121-6 du Code du travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1039/consolide/20210701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "997161ced777c3ac8184fd9e1f504776f0e7ec8ba068983cabcb3fd156d16041",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1039/consolide/20210701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1039/consolide/20210701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e14b40d5b06ed251e7174c57f982be6d09425b616e44ac05ed7120da093e0615"
+  "record_sha256": "f0b0fb93119ccb4fbe2f5986c0265e3a89d053e11bbe3bbb907ded96cb66f056"
 }

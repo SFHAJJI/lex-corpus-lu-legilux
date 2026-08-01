@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/04/1995 : Loi du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19950407/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "21115f5ec1eff6a270e0796ead9a1be39afa869f20405d338498c1ec121eb899",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19950407/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19950407/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "26869b9bc79e9d350795cef979e6913ab9d43fc8cedf726289903c7e636c7f7a"
+  "record_sha256": "66ba787fa42888fbe2dcc4bcafd70d2bbcddbed78ebcd3e899840aef6573ecfc"
 }

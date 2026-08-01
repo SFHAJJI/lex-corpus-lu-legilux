@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/11/2025 : Loi du 23 d\u00E9cembre 2016 sur les ventes en soldes et sur trottoir et la publicit\u00E9 trompeuse et comparative.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20251125/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d8bede358500700ebcb54d60923576468f718eaca7be2ffb6570eda59e90ac57",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20251125/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n1/consolide/20251125/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0f7a0e3379ac26d1db9bb81146f0d227683d8122eaf3d81f8d1b220a77295216"
+  "record_sha256": "193dc8b3557484f4a1ffad66f77a990d68bb5014faf835b5d47b8c91c59f4d07"
 }

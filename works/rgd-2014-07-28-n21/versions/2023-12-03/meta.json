@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/2023 : R\u00E8glement grand-ducal du 28 juillet 2014 \u00E9tablissant la liste des fr\u00E9quences de radiodiffusion luxembourgeoises vis\u00E9e \u00E0 l\u0027article 4 de la loi modifi\u00E9e du 27 juillet 1991 sur les m\u00E9dias \u00E9lectroniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/07/28/n21/consolide/20231203/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "44b43996caf03cdf3d87b89b69cdd34e0fa326f9f619492ee629d5f25437a9a5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/07/28/n21/consolide/20231203/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/07/28/n21/consolide/20231203/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4da5aa235f5070286b2d3e2a38a0c5fc4716050ad80d2a9ab528daeac264b1dc"
+  "record_sha256": "3f0dad92de032cfcaaa6a07ece95fb62444268de352adeb4abd8c3f0a07f1b64"
 }

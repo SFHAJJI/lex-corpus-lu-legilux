@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : R\u00E8glement grand-ducal du 1er mars 2019 portant fixation des indemnit\u00E9s et des jetons de pr\u00E9sence revenant aux membres des conseils d\u2019administration et aux commissaires du Gouvernement des centres de recherche publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1de15430511d06124cc08a4cfdc7e9e4f8d0d2d67de84e2f5af8ee428e55cab4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a116/consolide/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9d5c0ed0888815e65f647d42ff901c6888ee381f64ede3d486b3ae4b1cf51f50"
+  "record_sha256": "c936d5f6bec56e3427b1410ac2aa290ddc9e58df4375ef76c25c6202a70b7989"
 }

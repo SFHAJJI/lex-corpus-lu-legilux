@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Cultes",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "86fb68093ce4a656861ad05fb76e16945cf82f72e44203d9b684bf0996701d5d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/cultes/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "84bac5e61fc5d1ce60cfbb9f6f17d063f5e3f9d04d395723ac2420db1f75dced"
+  "record_sha256": "5de66b5fb0a3894cf0802e0811fe0008bd5e115ddcff7a088d0cb3e8bfeee52f"
 }

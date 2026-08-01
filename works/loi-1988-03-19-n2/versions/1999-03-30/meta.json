@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/03/1999 : Loi du 19 mars 1988 sur la publicit\u00E9 fonci\u00E8re en mati\u00E8re de copropri\u00E9t\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n2/consolide/19990330/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "992833d38380524e53e60c952d61a9395ea33d5f4e2310be672d7b8d9d99779f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n2/consolide/19990330/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n2/consolide/19990330/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "61d61227bb6bdf0e2917b0c10a068de407d07627eabbe48ced4728bd08eae44a"
+  "record_sha256": "0e3a6744f103c6703ab29e7364c2dc288de50e4fac4aa4c864d0dab8b3bce6ac"
 }

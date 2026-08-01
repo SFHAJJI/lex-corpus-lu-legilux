@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/09/2025 : Loi du 27 mai 2022 portant :\\n1\u00B0 organisation de l\u2019enseignement musical dans le secteur communal ;\\n2\u00B0 modification de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat.",
       "title_short": "Loi du 27 mai 2022 portant organisation de l\u2019enseignement musical dans le secteur communal",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/consolide/20250901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a310cf5a706b3f876d02f218596175a6ae838e5ee5d3c9b285b075f19dadf700",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/consolide/20250901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/05/27/a250/consolide/20250901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c12d3fd2300f243f37840a846c8fe6bd08b9e197a45dad0a474e3567579a7f92"
+  "record_sha256": "fafbb72addac2e183d10862d1daebaf5b157fa622a326e7c19da5fa1f90fd363"
 }

@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 30/06/2020 : Loi du 24 juillet 2015 portant approbation1. de l\u0027Accord entre le Gouvernement du Grand-Duch\u00E9 de Luxembourg et le Gouvernement des Etats-Unis d\u0027Am\u00E9rique en vue d\u0027am\u00E9liorer le respect des obligations fiscales \u00E0 l\u0027\u00E9chelle internationale et relatif aux dispositions des Etats-Unis d\u0027Am\u00E9rique concernant l\u0027\u00E9change d\u0027informations commun\u00E9ment appel\u00E9es le \u00ABForeign Account Tax Compliance Act\u00BB, y compris ses deux annexes ainsi que le \u00ABMemorandum of Understanding\u00BB y relatif, sign\u00E9s \u00E0 Luxembourg le 28 mars 20142. de l\u0027\u00E9change de notes y relatives, sign\u00E9es les 31 mars et 1er avril 2015.",
       "title_short": "Loi du 24 juillet 2015 relative \u00E0 FATCA",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/24/n1/consolide/20200630/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "27840dc27db70224460844d1dd170cf0fd0d096bfe62ddc558c71a64510647e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/24/n1/consolide/20200630/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/24/n1/consolide/20200630/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8cf1050a429eb52e1c9480019d472ea475e45bb30da6b098cd60f1ef8144b7cb"
+  "record_sha256": "9cb8d0316d3d7a3de317ab4bc7e3c85b02165603273e6435718524b4473925ae"
 }

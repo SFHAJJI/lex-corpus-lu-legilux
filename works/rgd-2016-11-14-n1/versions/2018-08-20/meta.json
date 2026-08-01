@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/08/2018 : R\u00E8glement grand-ducal du 14 novembre 2016 concernant la protection de la s\u00E9curit\u00E9 et de la sant\u00E9 des salari\u00E9s contre les risques li\u00E9s \u00E0 des agents chimiques sur le lieu de travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20180820/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "36eeeaa80d9531713dd39a8ade76a9c6e9c1726fb0ade585fda99a156b56f1ae",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20180820/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/14/n1/consolide/20180820/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e75b23e9831ed168149ba4e0268e40db59f901445c107e76508a14685d0d1836"
+  "record_sha256": "896da17d7c504da412532530f8eae9bef380cc44f71fb404b37528063a04cd34"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/10/2005 : Loi du 23 d\u00E9cembre 1978 portant fusion des communes de Junglinster et de Rodenbourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n7/consolide/20051009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a09844c388edbf2205a92f083a27cd60a43d1513094ec5e9518ba7089b7614f9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n7/consolide/20051009/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1978/12/23/n7/consolide/20051009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fadfd54dba5e932b78d5011233d9fd902e3b371ac14ae5dc8ca310fc8a402a11"
+  "record_sha256": "ba9e4493e26c66389019800e342f1597216e7d00802b3ddef03092a09852fedd"
 }

@@ -22,15 +22,22 @@
       "title": "Version consolid\u00E9e applicable au 31/12/2023 : Loi du 22 d\u00E9cembre 2023 relative \u00E0 l\u2019imposition minimale effective en vue de la transposition de la directive (UE) 2022/2523 du Conseil du 15 d\u00E9cembre 2022 visant \u00E0 assurer un niveau minimum d\u2019imposition mondial pour les groupes d\u2019entreprises multinationales et les groupes nationaux de grande envergure dans l\u2019Union.",
       "title_short": "Loi du 22 d\u00E9cembre 2023 relative \u00E0 l\u2019imposition minimale effective pour les groupes d\u2019entreprises multinationales et les groupes nationaux de grande envergure.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/12/22/a864/consolide/20231231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "16b8ad66c82a5566f0bf03579a59a24b17ea741cc477d4c71d93ddc555f4ad9d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/12/22/a864/consolide/20231231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/12/22/a864/consolide/20231231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "119cc8ac49f80ff7310fd1d71979339cbee66b38c8dc1f525215c36cd19a81bc"
+  "record_sha256": "c420e52c283aea5bcf8072660b0931ebdec85b70bbf65bb14f9e4665584c5b28"
 }

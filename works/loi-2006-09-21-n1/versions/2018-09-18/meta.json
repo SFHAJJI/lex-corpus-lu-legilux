@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/09/2018 : Loi du 21 septembre 2006 sur le bail \u00E0 usage d\u2019habitation et modifiant certaines dispositions du Code civil.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20180918/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "44c1a375c09c5f17ef7376a30f800231f498a1ca864572ca776d4650254312f3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20180918/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20180918/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "584d97e2f1c8db42a37244749a0ab7c8c981376ac441a83d1e330d4686aeab8a"
+  "record_sha256": "01e40293943028bb0192314abc642d5dfee51e9c1c216ed336f3461389c2351d"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/12/2003 : Loi du 26 juin 1953 concernant la d\u00E9signation des personnes et des biens dans les actes \u00E0 transcrire ou \u00E0 inscrire au bureau des hypoth\u00E8ques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/consolide/20031201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b72a6e0611378f2d9a1c430a1c122ee844fac9f46097a5fbfe10f10d7f2e3835",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/consolide/20031201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1953/06/26/n1/consolide/20031201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4b663e0d4f8a643563254fa9689d4df392a4160d007236ece9faef979931e491"
+  "record_sha256": "83f8438ca2a52b5f627f34f6daced41cc97886b308f1c9a9b5e46f9d3803ad7b"
 }

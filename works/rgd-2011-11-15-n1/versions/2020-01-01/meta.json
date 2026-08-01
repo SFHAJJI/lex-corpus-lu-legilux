@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2020 : R\u00E8glement grand-ducal du 15 novembre 2011 portant d\u00E9termination des modalit\u00E9s de d\u00E9signation des repr\u00E9sentants des \u00E9trangers au Conseil national pour \u00E9trangers, ainsi que leur r\u00E9partition par nationalit\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20200101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "96cd89c364268e21db5a45ae4fb327811f68a980888fa530ab6dfff2f743396f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20200101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20200101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d6261a34d9f71e75540dc736d7160711ba30020dcd9807edab596fb4af346cbd"
+  "record_sha256": "523a406998f2465b5178ebeea8da56961c0c895553f7d0ace2238c15bc50ad6f"
 }

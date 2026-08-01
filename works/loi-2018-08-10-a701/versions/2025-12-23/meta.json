@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 23/12/2025 : Loi du 10 ao\u00FBt 2018 portant organisation de l\u0027Administration de l\u0027enregistrement, des domaines et de la TVA et modifiant \\n1\u00B0 la loi modifi\u00E9e du 22 frimaire an VII organique de l\u0027enregistrement ; \\n2\u00B0 la loi modifi\u00E9e du 28 janvier 1948 tendant \u00E0 assurer la juste et exacte perception des droits d\u0027enregistrement et de succession ; \\n3\u00B0 la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u0027avancement des fonctionnaires de l\u0027\u00C9tat",
       "title_short": "Loi du 10 ao\u00FBt 2018 portant organisation de l\u0027Administration de l\u0027enregistrement, des domaines et de la TVA.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a701/consolide/20251223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "51fda4dacf31b1c82eb1652c8c7b7ec9f53d5031d281ded661f10253d0de2349",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a701/consolide/20251223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/10/a701/consolide/20251223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "281bf9be0a9e3d97fa08bcb90e66d82704162a7aa143106fd532d061a53c7cd2"
+  "record_sha256": "224799eeee12b88778a146a09d12ca85d92ea8d23e609814bda94d19535e7057"
 }

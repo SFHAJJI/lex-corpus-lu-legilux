@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/05/2014 : R\u00E8glement grand-ducal du 18 octobre 1989 organisant les modalit\u00E9s du r\u00E9f\u00E9rendum pr\u00E9vu par l\u0027article 35 de la loi communale du 13 d\u00E9cembre 1988.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/10/18/n1/consolide/20140527/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "87b7a6a0fefb86d307558107b724483a622b0c0b6cc132dfa53ccfc1c217ffc9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/10/18/n1/consolide/20140527/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1989/10/18/n1/consolide/20140527/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9893ba55228ff9b62954eee9961bd66359b0b37e9f31f4c32c0fbe1e221e926e"
+  "record_sha256": "88a325514de0763ccd740e3b118198ef26b99c5a19f168a32e9579f77e91cbf5"
 }

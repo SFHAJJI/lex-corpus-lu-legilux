@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/04/2017 : Loi du 7 juillet 1971 portant, en mati\u00E8re r\u00E9pressive et administrative, institution d\u0027experts, de traducteurs et d\u0027interpr\u00E8tes asserment\u00E9s et compl\u00E9tant les dispositions l\u00E9gales relatives \u00E0 l\u0027assermentation des experts, traducteurs et interpr\u00E8tes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20170403/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "56f5e780d60096d8df25ba62a5c003ea239f42e46cb18e9a7ea77a2e5f257f0b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20170403/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1971/07/07/n2/consolide/20170403/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4bc4a3dd51fa21eb9a9e599e361af25e233c451b31891e3b417a3af581b27a76"
+  "record_sha256": "fdd83a1fe9b8c5ffa9189121c276facc91a0e9f055ceeba29ce6c15d5680fbb7"
 }

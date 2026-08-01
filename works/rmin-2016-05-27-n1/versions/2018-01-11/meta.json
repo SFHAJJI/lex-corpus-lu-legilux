@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/01/2018 : R\u00E8glement minist\u00E9riel du 27 mai 2016 portant fixation des crit\u00E8res de pr\u00E9sentation et de forme des documents destin\u00E9s \u00E0 la publication au Recueil \u00E9lectronique des soci\u00E9t\u00E9s et associations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20180111/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4b896566124dc721fad5f40e3a0b71a0d12d4df90c08d49a24d0ab26c3efea35",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20180111/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2016/05/27/n1/consolide/20180111/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4ac7a68744c0a46fde148bb434c08440f1a4683795b4f005e25c7943582804d3"
+  "record_sha256": "a60551831037ff250c4fe460e89046f145a4a7c22dd8489456247fad486924b9"
 }

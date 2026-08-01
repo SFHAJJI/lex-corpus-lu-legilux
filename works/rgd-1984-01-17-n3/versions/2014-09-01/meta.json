@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2014 : R\u00E8glement grand-ducal du 17 janvier 1984 portant r\u00E9glementation de la proc\u00E9dure \u00E9lectorale pour la Chambre des Fonctionnaires et Employ\u00E9s publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/20140901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9e791a90ef7788d90732cd4c9ca8cde54fe6ae4c2db1cd9d7dca3a5a3aa0b094",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/20140901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/01/17/n3/consolide/20140901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ffc16864fbd4be4c90c2b0e27944994a3a75a12e5deb35735a95cfe02d8018df"
+  "record_sha256": "5346c50d96106c8a871a5249f71202a43f9b38bed42b6ccd5810ac021a6e2181"
 }

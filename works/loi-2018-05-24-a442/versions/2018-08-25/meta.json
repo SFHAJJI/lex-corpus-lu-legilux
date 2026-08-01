@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/08/2018 : Loi du 24 mai 2018 sur les conditions d\u2019hygi\u00E8ne et de salubrit\u00E9 relatives \u00E0 la pratique des techniques de tatouage par effraction cutan\u00E9e, du per\u00E7age, du branding, cutting, ainsi que du bronzage UV.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/24/a442/consolide/20180825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bffec75b1c8341ad2578ff620ab711f5a14e8e8fcf10234e66df43d37663866c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/24/a442/consolide/20180825/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/05/24/a442/consolide/20180825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d7898506e5346e0e7eb8c8b6d4a26405db8ac84fc2e67512d04039cb822bc3e"
+  "record_sha256": "c5c842f45df4d8aee0792364ae828264c090ce8cd4b19dd3442d0d5f4dff56e6"
 }

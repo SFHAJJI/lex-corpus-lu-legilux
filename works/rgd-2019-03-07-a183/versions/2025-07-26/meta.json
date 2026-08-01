@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/07/2025 : R\u00E8glement grand-ducal du 7 mars 2019\\n- portant introduction d\u2019une aide financi\u00E8re pour la promotion des v\u00E9hicules routiers \u00E0 z\u00E9ro ou \u00E0 faibles \u00E9missions de CO2 \\n- modifiant l\u2019arr\u00EAt\u00E9 grand-ducal modifi\u00E9 du 23 novembre 1955 portant r\u00E8glement de la circulation sur toutes les voies publiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/07/a183/consolide/20250726/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fa792bd15f5fb0ad98697b912b5ff2ab7a98039f8d17b306e07c565224660f77",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/07/a183/consolide/20250726/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/07/a183/consolide/20250726/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "27f5ea77c7134b681fa077161c071f2765d6340e2f1cea3abcf9384eca0f8234"
+  "record_sha256": "6571ddb18cbf46ca80afbbcb51de322790a966944afaf8ee088e7012d52d8f02"
 }

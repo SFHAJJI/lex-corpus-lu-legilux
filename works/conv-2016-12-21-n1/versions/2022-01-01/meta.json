@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : Convention collective des salari\u00E9s de l\u0027\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2016/12/21/n1/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5f5ca8ac90562584b658282493a24ba506f285e9f982f503ffccbf4f2e60f725",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2016/12/21/n1/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/conv/2016/12/21/n1/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "385bb85c1f9046f73e090926750e130f72e3c098d20d645bae9a94c53197af8c"
+  "record_sha256": "79465c51eb3e4cb711da072861bb03bfb8aa209fbf49b69d956e0d301940aa4d"
 }

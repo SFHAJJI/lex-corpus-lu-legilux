@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/04/2019 : R\u00E8glement grand-ducal du 1er mars 2019 d\u00E9terminant les localit\u00E9s de vote qui ne sont pas chef-lieu de commune.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a108/consolide/20190405/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "28be1c710c252e71c548cea4f94df98bad44381075f31e2a7ffacef7781d0944",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a108/consolide/20190405/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/03/01/a108/consolide/20190405/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dcf7e99730613ffbb352fb1dc78663de94b83240fe188213f997079ae02307d7"
+  "record_sha256": "e135b32f5f7fa296d13b185fbdf03d111b0113a253fc2fc140b1643bd66656b6"
 }

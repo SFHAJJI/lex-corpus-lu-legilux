@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Conseil \u00E9conomique et social",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bf3dd397e496c0aa03fcd32220e98cde8cd2bdb913ac1fd81ad5d88952358740",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_economique_social/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "786579c37990432f4c1d91e64014b03c5c383ac9bbc784c841d746d3a8d53a6e"
+  "record_sha256": "a8db3e76193445a4e77f1b8880c93630fe6dc65ca5b70d09a95a1365cf66c705"
 }

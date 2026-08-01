@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/03/2004 : R\u00E8glement grand-ducal du 27 octobre 2000 portant\\n1. organisation \u00E0 l\u2019Institut national d\u2019administration publique de la division de la formation continue du personnel des communes, des syndicats de communes et des \u00E9tablissements publics des communes,\\n2. modification du r\u00E8glement grand-ducal modifi\u00E9 du 4 avril 1964 portant assimilation des traitements des fonctionnaires des communes, syndicats de communes et \u00E9tablissements publics plac\u00E9s sous la surveillance des communes \u00E0 ceux des fonctionnaires de l\u2019Etat et\\n3. modification du r\u00E8glement grand-ducal du 5 octobre 1987 concernant les allongements et les substitutions de grade des fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n5/consolide/20040331/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e03a3d1c1b98c577b83cc3993748c9442b4f9ea7fefc6179933a02143d138ecf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n5/consolide/20040331/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n5/consolide/20040331/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c917829dbfe00fe91d2a704b79e27dfff146e0d238ad9509a5880732581e6a00"
+  "record_sha256": "82b493f566f505f03120da4f4987ec752cb1f02b92d0d57bcb88f7f853624ce6"
 }

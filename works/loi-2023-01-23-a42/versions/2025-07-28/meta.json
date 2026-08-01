@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 28/07/2025 : Loi du 23 janvier 2023 sur le statut des magistrats et portant modification :\\n1\u00B0 du Code p\u00E9nal ;\\n2\u00B0 du Code de proc\u00E9dure p\u00E9nale ;\\n3\u00B0 de la loi modifi\u00E9e du 18 f\u00E9vrier 1885 sur les pourvois et la proc\u00E9dure de cassation ;\\n4\u00B0 de la loi modifi\u00E9e du 7 mars 1980 sur l\u2019organisation judiciaire ;\\n5\u00B0 de la loi modifi\u00E9e du 7 novembre 1996 portant organisation des juridictions de l\u2019ordre administratif ;\\n6\u00B0 de la loi modifi\u00E9e du 27 juillet 1997 portant organisation de la Cour Constitutionnelle ;\\n7\u00B0 de la loi modifi\u00E9e du 7 juin 2012 sur les attach\u00E9s de justice ;\\n8\u00B0 de la loi modifi\u00E9e du 27 ao\u00FBt 1977 concernant le statut des fonctionnaires entr\u00E9s au service d\u2019Institutions internationales ;\\n9\u00B0 de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat ;\\n10\u00B0 de la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u2019\u00C9tat.\\n",
       "title_short": "Loi du 23 janvier 2023 sur le statut des magistrats.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a42/consolide/20250728/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "05d8b37adb4bb956fc1cc4f12e18dedb4a3ebe45ed846869212e048eff01ceac",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a42/consolide/20250728/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/01/23/a42/consolide/20250728/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "147b0871367d61eec30d25a418d5c45a08b22c9ac233d40c3014db732a61c591"
+  "record_sha256": "19654189bdabb3d705dd8317cb36756dc6fa63942ee20fa0a7d8ef6192075244"
 }

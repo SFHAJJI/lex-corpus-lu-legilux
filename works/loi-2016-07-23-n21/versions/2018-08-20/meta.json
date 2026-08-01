@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/08/2018 : Loi du 23 juillet 2016 portant mise en place d\u0027un statut sp\u00E9cifique pour certaines donn\u00E9es \u00E0 caract\u00E8re personnel trait\u00E9es par le Service de renseignement de l\u0027\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n21/consolide/20180820/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "179b42033f46e653d218e7cc11a201a40cdff3ebd5cacbecab48ee1ad26485f2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n21/consolide/20180820/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/23/n21/consolide/20180820/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "26971353be24f5db0294ed93354237d0de405304d5de6fb85b83d5b6b4c13aa5"
+  "record_sha256": "2d94874ac5925e7479b01593c4a4038b3fa3c6260e8c7ed576565a64e56efbe8"
 }

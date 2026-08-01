@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 6 janvier 1995 relative \u00E0 la distribution en gros des m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/consolide/20150101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7014908c014d8fe040125a678d7e3e010bd6cb042d36b09473d2358d2918945c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/consolide/20150101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1995/01/06/n4/consolide/20150101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f90941b23e7f13bef655cf48a5b69205f240e84de3447ab1b029cd467653e0f6"
+  "record_sha256": "9cf4b509da5b26063c58cbcd39caa138e9ea40c0992f2754e36c8e9faa9b3ee4"
 }

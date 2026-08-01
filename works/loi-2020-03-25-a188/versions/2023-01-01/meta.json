@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 25 mars 2020 portant cr\u00E9ation du Fonds sp\u00E9cial de soutien au d\u00E9veloppement du logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0acebde2278485ead2ecf1eebd691e5b82e05c3aebb74a678d122a509503b053",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/03/25/a188/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "000a57516c230beddff93046de04eced2a2fee03963ac6fdbfdbd913ea894852"
+  "record_sha256": "4c71b0d1333f2f722951482e9e0a482d828ee08ddd258de452952335ee0e101c"
 }

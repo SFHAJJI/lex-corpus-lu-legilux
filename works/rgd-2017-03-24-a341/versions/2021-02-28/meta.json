@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/02/2021 : R\u00E8glement grand-ducal du 24 mars 2017 fixant les montants du droit d\u0027enregistrement et du droit suppl\u00E9mentaire des permis de chasser, la quote-part annuelle \u00E0 rembourser par le fonds sp\u00E9cial d\u0027indemnisation des d\u00E9g\u00E2ts caus\u00E9s par le gibier, ainsi que les modalit\u00E9s et la proc\u00E9dure de fonctionnement de celui-ci.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/03/24/a341/consolide/20210228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c49910cc91e2fd40cefddef76e846127ece2a49d0d4e8e8912bfede8f1d296ad",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/03/24/a341/consolide/20210228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/03/24/a341/consolide/20210228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "74e7bdda75ccdd9c1a7268a200ca0dffded6efaba3fc38b79fc44d207c1672fb"
+  "record_sha256": "bd1c0f6762418efd963375e1e44c68af036bd80cdc549866ce5b69eb805751ec"
 }

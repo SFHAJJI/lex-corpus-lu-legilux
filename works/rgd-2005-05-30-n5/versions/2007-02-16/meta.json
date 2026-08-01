@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/02/2007 : R\u00E8glement grand-ducal du 30 mai 2005 relatif \u00E0 l\u2019application de bonnes pratiques cliniques dans la conduite d\u2019essais cliniques de m\u00E9dicaments \u00E0 usage humain.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/05/30/n5/consolide/20070216/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1bffb418f34fa49763dca3d81ae6ebbb3ec5ade93244482d3fddb2376f55aa8a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/05/30/n5/consolide/20070216/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/05/30/n5/consolide/20070216/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e6da76acb10854434c5c3dfca9d842ff078ef311cebf187c7b4ab2b9570bbbdb"
+  "record_sha256": "0c1c2160915be827656dbfe685a66c2a4185a2bbbba4972fffcf79975d98e0f2"
 }

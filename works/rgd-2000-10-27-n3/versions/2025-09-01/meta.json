@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2025 : R\u00E8glement grand-ducal du 27 octobre 2000 portant organisation \u00E0 l\u0027Institut national d\u0027administration publique de la division de la formation continue du personnel de l\u0027Etat et des \u00E9tablissements publics de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n3/consolide/20250901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7aab8f0a81a385f5c209776be46825ca02d38a0accb752481a7ce5c1b8eaefb0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n3/consolide/20250901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n3/consolide/20250901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bb5670d24573c1c0d9b58ee8678bb1f808e6427e70b759481381e5ec303c20a4"
+  "record_sha256": "9ed62ff34744ddf192baec90f5d5f5d0b8200469036f50572e9308833a7b7e6b"
 }

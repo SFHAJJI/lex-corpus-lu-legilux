@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/03/2007 : R\u00E8glement grand-ducal du 2 avril 1996 relatif au personnel, aux locaux et \u00E0 l\u0027\u00E9quipement des services de sant\u00E9 au travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/04/02/n1/consolide/20070306/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5eb1a77acaee6d1cc7c75929789a8f1a7e17bd5bd8ac36f0fa5ac07cd461a2f1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1996/04/02/n1/consolide/20070306/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1996/04/02/n1/consolide/20070306/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c9ac73726ed1fbdcb5d2b2a5f584783eca867d2f8960fc650443a869277df38e"
+  "record_sha256": "d296fd0db68dec3a15344a5f872a7365818892dbfe0cde68738245def51b7330"
 }

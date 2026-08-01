@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2026 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2010 fixant les taux applicables en mati\u00E8re de droits d\u2019accise autonomes sur les produits \u00E9nerg\u00E9tiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20260701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bc7d0708823349e25bb16f7c32af427e365239d95a000b3cc8464b8961c23783",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20260701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20260701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d9f8caafd87137a54a58cd29b507ccdcd4637f009b396b5aefead5f94bc610f1"
+  "record_sha256": "2748a2c8756824fb033e9dec2521d802684e47901f745723fb73895f0e57d817"
 }

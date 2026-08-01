@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/08/2024 : Loi du 27 juillet 1991 sur les m\u00E9dias \u00E9lectroniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20240805/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3848f5a4db4f4f66cf0025133b06ed43a1a38424a3723a033d730f987b9ea47e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20240805/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20240805/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2e37e19eef1e2e0f1b166ab1d00ca0d88cb08d63f7b3de11b25367411538ef2d"
+  "record_sha256": "84f663111889d9be0d29506880064b2d42e4f465a8ba80242e9cf55fee9be130"
 }

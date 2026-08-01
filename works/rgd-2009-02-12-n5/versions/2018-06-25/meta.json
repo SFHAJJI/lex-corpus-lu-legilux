@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/06/2018 : R\u00E8glement grand-ducal du 12 f\u00E9vrier 2009 relatif au bureau centralisateur gouvernemental install\u00E9 \u00E0 l\u0027occasion des \u00E9lections l\u00E9gislatives, europ\u00E9ennes et communales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/12/n5/consolide/20180625/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ef842018c33738ba6b3f7dff9d3d902b209bc3d79fef30a21a3ca9c2a24bb1d1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/12/n5/consolide/20180625/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/12/n5/consolide/20180625/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a7a73f3aa5f29ead90bad930926c614bad8071862d77628df6287ffbe6fdac1d"
+  "record_sha256": "ddeebb60c2b932eacded44cb883a997db525a17c67f157b1ecd023a3d5ea04ca"
 }

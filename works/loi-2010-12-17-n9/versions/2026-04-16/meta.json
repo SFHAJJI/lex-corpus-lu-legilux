@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 16/04/2026 : Loi du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif et\\n - portant transposition de la directive 2009/65/CE du Parlement europ\u00E9en et du Conseil du 13 juillet 2009 portant coordination des dispositions l\u00E9gislatives, r\u00E9glementaires et administratives concernant certains organismes de placement collectif en valeurs mobili\u00E8res (OPCVM) (refonte);\\n - portant modification:\\n - de la loi modifi\u00E9e du 20 d\u00E9cembre 2002 concernant les organismes de placement collectif;\\n - de la loi modifi\u00E9e du 13 f\u00E9vrier 2007 relative aux fonds d\u0027investissement sp\u00E9cialis\u00E9s;\\n - de l\u0027article 156 de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu.",
       "title_short": "Loi du 17 d\u00E9cembre 2010 concernant les organismes de placement collectif.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260416/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6ab105068412cb5ca8581e9ba4c85504d1bc4e83ac06b3d2c491d4094143a4b9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260416/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/17/n9/consolide/20260416/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "45534637ac582254e715d8236b03e33d49237d9daddbc9bc11ce7e4686b2255e"
+  "record_sha256": "3823ebed9458b1f3708e66f2d21b05caded3336e3a3989052f68e550f03156f2"
 }

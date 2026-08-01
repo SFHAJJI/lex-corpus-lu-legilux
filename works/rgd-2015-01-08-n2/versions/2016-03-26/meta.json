@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/03/2016 : R\u00E8glement grand-ducal du 8 janvier 2015 transposant la directive 2013/30/UE du Parlement europ\u00E9en et du Conseil du 12 juin 2013 relative \u00E0 la s\u00E9curit\u00E9 des op\u00E9rations p\u00E9troli\u00E8res et gazi\u00E8res en mer et modifiant la directive 2004/35/CE.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n2/consolide/20160326/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "18b524ce485b3c6507ff577259178e35527025a5138026a16ac29c3aaefb90fc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n2/consolide/20160326/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n2/consolide/20160326/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "638e2850ff1a3c1d14c0cdec41f39baa636af8ebd3a8a28da88fbb736ca16843"
+  "record_sha256": "e1f5780ec8ee2540df357e71d2a7afec59a1b3d828517c67c03f9af341f8fe2c"
 }

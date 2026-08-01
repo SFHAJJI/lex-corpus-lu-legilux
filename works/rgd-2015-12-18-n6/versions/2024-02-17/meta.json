@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/02/2024 : R\u00E8glement grand-ducal du 18 d\u00E9cembre 2015 d\u00E9terminant le plan d\u2019organisation de l\u2019administration centrale du Minist\u00E8re des Affaires \u00E9trang\u00E8res et europ\u00E9ennes, de la D\u00E9fense, de la Coop\u00E9ration et du Commerce ext\u00E9rieur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n6/consolide/20240217/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "27bb111c4cd24c13ec7b8362be066bdecedd7fcf64a2a9efd9a9e6e40b8b5e50",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n6/consolide/20240217/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/12/18/n6/consolide/20240217/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6b5583f5df659deccc6a022dd7fb367f5c7237b6324015f26f0eb97adb9d7899"
+  "record_sha256": "ea8ccb94c5d9f1312620e3bfbe1f04f6170014e10655bf2009b26e33b1e3aee4"
 }

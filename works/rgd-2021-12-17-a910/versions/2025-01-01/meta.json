@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2021 portant ex\u00E9cution de l\u2019article 137, alin\u00E9a 5a et de l\u2019article 143, alin\u00E9a 1er de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/17/a910/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "21d40da2a73407b017f0a346dcd5847338c2ccab8ded2e0661e734ee1dfbcd7b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/17/a910/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/17/a910/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8f8e1a3f65783a3a0b8063bf16d402a484e03ae4ef6948ec6dc7a16f179fb923"
+  "record_sha256": "3e28ed972de1122eb18292197b973af15b2dfb9f8d69a64876cc292ba36f5a53"
 }

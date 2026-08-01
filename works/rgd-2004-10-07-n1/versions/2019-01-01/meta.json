@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2019 : R\u00E8glement grand-ducal du 7 octobre 2004 portant ex\u00E9cution de la loi du 12 septembre 2003 relative aux personnes handicap\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20190101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "690c4dec9a5e9bf7f3a5649a5824bfbd106584a728b0ca9f4cfafee447713437",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20190101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20190101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "04aa62bd5902c987e0bf3329a61975e79d1fabede7acc8e00bb4240e90c9e732"
+  "record_sha256": "9e8029ecffe9f4ddbdff80d8da19d98cbbc73546b2ad724dfaaf168358f07643"
 }

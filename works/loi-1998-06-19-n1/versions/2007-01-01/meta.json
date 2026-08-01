@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2007 : Loi du 19 juin 1998 portant introduction d\u2019une assurance d\u00E9pendance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/06/19/n1/consolide/20070101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5b953db4f8846c502d3b335f8a90dc20c7213244f8fc2f30322f4dccf1621cb4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/06/19/n1/consolide/20070101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/06/19/n1/consolide/20070101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "482053fa579b0f3a60941cecedef837c961d876491584548f0d1421913541eeb"
+  "record_sha256": "7bbcdfe9f593914f23cd44617305d9ab0c5377db040240fa928d10a7049cd9b8"
 }

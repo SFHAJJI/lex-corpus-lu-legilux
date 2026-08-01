@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/03/1993 : R\u00E8glement grand-ducal du 23 juillet 1991 d\u00E9terminant les conditions de commercialisation des substances chimiques \u00E0 activit\u00E9 th\u00E9rapeutique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930328/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c15d1f0752cd47b2e1144dc7252023e16310975be6931a45889cae665a3f2494",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930328/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1991/07/23/n1/consolide/19930328/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b56c9cb1472399d22ce42aabbfabd15d3edd164121f092b6764ac30e08df7da0"
+  "record_sha256": "eef2859a62dfc77865635436098627def32263f77d901e82bbcba6eb7be89172"
 }

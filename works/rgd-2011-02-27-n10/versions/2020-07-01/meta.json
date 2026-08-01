@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2020 : R\u00E8glement grand-ducal du 27 f\u00E9vrier 2011 fixant les modalit\u00E9s du contr\u00F4le de la connaissance des trois langues administratives pour le recrutement des fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/20200701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e7be03cbc78736d5911ac461597ac062e0e854db5ebf2d5b446ae03d73306895",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/20200701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/02/27/n10/consolide/20200701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6e9001f4b5b8e6ce84e1504124a624dbbd01313b905229920c28811599ae300a"
+  "record_sha256": "d1ce072b09a6115ee6a9d0114197252d903f24d47bfe6ad0205add3f91356fd2"
 }

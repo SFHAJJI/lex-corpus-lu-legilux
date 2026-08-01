@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/02/1939 : Loi du 9 d\u00E9cembre 1862 portant r\u00E9vision de l\u0027ordonnance royale grand-ducale du 30 juin 1857 sur le notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19390201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "16a8d2b6cdf6c32d3812b8e5a8d1c6da9f28c2360b3ea57a525d60f5710cb546",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19390201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1862/12/09/n1/consolide/19390201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f4ba9a7956df186a8fa54df4e23f58fe9dd7e5f8db5a1c5e2c470663706cd562"
+  "record_sha256": "315ec57b3319661857aefa135f4663de1d701fe6dbaf6e7cee4ec4978e9fc393"
 }

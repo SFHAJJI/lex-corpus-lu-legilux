@@ -23,15 +23,22 @@
       "title": "Code de proc\u00E9dure p\u00E9nale",
       "title_short": "Code de proc\u00E9dure p\u00E9nale",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20251219/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bddb7a57f527ad2bec5c4197e1f805780c0120f14a1c89c1218dd47a4fc7cbd2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20251219/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20251219/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "84e57eee8ed9d4e147e7c709ae97717bbb7ec926403c21ee38bd75c91bfc5be3"
+  "record_sha256": "0fa960919f0a1335b7c9ff269ed6cec5221f8d51041ed2380a50b7071b2424cc"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2019 : Loi du 30 avril 2004 autorisant le Fonds national de solidarit\u00E9 \u00E0 participer aux prix des prestations fournies dans le cadre de l\u0027accueil aux personnes admises dans un centre int\u00E9gr\u00E9 pour personnes \u00E2g\u00E9es, une maison de soins ou un autre \u00E9tablissement m\u00E9dico-social assurant un accueil de jour et de nuit.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/04/30/n1/consolide/20221208/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0f0c61140bb739f8850a6909e4176532fb445008265627af453ec132276677bb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/04/30/n1/consolide/20221208/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/04/30/n1/consolide/20221208/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f1109700bd64a019b4400a7d2f9400ab65096e009f3833d3ae9959872e7026c1"
+  "record_sha256": "8684af9f75b9efa2f10ae0d7a60b59d996cfb65e0c0acda227b82a186c6f9ad5"
 }

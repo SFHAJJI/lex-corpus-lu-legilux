@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/03/2021 : Loi du 16 mars 2009 sur l\u0027euthanasie et l\u0027assistance au suicide.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/03/16/n2/consolide/20210307/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7435a338e87a8f55db6a997f0c0b9bac0674f74057606d271101ed773f75d8d7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/03/16/n2/consolide/20210307/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/03/16/n2/consolide/20210307/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e582d151b82daff049d7e10fdda9db48d1ba816567c79eebf024fd9f6e517441"
+  "record_sha256": "fa3687d91001ea6c006f3a7902a074127449a75cbe7c6812e531cc5230458aa0"
 }

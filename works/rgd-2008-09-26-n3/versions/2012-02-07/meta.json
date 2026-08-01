@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/12/2011 : R\u00E8glement grand-ducal du 26 septembre 2008 d\u00E9terminant le niveau de r\u00E9mun\u00E9ration minimal pour un travailleur hautement qualifi\u00E9 en ex\u00E9cution de la loi du 29 ao\u00FBt 2008 sur la libre circulation personnes et l\u0027immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20120207/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "825f821cb1ad56f5b79d30fcd8b07bf65b2170df9569f0dc4e9a9e911cd7711b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20120207/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/consolide/20120207/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f836ec18e97f4e3d04233169beafccb92d0d90825079d5ffef26813b7a058612"
+  "record_sha256": "12ed34a9b1c48a5e94e69e5dd59443a346fdbd5a7beff83a9f017d4ac0eb106e"
 }

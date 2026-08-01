@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/12/2013 : Loi du 27 ao\u00FBt 2013 modifiant la loi modifi\u00E9e du 27 juillet 1991 sur les m\u00E9dias \u00E9lectroniques en vue de la cr\u00E9ation de l\u2019\u00E9tablissement public \u00ABAutorit\u00E9 luxembourgeoise ind\u00E9pendante de l\u2019audiovisuel\u00BB et modifiant\\n1) la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019Etat et\\n2) la loi du 20 avril 2009 relative \u00E0 l\u2019acc\u00E8s aux repr\u00E9sentations cin\u00E9matographiques publiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/08/27/n5/consolide/20131201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c2b0bf38253a708726ad485b35625836e50b29af321c86b87fc15c7b711b990c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/08/27/n5/consolide/20131201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/08/27/n5/consolide/20131201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "72c3361fd361ad432025d963cfaa5edfec79133831c63f20010c9f918290bc68"
+  "record_sha256": "23c8f9d970308b23bc0ef2172d0286c86fb7164757ada6d8e8f5fd7dc1194619"
 }

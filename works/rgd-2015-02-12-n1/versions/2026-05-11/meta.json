@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/05/2026 : R\u00E8glement grand-ducal du 12 f\u00E9vrier 2015 portant ex\u00E9cution de la loi modifi\u00E9e du 14 avril 1934, fixant les modalit\u00E9s pour l\u2019obtention d\u2019un passeport biom\u00E9trique, titre de voyage biom\u00E9trique pour \u00E9trangers, apatrides et r\u00E9fugi\u00E9s et \u00E9tablissant un droit de chancellerie pour l\u00E9galisations d\u2019actes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/consolide/20260511/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f425d988e32fb82feebf812634027080d4347f106003b0bee1a199f2a484a3dc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/consolide/20260511/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/02/12/n1/consolide/20260511/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0a5d1b284594a3f9ede3b69da9dfbe04ce34e559dd8b590cbe0ee6b90d280725"
+  "record_sha256": "598dce799f89545e2b2e25ef309393c79ccff59142adea6b2468cbc8fb121fd7"
 }

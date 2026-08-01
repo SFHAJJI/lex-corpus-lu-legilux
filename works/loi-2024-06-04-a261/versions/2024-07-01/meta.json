@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/07/2024 : Loi du 4 juin 2024 portant modification de la loi modifi\u00E9e du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2024/06/04/a261/consolide/20240701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33aa4807dd786605c6a37e6c82f888c711bb3767cb81dbf04b23c760095260f8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2024/06/04/a261/consolide/20240701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2024/06/04/a261/consolide/20240701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "889f3a83882d436e6d59b7b46072de0362fa007381e9456c464b6c8f482e88e5"
+  "record_sha256": "cf6beccd8c4ac19c3863af475bc3d17805f4d02f76e7e21d488ac462d868a39e"
 }

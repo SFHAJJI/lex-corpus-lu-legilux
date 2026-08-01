@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2018 : R\u00E8glement grand-ducal du 1er d\u00E9cembre 2011 d\u00E9terminant les crit\u00E8res, les conditions et la proc\u00E9dure relative \u00E0 la fixation des prix des m\u00E9dicaments \u00E0 usage humain.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/consolide/20180901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2bffd8b4bd16b86012e7fdc5fa7ea94c960e8c7e438e165f7509345251cfc15c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/consolide/20180901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/01/n5/consolide/20180901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "79128569be608d52bb7c71ff022284f6bedeeedba271d648abda0f1f3165dc91"
+  "record_sha256": "52cbdd9383e992887754c0fa8d0e18c724d1704b8a2414fa315eed54cab84410"
 }

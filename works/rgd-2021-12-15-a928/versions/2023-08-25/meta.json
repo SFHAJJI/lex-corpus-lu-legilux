@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/08/2023 : R\u00E8glement grand-ducal du 15 d\u00E9cembre 2021 d\u00E9terminant les modalit\u00E9s de demande de bourse d\u2019aide \u00E0 la cr\u00E9ation artistique et au d\u00E9veloppement professionnel des artistes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/15/a928/consolide/20230825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9a7809905a74a26a33e5689ea7aac9242b3e8069ec3fa9516c6a283270e313e6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/15/a928/consolide/20230825/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/12/15/a928/consolide/20230825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cdd2660775b7359352cdbf23e8f07d68ae4f84f6a8632de8985c1626f35d16fa"
+  "record_sha256": "ec0ca6d638b384dd99507da9a2ea2bdeb0f1e711f039e677cdd9b81cc123e1f6"
 }

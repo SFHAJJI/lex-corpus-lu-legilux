@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : Loi du 18 avril 2020 visant \u00E0 mettre en place un r\u00E9gime de garantie en faveur de l\u2019\u00E9conomie luxembourgeoise dans le cadre de la pand\u00E9mie Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/04/18/a307/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "535dcd6c02a0b41b3e4ce433ef3846f75966d51700abea12b8839a2002e8df5c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/04/18/a307/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/04/18/a307/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "20b17d7de2d6955b6688557135884c5d647c941246849b412c6f79fbb286ab33"
+  "record_sha256": "a69940c5cc56cb721a970c61e1a3658971e181ddaefd00237a4cc4b7fc07ceca"
 }

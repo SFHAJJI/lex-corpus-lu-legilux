@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 09/09/1989 : R\u00E8glement grand-ducal du 5 ao\u00FBt 1989 fixant l\u2019organisation et le fonctionnement des commissions consultatives communales pour \u00E9trangers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/08/05/n2/consolide/19890909/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "228db0cb7522bd317c8950f35feb838771d449d50c82f95f39d033e834f3ddca",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1989/08/05/n2/consolide/19890909/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1989/08/05/n2/consolide/19890909/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4203f62932b5280f0d9ae2d29b6d52f19ce35e46c9e181055614adda7997a1bf"
+  "record_sha256": "39a5c3fc3efc2044521383b14805a664ceb5648d11530d0718c6853a7473943b"
 }

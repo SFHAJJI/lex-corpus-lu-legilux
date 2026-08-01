@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/02/2008 : R\u00E8glement grand-ducal du 13 ao\u00FBt 2002 portant institution d\u2019une formation sp\u00E9ciale pour les fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20080223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7849582e6a015c2700f32fecd68ddbc79a5e0fb6997e35eb9d85e78719cb2734",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20080223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/08/13/n2/consolide/20080223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b52150405d0f13f6c92b416f1349223e80707a7a9dd1a4d78131d9a26246eb20"
+  "record_sha256": "6be38059e6e3fdef0f68f108d51d683c8b721ee0fc40be6bcb9b65d630254a32"
 }

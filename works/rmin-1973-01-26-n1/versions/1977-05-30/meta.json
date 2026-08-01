@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/05/1977 : R\u00E8glement minist\u00E9riel du 26 janvier 1973 fixant les indemnit\u00E9s forfaitaires sp\u00E9ciales revenant au personnel de l\u0027administration des postes et t\u00E9l\u00E9communications occup\u00E9 aux divers services de transport et de distribution postaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1973/01/26/n1/consolide/19770530/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9fb2345667fafbe7242e725fe2b082c89cc2923047b3037dfe54f31c69a7c711",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1973/01/26/n1/consolide/19770530/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/1973/01/26/n1/consolide/19770530/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c62db09a22981b3c437420a20f761d9cabd9bf9a4e39a6f68988dad09ed3e24d"
+  "record_sha256": "03485ccb96d47842ed1edcde8af788c7c7f061502a9e62704e09c3882f6102de"
 }

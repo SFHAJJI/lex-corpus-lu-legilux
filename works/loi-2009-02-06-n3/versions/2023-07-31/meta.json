@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/07/2023 : Loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u0027enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20230731/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "15ec37ceb16f6a73039ea229a18c23df2950c740caa4ebbf55533e8d26ce3bec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20230731/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2009/02/06/n3/consolide/20230731/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "61ef41b7e5e89cf7dcb0e29e15504d897e3e63490c64adb4c2fe0d3b7850131a"
+  "record_sha256": "972c745385b1419bf58cb8ae36fe1a7f3398391f4a4e477e2c23e30597d0fa55"
 }

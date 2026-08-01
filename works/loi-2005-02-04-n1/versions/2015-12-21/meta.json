@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/12/2015 : Loi du 4 f\u00E9vrier 2005 relative au r\u00E9f\u00E9rendum au niveau national.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20151221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ed4ba7863068d89480f7d9d4f1f66841e424bf5b3bdf7f22444844b3dbc8a6a2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20151221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/02/04/n1/consolide/20151221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "64159c3695190188f1a4bc9b789a5b6c4019bc2318a1d85203af2dd8fd7e5acd"
+  "record_sha256": "5bb0ef3134ac69e469e9eabf57c4c5a6351a3e37b647fd2d09d55e663c5d54c9"
 }

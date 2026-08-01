@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/07/2026 : R\u00E8glement grand-ducal du 18 avril 2020 fixant les conditions et les modalit\u00E9s d\u2019\u00E9mission d\u2019emprunts par l\u2019\u00C9tat et abrogeant le r\u00E8glement grand-ducal du 7 f\u00E9vrier 2013 fixant les conditions et les modalit\u00E9s d\u2019\u00E9mission d\u2019emprunts par l\u2019\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/18/a308/consolide/20260711/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "55a1c39e66f714299beca7212cad66d389dd70108f86961638cba1d017f8a4be",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/18/a308/consolide/20260711/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/18/a308/consolide/20260711/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a5ff6ca4e814ef154bde39a9bb96e460c19ba22a6dfab55ddaba755614570902"
+  "record_sha256": "979b791e58398b8a606ad4028ec502b6aaf676d790a0a42eb637c74f8145fd33"
 }

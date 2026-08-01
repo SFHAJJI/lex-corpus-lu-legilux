@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/06/2002 : R\u00E8glement grand-ducal du 20 d\u00E9cembre 1984 fixant les modalit\u00E9s relatives \u00E0 l\u0027administration du patrimoine des caisses de pension.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8beeb70698dd07a5ce8231c3c673eb1a37484eefd2ef7de0b31b619f86380a6f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/12/20/n6/consolide/20020615/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a7d07e23a909e93a7bc5a9ae97d6cfcb97557d8682c6e59c04f7d804ac8c3698"
+  "record_sha256": "d32683f52b31799a07919e783c3f469fc8c6834d41be77ced6c11fc804779a08"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/10/2022 : R\u00E8glement grand-ducal du 22 f\u00E9vrier 2021 fixant les programmes de la formation sp\u00E9ciale et les modalit\u00E9s de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive des fonctionnaires stagiaires relevant des diff\u00E9rentes cat\u00E9gories de traitement aupr\u00E8s de l\u2019Institut de formation de l\u2019\u00C9ducation nationale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0cd4e726cdbe321dbb1226b953da6fe02b2af2d527e381102989de5fbdb4e4aa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/02/22/a156/consolide/20221016/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0b49417ade144194fa2d4106d243de712fbb3a87bee86e96553ee81f37aa5841"
+  "record_sha256": "8c8b4915b82c3244c2bf2a44759937489468f8299974cc7a7dbeef10abbb93ae"
 }

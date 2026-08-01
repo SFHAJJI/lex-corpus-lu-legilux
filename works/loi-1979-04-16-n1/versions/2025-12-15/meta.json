@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/12/2025 : Loi du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20251215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c286793f4291e7428f1dd7f48e2ceedb9084003339c8ea1c9c0aee33f5021834",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20251215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/04/16/n1/consolide/20251215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ce0ef69e7769977ce9fdfa10c06e5058039f34d1e07b4d6b4fa84b9785227455"
+  "record_sha256": "04119c205fbdad9fdb90738c0edd59871022099b3072a8e8308ed4f9cbf94c2d"
 }

@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 11/04/2026 : Loi du 8 septembre 2022 portant cr\u00E9ation et organisation de l\u2019Administration luxembourgeoise v\u00E9t\u00E9rinaire et alimentaire et portant modification :\\n1\u00B0 de la loi modifi\u00E9e du 21 novembre 1980 portant organisation de la Direction de la sant\u00E9 ;\\n2\u00B0 de la loi modifi\u00E9e du 19 mai 1983 portant r\u00E9glementation de la fabrication et du commerce des aliments des animaux ;\\n3\u00B0 de la loi du 28 juillet 2018 instaurant un syst\u00E8me de contr\u00F4le et de sanctions relatif aux denr\u00E9es alimentaires.\\n",
       "title_short": "Loi du 8 septembre 2022 portant cr\u00E9ation de l\u2019Administration luxembourgeoise v\u00E9t\u00E9rinaire et alimentaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/09/08/a502/consolide/20260411/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "60e901a627bbe8845bfe4d77f7a28890e1157e904cf66108d31bf52ec328907b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/09/08/a502/consolide/20260411/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/09/08/a502/consolide/20260411/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "53f97b324c7f8ae0ad77ebeea891ac7fc43cf52e2cae4a78e47bdb0a9305416b"
+  "record_sha256": "97ecd0ebb75dd77240d25c55e9dc1fbae04d9937c62fffe068643c0caa7e7cdc"
 }

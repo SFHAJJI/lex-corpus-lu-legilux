@@ -23,15 +23,22 @@
       "title": "Version rectifi\u00E9e applicable au 30/08/2022 : R\u00E8glement grand-ducal du 26 ao\u00FBt 2022 fixant les calendriers des vacances et cong\u00E9s scolaires pour les ann\u00E9es scolaires 2022/2023, 2023/2024 et 2024/2025.",
       "title_short": "R\u00E8glement grand-ducal du 26 ao\u00FBt 2022 fixant les calendriers des vacances et cong\u00E9s scolaires pour les ann\u00E9es scolaires 2022/2023, 2023/2024 et 2024/2025.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/08/26/a470/consolide/20220830/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b7e489429fd82e8b676961d26b6537ab815a7fdee9fd812307f4df66a5fcef97",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/08/26/a470/consolide/20220830/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/08/26/a470/consolide/20220830/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "413fdf968ee4e281d2e7322ce9dd1dfa4c7e7080a3b2dff03b0e25ef22a21644"
+  "record_sha256": "e289c9aca69adb74cf4213bb5b6c0bff7c11e8f4bc1e8b822088f1b58814c036"
 }

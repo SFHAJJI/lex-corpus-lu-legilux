@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 26 juillet 1980 concernant l\u0027avance et le recouvrement de pensions alimentaires par le Fonds national de solidarit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/07/26/n2/consolide/20150101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "829c060891d61c1749f81efd128e9e747cc5ed631f436704fb9645923a6bb354",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/07/26/n2/consolide/20150101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1980/07/26/n2/consolide/20150101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f5621a4fb04bc630ae5ce8331508742c2d5d7ae052d056f4f79408168f665868"
+  "record_sha256": "68d1872bca0f1afdc98357c35cb2a2152a2ec52d7e046a4b6d0f4076308a2fa4"
 }

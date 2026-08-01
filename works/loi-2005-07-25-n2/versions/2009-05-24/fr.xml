@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2009-07-06" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MEN"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2009-07-06" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2009-07-06" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2009-07-06</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/5</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1141</scl:jolux>
+						<scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2009-07-10</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2009/a160</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2009A2356A</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2009-07-06</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="consolidates">/eli/etat/leg/loi/2005/07/25/n2/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">TEXTE COORDONNE de la Loi du 25 juillet 2005 portant création d'un lycée-pilote.</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2009-160-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2009/a160/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2009-07-06-n1-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2009/07/06/n1/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2009-160-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2009/a160/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2009/a160/fr/pdf/eli-etat-leg-memorial-2009-a160-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2009-07-06" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+			</lifecycle>
+			<analysis source="#"/>
+			<references source="#">
+				<original href="/eli/etat/leg/tc/2009/07/06/n1/jo" id="ro1" showAs="Original"/>
+			</references>
+			<notes scl:border="50" scl:page-footer="true" scl:type="document" source="#eli-etat-leg-tc-2009-07-06-n2-jo-fr-xml">
+				<note id="note_0_0_0">
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i> <b>Art. 2.</b> 
+
+Par dépassement de l’effectif total du personnel et en dehors du nombre des engagements de renforcement déterminés par les lois budgétaires concernées, le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:</p>
+					<ol scl:start="1" scl:symbol="A.">
+						<li> au lycée-pilote:<ul scl:symbol="custom">
+								<li scl:symbol="–"> pour les besoins du nouveau cycle de formation:<ol scl:start="1" scl:symbol="1)">
+										<li> 2 éducateurs gradués</li>
+										<li>1 bibliothécaire-documentaliste</li>
+										<li>1 informaticien diplômé</li>
+										<li> 3 artisans</li>
+										<li> 2 employés D</li>
+										<li>1 employé C</li>
+									</ol>
+								</li>
+								<li scl:symbol="–">pour les besoins de l’internat:<ol scl:start="1" scl:symbol="1)">
+										<li>8 éducateurs gradués</li>
+										<li> 1 concierge </li>
+										<li> 1 employé D</li>
+									</ol>
+								</li>
+								<li scl:start="–">pour les besoins de la restauration scolaire, sous le régime du contrat collectif des ouvriers de l’État:<ol scl:start="1" scl:symbol="1)">
+										<li> 4 cuisiniers avec CATP</li>
+										<li>4 cuisiniers sans CATP </li>
+										<li> 8 aides-ouvriers.</li>
+									</ol>
+								</li>
+							</ul>
+						</li>
+					</ol>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>TEXTE COORDONNE de la Loi du 25 juillet 2005 portant création d’un lycée-pilote.</p>
+			</longTitle>
+			<p scl:align="center">
+				<i>
+					<ref href="/eli/etat/leg/loi/2005/07/25/n2/jo" id="add312cf-c40a-4787-8676-283b14747bba">Mém. A-124 du 10.8.2005</ref>, p. 2156 - Republication: <ref href="/eli/etat/leg/trep/2005/08/26/n1/jo" id="47061e1f-8216-43b4-83ff-995415af00b1">Mém. A-139 du 26 août 2005</ref>, p. 2478</i>
+			</p>
+		</preface>
+		<preamble>
+			<container name="preamble">
+				<p>modifiée par:</p>
+			</container>
+			<container name="considerando">
+				<p>
+					<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="a7968b56-2df9-40a7-a3d0-5437a9407df5">Loi du 12 mai 2009</ref> modifiant et complétant</p>
+				<ol scl:space-after="5" scl:start="1" scl:symbol="a)">
+					<li> la <ref href="/eli/etat/leg/loi/2005/07/25/n2/jo" id="47ea8ddf-0ced-4319-accb-7998fbf32259">loi du 25 juillet 2005</ref> portant création d’un lycée-pilote;</li>
+					<li>la <ref href="/eli/etat/leg/loi/2004/01/12/n1/jo" id="3ebbce80-9555-405d-9905-175ea67960b2">loi du 12 janvier 2004</ref> portant création d’un établissement d’enseignement secondaire technique à Redange-sur-Attert, dénommé par la suite «Atert-Lycée».</li>
+				</ol>
+				<p scl:align="center">
+					<i>
+						<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="f9cd95bf-5ffb-4a99-92a8-41eeecd2afd1">Mém. A-106 du 20.5.2009</ref>, p. 1558</i>
+				</p>
+			</container>
+		</preamble>
+		<body>
+			<alinea>
+				<content>
+					<p scl:align="center" scl:space-before="10">
+						<b>Texte coordonné</b>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_1er">
+				<num>Art. 1<sup>er</sup>.</num>
+				<alinea>
+					<content>
+						<p>Il est créé un lycée-pilote public ayant pour mission de mettre en œuvre un enseignement et un encadrement éducatif intégrés des élèves.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«L’offre scolaire du lycée-pilote comprend un cycle d’orientation et un cycle de formation.»</p>
+					</content>
+				</alinea>
+			</article>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_i">
+				<num>«Chapitre I.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">Le cycle d’orientation du lycée-pilote»</heading>
+				<article id="art_2">
+					<num>Art. 2.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Le cycle d’orientation du lycée-pilote comporte:</p>
+							<ul scl:symbol="custom">
+								<li scl:symbol="–">la division inférieure ainsi que la classe polyvalente de la division supérieure de l’enseignement secondaire;</li>
+								<li scl:symbol="–">le cycle inférieur de l’enseignement secondaire technique y compris le régime préparatoire.»</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(…) (abrogé par la <ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="88959492-f441-405f-8b2a-fd59ada3e61d">loi du 12 mai 2009</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les élèves y reçoivent une formation générale qui leur permet d’accéder à la fin du cycle d’orientation à une formation qui correspond à leurs capacités et à leurs aspirations et qui leur permet d’atteindre le socle de compétences tel qu’il est défini par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_3">
+					<num>Art. 3.</num>
+					<alinea>
+						<content>
+							<p> L’organisation scolaire comprend:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>des unités d’enseignement;</li>
+								<li>des séquences d’études; </li>
+								<li> des séquences de récréation;</li>
+								<li>des activités complémentaires;</li>
+								<li>un encadrement.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Les unités d’enseignement et les séquences d’études et de récréation sont organisées en alternance pendant huit heures par jour et pendant cinq jours par semaine. Les élèves participent obligatoirement aux unités d’enseignement, aux séquences d’études, aux séquences de récréation, ainsi qu’à des activités complémentaires. Le nombre de séquences d’études et d’activités complémentaires obligatoires est fixé par le conseil d’éducation. La prise en commun des repas à l’école est obligatoire pour les élèves des classes de 7<sup>e</sup>, 6<sup>e</sup>/8<sup>e</sup> et 5<sup>e</sup>/9<sup>e</sup>.»</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_4">
+					<num>Art. 4.</num>
+					<alinea>
+						<content>
+							<p>À l’exception des cours de formation morale et sociale et d’instruction religieuse et morale dont les contenus et finalités sont assurés par l’éducation aux valeurs, les matières enseignées sont les mêmes que celles prévues pour les classes de septième à quatrième de l’enseignement secondaire et de septième à neuvième de l’enseignement secondaire technique.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’éducation aux valeurs, prenant en compte aussi bien la diversité croissante des cultures et des convictions religieuses et philosophiques que la nécessité de veiller à l’intégration de ces diversités dans un climat de respect et de tolérance réciproques, a pour mission de transmettre aux élèves une connaissance appropriée des grandes religions et familles de pensée au plan mondial. Elle tient spécialement compte des réalités de la société luxembourgeoise en réservant une place adéquate à la présentation authentique des divers courants de pensée religieuse et humaniste présents dans le pays.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’enseignement est offert dans les branches suivantes:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>la branche «langues» qui comprend les langues française, anglaise, allemande, latine et luxembourgeoise;</li>
+								<li>la branche «mathématique»;</li>
+								<li>la branche «art et société» qui traite plus spécialement de l’histoire, de la géographie humaine, de l’éducation artistique et musicale, ainsi que de l’éducation civique;</li>
+								<li>la branche «éducation aux valeurs»;</li>
+								<li>la branche «science et technique» qui traite plus spécialement de la physique, de la chimie, de la géographie physique, de la biologie, et qui comprend les travaux manuels et l’initiation aux technologies de l’information et de la communication;</li>
+								<li>la branche «sport et santé» qui comprend l’éducation sportive et inclut des éléments de biologie humaine;</li>
+								<li> la branche «perfectionnement» qui comprend l’élargissement et l’approfondissement de toutes les matières.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les lignes directrices des programmes des différentes branches et les grilles des horaires correspondantes sont fixées par règlement grand-ducal. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5">
+					<num>Art. 5.</num>
+					<alinea>
+						<content>
+							<p>Il est constitué pour chaque élève un portfolio qui comprend:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li> le journal de bord de l’élève où celui-ci inscrit des informations concernant son parcours scolaire et son projet personnel de formation. Le journal de bord sert d’outil d’auto-évaluation à l’élève;</li>
+								<li> le dossier qui documente le parcours d’apprentissage personnel de l’élève. L’équipe pédagogique y réunit avec l’élève les documents représentatifs des travaux qu’il réalise au cours du cycle d’orientation. Des savoirs et des savoir-faire qui ne figurent pas dans les programmes et qui vont au-delà du socle de compétences peuvent également être inscrits dans le dossier. Les parents peuvent consulter le dossier de l’élève;</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<ol scl:start="1" scl:symbol="custom">
+								<li scl:symbol="«3.">le bulletin établi par l’équipe pédagogique qui y inscrit:<ol scl:start="1" scl:symbol="a)">
+										<li> les performances et les acquis de l’élève dans chaque branche relativement aux compétences définies par règlement grand-ducal;</li>
+										<li>les observations du conseil de classe sur la manière dont l’élève coopère et participe aux travaux scolaires et à la vie de l’école;</li>
+										<li>les résultats des épreuves communes auxquelles le lycée-pilote participe;</li>
+										<li>des recommandations du conseil de classe; </li>
+										<li>les propositions de progression ou d’orientation émises par le conseil de classe.</li>
+									</ol>
+								</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le bulletin est établi à la fin de chaque trimestre et remis aux parents.»</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_ii">
+				<num>«Chapitre II.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b"> Le cycle de formation du lycée-pilote</heading>
+				<article id="art_5bis">
+					<num>Art. 5bis.</num>
+					<alinea>
+						<content>
+							<p>Le cycle de formation du lycée-pilote comprend:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li> la division supérieure de l’enseignement secondaire à l’exception de la classe polyvalente;</li>
+								<li>le cycle moyen et le cycle supérieur de l’enseignement secondaire technique.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les élèves y reçoivent une formation générale, technique ou professionnelle qui leur permet d’accéder à la vie active et aux études supérieures.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5ter">
+					<num>Art. 5ter.</num>
+					<alinea>
+						<content>
+							<p>L’organisation scolaire comprend:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>des modules d’enseignement;</li>
+								<li>des séquences de rédaction de mémoires;</li>
+								<li> des activités complémentaires;</li>
+								<li>un encadrement.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5quater">
+					<num>Art. 5quater.</num>
+					<alinea>
+						<content>
+							<p>À l’exception des cours de formation morale et sociale et d’instruction religieuse et morale dont les contenus et finalités sont assurés par l’éducation aux valeurs telle que définie à l’article 4 et de la rédaction de mémoires, les matières enseignées sont les mêmes que celles prévues pour les classes de troisième à première des différentes sections de l’enseignement secondaire et des classes de 10<sup>e</sup> à 12<sup>e</sup>, respectivement 13<sup>e</sup> des différents régimes, divisions et sections de l’enseignement secondaire technique.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5quinquies">
+					<num>Art. 5quinquies.</num>
+					<alinea>
+						<content>
+							<p>À l’exception de l’éducation physique, l’ensemble du programme de formation est divisé en modules obligatoires qui constituent la préparation indispensable au diplôme visé et en modules optionnels dont le volume ne peut pas excéder un quart du total des modules; chaque élève doit choisir un nombre déterminé de modules optionnels. Les élèves participent obligatoirement à deux activités complémentaires dont une d’éducation physique et sportive. Un règlement grand-ducal détermine le nombre de modules par année scolaire, les modules obligatoires, les modules optionnels et le nombre de modules optionnels que l’élève doit choisir. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5sexies">
+					<num>Art. 5sexies.</num>
+					<alinea>
+						<content>
+							<p>La rédaction de mémoires constitue un travail de recherche créative, de réflexion et de synthèse réalisé soit individuellement soit en groupe. Chaque mémoire fait l’objet d’une soutenance publique.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En classe de 3<sup>e</sup>, le mémoire réalisé en travail en groupe porte sur un sujet de culture générale.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En classe de 2<sup>e</sup>, le mémoire individuel porte sur la spécialisation de l’élève.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les modalités d’acceptation du sujet, de volume et de présentation du mémoire, de direction et d’appréciation du mémoire sont déterminées par règlement grand-ducal.»</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_iii">
+				<num>«Chapitre III.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">L’encadrement des élèves»</heading>
+				<article id="art_6">
+					<num>Art. 6.</num>
+					<alinea>
+						<content>
+							<p>L’horaire hebdomadaire est agencé en vue de l’intégration de l’enseignement et de l’encadrement éducatif des élèves par des équipes pédagogiques composées d’enseignants et d’éducateurs gradués.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le directeur place plusieurs classes sous la responsabilité d’une équipe pédagogique, chargée de l’organisation de l’enseignement, des séquences d’études et des activités complémentaires. L’équipe se concerte sur la progression des élèves, sur la conception des études et les mesures de perfectionnement à proposer. Elle coordonne les projets et assure leur caractère interdisciplinaire.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans la mesure du possible, une même équipe accompagne les mêmes classes pendant le cycle d’orientation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Chaque élève est suivi par un tuteur qui est un enseignant membre de l’équipe pédagogique.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le tuteur est l’interlocuteur privilégié des parents. L’équipe pédagogique organise une disponibilité pour le tutorat.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La tâche des enseignants comporte une tâche d’enseignement et la concertation dans les équipes pédagogiques, la préparation et l’organisation des cours en commun, la disponibilité, la surveillance, des travaux administratifs ainsi que la participation à des séances de formation continue.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«La tâche hebdomadaire de l’éducateur gradué comprend:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>la collaboration dans les équipes pédagogiques;</li>
+								<li>l’organisation et la supervision des séquences d’études et de récréation;</li>
+								<li>le soutien et l’accompagnement des élèves dans l’acquisition de compétences sociales;</li>
+								<li>l’élaboration de projets socio-éducatifs;</li>
+								<li> des activités pédagogiques au sein de l’établissement scolaire;</li>
+								<li> l’éducation des élèves à la vie lycéenne dans un contexte de coopération et de participation.»</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le volume de la tâche d’enseignement des enseignants et le volume des activités qu’ils doivent prester au lycée en dehors de l’enseignement sont fixés par règlement grand-ducal. Il en est de même du volume de la tâche des éducateurs gradués, ainsi que du volume de la tâche des autres personnels occupés au lycée-pilote.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_iv">
+				<num>«Chapitre IV.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">La structure participative»</heading>
+				<article id="art_7">
+					<num>Art. 7.</num>
+					<alinea>
+						<content>
+							<p>L’organisation du lycée-pilote est établie conformément aux dispositions de la <ref href="/eli/etat/leg/loi/2004/06/25/n9/jo" id="c2f4dafd-724d-45a8-8b80-c8295ba55399">loi du 25 juin 2004</ref> portant organisation des lycées et lycées techniques, à l’exception des dispositions de l’article 20 relatives à la composition du conseil de classe et de celles de l’article 36 relatives à la composition du conseil d’éducation. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_8">
+					<num>Art. 8.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation aux dispositions de l’article 20 de la <ref href="/eli/etat/leg/loi/2004/06/25/n9/jo" id="7fda9065-6880-4b46-beb1-f189ef7be681">loi du 25 juin 2004</ref> portant organisation des lycées et lycées techniques, il est institué pour chaque classe un conseil de classe composé de l’équipe pédagogique de la classe, du directeur du lycée ou de son délégué, ainsi que d’un représentant du Service de Psychologie et d’Orientation scolaires.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_v">
+				<num>«Chapitre V.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">La promotion au cycle d’orientation»</heading>
+				<article id="art_9">
+					<num>Art. 9.</num>
+					<alinea>
+						<content>
+							<p>Pendant le cycle d’orientation, à la fin de chaque année scolaire, le conseil de classe propose sur la base du dossier et du bulletin, documentant dans quelle mesure l’élève a développé le socle de compétences pour suivre avec fruit l’enseignement dans la classe subséquente, aux parents:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>soit de faire avancer l’élève dans la classe suivante du même ordre ou régime d’enseignement;</li>
+								<li>soit de l’orienter vers une classe subséquente d’un ordre ou régime d’enseignement mieux adapté à ses capacités et ses aspirations;</li>
+								<li>soit de faire redoubler l’élève.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les parents avalisent la proposition de progression ou d’orientation faite par le conseil de classe. Dans le cas contraire, les parents et l’élève s’engagent à prendre les dispositions préconisées par le conseil de classe pour assurer le progrès de l’élève dans la classe suivante. À la fin du premier trimestre, le conseil de classe apprécie si l’élève et les parents respectent les dispositions préconisées. À défaut, le conseil de classe décide de réorienter l’élève.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_10">
+					<num>Art. 10.</num>
+					<alinea>
+						<content>
+							<p>Il est institué un jury auquel, à la fin du cycle d’orientation, l’équipe pédagogique présente le dossier et le bulletin de l’élève ainsi qu’un avis de promotion et d’orientation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Chaque jury comprend:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>un enseignant qui peut se prévaloir d’une expérience d’enseignement au régime technique de l’enseignement secondaire technique;</li>
+								<li>un enseignant qui peut se prévaloir d’une expérience d’enseignement au régime professionnel de l’enseignement secondaire technique;</li>
+								<li>deux enseignants qui peuvent se prévaloir d’une expérience d’enseignement dans la division supérieure de l’enseignement secondaire;</li>
+								<li> le directeur du lycée-pilote ou son délégué.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les enseignants qui sont membres du jury sont choisis parmi des titulaires enseignant dans des lycées ou lycées techniques autres que le lycée-pilote et ils sont nommés par le ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le jury prend une décision de promotion et d’orientation. Il vérifie si l’élève a suffisamment développé le socle de compétences pour suivre avec fruit l’enseignement dans l’ordre, le régime et la section qu’il a visés dans son projet de formation. Il prend également en considération l’avis exprimé par ses parents.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’élève peut demander à être entendu par le jury. Le jury peut également demander à entendre un élève.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le jury prend sa décision à la majorité des voix. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres du jury touchent une indemnité à fixer par le Gouvernement en conseil.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_11">
+					<num>Art. 11.</num>
+					<alinea>
+						<content>
+							<p>Pour les élèves de l’enseignement secondaire technique, le jury prend l’une des décisions suivantes:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>il admet l’élève en classe de 10<sup>e</sup> de l’enseignement secondaire technique en déterminant le régime de formation et la ou les sections qui lui sont accessibles;</li>
+								<li> il admet l’élève en classe de 4<sup>e</sup> de l’enseignement secondaire;</li>
+								<li>il donne à l’élève la possibilité de redoubler la classe ou lui propose une orientation vers une formation de transition à la vie active.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour les élèves de l’enseignement secondaire, le jury prend l’une des décisions suivantes:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>il admet l’élève en classe de 3<sup>e</sup> de l’enseignement secondaire en déterminant la ou les sections qui lui sont accessibles;</li>
+								<li> il oriente l’élève en classe de 10<sup>e</sup> de l’enseignement secondaire technique en déterminant le régime de formation et la ou les sections qui lui sont accessibles;</li>
+								<li>il donne à l’élève la possibilité de redoubler la classe.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Sur recommandation de l’équipe pédagogique les élèves de la classe de 5<sup>e</sup> peuvent également se soumettre au jury qui prend l’une des décisions suivantes: </p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>il admet l’élève en classe de 3<sup>e</sup> de l’enseignement secondaire en déterminant la ou les sections qui lui sont accessibles;</li>
+								<li>il admet l’élève en classe de 10<sup>e</sup> de l’enseignement secondaire technique en déterminant le régime de formation et la ou les sections qui lui sont accessibles.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_vi">
+				<num>
+					<b>«Chapitre VI.</b>
+				</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="n">
+					<b> La promotion au cycle de formation</b>
+				</heading>
+				<article id="art_11bis">
+					<num>Art. 11bis.</num>
+					<alinea>
+						<content>
+							<p>Pendant le cycle de formation la promotion des élèves se fait sur la base de l’évaluation des modules et des ajournements et de l’acceptation du mémoire. Chaque module, chaque ajournement est évalué par une note. Un module ou un ajournement est réussi lorsque la moitié des points a été obtenue. Les critères d’évaluation des modules et d’acceptation du mémoire sont déterminés par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’élève qui réussit chaque module et dont le mémoire est accepté réussit l’année.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’élève qui obtient des notes insuffisantes dans plus du quart des modules échoue.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un mémoire non accepté peut être soutenu une seconde fois en septembre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans tous les autres cas, le conseil de classe décide soit d’une réussite, soit d’un échec, soit d’un ou de plusieurs ajournements. Le conseil de classe peut consulter l’élève avant de prendre sa décision.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’élève ajourné qui a obtenu une note suffisante dans chaque épreuve d’ajournement ainsi que l’élève dont le mémoire soutenu en septembre a été accepté réussit l’année.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le conseil de classe peut dispenser un élève redoublant de la rédaction d’un mémoire et de la passation d’un certain nombre de modules réussis au cours de l’année précédente et l’admettre à des modules de la classe suivante. Pour être admis aux modules de la classe de 1<sup>re</sup>, l’élève doit avoir réussi la classe de deuxième. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En classe de première, la note annuelle dans une branche est la moyenne arithmétique des notes obtenues dans les différents modules de cette branche. Dans chaque branche, l’épreuve finale de deux modules est à double correction. La note annuelle en éducation physique est celle attribuée dans le cadre de l’activité complémentaire y afférente.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_11ter">
+					<num>Art. 11ter.</num>
+					<alinea>
+						<content>
+							<p>L’examen de fin d’études secondaires des élèves du lycée-pilote est celui prévu pour les élèves des autres lycées par l’article 60 de la <ref href="/eli/etat/leg/loi/1968/05/10/n1/jo" id="26a63efc-feae-4775-a95f-47b8ce1a6128">loi modifiée du 10 mai 1968</ref> portant réforme de l’enseignement secondaire.» </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_12">
+					<num>Art. 12.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation aux dispositions de l’article 36 de la <ref href="/eli/etat/leg/loi/2004/06/25/n9/jo" id="97055d08-dbbb-4847-a271-fbbbbfb93eda">loi du 25 juin 2004</ref> portant organisation des lycées et lycées techniques, le conseil d’éducation du lycée-pilote comprend, en dehors du directeur de l’établissement, deux délégués du comité des élèves et deux délégués du comité des parents d’élèves, trois délégués du comité des professeurs et un délégué du comité des éducateurs gradués.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les attributions du comité des éducateurs gradués qui se donne un règlement interne de fonctionnement sont fixées par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_vii">
+				<num>«Chapitre VII.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">Le personnel du lycée-pilote»</heading>
+				<article id="art_13">
+					<num>Art. 13.</num>
+					<alinea>
+						<content>
+							<p>Le personnel de l’établissement comprend les fonctions et emplois prévus par:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>l’article 3 de la <ref href="/eli/etat/leg/loi/1989/06/22/n2/jo" id="ed05e960-8a64-4f2c-91ed-213107b0d9b0">loi du 22 juin 1989</ref> portant modification de la <ref href="/eli/etat/leg/loi/1968/05/10/n1/jo" id="f4231ad5-ee0a-430f-9e8f-1d0fbfe4ad05">loi modifiée du 10 mai 1968</ref> portant réforme de l’enseignement, titre VI: de l’enseignement secondaire;</li>
+								<li>l’article 6, paragraphes 3 et 4, ainsi que par les articles 52 et 53 de <ref href="/eli/etat/leg/loi/1990/09/04/n1/jo" id="d1d5da6a-5a30-435a-a76c-3b416a5a755f">loi modifiée du 4 septembre 1990</ref> portant réforme de l’enseignement secondaire technique et de la formation professionnelle continue.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14">
+					<num>Art. 14.</num>
+					<alinea>
+						<content>
+							<p>Les qualifications du directeur et du directeur adjoint de l’établissement sont celles requises dans les lycées ou les lycées techniques.</p>
+						</content>
+					</alinea>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_14bis">
+					<num>
+						<span scl:style-format="n">«</span>Art. 14bis.</num>
+					<alinea>
+						<content>
+							<p>L’offre scolaire comprend un restaurant scolaire et un internat, placés sous la responsabilité du directeur du lycée-pilote.»</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_15">
+					<num>Art. 15.</num>
+					<alinea>
+						<content>
+							<p>Le Gouvernement est autorisé à procéder aux engagements de renforcement à titre permanent suivants:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>1 psychologue;</li>
+								<li>1 assistant social ou d’hygiène sociale;</li>
+								<li>14 éducateurs gradués;</li>
+								<li>1 rédacteur faisant fonction de secrétaire;</li>
+								<li>1 bibliothécaire-documentaliste; </li>
+								<li>2 employés de l’État de la carrière D;</li>
+								<li> 3 artisans;</li>
+								<li>1 concierge; </li>
+								<li>1 garçon de salle.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_16">
+					<num>Art. 16.</num>
+					<alinea>
+						<content>
+							<p>Les engagements définitifs au service de l’État résultant des dispositions de l’article 15 se font par dépassement de l’effectif total du personnel et en dehors du nombre des engagements de renforcement déterminés par les lois budgétaires pour les exercices futurs.<noteRef href="#note_0_0_0"/>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_17">
+					<num>Art. 17.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>p.m.</i>
+							</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>
+							<eop/>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_viii">
+				<num>«Chapitre VIII.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">Évaluation du lycée-pilote»</heading>
+				<article id="art_18">
+					<num>Art. 18.</num>
+					<alinea>
+						<content>
+							<p>Le fonctionnement du lycée-pilote fait l’objet d’une évaluation continue et un bilan est établi au plus tard cinq années après l’entrée en vigueur de la présente loi. </p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_ix">
+				<num>«Chapitre IX.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">Admission au lycée-pilote» </heading>
+				<article id="art_19">
+					<num>Art. 19.</num>
+					<alinea>
+						<content>
+							<p>Les élèves sont admis dans la première année du cycle d’orientation en fonction de l’avis d’orientation qui leur a été délivré à la fin de la sixième année de l’enseignement primaire. Ils sont répartis dans une classe correspondant soit à une classe de 7<sup>e</sup> d’orientation de l’enseignement secondaire, soit à une classe de 7<sup>e</sup> d’observation du cycle inférieur de l’enseignement secondaire technique, soit à une classe de première année du régime préparatoire de l’enseignement secondaire technique.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les élèves en provenance d’un autre lycée ou lycée technique sont admissibles à une classe correspondante de l’enseignement secondaire ou de l’enseignement secondaire technique et vice versa.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les élèves qui l’année précédente n’ont pas fréquenté une classe d’un lycée ou lycée technique du pays sont admis suivant les dispositions réglementaires en vigueur.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le lycée-pilote n’est pas soumis à la disposition de l’inscription prioritaire telle que définie à l’article 37 de la <ref href="/eli/etat/leg/loi/2004/06/25/n9/jo" id="9c890a95-7072-49be-8507-55fe00fa13cb">loi du 25 juin 2004</ref> portant organisation des lycées et lycées techniques.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<alinea>
+				<content>
+					<p>
+						<i>(<ref href="/eli/etat/leg/loi/2009/05/12/n3/jo" id="2e7e5248-038a-40b8-8dc7-e54eb6718c71">Loi du 12 mai 2009</ref>)</i>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_x">
+				<num>«Chapitre X.</num>
+				<heading scl:align="left" scl:separator=" " scl:style-format="b">Disposition dérogatoire»</heading>
+				<article id="art_20">
+					<num>Art. 20.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation à l’alinéa 1 de l’article 47 de la <ref href="/eli/etat/leg/loi/1968/05/10/n1/jo" id="c0f4386e-3f88-4993-9f43-6908ff766c0d" scl:verify="true">loi modifiée du 10 mai 1968</ref> portant réforme de l’enseignement, titre VI: de l’enseignement secondaire, l’enseignement des langues vivantes dans les classes de 7<sup>e</sup> du lycée-pilote comprend les langues française, allemande, luxembourgeoise et anglaise.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/07/2018 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2012 pr\u00E9cisant les modalit\u00E9s des formations pr\u00E9vues aux articles 7, 8 (1) c), 9 b) et 10 (1) b) de la loi du 2 septembre 2011 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20180730/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "40827dbe92a54cced08922644cbb9f5f5018c061948af7b8092d599e55d8adec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20180730/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n1/consolide/20180730/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "68d42d470f3b8fc48576a76171aea47e6399535e7906fa4e14bd8894456d56a2"
+  "record_sha256": "21f32e584c14511efaf9bfd9cef8bcc832e9d70b6e3cd57276989f441ea8e45d"
 }

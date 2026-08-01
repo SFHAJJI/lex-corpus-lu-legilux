@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2020 : R\u00E8glement grand-ducal du 27 juin 2018 fixant le montant des droits d\u2019inscription aux cours organis\u00E9s par l\u2019Institut national des langues.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/consolide/20200101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b8e904ee2b3e36aa0c829a7cbea4c0eff412e0e3b75d6ec96b692b307f73e641",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/consolide/20200101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/27/a563/consolide/20200101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a6fe713403e116a6e3a1830ca02be66d92a5a16638fc488c5fe2717a08e674d7"
+  "record_sha256": "6eef95217ee2f0ce79e6b12fac9f740e7c272f49e1ceb76f79c2642bb56fe24e"
 }

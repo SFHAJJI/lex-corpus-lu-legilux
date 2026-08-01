@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2009 : R\u00E8glement grand-ducal du 5 f\u00E9vrier 1993 relatif aux dispositifs m\u00E9dicaux implantables actifs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/consolide/20090323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "57ff6bbbb39460de98b4e495bd3fc4dedeb1d78499820ce2978097b25820ac48",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/consolide/20090323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/02/05/n1/consolide/20090323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1bc58fc2fd22b086cdbc09193290feb40384bcca6d165c8d50d440c4a13133dd"
+  "record_sha256": "cc936111b356ab7d3741923be836cccca4221d315f0d032bcfe6295bd57408c1"
 }

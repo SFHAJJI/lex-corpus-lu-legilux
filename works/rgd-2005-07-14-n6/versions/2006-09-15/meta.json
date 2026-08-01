@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2005 : R\u00E8glement grand-ducal du 14 juillet 2005 d\u00E9terminant l\u0027\u00E9valuation et la promotion des \u00E9l\u00E8ves de l\u0027enseignement secondaire technique et de l\u0027enseignement secondaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n6/consolide/20060915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "474dbc93e2080e16b2caee248567994a418ef34b7e9cfcec78122ecd402ff5d6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n6/consolide/20060915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/07/14/n6/consolide/20060915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f296a475f72a24904887c5704449b1e22934daa4e9426541eae6dadb4ddb6c3c"
+  "record_sha256": "7fc55f2b9a08f5bd8e9db0f01ffe0a209f5e87c301b55ec105f609110c9f40ca"
 }

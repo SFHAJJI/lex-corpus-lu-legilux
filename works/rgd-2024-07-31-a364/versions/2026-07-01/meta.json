@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2026 : R\u00E8glement grand-ducal du 31 juillet 2024 relatif \u00E0 la participation de l\u2019Arm\u00E9e luxembourgeoise \u00E0 la mission d\u2019assistance militaire de l\u2019Union europ\u00E9enne au Mozambique (EUMAM Mozambique).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a364/consolide/20260701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b0b7421b782ed95cf6d4247abae22ab8ea26b916b04accd835e414eaf338da92",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a364/consolide/20260701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a364/consolide/20260701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7f76a4b844effbbb8769c5bf1b10b35ca975b6b6466b06797429fbec87f5ef23"
+  "record_sha256": "49159d7e0d676a4520a212adb04b7e2de95da6bdd16b0d7f4f8c9afe75414920"
 }

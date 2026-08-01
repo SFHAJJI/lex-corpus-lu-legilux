@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/08/2021 : Administration Gouvernementale - D\u00E9mission.",
       "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2021/06/16/b3039/consolide/20210803/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c21875f27b6622abdabf7159a37a574f068cfae8737188901a725b361aa1ad08",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2021/06/16/b3039/consolide/20210803/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/adm/pa/2021/06/16/b3039/consolide/20210803/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "62280006b52cb45741ea149d3046369a0f8496d6749b663298e1fbe6bc4ac816"
+  "record_sha256": "b7e915ce39a46d5df53ff713abd1e104849089360a7c2782d447ac01a96e5b6f"
 }

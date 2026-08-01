@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/1998 : Loi du 8 janvier 1996 modifiant et compl\u00E9tant a) la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat; b) la loi modifi\u00E9e du 22 juin 1963 fixant la valeur num\u00E9rique des traitements des fonctionnaires de l\u0027Etat ainsi que des modalit\u00E9s de mise en vigueur de la loi du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat; c) la loi du 29 juillet 1988 portant modification et nouvelle coordination de la loi du 26 mai 1954 r\u00E9glant les pensions des fonctionnaires de l\u0027Etat; d) la loi du 23 d\u00E9cembre 1994 concernant le budget des recettes et des d\u00E9penses de l\u0027Etat pour l\u0027exercice 1995.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8df61c137fef9350d3e123c90b07e139dca0378d83d701f2b3a373dafa2a2f64",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/08/n1/consolide/19980101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8f9f94a1db5e444eddb27d62e7a3df61809310f056c39a6211bcd7be38b7d952"
+  "record_sha256": "41bf913774808aec9c9797c407d83e020421c76cd909423912f73a1eaa3eb65a"
 }

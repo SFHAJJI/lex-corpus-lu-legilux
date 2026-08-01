@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/03/2026 : R\u00E8glement grand-ducal du 16 d\u00E9cembre 2011 concernant l\u2019emploi des armes et munitions de chasse, les moyens autoris\u00E9s pour l\u2019exercice de la chasse ainsi que l\u2019emploi du chien de chasse.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/16/n2/consolide/20260303/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e56a58a2256eab8a93d90fd52b6082a3d92af946c6c51ed954c2abed5c2514ef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/16/n2/consolide/20260303/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/12/16/n2/consolide/20260303/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "db47ddd13a96b4cd558ea76dfe8cff291b8209959fa841538730adc6b464e098"
+  "record_sha256": "fffbfa71c5d4d53f0c1914cf55e4d1dbea43cfa97d6840592567d2b15525f04b"
 }

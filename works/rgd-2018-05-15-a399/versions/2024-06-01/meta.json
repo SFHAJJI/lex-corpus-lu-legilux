@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2024 : R\u00E8glement grand-ducal du 15 mai 2018 \u00E9tablissant les listes de projets soumis \u00E0 une \u00E9valuation des incidences sur l\u2019environnement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20240601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c51954ad736a4979896c3417f8cf1bf990136ede0722a5ceb68b82356ca4dca7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20240601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/15/a399/consolide/20240601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a3e6710c3ebfa7b5070758b8f0911b6fa59c8576e81a8c78ec981982f259c73c"
+  "record_sha256": "31cc5c2ae7706385fa0bb51e8559eae14b5f7cb3f1d7b884194ef21524f47a58"
 }

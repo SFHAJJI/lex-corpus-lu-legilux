@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/07/2021 : R\u00E8glement grand-ducal du 6 juin 2018 instituant un r\u00E9gime d\u2019aide sur les parcelles agricoles situ\u00E9es dans les zones de protection des eaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/06/a476/consolide/20210709/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "090a772d4d781e9e9649f8f71d8e9e46df34ff11d36226e1239611049d4473c1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/06/a476/consolide/20210709/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/06/06/a476/consolide/20210709/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d393c51288b854274e67bd4da30cc2ee28a953d95bed91b7ed628f0b507cde74"
+  "record_sha256": "24a513eb044f66905fe0272ebf7bca3e85ae12c1052886e621ac1886258818c2"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2008 : Loi du 17 mai 1882 sur les poids et mesures.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20080601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "139f25ca54f959a1c75ca9313817ee788c3899933b633c426cb8f3199b157c90",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20080601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1882/05/17/n1/consolide/20080601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fe47d6723061406d5232a2fa22c501783226ee506d24131e5780bbb1f0dde595"
+  "record_sha256": "7aaf9655b3a12f19273cf70231bc0cac0287543114966e12bda25fe4520a1307"
 }

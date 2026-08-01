@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/11/2017 : R\u00E8glement grand-ducal du 16 janvier 2017 concernant l\u2019ex\u00E9cution de certains arr\u00EAts et d\u00E9cisions de la Cour de Justice Benelux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/16/a81/consolide/20171120/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8dbd204030369321116e9e3242e185d9b64b9fd22a0b4a45adede063f4f92fb7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/16/a81/consolide/20171120/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/16/a81/consolide/20171120/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "40209ce00411310ed2d7acc29183fd6e93819e0b76162d03855c83658f03e9b9"
+  "record_sha256": "47ba05f8e50376a65463b026936e0b49fe46185539b4cb446c727a2317da9fe5"
 }

@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 22/07/2022 : R\u00E8glement grand-ducal du 1er ao\u00FBt 2018 concernant les biotopes prot\u00E9g\u00E9s et habitats, pr\u00E9cisant les biotopes prot\u00E9g\u00E9s, les habitats d\u2019int\u00E9r\u00EAt communautaire et les habitats des esp\u00E8ces d\u2019int\u00E9r\u00EAt communautaire pour lesquelles l\u2019\u00E9tat de conservation a \u00E9t\u00E9 \u00E9valu\u00E9 non favorable, et pr\u00E9cisant les mesures de r\u00E9duction, de destruction ou de d\u00E9t\u00E9rioration y relatives.",
       "title_short": "R\u00E8glement grand-ducal modifi\u00E9 du 1er ao\u00FBt 2018 concernant les biotopes prot\u00E9g\u00E9s et habitats.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a774/consolide/20220722/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4e32df68519ccb498d2dda84e604624f445c81cad1fadc1df26b97379077d476",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a774/consolide/20220722/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/01/a774/consolide/20220722/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4732679ed9896d79d6d89e8c552a6571b4f20017e2e06de87bbcf7c5a788a3f4"
+  "record_sha256": "f8e6166d0d2f816b9b0127ea4bc05c7b7c77e54a44b9ffabbbd95ba1a06e7d60"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 9 mai 2008 relative aux chiens.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bfcdd18ec0c497d4428ed2166976c80533b1535751b5fa0b5fb257cd8bf03a21",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0b1a941074a01c9f853112c1e1f8b4e8a946c4c58e6d068ca9874a66bec5c474"
+  "record_sha256": "f565bc3a209ed04a9fba3e1daa28138f15de23510871a967433c85f030b7de6f"
 }

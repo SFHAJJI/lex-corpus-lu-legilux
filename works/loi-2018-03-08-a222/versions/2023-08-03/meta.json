@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 03/08/2023 : Version consolid\u00E9e applicable au 19/10/2021 : Loi du 8 mars 2018 relative aux \u00E9tablissements hospitaliers et \u00E0 la planification hospitali\u00E8re, et portant modification :\\n1. du Code de la s\u00E9curit\u00E9 sociale ;\\n2. de la loi modifi\u00E9e du 21 novembre 1980 portant organisation de la Direction de la sant\u00E9 ;\\n3. de la loi modifi\u00E9e du 16 juillet 1984 relative aux laboratoires d\u2019analyses m\u00E9dicales ;\\n4. de la loi du 19 d\u00E9cembre 2003 portant cr\u00E9ation de l\u2019\u00E9tablissement public \u00AB\u00A0Centre national de r\u00E9\u00E9ducation fonctionnelle et de r\u00E9adaptation\u00A0\u00BB ;\\n5. de la loi du 7 ao\u00FBt 2012 portant cr\u00E9ation de l\u2019\u00E9tablissement public \u00AB\u00A0Laboratoire national de sant\u00E9\u00A0\u00BB ;\\n6. de la loi du 24 juillet 2014 relative aux droits et obligations du patient ;\\n7. de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat.",
       "title_short": "Loi du 8 mars 2018 relative aux \u00E9tablissements hospitaliers et \u00E0 la planification hospitali\u00E8re.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/03/08/a222/consolide/20230803/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "67ee06b42b37f9f35f4758b42016a577dde7e65f321fda0dfe3909e661d08ec2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/03/08/a222/consolide/20230803/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/03/08/a222/consolide/20230803/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e428984da7b0e77badcec66aa799179ed393bdde0ee303eca1a6a63f2318839e"
+  "record_sha256": "75f8f8f2be1d8851a4bdd672517c6fee3ce8d7d854915106745efcbcf10aa77e"
 }

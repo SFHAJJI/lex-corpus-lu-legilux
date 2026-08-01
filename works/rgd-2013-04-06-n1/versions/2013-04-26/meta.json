@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 26/04/2013 : R\u00E8glement grand-ducal du 6 avril 2013 concernant la cr\u00E9ation et l\u2019usage d\u2019un signe distinctif particulier \u00ABPresse\u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/04/06/n1/consolide/20130426/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0f79a690a2b45215121d02d9d5fc0720596c36b82c747fe2abf2320daf1fbaa0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/04/06/n1/consolide/20130426/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/04/06/n1/consolide/20130426/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "00d5c4b55d1f7cbc8616f852bf1c30c7303d12c67fdf1f0b33792d3be471775a"
+  "record_sha256": "f3cef784403af0f13701cd3af127d04be13ecab221b51fac08598013745ded8f"
 }

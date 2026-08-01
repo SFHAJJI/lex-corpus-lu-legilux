@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2016-06-27" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MEN"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2016-06-27" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2016-06-27" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+						<scl:jolux scl:name="dateEndApplicability">2018-06-29</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2016-06-27</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/61</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1546</scl:jolux>
+						<scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2016-06-30</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a111</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2016A1988A</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RGD</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2016-06-30</scl:jolux>
+						<scl:jolux scl:name="initiatedBy">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr</scl:jolux>
+					<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr/html</scl:jolux>
+					<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:name="draft">/eli/etat/proj/pr/20160020</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/2002/07/25/n3/jo</scl:jolux>
+					<scl:jolux scl:name="cites">/eli/etat/leg/loi/1991/07/05/n1/jo</scl:jolux>
+					<scl:jolux scl:name="repeals">/eli/etat/leg/rgd/2014/07/18/n2/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">Version consolidée applicable au 13/08/2017 : Règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d'affectation et de réaffectation des candidats à un poste d'instituteur dans l'enseignement fondamental.</scl:jolux>
+					<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2009/02/06/n4/jo</scl:jolux>
+					<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2009/02/06/n3/jo</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-111-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a111/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rgd-2016-06-27-n1-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-111-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a111/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2016/a111/fr/pdf/eli-etat-leg-memorial-2016-a111-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2016-06-27" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+				<eventRef date="2017-08-13" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+				<eventRef date="2018-06-30" id="e2" originatingExpression="false" source="#rp2" type="amendment"/>
+			</lifecycle>
+			<analysis source="#">
+				<passiveModifications>
+					<textualMod id="pm1" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_1er"/>
+					</textualMod>
+					<textualMod id="pm2" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_1er"/>
+					</textualMod>
+					<textualMod id="pm3" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_3"/>
+					</textualMod>
+					<textualMod id="pm4" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_3"/>
+					</textualMod>
+					<textualMod id="pm5" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_3"/>
+					</textualMod>
+					<textualMod id="pm6" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_3"/>
+					</textualMod>
+					<textualMod id="pm7" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_3"/>
+					</textualMod>
+					<textualMod id="pm8" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_3"/>
+					</textualMod>
+					<textualMod id="pm9" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_4"/>
+					</textualMod>
+					<textualMod id="pm10" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_4"/>
+					</textualMod>
+					<textualMod id="pm11" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_4"/>
+					</textualMod>
+					<textualMod id="pm12" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_5"/>
+					</textualMod>
+					<textualMod id="pm13" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_6"/>
+					</textualMod>
+					<textualMod id="pm14" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm15" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm16" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm17" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm18" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm19" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm20" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm21" incomplete="false" type="insertion">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm22" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm23" incomplete="false" type="insertion">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_10"/>
+					</textualMod>
+					<textualMod id="pm24" incomplete="false" type="substitution">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_11"/>
+					</textualMod>
+					<textualMod id="pm25" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_12"/>
+					</textualMod>
+					<textualMod id="pm26" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_15"/>
+					</textualMod>
+					<textualMod id="pm27" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2017/08/02/a697/jo"/>
+						<destination href="#art_15"/>
+					</textualMod>
+				</passiveModifications>
+			</analysis>
+			<references source="#">
+				<original href="/eli/etat/leg/rgd/2016/06/27/n1/jo" id="ro1" showAs="Original"/>
+				<passiveRef href="/eli/etat/leg/rgd/2018/06/22/a520/jo" id="rp2" showAs="Règlement grand-ducal du 22 juin 2018 modifiant le règlement grand-ducal modifié du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental."/>
+				<passiveRef href="/eli/etat/leg/rgd/2017/08/02/a697/jo" id="rp3" showAs="Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental."/>
+			</references>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M1" marker="1" refersTo="pm1" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M2" marker="2" refersTo="pm2" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M3" marker="3" refersTo="pm3" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M4" marker="4" refersTo="pm4" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M5" marker="5" refersTo="pm5" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M6" marker="6" refersTo="pm6" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M7" marker="7" refersTo="pm7" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M8" marker="8" refersTo="pm8" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M9" marker="9" refersTo="pm9" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M10" marker="10" refersTo="pm10" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M11" marker="11" refersTo="pm11" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M12" marker="12" refersTo="pm12" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M13" marker="13" refersTo="pm13" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M14" marker="14" refersTo="pm14" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M15" marker="15" refersTo="pm15" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M16" marker="16" refersTo="pm16" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M17" marker="17" refersTo="pm17" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M18" marker="18" refersTo="pm18" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M19" marker="19" refersTo="pm19" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M20" marker="20" refersTo="pm20" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M21" marker="21" refersTo="pm21" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M22" marker="22" refersTo="pm22" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M23" marker="23" refersTo="pm23" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M24" marker="24" refersTo="pm24" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M25" marker="25" refersTo="pm25" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M26" marker="26" refersTo="pm26" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp3">
+				<note id="M27" marker="27" refersTo="pm27" title="A|2017-08-09|2017-08-02|RGD|697">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/08/02/a697/jo">Règlement grand-ducal du 2 août 2017 modifiant 1. le règlement grand-ducal du 14 mai 2009 déterminant les informations relatives à l’organisation scolaire que les communes ou les comités des syndicats scolaires intercommunaux doivent fournir au ministre ayant l’Éducation nationale dans ses attributions ainsi que les modalités de leur transmission ; 2. le règlement grand-ducal du 11 août 2011 fixant le plan d’études pour les quatre cycles de l’enseignement fondamental ; 3. le règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des candidats à un poste d’instituteur dans l’enseignement fondamental ; et abrogeant le règlement grand-ducal du 27 avril 2009 fixant les modalités d’inscription au cours d’éducation morale et sociale et au cours d’instruction religieuse et morale ainsi que les modalités d’organisation du cours d’éducation morale et sociale aux 2e, 3e et 4e cycles de l’enseignement fondamental.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>Version consolidée applicable au 13/08/2017 : Règlement grand-ducal du 27 juin 2016 déterminant le détail des critères de classement ainsi que les modalités des procédures d'affectation et de réaffectation des candidats à un poste d'instituteur dans l'enseignement fondamental.</p>
+			</longTitle>
+		</preface>
+		<body>
+			<section id="chapitre_1er">
+				<num>Chapitre 1<sup>er</sup></num><heading scl:align="center" scl:separator=" - " scl:style-format="b">Procédure de réaffectation.</heading>
+				<article id="art_1er">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_1er</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_1er/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 1<sup>er</sup>.</num>
+					<alinea>
+						<content>
+							<p>Le membre du Gouvernement ayant l'Éducation nationale dans ses attributions, désigné ci-après par le terme «le ministre», procède aux réaffectations et affectations des instituteurs ainsi que des stagiaires-instituteurs dans le cadre d'au moins deux listes de postes vacants.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La publication des listes de postes d'instituteur vacants se fait sur le site Internet du ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse, désigné ci-après par le terme «le ministère».</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Aux fins de l'établissement de ces listes, les autorités communales font parvenir <mod class="mod-start" for="#pm1"/>au directeur de région<mod class="mod-end" for="#pm1"/>
+								<noteRef href="#M1" marker="1"/> leurs demandes relatives à la publication de postes vacants, y compris les postes à tâche partielle, tels qu'ils se dégagent de leur proposition d'organisation scolaire pour l'année scolaire subséquente. <mod class="mod-start" for="#pm2"/>Le directeur de région<mod class="mod-end" for="#pm2"/>
+								<noteRef href="#M2" marker="2"/> les transmet avec son avis au ministre.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_2">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_2</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_2/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 2.</num>
+					<alinea>
+						<content>
+							<p>Sur la première liste des postes vacants, le ministre publie les postes autorisés dans le cadre de la planification des besoins en personnel enseignant suivant l'article 33 de la <ref href="/eli/etat/leg/loi/2009/02/06/n4/jo" id="d23bb0a3-f58d-4168-90a8-da7a69e438d6" scl:verify="true">loi modifiée du 6 février 2009</ref> concernant le personnel de l'enseignement fondamental, pour les communes, les écoles et les classes créées par l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Sur la première liste des postes vacants, seulement les instituteurs déjà en fonction peuvent postuler.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_3">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_3</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_3/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 3.</num>
+					<paragraph id="paragraph_1">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Les instituteurs qui souhaitent changer d'affectation adressent leur demande, générée à l'aide de l'application informatique Scolaria, soit <mod class="mod-start" for="#pm3"/>au directeur de région<mod class="mod-end" for="#pm3"/>
+									<noteRef href="#M3" marker="3"/> s'ils briguent un poste dans une commune, soit au ministre s'ils briguent un poste dans une école ou une classe de l'État ou à <mod class="mod-start" for="#pm4"/>une direction de région<mod class="mod-end" for="#pm4"/>
+									<noteRef href="#M4" marker="4"/>.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_2">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Sont à joindre à la demande, générée à l'aide de l'application informatique Scolaria, les éléments suivants: </p>
+								<ol scl:symbol="1.">
+									<li>le rapport d'appréciation des performances professionnelles le plus récent ou, à défaut, la note d'inspection la plus récente;</li>
+									<li>les certificats, ou une copie de ces certificats, portant sur les années de service prestées dans l'enseignement fondamental, préscolaire, primaire ou autre, soit auprès de l'État, soit auprès d'une commune, indépendamment du volume de la tâche d'enseignement. Comme année de service est comptée une année scolaire pendant laquelle un agent a été engagé pendant huit mois au moins dans l'enseignement précité;</li>
+									<li>la liste de l'ordre des préférences, qui est identique pour chaque demande, et qui est jointe en triple exemplaire à chaque demande.</li>
+								</ol>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les demandes avec pièces à l'appui doivent parvenir <mod class="mod-start" for="#pm5"/>au directeur<mod class="mod-end" for="#pm5"/>
+									<noteRef href="#M5" marker="5"/> respectivement au ministre dans le délai prescrit lors de la publication des vacances des postes d'instituteur.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>
+									<mod class="mod-start" for="#pm6"/>Le directeur<mod class="mod-end" for="#pm6"/>
+									<noteRef href="#M6" marker="6"/> respectivement le ministre en vérifie la recevabilité. Les candidatures qui parviennent après le délai prescrit ne sont pas prises en considération.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>
+									<mod class="mod-start" for="#pm7"/>Le directeur<mod class="mod-end" for="#pm7"/>
+									<noteRef href="#M7" marker="7"/> transmet les demandes de postes relevant de communes, munies de la liste de l'ordre des préférences des candidats, aux autorités communales concernées. <mod class="mod-start" for="#pm8"/>Le directeur<mod class="mod-end" for="#pm8"/>
+									<noteRef href="#M8" marker="8"/> garde un exemplaire de chaque liste de l'ordre des préférences et en transmet un autre au ministre.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_4">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_4</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_4/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 4.</num>
+					<alinea>
+						<content>
+							<p>Pour chaque poste vacant, <mod class="mod-start" for="#pm9"/>respectivement le directeur ou<mod class="mod-end" for="#pm9"/>
+								<noteRef href="#M9" marker="9"/> le ministre établit le classement des candidats d'après le total des points attribués selon les critères suivants: </p>
+							<ol>
+								<li>
+									<p>le rapport d'appréciation des performances professionnelles le plus récent indique le niveau de performance obtenu, allant du niveau 1 au niveau 4. Le niveau 1 équivaut à 5 points, le niveau 2 à 10 points, le niveau 3 à 15 points et le niveau 4 à 20 points.</p>
+									<p>Les candidats ne bénéficiant pas encore d'un rapport d'appréciation des performances professionnelles peuvent faire valoir leur note d'inspection la plus récente. Celle-ci tient compte des compétences professionnelles de l'instituteur ainsi que de son engagement professionnel. Elle est décernée par <mod class="mod-start" for="#pm10"/>le directeur<mod class="mod-end" for="#pm10"/>
+										<noteRef href="#M10" marker="10"/> et correspond à une des quatre valeurs suivantes: 5, 10, 15 ou 20 points.</p>
+									<p>L'attribution d'une note d'inspection doit être sollicitée auprès <mod class="mod-start" for="#pm11"/>du directeur<mod class="mod-end" for="#pm11"/>
+										<noteRef href="#M11" marker="11"/> avant la fin du deuxième trimestre de l'année scolaire en cours.</p>
+									<p>Aux candidats ne faisant pas valoir de note d'inspection, il sera mis en compte cinq points.</p>
+									<p>Toute note d'inspection décernée antérieurement à la mise en vigueur du présent règlement est arrondie vers le bas à une des quatre valeurs précitées.</p>
+									<p>À partir de l'année scolaire 2016/2017, seule sera prise en considération une note d'inspection établie selon les modalités définies au point 1. </p>
+								</li>
+								<li>l'ancienneté de service, pour laquelle il sera compté un point par année de service, telle que définie ci-dessus à l'article 3, paragraphe 2.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_5</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_5/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 5.</num>
+					<alinea>
+						<content>
+							<p>Les conseils communaux procèdent aux propositions de réaffectation des candidats au plus tôt trois jours après le délai fixé par le ministre pour le dépôt des candidatures, en opérant leur choix entre tous les candidats ayant postulé pour un même poste. Ils transmettent au ministre avant le 20 juin, pour chaque poste vacant, copie de la délibération consignant leur proposition, munie des pièces à l'appui de la candidature retenue.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre réaffecte les candidats qui lui ont été proposés par les autorités communales.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Au cas où deux ou plusieurs communes proposent au ministre le même candidat, la réaffectation se fait dans le respect de l'ordre de la liste de préférences du candidat. Les communes concernées en sont directement informées de même que les instituteurs et les <mod class="mod-start" for="#pm12"/>directeurs<mod class="mod-end" for="#pm12"/>
+								<noteRef href="#M12" marker="12"/> concernés.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre procède aux réaffectations des candidats aux postes vacants des écoles ou classes de l'État avant le 21 juin.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_6">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_6</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_6/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>
+						<mod class="mod-start" for="#pm13"/>Art. 6.</num>
+					<alinea>
+						<content>
+							<p>Si à l’expiration du terme découlant d’un congé sans traitement ou d’un congé pour travail à mi-temps, il n’y a pas de vacance de poste correspondant à sa qualification dans sa commune d’affectation, l’instituteur concerné, suite à sa demande et après avoir été entendu par le ministre en ses observations, est réaffecté d’office, au sein de la région, dans une commune, une école, une classe de l’État ou à la direction.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Si aucun poste n’est vacant dans cette région, l’instituteur est réaffecté soit, au sein d’une région avoisinante, dans une commune, une école, une classe de l’État ou à la direction de cette région, soit dans la réserve de suppléants.<mod class="mod-end" for="#pm13"/>
+								<noteRef href="#M13" marker="13"/>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_7">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_7</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_7/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 7.</num>
+					<alinea>
+						<content>
+							<p>À l'issue des réaffectations effectuées lors de la première liste, le ministre fait publier sur la première liste bis les différents postes d'instituteur devenus vacants suite aux réaffectations précitées et auxquels peuvent uniquement postuler les instituteurs en fonction.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les instituteurs postulant à la première liste <i>bis</i> adressent leur demande, générée par l’intermédiaire de l’application informatique Scolaria, au ministre dans les délais et selon les modalités arrêtées par celui-ci sur le site Internet du ministère. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>À chaque demande sont jointes les pièces suivantes:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>le rapport d’appréciation des performances professionnelles le plus récent ou, à défaut, la note d’inspection telle que précisée à l’article 4;</li>
+								<li> les certificats, ou une copie de ces certificats, portant sur les années de service prestées dans l’enseignement fondamental, préscolaire, primaire ou autre, soit auprès de l’État, soit auprès d’une commune, indépendamment du volume de la tâche d’enseignement. Comme année de service est comptée une année scolaire pendant laquelle un agent a été engagé pendant huit mois au moins dans l’enseignement fondamental;</li>
+								<li> la liste de l’ordre des préférences, qui est identique pour chaque demande, et qui est jointe à chaque demande. </li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions individuelles de réaffectation d’un instituteur sont prises par le ministre entre tous les candidats classés sur une liste sur base des mêmes éléments pris en compte pour classer les candidats postulant lors de la première liste. En cas d’égalité les candidats seront départagés par tirage au sort. </p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+			<section id="chapitre_2">
+				<num>Chapitre 2</num>
+				<heading scl:separator=" – " scl:style-format="b"> Procèdure d'affectation et de répartition.</heading>
+				<article id="art_8">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_8</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_8/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 8.</num>
+					<alinea>
+						<content>
+							<p>Après les opérations de réaffectation des instituteurs dans le cadre de la première liste et de la première liste <i>bis</i>, le ministre détermine, parmi les postes d’instituteur restés vacants ou devenus vacants, ceux qui sont réservés pour les stagiaires-instituteurs admissibles au stage au début de l’année scolaire subséquente.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les stagiaires-instituteurs sont affectés en fonction de leur rang au classement établi au concours réglant l’admission au stage préparant à la fonction d’instituteur de l’enseignement fondamental. Cette affectation vaut pour toute la durée du stage.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les stagiaires-instituteurs postulant sur la liste des postes leur réservés présentent leur demande selon les modalités arrêtées par le ministre sur le site Internet du ministère. La demande parviendra au ministre dans les délais fixés par celui-ci.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_9">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_9</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_9/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 9.</num>
+					<alinea>
+						<content>
+							<p>À l’issue des réaffectations effectuées lors de la première liste et de la première liste bis, le ministre constate, pour chaque commune ainsi que pour les écoles et les classes de l’État, les besoins subsistant en postes, y compris les postes à tâche partielle. Il fait publier sur la deuxième liste les postes qui restent vacants, à l’exception des postes destinés aux stagiaires-instituteurs admis au stage au début de l’année scolaire subséquente et auxquels il est pourvu selon les modalités arrêtées à l’article 8. La deuxième liste des postes vacants est publiée pour le 15 juillet au plus tard sur le site Internet du ministère.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les demandes, générées à l’aide de l’application informatique Scolaria, doivent parvenir au ministre, qui en vérifie la recevabilité, dans le délai prescrit lors de la publication des vacances des postes d’instituteur avec les pièces à l’appui requises.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les stagiaires-instituteurs ayant réussi à toutes les épreuves du stage et non encore nommés à la fonction d’instituteur peuvent postuler dans le cadre de la deuxième liste des postes d’instituteur vacants. Le ministre les affecte à un poste vacant selon le critère du nombre de points obtenus au bilan de fin de stage réglant l’accès à la fonction d’instituteur. Le relevé des points obtenus par les candidats au bilan de fin de stage réglant l’accès à la fonction d’instituteur sera transmis au ministre par le directeur de l’Institut de formation de l’Éducation nationale pour le 15 juillet. En cas d’égalité les candidats seront départagés par tirage au sort.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_10">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_10</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_10/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 10.</num>
+					<alinea>
+						<content>
+							<p>À l’issue des affectations effectuées lors de la deuxième liste, les chargés de cours, membres de la réserve de suppléants et bénéficiant d’un contrat de travail à durée indéterminée, sont réaffectés ou affectés par le ministre selon les modalités suivantes: </p>
+							<ol scl:space-num="10" scl:symbol="custom">
+								<li scl:symbol="1.">Ils sont affectés ou réaffectés pour une période de cinq ans à <mod class="mod-start" for="#pm14"/>une direction de région<mod class="mod-end" for="#pm14"/>
+									<noteRef href="#M14" marker="14"/>. À cette fin, ils font parvenir au ministre une demande faite selon les modalités et dans le délai arrêtés par celui-ci.</li>
+								<li scl:symbol="2.">Après l’écoulement d’une période de cinq ans depuis leur première affectation ou réaffectation, ils peuvent opter soit d’être affectés <mod class="mod-start" for="#pm15"/>à la direction d’une autre région<mod class="mod-end" for="#pm15"/>
+									<noteRef href="#M15" marker="15"/>, soit d’être réaffectés <mod class="mod-start" for="#pm16"/>à la même direction de région<mod class="mod-end" for="#pm16"/>
+									<noteRef href="#M16" marker="16"/>. Dans ce dernier cas ils bénéficient d’une priorité sur les autres chargés de cours, membres de la réserve de suppléants, postulant pour <mod class="mod-start" for="#pm17"/>la même direction de région<mod class="mod-end" for="#pm17"/>
+									<noteRef href="#M17" marker="17"/> et qui n’y étaient pas affectés pendant l’année scolaire précédente.</li>
+								<li scl:symbol="3.">Si au cours de sa période d’affectation de cinq ans à <mod class="mod-start" for="#pm18"/>une direction de région<mod class="mod-end" for="#pm18"/>
+									<noteRef href="#M18" marker="18"/>, cette affectation devient caduque, faute de poste vacant dans <mod class="mod-start" for="#pm19"/>cette région<mod class="mod-end" for="#pm19"/>
+									<noteRef href="#M19" marker="19"/>, l’agent, suite à sa demande et après avoir été entendu en ses observations par le ministre, est affecté d’office <mod class="mod-start" for="#pm20"/>à la direction d’une région avoisinante<mod class="mod-end" for="#pm20"/>
+									<noteRef href="#M20" marker="20"/>
+									<mod class="mod-start" for="#pm21"/>
+								</li>
+								<li>
+									<p>
+										<span style="li_symbol">3<i>bis</i>.</span>
+									</p>Au cours de sa période d’affectation de cinq ans à une direction de région, dans l’intérêt du service ou en raison d’un changement de domicile, l’agent concerné, suite à sa demande et après avoir été entendu par le ministre en ses observations, est réaffecté d’office pour une nouvelle période de cinq ans à la direction d’une autre région dans le cadre de la prochaine procédure de réaffectation.<mod class="mod-end" for="#pm21"/>
+									<noteRef href="#M21" marker="21"/>
+									<mod class="mod-start" for="#pm22"/>
+								</li>
+								<li scl:symbol="4.">L’affectation et la réaffectation des agents précités à une direction de région sont faites par le ministre d’après une liste de classement des candidats établie par celui-ci, selon l’ordre de classement défini ci-dessous et subsidiairement selon l’ancienneté de service, prise en compte telle que définie ci-dessous, et en second ordre de subsidiarité, selon l’âge des agents :<ol scl:start="1" scl:symbol="a)">
+										<li>
+											<ol scl:start="1" scl:symbol="1)">
+												<li>chargés de cours détenteurs d’un diplôme d’études supérieures préparant à la fonction d’instituteur ne s’étant pas classés en rang utile lors du concours réglant l’admission au stage préparant à la fonction d’instituteur ;</li>
+												<li>chargés de cours détenteurs d’un diplôme d’études supérieures préparant à la fonction d’instituteur remplissant les conditions de langue en vue de l’admission au concours réglant l’admission au stage préparant à la fonction d’instituteur ;</li>
+											</ol>
+										</li>
+										<li>
+											<ol scl:start="1" scl:symbol="1)">
+												<li>chargés de cours détenteurs du certificat de qualification de chargé de direction établi conformément aux dispositions de la <ref href="/eli/etat/leg/loi/1991/07/05/n1/jo" id="4192873e-0230-42e6-bcae-110f02ca3571">loi modifiée du 5 juillet 1991</ref> portant : a) fixation des modalités d’une formation préparant transitoirement à la fonction d’instituteur ; b) fixation des modalités d’une formation préparant transitoirement au certificat de qualification de chargé de direction ; c) création d’un pool de remplaçants pour l’éducation préscolaire et l’enseignement primaire ; d) dérogation à la <ref href="/eli/etat/leg/loi/1989/05/24/n1/jo" id="81c36311-1bf8-495b-a48c-2cdf106c9ed8">loi du 24 mai 1989</ref> sur le contrat de travail ;</li>
+												<li>chargés de cours détenteurs d’une attestation d'admissibilité à la réserve de suppléants établie conformément à la <ref href="/eli/etat/leg/loi/2002/07/25/n3/jo" id="26ea9780-cad7-4afa-941f-8dd0b1910afb">loi modifiée du 25 juillet 2002</ref> concernant le remplacement des instituteurs de l'éducation préscolaire et de l'enseignement primaire ;</li>
+												<li>chargés de cours détenteurs du certificat de formation établi conformément à la <ref href="/eli/etat/leg/loi/2009/02/06/n4/jo" id="f728e7c0-7d02-43a0-8a69-f99668906974">loi modifiée du 6 février 2009</ref> concernant le personnel de l’enseignement fondamental ;</li>
+												<li>chargés de cours détenteurs du certificat de formation établi conformément à la <ref href="/eli/etat/leg/loi/2017/08/02/a696/jo" id="6d4a9416-35b3-4b80-b74a-d4a3a2ddcf0f">loi du 2 août 2017</ref> portant organisation de la reprise des enseignants de religion et des chargés de cours de religion ;</li>
+											</ol>
+										</li>
+										<li>chargés de cours engagés à durée indéterminée et à tâche complète ou partielle ;</li>
+										<li>chargés de cours en cycle de formation engagés à durée indéterminée et à tâche complète ou partielle.<mod class="mod-end" for="#pm22"/>
+											<noteRef href="#M22" marker="22"/>
+										</li>
+									</ol>
+								</li>
+								<li scl:symbol="5.">Pour la prise en compte de l’ancienneté de service, il sera compté un point par année de service. Comme année de service est comptée une année scolaire pendant laquelle un agent a été engagé pendant huit mois au moins dans l’enseignement fondamental, préscolaire, primaire ou autre, soit auprès de l’État, soit auprès d’une commune, <mod class="mod-start" for="#pm23"/>soit auprès de l’Archevêché de Luxembourg<mod class="mod-end" for="#pm23"/>
+									<noteRef href="#M23" marker="23"/> indépendamment du volume de sa tâche d’enseignement.</li>
+								<li scl:symbol="6.">Les chargés de cours, membres de la réserve de suppléants, font parvenir au ministre tous les documents que celui-ci juge nécessaire en vue de l’établissement de la liste de classement mentionnée au point 4. La liste est établie dans le respect des pièces disponibles à la date fixée par le ministre.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_11">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_11</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_11/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 11.</num>
+					<alinea>
+						<content>
+							<p>La procédure d'affectation et de réaffectation des chargés de cours, membres de la réserve de suppléants, est suivie de la répartition de ceux-ci dans les communes, les écoles et classes de l'État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Cette répartition annuelle est faite par le ministre selon les critères énumérés à l'article 10, point 4, sous réserve de l'observation des dispositions suivantes: </p>
+							<ol>
+								<li>Les chargés de cours, membres de la réserve de suppléants, peuvent être répartis d'office, suite à leur demande, pour une année scolaire à la commune, à l'école ou à la classe de l'État, s'ils y étaient répartis l'année scolaire précédente. Au cas où plusieurs candidats sont en lice pour une même vacance de poste, la répartition se fait selon les critères énumérés à l'article 10, point 4.</li>
+								<li>Les chargés de cours, membres de la réserve de suppléants, ayant accompli avec succès une formation d'au moins cent vingt heures, attestée par un institut de formation luxembourgeois ou étranger, pour la tenue de cours d'accueil, peuvent bénéficier d'une priorité lors de la procédure de répartition des chargés de cours dans les communes, les écoles et classes de l'État, à condition qu'ils y occupent un poste de cours d'accueil pour au moins la moitié d'une tâche complète.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En vue de leur répartition dans une commune, une école ou classe de l'État, les chargés de cours, membres de la réserve de suppléants, adressent une demande au ministre selon les modalités et dans les délais fixés par celui-ci.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les agents qui n'introduisent pas de demande valable dans les délais impartis seront répartis d'office par le ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<mod class="mod-start" for="#pm24"/>
+								<del>Par dérogation à l'article 10, point 4, la Ville de Luxembourg est considérée comme formant un seul arrondissement d'inspection dans le cadre des opérations d'affectation et de répartition des chargés de cours, membres de la réserve de suppléants.</del>
+								<mod class="mod-end" for="#pm24"/>
+								<noteRef href="#M24" marker="24"/>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_12">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_12</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_12/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 12.</num>
+					<alinea>
+						<content>
+							<p>Les décisions d'affectation et de répartition d'enseignants sont communiquées sans délai aux <mod class="mod-start" for="#pm25"/>directeurs<mod class="mod-end" for="#pm25"/>
+								<noteRef href="#M25" marker="25"/> ainsi qu'aux autorités communales, afin de leur permettre de compléter les organisations scolaires, ainsi qu'aux candidats concernés.</p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+			<section id="chapitre_3">
+				<num>Chapitre 3</num>
+				<heading scl:separator=" –" scl:style-format="b"> Dispositions abrogatoires, transitoires et finales.</heading>
+				<article id="art_13">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_13</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_13/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 13.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 13.</num>
+					<alinea>
+						<content>
+							<p>Le <ref href="/eli/etat/leg/rgd/2014/07/18/n2">règlement grand-ducal modifié du 18 juillet 2014</ref> déterminant le détail des critères de classement ainsi que les modalités des procédures d'affectation et de réaffectation des candidats à un poste d'instituteur dans l'enseignement fondamental est abrogé.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_14</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_14/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 14.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation à l'article 9, les détenteurs d'un brevet d'aptitude pédagogique délivré par l'Institut pédagogique, les détenteurs d'un certificat d'études pédagogiques délivré avant l'année scolaire 1994/1995 par l'Institut supérieur d'études et de recherches pédagogiques, ainsi que les candidats ayant passé avec succès le concours réglant l'accès à la fonction d'instituteur avant le 1<sup>er</sup> septembre 2009 et qui ne sont pas nommés à la fonction au moment de l'entrée en vigueur de la <ref href="/eli/etat/leg/loi/2009/02/06/n4/jo" id="f56a1990-364b-4867-b3c1-6d47a2ff2547" scl:verify="true">loi modifiée du 6 février 2009</ref> concernant le personnel de l'enseignement fondamental, sont admis au stage préparant à la fonction d'instituteur suite à leur demande, adressée au ministre avant le 15 juin. Suite à leur admission, ils adressent une demande d'affectation au ministre dans le cadre de la liste des postes réservés aux stagiaires-instituteurs et selon les modalités de postulation définies par celui-ci à l'article 8. Les candidats visés par le présent article sont classés avant les autres stagiaires-instituteurs selon la date de l'obtention de leur certificat de réussite au concours réglant l'accès à la fonction d'instituteur de l'enseignement fondamental.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_15">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_15</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_15/20170813</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 15.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2017-08-13</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 15.</num>
+					<alinea>
+						<content>
+							<p>Les chargés de cours bénéficiant d'un contrat à durée indéterminée auprès d'une administration communale, ainsi que les fonctionnaires communaux, les employés communaux et les salariés des communes en service auprès des écoles d'une commune à l'entrée en vigueur de cette même loi, habilités à effectuer des remplacements dans l'enseignement fondamental, ne peuvent occuper un poste vacant d'instituteur après la deuxième liste des postes vacants que dans l'hypothèse où aucune candidature d'un instituteur ou d'un membre de la réserve de suppléants n'a été introduite et sous condition de l'avis favorable <mod class="mod-start" for="#pm26"/>du directeur de région<mod class="mod-end" for="#pm26"/>
+								<noteRef href="#M26" marker="26"/>.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les autorités communales concernées signalent pour le 1<sup>er</sup> juillet au plus tard au ministre les candidatures éventuelles, accompagnées de l'avis favorable <mod class="mod-start" for="#pm27"/>du directeur de région<mod class="mod-end" for="#pm27"/>
+								<noteRef href="#M27" marker="27"/>, avec pour chaque candidature le volume hebdomadaire de leçons d'enseignement suivant son contrat à durée indéterminée.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre tient compte de ces candidatures avant de procéder à l'affectation à des postes par des remplaçants, conformément à l'article 27 de la <ref href="/eli/etat/leg/loi/2009/02/06/n4/jo" id="641c6010-0083-4a6b-950d-ae8993a1da2d" scl:verify="true">loi modifiée du 6 février 2009</ref> concernant le personnel de l'enseignement fondamental.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_16">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_16</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_16/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 16.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 16.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation à l'article 9, alinéa 1, pour les années 2016 et 2017, la deuxième liste des postes d'instituteur vacants est publiée pour le 25 juillet au plus tard.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_17">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_17</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_17/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 17.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 17.</num>
+					<alinea>
+						<content>
+							<p>Les stagiaires-instituteurs qui sont nommés à la fonction d'instituteur avant le 1<sup>er</sup> juin continuent à bénéficier de l'affectation qu'ils ont reçue lors de leur admission au stage et ce jusqu'à la fin de l'année scolaire en cours. Ils postulent une nouvelle affectation dans le cadre de la première liste et de la première liste bis des postes d'instituteur vacants.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_18">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_18</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_18/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 18.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 18.</num>
+					<alinea>
+						<content>
+							<p>Le présent règlement grand-ducal entre en vigueur le jour de sa publication au Mémorial.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_19">
+					<scl:JOLUXWork>
+						<scl:JOLUXComplexWork>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_19</scl:jolux>
+						</scl:JOLUXComplexWork>
+						<scl:JOLUXLegalResource>
+							<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1/art_19/20160630</scl:jolux>
+							<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n1</scl:jolux>
+							<scl:jolux scl:lg="fra" scl:name="title">Art. 19.</scl:jolux>
+							<scl:jolux scl:name="dateApplicability">2016-06-30</scl:jolux>
+							<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+						</scl:JOLUXLegalResource>
+					</scl:JOLUXWork>
+					<num>Art. 19.</num>
+					<alinea>
+						<content>
+							<p>Notre Ministre de l'Éducation nationale, de l'Enfance et de la Jeunesse est chargé de l'exécution du présent règlement qui sera publié au Mémorial.</p>
+						</content>
+					</alinea>
+				</article>
+			</section>
+		</body>
+	</act>
+</akomaNtoso>

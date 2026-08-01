@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/03/2016 : R\u00E8glement grand-ducal du 30 janvier 2002 d\u00E9terminant les modalit\u00E9s du programme de traitement de la toxicomanie par substitution.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20160329/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f42977f2db1ae61661dfb4d6bdfd31ebffcc478c874204dc786e5f3debfdcd66",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20160329/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/01/30/n1/consolide/20160329/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3c5d3707e1f43f2064efebc4e7dede2f0ab0a53e69c22134901504f3353358d0"
+  "record_sha256": "89f181cec13bfa74dcd5e5565a0272478ce8e70dafdd72ec94cbc90f5135819c"
 }

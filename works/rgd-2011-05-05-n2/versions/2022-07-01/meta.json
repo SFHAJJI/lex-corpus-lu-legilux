@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2022 : R\u00E8glement grand-ducal du 5 mai 2011 fixant les mesures d\u0027ex\u00E9cution relatives aux aides individuelles au logement promouvant l\u0027acc\u00E8s \u00E0 la propri\u00E9t\u00E9 et pr\u00E9vues par la loi modifi\u00E9e du 25 f\u00E9vrier 1979 concernant l\u0027aide au logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3e910011e72957b5ed4dc47cd381fc1767e9eea84db3cce7d3c32529229eebc6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/05/05/n2/consolide/20220701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b146a1a78429f072c596792b8ed12edd198d27d5c856c860b16a781d4aa0a324"
+  "record_sha256": "5ec65f52d6a13ca05d92e350a5eb59a9883256cc9702c251001fa916465183ef"
 }

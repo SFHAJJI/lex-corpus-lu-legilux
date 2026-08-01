@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/08/2021 : Loi du 20 juin 2020 portant adaptation temporaire de certaines modalit\u00E9s proc\u00E9durales en mati\u00E8re p\u00E9nale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20210818/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "771acbbdc68c5cbdaa4914ec48413532fba2efe5b95886ab3faf51c6d8a88097",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20210818/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a542/consolide/20210818/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "05afa44ce5e2101d0eab7c614bdfaf6407154b7651d03df9cf7b6165d5ba3e61"
+  "record_sha256": "4ec7a295e9b38d44fe8ffe3f43e503f1aed8298fcb48ef326cb03da0a3b7b918"
 }

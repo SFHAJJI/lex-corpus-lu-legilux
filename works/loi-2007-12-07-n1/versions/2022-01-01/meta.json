@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : Loi du 7 d\u00E9cembre 2007 autorisant l\u0027Etat \u00E0 fournir une garantie bancaire pour la r\u00E9alisation et l\u0027exploitation d\u0027un r\u00E9seau de chaleur urbain.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/07/n1/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "75f21f3fdde72fed67236947051d666ee38323ead7b1c61e9458a08cf55a2c8e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/07/n1/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/07/n1/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "db28f8d60764cacd8894179c5014396e667237241c273a513e59c620f54845d9"
+  "record_sha256": "940d294d9e58ac55cb4dd75936043ab018cf150e037732c89c48991a3c2b3e0b"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2024 : R\u00E8glement grand-ducal du 21 d\u00E9cembre 2018 concernant une r\u00E9duction de la teneur en soufre de certains combustibles liquides.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a17/consolide/20240601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9c13ab574e92cd31b3fc44be407142be9446e66fb5e8ea925266b85486bb142e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a17/consolide/20240601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a17/consolide/20240601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8a0971c986ad1856b27d26aebb8fd19168c48e1bde1079f0cca473baed59410f"
+  "record_sha256": "ee3a442bfa9e2b284efa6b87884c01c154c36db174c8b2c91b24805f579a9599"
 }

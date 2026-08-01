@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/06/1998 : Loi du 16 ao\u00FBt 1967 ayant pour objet la cr\u00E9ation d\u0027une grande voirie de communication et d\u0027un fonds des routes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19980613/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "eddda1e3275375d43277785f4603ac563d6952139471ef9a29289f01e09f65ec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19980613/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1967/08/16/n1/consolide/19980613/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ee88e7dbbc5bed35450379c67333a698cd3dbf38798badc742b40de1cc1ebce5"
+  "record_sha256": "5e32635252767b3af112473e1e9e3fec701c102eb6f351d0530d4808bb30a2dc"
 }

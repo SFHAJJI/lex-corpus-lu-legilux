@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/11/2020 : Loi du 20 juin 2020 portant\\n1\u00B0 prorogation de mesures concernant\\n- la tenue d\u2019audiences publiques pendant l\u2019\u00E9tat de crise devant les juridictions dans les affaires soumises \u00E0 la proc\u00E9dure \u00E9crite,\\n- certaines adaptations de la proc\u00E9dure de r\u00E9f\u00E9r\u00E9 exceptionnel devant le juge aux affaires familiales,\\n- la suspension des d\u00E9lais en mati\u00E8re juridictionnelle, et\\n- d\u2019autres modalit\u00E9s proc\u00E9durales,\\n2\u00B0 d\u00E9rogation temporaire aux articles 74, 75, 76 et 83 de la loi modifi\u00E9e du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat,\\n3\u00B0 d\u00E9rogation temporaire aux articles 15 et 16 de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat, et\\n4\u00B0 modification de l\u2019article 89 de la loi modifi\u00E9e du 8 mars 2017 sur la nationalit\u00E9 luxembourgeoise.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a523/consolide/20201125/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "af0be62e7ac0b59dab1c31e845bfad23bd7c87312217e6c192b68ea8e89265d1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a523/consolide/20201125/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a523/consolide/20201125/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d34d430dbc5212b9e54bc4cc181ea7de07abfa986076cfadfba84cdde871cfa"
+  "record_sha256": "7e31a95f63ab1656433a03cca8d90c0feb5439f4d5dc3d29fe6e94b251f24180"
 }

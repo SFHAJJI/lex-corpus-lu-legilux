@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/04/2015 : Loi du 23 f\u00E9vrier 2010 relative \u00E0 l\u0027application du principe de reconnaissance mutuelle aux sanctions p\u00E9cuniaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/consolide/20150421/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "38a155beec87f41002e23329170a0eb8fedcfdac0f7052a4fbe595df41717c84",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/consolide/20150421/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/02/23/n1/consolide/20150421/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0a7de069cee53d4bad764d772a4d80d61f147b8b79ed1d73c78af555ea1e50e6"
+  "record_sha256": "9103d52d55d79481d13189f05370d85e6a1652abcca2fa83cb415abdf4dda2ac"
 }

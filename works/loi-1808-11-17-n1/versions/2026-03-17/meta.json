@@ -23,15 +23,22 @@
       "title": "Code de proc\u00E9dure p\u00E9nale",
       "title_short": "Code de proc\u00E9dure p\u00E9nale",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20260317/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "192c5037956668dec928bc05d4830b12cff1943f732330e65b01446c2164e90a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20260317/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/procedure_penale/20260317/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cf6e5cb94ad91f65d861bb8477745d20c01c1db8840a18ee2b8a977d00a50ec2"
+  "record_sha256": "8fb182685560d76f97ed18d41c0afd1c2cdef665d3fe84aa1975ca08228b77a3"
 }

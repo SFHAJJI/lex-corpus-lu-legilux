@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 21/03/2023 : Loi du 30 novembre 2022 relative \u00E0 la concurrence et portant :\\n1\u00B0 organisation de l\u2019Autorit\u00E9 nationale de concurrence ;\\n2\u00B0 modification de la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat ;\\n3\u00B0 modification de la loi modifi\u00E9e du 21 juin 1999 portant r\u00E8glement de proc\u00E9dure devant les juridictions administratives ;\\n4\u00B0 modification de la loi modifi\u00E9e du 10 f\u00E9vrier 2015 relative \u00E0 l\u2019organisation du march\u00E9 de produits p\u00E9troliers ;\\n5\u00B0 modification de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat ;\\n6\u00B0 modification de la loi modifi\u00E9e du 23 juillet 2016 relative \u00E0 la profession de l\u2019audit ;\\n7\u00B0 modification de la loi du 5 mars 2021 relative \u00E0 certaines modalit\u00E9s de mise en \u0153uvre du r\u00E8glement (UE) n\u00B0 2019/1150 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 promouvant l\u2019\u00E9quit\u00E9 et la transparence pour les entreprises utilisatrices de services d\u2019interm\u00E9diation en ligne ;\\n8\u00B0 modification de la loi du 1er juin 2021 sur les relations entre entreprises au sein de la cha\u00EEne d\u2019approvisionnement agricole et alimentaire.\\n",
       "title_short": "Loi du 30 novembre 2022 relative \u00E0 la\u00A0concurrence.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20230321/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a8e6b028d2a9d83d8906c6e30c4bd7022767c474d01bf0b05ce7bface0a950e2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20230321/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/11/30/a588/consolide/20230321/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fd73183e2d196804323f5b29350a28d8023206cfe224505b5a60ecc5da93f754"
+  "record_sha256": "867b59f0682865299fea9d2f0658d5ddb0a1b05f6a5ec05c125b383232620593"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 4 juillet 2008 sur la jeunesse.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/07/04/n1/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a641a8b34038c3bbb3c49ebd10b72f2708916db7ae0121d87dc1faa4a4a45394",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/07/04/n1/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/07/04/n1/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "131ad9006f0dacb090e4e161bd4d32076b739337b24fe9af0fa803b6547e3a1d"
+  "record_sha256": "ba3935ac946c96d28a32a5e7a26fb5e6f19f32a611c06ddc2abad23dee3ed09a"
 }

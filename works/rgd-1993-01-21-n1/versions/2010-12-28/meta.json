@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/2010 : R\u00E8glement grand-ducal du 21 janvier 1993 d\u00E9terminant les modalit\u00E9s d\u0027attribution des concessions pour les services radiodiffus\u00E9s luxembourgeois \u00E0 rayonnement international, ainsi que les r\u00E8gles g\u00E9n\u00E9rales gouvernant ces concessions et les cahiers des charges qui leur sont assortis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n1/consolide/20101228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7ae3400661211fdb6080af31793f2716fec2679ca45826a431d5bf52468fe9e6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n1/consolide/20101228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/01/21/n1/consolide/20101228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "912fd68e70948ad4bb669a23be77d122026a7fc8ca0ee6bd9c404ba6bb303341"
+  "record_sha256": "7cbd700e2f8888e05462de37b9c5b15e4b9d1cc4b33189208e94530b2837c1cf"
 }

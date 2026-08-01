@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 11 ao\u00FBt 2006\\n 1. relative \u00E0 la lutte antitabac;\\n 2. modifiant la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u0027Etat;\\n 3. modifiant la loi modifi\u00E9e du 24 d\u00E9cembre 1985 fixant le statut g\u00E9n\u00E9ral des fonctionnaires communaux;\\n 4. modifiant la loi modifi\u00E9e du 17 juin 1994 concernant la s\u00E9curit\u00E9 et la sant\u00E9 des travailleurs au travail;\\n 5. abrogeant la loi modifi\u00E9e du 24 mars 1989 portant restriction de la publicit\u00E9 en faveur du tabac et de ses produits, interdiction de fumer dans certains lieux et interdiction de la mise sur le march\u00E9 des tabacs \u00E0 usage oral.",
       "title_short": "Loi du 11 ao\u00FBt 2006 relative \u00E0 la lutte antitabac",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b26a23f740c1b530b696e1f53ac97cdef6af0d58d56d86b3c404678cd835d3ef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/08/11/n1/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "577df1a1953a4172725c6b50a8c985cd245957709dd1b5f6554d5cdaffceb209"
+  "record_sha256": "4dd77aec2bc0fd8007d3b213f2a71b9ec3c59e083ecc78c97aeb8090ca5b674d"
 }

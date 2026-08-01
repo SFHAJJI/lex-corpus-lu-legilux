@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/05/2026 : R\u00E8glement minist\u00E9riel du 6 mai 2026 interdisant les \u00E9volutions d\u2019a\u00E9ronefs sans \u00E9quipage \u00E0 bord le 16 et le 17 mai 2026 lors du \u00AB\u00A0ING Night Marathon\u00A0\u00BB.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2026/05/06/a230/consolide/20260516/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ff8338c133851fd3f011b5245e13eb8972b9968f5e7e72cd6649821822655f4b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2026/05/06/a230/consolide/20260516/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2026/05/06/a230/consolide/20260516/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "964aaad5a870ac2f68ad85beec06a190e9a5ec48ce76d9e84f7e157256bf7797"
+  "record_sha256": "1f4c318c962de066bf59fdbdc0486ac3f5f8a21e57b058672dd27e1c0eb45f80"
 }

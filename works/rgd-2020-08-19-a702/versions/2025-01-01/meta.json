@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 19 ao\u00FBt 2020 portant introduction d\u2019une aide financi\u00E8re pour l\u2019installation de bornes de charge priv\u00E9es pour v\u00E9hicules \u00E9lectriques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/08/19/a702/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1bff2f0ccea25f408f5e0c4555e4d860b58ee35018bf66405a0959e70ecbd0e1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/08/19/a702/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/08/19/a702/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4b2e385d9ffe2502fea4f1d54b2f14c944cabc033389f7f4b84ec5033697fe51"
+  "record_sha256": "4d7e28b700b8986184ba39d3d13db27200a9dc4e1b7f84a737a185f48328abd4"
 }

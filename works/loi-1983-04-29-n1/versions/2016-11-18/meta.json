@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/11/2016 : Loi du 29 avril 1983 concernant l\u2019exercice des professions de m\u00E9decin, de m\u00E9decin-dentiste et de m\u00E9decin-v\u00E9t\u00E9rinaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20161118/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cccc0a6412a83ce38a8be9b01b45b9c3e44d8a195c84a707ddbf1c1b4a6d9ffa",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20161118/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/04/29/n1/consolide/20161118/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "94de053d18b44e696a289a5600c9b1534401d1beb1d82c2b9af81a1fae2e6f1f"
+  "record_sha256": "549df066d32402f3b021ba44f85ce83a7b8f81ca2af8f0d278f5838179d8f0f7"
 }

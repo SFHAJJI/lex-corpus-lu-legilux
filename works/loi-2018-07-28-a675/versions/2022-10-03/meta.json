@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/10/2022 : Loi du 28 juillet 2018 instaurant un syst\u00E8me de contr\u00F4le et de sanctions relatif aux denr\u00E9es alimentaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a675/consolide/20221003/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fbf6a74530a9e1f322cf245300629d9b9635d4be3161aa4b5eb57a9598d6010f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a675/consolide/20221003/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/28/a675/consolide/20221003/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6ec30889e3a01247a1062aa29ea4b9018d72d1fb05d9a9cf4de1cf8854252259"
+  "record_sha256": "5cff840429eb53df0ef81d109fe81cab07d6370146371756215cbba2f8dd7279"
 }

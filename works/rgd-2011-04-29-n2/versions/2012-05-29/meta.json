@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/05/2012 : R\u00E8glement grand-ducal du 29 avril 2011 portant application de la directive 2008/50/CE du Parlement europ\u00E9en et du Conseil du 21 mai 2008 concernant la qualit\u00E9 de l\u0027air ambiant et un air pur pour l\u0027Europe.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/29/n2/consolide/20120529/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2977333b11722471d74ac6f1e23c6e9c85bf2b8af9e0e3cdaa0c02572a16e3f2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/29/n2/consolide/20120529/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/29/n2/consolide/20120529/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a8be554266d41500d8233813ac2f13880888430f43b6082d1e60cfc5d353dd5e"
+  "record_sha256": "c29e75cbb11381654baa6c0e4b7a724d18d8a197f913782b5f7a6fcdd39a9355"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/07/2024 : Loi du 8 juin 2004 sur la libert\u00E9 d\u2019expression dans les m\u00E9dias.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20240726/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bf8f35e0fedfe6d3f132bbafd5b99f27f070210a976d93c0e5ba41d76c099e60",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20240726/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20240726/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "32300485da2f2c67290603e04ec2de487f9700642e9875a0fa78736622cc970a"
+  "record_sha256": "4a922a7557c6ae291b1399957f1f7d0d6553a35f821baadcc500b79c9d5efc84"
 }

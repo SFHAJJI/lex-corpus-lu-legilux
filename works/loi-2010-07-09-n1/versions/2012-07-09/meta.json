@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/07/2012 : Loi relative au Fonds europ\u00E9en de stabilit\u00E9 financi\u00E8re.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20120709/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fcff2927fedd64c9b1e1e11f4c87d5d4534378ffa6b1195397889f46549f983e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20120709/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/07/09/n1/consolide/20120709/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "634c6239af63b4466b5b6b5c732d980c2fb2b99631a312a4a2d0b5b0f88ca79c"
+  "record_sha256": "eff661b916ee04b5f8f3d609ae0d9f8a15b0e088364bbc8db0e7a14ec184cc4f"
 }

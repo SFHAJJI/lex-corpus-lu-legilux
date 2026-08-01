@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/12/2022 : Loi du 26 janvier 1922 portant certaines modifications au service de la v\u00E9rification des poids et mesures.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1922/01/26/n1/consolide/20221227/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "914c66df0e3af638cebdb543f050373b1f5482560ee184a3d4953036a792c081",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1922/01/26/n1/consolide/20221227/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1922/01/26/n1/consolide/20221227/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "97af91fb0c7a5e42f7d517b5670904611c0dac545dba6f8ce5fe90e4c8e47c1c"
+  "record_sha256": "f942ac95346d353b903ce537fdc0e75eca2bb6e92e0c83b7a469449f8f79daab"
 }

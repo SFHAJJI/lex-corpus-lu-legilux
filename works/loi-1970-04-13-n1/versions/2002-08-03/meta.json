@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/08/2002 : Loi du 13 avril 1970 fixant les conditions suivant lesquelles le Gouvernement peut soit acqu\u00E9rir certains immeubles pr\u00E9sentant un int\u00E9r\u00EAt public, soit garantir le rendement et les charges locatifs de tels immeubles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1970/04/13/n1/consolide/20020803/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9326b25d55fe0d912ddbce5476c6f40a0496271fa3d6edf8c5483c265e788d82",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1970/04/13/n1/consolide/20020803/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1970/04/13/n1/consolide/20020803/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0007bcbe4cd2b010f42c4c3c7f565c50de591f2f19c845aa0307f3dd9d37fbf5"
+  "record_sha256": "8c4b234fede9ad10bae618984ec70106f261dbc22fff6247916df11788141d5c"
 }

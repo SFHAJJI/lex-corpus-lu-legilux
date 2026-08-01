@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/04/2017 : Loi du 27 juin 1906, concernant la protection de la sant\u00E9 publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/20170403/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "df6cbe9a02b759b578453aa065bd878f72e1e089278b0982d37c1bd510d20409",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/20170403/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1906/06/27/n3/consolide/20170403/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "28af6fd928efe241bf891478a8042fae351ec336b5e5e2c1c9e87119193da630"
+  "record_sha256": "38678d0da8ccabc042b3e738c3eb4be5789f9d3bbe323d9a35cd77e022f0ca94"
 }

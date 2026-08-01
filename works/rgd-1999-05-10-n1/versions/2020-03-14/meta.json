@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/03/2020 : R\u00E8glement grand-ducal du 10 mai 1999 d\u00E9finissant les maladies ou d\u00E9ficiences d\u0027une gravit\u00E9 exceptionnelle en application de l\u0027article 15, alin\u00E9a 2 de la loi du 12 f\u00E9vrier 1999 portant cr\u00E9ation d\u0027un cong\u00E9 parental et d\u0027un cong\u00E9 pour raisons familiales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/consolide/20200314/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "28c654a39f5f648bdc2f0ac0155f31857db95d6f6fe85a0cc0b0d6efe9910f14",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/consolide/20200314/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/05/10/n1/consolide/20200314/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c2964125becc59c14d0fdced9bbd90852ed47f9133c0920b881badba071114d6"
+  "record_sha256": "64c37ec9c2bb378b19616fd9890ee5bd4df53eb63f79dc6b86e3f368e4b704e8"
 }

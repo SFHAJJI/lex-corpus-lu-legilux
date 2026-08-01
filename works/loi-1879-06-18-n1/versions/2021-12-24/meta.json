@@ -23,15 +23,22 @@
       "title": "Code p\u00E9nal",
       "title_short": "Code p\u00E9nal",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/penal/20211224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1ac80bd120bdd380b598738f828d8838883baef3802ef1ee92a20a2f3f5a120b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/penal/20211224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/penal/20211224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "902ae2a9ceb87f0d9d3bc24b743409c2fd9f832db4de3b359bfb92363bc23e43"
+  "record_sha256": "60cd9ae7dd56033916593c8e5058f9afaf54fbc1be4f80c640ba79571ea771de"
 }

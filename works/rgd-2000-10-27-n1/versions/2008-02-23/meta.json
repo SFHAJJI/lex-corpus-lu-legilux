@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/02/2008 : R\u00E8glement grand-ducal du 27 octobre 2000 d\u00E9terminant \u00E0 l\u2019Institut national d\u2019administration publique - l\u2019organisation de la commission de coordination, - la collaboration avec les administrations et \u00E9tablissements publics de l\u2019Etat et - la collaboration avec le Minist\u00E8re de l\u2019Int\u00E9rieur et les administrations et \u00E9tablissements publics des communes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20080223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8475272114c4599ad1a660028c07c8229e31293a90760c1af1fb2de41e32c343",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20080223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/10/27/n1/consolide/20080223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "84bfeddcdc33ac6ad7fc6c84eee53b5c1deedb03fd391fa1bc4ad617e796120f"
+  "record_sha256": "82ba0acdbac1d6261e10853829d2ded9104232064ef2d1d4415908b3ccbd1b74"
 }

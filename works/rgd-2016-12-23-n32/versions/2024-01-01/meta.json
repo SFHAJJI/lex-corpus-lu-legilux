@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 concernant le contr\u00F4le m\u00E9dico-sportif obligatoire des membres licenci\u00E9s actifs des f\u00E9d\u00E9rations sportives agr\u00E9\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "71e379685d47d23468fd14204a634adc197ecfabba97ca4a7baf6577cfebe23a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n32/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5e064d0a57bf8a7d65d688dd6a78879a0a2b77e19af45fce024dd2f3c5724ba4"
+  "record_sha256": "37312ee07b71f15dc62af4c6131961133d565af433670b9c0c18b81322afad4c"
 }

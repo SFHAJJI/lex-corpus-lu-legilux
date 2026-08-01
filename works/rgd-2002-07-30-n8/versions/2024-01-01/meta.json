@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 30 juillet 2002 relatif \u00E0 la commission consultative en mati\u00E8re de reconnaissance du baccalaur\u00E9at international.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3d2a1c820db4beca4d00913643b6d7c05685615013822c2c7e0a25707795b6ef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/07/30/n8/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a2777699afee63332e192d5bad7eec45070794c36b15c1bc39b3b353cd2799b5"
+  "record_sha256": "dd5b5c5f4c29f6a02cee1ca58b225975b0e3ba67d6627d56a00d26c7025f1c2b"
 }

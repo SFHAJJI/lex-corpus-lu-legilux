@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/05/2020 : R\u00E8glement grand-ducal du 27 mars 2020 portant d\u00E9rogation \u00E0 l\u2019article L. 122-1 du Code du travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/consolide/20200511/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ecb1b75c65722259998edad3af7f64c79baeca578ea1b9a456bdf6c5b6c29c24",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/consolide/20200511/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/27/a205/consolide/20200511/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d0716bea684e0d1cb9f8feba3a6bf19c82aa514e28f9e82a3bdc35af85a39fde"
+  "record_sha256": "a2ddecec050fa30c378c5df06a884a95e1e719233bb6485c9d29a80a4226a949"
 }

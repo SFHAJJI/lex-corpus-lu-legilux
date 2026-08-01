@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : Loi du 24 mai 1922 ayant pour objet de r\u00E9glementer \u00E0 nouveau l\u0027assiette \u00E0 l\u0027imp\u00F4t sur le revenu et \u00E0 l\u0027imp\u00F4t compl\u00E9mentaire des revenus et biens de la Maison grand-ducale de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1922/05/24/n3/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5e4af8eaa6780493e9ac0487cff2e8c01ecbf8634ccd2231f425fc883b4a9421",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1922/05/24/n3/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1922/05/24/n3/consolide/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0c29da39f9938d1d6fcca847741094e775abcae301b680438e327ae3155da290"
+  "record_sha256": "54d4eef94f5bbfbc98687c4328f68f114ee837a3697b4e7c654758723f9e5ee5"
 }

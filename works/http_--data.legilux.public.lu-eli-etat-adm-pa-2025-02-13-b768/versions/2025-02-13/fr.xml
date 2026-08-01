@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-02-13" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MFOPU"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-02-13" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-02-13" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo</scl:jolux><scl:jolux scl:name="dateApplicability">2025-02-13</scl:jolux><scl:jolux scl:name="dateDocument">2025-02-13</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MFOPU</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/10</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1036</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1103</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1523</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/610</scl:jolux><scl:jolux scl:name="urgentEvent">0</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/720</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/722</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/PA</scl:jolux><scl:jolux scl:name="dateEntryInForce">2025-02-13</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b768</scl:jolux><scl:jolux scl:name="publicationDate">2025-02-13</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/docx</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/pdfa</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version rectifiée applicable au 13/02/2025 : Listes des candidats en vue des élections pour le renouvellement de la Chambre des fonctionnaires et employés publics 2025.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/1924/04/04/n1/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b768/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/02/13/b768/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b768/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2025-02-13" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2025-02-13" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/adm/rect/2025/02/13/b773/jo"/>
+<destination/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/adm/pa/2025/02/13/b768/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/adm/rect/2025/02/13/b773/jo" id="rp2" showAs="Listes des candidats en vue des élections pour le renouvellement de la Chambre des fonctionnaires et employés publics 2025 - RECTIFICATIF."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="B|2025-02-13|2025-02-13|RECT|773">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/adm/rect/2025/02/13/b773/jo">Listes des candidats en vue des élections pour le renouvellement de la Chambre des fonctionnaires et employés publics 2025 - RECTIFICATIF.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version rectifiée applicable au 13/02/2025 : Listes des candidats en vue des élections pour le renouvellement de la Chambre des fonctionnaires et employés publics 2025.</p>
+</longTitle>
+</preface>
+<body>
+<alinea>
+<content>
+<p scl:align="center" scl:space-after="20">
+<b>Avis</b>
+</p>
+<p>Le présent avis est dressé en exécution de la <ref href="/eli/etat/leg/loi/1924/04/04/n1/jo" id="cff75903-e046-4330-ab11-3223087225cc">loi modiﬁée du 4 avril 1924</ref> portant création des chambres professionnelles à base élective.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Listes des candidats arrêtées suivant l’article 43<i>bis</i> 9 de la <ref href="/eli/etat/leg/loi/1924/04/04/n1/jo" id="e9045ea9-7ef1-4f11-be42-c49462e4a245">loi du 4 avril 1924</ref>, portant création de chambres professionnelles à base élective</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 3</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Fonctionnaires de l’État et des établissements publics de la catégorie de traitement B qui ne relèvent pas de la rubrique « Enseignement »</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_1" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b> </p>
+</td>
+<td>
+<p>
+<b>2</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> CGFP/AGC/SPFP/FGEC</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_2" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>WOLFF Romain, inspecteur, Administration de l’enregistrement et des domaines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>KEIPES Steve, inspecteur principal 1<sup>er</sup> en rang, Administration des douanes et accises</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>FELGEN Maryse, inspectrice, Administration des contributions directes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>SCHLECK Christian, sous-officier, Armée</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>DENNEWALD Georges, retraité, Banque caisse d’épargne de l’État </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SIUDA Stephanie, rédacteur, Administration de l’enregistrement et des domaines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>BECKER Laurent, retraité, Entreprise des postes et télécommunications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>NEGRINI Marlène, policier, Police grand-ducale</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_3" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>9</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> OGBL / LANDESVERBAND</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_4" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>FLAMMANG Patrick, policier, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>KONSBRUCK Nadine, retraitée, CGDIS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>MANGEN Michel, policier, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>RIES Nico, contrôleur aérien dirigeant, Administration de la navigation aérienne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHROEDER Sacha, contrôleur aérien dirigeant, Administration de la navigation aérienne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>VIANA Bruno, contrôleur aérien, Administration de la navigation aérienne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>KRIER Marc, chargé technique dirigeant, Administration de la navigation aérienne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>HEUSBOURG Guy, policier, Police grand-ducale</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 4</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Fonctionnaires de l’État et des établissements publics des catégories de traitement C et D</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_5" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>3</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> CGFP</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_6" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>BADDÉ Patrick, policier, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>GOERGEN Gilbert, expéditionnaire, Entreprise des postes et télécommunications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>FEITEN Raymond, artisan dirigeant, Administration pénitentiaire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>JUCHEM Raymond, expéditionnaire, Entreprise des postes et télécommunications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>JUNGERS Bob, pompier professionnel, CGDIS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>PLESCHETTE Marcel, expéditionnaire dirigeant, Armée</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>JANS Claude, surveillant des domaines, Administration des ponts et chaussées</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>CONER Romain, agent pénitentiaire dirigeant, Administration pénitentiaire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>RICHARD Marco, retraité, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>KLEIN Steve, agent des domaines, Administration des ponts et chaussées</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>MÜLLER Kim, artisan, Administration des ponts et chaussées</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>ROBALO DA FONSECA Samuel, caporal-chef, Armée</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>LOMMER Patrick, expéditionnaire, Administration de la gestion de l’eau</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHUMACHER Claude, pompier professionnel, CGDIS</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_7" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>9</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> OGBL / LANDESVERBAND</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_8" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>RICQUIER Pascal, retraité, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>GODFROID Michel, retraité, Inspection du travail et des mines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>ZUNE Tom, policier, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>SCHNEIDER Sven, agent de salle, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>WANDERSCHEID Ben, policier, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>DIESCHBURG Vanessa, policière, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>PETIT Tim, policier, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>ZEIHEN Tom, pompier professionnel, CGDIS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHOSSELER Jeanne, retraité, STATEC</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>WENNER Gilles, agent pénitentiaire, Administration pénitentiaire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>POTAPOV Dmytro, pompier professionnel, CGDIS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>BIWER Gérard, retraité, Institut national d’administration publique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>HUMBERT Andy, pompier professionnel, CGDIS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>BIEVER Jeannot, retraité, Inspection du travail et des mines</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 5</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Fonctionnaires de l’État et des établissements publics de la catégorie de traitement A qui relèvent de la rubrique « Enseignement », à l’exception des différentes fonctions d’instituteurs et d’instituteurs spécialisés regroupées dans le groupe 6</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_9" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>10</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> SEW/OGBL</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_10" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>DOCKENDORF Vera, professeure, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>HAVE Guy, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>MALANE Estelle, professeure, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>REUTER Michel, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_11" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>1</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> CGFP - FÉDUSE</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_12" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>GUIRSCH Mona, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>HEYMANS Bob, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>KOHNEN Gilles, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHOLTES Raoul, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_13" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>7</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> AGESS</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_14" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>REDING Daniel, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>KERSCHEN Estelle, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>KIEFFER Alain, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>BRUCH Eric, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<eop/>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_15" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>8</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u>
+</b>
+<b> APESS</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_16" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>EVERLING Gilles, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>KRIDEL Nathalie, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>ARENDT Roland, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>JOMINET Marco, professeur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 6</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Différentes fonctions d’instituteurs et d’instituteurs spécialisés de la catégorie de traitement A de la rubrique « Enseignement » et les fonctionnaires de la catégorie de traitement B de la rubrique « Enseignement »</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_17" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>6</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> CGFP - SNE</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_18" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>REMAKEL Patrick, instituteur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>GLESENER Gilles, instituteur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>KOHNEN Christian, instituteur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHETGEN Vanessa, institutrice, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_19" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>10</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u> SEW / OGBL</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_20" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>CALDARELLA WEIS Marvin, instituteur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>DAME Joëlle, institutrice, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>EICHENSEHER Anne-Marie, institutrice, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHONS Olivier, instituteur, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 8</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Employés de l’État et des établissements publics qui relèvent de la rubrique « Enseignement »</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_21" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>10</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u>  SEW / OGBL</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_22" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>BICHLER Isabelle, chargée de cours retraitée, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>DONJON Sébastien, employé A1 enseignement niveau général, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_23" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<mod class="mod-start" for="#pm1"/>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>4</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u>
+</b> <b>CGFP - OEE</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_24" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>ROTH Michel, chargé d’enseignement, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>ZIRVES Edmée, chargé de cours, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 9</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Fonctionnaires et employés communaux</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_25" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>9</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u>  OGBL / LANDESVERBAND</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_26" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>BACK Sarah, employée communale, Administration communale de la Ville de Dudelange</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>BONIFAS Alain, agent de transport, Administration communale de la Ville de Luxembourg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>DONDELINGER Yves, agent de transport, Administration communale de la Ville de Luxembourg </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>LOMBARDI Boris, agent de transport, Syndicat T.I.C.E.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>MICHELS Tom, agent de transport, Syndicat T.I.C.E.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>POULL Pascal, fonctionnaire communal, Administration communale de la Ville de Dudelange</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>DA SILVA RIBEIRO Carlos, agent de transport, Syndicat T.I.C.E.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHANEN Debbie, fonctionnaire communal, Administration communale de la ville d’Esch-sur-Alzette</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>STOFFEL Charles, retraité, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>STOFFEL Wayne, contrôleur, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_27" scl:cols="25 10 65" width="100">
+<tr>
+<td>
+<p>
+<b>
+<u>Numéro d’ordre :</u>
+</b>
+</p>
+</td>
+<td>
+<p>
+<b>5</b>
+</p>
+</td>
+<td>
+<p>
+<b>
+<u>Dénomination :</u>  FGFC-Gewerkschaft vum Gemengepersonal</b>
+</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_28" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>GANSER Serge, fonctionnaire communal, Administration communale de la Ville d’Esch-sur-Alzette</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>HANSEN Sandy, fonctionnaire communal, Administration communale de la Ville d’Esch-sur-Alzette</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>HATTO Steve, fonctionnaire communal, Administration communale de Mersch</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>KERTZ Jean-Paul, retraité, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>KETTEL Lynn, fonctionnaire communal, Administration communale de Wormeldange</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>KODERS Marie Claude, retraitée, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>MELONE Joseph, agent de transport, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>REUTER Claude, fonctionnaire communal, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHICKES Théo, agent de transport, Syndicat T.I.C.E.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHOLZEN Isabelle, fonctionnaire communal, Administration communale de la Ville de Luxembourg</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Sont proclamés élus conformément à l’article 43<i>bis</i>-9 de la <ref href="/eli/etat/leg/loi/1924/04/04/n1/jo" id="44ff6797-9066-4beb-85f7-272dd4406e94" scl:verify="true">loi du 4 avril 1924</ref>, portant création de chambres professionnelles à base élective</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 1</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A1, qui ne relèvent pas de la rubrique « Enseignement » ainsi que les fonctionnaires de l’État appartenant à la Magistrature</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Dénomination :</u> CGFP – Universitaires auprès de la Fonction Publique</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_29" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>BASTIEN Nicolas, chargé d’études dirigeant, Centre commun de la Sécurité sociale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>DESORBAY Tara, attachée, Ministère de la Justice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>ZENNERS Paul, conseiller, Ministère de l’Économie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>HANFF Conny, médecin-conseil, Conseil arbitral de la Sécurité sociale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>HARDY Cadia, attachée, Police grand-ducale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>LADIKA Sandra, attachée, Administration des contributions directes</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 2</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Fonctionnaires de l’État et des établissements publics de la catégorie de traitement A, groupe de traitement A2, qui ne relèvent pas de la rubrique « Enseignement »</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Dénomination :</u> CGFP/AGC/AGITE</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_30" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>NESTLER Daniel, responsable, Entreprise des Postes et Télécommunications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>GREISCH David, chargé de gestion dirigeant, Administration des ponts et chaussées</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Groupe 7</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Employés de l’État et des établissements publics qui ne relèvent pas de la rubrique « Enseignement » ainsi que les volontaires de l’Armée</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Dénomination :</u> CGFP – AEE/APBCEE </b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_31" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>HEILIGER Steve, employé de l’État, Ministère de la Fonction publique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>JAFFKE Carmen, agent BCEE, Banque caisse d’épargne de l’État</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>MARQUES Marilène, agent BCEE, Banque caisse d’épargne de l’État</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>NGO NO Pélagie, employée de l’État, Service central de législation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>RIES Christoph, employé de l’État, Conseil d’État</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHMITZ Christian, employé de l’État, Ministère de l’Éducation nationale, de l’Enfance et de la Jeunesse</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>
+<eop/>Groupe 10</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Ministres du culte catholique</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>
+<u>Dénomination :</u>  CGFP – Ministres du Culte</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table border="1" cellpadding="0" cellspacing="0" id="table_32" scl:cols="10 7 83" width="100">
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>E</p>
+</td>
+<td>
+<p>BACHE Claude, curé-doyen, Archevêché </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p>SCHUMACHER René, diacre, Archevêché</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<b>Instructions pour l’électeur</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<b>I)</b> Les élections pour la Chambre des fonctionnaires et employés publics ont lieu au scrutin de liste.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<b>II)</b> L’électeur n’a le droit de vote que pour le groupe pour lequel il a été porté sur les listes électorales. Nul ne peut exercer l’électorat pour plus d’un groupe.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Chaque électeur dispose d’autant de suffrages qu’il y a de membres effectifs et de membres suppléants à élire dans son groupe.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’électeur peut attribuer jusqu’à deux suffrages à chacun des candidats, à concurrence du total des suffrages dont il dispose.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’électeur qui, à l’aide d’un crayon, d’une plume, d’un stylo à bille ou d’un instrument analogue remplit le cercle de la case placée en tête d’une liste ou qui y inscrit une croix (+ ou x), adhère à cette liste en totalité et attribue ainsi un suffrage à chacun des candidats de cette liste.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Chaque croix (+ ou x), inscrite dans l’une des deux cases réservées derrière le nom d’un candidat, vaut un suffrage à ce candidat. Tout cercle rempli, même incomplètement, et toute croix, même imparfaite, expriment valablement le vote, à moins que l’intention de rendre le bulletin reconnaissable ne soit manifeste.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Toute marque tracée dans un autre endroit que dans une case réservée à cette fin entraîne la nullité du bulletin de vote.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’électeur ne doit faire sur le bulletin aucune autre inscription, signature, rature ou signe quelconques.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-tab="20">
+<i>Exemple :</i>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-tab="20">
+<i>Pour le groupe 4, il y a 7 membres effectifs et 7 membres suppléants, donc en tout 14 membres à élire. L’électeur a donc 14 suffrages au maximum à attribuer. Admettons qu’il y ait pour ce groupe trois listes de candidats.</i>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-tab="20">
+<i>L’électeur qui veut émettre tous les suffrages dont il dispose peut :</i>
+</p>
+<ol scl:space-tab="25" scl:start="1" scl:symbol="a)">
+<li>
+<i>attribuer tous les 14 suffrages à l’une des trois listes, soit en remplissant le cercle de la case placée en tête de ladite liste, soit en y inscrivant une croix (+ ou x), et attribuer ainsi une voix à chacun des 14 candidats ;</i>
+</li>
+<li>
+<i>ou bien attribuer tous les 14 suffrages à l’une des trois listes en ne remplissant pas le cercle de la case placée en tête, mais en inscrivant une ou deux croix derrière les 14 noms dans les cases réservées à cette fin jusqu’à concurrence du maximum de 14 suffrages ;</i>
+</li>
+<li>
+<i>ou bien répartir ses 14 suffrages sur les différentes listes. Dans ce cas, l’électeur ne remplit le cercle d’aucune liste et répartit ses suffrages à son gré sur les différentes listes en inscrivant une ou deux croix dans l’une ou les deux cases se trouvant derrière les noms des candidats, jusqu’à concurrence du maximum de 14 suffrages.</i>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<b>III)</b> Le président du bureau électoral transmet à chaque électeur, par lettre simple, un bulletin de vote, le texte des instructions pour les électeurs, la notice légale en matière de traitement des données personnelles, une enveloppe électorale et une enveloppe de transmission.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Après avoir exprimé son vote, l’électeur place le bulletin, plié en quatre, dans la première enveloppe, qu’il ferme et qui porte l’indication «<i> Élections pour la Chambre des fonctionnaires et employés publics, <ref href="/eli/etat/leg/loi/1924/04/04/n1/jo" id="fee0795d-9994-44d7-b326-9d55c28d588f" scl:verify="true">loi modifiée du 4 avril 1924</ref>
+</i> ». Il glisse celle-ci dans la seconde enveloppe, portant l’adresse du président du bureau électoral, ferme le pli et le remet à la poste.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les enveloppes dont le cachet postal est postérieur à la date de clôture du vote ne sont pas prises en considération lors du dépouillement.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>L’électeur, dont le bulletin a été détérioré, peut en demander un autre par écrit au président et renvoie sous le même pli le premier bulletin.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>
+<b>IV)</b> Sont nuls :</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<ol scl:start="1" scl:symbol="1°">
+<li>les enveloppes de transmission :<ol scl:start="1" scl:symbol="a)">
+<li>qui ont été timbrées par la poste postérieurement au jour de clôture du vote ;</li>
+<li>non fermées ;</li>
+<li>sur lesquelles le numéro d’ordre et, le cas échéant, le code barre ne sont plus visibles ;</li>
+<li>contenant plusieurs enveloppes électorales ;</li>
+</ol>
+</li>
+<li>les enveloppes électorales :<ol scl:start="1" scl:symbol="a)">
+<li>non fermées ;</li>
+<li>marquées ;</li>
+<li>autres que celles délivrées par le président du bureau électoral ;</li>
+<li>contenant plusieurs bulletins ;</li>
+</ol>
+</li>
+<li>les bulletins de vote :<ol scl:start="1" scl:symbol="a)">
+<li>autres que ceux délivrés par le président du bureau électoral ;</li>
+<li>non renfermés dans une enveloppe électorale ;</li>
+<li>qui expriment plus de suffrages que de candidats effectifs et suppléants à élire ;</li>
+<li>qui portent une marque ou un signe distinctif quelconques ;</li>
+<li>sur lesquels le votant s’est fait connaître ;</li>
+<li>qui contiennent à l’intérieur un papier ou un objet quelconques ;</li>
+<li>qui ne contiennent l’expression d’aucun suffrage.</li>
+</ol>
+</li>
+</ol>
+</content>
+</alinea>
+</body>
+</act>
+</akomaNtoso>

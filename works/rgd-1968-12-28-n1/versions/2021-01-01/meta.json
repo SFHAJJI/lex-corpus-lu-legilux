@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : R\u00E8glement grand-ducal du 28 d\u00E9cembre 1968 portant ex\u00E9cution des articles 155 et 178 de la loi concernant l\u00B4imp\u00F4t sur le revenu.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1968/12/28/n1/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "55f77d3379f561322a6da5c7d64ffb7e65b448375141a229fea1acbd97ed2187",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1968/12/28/n1/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1968/12/28/n1/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "656425fc86e51d27f77282e0d60e141e247cba8ee0c20ca696c24268d312ac43"
+  "record_sha256": "97876dd066ba0c244eb2161941d15d77c66d88b6cc64b5244c5a4bea92a30f59"
 }

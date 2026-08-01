@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/10/2022 : Loi du 19 mai 1983 portant r\u00E9glementation de la fabrication et du commerce des aliments des animaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/05/19/n1/consolide/20221003/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "151aab384ffbf1f449dcd325e72c512d40cab7d88c8eb602e930b3220e1ba08c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/05/19/n1/consolide/20221003/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/05/19/n1/consolide/20221003/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e4c5193b29e114f865d6eb91e829544249b742d0740aa5636e0745ae9f1b50d5"
+  "record_sha256": "d2ac5cba5fb00616c3405b141d5eab9883c78b35309aac23502e2483b2b24473"
 }

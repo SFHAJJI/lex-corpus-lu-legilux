@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/11/1984 : Loi du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19841130/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f474d4c15adeee0dbb5d71ffe8fd28a49ddcfee02ed2ab6fb8ac3d5185ada2c9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19841130/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/19841130/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e8ae4357958d3c982d2003b4c0646d9a1f316e05b932dfb6e3b29cdde222e7a8"
+  "record_sha256": "7b9e9c83c5c587ddd0196da857ff9efb8caf28933604c2b7c7465b285ab852c1"
 }

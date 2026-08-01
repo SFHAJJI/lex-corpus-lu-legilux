@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/12/2020 : Loi du 14 ao\u00FBt 2018 autorisant le Gouvernement \u00E0 acqu\u00E9rir, lancer et exploiter un satellite et son segment sol destin\u00E9s \u00E0 l\u2019observation de la Terre.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/14/a792/consolide/20201212/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d2f8fdb6ec14f1f846bf3f87893c60e14bd16d70bc86044453646d2f671e2b7f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/14/a792/consolide/20201212/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/14/a792/consolide/20201212/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e39bee1750d2a3c98274e07ca5e23091930c195a1a645f437a7e2bfc48d231bb"
+  "record_sha256": "5968f2be50430bf82def8ed4645a38e3ebabce90991ef675b6d4be0651bc5742"
 }

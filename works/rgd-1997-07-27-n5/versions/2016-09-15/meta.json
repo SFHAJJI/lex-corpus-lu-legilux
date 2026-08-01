@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2016 : R\u00E8glement grand-ducal du 27 juillet 1997 fixant les modalit\u00E9s d\u0027engagement et les conditions de travail de deux cents charg\u00E9s d\u0027\u00E9ducation \u00E0 dur\u00E9e ind\u00E9termin\u00E9e des lyc\u00E9es et lyc\u00E9es techniques publics.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n5/consolide/20160915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "64eef683c931ef8e6b0772d1bf55c36d3d53f0e65cc3d514e31ffd6dad49e02f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n5/consolide/20160915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/27/n5/consolide/20160915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b3cb8a581169d9cef54e6bef268253ed408886a095314354415e16ab1388ae47"
+  "record_sha256": "4b682609a7b11411cfced4986991a050e6cfb95f80be8070c5fbf12374d75489"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/09/2017 : Loi du 23 f\u00E9vrier 2001 concernant les syndicats de communes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/02/23/n2/consolide/20170905/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cbccc05c42f5ea3b9c439cb805bf1068359715b9d810265285d86804b40298e0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2001/02/23/n2/consolide/20170905/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2001/02/23/n2/consolide/20170905/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1677dd1a6fe620d49fd481a6502b4cfeb570bc2d4221439fa4f031d9579a12b9"
+  "record_sha256": "bc198f480b206702c910bb088d41fe42cda6a7d3630740259f89b7e2b6d7b40f"
 }

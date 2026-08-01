@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/01/2012 : R\u00E8glement grand-ducal du 28 novembre 2009 portant tarif des frais de justice de toute nature.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20120117/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "302c4f56c528bf9d889a0b3274ce1fe1c02e6e72201d6d966510ad71097d59af",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20120117/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/28/n5/consolide/20120117/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "530af064f2188752661d3046f4cb13f00146b9d12af032dbb80b22b267c80a9b"
+  "record_sha256": "4144889d32802493356eb6e333bd23b27b75891d85d937dd5ffecf3c90de7e0d"
 }

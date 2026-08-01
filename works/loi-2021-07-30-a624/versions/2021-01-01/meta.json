@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : Loi du 30 juillet 2021 relative au Pacte logement avec les communes en vue d\u2019augmenter l\u2019offre de logements abordables et durables et modifiant\\na) la loi modifi\u00E9e du 19 juillet 2004 concernant l\u2019am\u00E9nagement communal et le d\u00E9veloppement urbain ;\\nb) la loi modifi\u00E9e du 22 octobre 2008 portant promotion de l\u2019habitat et cr\u00E9ation d\u2019un pacte logement avec les communes ;\\nc) la loi du 17 avril 2018 concernant l\u2019am\u00E9nagement du territoire ;\\nd) la loi du 25 mars 2020 portant cr\u00E9ation du Fonds sp\u00E9cial de soutien au d\u00E9veloppement du logement.\\n",
       "title_short": "Loi du 30 juillet 2021 relative au Pacte logement 2.0.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a624/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3e60cc204d2160e8212d603dd8865a6bfa9407ee8226e07a4fa01910d7d44fba",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a624/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a624/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f394a9e5654895aee4eaa3754f0098c64bc6acebe63cec971d1120a5cd5dc384"
+  "record_sha256": "55180278fe157fedec0f1a91d8fb7c8beeaa73262b557155740b57ad1ed63d90"
 }

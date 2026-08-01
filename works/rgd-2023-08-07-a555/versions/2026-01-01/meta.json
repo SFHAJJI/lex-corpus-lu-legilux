@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : R\u00E8glement grand-ducal du 7 ao\u00FBt 2023 fixant les modalit\u00E9s d\u2019ex\u00E9cution relatives aux aides individuelles au logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5f320daf817961a6d6b141b28fdf211c8f0f0b3e219f175e7aaf05998f81f55f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/07/a555/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9a93a7e803ea4d8b53f18c5aad6b2fbe3bb680f51948cfb51b79434489cd59ef"
+  "record_sha256": "c4c91154393d8ec7aa2fb20d088ed64fc4433f026c258ba282da023b9e1bf366"
 }

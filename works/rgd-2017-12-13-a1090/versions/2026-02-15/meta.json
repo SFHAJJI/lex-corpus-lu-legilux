@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/02/2026 : R\u00E8glement grand-ducal du 13 d\u00E9cembre 2017 d\u00E9terminant : 1\u00B0 les normes concernant la dotation et la qualification du personnel ; 2\u00B0 les coefficients d\u2019encadrement du groupe.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20260215/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "07e1d8674ae723a730af906d78e6fab8e7f65b5f83e34db28d8dfaa66e7c9e37",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20260215/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/12/13/a1090/consolide/20260215/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "41b65e4ea03906602c21df78edb974110f0ecfa8e7065a72be9c305c54304080"
+  "record_sha256": "4749740f7b6801857c67ea29c191e4d3902153b850fbdc2cc74b39ed3910bfc7"
 }

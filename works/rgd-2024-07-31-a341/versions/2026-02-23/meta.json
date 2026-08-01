@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/02/2026 : R\u00E8glement grand-ducal du 31 juillet 2024 fixant les modalit\u00E9s d\u2019application d\u2019une aide sur les parcelles agricoles situ\u00E9es dans les zones de protection des eaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a341/consolide/20260223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d5b01a33cf03f0ff9c3c03caad8fbb21a6b33bcee0263c890038a72052675e31",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a341/consolide/20260223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/31/a341/consolide/20260223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "24cb93ea7a0c96ffd9d89fb61ee6eaf4b1c1d449ccbb5100727d13f8991c37e7"
+  "record_sha256": "d111827f8007227ac62ccd4130da50977d8268f19f84a33273ebf9c017497454"
 }

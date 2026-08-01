@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/07/2018 : Loi du 29 juin 1989 portant r\u00E9forme du r\u00E9gime des cabarets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/06/29/n1/consolide/20180730/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "34b6d41a5be59a70b87e80bdae938cb6474d3915459a684781a6e91a2237cbd1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1989/06/29/n1/consolide/20180730/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1989/06/29/n1/consolide/20180730/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "de398c59466ed5ec2e1e7f1f8d1bafc7a0997c58980e156227c20338210a10c1"
+  "record_sha256": "e705857f492b556fd0c24774310969d852d5252e62021d1271f3a6f78cd8dc1d"
 }

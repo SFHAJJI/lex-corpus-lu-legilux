@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/01/2010 : Loi du 21 juillet 2006 autorisant le Gouvernement \u00E0 organiser des classes internationales pr\u00E9parant au dipl\u00F4me du baccalaur\u00E9at international.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/21/n1/consolide/20100104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fd6e274465feb60a83ab3d10ef13adb217ba1d43d1f3a7406245b09337702374",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/21/n1/consolide/20100104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/21/n1/consolide/20100104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b109481480a6625117f35380c1ef6e7da5e1bac55e84c29aef250e4bf97a1640"
+  "record_sha256": "2303d4783f2dddc1fe9f955ebf64934af0163ff2f27a8fb54b0ba0e13ed735fa"
 }

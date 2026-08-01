@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/08/2022 : R\u00E8glement grand-ducal du 4 novembre 2020 relatif \u00E0 la composition et au fonctionnement de la commission consultative d\u2019\u00E9valuation de l\u2019int\u00E9r\u00EAt sup\u00E9rieur des mineurs non accompagn\u00E9s pr\u00E9vue \u00E0 l\u2019article 103 de la loi modifi\u00E9e du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u2019immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "af01b4ca31be52e303fdf09a176c613e39b6ad59531cc90c92e263ece76b9f94",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/11/04/a917/consolide/20220827/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "45eac89dce120387b9d16e4e4fac6035da3ac03e66ceec6075e8c074678c1b28"
+  "record_sha256": "5982cced10d5d768b4980f786416d22d758a2d6dea281037a143028dd2ff97cc"
 }

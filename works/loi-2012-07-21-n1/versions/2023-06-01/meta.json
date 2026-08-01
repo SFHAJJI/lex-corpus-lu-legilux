@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2023 : Loi du 21 juillet 2012 portant transposition de la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l\u2019assistance mutuelle en mati\u00E8re de recouvrement des cr\u00E9ances relatives aux taxes, imp\u00F4ts, droits et autres mesures.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n1/consolide/20230601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "717e736aafc804952eef6827469a298fb2c4141888e098555284d2515acd76fb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n1/consolide/20230601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2012/07/21/n1/consolide/20230601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bd8bee99b3f077cde0d90faaaf164f5531a7cc75ceef8638a7d22b956ea96bb4"
+  "record_sha256": "4ffd5af7c9bc9e52ac408c0a701349545fc3a5b832c06bcc46405946987fa27f"
 }

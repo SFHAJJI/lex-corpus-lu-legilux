@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/10/2005 : Loi du 31 octobre 1977 portant fusion des communes de Asselborn, Boevange/Clervaux, Hachiville et Oberwampach.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/10/31/n1/consolide/20051009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e6bc2d1322ba9fbd61cf876522f945fc15d98e7a5a7d4b61cafce115c234d239",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/10/31/n1/consolide/20051009/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/10/31/n1/consolide/20051009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ee5247e6f09638559a9be591001abfc827036297f974da7e66017e4bd43f98b1"
+  "record_sha256": "dce49968a85df9e4e4f1e0f2ba387f9bfd7a7a12718353b540fbc087ebc6f182"
 }

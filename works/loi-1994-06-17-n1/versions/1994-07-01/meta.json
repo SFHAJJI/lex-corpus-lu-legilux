@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/07/1994 : Loi du 17 juin 1994 fixant les mesures en vue d\u0027assurer le maintien de l\u0027emploi, la stabilit\u00E9 des prix et la comp\u00E9titivit\u00E9 des entreprises.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/19940701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1a64aa5780eae66ff69f1f2992021cff8fec2c16723c209051add8958c5144c0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/19940701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1994/06/17/n1/consolide/19940701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "52c9aa4aea5ccebdd01461ea328ada24d3a6b89d0f26148411b7a54611093e36"
+  "record_sha256": "3043c9625af08b637546c3ea5232afda5e94bd87ccb59cd86be2b71375d3a1e9"
 }

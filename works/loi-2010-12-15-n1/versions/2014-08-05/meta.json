@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/08/2014 : Loi du 15 d\u00E9cembre 2010 relative \u00E0 la s\u00E9curit\u00E9 des jouets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20140805/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ffbe0a0832b4d80f28d635565b30bbf32592dc2796c1d231bdbfa8312cac3a44",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20140805/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2010/12/15/n1/consolide/20140805/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f04134c42fad40d17d924ef127300cd3bad31f7c82a2e2c17050b529cc59f36f"
+  "record_sha256": "ea463c6527f2958acceffd57ce68612f1a91553f8226d016de403196b95de5be"
 }

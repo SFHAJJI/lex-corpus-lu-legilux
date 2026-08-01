@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/04/2023 : R\u00E8glement grand-ducal du 25 f\u00E9vrier 2022 relatif aux sp\u00E9cifications techniques pour le marquage des armes d\u0027alarme et de signalisation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20230402/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "660788c59dd87e7e0e690d8c264a5664c3df8289ff1d004464a90a988b5b312c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20230402/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/02/25/a90/consolide/20230402/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "836c2aacdaecd232b91b8769452d584daeec973d86e6a057b03438ef415da7b2"
+  "record_sha256": "79a5aa08125b0d0454ab7cf5d79a1e80a6872a7c5bee4b9a1be9843c6d619324"
 }

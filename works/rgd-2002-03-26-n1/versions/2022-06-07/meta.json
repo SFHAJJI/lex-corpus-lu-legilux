@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/06/2022 : R\u00E8glement grand-ducal du 26 mars 2002 d\u00E9clarant zone prot\u00E9g\u00E9e d\u2019int\u00E9r\u00EAt national sous forme de r\u00E9serve naturelle, la zone Kuebebierg sise sur les territoires de la Ville de Luxembourg et de la commune de Niederanven.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/26/n1/consolide/20220607/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b4179bb2a1e2ba0851b81c039b5ad30e440d08fda20a1c99ab81b6cced4d6800",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/26/n1/consolide/20220607/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/26/n1/consolide/20220607/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b698e0684d7bf1c655b682d8440987144bb1cefda0fa03366bad14ec54069887"
+  "record_sha256": "5a5428f29464523d6ef8991aa7b6795a2e106647fe218a5b611de70ba8ca3e40"
 }

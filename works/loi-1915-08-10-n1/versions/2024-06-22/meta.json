@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/06/2024 : Loi du 10 ao\u00FBt 1915 concernant les soci\u00E9t\u00E9s commerciales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20240622/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dfb63c384a23f171e98449f85cc6097bea28357655741dcca6653a62cd117c4d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20240622/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1915/08/10/n1/consolide/20240622/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3f3c2b93e90e6a445e1789012bec531e8b7f8f3da931986273a8ccdfad3716e9"
+  "record_sha256": "44a0525c38e87517825a81e3627bfb4b2105ca4eac91c8fda89dcb5e77124e2a"
 }

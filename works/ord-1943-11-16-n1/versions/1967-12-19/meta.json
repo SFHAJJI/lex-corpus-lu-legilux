@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/12/1967 : Deuxi\u00E8me ordonnance d\u0027ex\u00E9cution du 16 novembre 1943 relative \u00E0 la loi sur l\u0027imp\u00F4t commercial (Zweite Verordnung \u00FCber die Erhebung der Gewerbesteuer in vereinfachter Form).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/ord/1943/11/16/n1/consolide/19671219/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "090f4660a5a4bd3849eb32ecd974fe21b0e5029607c77d9c5848db700382b8c0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/ord/1943/11/16/n1/consolide/19671219/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/ord/1943/11/16/n1/consolide/19671219/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3e16b3a7545cc1525ecbde08eff3336fc8832048f97a205fd2159f502a8d8206"
+  "record_sha256": "dd85cb953557353b9e6a625c45caf8b2191e806a1a664faecaed5a466b561e19"
 }

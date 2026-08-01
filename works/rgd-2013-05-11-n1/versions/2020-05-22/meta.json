@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/05/2020 : R\u00E8glement grand-ducal du 11 mai 2013 d\u00E9terminant:\\n 1. les crit\u00E8res sportifs \u00E0 remplir pour \u00EAtre admissible au Sportlyc\u00E9e et\\n 2. les modalit\u00E9s du fonctionnement du comit\u00E9 de coordination.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/05/11/n1/consolide/20200522/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2053b422fe40eedf16163efc4b839d3481edc5c1adb9102b51d531122dea9c8e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/05/11/n1/consolide/20200522/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/05/11/n1/consolide/20200522/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bb975f816b626e234d2512e044cd5e393cad871069d800c4b337b696cd571b8f"
+  "record_sha256": "5da8b9666112cbf9164c65d0da685792a66a86df9c5b5ef4d82969067b99945e"
 }

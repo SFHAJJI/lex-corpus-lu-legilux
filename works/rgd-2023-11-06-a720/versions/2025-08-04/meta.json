@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 04/08/2025 : R\u00E8glement grand-ducal du 6 novembre 2023 d\u00E9terminant :\\n1\u00B0 les conditions et modalit\u00E9s d\u2019inscription et d\u2019organisation des examens-concours d\u2019admission au stage du personnel militaire de carri\u00E8re et des candidats officiers ;\\n2\u00B0 les modalit\u00E9s d\u2019organisation de la formation militaire th\u00E9orique et pratique pendant le stage du personnel militaire de carri\u00E8re ;\\n3\u00B0 les conditions et modalit\u00E9s des examens de promotion des cat\u00E9gories de traitement B et C, sous-groupes militaires et sous-groupes \u00E0 attributions particuli\u00E8res, de la rubrique \u00AB\u00A0Arm\u00E9e, Police et Inspection g\u00E9n\u00E9rale de la Police\u00A0\u00BB.\\n",
       "title_short": "R\u00E8glement grand-ducal du 6 novembre 2023 relatif au recrutement et \u00E0 la formation du personnel militaire de carri\u00E8re",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/11/06/a720/consolide/20250804/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1b812f262c4735a28bce2c3d2b8d94c6af2c47c038814d5616bb5bab703bba6f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/11/06/a720/consolide/20250804/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/11/06/a720/consolide/20250804/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f49c9f5eb8c375a7b117e918d0ae3f3f22c2ab6f2af607d09e975913d84757e5"
+  "record_sha256": "135be24f4dde741a5755e9072eaf7439ea08d0893f91e4395cfd7cd103d94936"
 }

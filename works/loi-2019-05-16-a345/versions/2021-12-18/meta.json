@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/12/2021 : Loi du 16 mai 2019 relative \u00E0 la facturation \u00E9lectronique dans le cadre des march\u00E9s publics et des contrats de concession.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "689c1106e1c1fd42082824367287051289134eb2fdb0e7676197d6cca5a27174",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/05/16/a345/consolide/20211218/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f388851cdd590979c0492a40275efc90a584720f28e062d3c07b18b6302d0ee9"
+  "record_sha256": "8967015541405ed88f3ec587d5785c68ec769982430a8590a92b2e8d590c1c31"
 }

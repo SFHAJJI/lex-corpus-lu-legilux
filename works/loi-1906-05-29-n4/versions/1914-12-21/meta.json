@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/12/1914 : Loi du 29 mai 1906 sur les habitations \u00E0 bon march\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19141221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3ba4f36c5ea61e286f63e75743c6a491ddeb9d9a932d367e1ea51ae59a80701a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19141221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/19141221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8cb43fd59a70f5e2ebdad8f47b914bdd28938b584ad2272d06a1f5f79931a1f2"
+  "record_sha256": "9a0adf104bbaf6805b5db45807a888115ab71e6a62ae8d359e1452abe3a60ddc"
 }

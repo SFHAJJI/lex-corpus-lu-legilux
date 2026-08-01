@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2017 : R\u00E8glement grand-ducal du 14 mars 2007 relatif aux avertissements tax\u00E9s et aux consignations en mati\u00E8re d\u0027interdiction de fumer.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/03/14/n1/consolide/20170801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "16b258a47a74bee431000dcb00fcb4f093b0d7e9c0d7279d4438a39e912ad501",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/03/14/n1/consolide/20170801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/03/14/n1/consolide/20170801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2d1a4fb8488bed6653d3a1461806f91d71406dc739a9b3481654400a4e5dd40e"
+  "record_sha256": "0148f90590014d158392feaf4088de62eda32f1a2f3a67ff39bd01f1b8a2b714"
 }

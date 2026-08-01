@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/03/2020 : R\u00E8glement grand-ducal du 4 novembre 2014 portant ex\u00E9cution de la loi du 22 septembre 2014 relative au Fonds national de soutien \u00E0 la production audiovisuelle et modifiant 1) la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat 2) la loi modifi\u00E9e du 13 d\u00E9cembre 1988 instaurant un r\u00E9gime fiscal temporaire sp\u00E9cial pour les certificats d\u0027investissement audiovisuel, et portant fixation des indemnit\u00E9s revenant aux membres du conseil d\u0027administration et du comit\u00E9 de s\u00E9lection du Fonds national de soutien \u00E0 la production audiovisuelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/consolide/20200318/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b04dc28b7c8339e8861ed845aa5b38c067ab68c93e00bb238e918a61e0a3b442",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/consolide/20200318/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/11/04/n1/consolide/20200318/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "eacaca1b2f3eda06974f1f8aeb23d0439ba6d10fe12f35e04c2f6142a1191c54"
+  "record_sha256": "d2257d32bce3c5d97e99e13831efd5247e4ac56646428f32cd472e0209c40dc8"
 }

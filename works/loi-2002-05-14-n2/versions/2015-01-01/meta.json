@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2015 : Loi du 14 mai 2002 portant reconnaissance d\u0027\u00E9quivalence du baccalaur\u00E9at international avec le dipl\u00F4me de fin d\u0027\u00E9tudes secondaires luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/05/14/n2/consolide/20150101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2ebf1f8703926a85fb792fb3085af18661fff3929ed24674140cdb23808161a9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/05/14/n2/consolide/20150101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/05/14/n2/consolide/20150101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1385600dc781d2d2f920147e9d5c9d4a2724cf176a10404361d4cb88b98032ff"
+  "record_sha256": "af453095bb61f5810435e20909492ab5d5e68b92cbba56112eeffd9631970bdf"
 }

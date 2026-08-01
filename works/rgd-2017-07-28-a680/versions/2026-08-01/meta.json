@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2026 : R\u00E8glement grand-ducal du 28 juillet 2017 d\u00E9terminant le r\u00E9gime et les indemnit\u00E9s des employ\u00E9s communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a680/consolide/20260801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "faaf182462ab9de8bcf9a14f9e509e0ca848d29c08d40a6a64f50a2baad948a6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a680/consolide/20260801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/07/28/a680/consolide/20260801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "61c48ab0dc716f1d214c9a0d3693d47de987025d056d8d0d24a0b5318e08f814"
+  "record_sha256": "5b02231c42ac357f6a7dde976a3bb0c70ba04338015e4a28c510aeff3df3e7b2"
 }

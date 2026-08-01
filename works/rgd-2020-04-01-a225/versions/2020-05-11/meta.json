@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/05/2020 : R\u00E8glement grand-ducal du 1er avril 2020 portant d\u00E9rogation \u00E0 l\u2019article L. 585-6 du Code du travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/01/a225/consolide/20200511/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3bf5e904897e14fc3f3abf4ac457adea1ab0c3631ebe49392e51972d3e98bd99",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/01/a225/consolide/20200511/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/01/a225/consolide/20200511/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ee849b7bf320f938cde563d758af669cb1bb0c5864d3a89c353b6bcfca930aba"
+  "record_sha256": "59b318a1b270c64b934f4ca971906d6bb2255602bd4567b1225ccad542ee4240"
 }

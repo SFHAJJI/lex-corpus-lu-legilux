@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/09/2023 : R\u00E8glement grand-ducal du 7 juin 2023 ayant pour objet les \u00E9lections pour la Chambre de commerce.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/07/a287/consolide/20230919/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d4e18bdc6a8841e3b09b39c3bda6f89b57c8ff50fef9cd0cb24ef8e04936d02c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/07/a287/consolide/20230919/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/07/a287/consolide/20230919/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1913bf552411f8a2370eccd72dbc0a77a74f9c4c3cc20409a3591801c34013fc"
+  "record_sha256": "2a6c39564123d9a815b8f40061fa76618d13411087dc66d0c1110fda18ad2817"
 }

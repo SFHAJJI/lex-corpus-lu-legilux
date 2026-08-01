@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Code de la consommation",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/consommation/20241231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3db2af160074ebbd670cbdacd222149f137b3f22e3ddc72843934886e8c3ac4a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/consommation/20241231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/consommation/20241231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "03d74750183711d09a88e20092e6922fa015680133d47186fbb8e87c372739ba"
+  "record_sha256": "decfefa8e4049b1a031abf93983c579c2b615bfe00716002cb6e022cafa46735"
 }

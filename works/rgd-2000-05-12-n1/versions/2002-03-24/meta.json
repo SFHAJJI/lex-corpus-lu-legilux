@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/03/2002 : R\u00E8glement grand-ducal du 12 mai 2000 fixant les modalit\u00E9s et les conditions en vue de l\u2019obtention d\u2019une aide financi\u00E8re pour les m\u00E9decins en voie de sp\u00E9cialisation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/consolide/20020324/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d900e9f73629d6c4626c8db1b9bb62958ebccb31f20201400524ff94e90e3801",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/consolide/20020324/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/05/12/n1/consolide/20020324/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "63c23f3ac9f4124baaae291f145b33b7dea603887b216429f4b4ed8cbfe37e29"
+  "record_sha256": "8ae12df1cc861680fb08901f4fceadd347c82feec149a18db1b1e45377fc2c82"
 }

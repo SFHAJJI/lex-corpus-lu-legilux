@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2014 : Loi du 30 mars 1979 organisant l\u0027identification num\u00E9rique des personnes physiques et morales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/consolide/20140701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "158147b1fedcc5fa1f3222e044f8637e46a8759176a96c19f7fc73183f06e707",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/consolide/20140701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1979/03/30/n1/consolide/20140701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e94457cfcc52c7a9183311d72b299a932079034655a80eca82c5c7bf20eb1e70"
+  "record_sha256": "590ae2e55ad8e34ebc08122150463d18992eebe46125a81f774cf36997b2bba7"
 }

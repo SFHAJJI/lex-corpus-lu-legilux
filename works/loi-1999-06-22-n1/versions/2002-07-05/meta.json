@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/07/2002 : Loi du 22 juin 1999 ayant pour objet\\n 1. le soutien et le d\u00E9veloppement de la formation professionnelle continue;\\n 2. la modification de la loi modifi\u00E9e du 28 d\u00E9cembre 1988 r\u00E9glementant l\u0027acc\u00E8s aux professions d\u0027artisan, de commer\u00E7ant, d\u0027industriel ainsi qu\u0027\u00E0 certaines professions lib\u00E9rales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20020705/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "98d9301bae5a8aafac3214bd103d30783345a32ccb2384b1c2e91693339f385e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20020705/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1999/06/22/n1/consolide/20020705/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4e5d8a8b413009914248a526b2b1be8f77253ceb4bd9d7a53405c0537a1f8535"
+  "record_sha256": "a9e9665a12a5574528b8d58b3f6cbeaff419dafdd000d296a1721f2e1e4f53d2"
 }

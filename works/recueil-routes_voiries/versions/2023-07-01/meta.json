@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Construction des routes et voirie",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/routes_voiries/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4f9e0f4b24443949e4e885ab37bc57c75ea8bc996c46e195f283ffb3421d56ee",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/routes_voiries/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/routes_voiries/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d130c2a786a7ff7acabc9bd833b95ba5bc259cf4138669016e70633ecd357c6e"
+  "record_sha256": "a1675e432ea83e7ae3108f3a6c0749ddfd620badf535b8556cb0e67c875ef38d"
 }

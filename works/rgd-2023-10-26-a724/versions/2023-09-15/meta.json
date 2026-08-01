@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 15/09/2023 : R\u00E8glement grand-ducal du 26 octobre 2023 d\u00E9finissant les m\u00E9tiers et les professions organis\u00E9s sous forme de formation professionnelle en cours d\u2019emploi, ainsi que les conditions d\u2019admission et modalit\u00E9s de fonctionnement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a724/consolide/20230915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7a6fd27f6b098e8139b47cfd183349e2ff27870895c49d79eeafa8e534a36b45",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a724/consolide/20230915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/26/a724/consolide/20230915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c277b23366f893e7f5eb47d7b438f1c6de2104fbf3a32f8804ee7636bd27fa04"
+  "record_sha256": "572126792263e1b0ee295e4f3c4750122865408204b89c620f16b9d17e4a50c8"
 }

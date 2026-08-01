@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/06/1955 : Arr\u00EAt\u00E9 du 14 janvier 1938, concernant la composition de la Commission sup\u00E9rieure des maladies professionnelles pour l\u0027\u00E9tude des maladies professionnelles dans l\u0027agriculture.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/consolide/19550621/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "20e6b97d694f8a7b0d2a1f3b35d3b278b742ba63e82d1e01065d165812ac75ff",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/consolide/19550621/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/a/1938/01/14/n1/consolide/19550621/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7cda3e15a1c873b1db86578a4d433d83ae115bcfc0905ad53c36646f77eefa13"
+  "record_sha256": "8d79a3208aa97d03822b8e55765c2a63df6894bd9fde10397c42a75dff3dba5d"
 }

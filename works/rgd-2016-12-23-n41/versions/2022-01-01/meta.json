@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 relatif \u00E0 la certification de la durabilit\u00E9 des logements.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n41/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5b78b4feb936eef4f00b2af5d9bf961b6a62b6553cf19cd3f494a2dc7d1dd1f2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n41/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n41/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d15dddcbb1f5557906a57b6d1ca5c4cbc32344583e7d013d2f674fc42b480f3a"
+  "record_sha256": "876cb8c77b57a1a165967c1d2d7c7ead0b07119f53da1eae16a4ba53b46da830"
 }

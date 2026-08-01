@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/06/2020 : R\u00E8glement grand-ducal du 25 novembre 2011 relatif aux modalit\u00E9s d\u0027affiliation \u00E0 la Chambre des M\u00E9tiers, \u00E0 la carte d\u0027affiliation, \u00E0 l\u0027\u00E9tablissement du r\u00F4le des cotisations et \u00E0 leur perception.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/25/n6/consolide/20200602/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e57f3c38eeea760260f583f4a164b8aed6904eda03d1ce887a3ebbdf8176ef95",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/25/n6/consolide/20200602/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/25/n6/consolide/20200602/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a7d9f35fc6f12d5ba85e144b11e6c8531fcfa8cfa4d7563d1f5ba72128735979"
+  "record_sha256": "f5f74b20f9b2e56de43d0d8d4d224601d10f8ccdc274bd5a4cc6f8ea87a216d7"
 }

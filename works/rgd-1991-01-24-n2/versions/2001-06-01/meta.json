@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2001 : R\u00E8glement grand-ducal du 24 janvier 1991 portant fixation du tarif des huissiers de justice.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "65d7fb83ce7231138b24fefba2285316924926978f750829e8b3506204925c67",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1991/01/24/n2/consolide/20010601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6bd02344bdad4a1d05e2abac0d026bed6dfbcd9988f6c32281a7885f087f6730"
+  "record_sha256": "375d01cf641762841e7403f83108a56313538f921926711c61aad160b720cde0"
 }

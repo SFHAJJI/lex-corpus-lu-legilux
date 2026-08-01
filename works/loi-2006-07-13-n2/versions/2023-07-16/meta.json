@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16 juillet 2023 : Loi du 13 juillet 2006 portant r\u00E9organisation du centre de psychologie et d\u0027orientation scolaires (CPOS).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/13/n2/consolide/20230716/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "184211f97a0851c8587976314b62737d8cca147aa77b48fdaea8ed2655f6675f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/13/n2/consolide/20230716/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/07/13/n2/consolide/20230716/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "520c982f32d1af77f08d84801f54860d1583d438f0757ac2d9c04a1125e0028a"
+  "record_sha256": "6460afb6198c29043d42e8534fa1ea2fb89e7e9ae2cf6e0b5281087ee94a3c18"
 }

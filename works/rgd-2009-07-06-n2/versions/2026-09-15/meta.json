@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2026 : R\u00E8glement grand-ducal du 6 juillet 2009 d\u00E9terminant les modalit\u00E9s d\u2019\u00E9valuation des \u00E9l\u00E8ves ainsi que le contenu du dossier d\u2019\u00E9valuation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20260915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b9d778e634ebd26c40fe23aabfe886eb1da9277ccf84f8ca99ee4ae415fc207b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20260915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/06/n2/consolide/20260915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a14845bbda140aa5b2a5e451ed52f5b87c05755ba6aa0d2d7616f1a96a3707fc"
+  "record_sha256": "1fb58e0b9fd92910382304eacc073a4c1d89909f5cca78df5274a3a3284f116a"
 }

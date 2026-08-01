@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : Loi du 27 mars 2018 portant organisation de la s\u00E9curit\u00E9 civile et cr\u00E9ation d\u2019un Corps grand-ducal d\u2019incendie et de secours, modifiant\\n1. la loi modifi\u00E9e du 14 f\u00E9vrier 1955 concernant la r\u00E9glementation de la circulation sur toutes les voies publiques ;\\n2. la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu ;\\n3. la loi modifi\u00E9e du 16 avril 1979 portant r\u00E9glementation de la gr\u00E8ve dans les services de l\u2019\u00C9tat et des \u00E9tablissements publics plac\u00E9s sous le contr\u00F4le direct de l\u2019\u00C9tat ;\\n4. la loi modifi\u00E9e du 8 d\u00E9cembre 1981 sur les r\u00E9quisitions en cas de conflit arm\u00E9, de crise internationale grave ou de catastrophe ;\\n5. la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988 ;\\n6. la loi modifi\u00E9e du 31 juillet 2006 portant introduction d\u2019un Code du Travail ;\\n7. la loi modifi\u00E9e du 21 d\u00E9cembre 2007 portant cr\u00E9ation de l\u2019Administration de la navigation a\u00E9rienne ;\\n8. la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019\u00C9tat\\net abrogeant la loi modifi\u00E9e du 12 juin 2004 portant cr\u00E9ation d\u2019une Administration des services de secours.",
       "title_short": "Loi du 27 mars 2018 portant organisation de la s\u00E9curit\u00E9 civile.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d5329856a34edc24e5c669fbd4d4f1d693b3dc3f7412063dede55c0e4d52b5d0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/03/27/a221/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8d6cb80a4e0accbfff51f05c0b4e3f318f5049d978a8af7ebff8c8abd1d91334"
+  "record_sha256": "2ecc4a4dc21339bc9e541fb487b5556433aa27c8af99729e3b095c038cd8e43e"
 }

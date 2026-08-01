@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 19/04/1967 : R\u00E8glement grand-ducal du 25 mars 1967 abrogeant et rempla\u00E7ant l\u0027arr\u00EAt\u00E9 grand-ducal du 29 juillet 1957 concernant le classement et les conditions d\u0027installation des terrains de camping.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1967/03/25/n5/consolide/19670419/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "51b4ba8b76b1c6ca284dc863f318eb2a5890f4c59800f36cd215ccd27e1cb364",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1967/03/25/n5/consolide/19670419/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1967/03/25/n5/consolide/19670419/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "70cf9ca7e3b29c5698690e13ab1aa501c4dcd93e70b7400308d175b147f27cfd"
+  "record_sha256": "0412b0c3e5f8fd5cd857ccb76b52899b236162a5e2f208411ee102bac64409f2"
 }

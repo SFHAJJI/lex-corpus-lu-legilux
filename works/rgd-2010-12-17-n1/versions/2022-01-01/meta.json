@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : R\u00E8glement grand-ducal du 17 d\u00E9cembre 2010 fixant les taux applicables en mati\u00E8re de droits d\u2019accise autonomes sur les produits \u00E9nerg\u00E9tiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "637478d82ded3b371cfbab8594b7b5ed33fde86829b5fa6bfd3ad7ff5eff98ac",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/12/17/n1/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dc43d2317109a9db25ca1dc34a37f734a92814b4ebc27e36ad1782ab3cd3dca9"
+  "record_sha256": "65ca5ab5fab579da7b9ee8c9b2da29428d82a63082dcfe2c2a0257c6212170d9"
 }

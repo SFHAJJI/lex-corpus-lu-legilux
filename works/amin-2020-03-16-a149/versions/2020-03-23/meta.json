@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/03/2020 : Arr\u00EAt\u00E9 minist\u00E9riel du 16 mars 2020 portant sur diverses mesures relatives \u00E0 la lutte contre la propagation du virus covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "14d3923abe90219b32c52437b6ac38f292c0c8a4153ba255a4bca772c7fe82a0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/amin/2020/03/16/a149/consolide/20200323/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "89fad8d2000a5b18840f0ad04ea167646944f9ba35c1346aa55eaab9c9617ef0"
+  "record_sha256": "b8d89549bd2ac5e93bcd48f5dc77fbddb7bd4de2eb6d0322ae3356c63e50a023"
 }

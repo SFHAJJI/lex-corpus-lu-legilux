@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/06/2021 : Loi du 21 d\u00E9cembre 2007 portant autorisation de d\u00E9penses d\u0027investissement dans des capacit\u00E9s et moyens militaires.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n3/consolide/20210607/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f07b29fdb167ac9b639ae6657190edfc190eab4970f8d0adbcb120fbb2f723c3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n3/consolide/20210607/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2007/12/21/n3/consolide/20210607/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6bfedc3562c30e21190e2332e9eaa20340ba5cce0e86b1c2e6704a40f1c4e439"
+  "record_sha256": "fa6929d012c93d72f56c68d518fdf5768dd98329baeb0e9bdf6caa0ec293f4f2"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/02/2019 : R\u00E8glement grand-ducal du 15 d\u00E9cembre 1992 relatif \u00E0 la mise sur le march\u00E9 des m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/consolide/20190205/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c3f00883ea6cf9840ebe505852c2f4794271cbf63fc39ebb60fc6dc9dd2bda38",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/consolide/20190205/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/15/n1/consolide/20190205/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aed957b38ab949818df1604417fea013ecd7b436b4db00e3bbca1fd1572294b8"
+  "record_sha256": "7d3623b9b5bb7f3d280661b991305899a985359427e8243a8540072928817798"
 }

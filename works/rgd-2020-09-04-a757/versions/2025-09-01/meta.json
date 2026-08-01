@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/09/2025 : R\u00E8glement grand-ducal du 4 septembre 2020 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive ainsi que de l\u2019examen de promotion des diff\u00E9rentes cat\u00E9gories de traitement aupr\u00E8s de l\u2019Administration gouvernementale et portant modification :\\n\\n1\u00B0 du r\u00E8glement grand-ducal modifi\u00E9 du 13 avril 1984 d\u00E9terminant la proc\u00E9dure des commissions d\u2019examen de l\u2019examen de fin de formation sp\u00E9ciale pendant le stage et de l\u2019examen de promotion dans les administrations et services de l\u2019\u00C9tat ;\\n\\n2\u00B0 du r\u00E8glement grand-ducal modifi\u00E9 du 31 octobre 2018 portant organisation de la formation pendant le stage pour les fonctionnaires stagiaires de l\u2019\u00C9tat et des \u00E9tablissements publics de l\u2019\u00C9tat ainsi que du cycle de formation de d\u00E9but de carri\u00E8re des employ\u00E9s de l\u2019\u00C9tat.\\n",
       "title_short": "R\u00E8glement grand-ducal du 4 septembre 2020 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive ainsi que de l\u2019examen de promotion des diff\u00E9rentes cat\u00E9gories de traitement aupr\u00E8s de l\u2019Administration gouvernementale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/04/a757/consolide/20250901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "75de5511ab4e2c333a5e2dddd97d5b54cdff8e4d85e091d586e2b299c359aad7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/04/a757/consolide/20250901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/09/04/a757/consolide/20250901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5427db38ae70d563a92a0f025222f0c64a36ad2bdaa53a239e4be9f8a47dcfd7"
+  "record_sha256": "e9161bf6c598cd44ad3f9d8706d068fc890f20eb14a2558542a9a05c929524aa"
 }

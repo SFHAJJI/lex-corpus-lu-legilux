@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/08/2023 : R\u00E8glement grand-ducal du 11 ao\u00FBt 2011 fixant le plan d\u2019\u00E9tudes pour les quatre cycles de l\u2019enseignement fondamental.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20230821/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "32ad2130d76feb0e273ad0dc4165e907fa6bc1ba1b86f275ebb5d6163e5ab559",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20230821/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/08/11/n1/consolide/20230821/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6d39ac3e9209d5c19d439b650cd377026c7ab1d1fff599388be515d9d3f84547"
+  "record_sha256": "329cb13df430e241a47de8f445ca9b63a3cc2fa8c28b21a14d6403523a43e750"
 }

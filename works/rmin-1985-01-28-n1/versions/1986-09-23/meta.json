@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/09/1986 : R\u00E8glement minist\u00E9riel du 28 janvier 1985 d\u00E9terminant les mesures n\u00E9cessaires pour parer \u00E0 la propagation de la rage et conditionnant la circulation, l\u0027importation et l\u0027exportation des chiens et des chats.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1985/01/28/n1/consolide/19860923/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b3e86d293d07e848c64ea65594ca2322bfd132452941ec64bb27c9224d797905",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1985/01/28/n1/consolide/19860923/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/1985/01/28/n1/consolide/19860923/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5e61432cc006d7baad32b0eb2bc32d95dae90d442fbf40f0e8605526ff1d0f17"
+  "record_sha256": "ca6d47078faa1d8405658fb9633380d0ca2422bc8af1f66fa93f066840e1080d"
 }

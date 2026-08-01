@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/11/2020 : Arr\u00EAt\u00E9 minist\u00E9riel du 21 avril 2020 concernant la d\u00E9classification d\u2019une zone de s\u00FBret\u00E9 a\u00E9roportuaire dans le cadre du chantier de construction du bassin de r\u00E9tention S2 \u00E0 proximit\u00E9 de l\u2019aire de trafic P10.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2020/04/21/a317/consolide/20201122/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e55a91aa25972b8261ea3d77e21b0fc21f2e4c87a2901b2fc0afb0f2180cf23d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/amin/2020/04/21/a317/consolide/20201122/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/amin/2020/04/21/a317/consolide/20201122/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "43798ea94826d20006d958e7cecb6185f3136d1e0ae9640cf7f0c31860f06670"
+  "record_sha256": "b8eb25a70b57184f196444624be4911be44a0d4117c60ce458dc6b29798a5e80"
 }

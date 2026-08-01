@@ -9,9 +9,9 @@
   "tier": "A",
   "attribution": "Minist\u00E8re d\u0027\u00C9tat \u2013 Service central de l\u00E9gislation, Grand-Duch\u00E9 de Luxembourg. Data: Legilux open data (CC-BY), data.public.lu dataset 62c83bfd9794ec8e47b5bc68.",
   "source_terms_url": "https://data.public.lu/en/datasets/legilux-journal-officiel-du-grand-duche-de-luxembourg/",
-  "text_included": false,
-  "text_public": false,
-  "modifications": "Metadata converted from source RDF to JSON; no text stored (metadata-only mode, D42).",
+  "text_included": true,
+  "text_public": true,
+  "modifications": "Metadata converted from source RDF to JSON; bodies stored verbatim as retrieved from the publisher\u0027s dissemination channel; no text altered.",
   "document_types": [
     {
       "code": "LOI",
@@ -113,7 +113,7 @@
     "lb"
   ],
   "works": 1399,
-  "versions": 4644,
+  "versions": 4632,
   "valid_from_earliest": "1849-03-14",
   "valid_to_latest": "2030-09-15",
   "history_begins": "publisher",

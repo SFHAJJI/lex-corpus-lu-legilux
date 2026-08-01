@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2018 : R\u00E8glement grand-ducal du 30 septembre 2015 d\u00E9terminant pour les fonctionnaires et employ\u00E9s de l\u0027Etat: I. les cas d\u0027exception ou de temp\u00E9rament aux conditions de stage; II. la bonification d\u0027anciennet\u00E9 de service pour la fixation du traitement initial; III. la proc\u00E9dure d\u0027attribution d\u0027une prime pour les d\u00E9tenteurs d\u0027un doctorat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n10/consolide/20181001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "63ec751e458509b4701d68fd271065ed64a4403c1c1070f2cc8d0a03c32471a7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n10/consolide/20181001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n10/consolide/20181001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cd47c627dfbd26966a2a93881b0d1187ac3133b5b5511392b1c414c84fde79cf"
+  "record_sha256": "10c5780c4fc9d234f5a4245cf9edc3157cef43f4ab5e52ae44ed92494f2c5d8f"
 }

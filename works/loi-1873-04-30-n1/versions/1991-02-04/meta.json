@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/02/1991 : Loi du 30 avril 1873 ayant pour objet la cr\u00E9ation d\u2019un \u00E9v\u00EAch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1873/04/30/n1/consolide/19910204/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3d07881abf9deb927f63eb0c76d1579e62c1f70d29480612a0e4675bc6177af3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1873/04/30/n1/consolide/19910204/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1873/04/30/n1/consolide/19910204/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d15c4c13c0a0d96b3f3abf5b25c140feca3718896cb24f09743e7dd51c79e20"
+  "record_sha256": "769b07cb6553c47d7fbd92f167ae649b23f4b1599c780a49649c7fe4a8118749"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/12/2015 : Arr\u00EAt\u00E9 grand-ducal du 22 d\u00E9cembre 2000 concernant les d\u00E9l\u00E9gations de signature par le Gouvernement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n1/consolide/20160101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e1c7cb6780b6929a9254371ad972bbb450059d93399e5261e66aaa65414e041e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n1/consolide/20160101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2000/12/22/n1/consolide/20160101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3eb557b6d01796c633e8cd1ab6177a9628b88fcc54edbad258566261230c37ec"
+  "record_sha256": "bdc523cf1f402c94eac8f04ab1d571389bb2d6dac63839ea3cf674807c4dbb3f"
 }

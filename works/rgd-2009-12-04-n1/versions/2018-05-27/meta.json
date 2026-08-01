@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/05/2018 : R\u00E8glement grand-ducal du 4 d\u00E9cembre 2009 fixant un nombre limite pour le cadre du personnel de l\u0027Institut Luxembourgeois de R\u00E9gulation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20180527/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "15023bf888613bcddb47fd2d79070d8c1db12002be75fc2da4b6852e5d74713b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20180527/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/04/n1/consolide/20180527/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "81bc3f3cae584a2ff746e64b8d91a630cc27f332820863d941fd6bef59de3ec2"
+  "record_sha256": "58b043c621cde8fb22ca6953817cb675b5b0de1a5f2912ebb07964a41248cd96"
 }

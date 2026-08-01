@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/02/2025 : R\u00E8glement grand-ducal du 16 f\u00E9vrier 2005 transposant la directive 2003/25/CE du Parlement europ\u00E9en et du Conseil du 14 avril 2003 relative aux prescriptions sp\u00E9cifiques de stabilit\u00E9 applicables aux navires rouliers \u00E0 passagers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/02/16/n9/consolide/20250211/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f1e95de13bb61f1f5180cefafecb517041e783677382c216fdd777857d4504e8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/02/16/n9/consolide/20250211/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/02/16/n9/consolide/20250211/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0fda3a3d03e2ded7bb57b8d40bdb221eb1e6fadf127cf6cbad3604682b836c31"
+  "record_sha256": "d3be2ef4be182a9c9356bc0d3de2826e0294ad52cf2df4250a79ae397af09932"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/08/2018 : Loi du 16 janvier 1990 relative aux dispositifs m\u00E9dicaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/16/n1/consolide/20180825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7a5e9c5381975427cf000cee6519f2f3c03cf17ac11d32b8af687841e19fe9bd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/16/n1/consolide/20180825/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/01/16/n1/consolide/20180825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "db99f2a9b92d6cd2b340878898968cfdbaf7003aa491791f8ecf1a1aec2b1374"
+  "record_sha256": "6e3aeee60ad31c947eee7c53da3fce3e0afde0c658d3d09eb63d2d3a8ac8f601"
 }

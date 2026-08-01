@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/02/2026 : R\u00E8glement grand-ducal du 18 octobre 2001 d\u00E9terminant la liste des vaccinations recommand\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20260224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "24a0400fb714a7d89ee02522691489f9a2fa5c6dd53e2646282a429eef884a5d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20260224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/10/18/n3/consolide/20260224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bb69eca6a4368eb9f027d5fb8e8e2cd0d48d8386c66998f8ee37c0acaef06a7a"
+  "record_sha256": "2b30b1376199116a7c387a6cb9c902d394cce7c1dc19d7d71897ab4d0054c95a"
 }

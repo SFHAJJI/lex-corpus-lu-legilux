@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/02/1863 : Loi du 12 juillet 1844, sur les chemins vicinaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1844/07/12/n1/consolide/18630213/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "98b43dcd580fbcf8b6f42c80ad5c43a042bea8e47e6d0573643abf1adf35264e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1844/07/12/n1/consolide/18630213/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1844/07/12/n1/consolide/18630213/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2f31f0d7cc396ae648dc7ef967419e25534a44ac99c2228374ac127f82e863c4"
+  "record_sha256": "08a7f6f78d97d388f142d466e68eafbfbdb7de7f53c910f08e4442a2d8cdaf17"
 }

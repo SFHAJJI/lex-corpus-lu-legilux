@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 25/05/2019 : Loi du 16 d\u00E9cembre 2011 concernant l\u2019enregistrement, l\u2019\u00E9valuation et l\u2019autorisation des substances chimiques ainsi que la classification, l\u2019\u00E9tiquetage et l\u2019emballage des substances et m\u00E9langes chimiques. (intitul\u00E9 abr\u00E9g\u00E9)",
       "title_short": "Loi du 16 d\u00E9cembre 2011 concernant l\u0027enregistrement, l\u0027\u00E9valuation et l\u0027autorisation des substances chimiques ainsi que la classification, l\u0027\u00E9tiquetage et l\u0027emballage des substances et m\u00E9langes chimiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190525/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3ed4121c1f0d0f61f26824f56f09b84842e9a4fcdbd91e0e8d2494dc5601e080",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190525/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/12/16/n6/consolide/20190525/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0339ba61519b1ee97d33635c46ea1982eb58699628b2aefaa5d3177ff1f3b181"
+  "record_sha256": "d1bf8013ee42ab3feecdeba8991d2e7369c2a4e73db58ef93b6098887a286c43"
 }

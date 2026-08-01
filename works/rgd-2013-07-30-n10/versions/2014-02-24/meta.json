@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/02/2014 : R\u00E8glement grand-ducal du 30 juillet 2013 portant ex\u00E9cution de certaines dispositions du Titre 4. - De la comptabilit\u00E9 communale de la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n10/consolide/20140224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8251bfd908b0301ccbe11fbac66111b7805a7997b9f00072796f299b255acbbe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n10/consolide/20140224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n10/consolide/20140224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fe2697a1ce27eeb0c32795688134f5a3c4e68ed0955bfc9f42e5333791873d72"
+  "record_sha256": "60f15ff13e1116d85b3c26ed6ced80a06fe91e2684fdb7e3117a2aa24fb1224e"
 }

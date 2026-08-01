@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2023 : Loi du 25 mars 2015 d\u00E9terminant le r\u00E9gime et les indemnit\u00E9s des employ\u00E9s de l\u2019Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20230701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "944f494a2607abfe366bdf8c41e52ac5a2f355b5b6dfd935197e7ec3873d9a05",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20230701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n8/consolide/20230701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "41656e066770a9630f00efd9e02e384c2260327b6c1653008bf3b3e063bdb918"
+  "record_sha256": "51f414232ce2b21fa67e901be806f703ac5aea3754bf2afb6860e1a98ead2956"
 }

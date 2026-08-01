@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/04/2021 : R\u00E8glement grand-ducal du 17 mars 2020 fixant le contenu et les modalit\u00E9s du contrat de coop\u00E9ration type vis\u00E9 par l\u2019article 4 paragraphe 4 de la loi du 17 ao\u00FBt 2018 relative \u00E0 l\u2019archivage.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/03/17/a253/consolide/20210402/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3a899c21bbc813f80b34428b3edf2cf19afad0973f27c2adf288faa457c736cc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/03/17/a253/consolide/20210402/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/03/17/a253/consolide/20210402/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "462ce3e6601683b8dc2f77b9777349011b2e88f956b36cd6a19c8cbd8fe83fc1"
+  "record_sha256": "e11b463f5d5fe990e73c073f87cebe50e0f11aebfb185d9492b5646b1b423673"
 }

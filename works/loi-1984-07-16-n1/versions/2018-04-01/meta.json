@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2018 : Loi du 16 juillet 1984 relative aux laboratoires d\u0027analyses m\u00E9dicales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20180401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "abc4d0b90b2c8941460b36df0715608c98d8651f3f71fb9d5b418d0d4a74d9d2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20180401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1984/07/16/n1/consolide/20180401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0f70a49783a5e9c5581b85921889665518cdca5a1c354bad61670b278a6e4ea5"
+  "record_sha256": "a2d57a0d2d46d0af389bc8923a5feabeeeb98dcf26d30ae6d3bf82e72775db3e"
 }

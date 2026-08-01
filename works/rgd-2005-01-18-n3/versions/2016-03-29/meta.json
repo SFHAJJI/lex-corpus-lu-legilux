@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/03/2016 : R\u00E8glement grand-ducal du 18 janvier 2005 d\u00E9terminant le mod\u00E8le du carnet \u00E0 souches pr\u00E9vu \u00E0 l\u0027article 30-1 de la loi modifi\u00E9e du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/18/n3/consolide/20160329/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3a42e720f029fe2f56de312c6b09e2d50932f1e3ee3993e4027800a17d9bc703",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/18/n3/consolide/20160329/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2005/01/18/n3/consolide/20160329/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5b955a85e9d73562671d9ea70055a33ae2c0c8b7dac11bba0224911c2d0227a5"
+  "record_sha256": "a758b8df3177e8770bdea2057397847f84caceb4f23f42d798981f88d6e834a8"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/07/2026 : R\u00E8glement grand-ducal du 7 juillet 1987 concernant l\u0027organisation et le fonctionnement de la commission sp\u00E9ciale charg\u00E9e du r\u00E9examen des d\u00E9cisions de l\u0027administration de l\u0027emploi en mati\u00E8re d\u0027indemnisation du ch\u00F4mage complet.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/consolide/20260731/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f6cff74947624afb6b9f2aad9a015ef62009d6269124bf31e0728ec72f73fe7c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/consolide/20260731/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1987/07/07/n5/consolide/20260731/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d3a51f98fcec22eb2bafc71280085212e44af508efe38f22595d8729765bfce4"
+  "record_sha256": "cceb2acd2aaf3ba270fbf6fe36a4e7922b42761197a2c54d20ab54e14e21b0ff"
 }

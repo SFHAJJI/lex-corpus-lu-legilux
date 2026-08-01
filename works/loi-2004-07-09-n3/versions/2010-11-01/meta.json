@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2010 : Loi du 9 juillet 2004 relative aux effets l\u00E9gaux de certains partenariats.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/consolide/20101101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "44d1e1d1409b0a2770f0d21a376f8ad9496ae019de3dc2c2f57b8a42abc35661",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/consolide/20101101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/09/n3/consolide/20101101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "91f65075241fa93aa792eeb4e8fc8bdfe491d1d18b48aa94c242edc0190a1d6c"
+  "record_sha256": "ebaea8aa981cbb19dd1850cfee3afd55a1946532ea364fefb868aed43a8768ff"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/11/2021 : R\u00E8glement grand-ducal du 25 avril 2001 concernant la commercialisation des mat\u00E9riels de multiplication des plantes ornementales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/25/n1/consolide/20211119/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1bfb5940bd74a77dfbf8f65ab0a865aa77a72f689a760c3bc646de5e42aeb7f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/25/n1/consolide/20211119/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/25/n1/consolide/20211119/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b390859ac85d38b1ff2d56914586a57e7062f44ea4e0e3db41219e5801f3b629"
+  "record_sha256": "908421d1d1831924375edd6f71de92c1185ec715b00ba6db08a9a2ac2c54ad8a"
 }

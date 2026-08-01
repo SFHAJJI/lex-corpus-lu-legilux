@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 19 d\u00E9cembre 2003 portant r\u00E9activation du fonds d\u0027\u00E9quipement militaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4e6288747af9d87e32dbb28ec88d6bd4ead335f1d9359f72d6ee679440e161e0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/12/19/n16/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b0606c117506617fe6fcc896fa589dcd98bc5aa90a0b06eed8523f3a5ab96d7f"
+  "record_sha256": "6da6f59202a4f3d65464ccd98ee666f3a686170a3c8561e33445a8bf72e4e1b6"
 }

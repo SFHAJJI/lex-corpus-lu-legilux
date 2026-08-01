@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 19/12/2021 : Loi du 5 mai 2017 concernant certaines modalit\u00E9s d\u2019application et les sanctions du r\u00E8glement (UE) 2019/1148 du Parlement europ\u00E9en et du Conseil du 20 juin 2019 relatif \u00E0 la commercialisation et l\u2019utilisation de pr\u00E9curseurs d\u2019explosifs, modifiant le r\u00E8glement (CE) n\u00B0 1907/2006 et abrogeant le r\u00E8glement (UE) n\u00B0 98/2013",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/05/05/a484/consolide/20211219/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "70714c8428c47ff37af8b47deaec7d8c9925188f9d4344111588ce460df187be",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/05/05/a484/consolide/20211219/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/05/05/a484/consolide/20211219/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2c63aec1fd45c271bab25b97af38a34aaeaefd25aa0267967c42a3d8051b3a08"
+  "record_sha256": "bb527837cfad1f0ea508d047fc329f0e7522bb9dc90124570e8c3d03774be9c8"
 }

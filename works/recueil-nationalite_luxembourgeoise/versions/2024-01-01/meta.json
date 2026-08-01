@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Nationalit\u00E9 luxembourgeoise",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2d58858493d0ede30717179e85e89c8d97f382cfefae0c7b3b2d396c9b7a8e18",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/nationalite_luxembourgeoise/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "517d128792578dc9da7a597eb778a9a0c65b897fbd87553ef8fb28dc3f885267"
+  "record_sha256": "dab52ac0a34c4421ad9f9c45e232d8705ef0c601442e0dc62d0cafd1194c26db"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 10 juillet 2011 portant organisation de l\u2019Institut national de la statistique et des \u00E9tudes \u00E9conomiques et modifiant la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f50f3e44d750aee3b06e12d8b26b4a8171a86261dba9882adb61b641c120b7ad",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/07/10/n5/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6f701527a2abe23ae2007e164de82ade91b9d4700da1870624c81c608f46c436"
+  "record_sha256": "e05bf10b334a8d661f769909d5ead62a5d4730d17c311aea7fabf273f955da9f"
 }

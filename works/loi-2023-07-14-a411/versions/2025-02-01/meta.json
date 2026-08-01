@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/02/2025 : Loi du 14 juillet 2023 portant mise en place d\u2019un m\u00E9canisme de filtrage national des investissements directs \u00E9trangers susceptibles de porter atteinte \u00E0 la s\u00E9curit\u00E9 ou \u00E0 l\u2019ordre public aux fins de la mise en \u0153uvre du r\u00E8glement (UE) 2019/452 du Parlement europ\u00E9en et du Conseil du 19 mars 2019 \u00E9tablissant un cadre pour le filtrage des investissements directs \u00E9trangers dans l\u2019Union, tel que modifi\u00E9.",
       "title_short": "Loi du 14 juillet 2023 portant mise en place d\u2019un m\u00E9canisme de filtrage des investissements directs \u00E9trangers susceptibles de porter atteinte \u00E0 la s\u00E9curit\u00E9 ou \u00E0 l\u2019ordre public.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "56b7c00dc951d0a6b0a98e11203c535aaacc3235150b66b140a4334c24ba887f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/07/14/a411/consolide/20250201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d0c8b15d0639a6b2d39d6b4cbc7a7e0db2f5d17016c59c78ad67a1bc9a2ef6f7"
+  "record_sha256": "29a2dfcc859687dc99cad76a73560aacd464f91c36a4276ad9f27025302f022f"
 }

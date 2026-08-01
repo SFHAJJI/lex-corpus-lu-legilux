@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "March\u00E9s Publics",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20240611/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "35e85ef77193f92aa7110e48089c9a4b9049c8d418236b8dafcd0ecc5c4b8b1d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20240611/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/marches_publics/20240611/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "529fb898bd2406ba5a8e19bda2fa51c5257ebd85357a20d8f3d7049f428e80ec"
+  "record_sha256": "378bf6a616db5e1479012daf57d7b39a9f0a54d5edd3140bdc3260758d94299a"
 }

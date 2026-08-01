@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/07/2012 : R\u00E8glement grand-ducal du 5 septembre 2008 fixant les conditions et modalit\u00E9s relatives \u00E0 la d\u00E9livrance d\u2019une autorisation de s\u00E9jour en tant que travailleur salari\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20120708/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "07e6ea725fe486c8cfba4389d8768e780d7dd0149743eb55b9c05b933f937675",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20120708/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n3/consolide/20120708/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "76fd6198ee035781fed4f06542aa1d557cbfbf3cf1cf9d1cf4f5bb3a64f66147"
+  "record_sha256": "ba4aa8ba5b122b2ba4248b3d63e1dde2d95cf9c56453ed861780b616ea1f1575"
 }

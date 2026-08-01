@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 20/04/2020 : Loi du 23 d\u00E9cembre 2016 \\n1. instituant un r\u00E9gime d\u0027aides pour la promotion de la durabilit\u00E9, de l\u0027utilisation rationnelle de l\u0027\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement; \\n2. modifiant la loi modifi\u00E9e du 23 d\u00E9cembre 2004 \u00E9tablissant un syst\u00E8me d\u0027\u00E9change de quotas d\u0027\u00E9mission de gaz \u00E0 effet de serre.",
       "title_short": "Loi du 23 d\u00E9cembre 2016 instituant un r\u00E9gime d\u0027aides pour la promotion de la durabilit\u00E9, de l\u0027utilisation rationnelle de l\u0027\u00E9nergie et des \u00E9nergies renouvelables dans le domaine du logement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n20/consolide/20200420/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fafd0e76a021f6ddd9e9c4ad4ccc3b620d19ae34416cb126de0311d8dbf60f93",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n20/consolide/20200420/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/12/23/n20/consolide/20200420/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "21e451a26373caa6ae10b15570e005345bfca066aea6b9f15e5fdc938c970196"
+  "record_sha256": "d3c5d3e0c4be038d349db2ae89fcabd05907a994e1e01e04a1fbfe44b01746a1"
 }

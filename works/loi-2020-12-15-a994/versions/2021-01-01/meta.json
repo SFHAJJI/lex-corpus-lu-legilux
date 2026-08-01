@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : Loi du 15 d\u00E9cembre 2020 relative au climat et modifiant la loi modifi\u00E9e du 31 mai 1999 portant institution d\u2019un fonds pour la protection de l\u2019environnement.",
       "title_short": "Loi du 15 d\u00E9cembre 2020 relative au climat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a994/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "87d8f832ccb88723f180a2087cc377281c08dee41b854778e840d1689374ef35",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a994/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a994/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d6b47364df86dadbe3298d824ecee9b01174796caba5cc6044383ee4de82422a"
+  "record_sha256": "9c20e1af5fde41005c3427cd243d54f91bb5fc2d193fc6a5b3328499bca7a812"
 }

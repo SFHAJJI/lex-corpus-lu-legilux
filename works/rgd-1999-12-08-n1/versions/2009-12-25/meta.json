@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/2008 : R\u00E8glement grand-ducal du 8 d\u00E9cembre 1999 concernant l\u0027agr\u00E9ment \u00E0 accorder aux gestionnaires de services pour personnes \u00E2g\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/12/08/n1/consolide/20091225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f7a7164ccf323546af6fa8a0f7c4de9123ab68fd08ce117143eebd70ca84d6e6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1999/12/08/n1/consolide/20091225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1999/12/08/n1/consolide/20091225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "253fb50aed602a48ab9773e710359b22245fef2ae448418c49ade5a2f628a389"
+  "record_sha256": "5f7151d2252f634ca7d70b743bd820bd5d8af1e88e1ca25606c427531ad30a86"
 }

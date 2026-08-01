@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2026 : R\u00E8glement grand-ducal du 22 juin 2022 fixant :\\n1\u00B0 les conditions et les modalit\u00E9s \u00E0 remplir par les \u00E9coles de musique r\u00E9gionales pour assurer l\u2019enseignement musical de la division moyenne sp\u00E9cialis\u00E9e ;\\n2\u00B0 les modalit\u00E9s d\u2019examen ainsi que les modalit\u00E9s d\u2019obtention et de d\u00E9livrance des dipl\u00F4mes de la division moyenne sp\u00E9cialis\u00E9e pour les \u00E9coles de musique r\u00E9gionales.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/22/a336/consolide/20260901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "40830baa8625903edaa0858bc5807a9698416dc7fa9df4eb27f15e6aeb61b72d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/22/a336/consolide/20260901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/06/22/a336/consolide/20260901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aab53f80ac9d981d38453a80e59a34c5980bc51492d6defd54c9d19ff526fa35"
+  "record_sha256": "8a5cccc6bbb22b34d9332a78753dbb8ba657ff4ec8f65d330bc6921da99d2373"
 }

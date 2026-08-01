@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/07/2015 : R\u00E8glement minist\u00E9riel du 14 f\u00E9vrier 2006 d\u00E9terminant certaines exigences techniques relatives au sang et aux composants sanguins.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20150728/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "008201d32ccc36d5a439cee83d07cef21f464cf877d69a0f398b6879efa33bf8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20150728/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2006/02/14/n3/consolide/20150728/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a53ad823d8bff3659ed46b74074ed23956c708812a4d7d3d76e71011cfe390bb"
+  "record_sha256": "ed9afdaf2e7beecfcae694a23ce35152c2c599a0d4c7c40899cf45aa72b2755b"
 }

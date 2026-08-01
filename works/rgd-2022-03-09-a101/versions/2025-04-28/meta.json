@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/04/2025 : R\u00E8glement grand-ducal du 9 mars 2022 d\u00E9terminant la composition, l\u2019organisation et le fonctionnement de la commission pour le patrimoine culturel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/03/09/a101/consolide/20250428/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9377951d0aa10d9dd02160631c042d75eae5cb5da6ef3c8d795375118f4f5ccd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/03/09/a101/consolide/20250428/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/03/09/a101/consolide/20250428/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7fe0b943e96a032556c1b07f53ff64841be68aa0f722240cfa252bdbb3e30512"
+  "record_sha256": "d1190ab2381f241c9ce3f0b629eb559b88e28113a936377cd7a178455c9ad8ae"
 }

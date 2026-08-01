@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/03/2004 : R\u00E8glement grand-ducal du 26 juin 2002 portant organisation du Conseil Sup\u00E9rieur de l\u0027Education Nationale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/consolide/20040329/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bfbfbecf43e4dd80311c5bac28bc763d4a89a320be41aa23c9e409795763afc9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/consolide/20040329/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/06/26/n4/consolide/20040329/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2adee74b485543c56d8f4b35cb2b3713b1bd0780dfb3b6df7e9550eb8848bb87"
+  "record_sha256": "ef4e398b047dca1c0a8e82db60600b53e410096075434130daf124f778c95553"
 }

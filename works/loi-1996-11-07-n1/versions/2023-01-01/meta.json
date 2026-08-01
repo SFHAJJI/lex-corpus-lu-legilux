@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 7 novembre 1996 portant organisation des juridictions de l\u0027ordre administratif.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "69e9af53554fdb5cd3bf7a42aad935d3a18cb9d36a22cee6f929fa838e2234d5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0bf5aa708bd3068d9efaa0fd2f09b97afda3d982d2062cd29832fd97daf9c18c"
+  "record_sha256": "eb6ea25e237b87c2a48f9aab18a5dad6dc6df35362dcd157afcf4e2f2c9f3090"
 }

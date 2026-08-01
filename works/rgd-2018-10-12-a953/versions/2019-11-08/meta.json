@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/11/2019 : R\u00E8glement grand-ducal du 12 octobre 2018 d\u00E9terminant la composition et le fonctionnement de la commission consultative charg\u00E9e de l\u2019examen des demandes d\u2019aides.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/consolide/20191108/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "76ba0980ae58b5517ed35834760f68b788427c32ce794faa7fce8ea330d87ec3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/consolide/20191108/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/12/a953/consolide/20191108/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bbdb404f1853efd7b914da2b19d5559663d22b1e83ed574bf8b9309e615a84e2"
+  "record_sha256": "ad7544afa86aa0f7146468283b4193e73442ebbaceb5da1c919625e0bc3680a7"
 }

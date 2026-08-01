@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/08/2020 : R\u00E8glement grand-ducal du 10 mars 2014 relatif \u00E0 la composition, \u00E0 l\u0027organisation et au fonctionnement du Comit\u00E9 de suivi de la lutte contre la traite des \u00EAtres humains.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/10/n1/consolide/20200825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f72427f2d69dd39c97ea245ef0cf98ee8e92a6b2c7595e792b10c6b3808b19cd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/10/n1/consolide/20200825/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/03/10/n1/consolide/20200825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "08f8022468d4a2e5c84c6bdfbe7a92369e2556af37b4570f786c82c199121aa1"
+  "record_sha256": "41725529700658456dbf743dc717daa07dcc6dc263364117138105ea185c48ab"
 }

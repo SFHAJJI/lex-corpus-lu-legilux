@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/07/2013 : R\u00E8glement grand-ducal du 1er mars 2002 relatif \u00E0 la pharmacie hospitali\u00E8re et au d\u00E9p\u00F4t hospitalier de m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n4/consolide/20130722/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0e10bb4a980efef21aa160a9b3df4bb9f58773d1d1df904e093ceca31d6e1516",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n4/consolide/20130722/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2002/03/01/n4/consolide/20130722/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "60c5f9530ce76f5b9dc7bd96658cc7df1601de0249aea37c08a7e74502181c27"
+  "record_sha256": "0ba31cfc3ffb59fe877514c6e812005803bcab28329d2f33a0d693ad184aa304"
 }

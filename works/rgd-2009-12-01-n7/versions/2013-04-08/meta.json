@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/04/2013 : R\u00E8glement grand-ducal du 1er d\u00E9cembre 2009 relatif \u00E0 la d\u00E9claration de commencement, de changement ou de cessation de l\u2019activit\u00E9 \u00E9conomique en mati\u00E8re de taxe sur la valeur ajout\u00E9e et \u00E0 l\u2019attribution d\u2019un num\u00E9ro d\u2019identification TVA.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20130408/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d6dcd7295187cabd850caf4f77ac1e19c9534748b01af4fb635f3eb7a7d1897b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20130408/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/12/01/n7/consolide/20130408/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2100b2cc5ffdd6da4b2e5e4c63fd3bd17d848e130d997cd140f4845b2b08011a"
+  "record_sha256": "f84681789497e3e87efb65e06e680d1fe2d1b2a9c327c5fa5cfb64b756171bca"
 }

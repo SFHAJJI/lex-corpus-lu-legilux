@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/10/2020 : Loi du 23 septembre 2020 portant des mesures concernant la tenue de r\u00E9unions dans les soci\u00E9t\u00E9s et dans les autres personnes morales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/09/23/a785/consolide/20201030/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ee29ad69b7900f9b52c0685cae00b9da405632732f6a726f75dda0ca8237897e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/09/23/a785/consolide/20201030/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/09/23/a785/consolide/20201030/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "971505fab113e441ad6184cea17f4bd9452b15206fd03248f785d926e0eccc7c"
+  "record_sha256": "b5429ee4794e94cc0d4a4bb95635353da780b7d841ccef0393055682ceac1ca6"
 }

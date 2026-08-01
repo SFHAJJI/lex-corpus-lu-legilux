@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/03/2024 : Loi du 15 juillet 2022 visant \u00E0 mettre en place un r\u00E9gime d\u2019aides aux entreprises particuli\u00E8rement touch\u00E9es par la hausse des prix de l\u2019\u00E9nergie caus\u00E9e par l\u2019agression de la Russie contre l\u2019Ukraine.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20240320/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0706a5787557b7468ce515131153a7bf5975c28423e1087c3dfda5f3f6babcb8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20240320/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a412/consolide/20240320/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "66125640e49c1a1ee9ae8dfab536d4c713605eebe5863463c432cf662fba0d6e"
+  "record_sha256": "5427216037f5599b1e375e62e77352fa42fc6bab135602f3fa1d73ab5d0c0a8d"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/08/2024 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2022 modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 31 mars 2010 relatif au m\u00E9canisme de compensation dans le cadre de l\u2019organisation du march\u00E9 de l\u2019\u00E9lectricit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "491835c7f53813185f0ffd9209a11c3ab36111d6fd86b42aa30b238931fa2b0c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/12/23/a674/consolide/20240806/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d992fabca6500609c65aedc91ea7040ee16229e76964f8d45c2d92ae098e3288"
+  "record_sha256": "4cda9c5eec6c1df9341af1f11501cb1cb6345cfe8adfc7e5e14f9eab275fe2ac"
 }

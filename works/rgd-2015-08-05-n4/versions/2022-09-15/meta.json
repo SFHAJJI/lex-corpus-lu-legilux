@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2022 : R\u00E8glement grand-ducal du 5 ao\u00FBt 2015 portant organisation de la formation menant au dipl\u00F4me de fin d\u0027\u00E9tudes secondaires techniques dans le cadre de la formation des adultes d\u0027\u00E9ducateur en alternance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20220915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5548e59c68caa9732d758bb22075ead1bd28716eaeb1fa5484b2bc65f2406d98",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20220915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/08/05/n4/consolide/20220915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "88440a15c8dc0fc327d408e66813e46fc6881e78375e48b6c78ad1be25cdca7b"
+  "record_sha256": "bc94d0ae4438dbe75cdf9de8a5f47b722641ba124711ffec1c4a4b9c858eaf1a"
 }

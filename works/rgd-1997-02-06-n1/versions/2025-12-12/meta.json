@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/12/2025 : R\u00E8glement grand-ducal du 6 f\u00E9vrier 1997 relatif aux substances vis\u00E9es aux tableaux III et IV de la Convention sur les substances psychotropes, faite \u00E0 Vienne, le 21 f\u00E9vrier 1971.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20251212/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1d98b8416f257b8e12e99593baa03177f43b1185334a897883dd81f031df5a6e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20251212/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1997/02/06/n1/consolide/20251212/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0de0fafd5711d5ba62eb74b0f76a622c3ef0ed5f6cbfb770577288252a0c6158"
+  "record_sha256": "cc4c34f728e4878bd5642e599c987b8a7ddfe6eac5c5060e776b1ed446b2f993"
 }

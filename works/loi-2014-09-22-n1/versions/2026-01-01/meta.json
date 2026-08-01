@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : Loi du 22 septembre 2014 relative au Fonds national de soutien \u00E0 la production audiovisuelle et modifiant 1) la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat 2) la loi modifi\u00E9e du 13 d\u00E9cembre 1988 instaurant un r\u00E9gime fiscal temporaire sp\u00E9cial pour les certificats d\u0027investissement audiovisuel.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/09/22/n1/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4c6bf9456441946ff9799a8a2f217683a405523b003f43e18edb0501793a2b40",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/09/22/n1/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/09/22/n1/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2c042678be4875c7a5715792e90030b5d1a58359c2447d35da61d5168a7aeb71"
+  "record_sha256": "faf2964738aa3d92113e0634339e477d8afce1871d38033de0af39b7b0c48021"
 }

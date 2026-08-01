@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/04/2006 : R\u00E8glement grand-ducal du 21 d\u00E9cembre 2001 portant application de la directive 2000/14/CE du Parlement Europ\u00E9en et du Conseil du 8 mai 2000 concernant le rapprochement des l\u00E9gislations des Etats membres relatives aux \u00E9missions sonores dans l\u0027environnement des mat\u00E9riels destin\u00E9s \u00E0 \u00EAtre utilis\u00E9s \u00E0 l\u0027ext\u00E9rieur des b\u00E2timents.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/consolide/20060430/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "55b232d49330f81bf95825aa8df7e01de8e8c2aac02c1c799e95ca700e22997c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/consolide/20060430/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/12/21/n7/consolide/20060430/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3fe8e7eab3235b9af3f0e50d272494e982d0d4b5a6d1b72177f99841e5e1eab3"
+  "record_sha256": "48fb039073bfdeed197b3faedd2032d433c0761e6a11b95e40dbf23a8d14df94"
 }

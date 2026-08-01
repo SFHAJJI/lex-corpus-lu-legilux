@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/02/2022 : R\u00E8glement grand-ducal du 27 octobre 2018 arr\u00EAtant la nomenclature des actes et services des sages-femmes pris en charge par l\u0027assurance maladie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20220201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7147d604bbda0e3aae68bf5fcfbd5aed07cea795f666ddd59c5335a4426401c9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20220201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/10/27/a1008/consolide/20220201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "75a4117a0933f0faf6871eefc7847e55cf17e9cc9036ece73a11667c14926a48"
+  "record_sha256": "a6a624083ddc89e90d57f62fd0317cbfac7024a3ef9dd60078c05f37327ffbc8"
 }

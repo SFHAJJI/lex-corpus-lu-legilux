@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2018 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2012 fixant le r\u00E9gime des cong\u00E9s des fonctionnaires et employ\u00E9s de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6df3205ef86c137e6acc28b4396e017af364109e6a72882353df5da13593bc26",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/02/03/n2/consolide/20181001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d13b0162bafbe036f8a00661547c92398f8ca5f40e909e5d9b3875ca4fef5c50"
+  "record_sha256": "a52b7630b4ba9e3266310596d3c48507761d613c230a02738c0f9a6a7271c9e4"
 }

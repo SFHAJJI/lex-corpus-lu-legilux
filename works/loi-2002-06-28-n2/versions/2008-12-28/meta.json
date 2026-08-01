@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/2008 : Loi du 28 juin 2002 \\n1.adaptant le r\u00E9gime g\u00E9n\u00E9ral et les r\u00E9gimes sp\u00E9ciaux de pension;\\n2.portant cr\u00E9ation d\u2019un forfait d\u2019\u00E9ducation;\\n3.modifiant la loi modifi\u00E9e du 29 avril 1999 portant cr\u00E9ation d\u2019un droit \u00E0 un revenu minimum garanti",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/06/28/n2/consolide/20081228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "28f19760d02f4e614a00b7ba1218bbdb02ee7a3bc93740e36574a0ff68d5ef1b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/06/28/n2/consolide/20081228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/06/28/n2/consolide/20081228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "eff787212102968fb22141fba2e802610eaab3e90f6e47d55990676cd8d92f0f"
+  "record_sha256": "967f4f5683ddd1f225ec61eeb3a148a8e1940325652e7c419b15379b87b2b2e2"
 }

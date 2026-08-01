@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : Avenant de la Convention amend\u00E9e du 13 d\u00E9cembre 1993, conclue entre la Caisse nationale de sant\u00E9 et la F\u00E9d\u00E9ration des patrons opticiens et optom\u00E9tristes du Grand-Duch\u00E9 de Luxembourg (actuellement la Conf\u00E9d\u00E9ration des m\u00E9tiers de la sant\u00E9 a.s.b.l.), conclue en ex\u00E9cution de l\u2019article 61 et suivants du Code de la s\u00E9curit\u00E9 sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2020/11/25/a1029/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c6e05d74c5ddfb9f66021fea0006270f7eec8308a439ba76f10979090ac2724d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/conv/2020/11/25/a1029/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/conv/2020/11/25/a1029/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bfd2cf70c3272251e71e2ac976be974b00ca4a56bc95cee5b07734e4cdbfd762"
+  "record_sha256": "4e7a7d99e288b8562e46491d8292010f3fc38d5a2f23a94897418bb6789c74f7"
 }

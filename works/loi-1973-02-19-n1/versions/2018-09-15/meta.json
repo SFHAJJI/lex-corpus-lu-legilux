@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2018 : Loi du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/consolide/20180915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "29d6aef354b6050b52c2dbb8bdccac108e2e2c6930b55b55390df476ae78fb61",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/consolide/20180915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1973/02/19/n1/consolide/20180915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "46a8d661c0f5d1a5548ea6a444cc072db922a968ca76282d5ae58b8d7e8a874f"
+  "record_sha256": "733fae6f7b0cbf277401593add911e38448c59b683121c84ff0dc6ab190efd84"
 }

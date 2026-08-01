@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 18 d\u00E9cembre 1873 sur les collectes \u00E0 domicile.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1873/12/18/n3/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1235578b323f0a232e9123293ee001d2c491586fccc08bdd1ce13a326c9b7ebe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1873/12/18/n3/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1873/12/18/n3/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3f40a46de3723357c8497f87f72b6f7a9756e86a7ab774e4c58302b8e17a64a4"
+  "record_sha256": "2c1b77cdb36029ffe00106667a5ffa6a7304436e2a036003feb1f68239264932"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2018 : Loi du 9 d\u00E9cembre 2005 d\u00E9terminant les conditions et modalit\u00E9s de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/12/09/n1/consolide/20180901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d279e48af39bd72697909e0f9e66925a6a5531384cff59e3b961e2e3f79810e3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2005/12/09/n1/consolide/20180901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2005/12/09/n1/consolide/20180901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "71b17131b32a80f27652f901fadfd12e46ba719c2cce81875a4a37b0480045e8"
+  "record_sha256": "1efafd9dd51d2bf53ecc734a83771006f0931b07c86dbe52cc96077b40fafc81"
 }

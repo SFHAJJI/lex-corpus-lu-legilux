@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/1988 : Loi du 27 mai 1977 portant\\n a) approbation de la Convention sur la d\u00E9livrance de brevets europ\u00E9ens, sign\u00E9e \u00E0 Munich, le 5 octobre 1973;\\n b) adaptation de la l\u00E9gislation nationale en mati\u00E8re de brevets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19881001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9c4c6ba0bee637c0b70d630a910f7fce8087192ed8d9cbd57132bb027e6988e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19881001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/05/27/n2/consolide/19881001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1fa23af01edcf64653281de0278a583b0ee1714e8f48190c7c2ca9fec693deb2"
+  "record_sha256": "33afa038194cf85ade741a4306629b538892d7385ecb6f5cbbcc13c4b2e3055e"
 }

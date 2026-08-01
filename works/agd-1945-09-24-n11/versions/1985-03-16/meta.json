@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/03/1985 : Arr\u00EAt\u00E9 grand-ducal du 24 septembre 1945 concernant la d\u00E9claration de pr\u00E9somption de d\u00E9c\u00E8s et la d\u00E9claration judiciaire du d\u00E9c\u00E8s des personnes victimes des op\u00E9rations ou des \u00E9v\u00E9nements de guerre et des personnes d\u00E9c\u00E9d\u00E9es par suite d\u0027un acte de violence de la part de l\u0027ennemi.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1945/09/24/n11/consolide/19850316/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "24a26d2c8a419acc3a1c5df20973ba5e1cfbdee335e355e4f8fce069c15744ef",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1945/09/24/n11/consolide/19850316/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1945/09/24/n11/consolide/19850316/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "00910475e7522fa3bbb2a703fd2018908e7c04895f32bcce832657afec146609"
+  "record_sha256": "8d2db35af0ee568e2994bd6803bb0b67788155c755c87d5290eabaa9d5a5e573"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 13/04/2025 : Arr\u00EAt\u00E9 du Gouvernement en Conseil du 4 avril 2025 portant institution d\u2019un comit\u00E9 interminist\u00E9riel de coordination en mati\u00E8re de cyberpr\u00E9vention et de cybers\u00E9curit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "837769bb487c2ed3e393e28f390fa9fd849d5dd650f1045b9772a1deddd1665f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agc/2025/04/04/a132/consolide/20250413/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0faa80dd8eda65965e710556f5302d05c10ac2398294631bf4613e1d0747ff86"
+  "record_sha256": "4cd82b316960b14b9829610563e186dc1e99f0e58a3c3074cd3ae35ac101a59e"
 }

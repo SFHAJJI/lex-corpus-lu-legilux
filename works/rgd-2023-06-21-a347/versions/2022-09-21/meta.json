@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/09/2022 : R\u00E8glement grand-ducal du 21 juin 2023 fixant les jetons de pr\u00E9sence des membres de la commission de classement de l\u2019enseignement musical dans le secteur communal.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/consolide/20220921/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "68bf9a7f5411ea1a0ee232ca6c4af2e84695655e27acbce07dc879bae66cb758",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/consolide/20220921/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/06/21/a347/consolide/20220921/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c130525cb819f139a5d40725f0084c10e39359fce3c226e911aed4ab5188a5d2"
+  "record_sha256": "e6999620156dffe891ecc815f346b22a4c15ed83423a3ef06c438eb897e0123d"
 }

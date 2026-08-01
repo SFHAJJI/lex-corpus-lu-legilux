@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/06/2009 : Loi du 17 juin 1992 relative: \\n- aux comptes annuels et comptes consolid\u00E9s des \u00E9tablissements de cr\u00E9dit de droit luxembourgeois; \\n- aux obligations en mati\u00E8re de publicit\u00E9 des documents comptables des succursales d\u2019\u00E9tablissements de cr\u00E9dit et d\u2019\u00E9tablissements financiers de droit \u00E9tranger.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/20090616/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "782e2af646a22cdfeb2d0949519645a42bf67551b6f06a1200e71429ee7e6ed4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/20090616/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/06/17/n1/consolide/20090616/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "bf13f1d2144facddbbb421a1f51ab0a74ed60ed02383ab91537477771a86d816"
+  "record_sha256": "00b99612b182f1d94d99e2a616434700e05f61537117b93acaf50f8adf01a91c"
 }

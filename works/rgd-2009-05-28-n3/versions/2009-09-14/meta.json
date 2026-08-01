@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 14/09/2009 : R\u00E8glement grand-ducal du 28 mai 2009 concernant les modalit\u00E9s d\u0027\u00E9lection des membres du personnel enseignant \u00E0 la commission scolaire nationale, le fonctionnement de celle-ci ainsi que les d\u00E9charges et indemnit\u00E9s de ses membres.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20090914/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ee6df7dc3f6b6f1a50527b8af43efe5e1d23f88773f2502e0d24b78b96d05242",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20090914/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/05/28/n3/consolide/20090914/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b0dae82b017ccdecb4f6d261ecb1110c5142b90c5e27e89a30beff0d77e9939f"
+  "record_sha256": "89dc1a06d7c8ed5f01e9f69f1dba458106ac3d366c0308ebf35d9686d90bfaf4"
 }

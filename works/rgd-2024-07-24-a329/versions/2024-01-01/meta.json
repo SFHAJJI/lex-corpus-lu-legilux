@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 24 juillet 2024 relatif aux aides en faveur de la sauvegarde de la biodiversit\u00E9 en milieu rural.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/24/a329/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b237c203871be19686c2eb0897340897a04fe0a6b6482d1856a7a129f2b6cc20",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/24/a329/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/07/24/a329/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4139b047c98cd49ebec546f045b8c776fe79e00bd31c239dd5e95a5ca6bb829a"
+  "record_sha256": "44b9b1238ae3f5dd063d3e52bfcc40c2de5f697ff6e25479a581fe63f7db0dfa"
 }

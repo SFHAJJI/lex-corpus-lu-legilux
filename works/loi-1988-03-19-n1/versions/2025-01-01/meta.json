@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : Loi du 19 mars 1988 concernant la s\u00E9curit\u00E9 dans les administrations et services de l\u0027Etat, dans les \u00E9tablissements publics et dans les \u00E9coles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b8edd667e570da46866c4ad631ac5ce003e23de8862e9068990a873fe2f5f597",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1988/03/19/n1/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "84f2a5a570f9e67ec9746fc8452bc6ab5adb5d75ee53aab4ef2a3d6e69f947c4"
+  "record_sha256": "61e3f3a87b4612f9c11e863bdf4ad2025dbfa2f6355b35ba8769d5d5d25e862d"
 }

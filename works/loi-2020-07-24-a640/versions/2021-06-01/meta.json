@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2021 : Loi du 24 juillet 2020 visant \u00E0 stimuler les investissements des entreprises dans l\u2019\u00E8re du Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a640/consolide/20210601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "12b646ab3ef5154883f97995dc6cf5fbea87055c966153a1c7fde7a0b3b98412",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a640/consolide/20210601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/24/a640/consolide/20210601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "917456ed8625893c1d8cf24467dc64067d1cd06fc592d8009a161957c72c3b7e"
+  "record_sha256": "46514d0876f667b408aba5487dccaa521e7f5ef900564a01326bf445f9ace60d"
 }

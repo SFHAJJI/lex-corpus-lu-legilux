@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2025 : R\u00E8glement de la Chambre des D\u00E9put\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20250915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3d6ae99b8adf379ca45098032ba213dd204b69062fd0db7373dba53ef86ea6d9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20250915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20250915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c3a209910f78f55211d1a0d405a57b5e307150f3e8a28defafe425f086b6a4d4"
+  "record_sha256": "e53225283af016a9c0a95531f29c2410428fad782b40031e715a53823bf43a20"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2020 : R\u00E8glement grand-ducal du 21 d\u00E9cembre 2018 arr\u00EAtant le programme de construction d\u2019ensembles de logements subventionn\u00E9s ainsi que les participations de l\u2019\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a6/consolide/20200401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a6fc015260878c1d8d2cea1f960b72a3d387393f94dfe1e9da3226ca76e4a915",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a6/consolide/20200401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/12/21/a6/consolide/20200401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9992e6ff0e882cecdc7d25040001697f972885af9a7ebf96fcdeaa971a9fdc27"
+  "record_sha256": "572543cf4d82150fa1a9c75e6b7046159c3d20d37687fc787637edf21cd47e03"
 }

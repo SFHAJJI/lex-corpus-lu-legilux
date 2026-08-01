@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/05/2020 : R\u00E8glement grand-ducal du 17 avril 1998 d\u00E9terminant les informations que doivent contenir les demandes d\u2019autorisation de projets de diss\u00E9mination volontaire d\u2019OGM et de projets de mise sur le march\u00E9 d\u2019OGM.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/consolide/20200501/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1fc3e8c0817ecdf5c00f1bb0eca171a07dc225f42653a88a3e9b6e65c07f2da7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/consolide/20200501/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/04/17/n1/consolide/20200501/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5fd05d83bccae171d9d5309cf22849aa9fc928cc4e8c35efb8dfdc61cff39937"
+  "record_sha256": "3d038d7afee6b834cf913818d7ac043da3e95017d9c38b9370c74cf32f97cd9d"
 }

@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-12-14" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MS"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MSS"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-12-14" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-12-14" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo</scl:jolux><scl:jolux scl:name="dateApplicability">2026-09-01</scl:jolux><scl:jolux scl:name="dateDocument">2016-12-14</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MS</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MSS</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3505</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/906</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/163</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/679</scl:jolux><scl:jolux scl:name="urgentEvent">0</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1527</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr</scl:jolux><scl:jolux scl:name="dateEntryInForce">2017-01-01</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a260</scl:jolux><scl:jolux scl:name="historicalLegalId">2016A4637A</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RGD</scl:jolux><scl:jolux scl:name="publicationDate">2016-12-19</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/docx</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/1992/03/26/n1/jo</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/1998/08/28/n1/jo</scl:jolux>
+<scl:jolux scl:name="repeals">/eli/etat/leg/rgd/1998/12/21/n7/jo</scl:jolux>
+<scl:jolux scl:name="repeals">/eli/etat/leg/rgd/1999/07/23/n1/jo</scl:jolux>
+<scl:jolux scl:name="repeals">/eli/etat/leg/rgd/2004/03/04/n1/jo</scl:jolux>
+<scl:jolux scl:name="repeals">/eli/etat/leg/rgd/2011/03/12/n4/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/1925/12/17/n1/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-260-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rights">Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a260/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rgd-2016-12-14-n6-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-260-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="rights">Copyright : Ministère d'État du Grand-Duché de Luxembourg - Service central de législation</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a260/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2016/a260/fr/pdf/eli-etat-leg-memorial-2016-a260-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2017-01-01" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2026-09-01" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/rgd/2026/06/30/a319/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm2" incomplete="false" type="insertion">
+<source href="/eli/etat/leg/rgd/2026/06/30/a319/jo"/>
+<destination/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/rgd/2016/12/14/n6/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/rgd/2026/06/30/a319/jo" id="rp2" showAs="Règlement grand-ducal du 30 juin 2026 modifiant le règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="A|2026-07-07|2026-06-30|RGD|319">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/06/30/a319/jo">Règlement grand-ducal du 30 juin 2026 modifiant le règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp2">
+<note id="M2" marker="2" refersTo="pm2" title="A|2026-07-07|2026-06-30|RGD|319">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2026/06/30/a319/jo">Règlement grand-ducal du 30 juin 2026 modifiant le règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version consolidée applicable au 01/09/2026 : Règlement grand-ducal du 14 décembre 2016 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes pris en charge par l’assurance maladie.</p>
+</longTitle>
+</preface>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_1er/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<heading>
+<b>Prise en charge de l’acte</b>
+</heading>
+<alinea>
+<content>
+<p>Les actes et services des masseurs-kinésithérapeutes ne peuvent être pris en charge par une des institutions de sécurité sociale visées par le <ref href="/eli/etat/leg/code/securite_sociale" id="d5f3010d-73c8-4de6-a054-a1d88f92f0c0">Code de la sécurité sociale</ref> que si cet acte est inscrit au tableau annexé au présent règlement et qui en fait partie intégrante.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les masseurs-kinésithérapeutes exécutent les actes pris en charge en accord avec le règlement fixant les attributions de leur profession sur la base de la <ref href="/eli/etat/leg/loi/1992/03/26/n1/jo" id="6b342d24-9b1c-4969-9a3c-3b1354c44678">loi modifiée du 26 mars 1992</ref> sur l’exercice et la revalorisation de certaines professions de santé.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Ne peuvent être pris en charge que les actes accomplis effectivement et personnellement par le prestataire sur base d’une ordonnance médicale valide.</p>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_2/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<heading>
+<b>Tarif d’un acte</b>
+</heading>
+<alinea>
+<content>
+<p>Le tarif d’un acte est obtenu en multipliant son coefficient par la valeur de la lettre-clé négociée par les parties signataires de la convention prévue à l’article 61 du <ref href="/eli/etat/leg/code/securite_sociale" id="27f1a2ab-6acd-4d90-8433-c7cd7db68402">Code de la sécurité sociale</ref>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le tarif d’un acte est compté en euros à deux décimales près. Les fractions de cents sont arrondies vers le haut si elles sont supérieures ou égales à cinq millièmes d’euros. Les fractions de cents sont arrondies vers le bas si elles sont strictement inférieures à cinq millièmes d’euros.</p>
+</content>
+</alinea>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_3/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<heading>
+<b>Cumul des actes</b>
+</heading>
+<alinea>
+<content>
+<p>Pour chaque séance de kinésithérapie, il ne peut être mis en compte qu’un seul acte de la nomenclature, à l’exclusion du forfait de déplacement.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>En cas de traitement de plusieurs affections différentes et indépendantes l’une de l’autre, les traitements pourront se faire de façon alternante ou successive avec mise en compte d’une seule séance par jour, à l’exception de la rééducation respiratoire qui peut être cumulée avec une deuxième séance le même jour.</p>
+</content>
+</alinea>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_4/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<heading>
+<b>Frais de location d’appareil et d’installation</b>
+</heading>
+<alinea>
+<content>
+<p>Le tarif des actes comprend les frais d’appareil, de matériel et d’installation du prestataire.</p>
+</content>
+</alinea>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_5/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5.</num>
+<heading>
+<b>Bilan</b>
+</heading>
+<alinea>
+<content>
+<p>Le bilan constitue un acte isolé prescrit en dehors d’un traitement de kinésithérapie. Le bilan comporte obligatoirement:</p>
+<ul scl:symbol="custom">
+<li scl:symbol="–">l’évaluation initiale des déficiences par rapport aux aspects suivants: ostéo-articulaire, musculaire, neurologique, vasculaire, cutané, respiratoire et psycho-moteur</li>
+<li scl:symbol="–">l’évaluation initiale des incapacités et des aptitudes gestuelles, réalisation des gestes de la vie courante et de la vie professionnelle</li>
+<li scl:symbol="–">la fixation des objectifs à atteindre</li>
+<li scl:symbol="–">l’élaboration du plan de traitement</li>
+<li scl:symbol="–">le choix des techniques et des actes figurant dans la nomenclature.</li>
+</ul>
+</content>
+</alinea>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_6/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6.</num>
+<heading>
+<b>Frais de déplacement</b>
+</heading>
+<alinea>
+<content>
+<p>Pour chaque traitement à domicile, un forfait de déplacement peut être mis en compte. En cas de traitement de plusieurs affections différentes et indépendantes l’une de l’autre, un seul forfait de déplacement peut être mis en compte, lorsque les traitements sont appliqués successivement lors d’un même passage.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Si lors du même déplacement, le masseur-kinésithérapeute traite plusieurs personnes de la même communauté domestique ou du même établissement, le forfait de déplacement ne peut être mis en compte que pour la personne la première traitée.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le forfait de déplacement ne peut être mis en compte par le prestataire pour les traitements délivrés dans les établissements d’aides et de soins à séjour continu (article 390, alinéa 1 du <ref href="/eli/etat/leg/code/securite_sociale" id="7f2431bf-2fa7-4a8b-bf24-eb4f0ee0ba7c">Code de la sécurité sociale</ref>), dans les établissements d’aides et de soins à séjour intermittent (art. 391, al. 1 du <ref href="/eli/etat/leg/code/securite_sociale" id="22d39fce-fabc-436a-a6f1-ba58d1336a78">CSS</ref>) et dans les centres semi-stationnaires (article 389, alinéa 2 du <ref href="/eli/etat/leg/code/securite_sociale" id="28f2ba74-fce1-4821-89ec-ba26125cce6e">Code de la sécurité sociale</ref>).</p>
+</content>
+</alinea>
+</article>
+<article id="art_7">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_7</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_7/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 7.</num>
+<heading>
+<b>Limitation de la prise en charge</b>
+</heading>
+<alinea>
+<content>
+<p>Aucun acte de la nomenclature ne peut être mis en compte pour un patient traité dans un établissement hospitalier au sens de la <ref href="/eli/etat/leg/loi/1998/08/28/n1/jo" id="b922a0ac-c479-431f-bd7a-fe74cd368349">loi modifiée du 28 août 1998</ref> sur les établissements hospitaliers.</p>
+</content>
+</alinea>
+</article>
+<article id="art_8">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_8</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_8/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 8.</num>
+<heading>
+<b>Majoration des actes</b>
+</heading>
+<alinea>
+<content>
+<p>Le tarif des actes de rééducation respiratoire dont l’accomplissement est prescrit, pour des raisons médicales, le samedi, le dimanche ou un jour férié légal est majoré de 25%. Sur le mémoire d’honoraires le code de l’acte est complété par «T» si l’acte est presté le samedi, par «D» si l’acte est presté un dimanche, par «F» si l’acte est presté un jour férié légal.</p>
+</content>
+</alinea>
+</article>
+<article id="art_9">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_9</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_9/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2017-01-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 9.</num>
+<heading>
+<b>Abrogation du règlement grand-ducal modifié du 21 décembre 1998 arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes et masseurs pris en charge par l’assurance maladie</b>
+</heading>
+<alinea>
+<content>
+<p>Le <ref href="/eli/etat/leg/rgd/1998/12/21/n7">règlement grand-ducal modifié du 21 décembre 1998</ref> arrêtant la nomenclature des actes et services des masseurs-kinésithérapeutes et masseurs pris en charge par l’assurance maladie est abrogé avec effet au 31 décembre 2016.</p>
+</content>
+</alinea>
+</article>
+<article id="art_10">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_10</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6/art_10/20170101</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/12/14/n6</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2026-09-01</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 10.</num>
+<heading>
+<b>Formule exécutoire</b>
+</heading>
+<alinea>
+<content>
+<p>Notre Ministre de la Sécurité sociale et Notre Ministre de la Santé sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Mémorial et qui entre en vigueur le 1<sup>er</sup> janvier 2017.</p>
+</content>
+</alinea>
+</article>
+</body>
+<attachments>
+<attachment id="attachment_1">
+<doc name="">
+<meta>
+<identification source="">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2026-07-10" name=""/>
+<FRBRauthor href=""/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2026-07-10" name=""/>
+<FRBRauthor href=""/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2026-07-10" name=""/>
+<FRBRauthor href=""/>
+</FRBRManifestation>
+</identification>
+</meta>
+<preface>
+<longTitle>
+<p scl:align="center">
+<b>ANNEXE</b>
+</p>
+</longTitle>
+</preface>
+<mainBody>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Tableau des actes et services tel que prévu à l’article 1<sup>er</sup> du présent règlement grand-ducal</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:align="center">
+<b>NOMENCLATURE DES ACTES ET SERVICES DES MASSEURS-KINESITHERAPEUTES</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-before="10">
+<b>
+<u>PREMIERE PARTIE: ACTES TECHNIQUES</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_1" scl:cols="5 79 8 8" scl:cols-align="left left center center" width="100">
+<tr>
+<td/>
+<td/>
+<td>
+<p scl:space-tab="3">Code</p>
+</td>
+<td>
+<p scl:space-tab="5">Coeff.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1)</p>
+</td>
+<td>
+<p>Rééducation orthopédique simple</p>
+</td>
+<td>
+<p>ZK10</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<b>Remarque:</b>
+</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p>Rééducation d’une seule articulation parmi les articulations suivantes:</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<ul scl:space-item="2" scl:symbol="custom">
+<li scl:symbol="–">Épaule </li>
+<li scl:symbol="–">Coude </li>
+<li scl:symbol="–">Poignet </li>
+<li scl:symbol="–">Articulations métacarpiennes et/ou phalangiennes de la main </li>
+<li scl:symbol="–">Hanche </li>
+<li scl:symbol="–">Genou </li>
+<li scl:symbol="–">Cheville </li>
+<li scl:symbol="–">Articulations métacarpiennes et/ou phalangiennes du pied </li>
+<li scl:symbol="–">Articulations sacro-iliaques </li>
+<li scl:symbol="–">Articulations temporo-mandibulaires </li>
+<li scl:symbol="–">Articulations sterno-costales et/ou claviculo-sternales</li>
+</ul>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2)</p>
+</td>
+<td>
+<p>Rééducation orthopédique complexe</p>
+</td>
+<td>
+<p>ZK11</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<b>Remarque:</b>
+</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<p>Rééducation du tronc ou de plusieurs articulations mentionnées sous 1)</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>3)</p>
+</td>
+<td>
+<p>Rééducation respiratoire</p>
+</td>
+<td>
+<p>ZK12</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4)</p>
+</td>
+<td>
+<p>Rééducation du plancher pelvien</p>
+</td>
+<td>
+<p>ZK13</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5)</p>
+</td>
+<td>
+<p>Rééducation concernant une pathologie d’origine neurologique affectant un seul membre</p>
+</td>
+<td>
+<p>ZK14</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6)</p>
+</td>
+<td>
+<p>Rééducation concernant une pathologie d’origine neurologique affectant plusieurs membres et/ou le tronc</p>
+</td>
+<td>
+<p>ZK15</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7)</p>
+</td>
+<td>
+<p>Drainage lymphatique manuel d’un membre</p>
+</td>
+<td>
+<p>ZK16</p>
+</td>
+<td>
+<p>1,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8)</p>
+</td>
+<td>
+<p>Drainage lymphatique manuel de plusieurs membres</p>
+</td>
+<td>
+<p>ZK17</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<mod class="mod-start" for="#pm1"/>9)</p>
+</td>
+<td>
+<p>Rééducation périnéale complexe</p>
+</td>
+<td>
+<p>ZK18</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10)</p>
+</td>
+<td>
+<p>Rééducation périnéale complexe du post-partum, maximum 8 séances par accouchement</p>
+</td>
+<td>
+<p>ZK19</p>
+</td>
+<td>
+<p>1,20<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td>
+<p>
+<b>
+<mod class="mod-start" for="#pm2"/>REMARQUES :</b>
+</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td/>
+<td>
+<ol scl:space-item="5" scl:start="1" scl:symbol="1)">
+<li>Les codes ZK18 et ZK19 intègrent une approche globale et fonctionnelle, prenant en compte le complexe périnée-transverse-diaphragme-multifide, la régulation du système de pressurisation abdomino-pelvien, la coordination respiratoire, le contrôle postural, la proprioception et, le cas échéant, la gestion des douleurs ou dysfonctions associées.</li>
+<li>Le code ZK19 ne peut être mis en compte que dans un délai de douze (12) mois à compter de la date d’accouchement.<mod class="mod-end" for="#pm2"/>
+<noteRef href="#M2" marker="2"/>
+</li>
+</ol>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>9)
+</p>
+</td>
+<td>
+<p>Bilan</p>
+</td>
+<td>
+<p>ZB10</p>
+</td>
+<td>
+<p>1,20</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+<alinea>
+<content>
+<p scl:space-before="10">
+<b>
+<u>DEUXIEME PARTIE: FRAIS DE DEPLACEMENT</u>
+</b>
+</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_2" scl:cols="5 79 8 8" scl:cols-align="left left center center" width="100">
+<tr>
+<td/>
+<td/>
+<td>
+<p>Code</p>
+</td>
+<td>
+<p>Coeff.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1)</p>
+</td>
+<td>
+<p>Frais de déplacement</p>
+</td>
+<td>
+<p>ZD10</p>
+</td>
+<td>
+<p>0,30</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+</mainBody>
+</doc>
+</attachment>
+</attachments>
+</act>
+</akomaNtoso>

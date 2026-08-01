@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/12/2012 : Loi du 13 mai 2008 portant cr\u00E9ation d\u0027une Ecole pr\u00E9scolaire et primaire de recherche fond\u00E9e sur la p\u00E9dagogie inclusive.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n2/consolide/20130104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3683a74a5e76851708dfae2ba0dcde579c35bc2f9cc0e8b2784471cb86d98ce4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n2/consolide/20130104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n2/consolide/20130104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c224098a4df59b8e32b7e7a8be0dded7a1cf0b1c0240ce3dbb53471155321748"
+  "record_sha256": "5ed6853642002f36bc091437c2336966734e7c541038f71e3add53804fc0179b"
 }

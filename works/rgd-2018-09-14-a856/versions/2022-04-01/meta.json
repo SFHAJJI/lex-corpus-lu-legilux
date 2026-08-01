@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2022 : R\u00E8glement grand-ducal du 14 septembre 2018 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive ainsi que de l\u2019examen de promotion des fonctionnaires aupr\u00E8s de l\u2019Administration de la gestion de l\u2019eau.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/09/14/a856/consolide/20220401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cce009ba24b049f94be1db3b18262c95ee35ee233771888eb428543f73e5a4b8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/09/14/a856/consolide/20220401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/09/14/a856/consolide/20220401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b096a675911ad9508f159752a9efc7fc297060e7fb7c2161ee4861b326744afc"
+  "record_sha256": "b2987e59c48808f79bc703d63f0697994bb0b751741e6133669cd80b14a28bd6"
 }

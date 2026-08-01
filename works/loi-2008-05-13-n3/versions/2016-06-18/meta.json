@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 18/06/2016 : Loi du 13 mai 2008 portant\\n1. transposition de la directive 76/207/CEE du Conseil relative \u00E0 la mise en oeuvre du principe de l\u2019\u00E9galit\u00E9 de traitement entre hommes et femmes en ce qui concerne l\u2019acc\u00E8s \u00E0 l\u2019emploi, \u00E0 la formation et \u00E0 la promotion professionnelles, et les conditions de travail telle que modifi\u00E9e par la directive 2002/73/CE du Parlement Europ\u00E9en et du Conseil du 23 septembre 2002;\\n2. modification du Code du travail;\\n3. modification de l\u2019alin\u00E9a 1 de l\u2019article 2 de la loi du 14 mars 1988 relative au cong\u00E9 d\u2019accueil;\\n4. modification de la loi modifi\u00E9e du 16 avril 1979 fixant le statut g\u00E9n\u00E9ral des fonctionnaires de l\u2019Etat;\\n5. modification de la loi modifi\u00E9e du 24 d\u00E9cembre 1985 fixant le statut g\u00E9n\u00E9ral des fonctionnaires communaux;\\n6. modification de la loi du 28 novembre 2006 portant\\n1. transposition de la directive 2000/43/CE du Conseil du 29 juin 2000 relative \u00E0 la mise en oeuvre du principe de l\u2019\u00E9galit\u00E9 de traitement entre les personnes sans distinction de race ou d\u2019origine ethnique;\\n2. transposition de la directive 2000/78/CE du Conseil du 27 novembre 2000 portant cr\u00E9ation d\u2019un cadre g\u00E9n\u00E9ral en faveur de l\u2019\u00E9galit\u00E9 de traitement en mati\u00E8re d\u2019emploi et de travail;\\n3. modification du Code du travail et portant introduction dans le Livre II d\u2019un nouveau titre V relatif \u00E0 l\u2019\u00E9galit\u00E9 de traitement en mati\u00E8re d\u2019emploi et de travail;\\n4. modification des articles 454 et 455 du Code p\u00E9nal;\\n5. modification de la loi du 12 septembre 2003 relative aux personnes handicap\u00E9es.",
       "title_short": "Loi du 13 mai 2008 relative \u00E0 l\u0027\u00E9galit\u00E9 de traitement entre hommes et femmes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n3/consolide/20160618/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "50220b1e06e820423a2466aba0e1a9760254010c581f2d24ba94f59f1a06a3ca",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n3/consolide/20160618/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/13/n3/consolide/20160618/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8ed729f21ccc13d0a56742212238a6e5f2f0760d200205550581df449d5edba4"
+  "record_sha256": "197a48ed64b8301d017a3d42ef29bcee65cc63b257d161b2a2356baf383e4392"
 }

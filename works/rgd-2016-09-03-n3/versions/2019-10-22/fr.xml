@@ -1,0 +1,6419 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-09-03" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MAV"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-09-03" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2016-09-03" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo</scl:jolux><scl:jolux scl:name="dateEndApplicability">2020-07-05</scl:jolux><scl:jolux scl:name="dateApplicability">2019-10-22</scl:jolux><scl:jolux scl:name="dateDocument">2016-09-03</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MAV</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/180</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/893</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr</scl:jolux><scl:jolux scl:name="dateEntryInForce">2016-09-13</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a190</scl:jolux><scl:jolux scl:name="historicalLegalId">2016A3150A</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RGD</scl:jolux><scl:jolux scl:name="publicationDate">2016-09-09</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf><scl:rdf scl:name="type">http://www.w3.org/2004/02/skos/core#Concept</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/rgd/2004/07/05/n1/jo</scl:jolux>
+<scl:jolux scl:name="repeals">/eli/etat/leg/rgd/2015/11/26/n1/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version consolidée applicable au 22/10/2019 : Règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/2008/03/18/n1/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-190-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a190/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rgd-2016-09-03-n3-jo-fr-xml.xml</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="previousIsExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2016-190-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2016/a190/fr/pdf</scl:jolux>
+<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/filestore/eli/etat/leg/memorial/2016/a190/fr/pdf/eli-etat-leg-memorial-2016-a190-fr-pdf.pdf</scl:jolux>
+<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2016-09-03" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2017-09-25" id="e7" originatingExpression="true" source="#rp7" type="amendment"/>
+<eventRef date="2019-01-19" id="e6" originatingExpression="true" source="#rp6" type="amendment"/>
+<eventRef date="2019-10-22" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+<eventRef date="2020-07-06" id="e4" originatingExpression="false" source="#rp4" type="amendment"/>
+<eventRef date="2021-09-26" id="e3" originatingExpression="false" source="#rp3" type="amendment"/>
+<eventRef date="2022-10-28" id="e2" originatingExpression="false" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2017/09/03/a815/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm2" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2017/09/03/a815/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm3" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2019/01/09/a12/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm4" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2019/01/09/a12/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm5" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2019/10/09/a697/jo"/>
+<destination/>
+</textualMod>
+<textualMod id="pm6" incomplete="false" type="replacement">
+<source href="/eli/etat/leg/rgd/2019/10/09/a697/jo"/>
+<destination/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/leg/rgd/2016/09/03/n3/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/leg/rgd/2022/09/22/a530/jo" id="rp2" showAs="Règlement grand-ducal du 22 septembre 2022 modifiant le règlement grand-ducal modifié du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles."/>
+<passiveRef href="/eli/etat/leg/rgd/2021/09/10/a687/jo" id="rp3" showAs="Règlement grand-ducal du 10 septembre 2021 modifiant le règlement grand-ducal modifié du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles. "/>
+<passiveRef href="/eli/etat/leg/rgd/2020/06/29/a565/jo" id="rp4" showAs="Règlement grand-ducal du 29 juin 2020 modifiant le règlement grand-ducal modifié du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles."/>
+<passiveRef href="/eli/etat/leg/rgd/2019/10/09/a697/jo" id="rp5" showAs="Règlement grand-ducal du 9 octobre 2019 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles."/>
+<passiveRef href="/eli/etat/leg/rgd/2019/01/09/a12/jo" id="rp6" showAs="Règlement grand-ducal du 9 janvier 2019 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles."/>
+<passiveRef href="/eli/etat/leg/rgd/2017/09/03/a815/jo" id="rp7" showAs="Règlement grand-ducal du 3 septembre 2017 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles."/>
+</references>
+<notes scl:type="modification" source="#rp7">
+<note id="M1" marker="1" refersTo="pm1" title="A|2017-09-21|2017-09-03|RGD|815">
+<content>
+<p> <ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/09/03/a815/jo">Règlement grand-ducal du 3 septembre 2017 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp7">
+<note id="M2" marker="2" refersTo="pm2" title="A|2017-09-21|2017-09-03|RGD|815">
+<content>
+<p> <ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2017/09/03/a815/jo">Règlement grand-ducal du 3 septembre 2017 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp6">
+<note id="M3" marker="3" refersTo="pm3" title="A|2019-01-15|2019-01-09|RGD|12">
+<content>
+<p> <ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2019/01/09/a12/jo">Règlement grand-ducal du 9 janvier 2019 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:page-footer="true" scl:type="modification" source="#rp6">
+<note id="M4" marker="4" refersTo="pm4" title="A|2019-01-15|2019-01-09|RGD|12">
+<content>
+<p> <ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2019/01/09/a12/jo">Règlement grand-ducal du 9 janvier 2019 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</ref> </p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp5">
+<note id="M5" marker="5" refersTo="pm5" title="A|2019-10-18|2019-10-09|RGD|697">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2019/10/09/a697/jo">Règlement grand-ducal du 9 octobre 2019 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</ref>
+</p>
+</content>
+</note>
+</notes>
+<notes scl:type="modification" source="#rp5">
+<note id="M6" marker="6" refersTo="pm6" title="A|2019-10-18|2019-10-09|RGD|697">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2019/10/09/a697/jo">Règlement grand-ducal du 9 octobre 2019 modifiant le règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version consolidée applicable au 22/10/2019 : Règlement grand-ducal du 3 septembre 2016 fixant la liste nationale des variétés des espèces de plantes agricoles.
+</p>
+</longTitle>
+</preface>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_1er/20160913</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-09-13</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<alinea>
+<content>
+<p>Les variétés des espèces de plantes agricoles inscrites à la liste nationale et admises à la certification des semences ou plants sont celles reprises à l'annexe I du présent règlement.</p>
+<p>Le responsable de la sélection conservatrice est indiqué à l'annexe I, en regard de la dénomination variétale, par un numéro d'ordre; les nom et adresse figurant à l'annexe II.</p>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_2/20160913</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-09-13</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<alinea>
+<content>
+<p>En dehors des variétés visées à l'annexe I, peuvent également être certifiées: </p>
+<ol scl:symbol="a)">
+<li>les semences ou plants des variétés cultivées exclusivement à des fins d'expérimentation; </li>
+<li>les semences des variétés appartenant aux espèces relevées à l'annexe III du présent règlement.</li>
+</ol>
+<p>Dans ce dernier cas, les conditions suivantes doivent toutefois être remplies:</p>
+<ol scl:symbol="(1)">
+<li>La variété doit être inscrite au catalogue commun visé au chapitre B du <ref href="/eli/etat/leg/rgd/2004/07/05/n1">règlement grand-ducal modifié du 5 juillet 2004</ref> concernant le catalogue des variétés des espèces de plantes agricoles et de légumes.</li>
+<li>Les semences doivent être produites:<ul scl:symbol="custom">
+<li scl:symbol="–">soit, sous contrat de multiplication conclu entre un établissement de semences ou un obtenteur, d'une part, et un agriculteur-multiplicateur de semences, d'autre part,</li>
+<li scl:symbol="–">soit directement par un établissement de semences ou un obtenteur.</li>
+</ul> </li>
+<li>L'établissement de semences ou l'obtenteur doit faire une déclaration de multiplication et déposer une description de la variété à l'Administration des services techniques de l'agriculture, service de la production végétale, avant le 1<sup>er</sup> mars de l'année au cours de laquelle la certification des semences est prévue.</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_3/20160913</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-09-13</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<alinea>
+<content>
+<p>Les infractions aux dispositions du présent règlement sont punies conformément aux dispositions de l'article 16 de la <ref href="/eli/etat/leg/loi/2008/03/18/n1/jo" id="77624f6a-b0a4-4143-9b60-9748e8aba63d" scl:verify="true">loi du 18 mars 2008</ref> portant réglementation du commerce des semences et plants.</p>
+</content>
+</alinea>
+</article>
+<article id="art_4">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_4</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_4/20160913</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-09-13</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 4.</num>
+<alinea>
+<content>
+<p>Les annexes font partie intégrante du présent règlement.</p>
+</content>
+</alinea>
+</article>
+<article id="art_5">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_5</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_5/20160913</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2016-09-13</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 5.</num>
+<alinea>
+<content>
+<p>Le <ref href="/eli/etat/leg/rgd/2015/11/26/n1">règlement grand-ducal du 26 novembre 2015</ref> fixant la liste nationale des variétés des espèces de plantes agricoles est abrogé.</p>
+</content>
+</alinea>
+</article>
+<article id="art_6">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_6</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3/art_6/20160913</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2016/09/03/n3</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2019-10-22</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 6.</num>
+<alinea>
+<content>
+<p>Notre Ministre de l'Agriculture, de la Viticulture et de la Protection des consommateurs, Notre Ministre de l'Economie et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.</p>
+</content>
+</alinea>
+</article>
+</body>
+<attachments>
+<attachment id="attachment_1">
+<doc name="">
+<meta>
+<identification source="">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+</FRBRManifestation>
+</identification>
+<notes scl:border="50" scl:page-footer="false" scl:type="document" source="#eli-etat-leg-rgd-2016-09-03-n7-consolide-2019-01-19-fr-xml">
+<note id="note_0_0_0" marker="**">
+<p>pour l'exportation uniquement</p>
+</note>
+<note id="note_0_0_1" marker="X*">
+<p>La lettre X indique que plusieurs personnes sont responsables de la sélection conservatrice. La liste des noms des responsables est déposée à l'Administration des services techniques de l'agriculture.</p>
+</note>
+<note id="note_0_0_2" marker=" ****">
+<p>non destinée à la production fourragère</p>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p scl:align="center"> <mod class="mod-start" for="#pm3"/>
+<b>
+<mod class="mod-start" for="#pm5"/>ANNEXE I</b>
+</p>
+</longTitle>
+</preface>
+<mainBody>
+<alinea>
+<content>
+<table id="table_1" scl:cols="25 25 45 5" scl:cols-align="left center right left" width="100">
+<tr>
+<th colspan="4" scl:align="right">
+<p>N° de référence du responsable</p>
+<p>de la sélection conservatrice</p>
+<p>(voir annexe II)</p>
+</th>
+</tr>
+<tr>
+<td colspan="4">
+<p scl:align="center">A. CÉRÉALES</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p scl:align="center">1. <b>Blé tendre </b>(Triticum aestivum L.)</p>
+<p scl:align="center" scl:space-before="5">– Blé d’hiver</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Apostel<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6054</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="2">
+<p>Asory<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td scl:align="right" scl:valign="bottom">
+<p>6049</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Axioma <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barranco</p>
+</td>
+<td/>
+<td>
+<p>6049</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bernstein </p>
+</td>
+<td/>
+<td>
+<p>6056</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Boss<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Campesino<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Chevalier<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Chevignon<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12040</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Colonia</p>
+</td>
+<td/>
+<td>
+<p>6043</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Desamo</p>
+</td>
+<td/>
+<td>
+<p>6031</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Elixer</p>
+</td>
+<td/>
+<td>
+<p>6005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Filon<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12010</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Florian</p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Franz</p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Genius<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Govelino</p>
+</td>
+<td/>
+<td>
+<p>6063</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Gordian<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6031</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Johnny<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Julius <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kerubino</p>
+</td>
+<td/>
+<td>
+<p>6048</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Talent<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>LG Mocca<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6015</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Manitou <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Moschus<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6065</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nordkap<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Patras <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pionier</p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ponticus </p>
+</td>
+<td/>
+<td>
+<p>6030</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>RGT Reform </p>
+</td>
+<td/>
+<td>
+<p>12022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Rubisko<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12008</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Skagen<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Spontan</p>
+</td>
+<td/>
+<td>
+<p>6049</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3" scl:align="center">
+<p>– Blé de printemps</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cornetto <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Mistral</p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Sharki<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lennox</p>
+</td>
+<td/>
+<td>
+<p>6030</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Licamero</p>
+</td>
+<td/>
+<td>
+<p>6049</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sonett <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6056</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Quintus<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tybalt <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center"> 2. <b>Blé dur </b>(Triticum durum Desf.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nobilis<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12041</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Wintergold</p>
+</td>
+<td/>
+<td>
+<p>6055</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">3. <b>Épeautre </b>(Triticum spelta L.)</p>
+<p scl:align="center" scl:space-before="5">– Épeautre</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Franckenkorn <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Zollernspelz</p>
+</td>
+<td/>
+<td>
+<p>6055</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">4. <b>Seigle </b>(Secale cereale L.)</p>
+<p scl:align="center" scl:space-before="5">– Seigle d’hiver</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Elias</p>
+</td>
+<td/>
+<td>
+<p>1001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Helltop</p>
+</td>
+<td/>
+<td>
+<p>6064</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Protector <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6018</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SU Cossani <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6013</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SU Performer <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6037</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Traktor<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6018</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Seigle de printemps</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Arantes <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">5. <b>Triticale </b>(X Triticosecale Wittm.)</p>
+<p scl:align="center" scl:space-before="5">– Triticale d’hiver</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Adverdo<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6025</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Amarillo 105 <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barolo <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6062</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Brehat<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12009</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cedrico <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6062</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Claudius <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Grenado <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>23003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kasyno<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>23001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lombardo <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21021</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Massimo <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Robinson<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Riparo<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6049</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SU Agendus <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tantris <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Temuco<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21021</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Triskell</p>
+</td>
+<td/>
+<td>
+<p>12009</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tulus</p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Triticale de printemps</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Dublet</p>
+</td>
+<td/>
+<td>
+<p>23003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nagano <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>23003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Puzon <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>23003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Team Pzo<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">6. <b>Orge </b>(Hordeum vulgare L.)</p>
+<p scl:align="center" scl:space-before="5">– Orge d’hiver</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>California</p>
+</td>
+<td/>
+<td>
+<p>6043</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Caribic <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6043</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Hedwig<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Joker <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6013</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kathmandu <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>7003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Higgins<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Kosmos<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Meridian</p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Tonic <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>LG Veronika </p>
+</td>
+<td/>
+<td>
+<p>6043</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lottie<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6006</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Matros <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>7003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Padura<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>7003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Quadriga</p>
+</td>
+<td/>
+<td>
+<p>12023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sandra</p>
+</td>
+<td/>
+<td>
+<p>6046</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SU Ruzena<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SU Vireni<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tamina <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Orge de printemps</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Accordine<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Avalon </p>
+</td>
+<td/>
+<td>
+<p>6006</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Eunova</p>
+</td>
+<td/>
+<td>
+<p>6042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>KWS Irina<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Laureate<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6031</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Marthe <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Milford<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6006</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Odyssey</p>
+</td>
+<td/>
+<td>
+<p>12026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Quench<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6031</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>RGT Planet <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Salome</p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sydney<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6054</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ventina <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6006</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">7. <b>Avoine nue </b>(Avena nuda L.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Talkunar<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6057</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">8. <b>Avoine </b>(Avena sativa L.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Apollon <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bison<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Calvaro<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Earl<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>1001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Fleuron <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6050</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Harmony<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ivory<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Max <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6046</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pinnacle <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Poseidon</p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Symphony</p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Vodka<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Yukon <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Zorro <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">9. <b>Avoine rude </b>(Avena strigosa Schreb.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Luxurial <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12038</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pratex <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6018</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">10. <b>Maïs </b>(Zea Mays L.)</p>
+<p scl:align="center" scl:space-before="5">– Variétés très précoces</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Coryphee</p>
+</td>
+<td/>
+<td>
+<p>2004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Exxtens</p>
+</td>
+<td/>
+<td>
+<p>12021</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SY Amboss</p>
+</td>
+<td/>
+<td>
+<p>12028</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SY Karthoun</p>
+</td>
+<td/>
+<td>
+<p>12028</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>SY Milkytop</p>
+</td>
+<td/>
+<td>
+<p>12028</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> SY Nordicstar</p>
+</td>
+<td/>
+<td>
+<p>12028</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés précoces </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Agro Fides</p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>DKC 3352</p>
+</td>
+<td/>
+<td>
+<p>12014</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>ES Crossman</p>
+</td>
+<td/>
+<td>
+<p>12032</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>ES Metronom</p>
+</td>
+<td/>
+<td>
+<p>12032</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Katarsis</p>
+</td>
+<td/>
+<td>
+<p>6013</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>LG 30232</p>
+</td>
+<td/>
+<td>
+<p>12026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Smoothi CS</p>
+</td>
+<td/>
+<td>
+<p>12035</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés mi-précoces à tardives</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>ES Albatros</p>
+</td>
+<td/>
+<td>
+<p>12021</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Figaro</p>
+</td>
+<td/>
+<td>
+<p>6013</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>LG 30260</p>
+</td>
+<td/>
+<td>
+<p>12026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>P8201</p>
+</td>
+<td/>
+<td>
+<p>12020</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>P8333</p>
+</td>
+<td/>
+<td>
+<p>12020</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">B. POMMES DE TERRE (Solanum tuberosum L.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Allians</p>
+</td>
+<td/>
+<td>
+<p>12037</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Annabelle</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Anuschka</p>
+</td>
+<td/>
+<td>
+<p>6012</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Belana</p>
+</td>
+<td/>
+<td>
+<p>6040</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bintje</p>
+</td>
+<td/>
+<td>
+<p>X<noteRef href="#note_0_0_1"/> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Charlotte</p>
+</td>
+<td/>
+<td>
+<p>X<noteRef href="#note_0_0_1"/> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Corine</p>
+</td>
+<td/>
+<td>
+<p>21020</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Désirée</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Hansa</p>
+</td>
+<td/>
+<td>
+<p>18001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ivetta</p>
+</td>
+<td/>
+<td>
+<p>6012</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Laura</p>
+</td>
+<td/>
+<td>
+<p>6012</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Luminella</p>
+</td>
+<td/>
+<td>
+<p>18001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Monalisa</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Mont Blanc</p>
+</td>
+<td/>
+<td>
+<p>21027</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nicola</p>
+</td>
+<td/>
+<td>
+<p>6022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Red Scarlett</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ukama</p>
+</td>
+<td/>
+<td>
+<p>21007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Victoria</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center"> Pour l’exportation uniquement :</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Adora</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Agata</p>
+</td>
+<td/>
+<td>
+<p>21023</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Amora</p>
+</td>
+<td/>
+<td>
+<p>21028</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Agila</p>
+</td>
+<td/>
+<td>
+<p>6041</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Agria</p>
+</td>
+<td/>
+<td>
+<p>6012</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Alegria</p>
+</td>
+<td/>
+<td>
+<p>6041</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Anosta</p>
+</td>
+<td/>
+<td>
+<p>21008</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bartina</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Beo</p>
+</td>
+<td/>
+<td>
+<p>2004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bianchidea</p>
+</td>
+<td/>
+<td>
+<p>16003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Borwina</p>
+</td>
+<td/>
+<td>
+<p>6041</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cara</p>
+</td>
+<td/>
+<td>
+<p>X<noteRef href="#note_0_0_1"/> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Claustar</p>
+</td>
+<td/>
+<td>
+<p>12004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cleopatra</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cilena</p>
+</td>
+<td/>
+<td>
+<p>6034</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Diamant</p>
+</td>
+<td/>
+<td>
+<p>21004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Draga</p>
+</td>
+<td/>
+<td>
+<p>X<noteRef href="#note_0_0_1"/> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Gala</p>
+</td>
+<td/>
+<td>
+<p>6041</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Gloria</p>
+</td>
+<td/>
+<td>
+<p>6022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Golden Queen</p>
+</td>
+<td/>
+<td>
+<p>16004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Forza</p>
+</td>
+<td/>
+<td>
+<p>21013</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Heideniere</p>
+</td>
+<td/>
+<td>
+<p>6059</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Hermes</p>
+</td>
+<td/>
+<td>
+<p>1004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Jaerla</p>
+</td>
+<td/>
+<td>
+<p>21009</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kennebec</p>
+</td>
+<td/>
+<td>
+<p>X<noteRef href="#note_0_0_1"/> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kondor</p>
+</td>
+<td/>
+<td>
+<p>21022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lady Rosetta</p>
+</td>
+<td/>
+<td>
+<p>21025</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Linda</p>
+</td>
+<td/>
+<td>
+<p>6059</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Liseta</p>
+</td>
+<td/>
+<td>
+<p>21017</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Marfona</p>
+</td>
+<td/>
+<td>
+<p>21022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pirol</p>
+</td>
+<td/>
+<td>
+<p>6041</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Première</p>
+</td>
+<td/>
+<td>
+<p>21004</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Primura</p>
+</td>
+<td/>
+<td>
+<p>21011</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ratte</p>
+</td>
+<td/>
+<td>
+<p>12042</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Red Pontiac</p>
+</td>
+<td/>
+<td>
+<p>X<noteRef href="#note_0_0_1"/> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Saturna</p>
+</td>
+<td/>
+<td>
+<p>6028</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sirtema</p>
+</td>
+<td/>
+<td>
+<p>21007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Spunta</p>
+</td>
+<td/>
+<td>
+<p>21010</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tebina</p>
+</td>
+<td/>
+<td>
+<p>2006</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">C. PLANTES FOURRAGÈRES</p>
+<p scl:align="center" scl:space-before="5">1. GRAMINÉES (Gramineae)</p>
+<p scl:align="center" scl:space-before="5">a) <b>Raygrass de Westerwold </b>(Lolium multiflorum Lvar.Westerwoldicum)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Baritmo <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barspectra II (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barsutra (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bartigra (T)</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barveloz <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Beatle (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6018</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Carexpress</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ducado <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lemnos (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Libonus <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Licherry <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lifloria <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Liquattro (T)</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lolan (T)</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Peleton (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pollanum (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Primora (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Suxyl</p>
+</td>
+<td/>
+<td>
+<p>12022</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Wesley (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">b) <b>Raygrass d’Italie </b>(Lolium multiflorum L.var.Italicum)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Alamo <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6038</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Balance <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barelli <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barextra (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barmultra II (T)</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barprisma <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barultima (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Briscar <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Danergo (T)</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Fabio <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Hunter<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lascar</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lema</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lemtal <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Liberta (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ligrande</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lipsos (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Macho (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Meribel</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Meritra (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nabucco (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Oryx </p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tauro (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6018</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Zebu (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Zorro (T)</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">c) <b>Raygrass hybride </b>(Lolium x hybridum Hausskn.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Astoncrusader (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barsenna <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Dorcas (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ibex (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Marmota (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pirol</p>
+</td>
+<td/>
+<td>
+<p>6019</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sabella<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">d) <b>Raygrass anglais </b>(Lolium perenne L.)</p>
+<p scl:align="center" scl:space-before="5">– Variétés précoces à très précoces</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Arvicola (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Eterlou<noteRef href="#note_0_0_0"/> <noteRef href="#note_0_0_2"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Mirtello (T)</p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lactimo<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Salamandra (T)</p>
+</td>
+<td/>
+<td>
+<p>6038</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Salmo (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés mi-précoces à mi-tardives</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Abermagic</p>
+</td>
+<td/>
+<td>
+<p>28012</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Activa(T)</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Alligator (T)</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Allodia (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Algira (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Arcturus (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Arsenal</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barcampo (T)</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barforma</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barnauta (T) <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cantalou (T)</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Indicus 1</p>
+</td>
+<td/>
+<td>
+<p>21026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Magician (T)</p>
+</td>
+<td/>
+<td>
+<p>14001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Massimo</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Mercedes (T)</p>
+</td>
+<td/>
+<td>
+<p>6019</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Merlinda (T)<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Premium</p>
+</td>
+<td/>
+<td>
+<p>21026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Toddington</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Trend (T)</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Trivos (T)</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tyrella<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés tardives à très tardives (type pâture)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bareuro <noteRef href="#note_0_0_0"/> <noteRef href="#note_0_0_2"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barflip <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barganza (T)<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barimero <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barnewton (D)<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Bartwingo <noteRef href="#note_0_0_0"/> <noteRef href="#note_0_0_2"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cabriolet (T)</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cancan</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cangou</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Carosse (T)</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Charisma (T)</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Fornido (T)</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Hurricane (T)</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kentaur (T)</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Kintyre (T)</p>
+</td>
+<td/>
+<td>
+<p>14001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Meltador <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Melways</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Polim (T)</p>
+</td>
+<td/>
+<td>
+<p>21026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sponsor <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Turfgold<noteRef href="#note_0_0_0"/> <noteRef href="#note_0_0_2"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">e) <b>X Festulolium</b> </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lifema <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">f) <b>Fétuque des prés </b>(Festuca pratensis Huds)</p>
+<p scl:align="center" scl:space-before="5">– Variétés de type foin</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barvital</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cosima</p>
+</td>
+<td/>
+<td>
+<p>6019</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Cosmolit</p>
+</td>
+<td/>
+<td>
+<p>6019</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Darimo</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Liherold</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Limosa</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lipoche <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pardus</p>
+</td>
+<td/>
+<td>
+<p>6045</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Pradel</p>
+</td>
+<td/>
+<td>
+<p>5002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Preval</p>
+</td>
+<td/>
+<td>
+<p>5002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">g) <b>Fétuque rouge </b>(Festuca rubra L.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Tagera <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">
+<eop/>h) <b>Fléole des prés </b>(Phleum pratense L.)</p>
+<p scl:align="center" scl:space-before="5">– Variétés de type foin</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Aturo <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barfleo</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Dolina</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Licora <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lischka</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Rasant</p>
+</td>
+<td/>
+<td>
+<p>6032</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés de type intermédiaire</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Barpenta</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Classic</p>
+</td>
+<td/>
+<td>
+<p>21005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Comtal</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Erecta</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Presto</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés de type pâture</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="1">
+<p>Promesse</p>
+</td>
+<td/>
+<td>
+<p>21026</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">i) <b>Dactyle </b>(Dactylis glomerata L.)</p>
+<p scl:align="center" scl:space-before="5">– Variétés mi-tardives</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Ambassador</p>
+</td>
+<td/>
+<td>
+<p>21005</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Daccar</p>
+</td>
+<td/>
+<td>
+<p>12033</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés tardives à très tardives</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Athos</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Baraula</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Intensiv</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lidacta</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">j) <b>Pâturin des prés </b>(Poa pratensis L.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lato</p>
+</td>
+<td/>
+<td>
+<p>6019</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Likollo</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Limagie</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">2. LÉGUMINEUSES (Leguminosae)</p>
+<p scl:align="center" scl:space-before="5">a) <b>Luzerne </b>(Medicago sativa et Medicago varia Martyn)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Derby</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Europe</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Félicia</p>
+</td>
+<td/>
+<td>
+<p>12039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Fleetwood</p>
+</td>
+<td/>
+<td>
+<p>6003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Galaxie</p>
+</td>
+<td/>
+<td>
+<p>12039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Luzelle</p>
+</td>
+<td/>
+<td>
+<p>12018</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Milky-Max</p>
+</td>
+<td/>
+<td>
+<p>12039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Sanditi <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">b) <b>Trèfle blanc </b>(Trifolium repens L.)</p>
+<p scl:align="center" scl:space-before="5">– Variétés de type giganteum</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Calimero</p>
+</td>
+<td/>
+<td>
+<p>21002</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Variétés de type hollandicum</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lirepa</p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Merida</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Merlyn</p>
+</td>
+<td/>
+<td>
+<p>6045</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Merwi</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Milkanova</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Munida</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Vysocan</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Silvester</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Violin</p>
+</td>
+<td/>
+<td>
+<p>7001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">c) <b>Trèfle violet </b>(Trifolium pratense L.)</p>
+<p scl:align="center" scl:space-before="5">– Variétés mi-précoces à mi-tardives</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Diplomat</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Harmonie<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Larus (T)</p>
+</td>
+<td/>
+<td>
+<p>5001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Lemmon <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Maro (T)</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Milvus <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Merviot</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Rotra (T)</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Violetta syn. : Atelo</p>
+</td>
+<td/>
+<td>
+<p>2001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="4">
+<p scl:align="center">d) <b>Féveroles </b>(Vicia faba L.var. Minor (Peterm.) bull)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fanfare</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Fuego<noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Nebraska <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">e) <b>Pois fourrager </b>(Pisum sativum L. (Partim))</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Alvesta</p>
+</td>
+<td/>
+<td>
+<p>6044</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Astronaute</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Flokon <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>12003</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Navarro</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Salamanca <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Susan <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>13001</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">3. CRUCIFÈRES (Cruciferae)</p>
+<p scl:align="center" scl:space-before="5">a) <b>Colza oléagineux</b> (Brassica napus L.(Partim)) </p>
+<p scl:align="center" scl:space-before="5">– Colza oléagineux d’hiver</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Dalton</p>
+</td>
+<td/>
+<td>
+<p>12014</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Dariot</p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>DK Exalte</p>
+</td>
+<td/>
+<td>
+<p>12014</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>DK Exlibris</p>
+</td>
+<td/>
+<td>
+<p>12014</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>DK Expansion</p>
+</td>
+<td/>
+<td>
+<p>12014</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>ES Mambo</p>
+</td>
+<td/>
+<td>
+<p>12032</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>King 10 <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Mentor</p>
+</td>
+<td/>
+<td>
+<p>6016</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">– Colza oléagineux de printemps</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Liforum <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">b) <b>Moutarde blanche</b> (Sinapis alba L.) </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Litember <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">c) <b>Radis oléifère </b>(Raphanus sativus L.))</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>Rufus <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6007</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td colspan="3">
+<p scl:align="center">4. AUTRES ESPÈCES </p>
+<p scl:align="center" scl:space-before="5">a) <b>Phacelia </b>(Phacelia tanacetifolia Benth.)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> Lisette <noteRef href="#note_0_0_0"/> </p>
+</td>
+<td/>
+<td>
+<p>6039<mod class="mod-end" for="#pm5"/>
+<noteRef href="#M5" marker="5"/>
+</p>
+</td>
+<td/>
+</tr>
+</table>
+</content>
+</alinea>
+</mainBody>
+</doc>
+</attachment>
+<attachment id="attachment_2">
+<doc name="">
+<meta>
+<identification source="">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+</FRBRManifestation>
+</identification>
+</meta>
+<preface>
+<longTitle>
+<p scl:align="center">
+<eop/> <mod class="mod-start" for="#pm4"/>
+<b>
+<mod class="mod-start" for="#pm6"/>ANNEXE II</b>
+</p>
+</longTitle>
+</preface>
+<mainBody>
+<alinea>
+<content>
+<p scl:align="center">
+<b>Liste des responsables de la sélection conservatrice</b> </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<table id="table_2" scl:cols="20 50 30" scl:cols-align="center left left" width="100">
+<tr>
+<td>
+<p>N° de référence du</p>
+<p>responsable de la </p>
+<p>sélection conservatrice</p>
+</td>
+<td/>
+<td/>
+</tr>
+<tr>
+<td>
+<p>1001</p>
+</td>
+<td>
+<p>Landwirtschaftliche Fachschule Edelhof</p>
+<p>Edelhof, 1</p>
+<p>A-3910 Zwettl/Niederoesterreich</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>1002</p>
+</td>
+<td>
+<p>Probstdorfer Saatzucht GmbH, Parking 12</p>
+<p>Postfach 592</p>
+<p>A-1011 Wien</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>1003</p>
+</td>
+<td>
+<p>Saatzucht Gleisdorf GmbH</p>
+<p>Am Tieberhof, 33</p>
+<p>A-8200 Gleisdorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>1004</p>
+</td>
+<td>
+<p>Niederösterreichische Saatbaugenossenschaft</p>
+<p>Meires, 25</p>
+<p>A-3841 Windigsteig</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>1005</p>
+</td>
+<td>
+<p>Saatzuchtgesellschaft Streng’s Erben</p>
+<p>Aspachhof, 1</p>
+<p>D-97215 Uffenheim</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>1006</p>
+</td>
+<td>
+<p>Saatzucht Donau GmbH</p>
+<p>Saatzuchtgasse, 11</p>
+<p>A-2301 Probstdorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2001</p>
+</td>
+<td>
+<p>Department voor plantengenetica en Veredeling,</p>
+<p>Caritasstraat, 21</p>
+<p>B-9090 Melle</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2002</p>
+</td>
+<td>
+<p>Station d’amélioration des plantes</p>
+<p>rue du Bordia, 4</p>
+<p>B-5030 Gembloux</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2003</p>
+</td>
+<td>
+<p>Département de la lutte biologique</p>
+<p>rue du Bordia, 4</p>
+<p>B-5030 Gembloux</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2004</p>
+</td>
+<td>
+<p>KWS- SAAT A.G.</p>
+<p>Grimsehlstraße, 31</p>
+<p>D-37555 Einbeck</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2005</p>
+</td>
+<td>
+<p>V. Jorion &amp; Fils S.A.</p>
+<p>Chaussée de Leuze, 1</p>
+<p>B-7911 Hacquegnies</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2006</p>
+</td>
+<td>
+<p>Temmermann Jac.Ch.M.J.</p>
+<p>Spijkerboor, 17</p>
+<p>NL-1671 PA Medemblik</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>2007</p>
+</td>
+<td>
+<p>Lochow-Petkus Belgium NV</p>
+<p>Langstraat, 130</p>
+<p>B-3350 Neerhespen (Linter)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>
+<eop/>5001</p>
+</td>
+<td>
+<p>Agroscope ART </p>
+<p>CH-8046 Zurich-Reckenholz</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>5002</p>
+</td>
+<td>
+<p>Station Fédérale de Changins R.A.C.</p>
+<p>rte de Duillier, 50</p>
+<p>CH-1260 Nyon</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>5003</p>
+</td>
+<td>
+<p>DSP</p>
+<p>rte de Portalban, 40</p>
+<p>CH-1567 Delley</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6001</p>
+</td>
+<td>
+<p>Dr. J. Ackermann &amp; Co KG</p>
+<p>Ringstrasse, 17</p>
+<p>D-94342 Irlbach</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6002</p>
+</td>
+<td>
+<p>Bauer, Berthold</p>
+<p>Hofmarkstrasse, 1</p>
+<p>D-93083 Obertraubling-Niedertraubling</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6003</p>
+</td>
+<td>
+<p>Bayer. Pflanzenzuchtgesellschaft eG &amp; Co. KG</p>
+<p>Elisabethstrasse,38</p>
+<p>D-80796 München</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6004</p>
+</td>
+<td>
+<p>Bezirk Mittelfranken,</p>
+<p>vertreten durch Landwirtschaftliche Lehranstalten Triesdorf</p>
+<p>D-91746 Weidenbach</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6005</p>
+</td>
+<td>
+<p>Borries-Eckendorf, GmbH &amp; Co.</p>
+<p>Postfach 1151</p>
+<p>D-33814 Leopoldshöhe</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6006</p>
+</td>
+<td>
+<p>Breun Josef,</p>
+<p>Amselweg, 1</p>
+<p>D-91074 Herzogenaurach</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6007</p>
+</td>
+<td>
+<p>Deutsche Saatveredelung Lippstadt-Bremen GmbH zu Lippstadt, Fa</p>
+<p>Postfach 1407</p>
+<p>D-59524 Lippstadt</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6008</p>
+</td>
+<td>
+<p>Eger, Erhard</p>
+<p>Lübecker Strasse, 62-66</p>
+<p>D-23611 Bad Schwartau</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6009</p>
+</td>
+<td>
+<p>Gebrüder Dippe Saatzucht GmbH</p>
+<p>D-4902 Bad Salzufen 3</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6010</p>
+</td>
+<td>
+<p>Hans Schweiger &amp; Co oHG</p>
+<p>Feldkirchen, 3</p>
+<p>D-85368 Moosburg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6011</p>
+</td>
+<td>
+<p>Hilleshög GmbH</p>
+<p>Postfach 3264</p>
+<p>D-32076 Bad Salzufen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6012</p>
+</td>
+<td>
+<p>Kartoffelzucht Böhm Inh. Gebr. Böhm KG.</p>
+<p>Postfach 1380</p>
+<p>D-21303 Lüneburg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>6013</p>
+</td>
+<td>
+<p>Kleinwanzlebener Saatzucht AG</p>
+<p>Grimsehlstrasse, 21</p>
+<p>D-37555 Einbeck</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6014</p>
+</td>
+<td>
+<p>Lochow-Petkus GmbH, F. von</p>
+<p>Postfach 1197</p>
+<p>D-29296 Bergen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6015</p>
+</td>
+<td>
+<p>Nickerson Pflanzenzucht GmbH</p>
+<p>Postfach 1204</p>
+<p>D-31232 Edemissen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6016</p>
+</td>
+<td>
+<p>Norddeutsche Pflanzenzucht</p>
+<p>Hans-Georg Lembke KG, Fa.</p>
+<p>D-24363 Holtsee</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6017</p>
+</td>
+<td>
+<p>"Nordsaat" Saatzuchtgesellschaft mbH,</p>
+<p>Hauptstrasse, 1</p>
+<p>D-38895 Böhnhausen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6018</p>
+</td>
+<td>
+<p>P.H. Petersen, </p>
+<p>Postfach 6</p>
+<p>D-24976 Langballig</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6019</p>
+</td>
+<td>
+<p>Saatzucht Steinach GmbH</p>
+<p>Wittelbacher Strasse, 15</p>
+<p>D-94377 Steinach</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6020</p>
+</td>
+<td>
+<p>Saka Pflanzenzucht</p>
+<p>Postfach Kielortallee, 9</p>
+<p>D-20144 Hamburg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6021</p>
+</td>
+<td>
+<p>Schweiger-Weizen Gbr</p>
+<p>Hauptstrasse, 8</p>
+<p>D-06408 Biendorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6022</p>
+</td>
+<td>
+<p>Soltau-Bergen e.G., Saatzucht</p>
+<p>Postfach 1464</p>
+<p>D-29604 Soltau</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6023</p>
+</td>
+<td>
+<p>Saatzucht Engelen Büchling e.K.</p>
+<p>Büchling, 8</p>
+<p>D-94363 Oberschneiding</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6024</p>
+</td>
+<td>
+<p>Saatzucht Firlbeck GmbH &amp; Co.KG</p>
+<p>Johann-Firlbeck-Straße, 20</p>
+<p>D-94348 Atting</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6025</p>
+</td>
+<td>
+<p>Saatzucht Hadmersleben GmbH</p>
+<p>Kroppenstedter Strasse</p>
+<p>D-39398 Hadmersleben</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6026</p>
+</td>
+<td>
+<p>Saatzucht Dr. Hege GmRmbH</p>
+<p>Domäne Hohebuch</p>
+<p>D-74638 Waldenburg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6027</p>
+</td>
+<td>
+<p>Späth Dr. Hans Rolf</p>
+<p>Im Rheinfeld 1-13</p>
+<p>D-76437 Rastatt</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>6028</p>
+</td>
+<td>
+<p>Stader Saatzucht eG.</p>
+<p>Postfach 2020</p>
+<p>D-21680 Stade</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6029</p>
+</td>
+<td>
+<p>Streng-Wintergersten Gbr</p>
+<p>Hauptstrasse, 8</p>
+<p>D-06408 Biendorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6030</p>
+</td>
+<td>
+<p>Strube, Dr. Hermann</p>
+<p>(in Fa. Fr. Strube Saatzucht KG)</p>
+<p>Postfach 1353</p>
+<p>D-38358 Schöningen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6031</p>
+</td>
+<td>
+<p>Syngenta Seeds GmbH</p>
+<p>Postfach 2180</p>
+<p>D-47519 Kleve</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6032</p>
+</td>
+<td>
+<p>Raiffeisen-Zentralgenossenschaft eG.</p>
+<p>Leuterbergstrasse, 1</p>
+<p>D-76137 Karlsruhe</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6033</p>
+</td>
+<td>
+<p>Advanta GmbH</p>
+<p>Robert-Boschstrasse, 6</p>
+<p>D-35305 Grünberg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6034</p>
+</td>
+<td>
+<p> Vereinigte Saatzuchten e.V.</p>
+<p> Postfach 1</p>
+<p> D-3112 Ebstorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6035</p>
+</td>
+<td>
+<p>Semundo Saatzucht GmbH.</p>
+<p> Teendorf</p>
+<p> D-29582 Hanstedt</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6036</p>
+</td>
+<td>
+<p>DSV-Wintergerstengemeinschaft</p>
+<p> Hauptstrasse, 8</p>
+<p> D-06408 Biendorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6037</p>
+</td>
+<td>
+<p>Hybro Saatzucht GmbH u. Co.</p>
+<p> Kleptow, 53</p>
+<p> D-17291 Schenkenberg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6038</p>
+</td>
+<td>
+<p>Innoseeds GmbH</p>
+<p> Auestrasse, 5</p>
+<p>D-29352 Adelheidsho</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6039</p>
+</td>
+<td>
+<p>Euro Grass Breeding GmbH &amp; Co</p>
+<p> Weißenburger Strasse, 5</p>
+<p>D-59557 Lippstadt</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6040</p>
+</td>
+<td>
+<p>Hergen Berding</p>
+<p> Am Jadebusen, 36</p>
+<p>D-26345 Bockhorn</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6041</p>
+</td>
+<td>
+<p>Norika Nordring-Kartoffelzucht u. Vermehrungs GmbH</p>
+<p> Parkweg, 4</p>
+<p>D-39398 Hadmersleben</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6042</p>
+</td>
+<td>
+<p>Franck Dr. Peter Pflanzenzucht Oberlimpurg</p>
+<p> Oberlimburg, 2</p>
+<p> D-74523 Schwäbisch Hall</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>6043</p>
+</td>
+<td>
+<p>Limagrain GmbH</p>
+<p> Postfach 1204</p>
+<p> D-31232 Edemissen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6044</p>
+</td>
+<td>
+<p>KWS Lochow GmbH</p>
+<p> Postfach 1197</p>
+<p> D-29296 Bergen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6045</p>
+</td>
+<td>
+<p>Feldsaaten Freudenberger GmbH &amp; Co.KG</p>
+<p> Postfach 111104</p>
+<p> D-47812 Krefeld</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6046</p>
+</td>
+<td>
+<p>I.G. Saatzucht Verwalt. GmbH</p>
+<p> Hauptstrasse, 8</p>
+<p> D-06408 Biendorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6047</p>
+</td>
+<td>
+<p>Limagrain Nederland BV</p>
+<p> Van der Haweg, 20</p>
+<p> NL-4411 RB Rilland</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6048</p>
+</td>
+<td>
+<p>Saatzucht Schmidt</p>
+<p> Kraftgasse, 60</p>
+<p> D-76829 Landau-Queichheim</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6049</p>
+</td>
+<td>
+<p>Secobra Saatzucht GmbH</p>
+<p> Feldkirchen, 3</p>
+<p> D-85368 Moosburg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6050</p>
+</td>
+<td>
+<p>Hauptsaaten für die Rheinprovinz GmbH</p>
+<p> Altenberger Strasse, 1a</p>
+<p> D-50668 Köln</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6051</p>
+</td>
+<td>
+<p>Saatzucht Schweiger GbR</p>
+<p> Feldkirchen, 3</p>
+<p> D-85368 Moosburg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6052</p>
+</td>
+<td>
+<p>Dr. Berthold Alter</p>
+<p> Reiffeisenstrasse, 9</p>
+<p> D-34587 Felsberg</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6053</p>
+</td>
+<td>
+<p>Landbauschule Dottenfelderhof e.V.</p>
+<p> Dottenfelder Hof</p>
+<p> D-61118 Bad Vilbel</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6054</p>
+</td>
+<td>
+<p>Saatzucht Streng GmbH&amp;Co KG</p>
+<p> Aspachhof, 1</p>
+<p> D-97215 Uffenheim</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6055</p>
+</td>
+<td>
+<p>Südwestdeutsche Saatzucht GmbH &amp; Co KG</p>
+<p> Im Rheinfeld, 1-13</p>
+<p> D-76347- Rastatt</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6056</p>
+</td>
+<td>
+<p>Syngenta Hadmersleben</p>
+<p> Koppenstedter Strasse, 4</p>
+<p>D-39387 Oschersleben</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6057</p>
+</td>
+<td>
+<p>Gesellschaft für goetheanistische Forschung e.V.</p>
+<p> Birkenweg, 3</p>
+<p> D-37217 Witzenhausen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>6058</p>
+</td>
+<td>
+<p>Dagmar Littman</p>
+<p> Brückenweg, 3</p>
+<p> D-23714 Timmdorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6059</p>
+</td>
+<td>
+<p>Karsten Ellenberg</p>
+<p> Ebsdorferstrasse, 1</p>
+<p> D-29576 Barum</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6060</p>
+</td>
+<td>
+<p>Dottenfelderhof e.V.</p>
+<p> Holzhausenweg, 7</p>
+<p>D-61118 Bad Vilbel</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6061</p>
+</td>
+<td>
+<p>Pioneer Hi-Bred Northern Europe</p>
+<p> Apensenerstrasse, 198</p>
+<p>D-21614 Buxtehute</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6062</p>
+</td>
+<td>
+<p>Lantmännen SW Seed B.V.</p>
+<p> Postbus 235</p>
+<p> NL-8300 EE Emmeloord</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6063</p>
+</td>
+<td>
+<p>Dr. Karl-Josef Müller</p>
+<p> Darzau Hof</p>
+<p> D-29490 Neu Darchau</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6064</p>
+</td>
+<td>
+<p>Nordic Seed Germany GmbH</p>
+<p> Kirchhorsterstrasse, 16</p>
+<p>D-31688 Nienstädt</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>6065</p>
+</td>
+<td>
+<p>Dr. Hermann Strube</p>
+<p> Hauptstrasse 1 </p>
+<p> D-38387 Söllingen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>7001</p>
+</td>
+<td>
+<p>DLF-Trifolium A/S Dansk Plantenforaedling</p>
+<p> Hojerupvej 31</p>
+<p> Boelshøj</p>
+<p> DK-4660 Store-Heddinge</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>7003</p>
+</td>
+<td>
+<p>Sejet Planteforaedling</p>
+<p> Nørremarkvej, 67 Sejet </p>
+<p>DK-8700 Horsens</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>7004</p>
+</td>
+<td>
+<p>Danisco Seed</p>
+<p> Hojbygaardvej, 14</p>
+<p> DK-4960 Holeby</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12002</p>
+</td>
+<td>
+<p>Advanta France</p>
+<p> Z.I. rte de Lavardac</p>
+<p> F-47600 Nerac</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12003</p>
+</td>
+<td>
+<p>Agri-Obtentions</p>
+<p> B.P. 46 La Minière</p>
+<p> F-78285 Guyancourt Cedex</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12004</p>
+</td>
+<td>
+<p>Clause L. SA.</p>
+<p> 24, boulevard Pierre Brossolette</p>
+<p> F-91221 Brétigny-sur Orge </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12007</p>
+</td>
+<td>
+<p>Ets. Benoist Claude</p>
+<p> Ferme de Moyencourt</p>
+<p> F-78910 Orgerus</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>12008</p>
+</td>
+<td>
+<p>Dekalb France (RAGT)</p>
+<p> 18. rue de Séguret-Saincric</p>
+<p> B.P. 326</p>
+<p> F-12003 Rodez cedex</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12009</p>
+</td>
+<td>
+<p>Desprez (Florimond)</p>
+<p> Capelle-en Pévèle</p>
+<p> B.P. 41</p>
+<p> F-59242 Templeuve</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12010</p>
+</td>
+<td>
+<p>S.A. Florimond Desprez Veuve &amp; Fils</p>
+<p> B.P. 41</p>
+<p> F-59242 Capelle-en Pévèle Templeuve</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12011</p>
+</td>
+<td>
+<p>GIE Recherche Européenne Gazon</p>
+<p> 13, rue A. Ducatez</p>
+<p> F-26200 Montélimar</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12013</p>
+</td>
+<td>
+<p>Novartis Seeds S.A. France</p>
+<p> F-31790 Saint Sauveur</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12014</p>
+</td>
+<td>
+<p>Monsanto SAS</p>
+<p> Croix de Pardies</p>
+<p> B.P. 21</p>
+<p> F-40305 Peyrehorade Cedex</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12015</p>
+</td>
+<td>
+<p>Golden Harvest Zelder SARL</p>
+<p> B.P. 4</p>
+<p> F-49350 Les Rosiers sur Loire</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12016</p>
+</td>
+<td>
+<p>Maïsadour</p>
+<p> B.P. 27, route de Saint-Sever</p>
+<p>F-40001 Mont de Marsan</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12017</p>
+</td>
+<td>
+<p>Momont Hennette et fils</p>
+<p> 7, rue du Martinval</p>
+<p> F-59246 Mons-en-Pévèle</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12018</p>
+</td>
+<td>
+<p>Ministère de l’agriculture INRA</p>
+<p> 147, rue de l’Université</p>
+<p>F-75341 Paris Cedex 07</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12019</p>
+</td>
+<td>
+<p>Coop de Pau Euralis</p>
+<p> B.P. 29</p>
+<p> Avenue Gaston Phoebus</p>
+<p> F-64230 Lescar</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12020</p>
+</td>
+<td>
+<p>12020 Pioneer Génétique S.a.r.l.</p>
+<p> Chemin de l’Enseigure</p>
+<p> B.P. 6</p>
+<p> F-31840 Aussonne</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12021</p>
+</td>
+<td>
+<p> 12021 RAGT</p>
+<p> 18, rue Séguret-Saincric</p>
+<p> B.P. 326</p>
+<p> F-12033 Rodez Cédex 09</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12022</p>
+</td>
+<td>
+<p>R2N</p>
+<p> Avenue Saint-Pierre</p>
+<p> B.P. 3336</p>
+<p> F-12033 Rodez Cédex 09</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12023</p>
+</td>
+<td>
+<p>Sécobra Recherches</p>
+<p> Le Bois Henry</p>
+<p> F-78580 Maule</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12024</p>
+</td>
+<td>
+<p>Semences Nickerson S.A.</p>
+<p> Z.I. route de Saumur</p>
+<p> F-49160 Longue-Jumelles</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12025</p>
+</td>
+<td>
+<p>Serasem</p>
+<p> 10-12, rue Roger Lecerf</p>
+<p> F-59840 Prémesques </p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12026</p>
+</td>
+<td>
+<p>Limagrain Genetics France</p>
+<p> Domaine de Mons</p>
+<p> B.P. 115</p>
+<p> F-63203 Riom Cédex</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12027</p>
+</td>
+<td>
+<p>Sté des Maïs Européens (SDME)</p>
+<p> 420, rue de la Galette</p>
+<p> F-60710 Chevrières</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12028</p>
+</td>
+<td>
+<p>Syngenta Seeds SA</p>
+<p> B.P. 27</p>
+<p> F-31790 Saint-Saveur</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12029</p>
+</td>
+<td>
+<p>Unisigma</p>
+<p> 2, rue Petit Sorri</p>
+<p> F-60480 Froissy</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12030</p>
+</td>
+<td>
+<p>Verneuil</p>
+<p> B.P. 3</p>
+<p> F-77390 Verneuil-l’Etang</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12031</p>
+</td>
+<td>
+<p>Zelder Dordogne</p>
+<p> Bel Orme</p>
+<p> F-33350 Flaujagues</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12032</p>
+</td>
+<td>
+<p>Euralis Génétique</p>
+<p> Domaine de Sandreau</p>
+<p> F-31700 Mondonville</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12033</p>
+</td>
+<td>
+<p>Semences de France</p>
+<p> 21 ZAC Carrière Dorée</p>
+<p> BP 20008</p>
+<p> F-59358 Orchies Cédex</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12034</p>
+</td>
+<td>
+<p>Fr. Strube Saatzucht</p>
+<p> Postfach 1353</p>
+<p> D-38358 Schöningen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12035</p>
+</td>
+<td>
+<p>Caussade Semences</p>
+<p> ZI de Meaux</p>
+<p> F-82300 Caussade</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12036</p>
+</td>
+<td>
+<p>KWS/SMDE</p>
+<p> Postfach 1463</p>
+<p> D-37555 Einbeck</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12037</p>
+</td>
+<td>
+<p>Boehm Nordkartoffel</p>
+<p> Dorfstrasse, 1</p>
+<p> D-18334 Boehlendorf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>12038</p>
+</td>
+<td>
+<p>Panam France sàrl</p>
+<p> BP 33</p>
+<p> F-37270 Saint-Martin Le Beau</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12039</p>
+</td>
+<td>
+<p>GIE Grass</p>
+<p> La Litiere</p>
+<p> F-86600 Saint Sauvant</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12040</p>
+</td>
+<td>
+<p>Saaten Union Recherche SAS</p>
+<p> Avenue de Flandre 163</p>
+<p> BP 6</p>
+<p> F-60190 Estrées-Saint-Denis</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12041</p>
+</td>
+<td>
+<p>Limagrain Europe</p>
+<p> Ferme de Loudes</p>
+<p> BP 1254</p>
+<p> F-11492 Castelnaudary</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>12042</p>
+</td>
+<td>
+<p>Fédération Nationale des producteurs de plants de pommes de terre</p>
+<p> 44, rue d’Alésia</p>
+<p> F-75014 Paris</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>13001</p>
+</td>
+<td>
+<p>Kaposvàri Egyetem Takarmànytermesztési</p>
+<p> Kutatò Intézet, Napraforgò u.1.</p>
+<p> HU-7095 Iregszemcse</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>14001</p>
+</td>
+<td>
+<p>Teagasc</p>
+<p> Oak Park Research Centre</p>
+<p> IRL-Carlow</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>16001</p>
+</td>
+<td>
+<p>Roberto Guarnieri</p>
+<p> via Monzato 3</p>
+<p> I-43029 Traversetolo (Pr)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>16002</p>
+</td>
+<td>
+<p>Istituto Sperimentale Per Le Colture Foraggere</p>
+<p> Via Piacenza, 25</p>
+<p> I-20075 Lodi (Mi)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>16003</p>
+</td>
+<td>
+<p>ASTRA Agenzia per la Sperimentazione Tecnologica e la</p>
+<p> Ricerca Agroambientale</p>
+<p> Via Tebano, 45</p>
+<p> I-48018 Faenza</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>16004</p>
+</td>
+<td>
+<p>Istituto Sperimentale per le Colture industriali</p>
+<p> Via di Corticella, 133</p>
+<p> I-40128 Bologna</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>16005</p>
+</td>
+<td>
+<p>SIS Società Italiana Sementi</p>
+<p> Via Mirandola, 1</p>
+<p> I-40068 San Lazzano di Savena (Bo)</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>18001</p>
+</td>
+<td>
+<p>Synplants</p>
+<p> route de Bastogne, 4</p>
+<p> L-9706 Clervaux</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21001</p>
+</td>
+<td>
+<p>Advanta Seeds BV.</p>
+<p> B.P. 127</p>
+<p> NL-5250 AC Vlijmen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>21002</p>
+</td>
+<td>
+<p>Barenbrug, Holland B.V.</p>
+<p> Postbox,</p>
+<p> NL-6678 ZG Oosterhout</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21003</p>
+</td>
+<td>
+<p>O. Braak C.S.</p>
+<p> Veenendaal</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21004</p>
+</td>
+<td>
+<p>F. Brands c.s. Rolde NL</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21005</p>
+</td>
+<td>
+<p>Cebeco- Zaden BV,Cebeco &amp; Van Engelen Zaden i.P.ship</p>
+<p> Postbox 10000</p>
+<p> NL-5250 Vlijmen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21006</p>
+</td>
+<td>
+<p>Kweeckbedrijf Ropta ZPC</p>
+<p> NL-91230 Metslawier</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21007</p>
+</td>
+<td>
+<p>Landbouw Maatschappij Friesland-Flevoland</p>
+<p> NL-8901 BK Leeuwarden</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21008</p>
+</td>
+<td>
+<p>L.D. Stol</p>
+<p> NL-BAFLO</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21009</p>
+</td>
+<td>
+<p>Hettema Zonen B.V.</p>
+<p> NL-8304 AS Emmeloord</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21010</p>
+</td>
+<td>
+<p>J.Oldenburger</p>
+<p> NL-9406 XG Assen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21011</p>
+</td>
+<td>
+<p>A.D. Mulder c.s.</p>
+<p> NL-9989 AN Warffum</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21012</p>
+</td>
+<td>
+<p>Van der Have, D.J.B.V., Kon Kweeckbedrijf en Zaadhandel</p>
+<p> NL-4420 AA Kapelle</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21013</p>
+</td>
+<td>
+<p>Aardappelkweekbedrijf Ijsselmeerpolders B.V.</p>
+<p> NL-Emmeloord</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21014</p>
+</td>
+<td>
+<p>M. Rademakers</p>
+<p> NL-8303 AA Emmeloord</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21015</p>
+</td>
+<td>
+<p>P.J. en P.R. Dijkhuis en A.G. en N.B. Dijkhuis</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21016</p>
+</td>
+<td>
+<p>Zelder B.V.</p>
+<p> NL-6595 NW Ottersum</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21017</p>
+</td>
+<td>
+<p>HZPC IPR B.V.</p>
+<p> Postbus 8</p>
+<p> NL-8500 AB Joure</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21018</p>
+</td>
+<td>
+<p>Limagrain Genetics B.V.</p>
+<p> NL-9679 ZG Scheemda</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21019</p>
+</td>
+<td>
+<p>V.o.f. Nederlandse Tetilakwekers,</p>
+<p> NL-3700 AX Zeist</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21020</p>
+</td>
+<td>
+<p>Wolf en Wolf B.v.</p>
+<p> NL-8200 AK Lelystad</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21021</p>
+</td>
+<td>
+<p>SW Seed</p>
+<p> Postbus 235</p>
+<p> NL-8300 AE Emmeloord</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p> <eop/>21022</p>
+</td>
+<td>
+<p>Könst Research Aardappelveredelingsbedrijf BV</p>
+<p> NL-Nieuw-Vennep</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21023</p>
+</td>
+<td>
+<p>Agrico Reasearch B.V.</p>
+<p> NL-Emmeloord</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21024</p>
+</td>
+<td>
+<p>Euro Grass B.V.</p>
+<p> Postbus 26</p>
+<p> NL-6590 AA Gennep</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21025</p>
+</td>
+<td>
+<p>C. Meijer BV</p>
+<p> P.O. Box 1</p>
+<p> NL-4416 ZG Kruiningen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21026</p>
+</td>
+<td>
+<p>Innoseeds BV</p>
+<p> Postbus 1</p>
+<p> NL-4420 AA Kapelle</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21027</p>
+</td>
+<td>
+<p>J.P. van Loon</p>
+<p> De Meteoor 8</p>
+<p> NL-8251 AM Dronten</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>21028</p>
+</td>
+<td>
+<p>B.Schaap BV</p>
+<p> Oogstweg 7</p>
+<p> NL-8256 SB Biddinghuizen</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>23001</p>
+</td>
+<td>
+<p>Danko Plant Breeders</p>
+<p> Choryn</p>
+<p> PL-64005 Racot</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>23003</p>
+</td>
+<td>
+<p>Danko Hodowla Roslin sp. zoo</p>
+<p> PL-64005 Racot</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>25001</p>
+</td>
+<td>
+<p>Lantmaennen SW Seed AB</p>
+<p> S-26881 Svalöf</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28001</p>
+</td>
+<td>
+<p>Eminence Seeds Ltd.</p>
+<p> 4 Market Hill, CALNE</p>
+<p> GB-Wiltshire, SN II OBV</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28003</p>
+</td>
+<td>
+<p>Cambridge Plant Breeders</p>
+<p> GB-Herts SG 87 RE</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28004</p>
+</td>
+<td>
+<p>IGER/AFRC</p>
+<p> Welsh Plant Breeding Station</p>
+<p> Plas Gogerddan</p>
+<p> GB-Dyfed SY23 3EB</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28005</p>
+</td>
+<td>
+<p>Nickerson Seeds Ltd.</p>
+<p> GB-Lincolnshire LN7 6DT</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28006</p>
+</td>
+<td>
+<p>PBI Cambridge Ltd., Maris Lane</p>
+<p> Trumpington</p>
+<p> GB-Cambridge, CB 22 LQ</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28007</p>
+</td>
+<td>
+<p>Seed Potato Promotions (NI) LTD</p>
+<p> Cathedral Buildings, 64 Donegall Street</p>
+<p> GB-Belfast BT 1 2GT</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28008</p>
+</td>
+<td>
+<p>The Scottish Office Agriculture and Fisheries Department</p>
+<p> Pentland House, 47 Robbs Loan</p>
+<p> UK-Edinburgh, EH14 1TW</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28009</p>
+</td>
+<td>
+<p>28009 Department of Agriculture for Northern Ireland</p>
+<p> Loughgall</p>
+<p> IRL-Armagh</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28010</p>
+</td>
+<td>
+<p>TLC Potatoes Ltd., Wardend of Durris</p>
+<p> Banchori</p>
+<p> GB-Kincardineshire AB31 6DA</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>28011</p>
+</td>
+<td>
+<p>Aberystwyth University</p>
+<p> Nr Aberystwyth Ceredigion</p>
+<p> UK-SY23 3EB Plas Gogerddan</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>29001</p>
+</td>
+<td>
+<p>New Zealand Agriseed Ltd., Old west road RDI</p>
+<p> Christchurch 8021 N.Z.</p>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<p>30001</p>
+</td>
+<td>
+<p>Pioneer Hi-Bred, Int. Inc.</p>
+<p> 1206 Mulberry Street</p>
+<p> Des Moines 9</p>
+<p>USA-IOWA 50308 <mod class="mod-end" for="#pm6"/>
+<noteRef href="#M6" marker="6"/>
+</p>
+</td>
+<td/>
+</tr>
+</table>
+</content>
+</alinea>
+</mainBody>
+</doc>
+</attachment>
+<attachment id="attachment_3">
+<doc name="">
+<meta>
+<identification source="">
+<FRBRWork>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+<FRBRcountry value=""/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+<FRBRlanguage language=""/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value=""/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-02-14" name=""/>
+<FRBRauthor href=""/>
+</FRBRManifestation>
+</identification>
+</meta>
+<preface>
+<longTitle>
+<p scl:align="center"> <eop/> <b>ANNEXE III</b> </p>
+</longTitle>
+</preface>
+<mainBody>
+<alinea>
+<content>
+<p scl:align="center"> <b>Liste des espèces visées à l'article 2, sous b)</b> </p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Plantes fourragères:</p>
+<table id="table_48" scl:cols="60 40" width="80">
+<tr>
+<td>
+<p>Festuca arundinacea Schreb.</p>
+<p>Vicia spec.</p>
+</td>
+<td>
+<p>Fétuque élevée</p>
+<p>Vesces</p>
+</td>
+</tr>
+</table>
+</content>
+</alinea>
+</mainBody>
+</doc>
+</attachment>
+</attachments>
+</act>
+</akomaNtoso>

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 15/07/2018 : Loi du 14 juillet 2015 portant cr\u00E9ation de la profession de psychoth\u00E9rapeute et modifiant\\n1) le Code de la s\u00E9curit\u00E9 sociale;\\n2) la loi du 8 juin 1999 relative au Coll\u00E8ge m\u00E9dical;\\n3) la loi du 19 juin 2009 ayant pour objet la transposition de la directive 2005/36/CE pour ce qui est\\na) du r\u00E9gime g\u00E9n\u00E9ral de reconnaissance des titres de formation et des qualifications professionnelles,\\nb) de la prestation temporaire de service.",
       "title_short": "Loi du 14 juillet 2015 portant cr\u00E9ation de la profession de psychoth\u00E9rapeute.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/14/n1/consolide/20180715/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d49579f989af7887adf8ba9167d1b5411e138690e95fdcc7bb8bc9255e25b2ab",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/14/n1/consolide/20180715/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/07/14/n1/consolide/20180715/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ec8d7382fd87e22ddea3f99c67dc36dcc7490f945502da364d0e3f62e0b883a1"
+  "record_sha256": "c6da16a9ec4e33183017a8669d7cf400c422ed8280a528cd844b772c8c2b6dcc"
 }

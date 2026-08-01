@@ -28,14 +28,20 @@ first-sighting timestamp (append-only event chain — transaction time lives
 and the link to the official text. **`git log` on this tree reads as a
 legislative history without tooling.**
 
-## Metadata-only, by design
+## Full text, from the official channel
 
-No legal text is stored here. No published, robots-compliant body channel
-exists for Legilux act bodies (measured 2026-08-01: SPARQL carries no text
-literals; body paths are robots-disallowed on the data subdomain; the main site
-serves a JavaScript shell). Every version links out to the official
-publication. The timeline — which state applied on which day — is the product;
-the text has always been one click away.
+Each version carries the **verbatim Akoma Ntoso 3.0 XML** as published by the
+Service central de législation at its official manifestation endpoint
+(`legilux.public.lu/filestore/…` — the same files the official site serves,
+on the robots-permitted host). The publisher licenses these content files
+**CC-BY-4.0** (its own documentation: « les fichiers de contenu … licence
+CC-BY … utilisations commerciales ou non », plus a machine-readable
+`dct:license` triple on every manifestation). Bodies are stored **byte-verbatim
+and append-only** — the sha256 in each `meta.json` covers the exact retrieved
+file; no text is ever altered or overwritten. Where a body is not yet fetched,
+the version says so explicitly (`text.available: false`) and links out.
+Languages: 4,501 French expressions plus the publisher's three singleton
+de/en/lb expressions — all ingested.
 
 ## The six intake answers (spec §1.5)
 
@@ -48,10 +54,11 @@ the text has always been one click away.
    (https://data.legilux.public.lu/sparqlendpoint), published as an open-data
    resource. robots.txt permits the endpoint; body paths are disallowed and are
    not fetched.
-4. **May we republish the text?** Not established — treated as **no** (this
-   repo stores none). Act text carries no copyright (loi du 18.04.2001,
-   art. 10, 8°), but the state database right (arts. 67–70) over bulk
-   extraction is unresolved.
+4. **May we republish the text?** **Yes** — the publisher's own documentation
+   licenses the content files under CC-BY-4.0 (commercial reuse included), and
+   each manifestation carries a machine-readable CC-BY-4.0 licence triple; a
+   CC-BY grant covers the sui generis database right as well. Act text
+   additionally carries no copyright (loi du 18.04.2001, art. 10, 8°).
 5. **May we republish the metadata?** Yes: CC-BY grant on the Legilux open-data
    dataset (data.public.lu, dataset `62c83bfd9794ec8e47b5bc68`), attribution
    below.

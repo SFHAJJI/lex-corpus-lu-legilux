@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/06/2017 : R\u00E8glement grand-ducal du 8 janvier 2015 relatif \u00E0 la protection des mineurs dans les services des m\u00E9dias audiovisuels.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/consolide/20170618/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33b88b96879bd9b071d32868ccc0ab8ed09845533431a79881491c514c486e49",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/consolide/20170618/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/01/08/n1/consolide/20170618/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ef6754485abe81630e39c93cec03c9d50ce86c93fb49bd6568cfb17b60234b24"
+  "record_sha256": "db36e29faf25b97fba6d77ea957b1d40981b8ffd5562654fd919da97c4018666"
 }

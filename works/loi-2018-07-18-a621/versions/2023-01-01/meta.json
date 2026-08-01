@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 18 juillet 2018 sur la Police grand-ducale\\net portant modification :\\n1\u00B0 du Code de proc\u00E9dure p\u00E9nale ; \\n2\u00B0 de la loi modifi\u00E9e du 9 d\u00E9cembre 2005 d\u00E9terminant les conditions et modalit\u00E9s de nomination de certains fonctionnaires occupant des fonctions dirigeantes dans les administrations et services de l\u2019Etat ;\\n3\u00B0 de la loi du 10 d\u00E9cembre 2009 relative \u00E0 l\u2019hospitalisation sans leur consentement de personnes atteintes de troubles mentaux ;\\n4\u00B0 de la loi modifi\u00E9e du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions et modalit\u00E9s d\u2019avancement des fonctionnaires de l\u2019Etat ;\\n5\u00B0 de la loi du 18 d\u00E9cembre 2015 relative \u00E0 l\u2019accueil des demandeurs de protection internationale et de protection temporaire, et modifiant la loi modifi\u00E9e du 10 ao\u00FBt 1991 sur la profession d\u2019avocat ;\\net portant abrogation :\\n1\u00B0 de la loi du 29 mai 1992 relative au Service de Police Judiciaire et modifiant \\n1. la loi modifi\u00E9e du 23 juillet 1952 concernant l\u2019organisation militaire ; \\n2. le code d\u2019instruction criminelle ; \\n3. la loi du 16 avril 1979 ayant pour objet la discipline dans la Force publique ;\\n2\u00B0 de la loi modifi\u00E9e du 31 mai 1999 sur la Police et l\u2019Inspection g\u00E9n\u00E9rale de la Police.",
       "title_short": "Loi du 18 juillet 2018 sur la Police grand-ducale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5a6f998eede3cd3285b65b54bf15b5c68e832c1b8eb543be8c88fd730cf45429",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/07/18/a621/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "edc92e2f560645bb41b0149efa9d08eed36275581680f4036d2a9060f6855b29"
+  "record_sha256": "562893ff09dd6db09c959766ce0d8d5b090c67540f9806ef2bef55f2b30a7a02"
 }

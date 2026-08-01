@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/08/1996 : R\u00E8glement grand-ducal du 9 janvier 1979 concernant la proc\u00E9dure des saisies-arr\u00EAts et cessions sur les r\u00E9mun\u00E9rations de travail et les pensions et rentes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/19960824/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d8e25bf4012d49eea38c5135f3613861109fb115c6f086490c420bdff9bc2ed8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/19960824/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/01/09/n2/consolide/19960824/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7e4835580540acef0b13135eb0a37a071e991f79a9e7e8393dc5169a2b3fdaac"
+  "record_sha256": "9a5ab85a8cb0c67b175f89620370874ecf6fda87b4d53b18857000acd81479d9"
 }

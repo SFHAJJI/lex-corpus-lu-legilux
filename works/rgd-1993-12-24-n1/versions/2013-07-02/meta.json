@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/07/2013 : R\u00E8glement grand-ducal du 24 d\u00E9cembre 1993 fixant les droits dus pour la mise sur le march\u00E9 des m\u00E9dicaments.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n1/consolide/20130702/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b1b29765501f9a829e3297e28b007c786e481d38e1608d36cf416b12552d76ed",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n1/consolide/20130702/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/12/24/n1/consolide/20130702/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8967654b88f326e447453ab0a5546b3d76f34e8f86db0c2174d3012dea4da33d"
+  "record_sha256": "058306bb2b6aca1058ad08de59a1ab02891f5bc0d7b144bbe3dbcc0f96c8aac5"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/12/2020 : Loi du 20 juin 2020 visant \u00E0 mettre en place un r\u00E9gime d\u2019aides en faveur des projets li\u00E9s \u00E0 la lutte contre la pand\u00E9mie de Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a508/consolide/20201216/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a19c722552b002b2cc44e000b1b251b75694ac27d943544713126133a4d76927",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a508/consolide/20201216/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a508/consolide/20201216/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e934f6c5c970002a3e014e67183ce50c3cd5023f996c5f46deeba025067c4617"
+  "record_sha256": "9b211be2cc191b62fd4bd7c2fbb29dcf0d65d7a2a15d1c56697b63b8a52639d5"
 }

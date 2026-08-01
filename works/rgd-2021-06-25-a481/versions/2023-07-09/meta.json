@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/07/2023 : R\u00E8glement grand-ducal du 25 juin 2021 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive, ainsi que de l\u2019examen de promotion des diff\u00E9rentes cat\u00E9gories de traitement aupr\u00E8s de l\u2019administration judiciaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/20230709/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "89139250260669fa4c369da8f98d521be463c4faf608cd9fd13327f8595bc941",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/20230709/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/06/25/a481/consolide/20230709/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7848aed3c6b0f6dfc44c65c43d2b94492159fbc72b0c8f2ca1865a3c448cf037"
+  "record_sha256": "d0058588bc0e0f356602882b2c8cb8b1a6d28395abc9a73ecc8a4c138d3e72e6"
 }

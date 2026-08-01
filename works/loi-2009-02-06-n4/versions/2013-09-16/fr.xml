@@ -1,0 +1,2242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MEN"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2014-09-04" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/209</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/61</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2014-09-04</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2014A3264A</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/21</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/1546</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2014-09-08</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2014-09-04</scl:jolux>
+						<scl:jolux scl:name="consolidates">http://data.legilux.public.lu/eli/etat/leg/loi/2009/02/06/n4/jo</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr</scl:jolux>
+					<scl:jolux scl:name="titleAlternative">TEXTE COORDONNE de la Loi modifiée du 6 févier 2009</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">TEXTE COORDONNE de la Loi modifiée du 6 février 2009 concernant le personnel de l'enseignement fondamental, Texte coordonné</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-trep-2014-09-04-n3-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">3264</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/173/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2014-173-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">3264</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/trep/2014/09/04/n3/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2014-09-04" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+			</lifecycle>
+			<analysis source="#"/>
+			<references source="#">
+				<original href="/eli/etat/leg/trep/2014/09/04/n3/jo" id="ro1" showAs="Original"/>
+			</references>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>TEXTE COORDONNE de la Loi modifiée du 6 février 2009 concernant le personnel de l’enseignement fondamental.</p>
+			</longTitle>
+		</preface>
+		<preamble>
+			<container name="preamble">
+				<p scl:align="center">(<ref href="/eli/etat/leg/loi/2009/02/06/n4/jo" id="f7f10b7a-41a5-4d6e-a80d-482c9f6c0ed9">Mémorial A - 20 du 16 février 2009</ref>, p. 215; doc. parl. <ref href="/eli/etat/proj/pl/20070146" id="54130160-9dc2-4dc0-a570-4fdd55b4f03c">5760</ref>)</p>
+			</container>
+			<container name="considerando">
+				<p>modifiée par: </p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2010/03/02/n2/jo" id="8ed2fc61-1ff1-43fa-8c74-153a71f019dd">Loi du 2 mars 2010l</ref>
+				</p>
+				<p scl:space-tab="20">(Mémorial A - 41 du 16 mars 2010, p. 636; doc. parl. <ref href="/eli/etat/proj/pl/20090198" id="020bdd5b-d21a-4f51-8bab-5ab569d1ecb2">6089</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2011/03/12/n6/jo" id="21cf60f8-e754-4420-bec6-60f6fd44e93d">Loi du 12 mars 2011</ref>
+				</p>
+				<p scl:space-tab="20">(Mémorial A - 73 du 18 avril 2011, p. 1214; doc. parl. <ref href="/eli/etat/proj/pl/20100254" id="e15d5541-73d1-4471-a758-e8ae69134692">6215</ref>)</p>
+				<p>
+					<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="1cddfcdc-b325-4e32-b4e9-94849811a8c1">Loi du 18 juillet 2013</ref>. </p>
+				<p scl:space-tab="20">(Mémorial A - 139 du 29 juillet 2013, p. 2788; doc. parl. <ref href="/eli/etat/proj/pl/20120013" id="61cd026c-c654-4907-894c-20beeae89f5d">6390</ref>)</p>
+			</container>
+		</preamble>
+		<body>
+			<alinea>
+				<content>
+					<p scl:align="center">
+						<b>Texte coordonné</b>
+					</p>
+				</content>
+			</alinea>
+			<chapter id="chapitre_ier">
+				<num>
+					<b>Chapitre I<sup>er</sup>
+					</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Définitions</b>
+				</heading>
+				<article id="art_1er">
+					<num>Art. 1<sup>er</sup>.</num>
+					<alinea>
+						<content>
+							<p> Au sens de la présente loi, sont désignés par les termes</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>ministre, le ministre de l’Éducation nationale;</li>
+								<li>
+									<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="a6a7b154-7c4b-4091-b903-94089467a49d">Loi du 18 juillet 2013</ref>)</i> «inspecteur de l’enseignement fondamental, l’inspecteur de l’enseignement primaire, tel qu’utilisé dans les lois et règlements antérieurs.»</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_ii">
+				<num>
+					<b>Chapitre II</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Le personnel des écoles de l’enseignement fondamental</b>
+				</heading>
+				<article id="art_2">
+					<num>Art. 2.</num>
+					<paragraph id="paragraph_1">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Il est créé un cadre du personnel des écoles de l’enseignement fondamental ayant pour mission d’assurer l’enseignement et l’encadrement socio-éducatif des élèves fréquentant une école de l’enseignement fondamental.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_2">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Le cadre du personnel des écoles de l’enseignement fondamental est placé sous l’autorité du ministre.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_3">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="4aeb7e49-86a8-4386-833e-e94585446cac">Loi du 18 juillet 2013</ref>)</i> «En dehors des inspecteurs de l’enseignement fondamental, le cadre des fonctionnaires peut comprendre:</p>
+								<ol scl:start="1" scl:symbol="I.">
+									<li>dans la carrière de l’enseignement:<ul scl:symbol="dash">
+											<li> des instituteurs;</li>
+											<li>des maîtresses de jardin d’enfants.</li>
+										</ul>
+									</li>
+									<li>dans la carrière de l’administration:<ul scl:symbol="dash">
+											<li>des pédagogues;</li>
+											<li>des psychologues;</li>
+											<li>des assistants sociaux;</li>
+											<li>des bibliothécaires-documentalistes;</li>
+											<li>des éducateurs gradués;</li>
+											<li>des ergothérapeutes;</li>
+											<li>des orthophonistes;</li>
+											<li>des pédagogues curatifs; </li>
+											<li>des rédacteurs;</li>
+											<li>des rééducateurs en psychomotricité et des psycho-rééducateurs;</li>
+											<li>des éducateurs;</li>
+											<li>des expéditionnaires;</li>
+											<li>des infirmiers;</li>
+											<li>des infirmiers en pédiatrie, anciennement puériculteurs.»</li>
+										</ul>
+									</li>
+								</ol>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_4">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>En dehors des fonctionnaires énumérés ci-dessus, le cadre peut comprendre des stagiaires et des employés de l’État.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_5">
+						<num>(5)</num>
+						<alinea>
+							<content>
+								<p>Des agents d’autres administrations et services de l’État peuvent être détachés auprès du cadre du personnel des écoles de l’enseignement fondamental.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_6">
+						<num>(6)</num>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="e1f69995-3e94-49b3-990f-1c6dba22b3b7">Loi du 18 juillet 2013</ref>)</i> «Les conditions d’admission au stage et de nomination des membres du personnel mentionnés au paragraphe 3, point II, éducateurs gradués et éducateurs exceptés, sont celles fixées pour les fonctions correspondantes par:</p>
+								<ol scl:start="1" scl:symbol="a.">
+									<li>la <ref href="/eli/etat/leg/loi/2005/06/29/n1/jo" id="c8c10b30-6071-4bda-b5dc-6e59f8f6e68f">loi modifiée du 29 juin 2005</ref> fixant les cadres du personnel des établissements d’enseignement secondaire et secondaire technique;</li>
+									<li>la <ref href="/eli/etat/leg/loi/1973/03/14/n1/jo" id="1cf12ebc-4a6a-4c56-b95f-49305c1ea4f0">loi modifiée du 14 mars 1973</ref> portant création d’instituts et de services d’éducation différenciée;</li>
+									<li>les règlements d’exécution relatifs aux lois précitées et les <ref href="/eli/etat/leg/rgd/2004/01/30/n2/jo" id="18f56bdc-5bcf-44c3-b4fa-51df61e9c7b1">règlements grand-ducaux modifiés du 30 janvier 2004</ref> applicables pour le recrutement dans les administrations et services de l’Etat.»</li>
+								</ol>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_7">
+						<num>(7)</num>
+						<alinea>
+							<content>
+								<p>
+									<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="d31435d8-7870-4eb6-9c6e-c3fb1e384c22">Loi du 18 juillet 2013</ref>)</i> «La durée normale de travail et le régime des congés du personnel mentionné au paragraphe 3, point II, éducateurs gradués et éducateurs exceptés, sont fixés conformément aux dispositions légales et réglementaires en vigueur pour les fonctionnaires et employés de l’Etat des fonctions correspondantes.»</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_3">
+					<num>Art. 3.</num>
+					<alinea>
+						<content>
+							<p>Selon les besoins, le cadre du personnel des écoles de l’enseignement fondamental peut également comprendre des membres de la réserve de suppléants prévue au chapitre V.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_iii">
+				<num>
+					<b>Chapitre III</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Les instituteurs</b>
+				</heading>
+				<article id="art_4">
+					<num>Art. 4.</num>
+					<alinea>
+						<content>
+							<p>L’enseignement fondamental est assuré par des instituteurs.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les classes d’éducation précoce au premier cycle d’apprentissage, tel que défini à l’article 1<sup>er</sup> de la <ref href="/eli/etat/leg/loi/2009/02/06/n3/jo" id="b95e978a-df4f-4478-9e44-b02c7d645b4d">loi du 6 février 2009</ref> portant organisation de l’enseignement fondamental, sont encadrées par des équipes comprenant un instituteur et un éducateur. Les modalités d’encadrement des classes d’éducation précoce sont fixées par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La tâche normale des instituteurs des deuxième, troisième et quatrième cycles, tels que définis à l’article 1<sup>er</sup> de la <ref href="/eli/etat/leg/loi/2009/02/06/n3/jo" id="37dc2fe8-53b3-480b-bcc5-05ef908ff708">loi du 6 février 2009</ref> portant organisation de l’enseignement fondamental, comprend vingt-trois leçons hebdomadaires d’enseignement direct et cinquante-quatre heures d’appui pédagogique annuelles ainsi que cent vingt-six heures de travail annuelles à assurer dans l’intérêt des élèves et de l’école. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La tâche normale des instituteurs du premier cycle comprend vingt-cinq leçons hebdomadaires d’enseignement direct et cinquante-quatre heures d’appui pédagogique annuelles ainsi que cent vingt-six heures de travail annuelles à assurer dans l’intérêt des élèves et de l’école.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les instituteurs bénéficient des décharges pour ancienneté suivantes:</p>
+							<ul scl:symbol="dash">
+								<li>au moment d’atteindre l’âge de quarante-cinq ans: une leçon d’enseignement direct;</li>
+								<li>au moment d’atteindre l’âge de cinquante ans: deux leçons d’enseignement direct;</li>
+								<li>au moment d’atteindre l’âge de cinquante-cinq ans: quatre leçons d’enseignement direct.</li>
+							</ul>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine le détail de la tâche, les modalités d’octroi et le volume des décharges pour activités connexes dans l’intérêt du fonctionnement de l’école ou de l’enseignement en général, ainsi que les modalités d’octroi et d’indemnisation des leçons supplémentaires.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_5">
+					<num>Art. 5.</num>
+					<alinea>
+						<content>
+							<p>Le recrutement des instituteurs se fait par voie de concours. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre organise chaque année le concours réglant l’accès à la fonction. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les candidats ayant passé avec succès les épreuves du concours sont nommés à la fonction d’instituteur dans l’ordre de leur classement jusqu’à concurrence du nombre des admissions à la fonction arrêté conformément aux dispositions de l’article 33.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le classement des candidats à l’issue du concours vaut pour l’année scolaire subséquente.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les conditions d’admission au concours, les contenus et les modalités du concours sont définis par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_6">
+					<num>Art. 6.</num>
+					<alinea>
+						<content>
+							<p>Peut être nommé à la fonction d’instituteur à condition d’être habilité à enseigner dans les quatre cycles que comprend l’enseignement fondamental et de s’être classé en rang utile à l’issue du concours réglant l’accès à la fonction d’instituteur:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>le détenteur du bachelor professionnel en sciences de l’éducation délivré par l’Université du Luxembourg,</li>
+								<li>le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles;</li>
+								<li>le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur, délivré par une institution située dans un pays qui n’est pas membre de l’Union européenne et reconnu par le ministre ayant l’enseignement supérieur dans ses attributions.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_7">
+					<num>Art. 7.</num>
+					<alinea>
+						<content>
+							<p>La nomination à la fonction d’instituteur est provisoire et révocable pendant les deux premières années de la nomination.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pendant cette période, l’instituteur reçoit un accompagnement de la part de l’équipe pédagogique dont il fait partie et de la part de l’inspecteur d’arrondissement. Il participe obligatoirement à des activités de formation en rapport avec son insertion professionnelle.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine les modalités de cet accompagnement et de ces activités de formation.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La période de nomination provisoire peut être suspendue soit d’office, soit à la demande de l’intéressé, pour la durée de toute absence prolongée en cas d’incapacité de travail ainsi que dans l’hypothèse où l’instituteur bénéficie des congés visés aux articles 29<i>bis</i> ou 30, paragraphe 1<sup>er</sup> de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="0cad7c49-45e4-464e-8131-9f817467e1d5">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’État. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En cas d’incapacité professionnelle constatée pendant cette période par l’inspecteur d’arrondissement ensemble avec <i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="7150c647-5476-41e9-ab9f-1a5521b1270b">Loi du 18 juillet 2013</ref>)</i> «le président du collège des inspecteurs», la révocation de la nomination provisoire peut être prononcée par le ministre, l’intéressé entendu en ses explications.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En dehors de l’hypothèse prévue à l’alinéa précédent, toute nomination provisoire est considérée comme définitive après deux années de service effectif. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_8">
+					<num>Art. 8.</num>
+					<alinea>
+						<content>
+							<p>Le ministre affecte les instituteurs soit à une commune, soit à une école ou classe de l’État.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les instituteurs nouvellement admis à la fonction sont affectés en fonction de leur rang au classement établi au concours visé à l’article 5. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’instituteur qui souhaite être changé d’affectation présente sa demande au ministre. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions individuelles de réaffectation d’un instituteur à une classe ou école de l’État sont prises par le ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions individuelles de réaffectation d’un instituteur à une commune sont prises par le ministre sur proposition du conseil communal concerné qui choisit, conformément aux dispositions de la <ref href="/eli/etat/leg/loi/1988/12/13/n1/jo" id="530c0b14-03aa-4778-90c9-13333a4b576f">loi communale modifiée du 13 décembre 1988</ref>, entre tous les candidats classés sur une liste par l’inspecteur d’arrondissement sur base d’une note d’inspection et de l’ancienneté de service. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le détail des critères de classement ainsi que les modalités des procédures d’affectation et de réaffectation des instituteurs sont déterminés par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_9">
+					<num>Art. 9.</num>
+					<alinea>
+						<content>
+							<p>Le ministre établit chaque année la liste des postes d’instituteur vacants, qui est une liste nationale et qui est publiée au plus tard le 1<sup>er</sup> juin de chaque année.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Après les opérations de réaffectation prévues à l’article qui précède, le ministre établit une nouvelle liste des postes restés vacants. L’affectation à ces postes se fait par ordre de priorité:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>par les instituteurs nouvellement nommés après le concours d’accès à la fonction visé à l’article 5, premier alinéa;</li>
+								<li>par des membres de la réserve de suppléants prévue à l’article 16, points 2 à 8, (…) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="7e382dda-9701-4dff-ade4-7ef5e6cfd779">loi du 18 juillet 2013</ref>)</i>;</li>
+								<li>par des remplaçants, conformément à l’article 27.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions individuelles d’affectation sont prises par le ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’affectation des agents mentionnés aux points 2 et 3 ne peut être prononcée chaque fois que pour une année scolaire au maximum.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Tout poste d’instituteur vacant auquel aucun instituteur n’a pu être affecté devra être déclaré vacant sur la première liste des postes vacants de l’année scolaire subséquente.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_10">
+					<num>Art. 10.</num>
+					<alinea>
+						<content>
+							<p>En cas de suppression d’un poste d’instituteur dans une commune, dans une école ou classe de l’État, l’instituteur qui l’occupait sera réaffecté dans une commune, dans une école ou classe de l’État du même arrondissement d’inspection ou, si aucun poste n’est vacant dans cet arrondissement, dans une commune, dans une école ou une classe de l’État d’un arrondissement d’inspection avoisinant.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_11">
+					<num>Art. 11.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="5378a766-8f5d-4e7f-9bf3-cc39c3be9ba4">Loi du 18 juillet 2013</ref>)</i> «Le ministre peut affecter ou réaffecter d’office un instituteur dans l’intérêt du service, l’intéressé entendu en ses observations.»</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_iv">
+				<num>
+					<b>Chapitre IV</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Les éducateurs gradués et les éducateurs</b>
+				</heading>
+				<article id="art_12">
+					<num>Art. 12.</num>
+					<alinea>
+						<content>
+							<p>Des éducateurs gradués et des éducateurs interviennent dans l’enseignement fondamental afin d’assurer l’encadrement socio-éducatif des élèves.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La tâche normale des éducateurs gradués et des éducateurs est fixée à quarante heures par semaine et comprend l’éducation des élèves à la vie en communauté, la collaboration dans les équipes pédagogiques et l’organisation d’activités de prise en charge socio-éducative en dehors des heures de classe.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les éducateurs gradués et les éducateurs ont leurs congés légaux pendant la période des vacances et des congés scolaires tels que visés par les dispositions réglementaires fixant les calendriers des vacances et congés scolaires en vigueur.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En période scolaire, la tâche hebdomadaire de l’éducateur gradué et de l’éducateur est de quarante-quatre heures. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les heures supplémentaires cumulées en période scolaire sont récupérées prioritairement pendant la période des vacances et congés scolaires.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les détails de la tâche sont fixés par règlement grand-ducal. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_13">
+					<num>Art. 13.</num>
+					<alinea>
+						<content>
+							<p>Les conditions générales d’admission, les conditions et modalités de déroulement du stage et de nomination ainsi que les conditions spécifiques propres aux fonctions d’éducateur gradué et d’éducateur telles que définies à l’article 12 ci-dessus, sont fixées par règlement grand-ducal sous réserve des dispositions suivantes:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>Les fonctionnaires de la carrière de l’éducateur gradué doivent être détenteurs soit d’un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d’un diplôme d’éducateur gradué luxembourgeois, soit d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre ayant l’enseignement supérieur dans ses attributions;</li>
+								<li>Les fonctionnaires de la carrière de l’éducateur doivent être détenteurs d’un diplôme d’éducateur luxembourgeois ou d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14">
+					<num>Art. 14.</num>
+					<alinea>
+						<content>
+							<p>L’affectation ou le changement d’affectation des éducateurs gradués et des éducateurs à une commune ou une école ou classe de l’État est décidé par le ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les éducateurs gradués ou éducateurs nouvellement admis au stage sont affectés en fonction de leur rang au classement établi au concours de recrutement. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>L’éducateur gradué ou l’éducateur qui souhaite être changé d’affectation présente sa demande au ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions individuelles de réaffectation à une classe ou école de l’État sont prises par le ministre.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les décisions individuelles de réaffectation à une commune sont prises par le ministre sur proposition du conseil communal concerné qui choisit, conformément aux dispositions de la <ref href="/eli/etat/leg/loi/1988/12/13/n1/jo" id="c2a92282-9c86-410d-9a0e-ccdff745904d">loi communale modifiée du 13 décembre 1988</ref>, entre tous les candidats classés sur une liste par l’inspecteur d’arrondissement sur base d’une note d’inspection et de l’ancienneté de service. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le détail des critères de classement ainsi que les modalités de la procédure d’affectation et de réaffectation des éducateurs gradués et des éducateurs sont déterminés par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="eab24a0f-9ca1-4d33-8b4b-db81aede1bc8">Loi du 18 juillet 2013</ref>)</i> «Le ministre peut réaffecter d’office un éducateur gradué ou un éducateur dans l’intérêt du service, l’intéressé entendu en ses observations.»</p>
+						</content>
+					</alinea>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="3aeb69d4-d48d-4cf4-b47a-c7410c226ae2">Loi du 18 juillet 2013</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_14bis">
+					<num>«Art. 14<i>bis</i>.</num>
+					<alinea>
+						<content>
+							<p> Une réserve de suppléants des éducateurs gradués et éducateurs, placée sous l’autorité du ministre, est mise en place pour assurer les remplacements en cas d’absence temporaire d’un éducateur gradué ou d’un éducateur ou pour occuper temporairement un poste d’éducateur gradué ou d’éducateur resté vacant. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La tâche des membres de la réserve de suppléants des éducateurs gradués et éducateurs est identique à celle des éducateurs gradués et des éducateurs titularisés faisant partie du cadre du personnel de l’enseignement fondamental. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14ter">
+					<num>Art. 14<i>ter</i>.</num>
+					<alinea>
+						<content>
+							<p>La réserve de suppléants des éducateurs gradués et éducateurs peut comprendre:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>des éducateurs gradués et des éducateurs engagés sous le statut du fonctionnaire de l’État;</li>
+								<li>des éducateurs gradués engagés à durée indéterminée et à tâche complète ou partielle sous le régime de l’employé de l’État, détenteurs soit d’un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d’un diplôme luxembourgeois d’éducateur gradué, soit d’un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l’enseignement supérieur dans ses attributions;</li>
+								<li>des éducateurs engagés à durée indéterminée et à tâche complète ou partielle sous le régime de l’employé de l’État, détenteurs d’un diplôme luxembourgeois d’éducateur ou d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre; </li>
+								<li>des éducateurs gradués engagés à durée déterminée et à tâche complète ou partielle sous le régime de l’employé de l’État, détenteurs soit d’un diplôme luxembourgeois de bachelor en sciences sociales et éducatives, soit d’un diplôme luxembourgeois d’éducateur gradué, soit d’un diplôme, certificat ou titre étranger reconnu équivalent par le membre du Gouvernement ayant l’enseignement supérieur dans ses attributions; </li>
+								<li>des éducateurs engagés à durée déterminée et à tâche complète ou partielle sous le régime de l’employé de l’État, détenteurs d’un diplôme luxembourgeois d’éducateur ou d’un diplôme, certificat ou titre étranger reconnu équivalent par le ministre.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre affecte les membres de cette réserve à un bureau régional de l’inspection de l’enseignement fondamental ou bien à un arrondissement d’inspection de l’enseignement fondamental. L’inspecteur d’arrondissement concerné les charge soit de remplacer temporairement un éducateur gradué ou un éducateur absent, soit d’occuper temporairement un poste d’éducateur gradué ou d’éducateur resté vacant. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pendant les périodes où les membres de cette réserve n’assurent aucune ou seulement une tâche partielle, ils sont chargés d’assurer des tâches administratives ou autres dans l’intérêt de l’enseignement par l’inspecteur d’arrondissement concerné.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les modalités d’affectation et de réaffectation des membres de cette réserve sont déterminées par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_14quater">
+					<num>Art. 14<i>quater</i>.</num>
+					<alinea>
+						<content>
+							<p> Nul n’est admis à la réserve de suppléants des éducateurs gradués et éducateurs s’il ne remplit les conditions énoncées à l’article 2 de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="c0da756b-51ed-4db7-b84f-885512ea26bf">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’État pour les emplois définis à l’article 14<i>ter</i>, point 1 ci-dessus ou à l’article 3 de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="de58fdc6-8f15-4187-a59f-8b8bd3003b69">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État pour les emplois définis à l’article 14<i>ter</i>, points 2 à 5 ci-dessus.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le recrutement des nouveaux membres de la réserve des éducateurs gradués et éducateurs se fait dans la limite des postes de renforcement prévus chaque année par la loi budgétaire en tenant compte des besoins en personnel déterminés par la procédure de planification des besoins en personnel et inscrits dans le programme de recrutement quinquennal arrêté par le Gouvernement.»</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_v">
+				<num>
+					<b>Chapitre V</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>La réserve de suppléants</b>
+				</heading>
+				<article id="art_15">
+					<num>Art. 15.</num>
+					<alinea>
+						<content>
+							<p>Une réserve de suppléants, placée sous l’autorité du ministre, comprenant des instituteurs ainsi que des chargés de cours visés à l’article 16, points 2 à 8, est mise en place conformément aux dispositions du présent chapitre. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres de la réserve de suppléants ont pour mission d’assurer les remplacements en cas d’absence temporaire d’un instituteur ou d’occuper un poste d’instituteur resté vacant, le cas échéant. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La tâche des chargés de cours, membres de la réserve de suppléants se compose d’une tâche d’enseignement, de surveillance, d’orientation et de concertation, ainsi que d’une tâche administrative. Le contenu des différentes tâches est fixé par règlement grand-ducal. Pour ce qui est de la tâche hebdomadaire d’enseignement direct, elle se définit comme suit: </p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>lors de remplacements d’une durée inférieure à un mois, elle correspond à celle des instituteurs remplacés;</li>
+								<li>lors de remplacements d’une durée d’un mois au moins, elle est fixée à<ul scl:symbol="dash">
+										<li>26 leçons d’enseignement direct pour un remplacement effectué au premier cycle;</li>
+										<li>24 leçons d’enseignement direct pour un remplacement effectué au deuxième, troisième ou quatrième cycle.</li>
+									</ul>
+								</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pendant les périodes où les membres de la réserve de suppléants n’assurent aucune ou seulement une tâche partielle d’enseignement, ils sont tenus d’assurer des tâches administratives ou autres dans l’intérêt de l’enseignement.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Ces tâches sont fixées au prorata de la différence entre une tâche hebdomadaire normale d’enseignement et la tâche hebdomadaire d’enseignement effectivement prestée.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_16">
+					<num>Art. 16.</num>
+					<alinea>
+						<content>
+							<p>La réserve de suppléants peut comprendre:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li> des instituteurs;</li>
+								<li>des chargés de cours détenteurs d’un diplôme d’études supérieures préparant à la fonction d’instituteur ayant obtenu des notes suffisantes dans les épreuves de classement, mais ne s’étant pas classés en rang utile lors du concours réglant l’accès à la fonction d’instituteur;</li>
+								<li>des chargés de cours détenteurs d’un diplôme d’études supérieures préparant à la fonction d’instituteur remplissant les conditions de langue en vue de l’admission au concours réglant l’accès à la fonction d’instituteur;</li>
+								<li>des chargés de cours détenteurs du certificat de qualification de chargé de direction établi conformément aux dispositions de la <ref href="/eli/etat/leg/loi/1991/07/05/n1/jo" id="b49da5bc-cacb-485c-ad9b-19c7cec7a171">loi modifiée du 5 juillet 1991</ref> portant e.a. fixation des modalités d’une formation préparant transitoirement au certificat de qualification de chargé de direction; </li>
+								<li>des chargés de cours détenteurs d’une attestation d’admissibilité à la réserve de suppléants établie conformément à la <ref href="/eli/etat/leg/loi/2002/07/25/n3/jo" id="57ac337f-a6d0-417f-9420-2e6862473e38">loi modifiée du 25 juillet 2002</ref> concernant le remplacement des instituteurs de l’éducation préscolaire et l’enseignement primaire; </li>
+								<li>des chargés de cours détenteurs du certificat de formation prévu à l’article 19 ci-dessous; </li>
+								<li>des chargés de cours engagés à durée indéterminée et à tâche complète ou partielle; </li>
+								<li>des chargés de cours engagés à durée déterminée et à tâche complète ou partielle pour une année scolaire au minimum.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="9b280155-b88b-49b5-bb03-69a6dd767652">Loi du 18 juillet 2013</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Le ministre peut affecter, pour une année scolaire au moins, des membres de la réserve de suppléants à un arrondissement ou à un bureau régional de l’inspection, afin de pourvoir aux postes de remplacement d’un instituteur dans une commune, une classe ou école de l’Etat. Les critères de classement ainsi que les modalités d’affectation et de réaffectation des membres de la réserve de suppléants sont déterminés par règlement grand-ducal.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le ministre peut affecter ou réaffecter d’office un membre de la réserve de suppléants dans l’intérêt du service, l’intéressé entendu en ses observations.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>(…) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="bb0214ec-50b8-4f53-87d8-9cd1bf35b143">loi du 18 juillet 2013</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_17">
+					<num>Art. 17.</num>
+					<alinea>
+						<content>
+							<p>Nul n’est admis à la réserve de suppléants s’il ne remplit les conditions énoncées à l’article 2 de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="5e47d456-bace-462b-aeaf-57e6b1309506">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’État pour les emplois définis à l’article 16, point 1 ci-dessus ou à l’article 3 de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="22209ef3-b43f-4d7e-ab22-8aca797a68dd">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État pour les emplois définis à l’article 16, points 2 à 8 ci-dessus.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Exceptionnellement et pour des raisons dûment motivées tenant à l’intérêt du service, des dispenses individuelles de la connaissance de deux des trois langues administratives pourront être accordées par décision du Gouvernement en Conseil.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_18">
+					<num>Art. 18.</num>
+					<alinea>
+						<content>
+							<p>En dehors des conditions fixées à l’article 17, les candidats à un emploi de chargé de cours de la réserve de suppléants doivent</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>être détenteurs d’un diplôme luxembourgeois de fin d’études secondaires ou d’un diplôme luxembourgeois de fin d’études secondaires techniques ou d’un diplôme reconnu équivalent par le ministre;</li>
+								<li>
+									<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="2584217e-19be-4d0b-adba-1d147b279974">Loi du 18 juillet 2013</ref>)</i> «être détenteurs d’une attestation habilitant à faire des remplacements dans l’enseignement fondamental, délivrée par le ministre.»</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_19">
+					<num>Art. 19.</num>
+					<alinea>
+						<content>
+							<p>Les chargés de cours membres de la réserve, occupant un des emplois définis à l’article 16, point 8, suivent une formation en cours d’emploi sanctionnée par un certificat de formation. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="43253b4a-551a-4637-b312-31b1ba386a06">Loi du 18 juillet 2013</ref>)</i> «Pour être admissibles au bénéfice d’un contrat à durée indéterminée, ces chargés de cours doivent avoir obtenu le certificat de formation avant le terme de vingt-quatre mois à compter à partir de leur entrée en service.»</p>
+						</content>
+					</alinea>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="6a2a37b9-e4d9-4103-9004-6de593d8f6b8">Loi du 18 juillet 2013</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_20">
+					<num>«Art. 20.</num>
+					<alinea>
+						<content>
+							<p>Le ministre statue sur l’admission des candidats à la formation, le critère servant à définir la priorité des candidats étant l’ancienneté de service acquise comme intervenant respectivement dans l’enseignement fondamental et dans l’enseignement préscolaire ou primaire avant le 15 septembre 2009.» </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_21">
+					<num>Art. 21.</num>
+					<alinea>
+						<content>
+							<p>La formation en cours d’emploi comporte une partie pédagogique et méthodologique s’étendant sur cent vingt heures ainsi qu’une partie pratique.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>La formation est organisée par l’Institut de formation continue du personnel enseignant et éducatif des écoles et des lycées.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les programmes des formations théorique et pratique, les modalités des épreuves sanctionnant la formation ainsi que l’indemnité des formateurs sont déterminés par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>En cas de réussite, le ministre délivre au candidat un certificat de formation qui l’habilite à faire des remplacements dans les quatre cycles de l’enseignement fondamental. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_22">
+					<num>Art. 22.</num>
+					<alinea>
+						<content>
+							<p> Les personnes énumérées à l’article 16, points 2 à 8, bénéficient d’un engagement en qualité d’employés de l’État à durée indéterminée ou à durée déterminée et à tâche complète ou partielle auprès de la réserve de suppléants. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="1ac02219-6848-4b04-9c1f-1ba6c3f1039f">Loi du 18 juillet 2013</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Les chargés de cours, occupant un des emplois définis à l’article 16, point 8, peuvent bénéficier d’un contrat de travail à durée indéterminée dans la limite des postes prévus chaque année par la loi budgétaire et en fonction de la note moyenne, calculée à partir de toutes les notes obtenues à l’issue des épreuves sanctionnant la formation en cours d’emploi prévue à l’article 19.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le recrutement des nouveaux membres de la réserve se fait dans la limite des postes prévus chaque année par la loi budgétaire en tenant compte des besoins en personnel déterminés par la procédure de planification des besoins en personnel enseignant.»</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_23">
+					<num>Art. 23.</num>
+					<alinea>
+						<content>
+							<p>Les membres de la réserve engagés sous le statut de l’employé de l’État sont classés au grade E2, tel que déterminé par la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="e073c14a-902a-4a90-ba52-6fdd23ae30b0">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, à condition d’être détenteurs d’un diplôme luxembourgeois de fin d’études secondaires ou d’un diplôme luxembourgeois de fin d’études secondaires techniques ou d’un diplôme reconnu équivalent par le ministre. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les modalités de classement et de rémunération de ces agents sont fixées par règlement grand-ducal. Lors de la reconstitution de leur carrière, il leur est tenu compte du temps passé au service de l’enseignement public dans les conditions de l’article 7 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="6d80932a-01cc-47a3-93b2-64782cb8ddd6">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, à l’exception des dispositions du paragraphe 6, alinéa 1 et alinéa 2, première phrase.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_vi">
+				<num>
+					<b>Chapitre VI</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Les autres intervenants</b>
+				</heading>
+				<article id="art_24">
+					<num>Art. 24.</num>
+					<alinea>
+						<content>
+							<p>L’État peut engager sous le régime de l’employé de l’État ou du salarié de l’État des ressortissants étrangers pour les charger d’activités dans l’intérêt de l’enseignement fondamental. Les personnes à engager doivent:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>être détentrices de l’un des diplômes ou certificats visés à l’article 6, points 2 et 3;</li>
+								<li>démontrer un niveau de connaissances suffisant dans une des trois langues administratives du pays telles que définies par la <ref href="/eli/etat/leg/loi/1984/02/24/n1/jo" id="6bf65dd5-fcc1-467e-97da-8cc0d72165f2">loi du 24 février 1984</ref> sur le régime des langues et se soumettre à cet effet à une épreuve vérifiant ces connaissances;</li>
+								<li>remplir les conditions fixées par l’article 3, alinéa 2, de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="84ac1f3d-a1f6-43f1-9b19-fc0035dd4460">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les modalités de recrutement, de classement et de rémunération sont fixées par règlement grand-ducal. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_25">
+					<num>Art. 25.</num>
+					<alinea>
+						<content>
+							<p>L’État peut engager sous le régime de l’employé de l’État ou du salarié de l’État des ressortissants étrangers en qualité de médiateurs interculturels.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Ils ont pour mission de favoriser l’insertion scolaire des enfants étrangers et d’assurer les liens entre l’école et les familles de ces élèves par le biais d’un travail de traduction, d’information ou de médiation. Les personnes à engager doivent:</p>
+							<ol scl:start="1" scl:symbol="1)">
+								<li>être détentrices d’un diplôme de fin d’études secondaires ou secondaires techniques, luxembourgeois ou étranger reconnu équivalent suivant la réglementation luxembourgeoise en vigueur;</li>
+								<li>démontrer un niveau de connaissances suffisant dans une des trois langues administratives du pays telles que définies par la <ref href="/eli/etat/leg/loi/1984/02/24/n1/jo" id="046496d3-2418-4689-aab0-ad0586be37ca">loi du 24 février 1984</ref> sur le régime des langues et se soumettre à cet effet à une épreuve vérifiant ces connaissances;</li>
+								<li>remplir les conditions fixées par l’article 3, alinéa 2, de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="7ac41695-eed2-4428-a44f-48f67745f4ae">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les médiateurs interculturels interviennent ponctuellement, à la demande des enseignants, des inspecteurs et parents d’élèves pour des situations exclusivement scolaires ou en relation directe avec la scolarisation d’un enfant.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les interventions des médiateurs interculturels sont coordonnées par le ministre. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les modalités de recrutement, de classement et de rémunération sont fixées par règlement grand-ducal. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_26">
+					<num>Art. 26.</num>
+					<alinea>
+						<content>
+							<p>L’instruction religieuse et morale est assurée par le personnel défini dans la Convention conclue entre le Gouvernement et l’Archevêché de Luxembourg concernant l’organisation de l’enseignement religieux dans l’enseignement primaire.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_27">
+					<num>Art. 27.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="0d848d54-5946-45e0-ae24-7165204fdb72">Loi du 18 juillet 2013</ref>)</i> «A défaut de disponibilité de membres de la réserve de suppléants, l’Etat peut procéder au remplacement temporaire d’un instituteur ou pourvoir à une vacance de poste en cours d’année par un détenteur de l’attestation habilitant à faire des remplacements dans l’enseignement fondamental délivrée par le ministre. L’intéressé est engagé sous le régime de l’employé de l’Etat.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Par dérogation à l’alinéa qui précède, une commune peut procéder à ce remplacement, conformément aux dispositions de l’article 61 de la <ref href="/eli/etat/leg/loi/2009/02/06/n3/jo" id="9a30a3b9-f23c-4d00-b4a4-847549bb1456">loi du 6 février 2009</ref> portant organisation de l’enseignement fondamental.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les conditions et modalités pour l’obtention de l’attestation habilitant à faire des remplacements ainsi que les modalités de calcul et d’allocation de l’indemnité de remplacement sont fixées par règlement grand-ducal.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour les agents définis ci-dessus, l’aptitude prévue par l’article 3, point d), de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="cec4499c-4f15-498f-b333-2a8215c1f8b9">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État est constatée pendant un délai de trois mois après le premier engagement. L’aptitude ainsi constatée a une validité de cinq ans, même en cas d’engagements répétitifs.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_vii">
+				<num>
+					<b>Chapitre VII</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>La planification des besoins en personnel enseignant et éducatif</b>
+				</heading>
+				<article id="art_28">
+					<num>Art. 28.</num>
+					<alinea>
+						<content>
+							<p>Les besoins en personnel des écoles de l’enseignement fondamental et les mesures destinées à y faire face font l’objet d’une planification continue, couvrant des périodes de cinq années scolaires.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_29">
+					<num>Art. 29.</num>
+					<alinea>
+						<content>
+							<p>Il est institué une commission d’experts, chargée de procéder aux études nécessaires à la planification. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine la composition et le fonctionnement de la commission.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres de la commission ont droit à une indemnité dont le montant et les modalités sont fixés par le règlement grand-ducal mentionné à l’alinéa précédent.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_30">
+					<num>Art. 30.</num>
+					<alinea>
+						<content>
+							<p>Pour la détermination des besoins actuels et l’évaluation des besoins futurs de la période sous examen, la commission tient compte notamment:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>des besoins spécifiques déclarés par les communes dans le cadre de l’organisation scolaire;</li>
+								<li>des normes pédagogiques en matière d’effectifs par classe fixées par le ministre;</li>
+								<li>de l’évolution démographique générale et régionale et plus particulièrement de celle des effectifs scolaires globaux prévisibles;</li>
+								<li>de la tâche du personnel des écoles de l’enseignement fondamental telle qu’elle est fixée dans la présente loi;</li>
+								<li>de la réalisation progressive des missions, ainsi que des dispositions légales et réglementaires spécifiques de l’enseignement fondamental;</li>
+								<li>des besoins en personnel à prévoir pour assurer les remplacements;</li>
+								<li>des réformes organiques ou pédagogiques et de toutes autres mesures ou situations susceptibles de modifier les besoins en personnel des écoles.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_31">
+					<num>Art. 31.</num>
+					<alinea>
+						<content>
+							<p>Chaque année la commission remet au ministre un rapport général comprenant notamment:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>des données statistiques concernant l’organisation de l’année scolaire en cours;</li>
+								<li>l’évaluation des besoins prévisibles en personnel des écoles de l’enseignement fondamental couvrant la période des cinq années subséquentes.</li>
+							</ol>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_32">
+					<num>Art. 32.</num>
+					<alinea>
+						<content>
+							<p>Sur base du rapport général de la commission, le ministre propose au Gouvernement en conseil un programme de recrutement de personnel pour la période quinquennale à venir.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_33">
+					<num>Art. 33.</num>
+					<alinea>
+						<content>
+							<p>Le Gouvernement en conseil arrête le volume et les échéances du programme de recrutement. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les engagements de personnel pour autant qu’ils dépassent le remplacement du personnel quittant le service, sont autorisés par la loi budgétaire.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_viii">
+				<num>
+					<b>Chapitre VIII</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>L’inspectorat</b>
+				</heading>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="289c620b-e054-4e0e-ae76-70e5b5d0ee7b">Loi du 18 juillet 2013</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_34">
+					<num>«Art. 34.</num>
+					<alinea>
+						<content>
+							<p>La surveillance des écoles de l’enseignement fondamental est assurée par les inspecteurs de l’enseignement fondamental placés sous l’autorité du ministre.»</p>
+						</content>
+					</alinea>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="e2b2a693-e285-4e84-a200-cd23dd77f00d">Loi du 18 juillet 2013</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_35">
+					<num>«Art. 35.</num>
+					<alinea>
+						<content>
+							<p>Les inspecteurs de l’enseignement fondamental doivent être détenteurs d’un diplôme de master en relation avec l’enseignement ou d’un diplôme reconnu équivalent par le ministre ayant l’enseignement supérieur dans ses attributions.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour être admis aux fonctions d’inspecteur de l’enseignement fondamental, les candidats doivent avoir occupé pendant cinq ans au moins soit une fonction dans la carrière supérieure de l’enseignement, soit une fonction dirigeante dans les administrations et services de l’Etat.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les inspecteurs de l’enseignement fondamental sont nommés par le Grand-Duc. Le ministre décide de l’affectation des inspecteurs aux différents arrondissements ou à des missions spécifiques.»</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_36">
+					<num>Art. 36.</num>
+					<alinea>
+						<content>
+							<p>(…) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="bccfd293-c672-4ded-beb7-f77407fa2196">loi du 18 juillet 2013</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_37">
+					<num>Art. 37.</num>
+					<alinea>
+						<content>
+							<p>Des inspecteurs peuvent être chargés de missions en dehors de l’inspection par arrêté grand-ducal. Au cas où un inspecteur est affecté à pareille mission, il est placé hors cadre par dépassement des effectifs prévus par son cadre d’origine. En cas de cessation de son affectation à une mission spécifique, cet inspecteur reste, à défaut de vacance d’emploi, placé provisoirement hors cadre et est réintégré dans le cadre du collège des inspecteurs lors de la première vacance d’emploi qui s’y produit. Le temps pendant lequel l’inspecteur en question s’est trouvé placé hors cadre lui est bonifié dans sa totalité comme ancienneté de service. L’emploi hors cadre est supprimé de plein droit par l’effet de la réintégration.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_38">
+					<num>Art. 38.</num>
+					<alinea>
+						<content>
+							<p>(…) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="9183d0c2-8bb7-4726-9b09-9185add3428b">loi du 18 juillet 2013</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_39">
+					<num>Art. 39.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="586be7dc-550f-401b-b052-7cc856c6f3af">Loi du 18 juillet 2013</ref>)</i> «Les fonctionnaires des carrières du rédacteur et de l’expéditionnaire administratif appelés à remplir des fonctions de gestion administrative dans un bureau régional d’inspection sont recrutés parmi les fonctionnaires ou stagiaires des mêmes carrières de l’administration gouvernementale et y détachés.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Au cas où son grade est supérieur à celui de chef de bureau, le fonctionnaire est placé hors cadre par dépassement des effectifs de son grade de l’administration gouvernementale. Sous réserve de l’accomplissement des conditions de promotion aux grades supérieurs de sa carrière, il peut être promu jusqu’à la fonction d’inspecteur principal premier en rang par dépassement des effectifs de l’administration gouvernementale au moment où son collègue de rang égal ou immédiatement inférieur bénéficie d’une promotion. Le fonctionnaire placé hors cadre et détaché auprès d’un bureau régional dans les conditions ci-dessus, et dont le détachement prend fin, rentre dans le cadre normal à la première vacance d’un emploi de la fonction qu’il occupe.</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_ix">
+				<num>
+					<b>Chapitre IX</b>
+				</num>
+				<heading scl:separator="-" scl:style-format="b">
+					<b>Dispositions modificatives</b>
+				</heading>
+				<article id="art_40">
+					<num>Art. 40.</num>
+					<alinea>
+						<content>
+							<p>La <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="e4dada41-c76f-4762-af4a-35d458f74c78">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État est modifiée et complétée comme suit:</p>
+							<ol scl:start="1" scl:symbol="a)">
+								<li>À l’article 3, alinéas 1 et 3 sont supprimées les références <embeddedText>15°</embeddedText> et <embeddedText>17°</embeddedText> à l’article 22, section IV. de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="e3a109ae-f135-46f1-ade6-3899d46bfaeb">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État. </li>
+								<li>À l’article 8, section III., alinéa 3, les termes <embeddedText>grade E4</embeddedText> sont remplacés par ceux de <embeddedText>grade E6</embeddedText>.</li>
+								<li>À l’article 19, les deux alinéas du paragraphe 2, et le paragraphe 4 sont supprimés, les anciens paragraphes 5 et 6 devenant les nouveaux paragraphes 2 et 3.</li>
+								<li>À l’article 20, la section I. est supprimée et l’ancienne section II. devient l’unique section de l’article 20.</li>
+								<li>À l’ancienne section II. de l’article 20, devenue l’unique section de cet article, les termes <embeddedText>E4</embeddedText> sont supprimés à l’alinéa premier et les alinéas 2 et 3 sont supprimés. </li>
+								<li>L’article 20<i>ter</i> est supprimé.</li>
+								<li>À l’article 22, section IV., les points 15° et 17° sont supprimés.</li>
+								<li>À l’article 22, section V., les points 4° et 5° sont supprimés.</li>
+								<li>À l’annexe A – Classification des fonctions – rubrique IV «Enseignement» sont supprimées dans les grades renseignés les carrières et fonctions suivantes:</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<embeddedStructure scl:hide-quote="true">
+									<alinea>
+										<content>
+											<table border="1" scl:cols="10 40 50" scl:cols-valign="middle" scl:rows-height="10" width="100">
+												<tr>
+													<td>
+														<p>E3</p>
+													</td>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur [IV-15°, V-4°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents ordres d’enseignement </p>
+													</td>
+													<td>
+														<p>instituteur d’économie familiale <sup>80, 93</sup> [IV-15°, V-4°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur<sup>67</sup> [IV-15°, V-4°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation préscolaire </p>
+													</td>
+													<td>
+														<p>instituteur [IV-15°, V-4°] </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement primaire </p>
+													</td>
+													<td>
+														<p>instituteur [IV-15°, V-4°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p/>
+													</td>
+													<td/>
+												</tr>
+												<tr>
+													<td>
+														<p>E3<i>ter</i>
+														</p>
+													</td>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement complémentaire<sup>87</sup> [V-4°, V-5°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement spécial [V-4°, V-5°] </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur principal<sup>47</sup> [V-4°, V-5°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents ordres d’enseignement</p>
+													</td>
+													<td>
+														<p>instituteur d’économie familiale<sup>80, 93</sup> [IV-17°, V-5°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement spécial<sup>67</sup> [V-4°, V-5°] </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement complémentaire<sup>67</sup> [V-4°, V-5°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation préscolaire</p>
+													</td>
+													<td>
+														<p>instituteur principal<sup>58</sup> [V-4°, V-5°] </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement primaire </p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement spécial<sup>25</sup> [V-4°, V-5°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement primaire </p>
+													</td>
+													<td>
+														<p>instituteur principal [V-4°, V-5°]</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement secondaire technique</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement préparatoire<sup>93</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Force publique</p>
+													</td>
+													<td>
+														<p>instituteur [IV-17°, V-4°] </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p/>
+													</td>
+													<td/>
+												</tr>
+												<tr>
+													<td>
+														<p>E 4</p>
+													</td>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement technique<sup>47</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents ordres d’enseignement</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement technique<sup>31</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Centre de logopédie</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement logopédique<sup>58</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Centres socio-éducatifs de l’État </p>
+													</td>
+													<td>
+														<p>instituteur spécial<sup>8,78</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur d’éducation différenciée<sup>67</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement primaire</p>
+													</td>
+													<td>
+														<p>nstituteur d’enseignement primaire supérieur </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement secondaire technique</p>
+													</td>
+													<td>
+														<p>institutrice d’enseignement ménager agricole<sup>31</sup>
+														</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Force publique</p>
+													</td>
+													<td>
+														<p>instituteur spécial<sup>25</sup> (doit remplir les conditions prévues à l’article 19, paragraphe 2 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="22036ec5-5805-4ebd-a9eb-f3c2986c1919">loi modifiée du 22 juin 1963</ref>)</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Maisons d’enfants de l’État</p>
+													</td>
+													<td>
+														<p>instituteur spécial<sup>123</sup>
+														</p>
+													</td>
+												</tr>
+											</table>
+										</content>
+									</alinea>
+								</embeddedStructure>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<ol scl:start="10" scl:symbol="a)">
+								<li>À l’annexe A – Classifications des fonctions – rubrique IV «Enseignement» sont ajoutées au grade E5 les carrières et fonctions suivantes:</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<embeddedStructure scl:hide-quote="true">
+									<alinea>
+										<content>
+											<table border="1" scl:cols="10 40 50" scl:cols-valign="middle" scl:rows-height="10" width="100">
+												<tr>
+													<td>
+														<p>E5</p>
+													</td>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents ordres d’enseignement</p>
+													</td>
+													<td>
+														<p>instituteur d’économie familiale</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement fondamental</p>
+													</td>
+													<td>
+														<p>instituteur</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement fondamental</p>
+													</td>
+													<td>
+														<p>Instituteur d’éducation préscolaire</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement fondamental</p>
+													</td>
+													<td>
+														<p>Instituteur d’enseignement primaire</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Enseignement fondamental</p>
+													</td>
+													<td>
+														<p>Instituteur d’enseignement spécial</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement spécial</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents ordres d’enseignement</p>
+													</td>
+													<td>
+														<p> instituteur d’économie familiale</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement spécial</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement préparatoire</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Force publique</p>
+													</td>
+													<td>
+														<p>instituteur </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents établissements</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement technique</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Différents ordres d’enseignement</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement technique</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Centre de logopédie</p>
+													</td>
+													<td>
+														<p>instituteur d’enseignement logopédique</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Centres socio-éducatifs de l’État</p>
+													</td>
+													<td>
+														<p>instituteur spécial</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Éducation différenciée</p>
+													</td>
+													<td>
+														<p>instituteur d’éducation différenciée</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Force publique </p>
+													</td>
+													<td>
+														<p>instituteur spécial</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>Maisons d’enfants de l’État </p>
+													</td>
+													<td>
+														<p>instituteur spécial</p>
+													</td>
+												</tr>
+											</table>
+										</content>
+									</alinea>
+								</embeddedStructure>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<ol scl:start="11" scl:symbol="a)">
+								<li>À l’annexe D – Détermination Tableau IV – «Enseignement» dans la carrière moyenne de l’enseignement sont supprimées dans les grades renseignés les carrières et fonctions suivantes: </li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<embeddedStructure scl:hide-quote="true">
+									<alinea>
+										<content>
+											<table border="1" scl:cols="30 8 52 10" width="100">
+												<tr>
+													<td>
+														<p>moyenne de l’enseignement </p>
+													</td>
+													<td>
+														<p>E3</p>
+													</td>
+													<td>
+														<p>instituteur de l’enseignement primaire/des différents établissements/de l’éducation préscolaire/de l’éducation différenciée<sup>67</sup>/d’économie familiale<sup>80</sup>
+														</p>
+													</td>
+													<td>
+														<p>E3</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>E3<i>ter</i>
+														</p>
+													</td>
+													<td>
+														<p>instituteur principal<sup>58</sup>, instituteur d’enseignement complémentaire ou d’enseignement spécial<sup>58</sup>, instituteur d’économie familiale<sup>80</sup>/de la Force publique<sup>58</sup>/de l’Éducation différenciée<sup>67</sup>/d’enseignement préparatoire<sup>93</sup>
+														</p>
+													</td>
+													<td>
+														<p>E3ter </p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td>
+														<p>E4</p>
+													</td>
+													<td>
+														<p>instituteur spécial de la Force publique, instituteur d’enseignement logopédique<sup>58</sup>, instituteur des enseignements primaire supérieur/technique<sup>31</sup>, instituteur d’éducation différenciée<sup>67</sup>, instituteur spécial-Maisons d’Enfants de l’État<sup>123</sup>, instituteur spécial des centres socio-éducatifs de l’État<sup>78</sup>, institutrice d’enseignement ménager agricole</p>
+													</td>
+													<td>
+														<p>E4</p>
+													</td>
+												</tr>
+											</table>
+										</content>
+									</alinea>
+								</embeddedStructure>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<ol scl:start="12" scl:symbol="a)">
+								<li>À l’annexe D – Détermination Tableau IV – «Enseignement» dans la carrière supérieure de l’enseignement sont ajoutées au grade E5, grade de la computation de la bonification d’ancienneté E5, les carrières et fonctions suivantes: </li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<embeddedStructure scl:hide-quote="true">
+									<alinea>
+										<content>
+											<table border="1" scl:cols="30 8 52 10" width="100">
+												<tr>
+													<td>
+														<p>supérieure de l’enseignement</p>
+													</td>
+													<td>
+														<p>E5</p>
+													</td>
+													<td>
+														<p>Instituteur, instituteur d’enseignement primaire/des différents établissements/d’éducation préscolaire/d’éducation différenciée/d’économie familiale</p>
+													</td>
+													<td>
+														<p>E5</p>
+													</td>
+												</tr>
+												<tr>
+													<td/>
+													<td/>
+													<td>
+														<p>instituteur d’enseignement spécial, instituteur d’économie familiale/de la Force publique/de l’Éducation différenciée/d’enseignement préparatoire</p>
+													</td>
+													<td/>
+												</tr>
+												<tr>
+													<td/>
+													<td/>
+													<td>
+														<p>instituteur spécial de la Force publique, instituteur d’enseignement logopédique, instituteur d’enseignement technique, instituteur d’éducation différenciée, instituteur spécial-Maisons d’Enfants de l’État, instituteur spécial des centres socio-éducatifs de l’État.</p>
+													</td>
+													<td/>
+												</tr>
+											</table>
+										</content>
+									</alinea>
+								</embeddedStructure>
+							</p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+			<chapter id="chapitre_x">
+				<num>
+					<b>Chapitre X</b>
+				</num>
+				<heading scl:style-format="b">
+					<b>Dispositions transitoires, abrogatoires et finales</b>
+				</heading>
+				<article id="art_41">
+					<num>Art. 41.</num>
+					<paragraph id="paragraph_8">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Les instituteurs d’éducation préscolaire, d’enseignement primaire et d’enseignement spécial en service, en congé parental ou en congé sans traitement auprès des communes au moment de l’entrée en vigueur de la présente loi sont repris en la même qualité dans le cadre du personnel des écoles de l’enseignement fondamental sous le statut de fonctionnaire de l’État et affectés à la commune auprès de laquelle ils étaient engagés au moment de l’entrée en vigueur de la présente loi, à moins qu’ils ne présentent une demande de réaffectation au ministre dans le contexte de l’article 8, alinéa 5 de la présente loi.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les instituteurs d’éducation préscolaire, d’enseignement primaire et d’enseignement spécial qui bénéficient d’une nomination pour la seule année scolaire 2008/2009 dans une commune sont réaffectés suite à leur demande.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_9">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>L’instituteur d’éducation préscolaire est habilité à enseigner au premier cycle d’apprentissage.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L’instituteur d’enseignement primaire et l’instituteur d’enseignement spécial sont habilités à enseigner aux deuxième, troisième et quatrième cycles d’apprentissage.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L’instituteur qualifié pour enseigner dans l’éducation préscolaire et dans l’enseignement primaire est habilité à enseigner dans les quatre cycles d’apprentissage de l’enseignement fondamental.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_10">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Par dérogation à l’article 4 de la présente loi, les maîtresses de jardin d’enfants en service auprès des communes en qualité de fonctionnaires communales continuent à être habilitées à enseigner au premier cycle d’apprentissage et restent affectées à la commune auprès de laquelle elles étaient engagées au moment de l’entrée en vigueur de la présente loi.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_42">
+					<num>Art. 42.</num>
+					<alinea>
+						<content>
+							<p>Les détenteurs d’un brevet d’aptitude pédagogique délivré par l’Institut pédagogique, les détenteurs d’un certificat d’études pédagogiques délivré avant l’année scolaire 1994/1995 par l’Institut supérieur d’études et de recherches pédagogiques, <i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="d829c522-eb7c-41bf-b3bf-1fa200b5aba3">Loi du 18 juillet 2013</ref>)</i> «ainsi que les candidats ayant passé avec succès le concours réglant l’accès à la fonction d’instituteur avant le 1<sup>er</sup> septembre 2009 et qui ne sont pas nommés à la fonction au moment de» l’entrée en vigueur de la présente loi, sont dispensés du concours mentionné à l’article 5. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Par dérogation à l’article 5, alinéa 3 et suite à leur demande adressée au ministre, ils sont nommés à la fonction d’instituteur.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Par dérogation à l’article 8, alinéa 2, ils sont classés par ordre décroissant d’âge devant les instituteurs nouvellement admis pendant l’année en cours. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Leur affectation à une commune, une école ou classe de l’État se fait selon les règles tracées à l’article 9, paragraphe 2.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>(…) <i>(abrogé par la <ref href="/eli/etat/leg/loi/2011/03/12/n6/jo" id="95871ab7-07ef-4bf4-bba2-a401f54fcd3a">loi du 12 mars 2011</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_43">
+					<num>Art. 43.</num>
+					<paragraph id="paragraph_11">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p> Par dérogation à l’article 4, alinéa 3, les instituteurs d’enseignement spécial en service à l’entrée en vigueur de la présente loi continuent à bénéficier d’une tâche d’enseignement direct de vingt et une leçons hebdomadaires.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_12">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Par dérogation à l’article 4, alinéa 5, les instituteurs qui au moment de l’entrée en vigueur de la présente loi bénéficient de deux leçons de décharge pour ancienneté se voient accorder une troisième leçon de décharge pour ancienneté jusqu’à cinquante-cinq années d’âge.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="7ac1ed5e-4bf2-4219-9bb0-41fc45e53c22">Loi du 18 juillet 2013</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_44">
+					<num>«Art. 44.</num>
+					<paragraph id="paragraph_13">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Les employés communaux et les salariés au service des communes faisant partie des carrières définies à l’article 2 ci-dessus, paragraphe 3, points I et II à l’exception des agents des carrières du rédacteur et de l’expéditionnaire, en service, en congé parental ou en congé sans traitement auprès des écoles d’une commune ou d’un syndicat de communes à l’entrée en vigueur de la présente loi, peuvent opter jusqu’au début de l’année scolaire 2016/2017 au plus tard d’être engagés par l’État sous le régime de l’employé de l’État, sous réserve de leur admissibilité à ce régime.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_14">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Les fonctionnaires communaux, faisant partie de l’une des carrières définies à l’article 2 ci-dessus, paragraphe 3, points I et II à l’exception des agents des carrières du rédacteur et de l’expéditionnaire, en service, en congé parental ou en congé sans traitement auprès des écoles d’une commune ou d’un syndicat de communes à l’entrée en vigueur de la présente loi, peuvent opter jusqu’au début de l’année scolaire 2016/2017 d’être engagés par l’État sous le statut du fonctionnaire de l’État, sous réserve de remplir les conditions d’admission à ce statut ainsi que les conditions d’admission et de formation exigées pour la carrière correspondante au niveau des fonctionnaires de l’État. </p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_15">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Les carrières de tous les agents, mentionnés ci-dessus aux paragraphes (1) et (2), ainsi repris sont reconstituées d’après les modalités définies par la <ref href="/eli/etat/leg/trep/1989/06/07/n10/jo" id="a1697699-c3f5-4131-b58b-f3cf7ea26d30">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, respectivement par la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="d4a315a4-876f-4466-8232-bf920ec0e898">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État. Il leur est tenu compte du temps passé au service de l’enseignement public dans les conditions de l’article 7 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="6cca76be-5595-4442-bcfb-f155bf43428c">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, à l’exception des dispositions du paragraphe 6, alinéa 1<sup>er</sup> et alinéa 2, première phrase.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_16">
+						<num>(4)</num>
+						<alinea>
+							<content>
+								<p>Les fonctionnaires communaux, les employés communaux ainsi que les salariés au service des communes, faisant partie soit des carrières définies à l’article 2 ci-dessus, paragraphe 3, point I, soit des carrières de l’éducateur gradué et de l’éducateur énumérées ci-dessus à l’article 2, paragraphe 3, point II, en service, en congé parental ou en congé sans traitement auprès des écoles d’une commune ou d’un syndicat de communes à l’entrée en vigueur de la présente loi, ayant opté d’être engagés par l’État, sont affectés à la commune auprès de laquelle ils étaient engagés au moment de l’entrée en vigueur de la présente loi, à moins qu’ils ne présentent une demande de réaffectation au ministre.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_17">
+						<num>(5)</num>
+						<alinea>
+							<content>
+								<p>Les modalités de la procédure de reprise ainsi que les modalités d’affectation et de réaffectation des agents mentionnés aux paragraphes 1<sup>er</sup> et 2 ci-dessus sont déterminées par règlement grand-ducal.» </p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_45">
+					<num>Art. 45.</num>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="849789e8-f4cd-47d2-a5f1-b06f7ed30722">Loi du 18 juillet 2013</ref>)</i> «Peuvent intervenir dans l’enseignement fondamental les chargés de cours bénéficiant d’un contrat à durée indéterminée auprès d’une administration communale ainsi que les fonctionnaires communaux, les employés communaux et les salariés des communes faisant partie des carrières définies à l’article 2 ci-dessus, paragraphe 3, points I et II à l’exception des agents des carrières du rédacteur et de l’expéditionnaire, en service auprès des écoles d’une commune ou d’un syndicat de communes à l’entrée en vigueur de la présente loi, suivant convention à établir par l’Etat avec les communes respectives.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2010/03/02/n2/jo" id="5b3069b1-c5a3-4526-81ea-67b8b387dc8e">Loi du 2 mars 2010</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Les modalités du calcul des frais de personnel à charge de l’État sont fixées par règlement grand-ducal sous réserve que la part de l’État ne peut pas dépasser le montant qui résulterait de l’application à ces agents de la législation applicable aux fonctionnaires et employés de l’État, sans que pour autant ce montant ne puisse dépasser le montant des frais de personnel correspondant à charge des communes.»</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2010/03/02/n2/jo" id="64487a78-3d4a-4e13-80c2-cca3c853d1e7">Loi du 2 mars 2010</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Par dérogation à ce qui précède, le calcul des frais de personnel à charge de l’État prend en compte également, pour les fonctionnaires communaux et les employés communaux qui ont droit à l’application du régime de pension des fonctionnaires communaux, la contribution annuelle du montant des traitements et autres allocations computables pour la pension telle que cette contribution annuelle est définie à l’article 25 premier point de la <ref href="/eli/etat/leg/loi/1912/08/07/n2/jo" id="597a1d3b-0b4c-4932-89f0-e7162006a903">loi modifiée du 7 août 1912</ref> concernant la création d’une caisse de prévoyance pour les fonctionnaires et employés des communes et établissements publics.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Le personnel mentionné ci-dessus, habilité à effectuer des remplacements dans l’enseignement fondamental, ne peut occuper un poste vacant d’instituteur à partir de la deuxième liste des postes vacants que dans l’hypothèse où aucune candidature d’un instituteur ou d’un membre de la réserve des suppléants n’a été introduite et sous condition de l’avis favorable de l’inspecteur.»</p>
+						</content>
+					</alinea>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="00a680ad-01f7-400c-b986-bc4424d45503">Loi du 18 juillet 2013</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_45bis">
+					<num>«Art. 45<i>bis</i>.</num>
+					<alinea>
+						<content>
+							<p>Dans l’enseignement fondamental, le cours de natation est assuré par le titulaire de classe ou son remplaçant, conformément aux dispositions de l’organisation scolaire communale.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans le cadre de l’organisation des cours de natation, la commune siège d’une piscine peut recourir aux services d’instructeurs de natation pour assister des titulaires de classe ou leurs remplaçants lors de l’instruction d’élèves non nageurs.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Un règlement grand-ducal détermine le taux de participation de l’Etat aux frais des prestations de services fournies par les instructeurs de natation dans le cadre de l’assistance aux titulaires de classe de l’enseignement fondamental ou à leurs remplaçants ainsi que les modalités de remboursement des frais par l’Etat à la commune siège.»</p>
+						</content>
+					</alinea>
+				</article>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="/eli/etat/leg/loi/2011/03/12/n6/jo" id="1cf2f737-dc85-487b-9e6e-cdf85c9db9ec">Loi du 12 mars 2011</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<article id="art_46">
+					<num>«Art. 46.</num>
+					<alinea>
+						<content>
+							<p>Par dérogation aux articles 5 et 6 ci-dessus, peut être admis au concours réglant l’accès à la fonction d’instituteur et être nommé à la fonction d’instituteur, dans la limite du nombre de postes répondant à la qualification respective arrêté par le Gouvernement en conseil conformément aux dispositions de l’article 33 ci-dessus, à condition de s’être classé en rang utile à l’issue de ce concours:</p>
+							<ol scl:start="1" scl:symbol="1.">
+								<li>le détenteur du certificat d’études pédagogiques, option éducation préscolaire, délivré à partir de l’année scolaire 1994/1995 et jusqu’à l’issue de l’année académique 2007/2008;</li>
+								<li>le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur habilité à enseigner au premier cycle d’apprentissage de l’enseignement fondamental, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles, délivré avant le 15 septembre 2014;</li>
+								<li>le détenteur du certificat d’études pédagogiques, option enseignement primaire, délivré à partir de l’année scolaire 1994/1995 et jusqu’à l’issue de l’année académique 2007/2008;</li>
+								<li>le détenteur d’un diplôme étranger d’études supérieures préparant à la profession d’instituteur habilité à enseigner aux deuxième, troisième et quatrième cycles d’apprentissage de l’enseignement fondamental, conforme aux dispositions des directives CE relatives à la reconnaissance des qualifications professionnelles, délivré avant le 15 septembre 2014.</li>
+							</ol>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les instituteurs visés aux points 1 et 2 sont habilités à enseigner au premier cycle d’apprentissage.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les instituteurs visés aux points 3 et 4 sont habilités à enseigner aux deuxième, troisième et quatrième cycles d’apprentissage.» </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_47">
+					<num>Art. 47.</num>
+					<alinea>
+						<content>
+							<p>Les membres de la réserve de suppléants ayant suivi la formation préparant à assurer des remplacements dans l’éducation préscolaire avant l’entrée en vigueur de la présente loi sont habilités à assurer des remplacements au premier cycle d’apprentissage.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Les membres de la réserve de suppléants ayant suivi la formation préparant à assurer des remplacements dans l’enseignement primaire avant l’entrée en vigueur de la présente loi sont habilités à assurer des remplacements aux deuxième, troisième et quatrième cycles d’apprentissage.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_48">
+					<num>Art. 48.</num>
+					<alinea>
+						<content>
+							<p>Les communes organisant des classes d’éducation précoce qui, au moment de l’entrée en vigueur de la présente loi, ne sont pas encadrées conformément à l’article 4, alinéa 2, adapteront l’encadrement de ces classes conformément aux dispositions prescrites par la loi pendant une période transitoire de cinq ans au maximum.</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_49">
+					<num>Art. 49.</num>
+					<paragraph id="paragraph_18">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Le Gouvernement est autorisé à procéder pour l’année scolaire 2009/2010 aux engagements à titre permanent suivants: </p>
+								<ol scl:start="1" scl:symbol="1.">
+									<li>huit inspecteurs de l’enseignement fondamental; </li>
+									<li>quinze éducateurs gradués;</li>
+									<li>trente-cinq éducateurs. </li>
+								</ol>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_19">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Par dérogation aux dispositions des articles 32 et 33 de la présente loi, le Gouvernement est autorisé à procéder pour l’année scolaire 2009/2010 à l’engagement à titre permanent de deux cent quatre-vingt-cinq instituteurs.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_20">
+						<num>(3)</num>
+						<alinea>
+							<content>
+								<p>Les engagements définitifs au service de l’État résultant des dispositions ci-dessus dépassant le nombre des postes vacants par les agents ayant quitté le service se font par dépassement de l’effectif total du personnel et en dehors du nombre des engagements de renforcement déterminés dans la <ref href="/eli/etat/leg/loi/2008/12/19/n2/jo" id="c04e8d68-3880-409a-81f1-7017c0f05ac9">loi</ref> concernant le budget des recettes et des dépenses de l’État pour l’exercice 2009.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_50">
+					<num>Art. 50.</num>
+					<alinea>
+						<content>
+							<p>Pour la gestion du cadre du personnel de l’enseignement fondamental, le Gouvernement est autorisé à procéder à l’engagement à titre permanent de trente-cinq agents des carrières supérieures ou moyennes de l’État sous le statut de fonctionnaire ou d’employé de l’État pour les besoins de l’Administration gouvernementale, ainsi que pour les bureaux national et régionaux de l’inspectorat. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Ces engagements définitifs au service de l’État se font par dépassement de l’effectif total du personnel et en dehors du nombre des engagements de renforcement déterminé par la loi concernant le budget des recettes et dépenses de l’État pour l’exercice en question. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_51">
+					<num>Art. 51.</num>
+					<paragraph id="paragraph_21">
+						<num>a)</num>
+						<alinea>
+							<content>
+								<p>Les agents relevant des carrières reclassées en vertu de la présente loi, en service, en congé parental ou en congé sans traitement au moment de l’entrée en vigueur de la même loi et classés aux grades E3, E3<i>ter</i> et E4 accèdent au grade E5 par substitution.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La substitution est obtenue en remplaçant les indices des grades E3, E3ter et E4 du tableau indiciaire «IV – Enseignement» de l’annexe C de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="69830699-edf1-43e6-bbe5-de31c6990304">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État par l’indice du grade E5 correspondant au même numéro d’échelon, diminué d’un échelon dans le nouveau grade. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Par dérogation aux dispositions qui précèdent, et pour les agents rémunérés au moment de l’entrée en vigueur de la présente loi au grade E3 sur base de l’échelon quatre (indice 220), l’échelon cinq (indice 232) et l’échelon six (indice 247), la substitution se fait au grade E5, aux échelons respectifs, échelon deux (indice 266), échelon trois (indice 278) et échelon quatre (indice 293).</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Toutefois, une majoration de l’indice jusqu’à concurrence du dernier échelon (indice 480) du grade E5 est accordée sur base de l’article 4 de la loi précitée dans le nouveau grade aux agents bénéficiant d’une telle majoration de l’indice au moment de l’entrée en vigueur de la présente loi. La présente disposition ne porte pas préjudice aux droits de l’agent de continuer à bénéficier des échelons et majorations de l’indice subséquents dans son nouveau grade jusqu’à concurrence du dernier échelon (indice 480) du grade E5, conformément à l’article 4 précité.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_22">
+						<num>b)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés bénéficient d’un premier avancement de deux échelons supplémentaires sur base de l’article 8, section III de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="c2ef00f0-353e-4b4d-8211-426f4d19d128">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires après trois ans de bons et loyaux services depuis leur nomination au grade E3, E3<i>ter</i>, E4 ou E5 et passés dans l’un ou l’autre de ces grades.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_23">
+						<num>c)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés, qui au moment de l’entrée en vigueur de la présente loi peuvent se prévaloir de moins de dix ans de bons et loyaux services depuis leur nomination au grade E3, E3<i>ter</i> ou E4, ou à l’un ou l’autre de ces grades, bénéficieront d’un second avancement en traitement de deux échelons supplémentaires calculé sur base de la section V de l’article 8 précité, au fur et à mesure qu’ils rempliront après l’entrée en vigueur de la présente disposition la condition d’avoir accompli dix ans de bons et loyaux services passés depuis leur nomination au grade E3, E3<i>ter</i>, E4 ou E5, ou à l’un ou l’autre de ces grades.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les dispositions inscrites à l’article 8, section V de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="2a4209a2-fc78-4ef8-9f91-b53196acadb4">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État ne sont pas applicables aux agents reclassés.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_24">
+						<num>d)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés bénéficient d’une prime pensionnable de douze points indiciaires après dix ans de bons et loyaux services passés depuis leur nomination au grade E3, E3<i>ter</i>, E4 ou E5, ou à l’un ou l’autre de ces grades, en application de l’article 20 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="6b2f7b74-3035-40e0-9dd7-0c197dc35f4d">loi</ref> précitée.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_25">
+						<num>e)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés au grade E5 peuvent accéder au grade de substitution E5<i>bis</i> de leur carrière, conformément à l’article 22, section VIII a) et b) de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="c36f01d1-2584-4fc4-ba06-a402f937d940">loi</ref> précitée.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_26">
+						<num>f)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés ne bénéficient plus des primes pensionnables de douze et quinze points indiciaires jusqu’ici accordées sur base de l’article 20, section I de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="027efd1a-b604-4d79-adc6-972757cd6a94">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, primes abolies en vertu de la présente loi.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_27">
+						<num>g)</num>
+						<alinea>
+							<content>
+								<p> Les agents reclassés ne bénéficient plus de l’augmentation d’échelons de quatre points indiciaires jusqu’ici accordée sur base de l’article 22, section V, point 4° de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="e4614ee1-ae6c-4f38-8b35-cfcce0937f0f">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, augmentation d’échelons supprimée en vertu de la présente loi.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_28">
+						<num>h)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés au grade E5, à l’échelon seize (indice 480) et classés au moment de l’entrée en vigueur de la présente loi à l’échelon dix-sept du grade E3 (indice 385), du grade E3<i>ter</i> (indice 424) et du grade E4 (indice 441), ou bénéficiaires d’une majoration de l’indice correspondante accordée sur base de l’article 4 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="374ce416-5a5f-4f13-8f49-de978ef56d4c">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, bénéficient d’un supplément de traitement pensionnable de vingt points indiciaires après deux ans de bons et loyaux services passés au grade E5, à l’échelon seize (indice 480).</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_29">
+						<num>i)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés au grade E5, à l’échelon seize (indice 480) et classés au moment de l’entrée en vigueur de la présente loi aux échelons dix-huit, dix-neuf ou vingt du grade E3 (indice 400), du grade E3<i>ter </i>(indices 439 et 450) et du grade E4 (indices 453, 465 et 475), ou bénéficiaires d’une majoration de l’indice correspondante accordée sur base de l’article 4 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="e007b627-44e7-4a49-875b-661595594cf7">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, bénéficient du supplément de traitement pensionnable de vingt points indiciaires à partir de l’entrée en vigueur de la présente loi.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_30">
+						<num>j)</num>
+						<alinea>
+							<content>
+								<p>Les agents reclassés au grade E5 à des échelons inférieurs à l’échelon seize de ce grade (indice 480), ou bénéficiaires d’une majoration de l’indice accordée sur base de l’article 4 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="16fff4fe-91a7-4157-841e-80c3b8fac958">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État et inférieure en valeur à cet échelon seize du grade E5, bénéficient du supplément de traitement pensionnable de vingt points indiciaires après deux ans de bons et loyaux services passés au grade E5, à l’échelon seize (indice 480). </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Le supplément de traitement pensionnable de vingt points indiciaires accordé dans les conditions définies aux points h), i) et j) ci-dessus n’est plus dû en cas de classement de l’agent à un échelon autre que l’échelon seize (indice 480) du grade E5.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Par dérogation à l’article 29<i>ter</i> de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="c9a9032c-fae7-4efe-9bbb-7c959c1cc6c6">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, le même supplément de traitement pensionnable de vingt points indiciaires est pris en compte comme élément faisant partie du traitement de base pour la détermination de l’allocation de fin d’année accordée sur base de ce même article.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_31">
+						<num>k)</num>
+						<alinea>
+							<content>
+								<p>A l’égard des fonctionnaires relevant du régime spécial transitoire, démissionnés ou démissionnaires endéans une période transitoire de cinq années à compter depuis l’entrée en vigueur de la présente loi, l’application de l’article 13 de la <ref href="/eli/etat/leg/loi/1954/05/26/n2/jo" id="a6376446-4193-44f6-a8aa-e9101ef94720">loi modifiée du 26 mai 1954</ref> réglant les pensions des fonctionnaires de l’État se fait sur la base de la rémunération établie conformément aux anciennes dispositions qui continuent de sortir leurs effets jusqu’au terme de cette période transitoire.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>La rémunération ainsi établie est augmentée, dans le respect des dispositions de l’article 14 de la <ref href="/eli/etat/leg/loi/1954/05/26/n2/jo" id="1515ccf2-104f-4162-8ccb-d9fab141f4b0">loi</ref> précitée, d’autant de soixantièmes de la différence entre ce montant et la rémunération établie conformément aux présentes dispositions transitoires sous a) - j) que l’intéressé a presté de mois de services depuis ladite entrée en vigueur. La différence est arrêtée le premier jour du mois au courant duquel la démission intervient et les mois de service sont comptabilisés pour un mois entier, indépendamment de la tâche exercée.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Pour l’application de l’article 45 de la <ref href="/eli/etat/leg/loi/1954/05/26/n2/jo" id="503c2962-4eba-43d3-8428-ae27e65bbf79">loi</ref> précitée, ainsi que des articles 60 et 61 de la <ref href="/eli/etat/leg/loi/1998/08/03/n10/jo" id="96811931-6f63-4605-82bd-fa5bf449b186">loi modifiée du 3 août 1998</ref> instituant des régimes de pension spéciaux pour les fonctionnaires de l’État et des communes ainsi que pour les agents de la Société nationale des Chemins de Fer luxembourgeois et de l’article 29<i>bis</i> sous 2., alinéa 1 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="87658ed9-3c17-41e8-8e35-5fb9bca44aa2">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, la rémunération à prendre en compte correspond au traitement y défini établi sur la base des dispositions transitoires qui précèdent.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>L’application de l’alinéa 3 de l’article 29<i>bis</i> sous 4. de la loi précitée se fait dans le respect des deux premiers alinéas du présent article.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Par dérogation à l’article 1<sup>er</sup>, dernier alinéa de la <ref href="/eli/etat/leg/tc/2000/02/23/n3/jo" id="7f0c6211-21c7-465c-a048-4c3302483067">loi modifiée du 22 juin 1963</ref> portant fixation de la valeur numérique des traitements des fonctionnaires de l’État ainsi que des modalités de mise en vigueur de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="9a2b8e5e-cbda-4765-8fa9-b045fc0d274c">loi du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, est applicable au montant différentiel dont question à l’alinéa 2 qui précède la valeur du point indiciaire y fixée au point A).</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les dispositions qui précèdent sont applicables, par analogie, aux fonctionnaires dont l’entrée en service ou la fin du congé sans traitement et la reprise consécutive du service se situent après l’entrée en vigueur de la présente loi. A cet effet, le début de la période transitoire coïncide avec le premier jour du mois respectivement de l’entrée en service et de sa reprise. Si la période transitoire est interrompue par une ou plusieurs périodes d’absence de service, elle est étendue pour autant.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Pour l’application des dispositions qui précèdent, les congés énumérés à l’article 28 de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="0f23581a-319b-4369-a398-32486eaf7110">loi modifiée du 16 avril 1979</ref> fixant le statut des fonctionnaires de l’État, hormis les congés sans traitement visés à l’article 30 paragraphe 2 de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="25d09ab4-0b60-4fb9-8e1d-6edfbd668886">loi</ref> précitée, comptent comme périodes de service effectives.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les dispositions qui précèdent cessent de sortir leurs effets dix ans après l’entrée en vigueur de la présente loi.</p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Les pensions en cours à la date de l’entrée en vigueur de la présente loi et calculées sur base des dispositions abrogées restent acquises. Il en est de même des droits à pension réalisés à cette date alors même que l’échéance y relative n’est pas encore intervenue.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_52">
+					<num>Art. 52.</num>
+					<paragraph id="paragraph_32">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>Sont repris dans la réserve prévue à l’article 15, les agents faisant partie au moment de l’entrée en vigueur de la présente loi de la réserve de suppléants créée par la <ref href="/eli/etat/leg/loi/2002/07/25/n3/jo" id="0fb65d1b-f1be-4241-a495-2a03eb990b1f">loi modifiée du 25 juillet 2002</ref> concernant le remplacement des instituteurs de l’éducation préscolaire et de l’enseignement primaire.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_33">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>Peuvent être repris dans la réserve <i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="d26b9cfb-4a6c-4164-95fb-5505a37c5df3">Loi du 18 juillet 2013</ref>)</i> «jusqu’au début de l’année scolaire 2016/2017 au plus tard» les chargés de cours à tâche complète ou partielle, en service auprès des écoles à l’entrée en vigueur de la présente loi, bénéficiant d’un contrat à durée indéterminée auprès d’une administration communale, le cas échéant par dérogation aux dispositions de l’alinéa 2 de l’article 17 et de l’article 18 ci-dessus. Ils occuperont un des postes définis à l’article 16, point 7 ci-dessus, et bénéficieront d’un contrat à durée indéterminée en qualité d’employé de l’État. </p>
+							</content>
+						</alinea>
+						<alinea>
+							<content>
+								<p>Ces agents sont classés au grade E2, tel que déterminé par la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="6d07a23e-2bf5-4105-8fa9-8f3031a34c2c">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, à condition d’être détenteurs d’un diplôme luxembourgeois de fin d’études secondaires ou d’un diplôme luxembourgeois de fin d’études secondaires techniques ou d’un diplôme reconnu équivalent par le ministre; à défaut d’être détenteurs d’un des diplômes définis ci-dessus, ils sont classés au grade E1.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_53">
+					<num>Art. 53.</num>
+					<alinea>
+						<content>
+							<p>Pour les agents repris dans le cadre de la présente loi, <i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="e002860c-c4bd-4eba-a6e3-afd17861f55f">Loi du 18 juillet 2013</ref>)</i> «définis à l’article 2, paragraphe 3, point I, à l’exception des instituteurs, et point II, à l’exception des agents des carrières du rédacteur et de l’expéditionnaire» et à l’article 52, paragraphe 2 ci-dessus, l’aptitude prévue par l’article 2, paragraphe 1<sup>er</sup>, point d) de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="c19724ae-3e5f-4267-9ea9-e701ee9036c1">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’État, respectivement par l’article 3, point d) de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="a693261d-31f2-43b8-9cd6-101f6cca9849">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État, est constatée par validation implicite du certificat médical ayant constaté la même aptitude dans le cadre de leur engagement auprès de la commune respective avant la reprise. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Dans tous les cas, la validité des certificats médicaux ne peut être supérieure à trois ans au moment de l’entrée en vigueur de la présente loi.</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>Pour tous les autres agents non couverts par les dispositions de l’alinéa premier ci-dessus, l’aptitude prévue par l’article 2, paragraphe 1<sup>er</sup>, point d) de la <ref href="/eli/etat/leg/loi/1979/04/16/n1/jo" id="84247e2f-66c0-487a-8259-51f653dcf6fa">loi modifiée du 16 avril 1979</ref> fixant le statut général des fonctionnaires de l’État, respectivement par l’article 3, point d) de la <ref href="/eli/etat/leg/loi/1972/01/27/n2/jo" id="db22f666-6ec3-47d0-a7e0-34161289c362">loi modifiée du 27 janvier 1972</ref> fixant le régime des employés de l’État, doit être constatée au cours d’une période de cinq ans à partir de l’entrée en vigueur de la présente loi. </p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_54">
+					<num>Art. 54.</num>
+					<alinea>
+						<content>
+							<p>Les chargés de cours, membres de la réserve de suppléants créée par la <ref href="/eli/etat/leg/loi/2002/07/25/n3/jo" id="07b9cdbc-ecf9-42e3-b7df-66d4804997f6">loi modifiée du 25 juillet 2002</ref> concernant le remplacement des instituteurs de l’éducation préscolaire et de l’enseignement primaire, qui ont été nommés aux fonctions d’instituteur de l’éducation préscolaire ou de l’enseignement primaire après avoir obtenu le certificat d’études pédagogiques (CEP) pendant les années académiques 2005/06, 2006/07 et 2007/08, bénéficient d’une reconstitution de carrière. Il leur est tenu compte du temps passé au service de l’enseignement public dans les conditions de l’article 7 de la <ref href="/eli/etat/leg/loi/1963/06/22/n1/jo" id="10c93968-4a5e-4074-a11e-5e36aa83389c">loi modifiée du 22 juin 1963</ref> fixant le régime des traitements des fonctionnaires de l’État, à l’exception des dispositions du paragraphe 6, alinéa 1 et alinéa 2, première phrase. </p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>
+								<i>(<ref href="/eli/etat/leg/loi/2013/07/18/n3/jo" id="fd59cfa9-02c9-4b7d-aff6-59e4f5b9ab5c">Loi du 18 juillet 2013</ref>)</i>
+							</p>
+						</content>
+					</alinea>
+					<alinea>
+						<content>
+							<p>«Les dispositions arrêtées dans l’alinéa précédent sont également applicables aux instituteurs de l’éducation préscolaire et de l’enseignement primaire qui ont été nommés aux fonctions d’instituteur de l’éducation préscolaire ou de l’enseignement primaire après avoir obtenu le certificat d’études pédagogiques (CEP) pendant les années académiques 2005/06, 2006/07 et 2007/08 et qui, avant leur nomination de fonctionnaire, bénéficiaient d’un engagement comme chargé de cours auprès d’une commune en qualité d’employé communal ou de salarié au service de la commune.»</p>
+						</content>
+					</alinea>
+				</article>
+				<article id="art_55">
+					<num>Art. 55.</num>
+					<paragraph id="paragraph_34">
+						<num>(1)</num>
+						<alinea>
+							<content>
+								<p>La <ref href="/eli/etat/leg/loi/2002/07/25/n3/jo" id="e2ef707c-fc40-4500-922a-8b6af31ec688">loi modifiée du 25 juillet 2002</ref> concernant le remplacement des instituteurs de l’éducation préscolaire et de l’enseignement primaire est abrogée.</p>
+							</content>
+						</alinea>
+					</paragraph>
+					<paragraph id="paragraph_35">
+						<num>(2)</num>
+						<alinea>
+							<content>
+								<p>La présente loi abroge et modifie le cas échéant toutes les dispositions qui lui sont contraires contenues dans d’autres lois, notamment les dispositions selon lesquelles les instituteurs sont classés dans la carrière moyenne de l’enseignement en les reclassant dans la carrière supérieure de l’enseignement.</p>
+							</content>
+						</alinea>
+					</paragraph>
+				</article>
+				<article id="art_56">
+					<num>Art. 56.</num>
+					<alinea>
+						<content>
+							<p>La présente loi entre en vigueur au début de l’année scolaire 2009/2010 à l’exception des articles 5, 6, 7, 8, 9, 10, 11 et 16, alinéas 2, 3 et 4, ainsi que des articles 42, 46, 49 et 50 qui entrent en vigueur le jour de la publication au Mémorial. </p>
+						</content>
+					</alinea>
+				</article>
+			</chapter>
+		</body>
+	</act>
+</akomaNtoso>

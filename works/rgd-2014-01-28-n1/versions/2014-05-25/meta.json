@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/05/2014 : R\u00E8glement grand-ducal du 28 janvier 2014 fixant au 25 mai 2014 la date des op\u00E9rations \u00E9lectorales concernant le Parlement europ\u00E9en.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/consolide/20140525/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b4db7525100db77c559e5d4f50a2b61eedda57633862d3485c10f8f0c98c0c62",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/consolide/20140525/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/28/n1/consolide/20140525/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1a0b502aa192d41131b8e0dbff3616534e7cf79f7362f6d3d40350f1b0f90de5"
+  "record_sha256": "01f8f58d7cc8c1e40c9e44f096c197b9b7aec95fdbf215b42bcd683b042b5b60"
 }

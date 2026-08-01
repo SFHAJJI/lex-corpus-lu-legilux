@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/08/2002 : Loi du 29 mai 1906 sur les habitations \u00E0 bon march\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/20020805/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ab188b41416d021c568348367a44a897a6f8ed7739f052a955780b68d6f5d18e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/20020805/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1906/05/29/n4/consolide/20020805/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "346c4e54c3df5509918a8d4816c54a7c91a524890dbdf1d0455442a53d6740c2"
+  "record_sha256": "1377fe2423a6b83ff29ac3140eeb7c1250206aae8740666ed25500d68b78048a"
 }

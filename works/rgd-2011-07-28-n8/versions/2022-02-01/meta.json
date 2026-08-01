@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/02/2022 : R\u00E8glement grand-ducal du 28 juillet 2011 d\u00E9terminant le mod\u00E8le du permis de chasser annuel, du permis de service et du permis d\u0027invit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/28/n8/consolide/20220201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "87405c74366e6900626b32fc49109b5e89cb4a1baee407373d7ec335d2c7c93f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/28/n8/consolide/20220201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/28/n8/consolide/20220201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7884402dbecaafec5cd93689709582511f0487d0f82cea080cf854a4f3d8f24e"
+  "record_sha256": "f1b678139c547ebd365f6e73ae084dbc0d04981ef0d917aad8cf41cebd9c6cef"
 }

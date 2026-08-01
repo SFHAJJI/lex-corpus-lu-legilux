@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 15/09/2017 : Loi du 22 juin 2017 ayant pour objet l\u2019organisation de la Maison de l\u2019orientation et modifiant\\n1) la loi modifi\u00E9e du 13 juillet 2006 portant r\u00E9organisation du Centre de psychologie et d\u2019orientation scolaires,\\n2) la loi modifi\u00E9e du 25 juin 2004 portant organisation des lyc\u00E9es et lyc\u00E9es techniques,\\n3) la loi modifi\u00E9e du 10 mai 1968 portant r\u00E9forme de l\u2019enseignement (Titre VI: De l\u2019enseignement secondaire),\\n4) la loi modifi\u00E9e du 14 mars 1973 portant cr\u00E9ation d\u2019instituts et de services d\u2019\u00E9ducation diff\u00E9renci\u00E9e,\\n5) la loi modifi\u00E9e du 2 d\u00E9cembre 1987 portant r\u00E9glementation de la m\u00E9decine scolaire,\\n6) la loi modifi\u00E9e du 4 septembre 1990 portant r\u00E9forme de l\u2019enseignement secondaire technique et de la formation professionnelle continue,\\n7) la loi modifi\u00E9e du 25 juillet 2005 portant cr\u00E9ation d\u2019un lyc\u00E9e-pilote,\\n8) la loi modifi\u00E9e du 19 d\u00E9cembre 2008 portant r\u00E9forme de la formation professionnelle,\\n9) la loi modifi\u00E9e du 6 f\u00E9vrier 2009 portant organisation de l\u2019enseignement fondamental,\\n10) la loi modifi\u00E9e du 15 juillet 2011 visant l\u2019acc\u00E8s aux qualifications scolaires et professionnelles des \u00E9l\u00E8ves \u00E0 besoins \u00E9ducatifs particuliers,\\n11) la loi du 21 juillet 2012 portant cr\u00E9ation du Sportlyc\u00E9e,\\n12) la loi modifi\u00E9e du 30 juillet 2015 portant cr\u00E9ation d\u2019un Institut de formation de l\u2019\u00E9ducation nationale,\\n13) l\u2019article L.622-18 du Code du travail.",
       "title_short": "Loi du 22 juin 2017 ayant pour objet l\u2019organisation de la Maison de l\u2019orientation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/06/22/a605/consolide/20170915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e1edfa2c00bc806f62c5afbc55cdf44ccad1b0e683e7c4b2ef43a2dc6f11647c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/06/22/a605/consolide/20170915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/06/22/a605/consolide/20170915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e5cb71204eee46ffbba22e86d03377c4e07a294bfff602646456bb7c3171b394"
+  "record_sha256": "edf9a1885f7f553b9ae872c249464c9711214f9d321778d86687bc72adedc704"
 }

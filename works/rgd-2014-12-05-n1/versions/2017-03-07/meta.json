@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/03/2017 : R\u00E8glement grand-ducal du 5 d\u00E9cembre 2014 portant fixation des d\u00E9rogations pour op\u00E9rations sp\u00E9ciales concernant les activit\u00E9s d\u2019int\u00E9r\u00EAt public dans le cadre de l\u2019application du r\u00E8glement d\u2019ex\u00E9cution (UE) n\u00B0 923/2012 de la Commission du 26 septembre 2012 \u00E9tablissant les r\u00E8gles de l\u2019air communes au niveau europ\u00E9en (r\u00E8glement europ\u00E9en SERA).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/12/05/n1/consolide/20170307/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cc8d6af2404c5c16dc8ee71ca360c58d634c0e6d30f87326cb2c63e3682d1cd6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/12/05/n1/consolide/20170307/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/12/05/n1/consolide/20170307/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "efb58da81f783b3b8420795f07172a1f1ee285848a24201aaa48049f2758afc3"
+  "record_sha256": "2f38c2d58ea7f11e966c8b2833143fdd0682f064b0f2e1dfa1ec1410bacec551"
 }

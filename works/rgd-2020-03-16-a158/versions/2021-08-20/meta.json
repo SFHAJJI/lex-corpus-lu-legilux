@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/08/2021 : R\u00E8glement grand-ducal du 16 mars 2020 fixant les modalit\u00E9s d\u2019application de l\u2019indemnit\u00E9 compensatoire annuelle \u00E0 allouer aux agriculteurs dans les zones soumises \u00E0 des contraintes naturelles ou \u00E0 d\u2019autres contraintes sp\u00E9cifiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a158/consolide/20210820/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8ceb6a793e546d646d1e231ae72f9f5413310f30161cc1a812334f52aff118fe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a158/consolide/20210820/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/16/a158/consolide/20210820/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3541109cf2d8c407b9a8a164099413026802ecddd5d6b9574f154e5703dbcc74"
+  "record_sha256": "c5108f27a02ef0b0e054203d3ffc325f11eaf18b4c30508df14a3c15ff0b89e7"
 }

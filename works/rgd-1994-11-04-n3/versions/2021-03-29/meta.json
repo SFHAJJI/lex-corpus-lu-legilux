@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/03/2021 : R\u00E8glement grand-ducal du 4 novembre 1994 concernant les prescriptions minimales de s\u00E9curit\u00E9 et de sant\u00E9 pour l\u0027utilisation par les travailleurs au travail d\u0027\u00E9quipements de protection individuelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n3/consolide/20210329/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5ebcd7bccec00b06ca0cde0fd86edefc7cb26ba2fad7b90f68af5a61f74c69d9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n3/consolide/20210329/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1994/11/04/n3/consolide/20210329/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3b57c671f036710f224374cdb35cb276ea572edeb575b84a405e0ee95840f33e"
+  "record_sha256": "d586bb9488655b0365d5aa5eb322a4bc2744a17c1f88c8421d2b604a746f910c"
 }

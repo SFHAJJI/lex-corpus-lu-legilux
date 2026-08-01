@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 10/05/2026 : Loi du 18 d\u00E9cembre 2015 relative aux mesures de r\u00E9solution, d\u2019assainissement et de liquidation des \u00E9tablissements de cr\u00E9dit et de certaines entreprises d\u2019investissement ainsi qu\u2019aux syst\u00E8mes de garantie des d\u00E9p\u00F4ts et d\u2019indemnisation des investisseurs, portant: \\n1. transposition de la directive 2014/59/UE du Parlement europ\u00E9en et du Conseil du 15 mai 2014 \u00E9tablissant un cadre pour le redressement et la r\u00E9solution des \u00E9tablissements de cr\u00E9dit et des entreprises d\u2019investissement et modifiant la directive 82/891/CEE du Conseil ainsi que les directives du Parlement europ\u00E9en et du Conseil 2001/24/CE, 2002/47/CE, 2004/25/CE, 2005/56/CE, 2007/36/CE, 2011/35/UE, 2012/30/UE et 2013/36/UE et les r\u00E8glements du Parlement europ\u00E9en et du Conseil (UE) n\u00B0 1093/2010 et (UE) n\u00B0 648/2012; \\n2. transposition de la directive 2014/49/UE du Parlement europ\u00E9en et du Conseil du 16 avril 2014 relative aux syst\u00E8mes de garantie des d\u00E9p\u00F4ts; \\n3. modification: \\na) de la loi modifi\u00E9e du 5 avril 1993 relative au secteur financier; \\nb) de la loi modifi\u00E9e du 23 d\u00E9cembre 1998 portant cr\u00E9ation d\u2019une commission de surveillance du secteur financier; \\nc) de la loi modifi\u00E9e du 5 ao\u00FBt 2005 sur les contrats de garantie financi\u00E8re pc) de la loi modifi\u00E9e du 5 ao\u00FBt 2005 sur les contrats de garantie financi\u00E8re portant:\\n\u2013 transposition de la directive 2002/47/CE du Parlement europ\u00E9en et du Conseil du 6 juin 2002 concernant les contrats de garantie financi\u00E8re;\\n\u2013 modification du Code de Commerce;\\n\u2013 modification de la loi du 1er ao\u00FBt 2001 concernant la circulation de titres et d\u2019autres instruments fongibles;\\n\u2013 modification de la loi du 5 avril 1993 relative au secteur financier;\\n\u2013 modification du r\u00E8glement grand-ducal du 18 d\u00E9cembre 1981 concernant les d\u00E9p\u00F4ts fongibles de m\u00E9taux pr\u00E9cieux et modifiant l\u2019article 1er du r\u00E8glement grand-ducal du 17 f\u00E9vrier 1971 concernant la circulation de valeurs mobili\u00E8res;\\n\u2013 abrogation de la loi du 21 d\u00E9cembre 1994 relative aux op\u00E9rations de mise en pension;\\n\u2013 abrogation de la loi du 1er ao\u00FBt 2001 relative au transfert de propri\u00E9t\u00E9 \u00E0 titre de garantie;\\nd) de la loi du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement europ\u00E9en et du Conseil du 21 avril 2004 concernant les offres publiques d\u2019acquisition; et \\ne) de la loi du 24 mai 2011 concernant l\u2019exercice de certains droits des actionnaires aux assembl\u00E9es g\u00E9n\u00E9rales de soci\u00E9t\u00E9s cot\u00E9es",
       "title_short": "Loi du 18 d\u00E9cembre 2015 relative \u00E0 la d\u00E9faillance des \u00E9tablissements de cr\u00E9dit et de certaines entreprises d\u2019investissement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n7/consolide/20260510/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "44477dc380328b02e41e1c1c82c8d1350d4c39d177a7a6ebd2607ead07a891d9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n7/consolide/20260510/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n7/consolide/20260510/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9788e3a238d478d2c128c99fc4171561ccf79d9f33c4b0aee956dbb88b96499e"
+  "record_sha256": "8ecbeb8b8c03e1251a62fcdf3078ee0988d18b8592731464756429f6369a59f7"
 }

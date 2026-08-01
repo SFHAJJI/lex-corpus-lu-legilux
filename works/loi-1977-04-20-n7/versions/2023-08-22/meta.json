@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/08/2023 : Loi du 20 avril 1977 relative \u00E0 l\u2019exploitation des jeux de hasard et des paris relatifs aux \u00E9preuves sportives.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/20230822/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "db6bccf7719b07196158ca2d5500b45820eae3d58d5d1790367cc240baa74440",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/20230822/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1977/04/20/n7/consolide/20230822/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4d1cfdfd67a9ee9104b613ee81385eceae384112009f3d527eb5db541e8419f8"
+  "record_sha256": "90e5f4fa40c6be9cf69a4890ffbf5fbbbca5c80a85ce714368646cb5cd024354"
 }

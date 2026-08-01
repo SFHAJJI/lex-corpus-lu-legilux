@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/11/2024 : Loi du 19 juillet 2004 concernant l\u0027am\u00E9nagement communal et le d\u00E9veloppement urbain.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20241111/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "091708328b6121194cb7b04de25eca728b610182066dc7ae8d46367f44e890e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20241111/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/07/19/n1/consolide/20241111/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "eed36fbf3c5e8ababe8c2ca2ccc46f20abc98e9807974b5372ecc989adbf04dd"
+  "record_sha256": "efab09cb42eb65df6c3920041c31366c4dcd2ff4e9fd4abbc0a6fcafd6796829"
 }

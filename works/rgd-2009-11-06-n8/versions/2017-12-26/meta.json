@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/12/2017 : R\u00E8glement grand-ducal du 6 novembre 2009 relatif au d\u00E9p\u00F4t l\u00E9gal.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n8/consolide/20171226/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6ab33e8453cbbf91481c969fba4f576a3c979dc6dddd6206a1908c61e83d7cac",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n8/consolide/20171226/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/11/06/n8/consolide/20171226/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b918c37dd71a718c2301b4f7c22bdec4360948c58caeb406169bbb9be772629f"
+  "record_sha256": "1d4db6d5ac21dac1ddb287f5be9ec8f9d39147150202fa1cf1c761cb6fb8ff9f"
 }

@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 10/08/2018 : Loi du 18 d\u00E9cembre 2015 concernant l\u0027\u00E9change automatique de renseignements relatifs aux comptes financiers en mati\u00E8re fiscale et portant\\n1. transposition de la directive 2014/107/UE du Conseil du 9 d\u00E9cembre 2014 modifiant la directive 2011/16/UE en ce qui concerne l\u0027\u00E9change automatique et obligatoire d\u0027informations dans le domaine fiscal;\\n2. modification de la loi modifi\u00E9e du 29 mars 2013 relative \u00E0 la coop\u00E9ration administrative dans le domaine fiscal.",
       "title_short": "Loi du 18 d\u00E9cembre 2015 relative \u00E0 la Norme commune de d\u00E9claration (NCD).",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n4/consolide/20180810/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "404a04f060c4d7fd291ba788120ab87ec7eb00902dc1b7f3a7e8290b9c6863fb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n4/consolide/20180810/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/18/n4/consolide/20180810/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fdfca83cac1efea3368598e7528e52832962d40d3193c1248b0c75d605e6220d"
+  "record_sha256": "70b17aa47ada4c70d89a2e8c8fce538c4307427c2a14ed08f4bc029db48209cd"
 }

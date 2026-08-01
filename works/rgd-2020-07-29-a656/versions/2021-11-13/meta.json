@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 13/11/2021 : R\u00E8glement grand-ducal du 29 juillet 2020 portant :\\n1\u00B0 fixation des conditions et modalit\u00E9s de l\u2019\u00E9preuve sp\u00E9ciale de l\u2019examen-concours pour l\u2019admission au stage pour les cat\u00E9gories de traitement A et B et le groupe de traitement C1 du cadre policier ;\\n2\u00B0 fixation des conditions et modalit\u00E9s de recrutement pour le groupe de traitement C2 du cadre policier ;\\n3\u00B0 modification du r\u00E8glement grand-ducal modifi\u00E9 du 30 septembre 2015 fixant les conditions et modalit\u00E9s d\u2019inscription et d\u2019organisation des examens-concours d\u2019admission au stage dans les administrations et services de l\u2019\u00C9tat.",
       "title_short": "R\u00E8glement grand-ducal du 29 juillet 2020 d\u00E9terminant les modalit\u00E9s de recrutement du personnel policier.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20211113/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "492b2c70179ca9a25963951eff42132ccb6b7e3c8a693a667d88c72168642abf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20211113/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/07/29/a656/consolide/20211113/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5b30ce784573cf103be5184dbdbeb430e4285657f09a782eb19d393d11ed7d36"
+  "record_sha256": "25819ad81a39b9d7b922424927c98752601b83485ec40f021c3dbc3fba58d685"
 }

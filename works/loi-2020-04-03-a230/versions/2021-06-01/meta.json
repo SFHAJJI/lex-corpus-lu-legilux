@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2021 : Loi du 3 avril 2020 relative \u00E0 la mise en place d\u2019un r\u00E9gime d\u2019aides en faveur des entreprises en difficult\u00E9 financi\u00E8re temporaire et modifiant la loi modifi\u00E9e du 19 d\u00E9cembre 2014 relative 1) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle 2) \u00E0 la promotion de la cr\u00E9ation artistique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/04/03/a230/consolide/20210601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "40417e5b4106a6f2079b28a62599df197819bf928e4913d823d82fc67d49de3c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/04/03/a230/consolide/20210601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/04/03/a230/consolide/20210601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0228ff5427faeda054167e449d4d2c7f6d4f376085ce9b37629c4e20f3fbac84"
+  "record_sha256": "ac7cb77ac1c1a53cc2db3f055638a34fd9b9bc2010256527bf2e20c995802a39"
 }

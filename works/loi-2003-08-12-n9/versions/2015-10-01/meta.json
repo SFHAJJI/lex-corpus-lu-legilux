@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 12 ao\u00FBt 2003 portant r\u00E9organisation de l\u2019Institut Viti-Vinicole.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bf74035f87e9bb87f19035204b5db79d086941c9b07a8cc42da9b97280257e7d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2003/08/12/n9/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "877b5515eb97b69d5f5d85ed9f80a63fc05bee14e9ea3811973a021d79e21d9c"
+  "record_sha256": "c11e2c4bf7d2942caafeb45f5cff91c3a5797a79df5d2e4185a282282e5b511c"
 }

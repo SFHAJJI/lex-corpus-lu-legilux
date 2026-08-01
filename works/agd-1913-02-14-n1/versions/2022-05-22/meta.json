@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/05/2022 : Arr\u00EAt\u00E9 grand-ducal du 14 f\u00E9vrier 1913 r\u00E9glant le transport des cadavres.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1913/02/14/n1/consolide/20220522/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cf624d42170e3135df00833db56e989b0bcabbb17bb43cc126749c0e56365518",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1913/02/14/n1/consolide/20220522/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1913/02/14/n1/consolide/20220522/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "94e7fa7ac85dcc264e6410d3acf6ca6b8529871577202c8793bed222ab187dc6"
+  "record_sha256": "1a2da3052665da4c5634208e2a19b8d6ce06c05b8a67c043cde2176337b32e51"
 }

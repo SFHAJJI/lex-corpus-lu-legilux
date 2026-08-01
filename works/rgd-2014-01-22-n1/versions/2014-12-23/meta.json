@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/12/2014 : R\u00E8glement grand-ducal du 22 janvier 2014 portant autorisation de la mise en oeuvre d\u2019un syst\u00E8me de cartes de jeu \u00E9lectroniques en mati\u00E8re de jeux de casino.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/consolide/20141223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6ed35a4cda038e7a704d3502bf2431e8f3e30a8718cc99fc679fa8f14d0fd72a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/consolide/20141223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/01/22/n1/consolide/20141223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a76b1788b1019efe9ef4e8c095d6e9279146399fc3ebcb199c5cded7f946ee90"
+  "record_sha256": "a2f877bd9dd5b6c9181f37ee93b47ee049bb469ecc27b408acf93a4897ceb2e3"
 }

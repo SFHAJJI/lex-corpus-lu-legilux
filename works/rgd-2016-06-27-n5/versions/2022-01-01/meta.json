@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2022 : R\u00E8glement grand-ducal du 27 juin 2016 concernant la d\u00E9termination du revenu professionnel agricole cotisable en mati\u00E8re d\u0027assurance maladie et d\u0027assurance pension.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/consolide/20220101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "217f2b84e70960cdedf66c0a4abd3979f878eae9d97607e04fd39ae3be90646d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/consolide/20220101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/06/27/n5/consolide/20220101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e5f6f6f3866a4ff79308ea4b477f4acf846648bd3a938585192154108827bdf9"
+  "record_sha256": "f32899e2a75f620f569035b74832f2961fee3a5f578b7e00e52608deb0800b12"
 }

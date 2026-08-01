@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/04/2020 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2016 concernant les subsides accord\u00E9s aux clubs sportifs affili\u00E9s aupr\u00E8s d\u0027une f\u00E9d\u00E9ration sportive agr\u00E9\u00E9e.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/consolide/20200414/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8e80d17aaef7df77e141232655633c885e19370a5c2c0f6abd73b27f58c3f799",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/consolide/20200414/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/12/23/n33/consolide/20200414/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "15f8dd82298bb17efe2ac572a88b24fac32656eadc154b0b172aa6d6c0ce7586"
+  "record_sha256": "5a75a99b6c9ffea7c9e610bf20dc6fbb0a5f4d034c711ab176f6aa681e409981"
 }

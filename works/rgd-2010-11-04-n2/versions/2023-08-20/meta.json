@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/08/2023 : R\u00E8glement grand-ducal du 4 novembre 2010 d\u00E9terminant le mode de perception des cotisations mises \u00E0 charge des ressortissants de la Chambre des salari\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/11/04/n2/consolide/20230820/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6bcc72313df13f97549f7dc5b39b1dbc2c5398da022e4dbc14e4aed624ed8488",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2010/11/04/n2/consolide/20230820/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2010/11/04/n2/consolide/20230820/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "17a5b4af03cde43b8b9f0ba5d4cdf8edb066470cf1d00abe0369a5a7addc411d"
+  "record_sha256": "95b1b839781b76c62e2f6c5d08bb1fb068f44fc61e9a34113c9fb45c0a0439c1"
 }

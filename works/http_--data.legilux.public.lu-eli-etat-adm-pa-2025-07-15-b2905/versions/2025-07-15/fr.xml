@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-07-15" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MS"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-07-15" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2025-07-15" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource><scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo</scl:jolux><scl:jolux scl:name="dateApplicability">2025-07-15</scl:jolux><scl:jolux scl:name="dateDocument">2025-07-15</scl:jolux><scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MS</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1035</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1100</scl:jolux><scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/187</scl:jolux><scl:jolux scl:name="urgentEvent">0</scl:jolux><scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/483</scl:jolux><scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905</scl:jolux><scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr</scl:jolux><scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/PA</scl:jolux><scl:jolux scl:name="dateEntryInForce">2025-07-15</scl:jolux><scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b2905</scl:jolux><scl:jolux scl:name="publicationDate">2025-07-15</scl:jolux><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf><scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf></scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/docx</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/pdfa</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="cites">/eli/etat/leg/loi/2016/10/28/n2/jo</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version rectifiée applicable au 15/07/2025 : Pharmacie - Concession vacante.</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/rgd/1997/05/27/n1/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b2905/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/pa/2025/07/15/b2905/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2025/b2905/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2025-07-15" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2025-07-15" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/adm/rect/2025/07/15/b2986/jo"/>
+<destination/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/adm/pa/2025/07/15/b2905/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/adm/rect/2025/07/15/b2986/jo" id="rp2" showAs="Pharmacie - Concession vacante - RECTIFICATIF."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="B|2025-07-18|2025-07-15|RECT|2986">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/adm/rect/2025/07/15/b2986/jo">Pharmacie - Concession vacante - RECTIFICATIF.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version rectifiée applicable au 15/07/2025 : Pharmacie - Concession vacante.</p>
+</longTitle>
+</preface>
+<body>
+<alinea>
+<content>
+<p>Il est porté à la connaissance du public que la concession de pharmacie à Schifflange, 53, avenue de la Libération, détenue actuellement par Monsieur Claude GREIS, est déclarée vacante à partir du 30 avril 2026 suite à la renonciation du concessionnaire. </p>
+<p>Les candidats qui désirent solliciter l’octroi de cette concession sont invités à faire parvenir leur demande au <b>Ministère de la Santé et de la Sécurité sociale, 1, rue Charles Darwin, L-1433 Luxembourg</b> jusqu’au <b>18 août 2025 au plus tard</b>.</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>La demande devra être accompagnée des documents et renseignements suivants :</p>
+<ol scl:space-item="3" scl:start="1" scl:symbol="custom">
+<li scl:symbol="1.">une courte notice biographique</li>
+<li scl:symbol="2.">le diplôme conférant le grade de pharmacien</li>
+<li scl:symbol="3.">une copie de l’autorisation d’exercer la profession de pharmacien au Luxembourg</li>
+<li scl:symbol="4.">une copie de la carte d’identité ou du passeport</li>
+<li scl:symbol="5.1.">les certificats relatifs aux occupations pharmaceutiques au Luxembourg ou dans un autre État membre de l’Union européenne, postérieures à l’obtention de l’autorisation d’exercer au Luxembourg ou dans l’autre pays membre. Les occupations pharmaceutiques de nature salariée sont attestées par les employeurs correspondants. Celles exercées à titre d’indépendant sont certifiées par le collège médical, ou, si elles se rapportent à une activité pharmaceutique réalisée à l’étranger, par le conseil de l’ordre des pharmaciens du pays en cause ou, à défaut, par l’organisme exerçant des fonctions similaires. Ces certificats portent le visa de l’Inspection des pharmacies ou par l’autorité étrangère exerçant des fonctions similaires. <b>Ces certificats indiquent, outre la durée totale de l’occupation pharmaceutique, la nature de l’occupation ainsi que l’horaire hebdomadaire exprimé en heures<span scl:no-break="true">/</span>semaines.</b>
+</li>
+<li scl:symbol="5.2.">
+<b>le certificat d’affiliation et le certificat de revenu délivrés par le Centre commun de la Sécurité sociale ou d’un organisme étranger similaire, attestant les périodes d’occupation</b>
+</li>
+<li scl:symbol="5.3.">
+<b>le(s) contrat(s) de travail avec d’éventuels avenants si les certificats cités sous 5.1. n’indiquent pas le taux d’occupation en heures/semaine.</b>
+</li>
+<li scl:symbol="6.">s’il y a lieu, les titres scientifiques accompagnés d’une pièce documentant qu’ils ont été inscrits au registre des titres de formation visé à l’article 68 de la <ref href="/eli/etat/leg/loi/2016/10/28/n2/jo" id="74289403-dcf4-4525-afbd-071c0f992fbc">loi du 28 octobre 2016</ref> relative à la reconnaissance des qualifications professionnelles.</li>
+<li scl:symbol="7.">
+<mod class="mod-start" for="#pm1" style="li"/>preuve de paiement de la taxe de 75 €<p>Titulaire du compte : Administration de l’Enregistrement et des Domaines</p>
+<p>Compte bancaire : IBAN LU80 0019 5955 4435 5000 (Code Swift : BCEELULL)</p>
+<p>Communication : CONCESSPHARM Schifflange + nom du demandeur<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</li>
+</ol>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Les candidat(e)s demandant l’application de la disposition prévue à l’article 2, paragraphe 2, point 2.8. du <ref href="/eli/etat/leg/rgd/1997/05/27/n1/jo" id="f54e069d-1f1d-4894-962f-c14ad8c16beb">règlement grand-ducal modifié du 27 mai 1997</ref> relatif à l’octroi des concessions de pharmacie (prise en compte de la cessation totale ou partielle de l’activité professionnelle pour éduquer un enfant) voudront l’indiquer et verser un acte de naissance de l’(des) enfant(s) concerné(s).</p>
+</content>
+</alinea>
+<alinea>
+<content>
+<p>Le cahier des charges, rédigé au prescrit de l’article 5 du <ref href="/eli/etat/leg/rgd/1997/05/27/n1/jo" id="f6870a2c-5a84-4db1-a9f9-b348b636932c">règlement grand-ducal précité</ref>, sera tenu à la disposition des intéressés dans les bureaux du Ministère de la Santé et de la Sécurité sociale, 1, rue Charles Darwin à Luxembourg, à partir du jour de la publication du présent avis au Journal officiel du Grand-Duché de Luxembourg.</p>
+</content>
+</alinea>
+</body>
+</act>
+</akomaNtoso>

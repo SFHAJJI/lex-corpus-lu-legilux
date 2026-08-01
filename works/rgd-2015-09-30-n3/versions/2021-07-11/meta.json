@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/07/2021 : R\u00E8glement grand-ducal du 30 septembre 2015 fixant les conditions et modalit\u00E9s d\u0027inscription et d\u0027organisation des examens-concours d\u0027admission au stage dans les administrations et services de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n3/consolide/20210711/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8a646f1724be16c4eb192282dee1d7804498d43ba20c37042c658cc8862f9c32",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n3/consolide/20210711/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/30/n3/consolide/20210711/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1d91860d5f132dbf7b29caea958cf782c65b937a836f1733715a9a11054f5b9d"
+  "record_sha256": "853e1ba91076ebc347b8786284ddfd5a37a65095c587fe407fb9669d6be7ab0f"
 }

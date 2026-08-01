@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="">
+		<meta>
+			<identification source="#casemates">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2012-04-26" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MAE"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2012-04-26" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2012-04-26" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2012-02-07</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1544</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1025</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1427</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2012-04-26</scl:jolux>
+						<scl:jolux scl:name="historicalLegalId">2012A0919A</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MAE</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/158</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/853</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2012-04-30</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2012/80</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2012-04-26</scl:jolux>
+						<scl:jolux scl:name="consolidates">http://data.legilux.public.lu/eli/etat/leg/rgd/2008/09/26/n3/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/rgd/2012/01/25/n3/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2009/50/jo</scl:jolux>
+						<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2011/12/08/n1/jo</scl:jolux>
+						<scl:jolux scl:name="basedOn">http://data.legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#BaseAct</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr</scl:jolux>
+					<scl:jolux scl:name="titleAlternative">TC - Règlement grand-ducal du 26 septembre 2008</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:name="title">TEXTE COORDONNÉ du Règlement grand-ducal du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l'immigration.</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr/xml</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2012/80/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2012-04-26-n4-jo-fr-xml.xml</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">919</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr/pdf</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://data.legilux.public.lu/resource/authority/license/licenceSCL</scl:jolux>
+					<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2012/80/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-memorial-2012-80-fr-pdf.pdf</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/resource/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="memorialPage">919</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2012/04/26/n4/jo/fr</scl:jolux>
+					<scl:jolux scl:name="memorialSequence">A</scl:jolux>
+					<scl:jolux scl:name="legalValue">http://data.legilux.public.lu/resource/authority/statut-version/officiel</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2012-04-26" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+			</lifecycle>
+			<analysis source="#"/>
+			<references source="#">
+				<original href="/eli/etat/leg/tc/2012/04/26/n4/jo" id="ro1" showAs="Original"/>
+			</references>
+			<notes scl:border="50" scl:type="document" source="#eli-etat-leg-tc-2012-04-26-n3-jo-fr-xml">
+				<note id="note_0_0_0">
+					<p>Base légale: Art. 45, paragraphe (1), point 3 de la <ref href="/eli/etat/leg/loi/2008/08/29/n1/jo" id="42907516-d3be-4e1b-88ff-88c2497d5933">loi du 29 août 2008</ref> sur la libre circulation des personnes et l’immigration, tel que modifié par la <ref href="/eli/etat/leg/loi/2011/12/08/n1/jo" id="4a7979eb-9d52-493b-bda2-38cb78212cf8">loi du 8 décembre 2011</ref>.</p>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>Règlement grand-ducal du 26 septembre 2008 déterminant le niveau de rémunération minimal pour un travailleur hautement qualifié en exécution de la loi du 29 août 2008 sur la libre circulation des personnes et l’immigration,<noteRef href="#note_0_0_0"/> - TEXTE COORDONNÉ</p>
+			</longTitle>
+		</preface>
+		<body>
+			<alinea>
+				<content>
+					<p scl:align="center">(<ref href="/eli/etat/leg/rgd/2008/09/26/n3/jo" id="18c67f95-85ae-430d-ac77-eeccb826a19e">Mém. A - 145 du 29 septembre 2008</ref>, p. 2128)</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>modifié par:</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p>
+						<ref href="/eli/etat/leg/rgd/2012/01/25/n3/jo" id="56e28415-47e7-4bea-bda1-8f8be7fe3ed0">Règlement grand-ducal du 25 janvier 2012</ref>.</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:space-tab="15">(<ref href="/eli/etat/leg/rgd/2012/01/25/n3/jo" id="2a6e1a71-8ff2-4139-a502-3778934906f4">Mém. A - 19 du 3 février 2012</ref>, p. 242; <ref href="/eli/dir_ue/2009/50/jo" id="4c0f7656-88f1-49bc-a76f-768db91fc328">dir. 2009/50</ref>)</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:align="center" scl:font-size="14">
+						<b>Texte coordonné au 3 février 2012</b>
+					</p>
+				</content>
+			</alinea>
+			<alinea>
+				<content>
+					<p scl:align="center" scl:font-size="14">
+						<b>Version applicable à partir du 7 février 2012</b>
+					</p>
+				</content>
+			</alinea>
+			<article id="art_1er">
+				<num>Art. 1<sup>er</sup>.</num>
+				<alinea>
+					<content>
+						<p>
+							<i>(<ref href="http://legilux.lu/eli/etat/leg/rgd/2012/01/25/n3/jo" id="1eb79786-6903-42e9-a58c-fac7ee7b1415">Règl. g.-d. du 25 janvier 2012</ref>)</i>
+						</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>«Le salaire annuel brut résultant du salaire mensuel ou annuel indiqué dans le contrat de travail à verser à un ressortissant de pays tiers en vue de son occupation en tant que travailleur salarié hautement qualifié conformément aux dispositions de l’article 45, paragraphe (1), point 3 de la <ref href="/eli/etat/leg/loi/2008/08/29/n1/jo" id="d6a652db-f7d6-4291-9993-eca016456123">loi modifiée du 29 août 2008</ref> sur la libre circulation des personnes et l’immigration ne peut pas être inférieur à un seuil salarial égal à une fois et demie le salaire annuel brut moyen.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Pour l’emploi dans des professions appartenant aux groupes 1 et 2 de la CITP (Classification Internationale Type de Professions), pour lesquelles un besoin particulier de travailleurs ressortissants de pays tiers est constaté par le Gouvernement, le seuil de rémunération est fixé par dérogation à l’alinéa qui précède, à 1,2 fois le salaire annuel brut moyen.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les professions en question, arrêtées par l’OCDE sont les suivantes:</p>
+						<table id="table_1" scl:cols="15 85" width="100">
+							<tr>
+								<td>
+									<p>Groupe 1.</p>
+								</td>
+								<td>
+									<p>Directeurs, cadres de direction et gérants </p>
+									<p>Directeurs généraux, cadres supérieurs </p>
+									<p>Directeurs de services administratifs et commerciaux </p>
+									<p>Directeurs et cadres de direction, production et services spécialisés </p>
+									<p>Directeurs et gérants de l’hôtellerie, la restauration, le commerce et autres services</p>
+								</td>
+							</tr>
+						</table>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<table id="table_2" scl:cols="15 85" width="100">
+							<tr>
+								<td>
+									<p>Groupe 2.</p>
+								</td>
+								<td>
+									<p>Professions intellectuelles et scientifiques </p>
+									<p>Spécialistes des sciences et techniques </p>
+									<p>Spécialistes de la santé </p>
+									<p>Spécialistes de l’enseignement </p>
+									<p>Spécialistes en administration d’entreprises </p>
+									<p>Spécialistes des technologies de l’information et des communications </p>
+									<p>Spécialistes de la justice, des sciences sociales et de la culture.</p>
+								</td>
+							</tr>
+						</table>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>La liste des professions pour lesquelles une dérogation est prévue est annuellement arrêtée par un règlement du Gouvernement en conseil et communiquée à la Commission.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Le seuil salarial prévu aux alinéas qui précèdent sera publié annuellement au Mémorial.</p>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>Les présentes dispositions sont sans préjudice des conventions collectives ou des pratiques applicables dans les secteurs professionnels concernés en ce qui concerne les emplois hautement qualifiés.»</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2">
+				<num>Art. 2.</num>
+				<alinea>
+					<content>
+						<p>Le présent règlement entrera en vigueur le 1<sup>er</sup> octobre 2008.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_3">
+				<num>Art. 3.</num>
+				<alinea>
+					<content>
+						<p>Notre Ministre délégué aux Affaires étrangères et à l’Immigration est chargé de l’exécution du présent règlement qui sera publié au Mémorial.</p>
+					</content>
+				</alinea>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

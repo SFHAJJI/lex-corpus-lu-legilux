@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/04/2022 : Loi du 17 d\u00E9cembre 2021 concernant le budget des recettes et des d\u00E9penses de l\u2019\u00C9tat pour l\u2019exercice 2022 et modifiant :\\n1\u00B0 le Code de la s\u00E9curit\u00E9 sociale ;\\n2\u00B0 la loi modifi\u00E9e du 16 octobre 1934 concernant l\u2019\u00E9valuation des biens et valeurs (\u00AB\u00A0Bewertungsgesetz\u00A0\u00BB) ;\\n3\u00B0 la loi modifi\u00E9e du 1er d\u00E9cembre 1936 concernant l\u2019imp\u00F4t commercial (\u00AB\u00A0Gewerbesteuergesetz\u00A0\u00BB) ;\\n4\u00B0 la loi modifi\u00E9e du 17 avril 1964 portant r\u00E9organisation de l\u2019administration des contributions directes ;\\n5\u00B0 la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu ;\\n6\u00B0 la loi modifi\u00E9e du 24 d\u00E9cembre 1996 portant introduction d\u2019une bonification d\u2019imp\u00F4t sur le revenu en cas d\u2019embauchage de ch\u00F4meurs ;\\n7\u00B0 la loi modifi\u00E9e du 28 avril 1998 portant\\na) harmonisation de l\u2019enseignement musical dans le secteur communal ;\\nb) modification de l\u2019article 5 de la loi du 24 mai 1989 sur le contrat de travail ;\\nc) modification de la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u2019\u00C9tat ;\\n8\u00B0 la loi modifi\u00E9e du 21 d\u00E9cembre 1998 concernant le budget des recettes et des d\u00E9penses de l\u2019\u00C9tat pour l\u2019exercice 1999 ;\\n9\u00B0 la loi du 7 d\u00E9cembre 2007 autorisant l\u2019\u00C9tat \u00E0 fournir une garantie bancaire pour la r\u00E9alisation et l\u2019exploitation d\u2019un r\u00E9seau de chaleur urbain ;\\n10\u00B0 la loi modifi\u00E9e du 4 juillet 2008 sur la jeunesse ;\\n11\u00B0 la loi modifi\u00E9e du 17 d\u00E9cembre 2010 fixant les droits d\u2019accise et les taxes assimil\u00E9es sur les produits \u00E9nerg\u00E9tiques, l\u2019\u00E9lectricit\u00E9, les produits de tabacs manufactur\u00E9s, l\u2019alcool et les boissons alcooliques ;\\n12\u00B0 la loi modifi\u00E9e du 23 juillet 2016 portant modification 1. du Code de la s\u00E9curit\u00E9 sociale ; 2. de la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu, et abrogeant la loi modifi\u00E9e du 21 d\u00E9cembre 2007 concernant le boni pour enfant ;\\n13\u00B0 la loi du 1er ao\u00FBt 2019 concernant les mutuelles.\\n",
       "title_short": "Loi du 17 d\u00E9cembre 2021 concernant le budget des recettes et des d\u00E9penses de l\u2019\u00C9tat pour l\u2019exercice 2022.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a906/consolide/20220401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3bcd3f4f35831c70403799b16d4f385b3afde8d7f343570e066588a82d860b5e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a906/consolide/20220401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/12/17/a906/consolide/20220401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e803dfab11ccea12ea58cfe677436a33b9048e1f7d82997e4f941f04b49fedbb"
+  "record_sha256": "d96a028c763ee09fcbfae94adb0ce4f3e9a87da2c978a0c3403e9724c9c4233c"
 }

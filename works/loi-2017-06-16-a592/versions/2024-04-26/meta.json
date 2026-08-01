@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 26/04/2024 : Loi du 16 juin 2017 sur l\u2019organisation du Conseil d\u2019Etat et portant modification\\n1. de la loi modifi\u00E9e du 21 avril 1928 sur les associations et les fondations sans but lucratif;\\n2. de la loi modifi\u00E9e du 29 juin 1989 portant r\u00E9forme du r\u00E9gime des cabarets.",
       "title_short": "Loi du 16 juin 2017 sur l\u2019organisation du Conseil d\u2019\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/06/16/a592/consolide/20240426/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5cfc6a0f63c20ce55be6464c5c5b8420dc0a509c05a0cff7d21c3a25f47101bc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/06/16/a592/consolide/20240426/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/06/16/a592/consolide/20240426/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "44d46a6c8273dba05b53bcaac98398ae2a7f6c2ce92e81c33e99d909edee7f6e"
+  "record_sha256": "d8828d89334d20cf7afaecdfff13eedcd113b3af5f54b251dd819f329a4ff90e"
 }

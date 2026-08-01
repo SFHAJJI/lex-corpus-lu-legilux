@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/05/2022 : R\u00E8glement grand-ducal du 21 ao\u00FBt 2018 d\u00E9terminant les modalit\u00E9s de prescription et d\u2019acc\u00E8s \u00E0 l\u2019usage de cannabis \u00E0 des fins m\u00E9dicales, ainsi que le contenu et la dur\u00E9e de la formation sp\u00E9ciale pour les m\u00E9decins et modifiant :\\n1\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 19 f\u00E9vrier 1974 portant ex\u00E9cution de la loi du 19 f\u00E9vrier 1973 sur la vente des substances m\u00E9dicamenteuses et la lutte contre la toxicomanie ;\\n2\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 18 janvier 2005 d\u00E9terminant le mod\u00E8le du carnet \u00E0 souches pr\u00E9vu \u00E0 l\u2019article 30-1 de la loi modifi\u00E9e du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/21/a868/consolide/20220531/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ea8069e5c76836c7b2f13d2f9027d7b4dff08bd3a42b877b064a9ae685aa698c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/21/a868/consolide/20220531/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/08/21/a868/consolide/20220531/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f300311a656f9fcc000047901e057d92b5a6c892492be11e94867863dada8d4a"
+  "record_sha256": "401f471ca430f3afecbeed8ba92779c3141838e627af0e6e084690c4ca9588b6"
 }

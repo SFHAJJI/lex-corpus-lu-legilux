@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/04/2019 : R\u00E8glement grand-ducal du 24 ao\u00FBt 2016 concernant le statut du personnel de la Caisse nationale de sant\u00E9, de la Caisse de maladie des fonctionnaires et employ\u00E9s publics et de la Caisse de maladie des fonctionnaires et employ\u00E9s communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7/consolide/20190406/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "107c40a4b360cabdee0c7070d8a35e53c894df8b2576a3b08461be9326d23476",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7/consolide/20190406/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/08/24/n7/consolide/20190406/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2855145e7a5839654d880988f4c13a8d5eacc4fb61611a930345fda4eed22ec6"
+  "record_sha256": "d4a35a8a174ef0c20f0bce8d452c9b47547be77291f56405729f0b4a3def3d5a"
 }

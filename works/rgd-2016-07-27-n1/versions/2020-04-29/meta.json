@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/04/2020 : R\u00E8glement grand-ducal du 27 juillet 2016 portant ex\u00E9cution de certaines dispositions du Livre IV du Code de la s\u00E9curit\u00E9 sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/07/27/n1/consolide/20200429/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cc8e62dfa13930162c0e3b477216a610c29bc7e443c0c26c23810d3986623953",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/07/27/n1/consolide/20200429/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/07/27/n1/consolide/20200429/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ba8f3fda9205d13ab0b81670f540202325a3aab0a4d3dd2d7641e16cebf06b81"
+  "record_sha256": "de85edffbf7b06c03cf0b58b090dcbeb01b8b9b075286ef4bde04a4ed50c8202"
 }

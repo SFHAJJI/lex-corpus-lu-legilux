@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/06/2018 : R\u00E8glement grand-ducal modifi\u00E9 du 11 janvier 2017 d\u00E9terminant les modalit\u00E9s d\u2019admission dans les classes de 7e de l\u2019enseignement secondaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/20180612/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "4df71ffb1bba9b82437fecacda357421759e796754e3332c9172bb7b7d8145e6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/20180612/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/01/11/a127/consolide/20180612/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aa48c85819eaff4f8758152dc6299bd6e5adb3972031fd0cb402e94932e86589"
+  "record_sha256": "3f3021f34839f4ca929076f2e0be0ae458248690bc28871caf2f3742382b78ea"
 }

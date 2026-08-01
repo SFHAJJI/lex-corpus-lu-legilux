@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/12/2021 : Loi du 17 mars 1992 portant \\n1. approbation de la Convention des Nations Unies contre le trafic illicite de stup\u00E9fiants et de substances psychotropes, faite \u00E0 Vienne, le 20 d\u00E9cembre 1988;\\n2. modifiant et compl\u00E9tant la loi du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie;\\n3. modifiant et compl\u00E9tant certaines dispositions du Code d\u0027instruction criminelle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/17/n1/consolide/20211224/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "599d71c611a336eb221f5c89d316caa50222c001f3e16ac84f1f6aec0cbd7894",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/17/n1/consolide/20211224/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/17/n1/consolide/20211224/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dfb75122f1164786983f2505178c8aca59e36ba9db876843211080b9aad0d14e"
+  "record_sha256": "6924057cd90d312e8372d7c715e89805e41d66d7b6a70cf1d99fb67d4d96e766"
 }

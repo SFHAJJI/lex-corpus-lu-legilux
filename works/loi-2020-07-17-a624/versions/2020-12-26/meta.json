@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 26/12/2020 : Loi du 17 juillet 2020 portant introduction d\u2019une s\u00E9rie de mesures de lutte contre la pand\u00E9mie Covid-19 et modifiant : 1\u00B0 la loi modifi\u00E9e du 25 novembre 1975 concernant la d\u00E9livrance au public des m\u00E9dicaments ; 2\u00B0 la loi modifi\u00E9e du 11 avril 1983 portant r\u00E9glementation de la mise sur le march\u00E9 et de la publicit\u00E9 des m\u00E9dicaments.",
       "title_short": "Loi du 17 juillet 2020 sur les mesures de lutte contre la pand\u00E9mie Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201226/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "305c73d69c5f679151008b13b5c6593843bc1e179b6d5d3edb23e69d5d41941d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201226/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/07/17/a624/consolide/20201226/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "463ea17fd1052b22616f354119a91d28470cc4fae86d135760bd1f7b20bc2a1e"
+  "record_sha256": "350581b9d46c327b7eea11f3e428609ee7b3a3ea58401d288aa0376bbdceca9d"
 }

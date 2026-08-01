@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/09/2016 : R\u00E8glement grand-ducal du 2 septembre 2011 d\u00E9terminant la proc\u00E9dure et les modalit\u00E9s de l\u0027adjudication publique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n7/consolide/20160902/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a04876bb81bb012f7881d542b2937798cde6cf6a0da2739531b4adc15bf1dd2e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n7/consolide/20160902/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/09/02/n7/consolide/20160902/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "67b5753801a431e1125e7dfc9407ec704d1a7c456c57d6727150311729088945"
+  "record_sha256": "bffaf79aeaa06cde2d5930477d71eea353ac0d2ec8607f37fdb0e24f20121004"
 }

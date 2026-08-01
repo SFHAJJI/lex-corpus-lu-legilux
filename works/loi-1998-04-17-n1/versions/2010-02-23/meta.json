@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/02/2010 : Loi du 17 avril 1998 portant cr\u00E9ation d\u0027un \u00E9tablissement public d\u00E9nomm\u00E9 centre hospitalier neuropsychiatrique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/04/17/n1/consolide/20100223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7aea034aab6b7de93aeee018accf4fbce59b315477aedea8d35662a0de86d418",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/04/17/n1/consolide/20100223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/04/17/n1/consolide/20100223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "93ba805088147a3ccc7ddbe9a06d6df3db4639282de9dd56d56d5a5f38bedf6a"
+  "record_sha256": "c8163a9a2ff2b805ab1ca32ec0b58ef96a47aa2499b8356f1cca9b315d8a6d16"
 }

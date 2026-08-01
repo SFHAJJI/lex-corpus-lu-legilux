@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2015 : Loi du 21 septembre 2006 sur le bail \u00E0 usage d\u2019habitation et modifiant certaines dispositions du Code civil.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20151101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "61256ebbc20ce232e9ccc0187025b5a28a19844efe68a2357aab6f1bf92db5a6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20151101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/09/21/n1/consolide/20151101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c746fe0add0608d8daa0a2206a1046c8ec96f924a0c4e0fd6265fd07cbc63b65"
+  "record_sha256": "c005ee26917b7569bce37cdfc2e86f0d9bd23eff129fe6a32cae5723d689623c"
 }

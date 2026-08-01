@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 21 novembre 2008 portant fixation de l\u0027indemnit\u00E9 des membres de la Commission consultative des Droits de l\u0027Homme du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "98540067b89da5c0bd0887016f668a56bc30e7460d717791f79ce9c99b22a1ec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/11/21/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7849d82e4d1f14f66a7c88b0de4e82e9c627c99f22ee857abfab2ebfc6422e35"
+  "record_sha256": "6f4136555a2e1e1ac6f0a8a48fd29106f0463d62dd58f4a22735828cd9d0b148"
 }

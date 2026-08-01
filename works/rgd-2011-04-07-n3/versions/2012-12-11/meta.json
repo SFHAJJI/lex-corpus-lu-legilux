@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/2011 : R\u00E8glement grand-ducal du 7 avril 2011 d\u00E9terminant \n 1. les conditions d\u0027admission au stage, les modalit\u00E9s du stage ainsi que les conditions de nomination des \u00E9ducateurs et \u00E9ducateurs gradu\u00E9s intervenant dans l\u0027enseignement fondamental ou affect\u00E9s aux lyc\u00E9es, au Centre de psychologie et d\u0027orientation scolaires, \u00E0 l\u0027\u00C9cole de la 2e Chance et au Centre national de formation professionnelle continue; \n 2. les modalit\u00E9s de l\u0027examen de promotion de l\u0027\u00E9ducateur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/07/n3/consolide/20121211/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f120aed44358dcd556a358c9f9bee5ea1360ab5da2758aeae53da96d63c96dcf",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/07/n3/consolide/20121211/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/04/07/n3/consolide/20121211/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "05a96335296632a5ed6117d9b101521ae5271ecca9db682938a2e902e86f6851"
+  "record_sha256": "e08287dd7b07fb21b771ba4798b0f4ee14bf9a1b8e251f71140effc92ee1aa5a"
 }

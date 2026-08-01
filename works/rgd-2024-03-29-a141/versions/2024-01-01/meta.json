@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 29 mars 2024 portant modification du r\u00E8glement grand-ducal modifi\u00E9 du 23 d\u00E9cembre 2016 concernant le contr\u00F4le m\u00E9dico-sportif obligatoire des membres licenci\u00E9s actifs des f\u00E9d\u00E9rations sportives agr\u00E9\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/03/29/a141/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f248889769e7d9fd5215b652c2a637796fd99a74f4471cb91bbf362038e8c684",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2024/03/29/a141/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2024/03/29/a141/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e8c3fc322ed268e5c2c12ee20c10972e78ca851d7d1eccb1b524b366efa594bd"
+  "record_sha256": "6ad87fa0b0909b7034500baf5a80e702b2eb70e17f8ba680948b24630e29689f"
 }

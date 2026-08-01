@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/12/2016 : Loi du 13 juin 2013 portant cr\u00E9ation d\u0027un lyc\u00E9e \u00E0 Clervaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/06/13/n4/consolide/20161231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "76f16755d8847a96e2705f02a7a0d0edf4aa1eb19b1db1ebce3428fd925f15ca",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2013/06/13/n4/consolide/20161231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2013/06/13/n4/consolide/20161231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "efa782c2381d6b63a87d6575d5735122699141f1de0200776fda90b97d8e4fec"
+  "record_sha256": "3dc172b4ead07d5d86459be4fd242b551edaeb0110d3ea4474d98aa8b5608ae0"
 }

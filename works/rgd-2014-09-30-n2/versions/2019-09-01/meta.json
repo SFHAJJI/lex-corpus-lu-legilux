@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/09/2019 : R\u00E8glement grand-ducal du 30 septembre 2014 d\u00E9terminant les modalit\u00E9s de formations et des \u00E9preuves permettant \u00E0 des agents intervenant dans l\u0027enseignement fondamental d\u0027obtenir l\u0027autorisation d\u0027enseigner en tant qu\u0027instituteur dans les quatre cycles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "206c674f955f2451763fff5703196f74c41cffedf2d763b531eeadae082211e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2014/09/30/n2/consolide/20190901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ea599547dbd768d1c11f5547b67b1a5467696cbfa4a9e824c5c4c5abc56c59f9"
+  "record_sha256": "0ed44c7876ba292c37c65e82139b53b24ba2a01380ac8a145d8e6bd363e6ef13"
 }

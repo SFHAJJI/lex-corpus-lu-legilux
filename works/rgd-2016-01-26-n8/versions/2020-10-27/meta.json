@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 27/10/2020 : R\u00E8glement grand-ducal du 26 janvier 2016 concernant les instruments de pesage \u00E0 fonctionnement non automatique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n8/consolide/20201027/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d2b4e2623a5524c884c4fc2cd4490b7ae908f466144a8cc20b7cf44eebe698d2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n8/consolide/20201027/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/01/26/n8/consolide/20201027/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7aec2c031755a4a23ef8fc1b8c53d05533d56377b197b961bfc3d435fb953023"
+  "record_sha256": "bcbd387c7c5e1647dcacde59e6ccd1cb56a27edacd0c18c6945d7179486635ba"
 }

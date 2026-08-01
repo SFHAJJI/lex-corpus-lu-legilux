@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/10/2018 : R\u00E8glement grand-ducal du 17 novembre 2016 fixant les modalit\u00E9s et les mati\u00E8res de l\u2019examen de fin de stage sanctionnant la formation sp\u00E9ciale en vue de l\u2019admission d\u00E9finitive, ainsi que de l\u2019examen de promotion des diff\u00E9rentes cat\u00E9gories de traitement aupr\u00E8s de l\u2019administration p\u00E9nitentiaire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/consolide/20181026/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "924f82ce17885292adb45da04abcaa10c0ca713f23db903b978cc461d5adb138",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/consolide/20181026/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/11/17/n2/consolide/20181026/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "855965238d98116b646b8a26d88fa1ccc8d6af9534f4f3e460335ea99cb8844e"
+  "record_sha256": "aa336409b6375530ca7139e758a0b4bd07c9873ddb727fa1a2fbefc224c9b4e2"
 }

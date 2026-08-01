@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/06/2016 : R\u00E8glement du Gouvernement en Conseil du 23 d\u00E9cembre 2014 portant institution d\u2019une Plateforme Nationale Cancer.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2014/12/23/n2/consolide/20160613/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8d0a0f5e9bfbb3c1a83267760ce3c142574c9dbf64577f75739f463c644db3f5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/2014/12/23/n2/consolide/20160613/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/2014/12/23/n2/consolide/20160613/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3648dd0b1c641f1681305520770658907c64b1b39ad8b57a4e4282dc0a6f7432"
+  "record_sha256": "83c99b785b736712f38606db0719e8b785502826772a784292d8947b278f0ad7"
 }

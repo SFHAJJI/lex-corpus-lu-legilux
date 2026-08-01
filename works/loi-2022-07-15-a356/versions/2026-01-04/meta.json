@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/01/2026 : Loi du 15 juillet 2022 instaurant un r\u00E9gime d\u2019aides dans le contexte du syst\u00E8me d\u2019\u00E9change de quotas d\u2019\u00E9mission de gaz \u00E0 effet de serre pour la p\u00E9riode 2021-2030.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a356/consolide/20260104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0ac6c420e212b83a254c25e3773885c98d243a5bfa8824047d741911dd924803",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a356/consolide/20260104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2022/07/15/a356/consolide/20260104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cf8aeb153413c51fce93bae9216dcb7f890924ed6afb69153d9ddb6941b0edcf"
+  "record_sha256": "7bace037ecbd32be1970ed03fcc48bf407d197162f0f768fd054e99650fe5422"
 }

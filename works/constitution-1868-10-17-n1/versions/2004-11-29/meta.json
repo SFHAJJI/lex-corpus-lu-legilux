@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 29/11/2004 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "96685c56e4f646b5691d72f1153d7d9fe2e37fa5757d3f1b0b55eecf20c18460",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/20041129/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "612de8d78f12f4113c40a58e98c5727371604c5fc07f26a67879b5f67d7e4450"
+  "record_sha256": "0c0d17e0f955fb861d128f3e01f1a7bc8108a14017a93c3ff707de4ace0c006c"
 }

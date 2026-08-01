@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2022 : Loi du 24 juin 2020 portant introduction de mesures temporaires relatives \u00E0 la loi communale modifi\u00E9e du 13 d\u00E9cembre 1988 et \u00E0 la loi modifi\u00E9e du 27 mars 2018 portant organisation de la s\u00E9curit\u00E9 civile dans le cadre de la lutte contre le Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20220701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3207ffad4e8b7a985bf6ca56954e6ffec0892ce78e04f18abb849a5fa602e93f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20220701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a531/consolide/20220701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "27a1aac07e47f796aa5492ed460ed62bbd5c2e581065402fdc2947b57e539ff1"
+  "record_sha256": "513eceaab443b0df79bf56c86d84a2ed83b12496960387a882846111caa34394"
 }

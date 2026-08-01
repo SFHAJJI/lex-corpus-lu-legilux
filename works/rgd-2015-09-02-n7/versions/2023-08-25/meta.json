@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/08/2023 : R\u00E8glement grand-ducal du 2 septembre 2015 fixant les modalit\u00E9s de d\u00E9livrance et de tenue du carnet num\u00E9rique de travail de l\u0027intermittent du spectacle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/consolide/20230825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "103c04d9803ec157c2a28d7b8e2da0a099c7fec5a9c9ac83242968af6021bcba",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/consolide/20230825/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2015/09/02/n7/consolide/20230825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ec2a4ee3bf204b1fbca1c10c45b295c146f63b65120f94eeb52b4dc5c3b01acb"
+  "record_sha256": "f91a86c05f6cbb6710b30f43589c7a772e9396ec57281fc1b2b145bea235f8c4"
 }

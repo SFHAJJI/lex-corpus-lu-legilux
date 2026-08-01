@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2017 : Loi du 18 juillet 1983 concernant la conservation et la protection des sites et monuments nationaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/07/18/n1/consolide/20170401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8798a760c14b10dda1b3ff752f02808e1dc56c74270c55cd3da20bb414e6e697",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1983/07/18/n1/consolide/20170401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1983/07/18/n1/consolide/20170401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5f98a27344549c39d08408826682325a86ea803d42c8761fed67cb11657ee680"
+  "record_sha256": "99f722aeea02225a2ac427f275c8426b8b63c7d58977f4ae29edad8457442f64"
 }

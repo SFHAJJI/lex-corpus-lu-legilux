@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "R\u00E9quisitions",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/requisitions/20180701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d30fa553a9691f34aba930d8f776ab19f65fe7272c0e0f75f680162390b60fdc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/requisitions/20180701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/requisitions/20180701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b54c336d0b460a7b8c6d5f519e2e2754362769f3cfb27e440206dbc32fd226ca"
+  "record_sha256": "740a5d0c7aec7cd3767f7f9487c714b9327450dbe18b1f54c5369e7a22bebfd3"
 }

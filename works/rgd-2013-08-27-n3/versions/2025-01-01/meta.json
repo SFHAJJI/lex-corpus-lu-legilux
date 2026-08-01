@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2025 : R\u00E8glement grand-ducal du 27 ao\u00FBt 2013 concernant la composition, l\u2019organisation et le fonctionnement du Conseil sup\u00E9rieur de l\u2019am\u00E9nagement du territoire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n3/consolide/20250101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2286e8baa4a3e355a9f5113afae1709aabccb774acb4ba055958a27327e85268",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n3/consolide/20250101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/08/27/n3/consolide/20250101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c19da97d594e073d51d3e782cad10756fe14a888db70ca55681ad72d965c1db4"
+  "record_sha256": "b1871dceb8ff94803edbd32c33f67a09cd8eddfb35de273a74eb03b0a0ff7495"
 }

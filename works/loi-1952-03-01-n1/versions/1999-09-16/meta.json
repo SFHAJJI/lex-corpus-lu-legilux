@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/09/1999 : Loi du 1er mars 1952 modifiant certaines dispositions relatives aux imp\u00F4ts directs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19990916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8d0b27df866c95cd386569b62175224d1f1cfefe0fa3c54d83989be9ab8cc372",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19990916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1952/03/01/n1/consolide/19990916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9353a04f4296f8a2657d9863625b25ddcc1da2a18d2a2b3ebc3565ff471ee369"
+  "record_sha256": "4e64651384027db9cd8641401378654d9403bb7ec327c92860ff055b73a04b6a"
 }

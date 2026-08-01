@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 03/03/2022 : Loi du 17 ao\u00FBt 2018 sur l\u2019archivage et portant modification\\n1\u00B0 de la loi modifi\u00E9e du 25 juin 2004 portant r\u00E9organisation des instituts culturels de l\u2019\u00C9tat ;\\n2\u00B0 de la loi \u00E9lectorale modifi\u00E9e du 18 f\u00E9vrier 2003 ;\\n3\u00B0 du d\u00E9cret modifi\u00E9 du 18 juin 1811 contenant r\u00E8glement pour l\u2019administration de la justice en mati\u00E8re criminelle, de police correctionnelle, et de simple police, et tarif g\u00E9n\u00E9ral des frais.",
       "title_short": "Loi du 17 ao\u00FBt 2018 relative \u00E0 l\u2019archivage.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/consolide/20220303/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5630ec7237739a9c2b42b6232e9d06adfc8168fd11d713d6b01236630aa0f95c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/consolide/20220303/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/08/17/a706/consolide/20220303/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9e14fe5537f3d035ae782cf2b9767d0386dd853dabd1412dd572c907ac90226b"
+  "record_sha256": "806be7fd36ab8cdccddcaf3bc4f4e544fd0e1885a6d326cbdc64431f8089063f"
 }

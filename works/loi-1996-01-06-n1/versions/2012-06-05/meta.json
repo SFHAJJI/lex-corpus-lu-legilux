@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/06/2012 : Loi du 6 janvier 1996 sur la coop\u00E9ration au d\u00E9veloppement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20120605/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "cae6180cbd31c92fd155c0c837ba0518aada533750e47bf6a8141f153752d8e0",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20120605/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/01/06/n1/consolide/20120605/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "38a04959a1c5110a251f301307ec96b4b12be37c6ebe501a0a859435e46b4b4d"
+  "record_sha256": "619c05a81b625f43020e02b5f9408ac8ba8cef0afdc0614587c1ffa2166ae514"
 }

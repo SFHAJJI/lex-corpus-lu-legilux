@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 23/12/2024 : R\u00E8glement grand-ducal du 19 juillet 1997 relatif aux limitations de la circulation des poids lourds les dimanches et jours f\u00E9ri\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/19/n2/consolide/20241223/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "72057dacf79ee529a46dfc5fbb0f8dc6ceec478cae4ef82343131baca1b42796",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/19/n2/consolide/20241223/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1997/07/19/n2/consolide/20241223/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1fd146da07079edfbc02323d69a9fa504266cef423609e607a06ce4a3c936f0b"
+  "record_sha256": "751e8fd2181bf667a1745dca3160a8703acc1de5c972a793c27a2a036e01187f"
 }

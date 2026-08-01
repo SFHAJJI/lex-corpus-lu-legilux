@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2014 : Loi du 27 juin 2016 concernant le soutien au d\u00E9veloppement durable des zones rurales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20140701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c98eb19a344babe4e8f0284258909c353500d62018f49e437bb16cc51fb9a044",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20140701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/06/27/n7/consolide/20140701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cf6556f4fee9ec4e48a1e644035a0955fe089a09130773c591d473622a6a44df"
+  "record_sha256": "526f58baf3431c21b68e936df27ef9b9093d772657f312a756ad0715eaac6807"
 }

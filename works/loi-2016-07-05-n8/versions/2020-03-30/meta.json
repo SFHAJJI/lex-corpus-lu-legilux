@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 30/03/2020 : Loi du 5 juillet 2016\\n1. portant r\u00E9organisation du Service de renseignement de l\u0027\u00C9tat;\\n2. modifiant\\n- le Code d\u0027instruction criminelle,\\n- la loi du 15 juin 2004 relative \u00E0 la classification des pi\u00E8ces et aux habilitations de s\u00E9curit\u00E9, et\\n- la loi du 25 mars 2015 fixant le r\u00E9gime des traitements et les conditions d\u0027avancement des fonctionnaires de l\u0027\u00C9tat.",
       "title_short": "Loi du 5 juillet 2016 portant r\u00E9organisation du Service de renseignement de l\u0027\u00C9tat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20200330/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dc19ee6119d9b0f0f453021e8b18a54c4a215c7a97240594c71e007ac99dfbc6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20200330/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2016/07/05/n8/consolide/20200330/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6f79af755bdbdf4876251e7bd2a7bb0d96dbb684a1c1750b2f921a6b47a4ed3f"
+  "record_sha256": "55a0310b2c17770af6b6ed95fa35456a82f67fd8b8b1b0d0e73ba66a1df93e03"
 }

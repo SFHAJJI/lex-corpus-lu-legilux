@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 26/05/2017 : R\u00E8glement grand-ducal du 15 novembre 2011 portant d\u00E9termination des modalit\u00E9s de d\u00E9signation des repr\u00E9sentants des \u00E9trangers au Conseil national pour \u00E9trangers, ainsi que leur r\u00E9partition par nationalit\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170526/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c628be795818729e31baa9572203b6e6be39eb4ffe49be5e84cd46db18445ac6",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170526/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/11/15/n1/consolide/20170526/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0d30e6d43243f3f140dc932cbaecb1558f95e7cd944e0af6d8f7cd926df7ba42"
+  "record_sha256": "d911ecf60b7190cde8615f416a3980267c34687db8424478f8cb71c3ee41433e"
 }

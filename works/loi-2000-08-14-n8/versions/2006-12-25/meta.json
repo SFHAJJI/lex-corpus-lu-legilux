@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 25/12/2006 : Loi du 14 ao\u00FBt 2000 relative au commerce \u00E9lectronique modifiant le code civil, le nouveau code de proc\u00E9dure civile, le code de commerce, le code p\u00E9nal et transposant la directive 1999/93 du 13 d\u00E9cembre 1999 relative \u00E0 un cadre communautaire pour les signatures \u00E9lectroniques, la directive 2000/31/CE relative \u00E0 certains aspects juridiques des services de la soci\u00E9t\u00E9 de l\u2019information, certaines dispositions de la directive 97/7/CEE du 20 mai 1997 concernant la vente \u00E0 distance des biens et des services autres que les services financiers.",
       "title_short": "Loi du 14 ao\u00FBt 2000 relative au commerce \u00E9lectronique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20061225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b0b43583f50e6f5073b2e6fa42dfe9a705c3a17b2112de268e4f4fa025d56144",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20061225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20061225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "260fb120a1c8427e48c899dac57736330cc0c61b118ebe30b4101d42a0a40124"
+  "record_sha256": "a2a644aba36daa424720cd3c65bad7c1a8d0ed9082556214669ec260722eddce"
 }

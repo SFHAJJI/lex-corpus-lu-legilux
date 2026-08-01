@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2017 : R\u00E8glement grand-ducal du 18 janvier 2012 fixant les modalit\u00E9s du calcul et du remboursement des frais de personnel \u00E0 charge de l\u2019\u00C9tat pour les fonctionnaires communaux, les employ\u00E9s communaux et les salari\u00E9s des communes qui continuent \u00E0 intervenir dans l\u2019enseignement fondamental suivant conventions \u00E9tablies par l\u2019\u00C9tat avec les communes concern\u00E9es.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/01/18/n1/consolide/20170101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0af883adb77369c35eb5c285c1df1e1cb20566ab3afa6d9d77e5d8812d698557",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/01/18/n1/consolide/20170101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/01/18/n1/consolide/20170101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5ee0cb89b9e2057003e3501111089002d5a5d36c4d1294f42f940efa3499e7ff"
+  "record_sha256": "375f960c0fef5b64efad1485074ab83031389f87a8c69975e2eea4506ba4d356"
 }

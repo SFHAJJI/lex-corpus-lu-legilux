@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/09/1998 : R\u00E8glement grand-ducal du 29 juin 1990 portant r\u00E8glement d\u2019ordre int\u00E9rieur pour la cour d\u2019appel, les tribunaux d\u2019arrondissement et les justices de paix.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/06/29/n1/consolide/19980916/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "504a665ca20ba7da1bbae6bd46ae152730b858a434864b37c643421485c5f677",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/06/29/n1/consolide/19980916/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/06/29/n1/consolide/19980916/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "078910b62851af03fc0a5d708657c9e217a4c5ef2a923c3ede58c6a46e4418f8"
+  "record_sha256": "de3727a112a61fa9e31a5b1aad09eab3a2a72bea211286ad485f7aa5714ec0da"
 }

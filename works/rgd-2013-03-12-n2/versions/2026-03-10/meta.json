@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/03/2026 : R\u00E8glement grand-ducal du 12 mars 2013 portant sur la composition, l\u2019organisation et le fonctionnement du Comit\u00E9 des statistiques publiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/03/12/n2/consolide/20260310/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "35c049b3640ee3ed7d553b03f0c7d6da39be092c93c0313a948f8c09e3d15b35",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/03/12/n2/consolide/20260310/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/03/12/n2/consolide/20260310/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4519c63462a287b35c38efa7977bba95cf5177f4c9909cb29f824c8364788e08"
+  "record_sha256": "a12995d1ee985a53bce726ceb27d354d36ee4d92f6d625e0561e4e5567370368"
 }

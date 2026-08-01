@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/1985 : Texte coordonn\u00E9 du 18 d\u00E9cembre 1986 de la loi du 21 mars 1966 portant institution d\u0027un conseil \u00E9conomique et social, telle qu\u0027elle a \u00E9t\u00E9 modifi\u00E9e par la loi du 15 d\u00E9cembre 1986.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "dd4aee9efea0b6f3ac5d3f372d7eb7f0a7f33c4201c768dce2b64a9aaf7c38ed",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/tc/1986/12/18/n1/consolide/19861221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4c3800a849f1d49568ca90fd2777fb1b0ea081d1298fa8e41c24f7430612e67b"
+  "record_sha256": "66230474751f99944d5e9d88962e14e1723dca43ebf8346423c9364e2d93acfe"
 }

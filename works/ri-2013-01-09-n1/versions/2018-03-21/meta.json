@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/03/2018 : R\u00E8glement Int\u00E9rieur de l\u0027Ordre des Avocats du Barreau de Luxembourg tel que adopt\u00E9 par le Conseil de l\u0027Ordre lors de sa r\u00E9union du 9 janvier 2013.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20180321/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fb4e642af8400a41718724b93404edbbe2189ee408bb05f7e2647a719847391d",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20180321/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/ri/2013/01/09/n1/consolide/20180321/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5d52b0cb662ea8ded8a86625eb7c0e38f6678a432149b49a7fe1c2f224f0494f"
+  "record_sha256": "362b97bc5e4fcf255459d605dbac05e3689eb40ae5d5a9e58867a24dc58bbe89"
 }

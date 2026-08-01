@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2005 : R\u00E8glement grand-ducal du 23 d\u00E9cembre 2003 portant ex\u00E9cution de l\u2019article 8 sous 1 d) de la loi modifi\u00E9e du 19 f\u00E9vrier 1973 concernant la vente de substances m\u00E9dicamenteuses et la lutte contre la toxicomanie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20050801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a297b985ab18e4c54d57773b17e647e94a16af3103ceb85b0d1c5deb4f48c51b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20050801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2003/12/23/n3/consolide/20050801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "45200575df9a40354972d7daabcf82cde6af358b9bd1da55a9c46808c56ac98a"
+  "record_sha256": "18b62ae3311d57ee6ad16e412d59ebb5bb02ddb745e1a1001ddbf7726f2cc40c"
 }

@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/08/2014 : Loi modifi\u00E9e du 31 juillet 1991 d\u00E9terminant les conditions d\u0027autorisation d\u0027exercer la profession de pharmacien.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/31/n3/consolide/20140801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "450ed911bbc5a40076916164ff09a9dcb03d314b8b6d9e13770eb953c921c488",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/31/n3/consolide/20140801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/31/n3/consolide/20140801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e41b1c38205a385c623ae9a6054f41535deda14d143cb1e7247ec913ade41bfc"
+  "record_sha256": "1540babb58ee67fbf2a8b597a239c2b05c16a54a034567962b11a5dace3ea627"
 }

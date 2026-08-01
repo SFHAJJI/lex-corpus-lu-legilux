@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Conseil d\u0027\u00C9tat",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240426/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "50c78113f367e005014b48622641fc96e94d5bde87daec1bd00073a57f6fbf52",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240426/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/conseil_etat/20240426/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "66664178d6b78b0fd21851e447881ea13f003eaae1de54ed169aa6a7e9a8f448"
+  "record_sha256": "5095b6167cd7fd2abdabf7b2b9f02d5d5bbe240d6acd91b3f19ddcf20c3db4fa"
 }

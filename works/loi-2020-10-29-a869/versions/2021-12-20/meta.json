@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/12/2021 : Loi du 29 octobre 2020 portant :\\n1\u00B0 d\u00E9rogation \u00E0 l\u2019article 27 de la loi modifi\u00E9e du 6 f\u00E9vrier 2009 concernant le personnel de l\u2019enseignement fondamental ;\\n2\u00B0 modification de la loi modifi\u00E9e du 29 juin 2005 fixant les cadres du personnel des \u00E9tablissements d\u2019enseignement secondaire ;\\n3\u00B0 modification de la loi modifi\u00E9e du 23 juillet 2016 portant cr\u00E9ation d\u2019une r\u00E9serve nationale des employ\u00E9s enseignants des lyc\u00E9es.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/10/29/a869/consolide/20211220/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "74d33b4ad428c739f637c5d3f3789ee3f4bd57eba089a4b41a14b26cd92c5c2a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/10/29/a869/consolide/20211220/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/10/29/a869/consolide/20211220/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ca78a3b28cce391aa8f57e896389b507021af8f67c8b1b0bed8090d67a927ff5"
+  "record_sha256": "f7788022688cb99f57168c811e0ca354fe47a517c6af75c359b91a72e91ba988"
 }

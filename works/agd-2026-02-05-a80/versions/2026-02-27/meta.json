@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 27/02/2026 : Arr\u00EAt\u00E9 grand-ducal du 5 f\u00E9vrier 2026 portant publication des amendements \u00E0 l\u2019Annexe III de la Convention de Rotterdam sur la proc\u00E9dure de consentement pr\u00E9alable en connaissance de cause applicable dans le cas de certains produits chimiques et pesticides dangereux qui font l\u2019objet du commerce international, faite \u00E0 Rotterdam, le 10 septembre 1998.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2026/02/05/a80/consolide/20260227/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "65633df9dcb37d563a67c85d10e93ca504a2a73b8f1416e3497559d88aa4b7b8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/2026/02/05/a80/consolide/20260227/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/2026/02/05/a80/consolide/20260227/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e5327390c94424ea605c7d62ef415f4bfbc0136279db1d2c64dc25d9a0514b76"
+  "record_sha256": "969212fcb2ee7fb2be80b6c90f287496b66064430bb19baaaaecc0535b163f9e"
 }

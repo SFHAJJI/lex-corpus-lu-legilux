@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2023 : Loi du 15 d\u00E9cembre 2020 autorisant la participation de l\u2019\u00C9tat au financement des mesures prises en charge par l\u2019assurance maladie-maternit\u00E9 dans le cadre de la crise sanitaire due \u00E0 la pand\u00E9mie Covid-19 et modifiant la loi modifi\u00E9e du 20 d\u00E9cembre 2019 concernant le budget des recettes et des d\u00E9penses de l\u2019\u00C9tat pour l\u2019exercice 2020.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a993/consolide/20230101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "393ca83d338a03f5e8297f3b0eea63ba2fab67e3773147f9b191f5591b10df53",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a993/consolide/20230101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/15/a993/consolide/20230101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ffd673d5dd8829daf8ffe9dc034f23344aff076a63d5ccf627c0f39d5f8c6885"
+  "record_sha256": "f4147b84c3f0cca61e061d8358c2bac1343e2a12b33f03e1f4802d6086d16e07"
 }

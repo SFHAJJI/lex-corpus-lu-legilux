@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/07/2022 : Loi du 19 mai 2006 portant transposition de la directive 2004/25/CE du Parlement europ\u00E9en et du Conseil du 21 avril 2004 concernant les offres publiques d\u0027acquisition.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n1/consolide/20220724/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9f37226466001fd804fc181b1b895e60d41d740f62abc694dde5152334b59141",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n1/consolide/20220724/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2006/05/19/n1/consolide/20220724/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "87df90386160d7ba86922cc769e841fa9db6420bac1304576630d16533b8ecea"
+  "record_sha256": "0da65312ee8874887957af21e1896063e06630f0a55a4edfa92ee6cbc3c7ec6e"
 }

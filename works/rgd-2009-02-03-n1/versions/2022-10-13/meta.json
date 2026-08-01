@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/10/2022 : R\u00E8glement grand-ducal du 3 f\u00E9vrier 2009 relatif au contr\u00F4le m\u00E9dical des \u00E9trangers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20221013/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "02bb5dd0028e411c0544e5f1f2098bec1b6d9faeaca1d484f08775cd250208b4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20221013/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/02/03/n1/consolide/20221013/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6a52ea425f0714d69628c57a1b2c56950417cf0dbac2b87df252f3bec4c9c8aa"
+  "record_sha256": "7d8aa962501a4cb5150502450faad9ec9f867d018760f4d682d6c6687b069c02"
 }

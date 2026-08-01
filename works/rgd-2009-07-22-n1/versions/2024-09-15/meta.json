@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2024 : R\u00E8glement grand-ducal du 22 juillet 2009 d\u00E9terminant le contenu de la convention de stage de pratique professionnelle des \u00E9l\u00E8ves fr\u00E9quentant une classe de la section de la formation de l\u2019\u00E9ducateur ainsi que le montant de l\u0027aide particuli\u00E8re \u00E0 verser aux institutions qui prennent en stage des \u00E9l\u00E8ves.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20240915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6cb625f4de83a06b632904a8b1e035f4f41b6c45688eed2908b653739162c168",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20240915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/07/22/n1/consolide/20240915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "540e94f4f00ed5654031ce6aa269acb23e63ea64e8aaf0286aa65e78f0dde42c"
+  "record_sha256": "5638be9fbed99c684803269b3c6b6cb2c269bd52cc3439e29f0e875c16498c6b"
 }

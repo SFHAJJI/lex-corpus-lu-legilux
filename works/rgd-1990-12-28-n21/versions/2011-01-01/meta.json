@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2011 : R\u00E8glement grand-ducal du 28 d\u00E9cembre 1990 portant ex\u00E9cution de l\u0027article 140 de la loi du 4 d\u00E9cembre 1967 concernant l\u0027imp\u00F4t sur le revenu.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/20110101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d1b235f2792559b20dd941bf4df4a8054b685614e0354b1e113975971fe35dad",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/20110101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/12/28/n21/consolide/20110101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "17962085d42db9445b91541539fdab4830809939de5f558394429c7346745867"
+  "record_sha256": "00e566721bd1f68de6e433e39e7696a3b324fc680063649782caad84852fa1c2"
 }

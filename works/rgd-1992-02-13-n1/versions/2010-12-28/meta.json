@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/2010 : R\u00E8glement grand-ducal du 13 f\u00E9vrier 1992 fixant les limites \u00E0 imposer au volume des messages publicitaires pouvant \u00EAtre contenus dans les services de radio locale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/consolide/20101228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5418cbca53ea36cb42e82cce23d790d034008134c5eb833f7104c7b27a133b01",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/consolide/20101228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/02/13/n1/consolide/20101228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "933da6eecc965a18ceb0d8329cfad1844560ccf98b5e866f581d5895c8ce7edd"
+  "record_sha256": "e4649af0d51fe43eaaabe1ddef2f1211ebca431d561d77299772e58638116cec"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/03/2026 : Loi du 31 juillet 1962 ayant pour objet le renforcement de l\u2019alimentation en eau potable au Grand-Duch\u00E9 de Luxembourg \u00E0 partir du r\u00E9servoir d\u2019Esch-sur-S\u00FBre.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "3d3c84c8aae2abe99df46f1fdb6df48d4c5d8a494e73745b472e5cd8e7240ae3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1962/07/31/n2/consolide/20260303/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "73afb4781d12a1b9c9f158a34b32f75af33196177e2e8406cd15738f3d9fd92e"
+  "record_sha256": "3500a272d14e0fa521375fe1ac1e17671959b6e0041494794c9d45802bd160e8"
 }

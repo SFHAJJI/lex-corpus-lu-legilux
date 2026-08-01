@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/03/1849 : R\u00E8glement de la d\u00E9putation permanente du 13 juillet 1837 sur l\u0027exercice du droit d\u0027affouage et autres \u00E9moluments communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/consolide/18490314/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7f119cfbd06ce721fc8be66860067d9a1e09a93fd95764fbc96b406517fe4b42",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/consolide/18490314/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/reg/1837/07/13/n1/consolide/18490314/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d2e59540a2ef8d0431be9b5f53d2d8a0c0124fa395074c6d532571cc84070f7a"
+  "record_sha256": "d62f8773537f4c24fae543b655999a3b9e0fde16a1a5794e0f1a394e06ac6e18"
 }

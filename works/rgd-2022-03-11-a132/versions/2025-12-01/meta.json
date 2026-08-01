@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 01/12/2025 : R\u00E8glement grand-ducal du 11 mars 2022 fixant les programmes et les modalit\u00E9s d\u2019organisation de la formation sp\u00E9ciale et de l\u2019examen de fin de formation sp\u00E9ciale des fonctionnaires communaux et modifiant :\\n1\u00B0 le r\u00E8glement grand-ducal modifi\u00E9 du 20 d\u00E9cembre 1990 portant fixation des conditions d\u2019admission et d\u2019examen des fonctionnaires communaux ;\\n2\u00B0 le r\u00E8glement grand-ducal du 15 juin 2018 fixant les conditions et modalit\u00E9s d\u2019acc\u00E8s du fonctionnaire communal \u00E0 un groupe de traitement sup\u00E9rieur au sien et de l\u2019employ\u00E9 communal \u00E0 un groupe d\u2019indemnit\u00E9 sup\u00E9rieur au sien ;\\n3\u00B0 le r\u00E8glement grand-ducal du 23 avril 2021 portant organisation de la formation pendant le service provisoire des fonctionnaires communaux ainsi que du cycle de formation de d\u00E9but de carri\u00E8re des employ\u00E9s communaux.\\n",
       "title_short": "R\u00E8glement grand-ducal du 11 mars 2022 fixant les programmes et les modalit\u00E9s d\u2019organisation de la formation sp\u00E9ciale et de l\u2019examen de fin de formation sp\u00E9ciale des fonctionnaires communaux",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/03/11/a132/consolide/20251201/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "33c8d7ced73b0b03b4b1fb32fec4b533e4d71263ac15e8613472bc7b3cce1f20",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2022/03/11/a132/consolide/20251201/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2022/03/11/a132/consolide/20251201/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2786631f373ee52094f44cbe2eb09583c8fa1019e3f60c3b2ac425e2f3cfb876"
+  "record_sha256": "2219a24b7515403bea763b04abca264f1cf059fca9c282efee4bba006635c782"
 }

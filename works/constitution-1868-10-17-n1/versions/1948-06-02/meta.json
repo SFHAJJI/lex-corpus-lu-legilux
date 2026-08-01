@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/06/1948 : Constitution du Grand-Duch\u00E9 de Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480602/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8c63c1c3c6e0e37f918b126f33b6efcff0f82ef10b2a1e1d575690bf8d909e6a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480602/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/constitution/1868/10/17/n1/consolide/19480602/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "59169d5c091ad4490e4ec1b71083f9c1dbd76c79caf311aa7e35fb2a5d0406cb"
+  "record_sha256": "f7b475d318e29ad8751ea48ce9962dedad0acf551b393def143194bc1fcbc44a"
 }

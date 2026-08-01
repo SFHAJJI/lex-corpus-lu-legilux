@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 17/07/2023 : R\u00E8glement grand-ducal du 7 juin 2007 d\u00E9terminant pour la profession d\u0027orthoptiste:\\n 1. les \u00E9tudes en vue de l\u0027obtention du dipl\u00F4me,\\n 2. les modalit\u00E9s de reconnaissance des dipl\u00F4mes \u00E9trangers, et\\n 3. l\u0027exercice de la profession.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/consolide/20230717/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "af2ef1aeb635f7723e5724f7918fa61bc85ceb83514ccdbacccaa295a4bc2e74",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/consolide/20230717/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/06/07/n2/consolide/20230717/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c1773785201b8c9ca8d2be159ab396001371e7fe3d4410d1c4159d0d6115f175"
+  "record_sha256": "9b28f49cb00ec7af8bdf49cac3f3f373263be956e0e219e2bb7720f64373ebd2"
 }

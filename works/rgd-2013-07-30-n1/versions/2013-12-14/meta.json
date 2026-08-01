@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/2012 : R\u00E8glement grand-ducal du 30 juillet 2013 relatif aux d\u00E9chets d\u0027\u00E9quipements \u00E9lectriques et \u00E9lectroniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "96ef6ae9a965011a82f1fca4575b4519e8e4a6185907c000b0a73012b91351ec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n1/consolide/20131214/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "571f4438e5c16a25f61ca0c8cd738d34e58d88f17926bfce5186f63037d3dd3a"
+  "record_sha256": "ccbc242697d7b604b18f9e167464ab550da8134db87102a4a4a96d01c9e39380"
 }

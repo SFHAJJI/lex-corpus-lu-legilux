@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/12/2009 : Loi du 8 juillet 1986 portant r\u00E9glementation de la mise sur le march\u00E9 des d\u00E9tergents.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/08/n1/consolide/20100815/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "97271adbe391e72ec84ee186516144c42a66fa5557130e81ca453ebb3deccd0e",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/08/n1/consolide/20100815/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/08/n1/consolide/20100815/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6e15f47286ea7e52f63f8b0142066c649e360bf809ba98ceac7dcdc42544a1e9"
+  "record_sha256": "d8bfa0a7781d786e906c866931ad800591722af9744daf96f9bb10f2e43fdd3e"
 }

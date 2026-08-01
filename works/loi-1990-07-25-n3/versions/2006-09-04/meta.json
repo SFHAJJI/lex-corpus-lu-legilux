@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/09/2006 : Loi du 25 juillet 1990 concernant le statut des administrateurs repr\u00E9sentant l\u0027Etat ou une personne morale de droit public dans une soci\u00E9t\u00E9 anonyme.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/07/25/n3/consolide/20060904/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "074a4d9f7c53b9fc72c3c438d16e9f47b5d022e9da98ced2992b29a123a8b169",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/07/25/n3/consolide/20060904/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/07/25/n3/consolide/20060904/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6509bce173cc96f51601c4d004c887fb6499163178bc51d3ef8b1e95ce6a2114"
+  "record_sha256": "359d1b932d5a360f35770558bc1d54d908a2a67ec113c1eddb99e506be97be46"
 }

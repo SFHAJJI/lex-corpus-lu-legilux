@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name=""><meta>
+	<identification source="#2014A0119A">
+		<FRBRWork>
+			<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo"/>
+			<FRBRuri value=""/>
+			<FRBRdate date="2014-01-24" name="document"/>
+			<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MS"/>
+			<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+		</FRBRWork>
+		<FRBRExpression>
+			<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo/fr"/>
+			<FRBRuri value=""/>
+			<FRBRdate date="2014-01-24" name="document"/>
+			<FRBRauthor as="#author" href=""/>
+			<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+		</FRBRExpression>
+		<FRBRManifestation>
+			<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo/fr/xml"/>
+			<FRBRuri value=""/>
+			<FRBRdate date="2014-01-24" name="document"/>
+			<FRBRauthor as="#author" href=""/>
+		</FRBRManifestation>
+             <scl:JOLUXWork>
+                 <scl:JOLUXComplexWork>
+                     <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2</scl:jolux>
+                 </scl:JOLUXComplexWork>
+                 <scl:JOLUXLegalResource>
+                     <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo</scl:jolux>
+                     <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2</scl:jolux>
+                     <scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/TC</scl:jolux>
+                     <scl:jolux scl:name="dateDocument">2014-01-24</scl:jolux>
+                     <scl:jolux scl:name="publicationDate">2014-01-24</scl:jolux>
+                     <scl:jolux scl:name="historicalLegalId">2014A0119A</scl:jolux>
+                     <scl:jolux scl:name="dateApplicability">2014-01-01</scl:jolux>
+                     <scl:jolux scl:name="dateEntryInForce">2014-01-27</scl:jolux>
+                     <scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/12</scl:jolux>
+                     <scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal du 14 mars 2007 relatif aux avertissements taxés et aux consignations en matière d'interdiction de fumer.</scl:jolux>
+                     <scl:jolux scl:lg="fra" scl:name="titleShort">TC - RGD 14 mars 2007 - interdiction de fumer</scl:jolux>
+                     <scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MS</scl:jolux>
+                     <scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/950</scl:jolux>
+                     <scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/158</scl:jolux>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+                     <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+                 </scl:JOLUXLegalResource>
+             </scl:JOLUXWork>
+             <scl:JOLUXExpression>
+                 <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo/fr</scl:jolux>
+                 <scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo</scl:jolux>
+                 <scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+                 <scl:jolux scl:lg="fra" scl:name="title">TEXTE COORDONNE du Règlement grand-ducal du 14 mars 2007 relatif aux avertissements taxés et aux consignations en matière d'interdiction de fumer.</scl:jolux>
+                 <scl:jolux scl:lg="fra" scl:name="titleShort">TC - RGD 14 mars 2007 - interdiction de fumer</scl:jolux>
+             </scl:JOLUXExpression>
+             <scl:JOLUXManifestation>
+                 <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo/fr/xml</scl:jolux>
+                 <scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/tc/2014/01/24/n2/jo/fr</scl:jolux>
+                 <scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/leg/memorial/2014/12/fr/pdf</scl:jolux>
+                 <scl:jolux scl:name="memorialPage">119</scl:jolux>
+                 <scl:jolux scl:name="memorialSequence">A</scl:jolux>
+                 <scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                 <scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+                 <scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                 <scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+                 <scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+                 <scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+                 
+                 <scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-tc-2014-01-24-n2-jo-fr-xml.xml</scl:jolux>
+             </scl:JOLUXManifestation>
+	</identification>
+</meta>
+     <preface>
+	<longTitle>
+			<p><ref href="/eli/etat/leg/rgd/2007/03/14/n1">TEXTE COORDONNE du Règlement grand-ducal du 14 mars 2007</ref> relatif aux avertissements taxés et aux consignations en matière d'interdiction de fumer,</p>
+	</longTitle>
+</preface>
+     <preamble>
+          <container name="preamble">
+               <p>(Mém. A - 38 du 20 mars 2007, p. 756) modifié par:</p>
+               <p>Règlement grand-ducal du 23 décembre 2013.</p>
+               <p>(Mém. A - 228 du 27 décembre 2013, p. 4244)</p>
+          </container>
+     <formula name=""><p>Texte coordonné au 27 décembre 2013 - Texte coordonné au 27 décembre 2013</p></formula></preamble>
+     <body>
+          
+          <article id="art_1er">
+               <num>Art. 1<sup>er</sup>.</num>
+               <alinea><content><p>Le montant de la taxe à percevoir pour l'avertissement taxé prévu par la loi du 11 août 2006 relative à la lutte antitabac est fixé à 24 euros.</p>
+          </content></alinea></article>
+          <article id="art_2">
+               <num>Art. 2.</num>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>La perception sur place du montant de la taxe se fait soit en espèces, soit par règlement au moyen des seuls cartes de crédit et modes de paiement électronique acceptés à cet effet par les membres de la police grand-ducale et de l'administration des douanes et accises.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Lorsque le montant de l'avertissement taxé ne peut pas être perçu sur le lieu même de l'infraction, la convocation est donnée d'après une formule spéciale composée d'un reçu, d'une copie et d'une souche.</p></content></alinea>
+                    <alinea><content><p>A cet effet est utilisée la formule spéciale de convocation dont question à l'article 2 sous 2. du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu'aux mesures d'exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points, et figurant à l'annexe II - 2 dudit règlement pour les convocations données par les agents relevant de la police grand-ducale et à l'annexe II - 4 du même règlement pour les convocations données par les agents relevant de l'administration des douanes et accises.</p></content></alinea>
+                    <alinea><content><p>L'agent verbalisant supprime les mentions qui ne conviennent pas.</p></content></alinea>
+                    <alinea><content><p>Les formules, dûment numérotées, sont reliées en carnets de 15 exemplaires.</p></content></alinea>
+                    <alinea><content><p>Le contrevenant s'en acquittera dans le délai imparti au bureau de la police grand-ducale ou des douanes et accises lui désigné par l'agent verbalisant, soit par versement ou virement de la taxe sur un des comptes-chèques postaux spécialement ouverts à cet effet au nom de la police ou des douanes et accises.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_3">
+               <num>Art. 3.</num>
+               <alinea><content><p>Sans préjudice des dispositions de l'article 4 applicables en cas de règlement par versement ou virement postal, l'avertissement taxé est donné d'après des formules spéciales, composées, d'un reçu, d'une copie et d'une souche.</p>
+               <p>A cet effet est utilisée la formule spéciale de convocation dont question à l'article 2 sous 2. du règlement grand-ducal modifié du 26 août 1993 relatif aux avertissements taxés, aux consignations pour contrevenants non résidents ainsi qu'aux mesures d'exécution de la législation en matière de mise en fourrière des véhicules et en matière de permis à points, et figurant à l'annexe II - 1 dudit règlement pour les avertissements donnés par les agents relevant de la police grand-ducale et à l'annexe II - 3 du même règlement pour les avertissements donnés par les agents relevant de l'administration des douanes et accises.</p>
+               <p>L'agent verbalisant supprime les mentions qui ne conviennent pas.</p>
+               <p>Ces formules, dûment numérotées, sont reliées en carnets de 15 exemplaires que l'administration de l'Enregistrement et des Domaines mettra à la disposition du directeur général de la police grand-ducale et de l'administration des douanes et accises.</p>
+               <p>Toutes les taxes perçues par les membres de la police grand-ducale et de l'administration des douanes et des accises sont transmises sans retard à un compte-chèques postal déterminé de l'administration de l'Enregistrement et des</p>
+               <p>Domaines à Luxembourg.</p>
+               <p>Les frais de versement, de virement ou d'encaissement éventuels sont à charge du contrevenant, lorsque la taxe est réglée par versement ou virement bancaire. Elles sont à charge de l'Administration si le règlement se fait par carte de crédit ou au moyen d'un mode de paiement électronique.</p>
+               <p>Le catalogue des infractions est établi à l'annexe du présent règlement.</p>
+          </content></alinea></article>
+          <article id="art_4">
+               <num>Art. 4.</num>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>Un reçu est remis au contrevenant, contre le paiement de la somme due.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>La copie est remise respectivement au directeur général de la police grand-ducale ou au directeur de l'administration des douanes et des accises.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>L'information au procureur d'Etat des avertissements taxés donnés se fait moyennant l'établissement par le directeur général de la police grand-ducale et par le directeur de l'administration des douanes et des accises de relevés mensuels.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>La souche reste dans le carnet de formules.</p></content></alinea>
+                    <alinea><content><p>Du moment que le carnet est épuisé, il est renvoyé avec toutes les souches et les quittances de dépôt y relatives, par les membres de la police grand-ducale au directeur général de la police grand-ducale et par les membres de l'administration des douanes et des accises au directeur de l'administration des douanes et des accises.</p></content></alinea>
+                    <alinea><content><p>Si une ou plusieurs formules n'ont pas abouti à l'établissement d'un avertissement taxé, elles doivent être renvoyées en entier et porter une mention afférente.</p></content></alinea>
+                    <alinea><content><p>En cas de versement ou de virement de la taxe à un des comptes-chèques postaux prévus à l'article 2, le titre de virement ou de versement fait fonction de souche.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(5)</num>
+                    <alinea><content><p>Lorsque le montant de l'avertissement taxé ne peut pas être perçu sur le lieu même de l'infraction, le contrevenant se verra remettre la convocation.</p></content></alinea>
+                    <alinea><content><p>En cas d'établissement d'un procès-verbal, la copie est annexée audit procès-verbal et sera transmise au procureur d'Etat.</p></content></alinea>
+                    <alinea><content><p>La souche reste dans le carnet de formules. Du moment que le carnet est épuisé, il est renvoyé avec toutes les souches par les membres de la police grand-ducale au directeur général de la police et par les membres de l'administration des douanes et accises au directeur de cette administration.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_5">
+               <num>Art. 5.</num>
+               <alinea><content><p>Chaque unité de la police grand-ducale et de l'administration des douanes et des accises doit tenir un registre indiquant les formules mises à sa disposition, les avertissements taxés donnés et les formules annulées.</p>
+               <p>Le directeur général de la police grand-ducale et le directeur de l'administration des douanes et accises établissent au début de chaque mois, en triple exemplaire, un bordereau récapitulatif portant sur les perceptions du mois précédent; ce bordereau récapitulatif indique les noms et prénoms du contrevenant, son adresse exacte, la date et l'heure de l'infraction et la date du paiement. Un exemplaire de ce bordereau est transmis à l'administration de l'enregistrement et des domaines, et un autre exemplaire sert de relevé d'information au procureur d'Etat dans les conditions du paragraphe (3) de l'article 4.</p>
+               <p>Le directeur général de la police grand-ducale et le directeur de l'administration des douanes et des accises établissent au 31 décembre de chaque année un inventaire des opérations de l'année écoulée. Un exemplaire de cet inventaire est adressé à l'administration de l'Enregistrement et des Domaines avec les formules annulées. Un autre exemplaire est transmis au procureur d'Etat.</p>
+          </content></alinea></article>
+          <article id="art_6">
+               <num>Art. 6.</num>
+               <alinea><content><p>Le montant de la somme à consigner en vertu de l'article 12 de la loi du 11 août 2006 précitée par un contrevenant non résident non communautaire est fixé à 74 euros.</p>
+               <p>Ce montant comprend les frais bancaires ou postaux éventuels. Les frais sont toujours à charge de l'intéressé.</p>
+          </content></alinea></article>
+          <article id="art_7">
+               <num>Art. 7.</num>
+               <paragraph>
+                    <num>(1)</num>
+                    <alinea><content><p>La somme à consigner est perçue moyennant une formule spéciale composée d'un reçu, de deux copies et d'une souche.</p></content></alinea>
+                    <alinea><content><p>A cet effet est utilisée la formule dont question à l'article 3 du présent règlement, sur laquelle l'agent verbalisant supprime les mentions qui ne conviennent pas.</p></content></alinea>
+                    <alinea><content><p>Ces formules, dûment numérotées, sont reliées en carnets de 15 exemplaires que l'administration de l'Enregistrement et des Domaines met à la disposition du directeur général de la police grand-ducale et du directeur de l'administration des douanes et des accises.</p></content></alinea>
+                    <alinea><content><p>Toutes les sommes à consigner perçues par les membres de la police grand-ducale et de l'administration des douanes et des accises sont versées entre les mains du receveur de l'Enregistrement par l'intermédiaire de la caisse de consignation.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(2)</num>
+                    <alinea><content><p>Le reçu est immédiatement remis au contrevenant contre paiement de la somme à consigner.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(3)</num>
+                    <alinea><content><p>La première copie est remise à la caisse de consignation en même temps que le montant de la somme à consigner.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(4)</num>
+                    <alinea><content><p>La deuxième copie certifiée par le receveur de l'Enregistrement est annexée au procès-verbal établi en la matière.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(5)</num>
+                    <alinea><content><p>La souche, dûment certifiée par le receveur de l'Enregistrement ou, en cas de virement postal de la somme à consigner, par le préposé du bureau des postes, reste dans le carnet de formules. Du moment que le carnet est épuisé, il est renvoyé avec toutes les souches dûment certifiées par les membres de la police grand-ducale au directeur général de la police grand-ducale et par les membres de l'administration des douanes et des accises au directeur de l'administration des douanes et des accises.</p></content></alinea>
+                    <alinea><content><p>Si une ou plusieurs formules n'ont pas abouti à la perception d'une somme à consigner, elles doivent être renvoyées en entier et porter une mention afférente.</p></content></alinea>
+               </paragraph>
+               <paragraph>
+                    <num>(6)</num>
+                    <alinea><content><p>Chaque unité de la police grand-ducale et de l'administration des douanes et des accises doit tenir un registre indiquant les formules mises à sa disposition, les sommes à consigner perçues et les formules annulées.</p></content></alinea>
+                    <alinea><content><p>Le directeur général de la police grand-ducale et le directeur de l'administration des douanes et des accises établissent au début de chaque mois, en double exemplaire, un bordereau récapitulatif portant sur les perceptions du mois précédent. Un exemplaire de ce bordereau est transmis à l'administration de l'Enregistrement et des Domaines.</p></content></alinea>
+                    <alinea><content><p>Le directeur général de la police grand-ducale et le directeur de l'administration des douanes et des accises établissent au 31 décembre de chaque année un inventaire des opérations de l'année écoulée. Un exemplaire de cet inventaire est adressé à l'administration de l'Enregistrement et des Domaines avec les formules annulées.</p></content></alinea>
+               </paragraph>
+          </article>
+          <article id="art_8">
+               <num>Art. 8.</num>
+               <alinea><content><p>Il n'y a lieu à consignation que lorsque le contrevenant non résident non communautaire ne s'acquitte pas entre les mains des membres de la police grand-ducale ou de l'administration des douanes et des accises du montant de l'avertissement taxé.</p>
+               <p>En cas de condamnation l'amende prononcée et les frais de justice éventuels sont imputés sur la somme consignée; l'excédent éventuel est remboursé par l'administration de l'Enregistrement et des Domaines. En cas d'acquittement, la somme consignée est remboursée par ladite administration.</p>
+          </content></alinea></article>
+          <article id="art_9">
+               <num>Art. 9.</num>
+               <alinea><content><p>Notre Ministre de la Santé, Notre Ministre des Finances et Notre Ministre de la Justice sont chargés, chacun en ce qui le concerne, de l'exécution du présent règlement qui sera publié au Mémorial.</p>
+               <p>(<i>Règl. g.-d. du 23 décembre 2013</i>)</p>
+          </content></alinea></article>
+     </body>
+     
+          
+     
+</act></akomaNtoso>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+	<act contains="originalVersion" name="" scl:page-proof="many">
+		<meta>
+			<identification source="#somebody">
+				<FRBRWork>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2020-06-20" name="document"/>
+					<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MIA"/>
+					<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+				</FRBRWork>
+				<FRBRExpression>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2020-06-20" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+					<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+				</FRBRExpression>
+				<FRBRManifestation>
+					<FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr/xml"/>
+					<FRBRuri value=""/>
+					<FRBRdate date="2020-06-20" name="document"/>
+					<FRBRauthor as="#author" href=""/>
+				</FRBRManifestation>
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717</scl:jolux>
+						<scl:jolux scl:name="publicationDate">2020-06-25</scl:jolux>
+						<scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/RGD</scl:jolux>
+						<scl:jolux scl:name="dateDocument">2020-06-20</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:name="basicAct">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MAE</scl:jolux>
+						<scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MIA</scl:jolux>
+						<scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/853</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://publications.europa.eu/resource/authority/country/AND</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://publications.europa.eu/resource/authority/country/VAT</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://publications.europa.eu/resource/authority/country/GBR</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://publications.europa.eu/resource/authority/country/SMR</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1613</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3339</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1544</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3299</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3303</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3300</scl:jolux>
+						<scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/3123</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2020-07-17</scl:jolux>
+						<scl:jolux scl:name="dateEndApplicability">2020-08-07</scl:jolux>
+						<scl:jolux scl:name="dateEntryInForce">2020-07-17</scl:jolux>
+						<scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2020/a537</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<scl:JOLUXExpression>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr</scl:jolux>
+					<scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717</scl:jolux>
+					<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 17/07/2020 : Règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/dir_ue/2003/109/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2008/08/29/n1/jo</scl:jolux>
+					<scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/2017/06/16/a592/jo</scl:jolux>
+					<scl:jolux scl:name="basedOn">http://data.legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/jo</scl:jolux>
+				</scl:JOLUXExpression>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr/xml</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’État du Grand-Duché de Luxembourg – Service central de législation</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rgd-2020-06-20-a537-consolide-20200717-fr-xml.xml</scl:jolux>
+				</scl:JOLUXManifestation>
+				<scl:JOLUXManifestation>
+					<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr/pdf</scl:jolux>
+					<scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/consolide/20200717/fr</scl:jolux>
+					<scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’État du Grand-Duché de Luxembourg – Service central de législation</scl:jolux>
+					<scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+					<scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+					<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+					<scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+					<scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-rgd-2020-06-20-a537-consolide-20200717-fr-pdf.pdf</scl:jolux>
+				</scl:JOLUXManifestation>
+			</identification>
+			<lifecycle source="#">
+				<eventRef date="2020-06-20" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+				<eventRef date="2020-07-01" id="e6" originatingExpression="true" source="#rp6" type="amendment"/>
+				<eventRef date="2020-07-17" id="e5" originatingExpression="true" source="#rp5" type="amendment"/>
+				<eventRef date="2020-08-07" id="e4" originatingExpression="false" source="#rp4" type="amendment"/>
+				<eventRef date="2020-08-14" id="e3" originatingExpression="false" source="#rp3" type="amendment"/>
+				<eventRef date="2020-08-21" id="e2" originatingExpression="false" source="#rp2" type="amendment"/>
+			</lifecycle>
+			<analysis source="#">
+				<passiveModifications>
+					<textualMod id="pm1" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2020/07/01/a564/jo"/>
+						<destination href="#art_1er"/>
+					</textualMod>
+					<textualMod id="pm2" incomplete="false" type="replacement">
+						<source href="/eli/etat/leg/rgd/2020/07/01/a564/jo"/>
+						<destination/>
+					</textualMod>
+					<textualMod id="pm3" incomplete="false" type="insertion">
+						<source href="/eli/etat/leg/rgd/2020/07/01/a564/jo"/>
+						<destination/>
+					</textualMod>
+					<textualMod id="pm4" incomplete="false" type="substitution">
+						<source href="/eli/etat/leg/rgd/2020/07/16/a622/jo"/>
+						<destination href="#art_2bis"/>
+					</textualMod>
+					<textualMod id="pm5" incomplete="false" type="substitution">
+						<source href="/eli/etat/leg/rgd/2020/07/16/a622/jo"/>
+						<destination href="#art_2bis"/>
+					</textualMod>
+				</passiveModifications>
+			</analysis>
+			<references source="#">
+				<original href="/eli/etat/leg/rgd/2020/06/20/a537/jo" id="ro1" showAs="Original"/>
+				<passiveRef href="/eli/etat/leg/rgd/2020/08/21/a705/jo" id="rp2" showAs="Règlement grand-ducal du 21 août 2020 modifiant le règlement grand-ducal modifié du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration."/>
+				<passiveRef href="/eli/etat/leg/rgd/2020/08/14/a689/jo" id="rp3" showAs="Règlement grand-ducal du 14 août 2020 modifiant le règlement grand-ducal modifié du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration."/>
+				<passiveRef href="/eli/etat/leg/rgd/2020/08/07/a669/jo" id="rp4" showAs="Règlement grand-ducal du 7 août 2020 modifiant le règlement grand-ducal modifié du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration."/>
+				<passiveRef href="/eli/etat/leg/rgd/2020/07/16/a622/jo" id="rp5" showAs="Règlement grand-ducal du 16 juillet 2020 modifiant le règlement grand-ducal modifié du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration."/>
+				<passiveRef href="/eli/etat/leg/rgd/2020/07/01/a564/jo" id="rp6" showAs="Règlement grand-ducal du 1er juillet 2020 modifiant le règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration."/>
+			</references>
+			<notes scl:type="modification" source="#rp6">
+				<note id="M1" marker="1" refersTo="pm1" title="A|2020-07-01|2020-07-01|RGD|564">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/07/01/a564/jo">Règlement grand-ducal du 1er juillet 2020 modifiant le règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp6">
+				<note id="M2" marker="2" refersTo="pm2" title="A|2020-07-01|2020-07-01|RGD|564">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/07/01/a564/jo">Règlement grand-ducal du 1er juillet 2020 modifiant le règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp6">
+				<note id="M3" marker="3" refersTo="pm3" title="A|2020-07-01|2020-07-01|RGD|564">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/07/01/a564/jo">Règlement grand-ducal du 1er juillet 2020 modifiant le règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp5">
+				<note id="M4" marker="4" refersTo="pm4" title="A|2020-07-17|2020-07-16|RGD|622">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/07/16/a622/jo">Règlement grand-ducal du 16 juillet 2020 modifiant le règlement grand-ducal modifié du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+			<notes scl:type="modification" source="#rp5">
+				<note id="M5" marker="5" refersTo="pm5" title="A|2020-07-17|2020-07-16|RGD|622">
+					<content>
+						<p>
+							<ref href="http://data.legilux.public.lu/eli/etat/leg/rgd/2020/07/16/a622/jo">Règlement grand-ducal du 16 juillet 2020 modifiant le règlement grand-ducal modifié du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</ref>
+						</p>
+					</content>
+				</note>
+			</notes>
+		</meta>
+		<preface>
+			<longTitle>
+				<p>Version consolidée applicable au 17/07/2020 : Règlement grand-ducal du 20 juin 2020 relatif à la durée de l’interdiction et la portée des exceptions prévues par l’article 2 de la loi du 20 juin 2020 portant introduction de certaines mesures temporaires relatives à l’application de la loi modifiée du 29 août 2008 sur la libre circulation des personnes et l’immigration.</p>
+			</longTitle>
+		</preface>
+		<body>
+			<article id="art_1er">
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_1er</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_1er/20200701</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2020-07-01</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<num>Art. 1<sup>er</sup>.</num>
+				<alinea>
+					<content>
+						<p>En application de l’article 2 de <ref href="/eli/etat/leg/loi/2020/06/20/a536/jo" id="c752fb83-186f-469c-84d5-324c7067e421">loi du 20 juin 2020</ref> portant introduction de certaines mesures temporaires relatives à l’application de la <ref href="/eli/etat/leg/loi/2008/08/29/n1/jo" id="9c2cab2a-8d10-463b-aa24-112eb395f8c7">loi modifiée du 29 août 2008</ref> sur la libre circulation des personnes et l’immigration, les ressortissants de pays tiers ne peuvent plus entrer sur le territoire du Grand-Duché <mod class="mod-start" for="#pm1"/>jusqu’au 15 septembre 2020 inclus<mod class="mod-end" for="#pm1"/>
+							<noteRef href="#M1" marker="1"/>.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2">
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2/20200701</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2020-07-01</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<num>
+					<mod class="mod-start" for="#pm2"/>Art. 2.</num>
+				<alinea>
+					<content>
+						<p>En application de l’article 2 de <ref href="http://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/jo" id="62070591-c43e-4d08-b217-8fa45c40882b">loi précitée du 20 juin 2020</ref>, sont autorisées à entrer sur le territoire du Grand-Duché de Luxembourg les catégories de ressortissants de pays tiers suivantes :</p>
+						<ol scl:start="1" scl:symbol="1°">
+							<li>ressortissants de pays tiers qui possèdent le statut de résident de longue durée conformément à la <ref href="/eli/dir_ue/2003/109/jo" id="4b96ab9b-0a60-4cd0-bd62-5c662b55d75e">Directive européenne 2003/109/CE</ref> relative aux résidents de longue durée, ainsi que toute autre personne disposant d’un droit de séjour conformément aux directives européennes, ainsi qu’au droit national d’un État membre de l’Union européenne et des pays associés à l’espace Schengen, ou qui sont titulaires d’un visa national de longue durée d’un des États précités ;</li>
+							<li>professionnels de santé, chercheurs dans le domaine de la santé et professionnels des soins pour personnes âgées ;</li>
+							<li>travailleurs frontaliers ; </li>
+							<li>travailleurs saisonniers dans le domaine agricole ;</li>
+							<li>personnes occupées dans le secteur des transports ;</li>
+							<li>membres du corps diplomatique, personnel des organisations internationales et les personnes invitées par ces organisations internationales dont la présence physique est requise pour le bon fonctionnement de ces organisations, personnel militaire, personnel du domaine de la coopération au développement et de l’aide humanitaire, et le personnel de protection civile dans l’exercice de leurs fonctions respectives ;</li>
+							<li>passagers en transit ;</li>
+							<li>passagers voyageant pour des raisons familiales urgentes et dûment justifiées ;</li>
+							<li>marins ;</li>
+							<li>personnes désirant solliciter la protection internationale au Grand-Duché de Luxembourg ou pour d’autres raisons humanitaires ;</li>
+							<li>ressortissants de pays tiers voyageant à des fins d’études ;</li>
+							<li>travailleurs de pays tiers hautement qualifiés si leur emploi est nécessaire d’un point de vue économique et que leur travail ne peut être reporté ou effectué depuis l’étranger.<mod class="mod-end" for="#pm2"/>
+								<noteRef href="#M2" marker="2"/>
+							</li>
+						</ol>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_2bis">
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2bis</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_2bis/20200717</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">Art. 2bis.</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2020-07-17</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<num>
+					<mod class="mod-start" for="#pm3"/>Art. 2<i>bis</i>.</num>
+				<alinea>
+					<content>
+						<p>En application de l’article 2 de <ref href="http://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a536/jo" id="1f0eb5ca-7e3c-4a67-b862-4a079a44408d">loi précitée du 20 juin 2020</ref>, sont autorisés à entrer sur le territoire du Grand-Duché de Luxembourg les ressortissants de pays tiers ayant leur résidence dans un des pays suivants : </p>
+						<ul scl:symbol="dash">
+							<li>Algérie</li>
+							<li>Australie</li>
+							<li>Canada</li>
+							<li>Chine (sous réserve de réciprocité au niveau de l’Union européenne)</li>
+							<li>Géorgie</li>
+							<li>Japon</li>
+							<li style="del">
+								<mod class="mod-start" for="#pm4"/>
+								<del>Monténégro</del>
+								<mod class="mod-end" for="#pm4"/>
+								<noteRef href="#M4" marker="4"/>
+							</li>
+							<li>Maroc</li>
+							<li>Nouvelle-Zélande</li>
+							<li>Rwanda</li>
+							<li style="del">
+								<mod class="mod-start" for="#pm5"/>
+								<del>Serbie</del>
+								<mod class="mod-end" for="#pm5"/>
+								<noteRef href="#M5" marker="5"/>
+							</li>
+							<li>Corée du Sud</li>
+							<li>Thaïlande</li>
+							<li>Tunisie</li>
+							<li>Uruguay</li>
+						</ul>
+					</content>
+				</alinea>
+				<alinea>
+					<content>
+						<p>La preuve de la résidence est à charge du ressortissant de pays tiers.<mod class="mod-end" for="#pm3"/>
+							<noteRef href="#M3" marker="3"/>
+						</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_3">
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_3</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_3/20200625</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2020-06-25</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<num>Art. 3.</num>
+				<alinea>
+					<content>
+						<p>Le présent règlement entre en vigueur le jour de sa publication au Journal officiel du Grand-Duché de Luxembourg.</p>
+					</content>
+				</alinea>
+			</article>
+			<article id="art_4">
+				<scl:JOLUXWork>
+					<scl:JOLUXComplexWork>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_4</scl:jolux>
+					</scl:JOLUXComplexWork>
+					<scl:JOLUXLegalResource>
+						<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537/art_4/20200625</scl:jolux>
+						<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a537</scl:jolux>
+						<scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+						<scl:jolux scl:name="dateApplicability">2020-06-25</scl:jolux>
+						<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+					</scl:JOLUXLegalResource>
+				</scl:JOLUXWork>
+				<num>Art. 4.</num>
+				<alinea>
+					<content>
+						<p>Notre ministre des Affaires étrangères et européennes et Notre ministre de l’Immigration et de l’Asile sont chargés, chacun en ce qui le concerne, de l’exécution du présent règlement qui sera publié au Journal officiel du Grand-Duché de Luxembourg.</p>
+					</content>
+				</alinea>
+			</article>
+		</body>
+	</act>
+</akomaNtoso>

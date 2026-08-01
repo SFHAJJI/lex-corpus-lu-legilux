@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2021 : R\u00E8glement grand-ducal du 20 juin 2020 portant d\u00E9rogation \u00E0 l\u2019article 2 du r\u00E8glement grand-ducal modifi\u00E9 du 15 septembre 1975 portant fixation du taux d\u2019indemnisation des ch\u00F4meurs partiels.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/consolide/20210701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1c00f82d52254fa073510f26f2f4acf45b396dca0fb89b8a6e2f225c523423f7",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/consolide/20210701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/06/20/a539/consolide/20210701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a973ca27b56125635e91f8f54aaa9c022216dd662457fc9eb07ffb4156c44f91"
+  "record_sha256": "102ad9adc2b8a6d8e3a2323bb396782b2a59c8e52790e26a06f499e1913ba73c"
 }

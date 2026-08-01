@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/12/2024 : Loi du 9 novembre 1990 ayant pour objet la cr\u00E9ation d\u2019un registre public maritime luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20241231/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "67f2faf0ed44c27c15feeeb98fc387d198fd6df61c39164e4fbd0a422b219900",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20241231/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1990/11/09/n1/consolide/20241231/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9c9ff1991bb1a138535af6ee24b6b61a12e5e0e26b915549f5f6debb17af76d8"
+  "record_sha256": "539977917bf5969ad9cf8f9570f4ade3f9c36bd437598181f9c20a7084ca7bd8"
 }

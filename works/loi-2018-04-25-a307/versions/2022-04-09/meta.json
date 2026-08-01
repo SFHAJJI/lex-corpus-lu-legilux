@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 09/04/2022 : Loi du 25 avril 2018 relative \u00E0 la gestion collective des droits d\u2019auteur et des droits voisins et l\u2019octroi de licences multiterritoriales de droits sur des \u0153uvres musicales en vue de leur utilisation en ligne dans le march\u00E9 int\u00E9rieur et portant modification de la loi modifi\u00E9e du 18 avril 2001 sur les droits d\u2019auteur, les droits voisins et les bases de donn\u00E9es.",
       "title_short": "Loi du 25 avril 2018 relative \u00E0 la gestion collective des droits d\u2019auteur et des droits voisins et l\u2019octroi de licences multiterritoriales de droits sur des \u0153uvres musicales en vue de leur utilisation en ligne dans le march\u00E9 int\u00E9rieur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/25/a307/consolide/20220409/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1dd55d4cfcb201ee65f91bc35ccc70857c73004ea87a157bb5022ad83d74ffb8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/25/a307/consolide/20220409/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/25/a307/consolide/20220409/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6652b2caea060a839e4ff9cc395dcc3b16fa31b95b50466ca89b15cd4e25c75e"
+  "record_sha256": "e4e8b26da71db3592db0908fef6ca475a89cd8b9455a67b3a666b7d3d08c05d0"
 }

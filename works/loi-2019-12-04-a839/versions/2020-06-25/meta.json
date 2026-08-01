@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/06/2020 : Loi du 4 d\u00E9cembre 2019 relative \u00E0 l\u2019Office du Ducroire Luxembourg.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a839/consolide/20200625/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fb0ee7949e7fc4d14a6a6951bc99596adfd83b6ac32ebc5215b45a8260fb7ed9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a839/consolide/20200625/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2019/12/04/a839/consolide/20200625/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0f9f5a54b5ffeb6765a0007935066e063f9ed4e21ffff9f13443fae1cc2eb5b6"
+  "record_sha256": "392f94355fed0637009d7f725f4f043d959f0d6c6feb447c1e5211552d93c532"
 }

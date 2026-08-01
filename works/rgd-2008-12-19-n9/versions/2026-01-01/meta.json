@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2026 : R\u00E8glement grand-ducal du 19 d\u00E9cembre 2008 r\u00E9glant les modalit\u00E9s de la d\u00E9duction des frais de d\u00E9placement et autres frais d\u2019obtention, des d\u00E9penses sp\u00E9ciales, des charges extraordinaires, ainsi que de la bonification des cr\u00E9dits d\u2019imp\u00F4t.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20260101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "8161444e3f6fd860f9fa45fc4c4949da21e3f335279c7129ee62323f41da19e5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20260101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/12/19/n9/consolide/20260101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fb96c4d8dd02a5f5ab214d8bc4b9018a91e9cb0bd9b8cb163ee48b70c888a4b6"
+  "record_sha256": "a9187caf36e4d86b53983081f33c07f7a57be62db8d452c85b99ed7484a6b867"
 }

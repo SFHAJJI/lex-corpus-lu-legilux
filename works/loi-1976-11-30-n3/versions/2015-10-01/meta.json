@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2015 : Loi du 30 novembre 1976 portant r\u00E9organisation de l\u0027administration des services techniques de l\u0027agriculture.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/11/30/n3/consolide/20151001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bc5f76785da74505620e7e1771ef981a9caef41f87cb4703e904339f9a0ace2b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/11/30/n3/consolide/20151001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/11/30/n3/consolide/20151001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3114e0a1c97049826f7a6df6a12369e39bf3d021e2c0406cc50c9767f497fa58"
+  "record_sha256": "9386e1385a5738c5e0e0873c302cef6b033d6a6e6b7db9d34abd1015254963c2"
 }

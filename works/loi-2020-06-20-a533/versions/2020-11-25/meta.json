@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 25/11/2020 : Loi du 20 juin 2020 portant introduction d\u2019un cong\u00E9 pour soutien familial dans le cadre de la lutte contre la pand\u00E9mie Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20201125/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f38cbf78ee43e6a1b6a185e673e1680ad3e8d21da5158618624a7d541f659813",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20201125/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a533/consolide/20201125/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4dff01c78cd5a5ba9d63dbf4b8a54d597d9c3a13e00b4505afab211cd75be652"
+  "record_sha256": "ca9490ccb7ea3dfb1f681027b44752579688b66edee6fd6d2a1ce4efdc47fde0"
 }

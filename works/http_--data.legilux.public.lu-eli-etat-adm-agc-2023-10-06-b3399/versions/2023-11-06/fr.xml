@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+<act contains="originalVersion" name="" scl:page-proof="many">
+<meta>
+<identification source="#casemates">
+<FRBRWork>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo"/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-10-06" name="document"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/GOUV"/>
+<FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/MEN"/>
+<FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+</FRBRWork>
+<FRBRExpression>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr"/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-10-06" name="document"/>
+<FRBRauthor as="#author" href=""/>
+<FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+</FRBRExpression>
+<FRBRManifestation>
+<FRBRthis value="http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr/xml"/>
+<FRBRuri value=""/>
+<FRBRdate date="2023-10-06" name="document"/>
+<FRBRauthor as="#author" href=""/>
+</FRBRManifestation>
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+                        <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo</scl:jolux>
+                        <scl:jolux scl:name="dateApplicability">2023-11-06</scl:jolux>
+                        <scl:jolux scl:name="dateDocument">2023-10-06</scl:jolux>
+                        <scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/GOUV</scl:jolux>
+                        <scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/MEN</scl:jolux>
+                        <scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/1084</scl:jolux>
+                        <scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/408</scl:jolux>
+                        <scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/4052</scl:jolux>
+                        <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399</scl:jolux>
+                        <scl:jolux scl:name="isRealizedBy">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr</scl:jolux>
+                        <scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/AGC</scl:jolux>
+                        <scl:jolux scl:name="dateEntryInForce">2023-11-06</scl:jolux>
+                        <scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/adm/memorial/2023/b3399</scl:jolux>
+                        <scl:jolux scl:name="publicationDate">2023-10-10</scl:jolux>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+                    </scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<scl:JOLUXExpression>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr/html</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr/pdfa</scl:jolux>
+<scl:jolux scl:name="isEmbodiedBy">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr/xml</scl:jolux>
+<scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+<scl:jolux scl:name="title">Version rectifiée applicable au 06/11/2023 : Arrêté du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC).</scl:jolux>
+<scl:jolux scl:name="basedOn">/eli/etat/leg/loi/1992/12/01/n2/jo</scl:jolux>
+</scl:JOLUXExpression>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr/xml</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2023/b3399/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+<scl:JOLUXManifestation>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/jo/fr/pdf</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+<scl:jolux scl:name="userFormat">http://data.legilux.public.lu/resource/authority/user-format/pdf</scl:jolux>
+<scl:jolux scl:name="publishedIn">http://data.legilux.public.lu/eli/etat/adm/memorial/2023/b3399/fr/pdf</scl:jolux>
+</scl:JOLUXManifestation>
+</identification>
+<lifecycle source="#">
+<eventRef date="2023-10-06" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+<eventRef date="2023-11-06" id="e2" originatingExpression="true" source="#rp2" type="amendment"/>
+</lifecycle>
+<analysis source="#">
+<passiveModifications>
+<textualMod id="pm1" incomplete="false" type="replacement">
+<source href="/eli/etat/adm/rect/2023/10/06/b3446/jo"/>
+<destination/>
+</textualMod>
+</passiveModifications>
+</analysis>
+<references source="#">
+<original href="/eli/etat/adm/agc/2023/10/06/b3399/jo" id="ro1" showAs="Original"/>
+<passiveRef href="/eli/etat/adm/rect/2023/10/06/b3446/jo" id="rp2" showAs="Arrêté du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC) - RECTIFICATIF."/>
+</references>
+<notes scl:type="modification" source="#rp2">
+<note id="M1" marker="1" refersTo="pm1" title="B|2023-10-12|2023-10-06|RECT|3446">
+<content>
+<p>
+<ref href="http://data.legilux.public.lu/eli/etat/adm/rect/2023/10/06/b3446/jo">Arrêté du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC) - RECTIFICATIF.</ref>
+</p>
+</content>
+</note>
+</notes>
+</meta>
+<preface>
+<longTitle>
+<p>Version rectifiée applicable au 06/11/2023 : Arrêté du Gouvernement en conseil du 6 octobre 2023 portant nomination des membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC).</p>
+</longTitle>
+</preface>
+<preamble class="show_in_pdf" style="show_in_pdf">
+<formula name="">
+<p>
+<mod class="mod-start" for="#pm1"/>Le Gouvernement en conseil,</p>
+</formula>
+<container name="">
+<p>Vu la <ref href="/eli/etat/leg/loi/1992/12/01/n2/jo" id="eaf90d96-4320-49f8-90f3-caaf12a199fb" scl:verify="true">loi modifiée du 1<sup>er</sup> décembre 1992</ref> portant 1. création d’un établissement public pour le développement de la formation professionnelle continue et 2. fixation des cadres du personnel des centres de formation professionnelle continue ;</p>
+<p>Sur proposition du Ministre de l’Éducation nationale, de l’Enfance et de la Jeunesse et après délibération ;</p>
+</container>
+<formula name="">
+<p>Arrête :</p>
+</formula>
+</preamble>
+<body>
+<article id="art_1er">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/art_1er</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/art_1er/20231106</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-11-06</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 1<sup>er</sup>.</num>
+<alinea>
+<content>
+<p>Sont nommés membres du conseil d’administration de l’Institut national pour le développement de la formation professionnelle continue (INFPC) pour un terme renouvelable de trois ans :</p>
+<ol scl:start="1" scl:style-format="b" scl:symbol="1°">
+<li>
+<b>représentants du ministre ayant l’Éducation nationale dans ses attributions :</b>
+<ul scl:symbol="dash">
+<li>Madame Véronique SCHABER, directrice adjointe à la formation professionnelle, membre effectif ;</li>
+<li>Monsieur Christian BUCHLER, directeur du Service de la formation des adultes, membre effectif ;</li>
+<li>Monsieur Tom MULLER, directeur à la formation professionnelle, membre suppléant ;</li>
+<li>Madame Françoise CHOTRO, directrice adjointe faisant fonction du Service de la formation des adultes, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants du ministre ayant les Finances dans ses attributions :</b>
+<ul scl:symbol="dash">
+<li>Monsieur Arnaud GAMARRA, inspecteur adjoint des finances à l’inspection générale des finances, membre effectif ;</li>
+<li>Madame Elisabeth MODERT, inspecteur des finances à l’inspection générale des finances, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants du ministre ayant le Travail dans ses attributions :</b>
+<ul scl:symbol="dash">
+<li>Madame Nadine WELTER, responsable droit du travail, membre effectif ;</li>
+<li>Monsieur Claude TREMONT, responsable ISOC, RETEL, Centres de formation, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants du ministre ayant l’Économie dans ses attributions :</b>
+<ul scl:symbol="dash">
+<li>Madame Laurence TOCK, attachée, membre effectif ;</li>
+<li>Monsieur Raoul SCHAACK, attaché, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants du ministre ayant les Classes moyennes dans ses attributions :</b>
+<ul scl:symbol="dash">
+<li>Monsieur Laurent SOLAZZI, conseiller, membre effectif ;</li>
+<li>Monsieur David HEINEN, attaché, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants de la Chambre des métiers :</b>
+<ul scl:symbol="dash">
+<li>Monsieur Marc GROSS, directeur affaires publiques et analyses, membre effectif ;</li>
+<li>Monsieur Gilles WALERS, conseiller affaires sociales, emploi &amp; formation et affaires européennes, membre suppléant ; </li>
+</ul>
+</li>
+<li>
+<b>représentants de la Chambre de commerce :</b>
+<ul scl:symbol="dash">
+<li>Madame Muriel MORBÉ, CEO, House of Training, membre effectif ;</li>
+<li>Madame Sylvia RIDLESPRIGE, conseillère, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants de la Chambre des salariés :</b>
+<ul scl:symbol="dash">
+<li>Madame Françoise SCHMIT, conseillère de direction, membre effectif ;</li>
+<li>Monsieur Carlo FRISING, directeur adjoint, membre effectif ;</li>
+<li>Madame Jeannine KOHN, conseillère de direction, membre suppléant ;</li>
+<li>Monsieur Claude CARDOSO, conseiller de direction, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants de la Chambre des fonctionnaires et employés publics :</b>
+<ul scl:symbol="dash">
+<li>Monsieur Robert BOHNERT, membre effectif ;</li>
+<li>Monsieur Claude HEISER, directeur de l’Athénée de Luxembourg, membre suppléant ;</li>
+</ul>
+</li>
+<li>
+<b>représentants de la Chambre d’agriculture :</b>
+<ul scl:symbol="dash">
+<li>Monsieur Jean-Pierre SCHMITZ, membre effectif ;</li>
+<li>Madame Josiane WALENTINY, membre suppléant.</li>
+</ul>
+</li>
+</ol>
+</content>
+</alinea>
+</article>
+<article id="art_2">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/art_2</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/art_2/20231106</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-11-06</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 2.</num>
+<alinea>
+<content>
+<p>Le présent arrêté entre en vigueur le 6 novembre 2023.</p>
+</content>
+</alinea>
+</article>
+<article id="art_3">
+<scl:JOLUXWork>
+<scl:JOLUXComplexWork>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/art_3</scl:jolux>
+</scl:JOLUXComplexWork>
+<scl:JOLUXLegalResource>
+<scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399/art_3/20231106</scl:jolux>
+<scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/adm/agc/2023/10/06/b3399</scl:jolux>
+<scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+<scl:jolux scl:name="dateApplicability">2023-11-06</scl:jolux>
+<scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+</scl:JOLUXLegalResource>
+</scl:JOLUXWork>
+<num>Art. 3.</num>
+<alinea>
+<content>
+<p>Le présent arrêté sera publié au Journal officiel du Grand-Duché de Luxembourg.</p>
+</content>
+</alinea>
+</article>
+</body>
+<conclusions class="show_in_pdf" style="show_in_pdf">
+<p>
+<signature>
+<docDate date="2023-10-11">Luxembourg, le 6 octobre 2023.</docDate>
+</signature>
+<signature>
+<shortTitle>Les Membres du Gouvernement,</shortTitle>
+<person refersTo="">Paulette Lenert</person>
+<person refersTo="">François Bausch</person>
+<person refersTo="">Jean Asselborn</person>
+<person refersTo="">Claude Meisch</person>
+<person refersTo="">Marc Hansen</person>
+<person refersTo="">Claude Turmes</person>
+<person refersTo="">Sam Tanson</person>
+<person refersTo="">Taina Bofferding</person>
+<person refersTo="">Lex Delles</person>
+<person refersTo="">Henri Kox</person>
+<person refersTo="">Franz Fayot</person>
+<person refersTo="">Claude Haagen</person>
+<person refersTo="">Georges Engel</person>
+<person refersTo="">Yuriko Backes</person>
+<person refersTo="">Joëlle Welfring</person>
+<person refersTo="">Max Hahn</person>
+</signature>
+<mod class="mod-end" for="#pm1"/>
+<noteRef href="#M1" marker="1"/>
+</p>
+</conclusions>
+</act>
+</akomaNtoso>

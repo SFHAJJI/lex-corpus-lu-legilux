@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 20 mars 1876 sur la police des b\u00E2timents et de leurs d\u00E9pendances.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1876/03/20/n1/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "90d5573ee9e896d98a5b03d3e1998c01a098049f9e57d2e5e8cfe824f1a3f9b8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1876/03/20/n1/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1876/03/20/n1/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "70bf43bb1530495f5714b6d2e3eaf282335cc3f85122d3587055133956ec437e"
+  "record_sha256": "379b5b91ec6fbd94d0e5727697276358bf4066fb4ce01bb58a3d54b0c99402d8"
 }

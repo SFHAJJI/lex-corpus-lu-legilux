@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 31/08/2021 : R\u00E8glement grand-ducal du 10 avril 2020\\n1\u00B0 d\u00E9terminant les diff\u00E9rentes branches enseign\u00E9es, les modalit\u00E9s d\u2019obtention, de d\u00E9livrance et de la nomenclature des dipl\u00F4mes ainsi que les modalit\u00E9s de transition entre les diff\u00E9rents ordres d\u2019\u00E9tablissement et niveaux d\u2019enseignement ;\\n2\u00B0 modifiant\\na) le r\u00E8glement grand-ducal du 3 ao\u00FBt 1998 fixant la mission et les conditions de nomination du Commissaire \u00E0 l\u2019enseignement musical ;\\nb) le r\u00E8glement grand-ducal du 3 ao\u00FBt 1998 fixant la mission et la composition de la Commission nationale des programmes de l\u2019enseignement musical.\\n",
       "title_short": "R\u00E8glement grand-ducal du 10 avril 2020 d\u00E9terminant les diff\u00E9rentes branches enseign\u00E9es, les modalit\u00E9s d\u2019obtention, de d\u00E9livrance et la nomenclature des dipl\u00F4mes, ainsi que les modalit\u00E9s de transition entre les diff\u00E9rents ordres d\u2019\u00E9tablissement et niveaux d\u2019enseignement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20210831/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1a02a96a2a5cba7e0c9f6424b41b93cae16ad5d2f91cb77e6e4ede590c22140f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20210831/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/10/a333/consolide/20210831/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "b0443d52cc994585bbf4eae4d1e203e51699b8c464a174d000184858b9a57714"
+  "record_sha256": "07ad1750d5163f1ea9c3a7d1cc8a486016ada6a90fdcd78a999b2c2c4e1f46b5"
 }

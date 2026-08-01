@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/12/1980 : R\u00E8glement grand-ducal du 29 ao\u00FBt 1979 \u00E9tablissant les normes auxquelles doivent r\u00E9pondre les \u00E9tablissements hospitaliers qui participent au service d\u0027urgence.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/08/29/n3/consolide/19801210/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9304d0ab5d7c07e794349cc19c42e644280403d2692cb1ce750792a51de29b2a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1979/08/29/n3/consolide/19801210/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1979/08/29/n3/consolide/19801210/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8248daa781ab31a3d2b172d0016d4f2e4e567d97c9ee29d9b161cdf383c643f6"
+  "record_sha256": "5784b836995f70f059e144e50af053800325b90b2ad38a397d4064b6d0b6a4f1"
 }

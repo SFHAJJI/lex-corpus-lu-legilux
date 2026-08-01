@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/06/2021 : R\u00E8glement grand-ducal du 12 mai 2021 modifiant le r\u00E8glement grand-ducal modifi\u00E9 du 21 d\u00E9cembre 1998 arr\u00EAtant la nomenclature des actes et services des m\u00E9decins pris en charge par l\u2019assurance maladie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/12/a373/consolide/20210601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2319eb72d56dc15261a7a3b9bef0a4d111a36791833fd1371a2f405027638eec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/12/a373/consolide/20210601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/05/12/a373/consolide/20210601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e0a63802138f0aca7053009cb10bf47aaf19f36a1dc8b9b4b761366b6641fe5f"
+  "record_sha256": "1a03b0297a7445cfa73ea0ca4f6a71d12471bab1fe376da50b2b2d471dd8043e"
 }

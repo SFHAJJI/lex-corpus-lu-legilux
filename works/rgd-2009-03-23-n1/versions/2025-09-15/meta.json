@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 15/09/2025 :  R\u00E8glement grand-ducal modifi\u00E9 du 23 mars 2009 fixant la t\u00E2che des instituteurs de l\u0027enseignement fondamental.",
       "title_short": "TEXTE COORDONNE du RGD modifi\u00E9 du 23 mars 2009",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/23/n1/consolide/20250915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2e1fa1a6b06bd061e274bb6096ccd6e77a8f4a15ce699b7dfbf3945ce508648f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/23/n1/consolide/20250915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2009/03/23/n1/consolide/20250915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2283dff42ceadf1ebc9f2ddf7aeeb8b3eda7f19b2456e5bb717c1d672e66e52c"
+  "record_sha256": "b3d4d8a6c535da5c5daaee5131b23a683c3e64988967727ff57c456fa585bdd3"
 }

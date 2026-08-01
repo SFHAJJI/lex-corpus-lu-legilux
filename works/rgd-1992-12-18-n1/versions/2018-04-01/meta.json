@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2018 : R\u00E8glement grand-ducal du 18 d\u00E9cembre 1992 concernant le r\u00E9gime sp\u00E9cial de perception de la taxe sur la valeur ajout\u00E9e frappant les livraisons, les acquisitions intracommunautaires et les importations de tabacs fabriqu\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20180401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6fdda269be9860a6dc32fc04bbf17aca2ec712ca3cda80adaf88c93769e6b255",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20180401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/12/18/n1/consolide/20180401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e80f426d1cb4a8cbf25881ba78314bb16f9f4da104d86610be02c52691979bb6"
+  "record_sha256": "efe9f62b6efdf8211f60513b113975660f183d7a2fcf55ae9d965cef8f5391ca"
 }

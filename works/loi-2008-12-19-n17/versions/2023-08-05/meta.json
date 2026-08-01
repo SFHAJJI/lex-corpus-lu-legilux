@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 05/08/2023 : Loi du 19 d\u00E9cembre 2008 relative \u00E0 l\u0027eau modifiant\\n 1. la loi modifi\u00E9e du 31 juillet 1962 ayant pour objet le renforcement l\u0027alimentation en eau potable du Grand-Duch\u00E9 de Luxembourg \u00E0 partir du r\u00E9servoir d\u0027Esch-sur-S\u00FBre;\\n 2. la loi modifi\u00E9e du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat;\\n 3. la loi modifi\u00E9e du 28 juin 1976 portant r\u00E9glementation de la p\u00EAche dans les eaux int\u00E9rieures;\\n 4. la loi modifi\u00E9e du 10 juin 1999 relative aux \u00E9tablissements class\u00E9s;\\n 5. la loi modifi\u00E9e du 19 janvier 2004 concernant la protection de la nature et des ressources naturelles;\\n 6. la loi modifi\u00E9e du 19 juillet 2004 concernant l\u0027am\u00E9nagement communal et le d\u00E9veloppement urbain;\\n ...",
       "title_short": "Loi du 19 d\u00E9cembre 2008 relative \u00E0 l\u0027eau.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/consolide/20230805/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f2f4e1024b9e55423a4d323bf376f4e66730767def78477d1596f548dedf4731",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/consolide/20230805/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n17/consolide/20230805/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e212f1f8334558a48e9a81e78958beb9f135df1be5b15115319be24d39dcf171"
+  "record_sha256": "07950d6b531919c8fdde82ff3b081d8c4e8f001839bfbb91dba7736c39a1fe3e"
 }

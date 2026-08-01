@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 12/12/2022 : R\u00E8glement grand-ducal du 24 mai 1998 concernant l\u0027exploitation et la mise dans le commerce des eaux min\u00E9rales naturelles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20221212/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c222f70572ca3b9e49063d30748a292efc141c701e321bc1228091e83f18dc36",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20221212/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/05/24/n4/consolide/20221212/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9e0718a67b83a897f3a64c414274cab102287129c221bd7e537643f751497a9b"
+  "record_sha256": "c33dd813dfb876bd80456bbd39b5cac7a31153b6918b6bbae8e9b9938c489e0a"
 }

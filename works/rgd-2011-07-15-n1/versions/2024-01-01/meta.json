@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 15 juillet 2011 fixant les modalit\u00E9s de fonctionnement et d\u0027indemnisation de la commission des am\u00E9nagements raisonnables et modifiant le : \\n- r\u00E8glement grand-ducal du 31 juillet 2006 portant organisation de l\u0027examen de fin d\u0027\u00E9tudes secondaires ; \\n- r\u00E8glement grand-ducal du 31 juillet 2006 portant organisation de l\u0027examen de fin d\u0027\u00E9tudes techniques et de l\u0027examen de fin d\u0027\u00E9tudes de la formation de technicien.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d175333435aae430362030d71f39eb8800acde48267070e7b216bc23534ce2ae",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2011/07/15/n1/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "12bfd311c4ad04ca373c1e110abb655fd37024fefe9c3102e7f78132d37f3551"
+  "record_sha256": "16b60c52e0a98a4e2d1d1eff91463c6d0382225c2a4721f0a49d92d38737551f"
 }

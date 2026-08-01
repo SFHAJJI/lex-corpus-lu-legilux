@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/2012 : R\u00E8glement grand-ducal du 17 mars 2003 relatif aux v\u00E9hicules hors d\u0027usage.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/03/17/n2/consolide/20131108/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "ab6e0b2c2851209f0d168b99cec5a62a5b88b67ff2bcd37389f4c9d9a6c395fe",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2003/03/17/n2/consolide/20131108/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2003/03/17/n2/consolide/20131108/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a72baf6e6da11f687beadfd071e5a828a85ce410bac1c136a7457ff7b10bee3f"
+  "record_sha256": "aec89f0f4c61fd42898d6135736b2db2097ab85df2c2b92d5dd89d0f2c623d5d"
 }

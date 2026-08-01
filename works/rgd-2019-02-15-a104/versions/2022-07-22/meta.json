@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/07/2022 : R\u00E8glement grand-ducal du 15 f\u00E9vrier 2019 portant \u00E9num\u00E9ration des maladies sujettes \u00E0 d\u00E9claration obligatoire et fixant les d\u00E9lais de d\u00E9claration ainsi que les informations \u00E0 reprendre au cahier des charges pour la d\u00E9signation comme laboratoire national de r\u00E9f\u00E9rence d\u2019un laboratoire d\u2019analyses m\u00E9dicales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/consolide/20220722/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "50c6c292d79be08e38b7d8a4f844f9c83bd81f6e5dea369545e7ff28f7b48e7b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/consolide/20220722/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a104/consolide/20220722/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "90d5f2a6c297e546e62fa05a9a31a958cf70ed181732c14063028a0e246c0230"
+  "record_sha256": "74597193e622869459a0089c1290caef508cb9c7b3dadf06da709d09091d5881"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2021 : R\u00E8glement grand-ducal du 18 d\u00E9cembre 1998 concernant les int\u00E9r\u00EAts moratoires en mati\u00E8re de s\u00E9curit\u00E9 sociale.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/18/n8/consolide/20210101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "0d1a2e8a5bcd4d6890a391b9ad687e4477f3cc8295a9499fa54db80151fe47ae",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/18/n8/consolide/20210101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/12/18/n8/consolide/20210101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cc9e403fcc9f1cb2aa7eba2f841147b7131ebebb9340cfd2a01a7d3b58b232bb"
+  "record_sha256": "f46aef903a34e11b71cd19036f2abe6aa302eb7eae38cb9696f7c7e1c4137045"
 }

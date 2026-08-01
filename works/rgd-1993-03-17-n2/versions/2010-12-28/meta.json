@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/2010 : R\u00E8glement grand-ducal du 17 mars 1993 d\u00E9terminant les modalit\u00E9s d\u0027attribution des permissions pour les servicess de t\u00E9l\u00E9vision et de t\u00E9l\u00E9texte diffus\u00E9 et services y assimil\u00E9s, ainsi que les r\u00E8gles g\u00E9n\u00E9rales gouvernant ces permissions et les cahiers de charges qui leur sont assortis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/consolide/20101228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "58578c0aa6596065ea6bed9565b72a0b851efae77801af97aa103722ad54b587",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/consolide/20101228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n2/consolide/20101228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3b543ae5685730241e9eb7d1dde2e1440ef3aa75a3a2808546b5856e0ba972bd"
+  "record_sha256": "29288207b02bc25b74134956dd521124c735bfa212f5069dbf4cac1ba5bc9285"
 }

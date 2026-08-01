@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/08/2021 : Loi du 9 d\u00E9cembre 1976 relative \u00E0 l\u2019organisation du notariat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/20210822/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5d5f71049dafc2f6247ddcdc1293e37f649ba02d24624c6c0ece989b3bb6f615",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/20210822/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/12/09/n1/consolide/20210822/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c3d117f0ae69446611acbdc648a6f940e018bfd21cb0f9733d7f2b759890bdd3"
+  "record_sha256": "d90f9d976618d4755f57935b0e976d26981a56435a6775a34eee100cd4a0cf25"
 }

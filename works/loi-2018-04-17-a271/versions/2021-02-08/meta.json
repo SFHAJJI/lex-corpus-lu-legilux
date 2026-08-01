@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 08/02/2021 : Loi du 17 avril 2018 concernant l\u2019am\u00E9nagement du territoire et modifiant :\\n1. la loi modifi\u00E9e du 16 ao\u00FBt 1967 ayant pour objet la cr\u00E9ation d\u2019une grande voirie de communication et d\u2019un fonds des routes ;\\n2. la loi modifi\u00E9e du 15 mars 1979 sur l\u2019expropriation pour cause d\u2019utilit\u00E9 publique ;\\n3. la loi modifi\u00E9e du 19 juillet 2004 concernant l\u2019am\u00E9nagement communal et le d\u00E9veloppement urbain.",
       "title_short": "Loi du 17 avril 2018 concernant l\u0027am\u00E9nagement du territoire.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a271/consolide/20210208/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a9c08269bc166ff24c268f6a6088396d731561ec05f104935306d6e5fb63f390",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a271/consolide/20210208/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/04/17/a271/consolide/20210208/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1e51e2b8a3bbd44ca4acfe46fa4cdcb30391d1510201c22b3a13efabf2899564"
+  "record_sha256": "274b7c4fd863fe7f9115e8082264d4c8a6ef681df2999044dac8bc0633c66413"
 }

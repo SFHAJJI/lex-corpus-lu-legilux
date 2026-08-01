@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 25/12/2017 : Loi du 17 mai 2017 ayant pour objet\\n1. le renouvellement des r\u00E9gimes d\u0027aides \u00E0 la recherche, au d\u00E9veloppement et \u00E0 l\u0027innovation;\\n2. les missions de l\u0027Agence nationale pour la promotion de l\u0027innovation et de la recherche;\\net modifiant la loi modifi\u00E9e du 5 juin 2009 relative \u00E0 la promotion de la recherche, du d\u00E9veloppement et de l\u0027innovation.",
       "title_short": "Loi du 17 mai 2017 relative \u00E0 la promotion de la recherche, du d\u00E9veloppement et de l\u2019innovation.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a544/consolide/20171225/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "5fd7f0a070a4f35d1899cfa402b1c5012836682f60256ccc7981234bc2194855",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a544/consolide/20171225/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/05/17/a544/consolide/20171225/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1108da291447bf4e939e9ceab6f8950d2b30bb8423e1f626be1e642d21d9d937"
+  "record_sha256": "ed7627bca4eb3569d333e68980dd9096dfe9160569803ba11d035596506c7a61"
 }

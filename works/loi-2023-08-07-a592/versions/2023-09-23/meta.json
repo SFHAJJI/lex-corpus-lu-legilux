@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 23/09/2023 : Loi du 7 ao\u00FBt 2023 sur les associations sans but lucratif et les fondations.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20230923/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "62ee31b959b875f10be2f5bf9496f75bc12515a884104717cf9a542c835772b5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20230923/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2023/08/07/a592/consolide/20230923/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9a395d792579c65fa7c420fa6ac9c15580acdde15e5452c1cadfb23a57d0bc2d"
+  "record_sha256": "6e2ce1c2ad5bc3e97c09d22ee32b49c5bdb68a3493c898d5a93b3527f62d6908"
 }

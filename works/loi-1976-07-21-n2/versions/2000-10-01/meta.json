@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/10/2000 : Loi du 21 juillet 1976 portant approbation de la Convention europ\u00E9enne d\u0027entraide judiciaire en mati\u00E8re p\u00E9nale, sign\u00E9e \u00E0 Strasbourg, le 20 avril 1959.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/07/21/n2/consolide/20001001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9e73f578b51e667c59f13d97ce5eea1ec2760e1305ec51877c92244baabb93fc",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/07/21/n2/consolide/20001001/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/07/21/n2/consolide/20001001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d72cb481aabdbade77ffa57ba68354b27cefb60ff55282729e310d35768f4ec7"
+  "record_sha256": "eaa144e30a03811b8fb10c840ab40bb74b194926ffc01c8bd70d90e5db0677fd"
 }

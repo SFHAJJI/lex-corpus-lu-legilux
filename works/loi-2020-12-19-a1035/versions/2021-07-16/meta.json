@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 16/07/2021 : Loi du 19 d\u00E9cembre 2020 ayant pour objet la mise en place d\u2019une nouvelle aide de relance en faveur de certaines entreprises et modifiant :\\n1\u00B0 la loi modifi\u00E9e du 3 avril 2020 relative \u00E0 la mise en place d\u2019un r\u00E9gime d\u2019aides en faveur des entreprises en difficult\u00E9 financi\u00E8re temporaire et modifiant la loi modifi\u00E9e du 19 d\u00E9cembre 2014 relative 1) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle 2) \u00E0 la promotion de la cr\u00E9ation artistique ;\\n2\u00B0 la loi du 24 juillet 2020 visant \u00E0 mettre en place un fonds de relance et de solidarit\u00E9 et un r\u00E9gime d\u2019aides en faveur de certaines entreprises et portant modification de : 1\u00B0 la loi modifi\u00E9e du 4 d\u00E9cembre 1967 concernant l\u2019imp\u00F4t sur le revenu ; 2\u00B0 la loi modifi\u00E9e du 20 d\u00E9cembre 2019 concernant le budget des recettes et des d\u00E9penses de l\u2019\u00C9tat pour l\u2019exercice 2020 ; 3\u00B0 la loi du 3 avril 2020 relative \u00E0 la mise en place d\u2019un r\u00E9gime d\u2019aides en faveur des entreprises en difficult\u00E9 financi\u00E8re temporaire et modifiant la loi modifi\u00E9e du 19 d\u00E9cembre 2014 relative 1) aux mesures sociales au b\u00E9n\u00E9fice des artistes professionnels ind\u00E9pendants et des intermittents du spectacle 2) \u00E0 la promotion de la cr\u00E9ation artistique ;\\n3\u00B0 la loi du 24 juillet 2020 ayant pour objet la mise en place d\u2019un r\u00E9gime d\u2019aide temporaire en faveur du commerce de d\u00E9tail en magasin.\\n",
       "title_short": "Loi du 19 d\u00E9cembre 2020 ayant pour objet la mise en place d\u2019une nouvelle aide de relance.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1035/consolide/20210716/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "bab47179092834ca0b2a0f1b7a07e9fa1ee6739a0045f0133a3250d3503b72a4",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1035/consolide/20210716/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/12/19/a1035/consolide/20210716/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c881c9fa6ebd17b51ecd67320626c4f43ccc6d8faa4873c460379caf4c5ecf3f"
+  "record_sha256": "b3d264952b12f357800f65f8fb824306d9cb9e0d50f2d6e5f4ae932666fd326a"
 }

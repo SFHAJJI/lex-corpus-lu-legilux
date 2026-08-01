@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 30/10/2023 : R\u00E8glement grand-ducal du 21 d\u00E9cembre 2012 portant d\u00E9termination et \u00E9num\u00E9ration des localit\u00E9s d\u2019au moins 250 habitants, pr\u00E9vu par la loi du 29 juin 1989 portant r\u00E9forme du r\u00E9gime des cabarets.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/21/n20/consolide/20231030/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6dd84314cb2dc591345dce5fb90d129d4e6f015c2bf865609755ff284dd36b7c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/21/n20/consolide/20231030/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2012/12/21/n20/consolide/20231030/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "9113a7332d88d7e7eb893ab71375e89c9ed21ca41a0247965f6875def13014c4"
+  "record_sha256": "94ba07def2604814d0349eb48711bfeacc060ed6bb39ccf05bfba30689c4fc18"
 }

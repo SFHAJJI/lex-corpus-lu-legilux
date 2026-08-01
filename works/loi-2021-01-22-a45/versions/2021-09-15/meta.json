@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 15/09/2021 : Loi du 22 janvier 2021 portant :\\n1\u00B0 modification des articles L. 234-51, L. 234-52 et L. 234-53 du Code du travail ;\\n2\u00B0 d\u00E9rogation temporaire aux dispositions des articles L. 234- 51, L. 234-52 et L. 234-53 du Code du travail.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20210915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "31a641856f1a71a93e6d453902173672bebfc13500bb2a1629b6b66447e22c7b",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20210915/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/01/22/a45/consolide/20210915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "603c39561a8b457d8802301aef67bd2e834655aa4f7c94c167628e64a1fac660"
+  "record_sha256": "7d359588b6a24ce9699273047fcaf4883e6ad65d2a453c94c80bbb52b8fcd8d1"
 }

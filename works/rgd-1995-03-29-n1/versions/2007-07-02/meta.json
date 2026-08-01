@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/07/2007 : R\u00E8glement grand-ducal du 29 mars 1995 portant d\u00E9termination des modalit\u00E9s de d\u00E9signation des repr\u00E9sentants des \u00E9trangers au Conseil National pour Etrangers, ainsi que leur r\u00E9partition par nationalit\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20070702/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "f278d70745a802988bfd9d370eb9190b67bf8951c92e154f1fd5364d8fb1a671",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20070702/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1995/03/29/n1/consolide/20070702/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "30b4d3ea86274ea76273514ee23e71d8c80270e9f152ae8b2eeac5ba5b03356b"
+  "record_sha256": "8e1c3a1d4bfafcd68cf0b33ffbf314e34b5e17f8c762cc426a80fc53d91d3e39"
 }

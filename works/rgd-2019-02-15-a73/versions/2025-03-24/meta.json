@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 24/03/2025 : R\u00E8glement grand-ducal du 15 f\u00E9vrier 2019 relatif aux modalit\u00E9s d\u2019inscription, de paiement des frais administratifs ainsi qu\u2019\u00E0 l\u2019acc\u00E8s aux informations inscrites au Registre des b\u00E9n\u00E9ficiaires effectifs.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a73/consolide/20250324/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "efcc89786cfce9c6a7861bc77d216342a798f9cc3e486dfafbf23b78d651c490",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a73/consolide/20250324/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2019/02/15/a73/consolide/20250324/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ea6e6c600ac53f1886fe470abbebcc148490b0996c070e33c0d418e4182a532c"
+  "record_sha256": "92954f56250b4dd44cf3b824cee9e9c3296266b8c15cba5c921e93b7bfb7ca1b"
 }

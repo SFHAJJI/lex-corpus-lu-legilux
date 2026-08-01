@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version rectifi\u00E9e applicable au 11/09/2007 : R\u00E8glement grand-ducal du 30 ao\u00FBt 2007 concernant les exigences de tra\u00E7abilit\u00E9, la notification des r\u00E9actions et incidents ind\u00E9sirables graves, ainsi que certaines exigences techniques relatives \u00E0 la codification, \u00E0 la transformation, \u00E0 la conservation, au stockage et \u00E0 la distribution des tissus et de cellules d\u2019origine humaine.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20070911/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "614c3fa27040113128217a4aa7726e051ad2762e72776c378e302bc5594b82ee",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20070911/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2007/08/30/n1/consolide/20070911/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a745157507c52c7b164676b02b9bbce4529e4ddb43112ab331f222158214cf46"
+  "record_sha256": "cec4a67432d78d4dd7c03c5d22bd4cdbe6841d03da4701ba47dbd1892a35e782"
 }

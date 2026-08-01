@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Logement",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/logement/20240801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7f256dd2da4aafcce08633172626a4393de03c0b16f9aecf85ce50efc6ed9360",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/logement/20240801/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/recueil/logement/20240801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "37ef4cd44a944dc136ec338055e903e6262f9971819bb397caee1cff237dc463"
+  "record_sha256": "bf9d440800490bc55e9231ea0f4ada37a878428985aa64fb1ef07b06b7dcd1f2"
 }

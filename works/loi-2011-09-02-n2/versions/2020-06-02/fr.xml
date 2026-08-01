@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD13" xmlns:scl="http://www.scl.lu">
+    <act contains="originalVersion" name="">
+        <meta>
+            <identification source="#2011A3624A">
+                <FRBRWork>
+                    <FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602"/>
+                    <FRBRuri value=""/>
+                    <FRBRdate date="2011-09-02" name="document"/>
+                    <FRBRauthor as="#author" href="http://data.legilux.public.lu/resource/authority/legal-institution/CHP"/>
+                    <FRBRcountry value="http://publications.europa.eu/resource/authority/country/LUX"/>
+                </FRBRWork>
+                <FRBRExpression>
+                    <FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr"/>
+                    <FRBRuri value=""/>
+                    <FRBRdate date="2011-09-02" name="document"/>
+                    <FRBRauthor as="#author" href=""/>
+                    <FRBRlanguage language="http://publications.europa.eu/resource/authority/language/FRA"/>
+                </FRBRExpression>
+                <FRBRManifestation>
+                    <FRBRthis value="http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr/xml"/>
+                    <FRBRuri value=""/>
+                    <FRBRdate date="2011-09-02" name="document"/>
+                    <FRBRauthor as="#author" href=""/>
+                </FRBRManifestation>
+                <scl:JOLUXWork>
+                    <scl:JOLUXComplexWork>
+                        <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                    </scl:JOLUXComplexWork>
+                    <scl:JOLUXLegalResource>
+                        <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602</scl:jolux>
+                        <scl:jolux scl:name="basicAct">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                        <scl:jolux scl:name="dateEndApplicability">2021-10-30</scl:jolux>
+                        <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                        <scl:jolux scl:name="typeDocument">http://data.legilux.public.lu/resource/authority/resource-type/LOI</scl:jolux>
+                        <scl:jolux scl:name="dateDocument">2011-09-02</scl:jolux>
+                        <scl:jolux scl:name="publicationDate">2021-10-27</scl:jolux>
+                        <scl:jolux scl:name="historicalLegalId">2011A3624A</scl:jolux>
+                        <scl:jolux scl:name="dateApplicability">2020-06-02</scl:jolux>
+                        <scl:jolux scl:name="dateEntryInForce">2020-06-02</scl:jolux>
+                        <scl:jolux scl:name="isPartOf">http://data.legilux.public.lu/eli/etat/leg/memorial/2011/200</scl:jolux>
+                        <scl:jolux scl:name="responsibilityOf">http://data.legilux.public.lu/resource/authority/legal-institution/CHP</scl:jolux>
+                        <scl:jolux scl:name="subjectLevel1">http://data.legilux.public.lu/resource/authority/legal-subject/717</scl:jolux>
+                        <scl:jolux scl:name="subjectLevel2">http://data.legilux.public.lu/resource/authority/legal-subject/5</scl:jolux>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Consolidation</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Act</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Work</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#LegalResource</scl:rdf>
+                        <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#NationalLegalResource</scl:rdf>
+                    </scl:JOLUXLegalResource>
+                </scl:JOLUXWork>
+                <scl:JOLUXExpression>
+                    <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr</scl:jolux>
+                    <scl:jolux scl:name="realizes">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602</scl:jolux>
+                    <scl:jolux scl:name="language">http://publications.europa.eu/resource/authority/language/FRA</scl:jolux>
+                    <scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 02/06/2020 : Loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.</scl:jolux>
+                    <scl:jolux scl:name="draft">http://data.legilux.public.lu/eli/etat/proj/PL/20100278</scl:jolux>
+                    <scl:jolux scl:lg="fra" scl:name="title">Version consolidée applicable au 02/06/2020 : Loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.</scl:jolux>
+                    <scl:jolux scl:name="cites">http://data.legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo</scl:jolux>
+                    <scl:jolux scl:name="modifies">http://data.legilux.public.lu/eli/etat/leg/loi/2010/10/26/n1/jo</scl:jolux>
+                    <scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/agd/1954/12/13/n1/jo</scl:jolux>
+                    <scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/agd/1960/12/31/n1/jo</scl:jolux>
+                    <scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/agd/1937/04/28/n3/jo</scl:jolux>
+                    <scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/agd/1945/10/08/n4/jo</scl:jolux>
+                    <scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/rgd/1992/03/09/n3/jo</scl:jolux>
+                    <scl:jolux scl:name="repeals">http://data.legilux.public.lu/eli/etat/leg/loi/2006/09/29/n1/jo</scl:jolux>
+                </scl:JOLUXExpression>
+                <scl:JOLUXManifestation>
+                    <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr/xml</scl:jolux>
+                    <scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr</scl:jolux>
+                    <scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                    <scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+                    <scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                    <scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+                    <scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/xml-akomantoso</scl:jolux>
+                    <scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/XML</scl:jolux>
+                    <scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2011-09-02-n2-consolide-20200602-fr-xml.xml</scl:jolux>
+                </scl:JOLUXManifestation>
+                <scl:JOLUXManifestation>
+                    <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr/pdf</scl:jolux>
+                    <scl:jolux scl:name="embodies">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/consolide/20200602/fr</scl:jolux>
+                    <scl:jolux scl:name="publisher">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                    <scl:jolux scl:lg="fra" scl:name="rights">Copyright : Ministère d’Etat – Service central de législation – du Grand-Duché de Luxembourg</scl:jolux>
+                    <scl:jolux scl:name="rightsHolder">http://data.legilux.public.lu/authority/legal-institution/ME</scl:jolux>
+                    <scl:jolux scl:name="license">http://creativecommons.org/licenses/by/4.0/</scl:jolux>
+                    <scl:jolux scl:name="userFormat">http://data.legilux.lu/resource/authority/user-format/pdf</scl:jolux>
+                    <scl:jolux scl:name="format">http://publications.europa.eu/resource/authority/file-type/PDF</scl:jolux>
+                    <scl:jolux scl:name="isExemplifiedBy">http://data.legilux.public.lu/file/eli-etat-leg-loi-2011-09-02-n2-consolide-20200602-fr-pdf.pdf</scl:jolux>
+                </scl:JOLUXManifestation>
+            </identification>
+            <lifecycle source="#">
+                <eventRef date="2011-09-02" id="e1" originatingExpression="true" source="#ro1" type="generation"/>
+                <eventRef date="2020-06-02" id="e3" originatingExpression="true" source="#rp3" type="amendment"/>
+                <eventRef date="2021-10-30" id="e2" originatingExpression="false" source="#rp2" type="amendment"/>
+            </lifecycle>
+            <analysis source="#">
+                <passiveModifications>
+                    <textualMod id="pm1" incomplete="false" type="replacement">
+                        <source href="/eli/etat/leg/loi/2020/05/29/a461/jo"/>
+                        <destination href="#art_21"/>
+                    </textualMod>
+                    <textualMod id="pm2" incomplete="false" type="insertion">
+                        <source href="/eli/etat/leg/loi/2020/05/29/a461/jo"/>
+                        <destination href="#art_22"/>
+                    </textualMod>
+                    <textualMod id="pm3" incomplete="false" type="replacement">
+                        <source href="/eli/etat/leg/loi/2020/05/29/a461/jo"/>
+                        <destination href="#art_22"/>
+                    </textualMod>
+                </passiveModifications>
+            </analysis>
+            <references source="#">
+                <original href="/eli/etat/leg/loi/2011/09/02/n2/jo" id="ro1" showAs="Original"/>
+                <passiveRef href="/eli/etat/leg/loi/2021/10/26/a752/jo" id="rp2" showAs="Loi du 26 octobre 2021 portant modification de : 1° de la loi modifiée du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce ; 2° de la loi modifiée du 4 avril 1924 portant création de chambres professionnelles à base élective ; 3° de la loi modifiée du 26 octobre 2010 portant réorganisation de la Chambre de Commerce. "/>
+                <passiveRef href="/eli/etat/leg/loi/2020/05/29/a461/jo" id="rp3" showAs="Loi du 29 mai 2020 portant modification de la loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce."/>
+            </references>
+            <notes scl:type="modification" source="#rp3">
+                <note id="M1" marker="1" refersTo="pm1" title="A|2020-05-29|2020-05-29|L|461">
+                    <content>
+                        <p>
+                            <ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2020/05/29/a461/jo">Loi du 29 mai 2020 portant modification de la loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.</ref>
+                        </p>
+                    </content>
+                </note>
+            </notes>
+            <notes scl:type="modification" source="#rp3">
+                <note id="M2" marker="2" refersTo="pm2" title="A|2020-05-29|2020-05-29|L|461">
+                    <content>
+                        <p>
+                            <ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2020/05/29/a461/jo">Loi du 29 mai 2020 portant modification de la loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.</ref>
+                        </p>
+                    </content>
+                </note>
+            </notes>
+            <notes scl:type="modification" source="#rp3">
+                <note id="M3" marker="3" refersTo="pm3" title="A|2020-05-29|2020-05-29|L|461">
+                    <content>
+                        <p>
+                            <ref href="http://data.legilux.public.lu/eli/etat/leg/loi/2020/05/29/a461/jo">Loi du 29 mai 2020 portant modification de la loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.</ref>
+                        </p>
+                    </content>
+                </note>
+            </notes>
+        </meta>
+        <preface>
+            <longTitle style="11">
+                <p>Version consolidée applicable au 02/06/2020 : Loi du 2 septembre 2011 portant réorganisation de la Chambre des Métiers et modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce.</p>
+            </longTitle>
+        </preface>
+        <body>
+            <section id="chapitre_1er">
+                <num>Chapitre 1<sup>er</sup></num><heading scl:separator=" - ">Dispositions générales</heading>
+                <article id="art_1er">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_1er</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_1er/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 1er.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 1<sup>er</sup>.</num>
+                    <alinea>
+                        <content>
+                            <p>La Chambre des Métiers est une personne morale de droit public.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_2">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_2</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_2/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 2.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 2.</num>
+                    <alinea>
+                        <content>
+                            <p>La Chambre des Métiers dispose de la personnalité juridique et jouit de l'autonomie financière et administrative.</p>
+                            <p>Elle peut acquérir, recevoir, posséder, emprunter, aliéner, ester en justice, faire tous les actes et transactions que son objet comporte, et ce dans les limites de son objet et de ses missions telles qu'elles sont définies par la présente loi.</p>
+                            <p>Dans le cadre de son objet, elle peut sous quelque forme que ce soit, soutenir, créer ou participer à tout établissement, société, association, institution, initiative, œuvre ou service ayant pour objet direct ou indirect la promotion, le soutien ou le développement de l'artisanat.</p>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+            <section id="chapitre_2">
+                <num>Chapitre 2</num><heading scl:separator=" - ">Objet et missions</heading>
+                <article id="art_3">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_3</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_3/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 3.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 3.</num>
+                    <paragraph id="paragraph_1">
+                        <num>(1)</num>
+                        <alinea>
+                            <content>
+                                <p>Sont obligatoirement ressortissants de la Chambre des Métiers: </p>
+                                <ol scl:symbol="1.">
+                                    <li>toutes les personnes physiques ou morales établies à titre principal ou accessoire comme artisan, conformément à la législation en matière d'établissement;</li>
+                                    <li>toutes les succursales établies à titre principal ou accessoire comme artisan, à l'initiative de personnes physiques ou morales relevant du droit d'un autre Etat, conformément à la législation en matière d'établissement.</li>
+                                </ol>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_2">
+                        <num>(2)</num>
+                        <alinea>
+                            <content>
+                                <p>L'affiliation à la Chambre des Métiers exclut une affiliation en tant que ressortissant de la Chambre de Commerce, sauf dans les deux cas suivants:</p>
+                                <ul scl:symbol="dash">
+                                    <li>s'il est établi qu'un ressortissant de la Chambre des Métiers, titulaire d'une autorisation ministérielle en qualité de commerçant, exerce de façon effective une activité commerciale sans aucun rapport avec son activité artisanale</li>
+                                    <li>s'il est établi qu'un ressortissant de la Chambre des Métiers exerce en outre une activité industrielle.</li>
+                                </ul>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_3">
+                        <num>(3)</num>
+                        <alinea>
+                            <content>
+                                <p>La qualité de ressortissant est acquise de plein droit avec effet à partir du jour où une autorisation ministérielle est octroyée à une entreprise par le ministre ayant l'artisanat dans ses attributions et portant sur une activité artisanale au sens de la législation applicable en matière d'établissement.</p>
+                            </content>
+                        </alinea>
+                        <alinea>
+                            <content>
+                                <p>Les autorisations et les modifications s'y rapportant sont communiquées à intervalles réguliers par le membre du Gouvernement responsable pour la Chambre des Métiers en vue de l'établissement et la tenue à jour de son rôle artisanal.</p>
+                            </content>
+                        </alinea>
+                        <alinea>
+                            <content>
+                                <p>La désaffiliation intervient à partir de la cessation définitive de l'activité artisanale pour laquelle l'autorisation ministérielle a été octroyée.</p>
+                            </content>
+                        </alinea>
+                        <alinea>
+                            <content>
+                                <p>Les modalités d'affiliation et de désaffiliation sont fixées par règlement grand-ducal.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_4">
+                        <num>(4)</num>
+                        <alinea>
+                            <content>
+                                <p>Chaque ressortissant se voit délivrer une carte d'affiliation attestant son affiliation au rôle artisanal de la Chambre des Métiers contre le paiement d'une redevance destinée à couvrir les frais du service. Les modalités pratiques de cette carte et le montant de la redevance sont fixés par règlement grand-ducal.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_5">
+                        <num>(5)</num>
+                        <alinea>
+                            <content>
+                                <p>Les personnes physiques ou morales étrangères, effectuant de façon répétée ou de façon plus ou moins régulière ou même de façon isolée, des prestations de services à caractère artisanal au Grand-Duché de Luxembourg sont répertoriées automatiquement et sans frais ou obligation de cotisation à la Chambre des Métiers. Elles n'ont pas la qualité de ressortissants.</p>
+                            </content>
+                        </alinea>
+                        <alinea>
+                            <content>
+                                <p>Les données nécessaires à l'établissement du répertoire des prestataires étrangers sont communiquées à intervalles réguliers par le membre du Gouvernement responsable pour la Chambre des Métiers suivant des modalités à fixer par règlement grand-ducal.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_6">
+                        <num>(6)</num>
+                        <alinea>
+                            <content>
+                                <p>En vue de permettre à la Chambre des Métiers la réalisation d'études statistiques au sens de l'article 6, point d), le Centre Commun de la Sécurité Sociale est autorisé à lui transmettre les données relatives à l'emploi de ses ressortissants.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                </article>
+                <article id="art_4">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_4</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_4/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 4.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 4.</num>
+                    <alinea>
+                        <content>
+                            <p>La Chambre des Métiers a comme objet l'articulation, la sauvegarde et la défense des intérêts de ses ressortissants. Ses avis et propositions émis dans le cadre de l'article 5 peuvent se limiter à la prise en considération d'intérêts sectoriels, à condition que ceux-ci ne soient pas préjudiciables à ceux de l'ensemble de ses ressortissants.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_5">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_5</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_5/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 5.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 5.</num>
+                    <alinea>
+                        <content>
+                            <p>Pour toutes les lois et tous les projets de règlement grand-ducaux et ministériels concernant principalement les professions ressortissant à la Chambre des Métiers, l'avis de celle-ci doit être demandé. Elle donne également son avis sur le budget de l'Etat à soumettre aux délibérations de la Chambre des Députés et présente ses observations à la Chambre des Députés sur les emplois des crédits du budget de l'Etat alloués pour les exercices écoulés dans l'intérêt de l'artisanat et donne son avis sur les nouvelles allocations à proposer pour l'exercice suivant.</p>
+                            <p>Elle peut se saisir pour formuler tout avis au Gouvernement sur des sujets relatifs à son objet ou à ses missions.</p>
+                            <p>La Chambre des Métiers peut créer ou subventionner, le cas échéant, tous établissements, institutions, organisations, œuvres et services poursuivant l'accomplissement de ses objectifs et peut proposer des lois correspondantes.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_6">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_6</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_6/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 6.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 6.</num>
+                    <alinea>
+                        <content>
+                            <p>Les activités de la Chambre des Métiers consistent notamment à: </p>
+                            <ol scl:symbol="a)">
+                                <li>promouvoir un cadre législatif et réglementaire favorable au développement de l'artisanat et de ses ressortissants,</li>
+                                <li>promouvoir l'esprit d'entreprise et l'assistance et le conseil dans le cadre de la création et de la transmission d'entreprise,</li>
+                                <li>assister et conseiller ses ressortissants au niveau économique, technologique, juridique et de l'innovation, ainsi que dans leurs efforts d'internationalisation,</li>
+                                <li>établir des statistiques concernant l'artisanat et réaliser des études et des analyses sur l'artisanat et les petites et moyennes entreprises,</li>
+                                <li>promouvoir la formation professionnelle initiale et continue, de même que l'assistance et le conseil y afférent,</li>
+                                <li>participer à la formation et au perfectionnement professionnels des jeunes et des adultes dans le cadre des dispositions légales concernant la formation professionnelle initiale et le brevet de maîtrise,</li>
+                                <li>exécuter des missions spécifiques qui lui sont déléguées sur base d'une loi ou d'une convention,</li>
+                                <li>informer et sensibiliser à l'observation de la législation concernant l'artisanat et les petites et moyennes entreprises.</li>
+                            </ol>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+            <section id="chapitre_3">
+                <num>Chapitre 3</num><heading scl:separator=" - ">Composition et organisation</heading>
+                <article id="art_7">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_7</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_7/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 7.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 7.</num>
+                    <alinea>
+                        <content>
+                            <p>L'assemblée plénière de la Chambre des Métiers est composée de membres effectifs et de membres suppléants. Trois de ses membres sont désignés par la Fédération des Artisans. Tous les autres membres sont élus au scrutin secret pour une durée de cinq ans. Ils sont rééligibles.</p>
+                            <p>Un règlement grand-ducal pris sur proposition de la Chambre des Métiers détermine le nombre exact des membres effectifs et suppléants à élire, la composition numérique des groupes électoraux et le nombre de sièges réservés à chacun des six groupes électoraux, à savoir le groupe Alimentation, le groupe Mode, Santé, Hygiène, le groupe Mécanique, le groupe Construction - Gros œuvre - Parachèvement, le groupe Construction - Equipements techniques et le groupe Communication, Multimédia, Art et autres activités, ceci sans préjudice des membres désignés par la Fédération des Artisans.</p>
+                            <p>Les modifications à ce règlement grand-ducal prises sur proposition de la Chambre des Métiers sont à publier au plus tard six mois avant chaque élection au Mémorial.</p>
+                            <p>Chaque groupe distinct d'électeurs, ayant droit à un nombre déterminé de membres à élire sur base du règlement grand-ducal précité, formera un collège électoral spécial pour la désignation de ses membres.</p>
+                            <p>La Fédération des Artisans désigne ses trois délégués dans les huit jours qui suivent la publication de la liste des membres effectifs et des membres suppléants élus.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_8">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_8</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_8/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 8.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 8.</num>
+                    <alinea>
+                        <content>
+                            <p>L'assemblée plénière, constituée par l'ensemble des membres élus et de trois membres désignés par la Fédération des Artisans est l'organe de décision souverain de la Chambre des Métiers et représente l'ensemble des ressortissants de la Chambre des Métiers.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_9">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_9</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_9/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 9.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 9.</num>
+                    <alinea>
+                        <content>
+                            <p>L'assemblée plénière définit la politique générale de la Chambre des Métiers. Elle approuve le budget, les comptes et le bilan de la Chambre et détermine l'organisation interne ainsi que son cadre administratif. Elle désigne le directeur général dont la nomination est soumise à l'approbation du Gouvernement.</p>
+                            <p>Le directeur général et le personnel de la Chambre des Métiers sont engagés sur base d'un contrat de louage de services de droit privé.</p>
+                            <p>L'assemblée plénière peut déléguer certains de ses pouvoirs au président et au comité de la Chambre des Métiers.</p>
+                            <p>L'assemblée plénière ne peut délibérer que si plus de la moitié de ses membres sont présents. Les résolutions de l'assemblée plénière sont adoptées à la majorité absolue des voix. Toutefois, si les résolutions n'ont pas recueilli la majorité absolue des voix lors d'un premier vote, elles peuvent être adoptées à la majorité des membres présents lors d'un second vote pouvant intervenir au plus tôt huit jours de calendrier après le premier vote.</p>
+                            <p>Sauf décision contraire, les réunions de l'assemblée plénière ne sont pas publiques.</p>
+                            <p>Il est loisible au membre du Gouvernement responsable pour la Chambre des Métiers de désigner un délégué pour assister aux réunions de l'assemblée plénière de la Chambre des Métiers. Ce délégué pourra prendre la parole et faire des propositions.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_10">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_10</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_10/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 10.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 10.</num>
+                    <alinea>
+                        <content>
+                            <p>Les membres de l'assemblée plénière de la Chambre des Métiers sont tenus au secret professionnel et doivent garder le silence envers les tiers sur tout ce qu'ils ont appris au cours de l'exercice de leur fonction.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_11">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_11</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_11/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 11.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 11.</num>
+                    <alinea>
+                        <content>
+                            <p>Le directeur général de la Chambre des Métiers établit pour chaque séance de l'assemblée plénière un procès-verbal qu'il signe avec le président. Le procès-verbal sera porté à la connaissance du membre du Gouvernement responsable pour la Chambre des Métiers.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_12">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_12</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_12/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 12.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 12.</num>
+                    <alinea>
+                        <content>
+                            <p>Les membres élus de la Chambre des Métiers se regroupent en six sections, issues des six groupes électoraux, à savoir: </p>
+                            <ol scl:symbol="1.">
+                                <li>La section Alimentation</li>
+                                <li>La section Mode, Santé, Hygiène</li>
+                                <li>La section Mécanique</li>
+                                <li>La section Construction – Gros œuvre – Parachèvement</li>
+                                <li>La section Construction – Equipement technique</li>
+                                <li>La section Communication, Multimédia, Art et autres activités.</li>
+                            </ol>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_13">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_13</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_13/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 13.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 13.</num>
+                    <alinea>
+                        <content>
+                            <p>L'assemblée plénière désigne dans sa réunion constituante après les élections, parmi ses membres effectifs, le président et deux vice-présidents. En outre, chaque section désigne dans son sein un porte-parole. Le président, les deux vice-présidents et les porte-parole composent le comité de la Chambre des Métiers.</p>
+                            <p>Le comité assure la mise en œuvre des compétences attribuées à la Chambre des Métiers par la loi et celles lui déléguées par l'assemblée plénière.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_14">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_14</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_14/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 14.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 14.</num>
+                    <alinea>
+                        <content>
+                            <p>Le président représente la Chambre des Métiers à l'égard des tiers et en justice.</p>
+                            <p>Le président peut déléguer toutes ou partie de ses fonctions à d'autres membres effectifs ou au directeur général de la Chambre des Métiers.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_15">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_15</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_15/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 15.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 15.</num>
+                    <alinea>
+                        <content>
+                            <p>Le président, les deux vice-présidents et le directeur général composent le bureau de la Chambre des Métiers. Le bureau n'a pas de pouvoir de décision. Il remplit les missions lui déléguées par le comité et par le règlement d'ordre interne.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_16">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_16</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_16/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 16.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 16.</num>
+                    <alinea>
+                        <content>
+                            <p>L'assemblée plénière peut instituer des commissions composées de membres effectifs, chargées d'analyser des questions spécifiques.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_17">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_17</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_17/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 17.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 17.</num>
+                    <alinea>
+                        <content>
+                            <p>Un réviseur d'entreprise, désigné par l'assemblée plénière, est chargé de contrôler les comptes de la Chambre des Métiers et la régularité des opérations effectuées et des écritures comptables.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_18">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_18</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_18/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 18.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 18.</num>
+                    <alinea>
+                        <content>
+                            <p>Le mode de délibération et les règles de fonctionnement des organes, du bureau, des commissions ainsi que les attributions du directeur général sont fixés par un règlement d'ordre interne publié au Mémorial.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_19">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_19</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_19/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 19.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 19.</num>
+                    <alinea>
+                        <content>
+                            <p>La fonction de membre de l'assemblée plénière de la Chambre des Métiers prend fin au moment où l'intéressé a atteint l'âge de 72 ans ou lorsqu'il cesse l'exercice de son activité artisanale. La fonction de membre de l'assemblée plénière de la Chambre des Métiers est incompatible avec celle de membre de la Chambre des Députés et avec la fonction de conseiller d'Etat.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_20">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_20</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_20/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 20.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 20.</num>
+                    <alinea>
+                        <content>
+                            <p>Le Gouvernement peut dissoudre l'assemblée plénière de la Chambre des Métiers pour motifs graves. S'il fait usage de ce droit, des élections nouvelles auront lieu dans les trois mois de l'arrêté de dissolution.</p>
+                            <p>Depuis le jour de la dissolution de l'assemblée plénière de la Chambre des Métiers jusqu'à celui de sa nouvelle constitution après élection, les affaires courantes de la Chambre des Métiers seront gérées par son directeur général sous l'approbation du Gouvernement.</p>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+            <section id="chapitre_4">
+                <num>Chapitre 4</num><heading scl:separator=" - ">Cotisations et autres ressources</heading>
+                <article id="art_21">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_21</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_21/20200602</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 21.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2020-06-02</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>
+                        <u>
+                            <mod class="mod-start" for="#pm1"/>Art. 21.</u>
+                    </num>
+                    <paragraph id="paragraph_17">
+                        <num>(1)</num>
+                        <alinea>
+                            <content>
+                                <p>Pour faire face à ses dépenses, la Chambre des Métiers est autorisée à percevoir :</p>
+                                <ol scl:start="1" scl:symbol="1.">
+                                    <li>une cotisation annuelle de tous ses ressortissants,</li>
+                                    <li>des droits ou rétributions en rémunération des services qu’elle rend.</li>
+                                </ol>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_18">
+                        <num>(2)</num>
+                        <alinea>
+                            <content>
+                                <p>La cotisation annuelle se compose d’une quote-part « A » et d’une quote-part « B ». Un règlement grand-ducal précise le taux, l’assiette et les modalités de calcul de la cotisation annuelle.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_19">
+                        <num>(3)</num>
+                        <alinea>
+                            <content>
+                                <p>La quote-part « A » est établie sur base du bénéfice commercial au sens de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo" id="af7d372c-b23e-4496-aae3-f3453c3864a7">loi modifiée du 4 décembre 1967</ref> concernant l’impôt sur le revenu.</p>
+                            </content>
+                        </alinea>
+                        <alinea>
+                            <content>
+                                <p>Les pertes reportées au sens de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo" id="7f2d5f9b-d023-4755-afe7-9e830e4df64d">loi modifiée du 4 décembre 1967</ref> concernant l’impôt sur le revenu ne diminuent pas l’assiette.</p>
+                            </content>
+                        </alinea>
+                        <alinea>
+                            <content>
+                                <p>Pour les ressortissants établis sous forme de collectivités, rentrant dans le champ d’application des articles 159 et 160 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/1967/12/04/n1/jo" id="c7211609-9042-4dee-b27c-5d9dd31baa70">loi modifiée du 4 décembre 1967</ref> concernant l’impôt sur le revenu, l’assiette est augmentée du salaire brut du dirigeant, au sens de l’article 4 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2011/09/02/n1/jo" id="d7966233-f0b2-430a-85ef-6fd51adaea9f">loi modifiée du 2 septembre 2011</ref> réglementant l’accès aux professions d’artisan, de commerçant, d’industriel ainsi qu’à certaines professions libérales, en charge de la gestion de l’entreprise. Ce salaire fait l’objet d’une fixation forfaitaire par voie de règlement grand-ducal.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_20">
+                        <num>(4)</num>
+                        <alinea>
+                            <content>
+                                <p>La quote-part « B » est établie sur base du nombre de salariés occupés par le ressortissant, par tranches fixées par voie de règlement grand-ducal. Elle ne peut pas dépasser le montant de 25 000 euros, au nombre 834,76 de l’indice pondéré du coût de la vie au 1 <sup>er</sup> janvier 2020, adapté en fonction des dispositions de l’article 3 de la <ref href="https://legilux.public.lu/eli/etat/leg/loi/2015/03/25/n3/jo" id="53bf0810-3f3a-4426-a188-a22cf3c6b45f">loi modifiée du 25 mars 2015</ref> fixant le régime des traitements et les conditions et modalités d’avancement des fonctionnaires de l’État.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_21">
+                        <num>(5)</num>
+                        <alinea>
+                            <content>
+                                <p>La Chambre des Métiers est autorisée à prélever une cotisation annuelle minimale à fixer par voie de règlement grand-ducal qui ne peut pas dépasser 500 euros.<mod class="mod-end" for="#pm1"/>
+                                    <noteRef href="#M1" marker="1"/>
+                                </p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                </article>
+                <article id="art_22">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_22</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_22/20200602</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 22.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2020-06-02</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 22.</num>
+                    <alinea>
+                        <content>
+                            <p>
+                                <mod class="mod-start" for="#pm2"/>Un règlement grand-ducal détermine le mode et la procédure d’établissement du rôle des cotisations.<mod class="mod-end" for="#pm2"/>
+                                <noteRef href="#M2" marker="2"/>
+                            </p>
+                        </content>
+                    </alinea>
+                    <alinea>
+                        <content>
+                            <p>L'Administration des contributions directes <mod class="mod-start" for="#pm3"/>et le Centre commun de la sécurité sociale sont autorisés<mod class="mod-end" for="#pm3"/>
+                                <noteRef href="#M3" marker="3"/> à transmettre à la Chambre des Métiers les données nécessaires à la tenue à jour de son rôle des cotisations ainsi qu'à la fixation et la perception des cotisations de ses ressortissants. Ces données ne peuvent être utilisées qu'à ces fins exclusives.</p>
+                            <p>La Chambre des Métiers établit chaque année le rôle des cotisations sur base des ressortissants affiliés au 30 juin, lequel est arrêté définitivement à la date du 31 juillet de l'année concernée. Les ressortissants affiliés après la date du 30 juin d'une année sont redevables de la cotisation pour la première fois l'année suivant celle de leur affiliation.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_23">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_23</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_23/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 23.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 23.</num>
+                    <alinea>
+                        <content>
+                            <p>La perception des cotisations mises à charge des ressortissants de la Chambre des Métiers sera opérée par elle-même d'après une procédure à fixer par règlement grand-ducal.</p>
+                            <p>En cas de non-paiement, le recouvrement des cotisations pourra être effectué par la Chambre des Métiers elle-même ou par l'Administration des contributions directes dans les mêmes formes et avec les mêmes privilège et hypothèque que ceux des impôts directs, mais avec le droit de priorité pour ces derniers et les cotisations dues aux assurances sociales.</p>
+                            <p>Le recouvrement des droits ou rétributions se fera d'après les règles de droit commun.</p>
+                            <p>La prescription des cotisations sera acquise trois ans après la remise de l'extrait du rôle.</p>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+            <section id="chapitre_5">
+                <num>Chapitre 5</num><heading scl:separator=" - ">Electorat et élections</heading>
+                <article id="art_24">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_24</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_24/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 24.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 24.</num>
+                    <paragraph id="paragraph_7">
+                        <num>(1)</num>
+                        <alinea>
+                            <content>
+                                <p>Tous les ressortissants tels que définis à l'article 3 sont électeurs. Si l'électeur est une personne morale ou une succursale d'une personne physique ou morale de droit étranger, celui-ci est représenté lors du vote par la personne sur laquelle repose l'autorisation ministérielle. L'âge légal pour pouvoir participer aux élections est de 18 ans accomplis.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_8">
+                        <num>(2)</num>
+                        <alinea>
+                            <content>
+                                <p>Tous les ressortissants et, s'il s'agit d'une personne morale ou d'une succursale d'une personne physique ou morale de droit étranger, la personne sur laquelle repose l'autorisation ministérielle, sont éligibles.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                </article>
+                <article id="art_25">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_25</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_25/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 25.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 25.</num>
+                    <alinea>
+                        <content>
+                            <p>Lors d'une élection, nul ne peut être électeur et candidat dans plus d'un groupe électoral.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_26">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_26</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_26/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 26.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 26.</num>
+                    <alinea>
+                        <content>
+                            <p>Sont exclus de l'électorat et de l'éligibilité: </p>
+                            <ol scl:symbol="1.">
+                                <li>les condamnés à des peines criminelles;</li>
+                                <li>ceux qui, en matière correctionnelle, sont privés du droit de vote par condamnation;</li>
+                                <li>ceux qui sont condamnés pour banqueroute ou qui sont en état de faillite;</li>
+                                <li>les majeurs en tutelle.</li>
+                            </ol>
+                            <p>Lorsque l'électeur est une personne morale ou une succursale, celle-ci est exclue du vote si son représentant tombe sous l'un des cas mentionnés ci-dessus.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_27">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_27</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_27/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 27.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 27.</num>
+                    <alinea>
+                        <content>
+                            <p>Ne sont pas admis au vote et ne peuvent se présenter en tant que candidats aux élections, les ressortissants exerçant leur droit de vote dans une autre chambre professionnelle patronale du Grand-Duché de Luxembourg.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_28">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_28</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_28/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 28.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 28.</num>
+                    <alinea>
+                        <content>
+                            <p>Un bureau électoral chargé de l'organisation et du déroulement des opérations électorales est institué auprès du membre du Gouvernement responsable pour la Chambre des Métiers. Ce bureau est composé d'un président, d'un vice-président, de quatre scrutateurs et d'un secrétaire qui n'a pas voie délibérative, nommés par le membre du Gouvernement responsable pour la Chambre des Métiers.</p>
+                            <p>Le président, le vice-président et un scrutateur sont choisis parmi les agents de l'administration gouvernementale.</p>
+                            <p>Les membres du bureau électoral ont droit à une indemnité dont le montant et les modalités sont fixés par règlement grand-ducal.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_29">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_29</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_29/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 29.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 29.</num>
+                    <alinea>
+                        <content>
+                            <p>La qualité d'électeur est constatée par l'inscription sur les listes électorales. Les listes électorales sont établies par le bureau électoral, tel que défini à l'article 28 de la présente loi, pour chaque groupe électoral. Les listes sont établies tous les cinq ans, au plus tard pour le 15 décembre, sur base d'une proposition de la Chambre des Métiers, élaborée à partir de son rôle artisanal et des autorisations y afférentes.</p>
+                            <p>Les listes indiquent pour chaque ressortissant les noms, prénoms, groupe électoral, domicile électoral ainsi que le numéro d'affiliation à la Chambre des Métiers, et si l'électeur est une personne morale ou une succursale, la dénomination ou raison sociale, le domicile électoral, le numéro d'affiliation à la Chambre des Métiers ainsi que les noms, prénoms, de la personne sur laquelle repose l'autorisation ministérielle.</p>
+                            <p>Tous les cinq ans, dans la troisième semaine de novembre, la Chambre des Métiers fait publier dans au moins deux quotidiens luxembourgeois un avis invitant les ressortissants à se faire inscrire pour le 15 décembre au plus tard comme membre du groupe électoral dans lequel ils veulent voter.</p>
+                            <p>A défaut d'exercer son choix, le ressortissant est inscrit d'office sur la liste électorale dans le groupe électoral correspondant en principe à l'activité artisanale qu'il a exercé le plus longtemps sur base d'une autorisation ministérielle, avec indication de la personne sur laquelle repose cette autorisation ministérielle. Au cas où pour une activité artisanale, respectivement métier artisanal, l'autorisation ministérielle du ressortissant repose sur plusieurs personnes, l'inscription du ressortissant se fait d'office en fonction de la personne la plus ancienne en terme d'autorisation sinon suivant l'âge de ces personnes.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_30">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_30</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_30/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 30.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 30.</num>
+                    <alinea>
+                        <content>
+                            <p>La Chambre des Métiers transmet une proposition de listes électorales au bureau électoral pour le 10 janvier de l'année des élections au plus tard, date à laquelle elles sont arrêtées provisoirement.</p>
+                            <p>Les listes électorales sont déposées à l'inspection du public aux jours, heures et dans le local à communiquer par le bureau électoral moyennant avis publié dans au moins deux quotidiens luxembourgeois. Dans cet avis, les intéressés sont invités à communiquer au bureau électoral toutes les réclamations auxquelles les listes pourraient donner lieu pour le 25 janvier au plus tard. Les réclamations sont à formuler par écrit et à adresser au président du bureau électoral.</p>
+                            <p>Le bureau électoral a jusqu'au 8 février pour donner suite ou non à chaque réclamation. Un recours contre la décision du bureau électoral prise sur base des réclamations peut lui être adressé dans les deux jours de la notification de celle-ci par lettre recommandée à la poste. Il transmet ces recours et toutes les pièces qui s'y rapportent au juge de paix qui statue en audience publique, toutes affaires cessantes, après avoir entendu les parties, et s'il le juge utile, un délégué du bureau électoral. Dans tous les cas, le jugement est réputé contradictoire; il n'est pas susceptible d'appel.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_31">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_31</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_31/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 31.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 31.</num>
+                    <alinea>
+                        <content>
+                            <p>Toutes réclamations, tous exploits, actes de procédures et expéditions en matière électorale peuvent être faits sur papier libre. Toutes les pièces sont dispensées de l'enregistrement.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_32">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_32</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_32/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 32.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 32.</num>
+                    <alinea>
+                        <content>
+                            <p>En exécution des jugements ayant statué sur les recours, le bureau électoral modifie sans délai les listes électorales qui sont définitivement arrêtées le 1<sup>er</sup> mars au plus tard. Une copie des listes électorales est transmise au ministre ayant l'artisanat dans ses attributions et à la Chambre des Métiers pour information.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_33">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_33</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_33/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 33.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 33.</num>
+                    <alinea>
+                        <content>
+                            <p>Le bureau électoral indique dans un avis à publier pour le 5 mars au plus tard dans deux quotidiens luxembourgeois les jours, heures et lieux fixés pour la présentation des candidatures. Chaque candidature doit indiquer les noms, prénoms, domicile électoral et date de naissance du candidat, ainsi que le groupe électoral dans lequel elle s'opère. Si le candidat est la personne sur laquelle repose l'autorisation ministérielle d'un électeur ayant la qualité d'une personne morale ou d'une succursale, la candidature doit mentionner la dénomination ou raison sociale de cette société commerciale ou succursale.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_34">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_34</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_34/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 34.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 34.</num>
+                    <alinea>
+                        <content>
+                            <p>A l'issue des élections, le président du bureau électoral publie le résultat et un tableau des préséances est dressé.</p>
+                            <p>Dans chaque groupe électoral les sièges sont attribués aux candidats ayant obtenu le plus grand nombre de suffrages valables. Sont élus membres suppléants, les candidats, rangeant, par le nombre des voix obtenues, après les membres effectifs.</p>
+                            <p>En cas d'égalité de voix obtenues par deux ou plusieurs candidats dans un groupe électoral, l'attribution du siège se fera en donnant la priorité au plus âgé.</p>
+                            <p>En cas de refus du mandat de membre élu ou lorsque pour un motif quelconque un membre élu ne peut exercer son mandat, il n'est pas procédé à une élection complémentaire, mais les suppléants sont appelés aux fonctions de membres effectifs dans l'ordre correspondant au résultat des élections. Les membres suppléants sont remplacés, dans le même ordre, par ceux qui, lors des élections, ont recueilli des suffrages sans cependant avoir été élus. Le remplaçant achève le mandat de celui qu'il remplace.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_35">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_35</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_35/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 35.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 35.</num>
+                    <paragraph id="paragraph_9">
+                        <num>(1)</num>
+                        <alinea>
+                            <content>
+                                <p>Lorsque le nombre de candidats d'un groupe électoral ne dépasse pas celui des membres effectifs et suppléants à élire dans ce groupe, mais est au moins égal au nombre de membres effectifs à élire, ces candidats sont proclamés élus, à la condition que ceux-ci aient clairement spécifié lors de la présentation de leur candidature s'ils se désignent comme membre effectif ou suppléant, et dans ce dernier cas à quel rang.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_10">
+                        <num>(2)</num>
+                        <alinea>
+                            <content>
+                                <p>Lorsque le nombre de candidats est inférieur au nombre de membres effectifs à élire dans un groupe électoral, les candidats sont déclarés élus et le nombre de membres effectifs de ce groupe dans l'assemblée plénière est diminué d'autant.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_11">
+                        <num>(3)</num>
+                        <alinea>
+                            <content>
+                                <p>Après constitution de l'assemblée plénière et en cas de refus du mandat de membre ou lorsque pour un motif quelconque, un membre effectif de la Chambre des Métiers quitte ses fonctions professionnelles avant l'expiration de son mandat, il n'est pas procédé à une élection complémentaire. Il sera remplacé par un membre suppléant suivant le tableau de préséance arrêté par le bureau électoral lors de la proclamation du résultat des élections.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_12">
+                        <num>(4)</num>
+                        <alinea>
+                            <content>
+                                <p>Après constitution de l'assemblée plénière, lorsqu'un des membres désignés par la Fédération des Artisans en vertu de l'article 7 quitte ses fonctions professionnelles avant l'expiration de son mandat, le membre du Gouvernement responsable pour la Chambre des Métiers invite la Fédération des Artisans à désigner dans un délai d'un mois un membre de remplacement. Celui-ci achève le mandat de celui qu'il remplace.</p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                </article>
+                <article id="art_36">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_36</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_36/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 36.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 36.</num>
+                    <alinea>
+                        <content>
+                            <p>Dans les huit jours qui suivront la proclamation des résultats, tout électeur respectivement tout candidat a le droit de réclamer contre les élections. La proclamation se fait par voie d'affichage dans le local mis à disposition du bureau électoral par la Chambre des Métiers.</p>
+                            <p>La réclamation doit être formulée par écrit, énoncer tous les moyens de réclamation et être remise au membre du Gouvernement responsable pour la Chambre des Métiers dans le délai ci-dessus. Dans le mois de l'élection, le Gouvernement statuera définitivement sur la validité de celle-ci.</p>
+                            <p>La décision sera notifiée aux élus. Lorsqu'une élection est déclarée nulle, le membre du Gouvernement responsable pour la Chambre des Métiers fixera un jour dans la huitaine à l'effet de procéder à un nouveau scrutin dans le mois au plus tard.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_37">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_37</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_37/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 37.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 37.</num>
+                    <alinea>
+                        <content>
+                            <p>L'organisation des élections et la procédure électorale sont fixées par règlement grand-ducal.</p>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+            <section id="chapitre_6">
+                <num>Chapitre 6</num><heading scl:separator=" - ">Dispositions pénales</heading>
+                <article id="art_38">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_38</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_38/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 38.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 38.</num>
+                    <alinea>
+                        <content>
+                            <p>Seront punis d'une amende de 251 à 5.000 euros: </p>
+                            <ol scl:symbol="a)">
+                                <li>quiconque, pour se faire inscrire sur la liste d'électeurs, aura produit des actes ou pièces qu'il savait être simulés; celui qui aura pratiqué les mêmes manœuvres dans le but de faire inscrire un citoyen sur cette liste ou de l'en faire rayer;</li>
+                                <li>celui qui, sous prétexte d'indemnité de voyage ou de séjour, aura donné, offert ou promis aux électeurs une somme d'argent ou des valeurs ou un avantage quelconques; ceux qui, à l'occasion d'une élection, auront donné, offert ou promis aux électeurs des comestibles ou boissons, ou les électeurs qui auront accepté ces dons, offres ou promesses; quiconque aura, en tout temps et dans un but électoral, visité ou fait visiter à domicile un ou plusieurs électeurs; quiconque aura directement ou indirectement, même sous forme de pari, donné, offert ou promis, soit de l'argent, soit des valeurs ou avantages quelconques sous la condition d'obtenir en sa faveur ou en faveur d'un tiers, un suffrage, l'abstention de voter ou la remise d'un bulletin de vote nul; les électeurs qui auront accepté des dons, offres ou promesses;</li>
+                                <li>quiconque, pour déterminer un électeur à s'abstenir de voter, ou à remettre un bulletin de vote nul, ou pour influencer son vote ou pour l'empêcher ou lui défendre de se porter candidat, aura usé à son égard de voies de fait, de violence ou de menaces, ou lui aura fait craindre de perdre son emploi ou d'exposer à un dommage sa personne, sa famille ou sa fortune; quiconque aura engagé, réuni ou aposté des individus, même non armés, dans le but d'intimider les électeurs ou de troubler l'ordre;</li>
+                                <li>toute irruption dans un collège électoral, consommée ou tentée avec violence en vue d'entraver les opérations électorales; si le scrutin a été violé, de même que si les coupables étaient porteurs d'armes, le maximum de la peine sera prononcé et celle-ci pourra être portée au double;</li>
+                                <li>ceux qui ont résisté à l'ordre d'expulsion rendu contre eux par le bureau de vote ou qui seront rentrés dans le local qu'ils avaient été obligés d'évacuer; quiconque, pendant la réunion d'un collège électoral, se sera rendu coupable d'outrages ou de violences, soit envers le bureau soit envers l'un de ses membres; les membres d'un collège électoral qui, pendant la réunion, auront retardé ou empêché les opérations électorales;</li>
+                                <li>tout président, scrutateur ou secrétaire d'un bureau ou tout témoin de candidat qui aura révélé le secret d'un ou de plusieurs votes; quiconque aura contrefait un bulletin électoral ou aura fait usage d'un bulletin contrefait; tout membre ou secrétaire d'un bureau, ou tout témoin de candidat, qui lors du vote ou du dépouillement du scrutin, sera surpris altérant frauduleusement pour les rendre nuls, soustrayant ou ajoutant des bulletins ou des suffrages, ou indiquant sciemment un nombre de bulletins ou de votes inférieur ou supérieur au nombre réel de ceux qu'il est chargé de compter. Les faits seront immédiatement mentionnés au procès-verbal. Celui qui aura voté sans être électeur ou qui aura voté ou se sera présenté pour voter sous le nom d'un autre électeur et celui qui, d'une manière quelconque, aura distrait ou retenu un ou plusieurs bulletins officiels de vote;</li>
+                                <li>les citoyens qui, invités à remplir au jour de l'élection les fonctions de membre du bureau pour lesquelles ils sont désignés, n'auront pas fait connaître, dans les quarante-huit heures leurs motifs d'empêchement à celui dont l'invitation émane, ou qui, après avoir accepté ces fonctions, se seront abstenus, sans cause légitime, de se présenter pour les remplir; le membre du bureau qui refuse, sans cause légitime, de continuer à encourir aux opérations électorales jusqu'à la clôture définitive des procès-verbaux.</li>
+                            </ol>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_39">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_39</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_39/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 39.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 39.</num>
+                    <alinea>
+                        <content>
+                            <p>L'action publique et l'action civile résultant des infractions prévues par la présente loi seront prescrites après six mois révolus à partir du jour où les délits ont été commis.</p>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+            <section id="chapitre_7">
+                <num>Chapitre 7</num><heading scl:separator=" - ">Disposition modifiant la loi du 26 octobre 2010 portant réorganisation de la Chambre de Commerce</heading>
+                <article id="art_40">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_40</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_40/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 40.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 40.</num>
+                    <paragraph id="paragraph_13">
+                        <num>(1)</num>
+                        <alinea>
+                            <content>
+                                <p>L'<ref href="/eli/etat/leg/loi/2010/10/26/n1/art_2">article 2</ref> de la <ref href="/eli/etat/leg/loi/2010/10/26/n1">loi du 26 octobre 2010</ref> portant réorganisation de la Chambre de Commerce est modifié comme suit: </p>
+                                <ol scl:symbol="1°">
+                                    <li>Un point j) est ajouté au paragraphe 4 et prend la teneur suivante:<mod>
+                                            <quotedText>
+                                                <embeddedStructure>
+                                                    <ol scl:symbol="custom">
+                                                        <li scl:symbol="j)">l'établissement de statistiques et la réalisation d'études et d'analyses en matière commerciale, industrielle et financière et notamment celles concernant les petites et moyennes entreprises.</li>
+                                                    </ol>
+                                                </embeddedStructure>
+                                            </quotedText>
+                                        </mod>
+                                    </li>
+                                    <li>Un sixième paragraphe est ajouté et prend la teneur suivante:<mod>
+                                            <quotedText>
+                                                <embeddedStructure>
+                                                    <alinea>
+                                                        <content>
+                                                            <p>En vue de permettre à la Chambre de Commerce la réalisation d'études statistiques au sens du paragraphe 4, point j), le Centre Commun de la Sécurité Sociale est autorisé à lui transmettre les données relatives à l'emploi de ses ressortissants.</p>
+                                                        </content>
+                                                    </alinea>
+                                                </embeddedStructure>
+                                            </quotedText>
+                                        </mod>
+                                    </li>
+                                </ol>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_14">
+                        <num>(2)</num>
+                        <alinea>
+                            <content>
+                                <p>L'<ref href="/eli/etat/leg/loi/2010/10/26/n1/art_4">article 4</ref> de la <ref href="???" scl:verify="true">loi du 26 octobre 2010</ref> portant réorganisation de la Chambre de Commerce est modifié comme suit: </p>
+                                <ol scl:symbol="1°">
+                                    <li>Le paragraphe 2 prend la teneur suivante:<mod>
+                                            <quotedText>
+                                                <embeddedStructure>
+                                                    <paragraph>
+                                                        <num>(2)</num>
+                                                        <alinea>
+                                                            <content>
+                                                                <p>Ne sont pas ressortissants de la Chambre de Commerce toutes les personnes physiques ou morales, ainsi que toutes les succursales de sociétés étrangères qui sont ressortissantes de la Chambre des Métiers au sens de l'article 3 de la loi portant réorganisation de la Chambre des Métiers.</p>
+                                                            </content>
+                                                        </alinea>
+                                                    </paragraph>
+                                                </embeddedStructure>
+                                            </quotedText>
+                                        </mod>
+                                    </li>
+                                    <li>Le paragraphe 3 prend la teneur suivante:<mod>
+                                            <quotedText>
+                                                <embeddedStructure>
+                                                    <paragraph>
+                                                        <num>(3)</num>
+                                                        <alinea>
+                                                            <content>
+                                                                <p>Cependant, dans les deux cas exceptionnels énumérés ci-après, il y aura double affiliation à la Chambre des Métiers et à la Chambre de Commerce:</p>
+                                                                <ul scl:symbol="dash">
+                                                                    <li>s'il est établi qu'un ressortissant de la Chambre des Métiers, titulaire d'une autorisation ministérielle en qualité de commerçant, exerce de façon effective une activité commerciale sans aucun rapport avec son activité artisanale,</li>
+                                                                    <li>s'il est établi qu'un ressortissant de la Chambre des Métiers exerce en outre une activité industrielle.</li>
+                                                                </ul>
+                                                            </content>
+                                                        </alinea>
+                                                    </paragraph>
+                                                </embeddedStructure>
+                                            </quotedText>
+                                        </mod>
+                                    </li>
+                                </ol>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_15">
+                        <num>(3)</num>
+                        <alinea>
+                            <content>
+                                <p>L'<ref href="/eli/etat/leg/loi/2010/10/26/n1/art_21">article 21</ref> de la <ref href="???" scl:verify="true">loi du 26 octobre 2010</ref> portant réorganisation de la Chambre de Commerce est libellé comme suit:<mod>
+                                        <quotedText>
+                                            <embeddedStructure>
+                                                <article>
+                                                    <num>Art. 21.</num>
+                                                    <alinea>
+                                                        <content>
+                                                            <p>Sont électeurs et éligibles tous les ressortissants de la Chambre de Commerce, tels que définis à l'article 4 ci-dessus et sans préjudice d'autres dispositions législatives, les personnes mentionnées au deuxième tiret du même article âgées de 18 ans accomplis au jour de la clôture du scrutin, tel que fixé par règlement grand-ducal.</p>
+                                                        </content>
+                                                    </alinea>
+                                                </article>
+                                            </embeddedStructure>
+                                        </quotedText>
+                                    </mod>
+                                </p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                    <paragraph id="paragraph_16">
+                        <num>(4)</num>
+                        <alinea>
+                            <content>
+                                <p>L'<ref href="/eli/etat/leg/loi/2010/10/26/n1/art_22">article 22</ref> de la <ref href="???" scl:verify="true">loi du 26 octobre 2010</ref> portant réorganisation de la Chambre de Commerce est libellé comme suit:<mod>
+                                        <quotedText>
+                                            <embeddedStructure>
+                                                <article>
+                                                    <num>Art. 22.</num>
+                                                    <alinea>
+                                                        <content>
+                                                            <p>Toute société commerciale ayant son siège social au Grand-Duché de Luxembourg et toute succursale d'une société étrangère, établie au Grand-Duché, ressortissantes de la Chambre de Commerce, sont qualifiées à participer au vote par leur représentant légal ou délégué, âgé de 18 ans accomplis au jour de la clôture du scrutin, tel que fixé par règlement grand-ducal, qui est également éligible, sans préjudice d'autres dispositions législatives.</p>
+                                                        </content>
+                                                    </alinea>
+                                                </article>
+                                            </embeddedStructure>
+                                        </quotedText>
+                                    </mod>
+                                </p>
+                            </content>
+                        </alinea>
+                    </paragraph>
+                </article>
+            </section>
+            <section id="chapitre_8">
+                <num>Chapitre 8</num><heading scl:separator=" - ">Dispositions abrogatoires et transitoires</heading>
+                <article id="art_41">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_41</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_41/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 41.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 41.</num>
+                    <alinea>
+                        <content>
+                            <p>L'<ref href="/eli/etat/leg/agd/1945/10/08/n4">arrêté grand-ducal modifié du 8 octobre 1945</ref> portant réorganisation du statut de la Chambre des Métiers est abrogé.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_42">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_42</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_42/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 42.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 42.</num>
+                    <alinea>
+                        <content>
+                            <p>Les règlements grand-ducaux pris en exécution de l'arrêté grand-ducal demeurent provisoirement en vigueur au moment de l'entrée en vigueur de la présente loi pour autant qu'ils ne soient pas contraires à ses dispositions et aussi longtemps qu'ils n'ont pas été remplacés par des règlements grand-ducaux pris en application de la présente loi.</p>
+                        </content>
+                    </alinea>
+                </article>
+                <article id="art_43">
+                    <scl:JOLUXWork>
+                        <scl:JOLUXComplexWork>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_43</scl:jolux>
+                        </scl:JOLUXComplexWork>
+                        <scl:JOLUXLegalResource>
+                            <scl:jolux scl:name="uriThis">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2/art_43/20110929</scl:jolux>
+                            <scl:jolux scl:name="isMemberOf">http://data.legilux.public.lu/eli/etat/leg/loi/2011/09/02/n2</scl:jolux>
+                            <scl:jolux scl:lg="fra" scl:name="title">Art. 43.</scl:jolux>
+                            <scl:jolux scl:name="dateApplicability">2011-09-29</scl:jolux>
+                            <scl:rdf scl:name="type">http://data.legilux.public.lu/resource/ontology/jolux#Article</scl:rdf>
+                        </scl:JOLUXLegalResource>
+                    </scl:JOLUXWork>
+                    <num>Art. 43.</num>
+                    <alinea>
+                        <content>
+                            <p>L'<ref href="/eli/etat/leg/agd/1937/04/28/n3">arrêté grand-ducal du 28 avril 1937</ref> portant institution d'une carte professionnelle pour artisans est abrogé.</p>
+                        </content>
+                    </alinea>
+                </article>
+            </section>
+        </body>
+    </act>
+</akomaNtoso>

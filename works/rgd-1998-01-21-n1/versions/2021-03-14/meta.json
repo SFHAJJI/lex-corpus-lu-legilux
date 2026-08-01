@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 14/03/2021 : R\u00E8glement grand-ducal du 21 janvier 1998 portant sur l\u0027exercice de la profession d\u0027infirmier.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/01/21/n1/consolide/20210314/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "daea6f038e44d8bfd2cf49f4502ac0d9740939ff30300f212556f7ada1a7baba",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1998/01/21/n1/consolide/20210314/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1998/01/21/n1/consolide/20210314/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "85dbcd52f88c3f2ee205666227ec2c9e9d213a2a509250bd01f06f06f3c15981"
+  "record_sha256": "5e8137c7edf980d1987f696dfc9160d2a73fe83d8c5908836751bf27702cb9ff"
 }

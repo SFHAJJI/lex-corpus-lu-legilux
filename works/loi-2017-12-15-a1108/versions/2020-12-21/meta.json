@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 21/12/2020 : Loi du 15 d\u00E9cembre 2017 relative \u00E0 un r\u00E9gime d\u2019aides \u00E0 la protection de l\u2019environnement et modifiant\\n1. la loi du 17 mai 2017 relative \u00E0 la promotion de la recherche, du d\u00E9veloppement et de l\u2019innovation ;\\n2. la loi du 20 juillet 2017 ayant pour objet la mise en place d\u0027un r\u00E9gime d\u0027aide \u00E0 l\u0027investissement \u00E0 finalit\u00E9 r\u00E9gionale.",
       "title_short": "Loi du 15 d\u00E9cembre 2017 relative \u00E0 un r\u00E9gime d\u2019aides \u00E0 la protection de l\u2019environnement.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1108/consolide/20201221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "044bd3fb2330d283e797dae4a23fd588da2419e59ea3dc63ebeb2634516326ee",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1108/consolide/20201221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2017/12/15/a1108/consolide/20201221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7925b962b68a9df969388cfb11fb951758e10958e46e773190ff005f00072f7a"
+  "record_sha256": "b243dc48bbf7afc112d0cf75c0d39ed5a981489b5dde6b9677bfe5cef0014519"
 }

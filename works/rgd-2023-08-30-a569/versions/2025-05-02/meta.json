@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/05/2025 : R\u00E8glement grand-ducal du 30 ao\u00FBt 2023 concernant l\u2019indemnisation des d\u00E9g\u00E2ts mat\u00E9riels commis par certaines esp\u00E8ces animales prot\u00E9g\u00E9es et les subventions pour les mesures pr\u00E9ventives y relatives.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/30/a569/consolide/20250502/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "68fe83e38277c5fd90386c6a60c0ee066d39cdb813d58f5431868b94cfa9e7a1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/30/a569/consolide/20250502/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/08/30/a569/consolide/20250502/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8057d88531d4dfcb17a0703af817d54035c89c0faf296b59cab49e867c2742bd"
+  "record_sha256": "7e0379fcea1d199a19a5032bcf97196856e2e70d6d42e4c8a6f74f705d0f553e"
 }

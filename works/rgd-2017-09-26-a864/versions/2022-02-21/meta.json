@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/02/2022 : R\u00E8glement grand-ducal du 26 septembre 2017 relatif \u00E0 la vente, \u00E0 l\u0027utilisation et au stockage des produits phytopharmaceutiques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/09/26/a864/consolide/20220221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b618c0695046731c5b88819f64f16c40e89d6725ec75540d1a38c651a0e505af",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2017/09/26/a864/consolide/20220221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2017/09/26/a864/consolide/20220221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "01b485cdb0fc61792453f72b60a867071f973668138389558fd59eda41ecfbc3"
+  "record_sha256": "fff9b75f7c35b79e9b36ed668a8844ddce3b4fa118e20e2b6685554e11188874"
 }

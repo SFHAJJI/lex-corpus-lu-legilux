@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/04/2012 : Loi du 24 mai 2011 relative aux services dans le march\u00E9 int\u00E9rieur.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20120401/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "51b4e0499d5152f591bc245d756bcb8adee0f8734f60c9fb7177998e71d2d133",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20120401/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2011/05/24/n1/consolide/20120401/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1b96e3c7dcb202c7289662a38d2d0e76e2d7b126815a741267e8ecd64f6dfa64"
+  "record_sha256": "2b848074afe32364d05de66da8374e4efa92c58aca8721d10fbb4312de17438e"
 }

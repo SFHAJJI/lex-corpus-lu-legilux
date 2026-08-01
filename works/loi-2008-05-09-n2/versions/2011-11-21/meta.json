@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 21/11/2011 : Loi du 9 mai 2008 relative aux chiens.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20111121/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "271d8b38acbc0bfc2410a67f14b1413450d8de3a72ee7c27692036db75ae43f3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20111121/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/05/09/n2/consolide/20111121/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3bae5b62b46d62f294724de13a0314e8ac18fa521d2f769a8dad4aa2931dcef0"
+  "record_sha256": "ee79e3ec8ba13f53dbde923d677ce4cf52eef908c1414b067c2cba58d398d375"
 }

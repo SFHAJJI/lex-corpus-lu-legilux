@@ -23,15 +23,22 @@
       "title": "Code de commerce",
       "title_short": "Code de commerce",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/commerce/20231101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "d18283949a853b2374793fe41664746e0923a2aa23fd68c10905ae3b5c1740d9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/commerce/20231101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/commerce/20231101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c8f0742b1aef6322ed8d551f1b3cfc4ab934736932f5d4be243ecd239ff68a8b"
+  "record_sha256": "814eab727102a9f711d371aab3e0fd5761a088fb20f9ed1226be5e8ae5abbf14"
 }

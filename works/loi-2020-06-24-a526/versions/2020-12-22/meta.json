@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/12/2020 : Loi du 24 juin 2020 concernant la c\u00E9l\u00E9bration du mariage dans un \u00E9difice communal autre que la maison communale dans le cadre de la lutte contre la pand\u00E9mie Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a526/consolide/20201222/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "93bcee3a1757ceb6e3dfbe009b21e246f76b19f098ffdbc783a1666e868cf6d1",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a526/consolide/20201222/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/24/a526/consolide/20201222/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "7c434ec286e81c61a2bd1956a9455480d4b4781df6abb383095f5315ab5373c7"
+  "record_sha256": "9243ccdf18cc61e067b937b61dccb0cae8e765d6ad2d90dd5d24482e28a2d52a"
 }

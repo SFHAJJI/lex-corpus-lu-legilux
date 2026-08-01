@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/2009 : Loi du 19 d\u00E9cembre 2008 \u00E9tablissant un cadre pour la fixation d\u0027exigences en mati\u00E8re d\u0027\u00E9coconception applicables aux produits consommateurs d\u0027\u00E9nergie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n12/consolide/20101221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "767fb185e7017e9f7196f0faecc1ddc00f8d4dc5248e4f048a43c5c008fa2219",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n12/consolide/20101221/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2008/12/19/n12/consolide/20101221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c7d208d898c817bd552d6419a94d05acae1aae648a07e58879efed85e5e00044"
+  "record_sha256": "c276990d1f2cc9eefd69fad4ebfea17b16d9fd94d146781afff9e444f4744ac3"
 }

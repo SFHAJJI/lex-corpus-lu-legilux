@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/1994 : Loi du 18 d\u00E9cembre 1987 organisant le centre thermal et de sant\u00E9 de Mondorf-les-Bains.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1987/12/18/n1/consolide/19940101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "34f03b21eac64548dfe89878dfeaf21ce9a4b2785862189a78309942d55662f2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1987/12/18/n1/consolide/19940101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1987/12/18/n1/consolide/19940101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ea8bca28d56959e20e053e325774d2b30325dfb822caed53470d629f3918d01a"
+  "record_sha256": "3c843c1882e97d5fe328f9121464b344b9ccf884d87aa641769ad0136862e577"
 }

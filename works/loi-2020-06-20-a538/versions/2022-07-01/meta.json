@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2022 : Loi du 20 juin 2020 portant\\n1\u00B0 d\u00E9rogation temporaire \u00E0 certaines dispositions en mati\u00E8re de droit du travail en relation avec l\u2019\u00E9tat de crise li\u00E9 au Covid-19 ;\\n2\u00B0 modification du Code du travail.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20220701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2ff69e56d1e05a471f64ee49e9cf93dd2b59d39405b269d31535a1d91e7e4373",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20220701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2020/06/20/a538/consolide/20220701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d305d7b63978c5fae478949e91a0950185c9e07e4840b204c94537e7555415f2"
+  "record_sha256": "b5f0c0c6b00c20be742cc13667342bd4bbd45826dbaa5bedc6c643bb71b4b8f4"
 }

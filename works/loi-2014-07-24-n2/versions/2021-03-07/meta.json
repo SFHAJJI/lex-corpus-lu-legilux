@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 07/03/2021 : Loi du 24 juillet 2014 relative aux droits et obligations du patient, portant cr\u00E9ation d\u0027un service national d\u0027information et de m\u00E9diation dans le domaine de la sant\u00E9 et modifiant:\\n - la loi modifi\u00E9e du 28 ao\u00FBt 1998 sur les \u00E9tablissements hospitaliers;\\n - la loi modifi\u00E9e du 2 ao\u00FBt 2002 relative \u00E0 la protection des personnes \u00E0 l\u0027\u00E9gard du traitement des donn\u00E9es \u00E0 caract\u00E8re personnel;\\n - le Code civil.",
       "title_short": "Loi du 24 juillet 2014 relative aux droits et obligations du patient.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n2/consolide/20210307/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "78366789b2a8510bb9c83861e779d7ce9137776f4425bde0375cfe3e3a560d1a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n2/consolide/20210307/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n2/consolide/20210307/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "12bd9f3d28120b95386622ed0939e17b1b68a47b50abe435f8c5aa19b80d376c"
+  "record_sha256": "75018abc6e96ccb1776fe7cc406753fb119523090cd0a68dce15840e155c6b09"
 }

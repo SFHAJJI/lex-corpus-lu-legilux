@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 18/03/1979 : Loi du 18 juin 1971 portant approbation de la Convention sur la r\u00E9duction des cas de pluralit\u00E9 de nationalit\u00E9s et sur les obligations militaires en cas de pluralit\u00E9 de nationalit\u00E9s, ouverte \u00E0 la signature \u00E0 Strasbourg, le 6 mai 1963.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/06/18/n1/consolide/19790318/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "46d8e7319e0c2ef77de1dbee1f84b21d3897f52ba3e940eb42f526761a52b3b9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1971/06/18/n1/consolide/19790318/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1971/06/18/n1/consolide/19790318/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "857542c04fc943775b272a3f46d8395bcb278f47e0f1e13abe172343c19b8794"
+  "record_sha256": "69c21930328ef261286a8a2a48cc39bf9463bf1d7f7511617dddabe3cfbdded9"
 }

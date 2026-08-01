@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2013 : R\u00E8glement grand-ducal du 30 juillet 2013 relatif \u00E0 la limitation de l\u0027utilisation de certaines substances dangereuses dans les \u00E9quipements \u00E9lectriques et \u00E9lectroniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n2/consolide/20140411/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2e06de509a0919c9f307f22cab06c4796e94acad47f7dafb3bd429780cb8f248",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n2/consolide/20140411/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2013/07/30/n2/consolide/20140411/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4d627b058d654dc7f008dcc7720e77ce45e36cc55a0d1dd69fedbc64c98de0d6"
+  "record_sha256": "59499f43a7ec045ea205c02de63b1c110a02188099d0f6554e1a1aad171a456a"
 }

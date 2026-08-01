@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/12/2010 : Loi du 28 ao\u00FBt 1998 sur les \u00E9tablissements hospitaliers.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/28/n1/consolide/20110517/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "05fb0a02bfbfc6dfbb96ddf9673349aa38cd7e637073d9f421ae3eb47b9ed515",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/28/n1/consolide/20110517/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1998/08/28/n1/consolide/20110517/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "264c2025991ae79f2e2a2bfc9ba94c86b2532ca357d3fbb39cdaa78b3f49aed5"
+  "record_sha256": "c9d3f1be32fbd4eef1b56862013eed444bd66f44dd4e4a97ec4764e03c2a8b54"
 }

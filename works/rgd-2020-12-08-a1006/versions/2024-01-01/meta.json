@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2024 : R\u00E8glement grand-ducal du 8 d\u00E9cembre 2020 fixant\\n1\u00B0 les modalit\u00E9s de fonctionnement des commissions nationales de l\u2019enseignement fondamental ;\\n2\u00B0 les indemnit\u00E9s de leurs membres.\\n",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/12/08/a1006/consolide/20240101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9295bd8025f001f4c176127344c6739ebd102c0db8eca7df72ffa395ff848bee",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/12/08/a1006/consolide/20240101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/12/08/a1006/consolide/20240101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0dcf9b1c879eb0a6586d711051437dbe32294d1c2d74d730646d31e31a6377ce"
+  "record_sha256": "f208fa274d3e6aac0a125b4e70945f404d246dcd9cb59de6902145d1e47a1edc"
 }

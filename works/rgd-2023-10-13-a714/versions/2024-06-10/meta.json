@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 10/06/2024 : R\u00E8glement grand-ducal du 13 octobre 2023 fixant les mesures d\u2019ex\u00E9cution relatives aux aides \u00E0 la pierre pr\u00E9vues par la loi relative au logement abordable.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/consolide/20240610/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "09e0a17e975462036562a2b7caf03b3e27b3f09ece1558be7b0ebc50b37ba629",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/consolide/20240610/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/10/13/a714/consolide/20240610/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aa17f7866cc3c7f5f64ea029d904a15916807b3d4225af8b2345aee2d959af39"
+  "record_sha256": "8d9b25724065b9aa5aa84b2e1d49dea16c93016b7598a80f4ce5d3430ce05a02"
 }

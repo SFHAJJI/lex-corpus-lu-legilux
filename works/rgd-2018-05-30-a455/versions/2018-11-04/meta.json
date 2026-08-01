@@ -21,15 +21,22 @@
       "title": "Version consolid\u00E9e applicable au 04/11/2018 : R\u00E8glement grand-ducal du 30 mai 2018 relatif aux modalit\u00E9s d\u2019application :\\n1\u00B0 du r\u00E8glement (CE) n\u00B0 1760/2000 du Parlement europ\u00E9en et du Conseil du 17 juillet 2000 \u00E9tablissant un syst\u00E8me d\u0027identification et d\u0027enregistrement des bovins et concernant l\u0027\u00E9tiquetage de la viande bovine et des produits \u00E0 base de viande bovine, et abrogeant le r\u00E8glement (CE) n\u00B0 820/97 du Conseil, tel que modifi\u00E9 ; et\\n2\u00B0 du r\u00E8glement (CE) n\u00B0 911/2004 de la Commission du 29 avril 2004 portant dispositions d\u0027ex\u00E9cution du r\u00E8glement (CE) n\u00B0 1760/2000 du Parlement europ\u00E9en et du Conseil en ce qui concerne les marques auriculaires, les passeports et les registres d\u0027exploitation, tel que modifi\u00E9.",
       "title_short": "R\u00E8glement grand-ducal du 30 mai 2018 \u00E9tablissant un syst\u00E8me d\u2019identification et d\u2019enregistrement des bovins",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7a175f63c9dd80d6fb8691a4888e0a009c0ea01e42582535bc99ca5c83761d05",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2018/05/30/a455/consolide/20181104/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "056f37d81886b5909b57660b7020f1a19f99408b7b5baf6514ce3df485261745"
+  "record_sha256": "1a18959deddd92182e4e9be6d3b2b821c4fea740d9f04a3eaf55d43018585e68"
 }

@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/07/2016 : Loi du 25 f\u00E9vrier 1967 ayant pour objet diverses mesures en faveur de personnes devenues victimes d\u0027actes ill\u00E9gaux de l\u0027occupant.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/02/25/n1/consolide/20160701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "9c4fba48ac478305d3345319e5c1c97dc21068d6d2f9d4e300323d84f0ac4619",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1967/02/25/n1/consolide/20160701/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1967/02/25/n1/consolide/20160701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "40d7ae5dd92240ae63f27f961958adcf1e0f0c2f5bc44974e57c39ac0cab966c"
+  "record_sha256": "b3e3c3d34e78ccaa7f390f2451660494d1fddaf8a54486a0b9917c22602cf9bc"
 }

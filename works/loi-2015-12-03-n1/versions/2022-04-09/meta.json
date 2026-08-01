@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/04/2022 : Loi du 3 d\u00E9cembre 2015 relative \u00E0 certaines utilisations autoris\u00E9es des oeuvres orphelines.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/03/n1/consolide/20220409/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "da9ef76373292f16a5f218cf5477319e445ba7bb2e355ebdc6e7ceab5ba4cb55",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/03/n1/consolide/20220409/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2015/12/03/n1/consolide/20220409/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e3d97c4418c95bcfb875d3ce3b939873bcfd8b72c63ebca5ceaa0079a9ce3b1e"
+  "record_sha256": "e0487034e61ebc5e7bf6d25483b23126a91e3218be89f5d7088ce952d6b77360"
 }

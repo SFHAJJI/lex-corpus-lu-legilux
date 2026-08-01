@@ -23,15 +23,22 @@
       "title": "Version consolid\u00E9e applicable au 01/06/2008 : Loi du 14 ao\u00FBt 2000 relative au commerce \u00E9lectronique modifiant le code civil, le nouveau code de proc\u00E9dure civile, le code de commerce, le code p\u00E9nal et transposant la directive 1999/93 du 13 d\u00E9cembre 1999 relative \u00E0 un cadre communautaire pour les signatures \u00E9lectroniques, la directive 2000/31/CE relative \u00E0 certains aspects juridiques des services de la soci\u00E9t\u00E9 de l\u2019information, certaines dispositions de la directive 97/7/CEE du 20 mai 1997 concernant la vente \u00E0 distance des biens et des services autres que les services financiers.",
       "title_short": "Loi du 14 ao\u00FBt 2000 relative au commerce \u00E9lectronique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20080601/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "6fd36287db7b438190a164a1842c71fefc39d6d5c61212da9b6f2abadca4f2ac",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20080601/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/2000/08/14/n8/consolide/20080601/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "362a2458740a8885c2bdccb8db0fc36a87b3385a6074d89e346c80e0a4c1b426"
+  "record_sha256": "df230a7f51f2cbd10cf631377478a5edcd9ba2af4020b6d4d5f088b34e1addc2"
 }

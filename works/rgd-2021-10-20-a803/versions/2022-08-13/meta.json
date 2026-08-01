@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 13/08/2022 : R\u00E8glement grand-ducal du 20 octobre 2021 fixant les conditions de commercialisation, de production et de certification des semences de plantes ol\u00E9agineuses et \u00E0 fibres.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a803/consolide/20220813/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "adf4513296ebab9946805a5b364c032cc22b0bef564d51f1061aa19a6914bf73",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a803/consolide/20220813/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2021/10/20/a803/consolide/20220813/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "91ffbf33c9115143b23558c175226f7711e31e3970f8c65d86d4c228e088ea39"
+  "record_sha256": "c735570341929d0f8edca79547e6d4c9a278909f39e167c2ab9938b5dc2f008f"
 }

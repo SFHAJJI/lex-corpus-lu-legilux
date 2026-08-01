@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/01/2002 : Loi du 1er ao\u00FBt 1972 portant r\u00E9glementation de l\u0027inhumation et de l\u0027incin\u00E9ration des d\u00E9pouilles mortelles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/08/01/n3/consolide/20020101/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c5398f7af92e6ff666c40dc077526c937249b6095911c3b589141ca01e7b0311",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/08/01/n3/consolide/20020101/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1972/08/01/n3/consolide/20020101/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ab3bf0f75f3eccfed78bfaf94ab987bc86896d0e3955cdbfabab872a7967296e"
+  "record_sha256": "d82a5b942af6c037aff221f6cec191671ac696ca8dc5e45fb45cd8f3f7a5e48e"
 }

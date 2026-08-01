@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/12/2010 : R\u00E8glement grand-ducal du 17 mars 1993 fixant les modalit\u00E9s selon lesquelles le Gouvernement accorde les concessions pour services luxembourgeois par c\u00E2ble, ainsi que les r\u00E8gles g\u00E9n\u00E9rales gouvernant ces concessions et les cahiers de charges qui leur sont assortis.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n3/consolide/20101228/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "83c801b858b4e2a66cd42ea6d507bf9d551b4c5caeffce6230ee21d01224671a",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n3/consolide/20101228/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/03/17/n3/consolide/20101228/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5ca2d88ea5f4dc73d96833362726c726a9a3966c58a73b1916be1aaa2c51e718"
+  "record_sha256": "ca38a05d8290ac8511a2166eb1866c3072a8e9c362959ec9575182bf3b22060a"
 }

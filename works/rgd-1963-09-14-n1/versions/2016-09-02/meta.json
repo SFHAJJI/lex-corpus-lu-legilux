@@ -20,15 +20,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/09/2016 : R\u00E8glement grand-ducal du 14 septembre 1963 d\u00E9terminant la proc\u00E9dure d\u2019enqu\u00EAte pr\u00E9alable \u00E0 l\u2019ex\u00E9cution des travaux vis\u00E9s \u00E0 l\u2019article 11 de la loi du 31 juillet 1962 ayant pour objet le renforcement de l\u2019alimentation en eau potable du Grand-Duch\u00E9 de Luxembourg \u00E0 partir du r\u00E9servoir d\u2019Esch-sur-S\u00FBre.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/consolide/20160902/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e67be89f866fa2d1947057caf246b0b7e14bbf7bb073a00aecad3d7ee67e1c21",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/consolide/20160902/fr",
+          "retrieved_at": "2026-08-01T08:00:00Z",
+          "observed_from": "2026-08-01T08:00:00Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1963/09/14/n1/consolide/20160902/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e9522f6ed31dea8f70cae826436114f8ebd6a63829d53eb5de4b8b6cb3aea0eb"
+  "record_sha256": "39e8f4a574c2d5edd7dc23220d0f34aed731c20b3c59532051382da52378d356"
 }
