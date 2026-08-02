@@ -5,11 +5,25 @@ Regulators publish the current rule; this repository keeps every consolidated
 state Legilux has published, so *"what applied on 15 March 2022?"* is a file
 read, not an archaeology project.
 
-**1,399 works · 4,644 versions · 1849-03-14 → 2030-09-15.**
+**1,399 works · 4,632 versions · 1849-03-14 → 2030-09-15.**
 Honest coverage claim: *dense and reliable from 2017 onward; real but sparse
 before; isolated snapshots back to 1849; forward to 2030.* Only ~6% of lois and
 ~4% of RGD are ever consolidated — the ≈24,579 never-consolidated acts are
 **not** in this repository (their date coverage is unmeasured).
+
+**[Per-article dataset](https://github.com/SFHAJJI/lex-articles)** ·
+**[Live demo](https://law.soufien.lu)** ·
+**[MCP endpoint](https://law.soufien.lu/mcp)** ·
+**[Engine](https://github.com/SFHAJJI/lex)**
+
+## Why a git repository?
+
+Because the questions people actually ask about law are *time* questions, and
+git answers them natively: `git log` is the legislative history, `git diff` is
+"what changed between these two states", and a clone is a complete,
+tamper-evident copy nobody can silently edit — every byte is covered by a
+sha256 recorded inside the content itself. No API, no account, no database
+server: the format outlives any website built on top of it.
 
 ## What a work looks like
 
@@ -70,8 +84,8 @@ de/en/lb expressions — all ingested.
 
 Data: **Ministère d'État — Service central de législation, Grand-Duché de
 Luxembourg** (Legilux open data, CC-BY). Metadata converted from source RDF to
-JSON; no text altered, no text stored. See [NOTICE](NOTICE) — attribution
-obligations survive into forks.
+JSON; bodies stored verbatim as retrieved; no text altered. See
+[NOTICE](NOTICE) — attribution obligations survive into forks.
 
 ## Consume it
 
