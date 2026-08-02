@@ -93,3 +93,28 @@ JSON; bodies stored verbatim as retrieved; no text altered. See
 - The signed SQLite index (`index-lu-legilux.db`) is published as a release
   asset — filter-first queries, FTS over titles, ECDSA-P256-signed stamp.
 - MCP server + web demo: https://github.com/SFHAJJI/lex
+
+## How this repository stays current
+
+One scheduled job runs nightly and drives every publisher in the fleet. There is
+no manual step, and deliberately one cron and one credential for all of them.
+
+1. **Ingest** — ask the publisher which versions exist, download any not seen
+   before, write them *verbatim*. An existing body file is never reopened for
+   writing: the evidence layer is append-only by construction.
+2. **Anomaly gate** — if the work count drops by more than 5%, assume a partial
+   upstream response, discard everything and **commit nothing**. A bad night
+   leaves yesterday's good data in place rather than corrupting history.
+3. **Derive** — regenerate the per-article layer in
+   [lex-articles](https://github.com/SFHAJJI/lex-articles).
+4. **Determinism guard** — if derived output changed while no source file did,
+   the extractor is non-deterministic: fail loudly, **commit nothing**.
+5. **Index & publish** — rebuild the SQLite index, sign it (ECDSA P-256),
+   attach it to a release, regenerate the JSONL/Parquet datasets.
+6. **Report** — write a three-state outcome per publisher
+   (`ran_committed` / `ran_no_change` / `failed_*`) and open an issue on failure.
+
+Every index carries a signed stamp recording **when it was built and from which
+corpus commit**, and every MCP tool response returns it — so freshness is a
+property of the data, not a claim on a webpage. Live status:
+<https://law.soufien.lu/built>
