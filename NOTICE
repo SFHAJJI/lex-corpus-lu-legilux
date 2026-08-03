@@ -6,8 +6,9 @@ NOTICE — three layers (Lex spec §16.2)
    reused, it is reused under the publisher's own terms.
    Attribution: Ministère d'État – Service central de législation, Grand-Duché de Luxembourg. Data: Legilux open data (CC-BY), data.public.lu dataset 62c83bfd9794ec8e47b5bc68.
    Source terms: https://data.public.lu/en/datasets/legilux-journal-officiel-du-grand-duche-de-luxembourg/
-   Modifications: metadata converted from source RDF to JSON; no text altered,
-   no text stored. These obligations survive into forks and derived artefacts.
+   Modifications: metadata converted from source RDF to JSON; no text altered.
+   Bodies are stored verbatim as retrieved from the publisher's dissemination channel.
+   These obligations survive into forks and derived artefacts.
 
 2. LEX'S COMPILATION
    The selection, arrangement, observation history and database rights in this
