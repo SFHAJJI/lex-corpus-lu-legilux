@@ -118,3 +118,9 @@ Every index carries a signed stamp recording **when it was built and from which
 corpus commit**, and every MCP tool response returns it — so freshness is a
 property of the data, not a claim on a webpage. Live status:
 <https://law.soufien.lu/built>
+
+## Support
+
+This is free, open and maintained on my own time — and it stays that way whatever you decide.
+If it saved you an afternoon, you can [buy me a coffee ☕](https://buymeacoffee.com/shajji).
+Starring the repo helps just as much, and costs nothing.
