@@ -1,5 +1,11 @@
 # lex-corpus-lu-legilux
 
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](LICENSE)
+[![Source](https://img.shields.io/badge/source-Legilux-e0705f?style=flat-square)](https://legilux.public.lu)
+[![Corpus](https://img.shields.io/badge/corpus-1%2C399%20works%20%C2%B7%204%2C649%20versions-brightgreen?style=flat-square)](https://law.soufien.lu/coverage)
+[![Evidence](https://img.shields.io/badge/evidence-verbatim%20%C2%B7%20append--only%20%C2%B7%20sha256-24292f?style=flat-square)](https://law.soufien.lu/verify)
+[![Live](https://img.shields.io/badge/live-law.soufien.lu-6f42c1?style=flat-square)](https://law.soufien.lu)
+
 **Every version of Luxembourg's consolidated law, as data, with its dates.**
 Regulators publish the current rule; this repository keeps every consolidated
 state Legilux has published, so *"what applied on 15 March 2022?"* is a file
