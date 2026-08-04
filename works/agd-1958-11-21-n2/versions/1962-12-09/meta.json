@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 02/11/1961 : Arr\u00EAt\u00E9 grand-ducal du 21 novembre 1958 portant nouvelle r\u00E9glementation de la proc\u00E9dure pour les \u00E9lections des d\u00E9l\u00E9gations ouvri\u00E8res dans les entreprises industrielles, artisanales et commerciales.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1958/11/21/n2/consolide/19621209/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1962-a65-fr-pdf.pdf",
+          "sha256": "9e4b5e37604e7bd7c0d12263a271a79f2170874d0d1b79a51e04485da7c292ee",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1962/a65/fr/pdf/eli-etat-leg-memorial-1962-a65-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1958/11/21/n2/consolide/19621209/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "35d703d7e09861cfffcb2341446fa82d451aab3a0bfce070ec9804f0999bea5a"
+  "record_sha256": "1f0c5a33eb5901c408f17e2dcd3815ff51ee58051d87c10fba3c6551c68a59ed"
 }

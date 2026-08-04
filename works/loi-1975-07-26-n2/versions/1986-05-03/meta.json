@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/12/1985 : Loi du 26 juillet 1975 portant cr\u00E9ation de l\u0027administration de l\u0027a\u00E9roport.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1975/07/26/n2/consolide/19860503/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1988-a11-fr-pdf.pdf",
+          "sha256": "bc215711bc7507900137b6606d2e4f772a9eb3d3f5b320052688324a5551790b",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1988/a11/fr/pdf/eli-etat-leg-memorial-1988-a11-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1975/07/26/n2/consolide/19860503/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3d0c37c6e4e359e51771c8822be9ee9fd1d448442718af42b5ea6fbf22ce9446"
+  "record_sha256": "54ba02f5cefae28d27c57d82361213ccd5ba15628faeea8172e9724518431900"
 }

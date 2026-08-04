@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2005 : Loi du 28 mars 1972 concernant\n1. l\u0027entr\u00E9e et le s\u00E9jour des \u00E9trangers;\n2. le contr\u00F4le m\u00E9dical des \u00E9trangers;\n3. l\u0027emploi de la main-d\u0027oeuvre \u00E9trang\u00E8re.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1/consolide/20060902/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-2006-a230-fr-pdf.pdf",
+          "sha256": "7923ff76d39fb517e844135c934298dc831ca4b348f70eee281d7de75fa8a0af",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/2006/a230/fr/pdf/eli-etat-leg-memorial-2006-a230-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1972/03/28/n1/consolide/20060902/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2fcda7d0efd369c12a09c5b74b902219bf0341ad05bd4836b5de15ea1810606e"
+  "record_sha256": "eef7dedb25ce11fede7e1e158580d8aa511fc9b9d12b39fed9da46e69b14bd64"
 }

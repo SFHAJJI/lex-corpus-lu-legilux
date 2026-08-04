@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/1966 : Arr\u00EAt\u00E9 grand-ducal du 22 avril 1963 portant nouvelle fixation et r\u00E9glementation du salaire social minimum.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1963/04/22/n1/consolide/19671121/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1969-a34-fr-pdf.pdf",
+          "sha256": "071c2a6bf769bfe3bbcc598706e1369c8d12a8ea9897ae5cd2bff1ea0127cc57",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1969/a34/fr/pdf/eli-etat-leg-memorial-1969-a34-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1963/04/22/n1/consolide/19671121/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d6bd053e8328f9edaeab8427d257cbbe4968b11fd4e905063472a56536b195f6"
+  "record_sha256": "6bda973d7076c7cf9427d5207cb8b494b12c74baa9d29b19c56df7e8393c306c"
 }

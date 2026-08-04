@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/12/1994 : Loi du 24 d\u00E9cembre 1985 fixant le statut g\u00E9n\u00E9ral des fonctionnaires communaux.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/consolide/19950704/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1995-a56-fr-pdf.pdf",
+          "sha256": "97b084b6ae6cb2acf87c586c8cce63169d93a4bdff06f63d09731204875fd5b0",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1995/a56/fr/pdf/eli-etat-leg-memorial-1995-a56-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1985/12/24/n3/consolide/19950704/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5e81ca61c3c452d2d43ece112521b59a27ac39055b598a3c0d848abb5f8dbd35"
+  "record_sha256": "3d9783738f9f251404b63ce474f73f14697ff1196b89ec64cecb6a8ce4e2c13e"
 }

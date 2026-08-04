@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/1977 : Loi du 29 juillet 1965 concernant la conservation de la nature et des ressources naturelles.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1965/07/29/n3/consolide/19780911/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1978-a63-fr-pdf.pdf",
+          "sha256": "a57742271bebd79c272f760d6c8b0996f1bcf490f9f02d8c9af952a588bb206a",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1978/a63/fr/pdf/eli-etat-leg-memorial-1978-a63-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1965/07/29/n3/consolide/19780911/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5335f137534015797083f4006a769e091540d612d3ebff1d0282fb2bbfaeed0d"
+  "record_sha256": "6e66c5595efec881daeb3c929d38998855aca2c3e2cc218f860be095167ebbf4"
 }

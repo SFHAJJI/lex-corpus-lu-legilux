@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/2001 : R\u00E8glement grand-ducal du 6 avril 2001 portant organisation de l\u2019examen de fin d\u2019\u00E9tudes de la formation de technicien de l\u2019enseignement secondaire technique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/06/n5/consolide/20020915/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-2003-a114-fr-pdf.pdf",
+          "sha256": "35c7e11c7a574bdc52f54eaa3c1c5a0bf5c13f293de56e86f2ab6731743491b7",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/2003/a114/fr/pdf/eli-etat-leg-memorial-2003-a114-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/04/06/n5/consolide/20020915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1730d5d590008647ca6da6563169db4382061084c1c68b810a047f279585a58d"
+  "record_sha256": "a5ff30beb2cbe680c86f17e071d223b90e8339f30e83a646d17cf389d2a4911f"
 }

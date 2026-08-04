@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/12/2002 : Loi du 27 mars 1986 fixant les conditions et les modalit\u00E9s selon lesquelles le fonctionnaire de l\u0027Etat peut se faire changer d\u0027administration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/03/27/n1/consolide/20030701/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-2004-a55-fr-pdf.pdf",
+          "sha256": "e9761d967f90044c85f004e78a66b9ed733534236521dcea04d21eaee8a86d7e",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/2004/a55/fr/pdf/eli-etat-leg-memorial-2004-a55-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1986/03/27/n1/consolide/20030701/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "537de19d81a4e7c86248b1f4add62193dafb297a35f3a153328c7855dd7a6e56"
+  "record_sha256": "94ebd7c352a237cd10ea8de58ab6134c4347d08f0b137837a2894602184f4c40"
 }

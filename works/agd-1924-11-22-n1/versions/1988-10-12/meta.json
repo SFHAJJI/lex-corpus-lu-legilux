@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/10/1987 : Arr\u00EAt\u00E9 grand-ducal du 22 novembre 1924 pris en ex\u00E9cution de la loi du 4 avril 1924 et portant r\u00E8glement de la proc\u00E9dure \u00E9lectorale pour les chambres professionnelles \u00E0 base \u00E9lective.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1924/11/22/n1/consolide/19881012/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1988-a53-fr-pdf.pdf",
+          "sha256": "947416203a92368af1d4b3778e1cdaf530227966e67da55b40916be1dd224c45",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1988/a53/fr/pdf/eli-etat-leg-memorial-1988-a53-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1924/11/22/n1/consolide/19881012/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb9c4416b7800b4a7a1258b8ebae221f83762abc032f980081eeb7f008e07a6e"
+  "record_sha256": "9637535005e29e6c8c4d1e04468a8f0dc1b096a88d97bb426b5e5188ee0fe6a2"
 }

@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:pa-2020-10-23-b4077:2021-01-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/pa/2020/10/23/b4077",
+  "publisher": "lu-legilux",
+  "document_type": "PA",
+  "valid_from": "2021-01-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2020-12-03",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T09:28:09Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2021-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/01/2021 : Notariat - Nomination.",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2020/10/23/b4077/consolide/20210101/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2d0edbd960c4c32819e202655a269878560210085724b5e076866ffe41b8be45",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/pa/2020/10/23/b4077/consolide/20210101/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/adm/pa/2020/10/23/b4077/consolide/20210101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "9f87c6b32aa5d1a5d4da1864e1223b9bd075b8448bdfbffe73683c0ddf644781"
+}

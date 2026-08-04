@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/11/1983 : Arr\u00EAt\u00E9 grand-ducal du 27 ao\u00FBt 1957 approuvant le r\u00E8glement sur les pensions des agents de la Soci\u00E9t\u00E9 Nationale des Chemins de Fer Luxembourgeois.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1957/08/27/n1/consolide/19841109/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1985-a19-fr-pdf.pdf",
+          "sha256": "011701a0ba7cf549c76ebc6c2d9bbcc36d382ab0743be4ea698240751d01919b",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1985/a19/fr/pdf/eli-etat-leg-memorial-1985-a19-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1957/08/27/n1/consolide/19841109/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fa445bee51ab73a54f66e3e73c41bc777f7e21653300177fb2fdf2a4d49caabe"
+  "record_sha256": "163596c64e67ed1e047e6720a91a223f0331347c2e3f44f1ed0ad9f7ada951ea"
 }

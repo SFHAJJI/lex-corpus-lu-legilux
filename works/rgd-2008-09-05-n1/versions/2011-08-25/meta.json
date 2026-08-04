@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/12/2010 : R\u00E8glement grand-ducal du 5 septembre 2008 d\u00E9finissant les crit\u00E8res de ressources et de logement pr\u00E9vus par la loi du 29 ao\u00FBt 2008 sur la libre circulation des personnes et l\u0027immigration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n1/consolide/20110825/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-2011-a180-fr-pdf.pdf",
+          "sha256": "0b12a3c8f35fb2b3ecebc70b79162bac08dba6ed3301edbe1d4124c616f6646a",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/2011/a180/fr/pdf/eli-etat-leg-memorial-2011-a180-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2008/09/05/n1/consolide/20110825/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "407ebc3e99f0951939522a1e1ad0da6090f839317bcdcf958f9092aa93c5829b"
+  "record_sha256": "063227ae0fc9a260bdaf0da2b7812a2d72cbbb9938fd2e04277bbbad7ef2f01d"
 }

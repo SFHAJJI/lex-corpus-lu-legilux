@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 01/12/1987 : R\u00E8glement minist\u00E9riel du 14 septembre 1979 concernant l\u0027octroi d\u0027une subvention aux particuliers pour la r\u00E9alisation d\u0027\u00E9conomies d\u0027\u00E9nergie dans des habitations existantes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1979/09/14/n2/consolide/19880102/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1988-a5-fr-pdf.pdf",
+          "sha256": "8de6ac56e1d6c7e6b2854870e4fef993ec62cd77362770a89d38b287f772874f",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1988/a5/fr/pdf/eli-etat-leg-memorial-1988-a5-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/1979/09/14/n2/consolide/19880102/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "47702309d819e358f5f7b57854c338850e15b738a343ac86b8f2166cc78f42fd"
+  "record_sha256": "43c6c7b72b1fdf0e1499b1294272565e617010e0048e45e9ae7a1c1a9ad11ac6"
 }

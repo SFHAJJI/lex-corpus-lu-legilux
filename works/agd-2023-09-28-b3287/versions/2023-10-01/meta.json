@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:agd-2023-09-28-b3287:2023-10-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "2023-10-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2023-10-11",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T09:28:09Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2023-10-01",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 01/10/2023 : Arr\u00EAt\u00E9 grand-ducal du 29 septembre 2023 portant nomination des membres du Conseil disciplinaire et administratif d\u2019appel.",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287/consolide/20231001/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "e2af3dec32bed18b7a4afc78e772ae216174678bf2fbb7348bf96e71f11c62e1",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287/consolide/20231001/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/adm/agd/2023/09/28/b3287/consolide/20231001/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "720efdaf4ffc36f29e8e944a418daa5131952e5afdc5bbde2e979c0264aa943b"
+}

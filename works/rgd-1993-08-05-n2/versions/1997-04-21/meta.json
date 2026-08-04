@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/1996 : R\u00E8glement grand-ducal du 5 ao\u00FBt 1993 portant ex\u00E9cution de la loi du 27 juillet 1993 ayant pour objet \n1. le d\u00E9veloppement et la diversification \u00E9conomiques \n2. l\u0027am\u00E9lioration de la structure g\u00E9n\u00E9rale et de l\u0027\u00E9quilibre r\u00E9gional de l\u0027\u00E9conomie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1993/08/05/n2/consolide/19970421/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1997-a24-fr-pdf.pdf",
+          "sha256": "f3ea026bed143f64789c5209aa4765985c02e7a7ce157411c66aef2e06deba66",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1997/a24/fr/pdf/eli-etat-leg-memorial-1997-a24-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1993/08/05/n2/consolide/19970421/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f3ff53f38acaad9714a8c7b0c39fbcc5b823c823fa766bcb2bd346e60d086db9"
+  "record_sha256": "e44d526ebb3fb06d89eccdaa6fd2960b5bc37478268fa1938bfa6af36c09132c"
 }

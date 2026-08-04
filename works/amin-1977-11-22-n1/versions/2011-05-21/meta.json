@@ -1,0 +1,43 @@
+{
+  "lex_id": "lu-legilux:amin-1977-11-22-n1:2011-05-21",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/amin/1977/11/22/n1",
+  "publisher": "lu-legilux",
+  "document_type": "AMIN",
+  "valid_from": "2011-05-21",
+  "valid_to": "2013-08-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-applicable",
+  "publication_date": "2011-05-17",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T09:28:09Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2011-05-21",
+      "valid_to": "2013-08-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 05/12/2010 : null",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/amin/1977/11/22/n1/consolide/20110521/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "352dd01db1b229b51092e5e9eba171b36db0a9056e1db21d5946d362dc4fa845",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/amin/1977/11/22/n1/consolide/20110521/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/adm/amin/1977/11/22/n1/consolide/20110521/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "00ef48c48ea7b0df68855167d87dd102b25593c88cd139c76a418954d45c4c81"
+}

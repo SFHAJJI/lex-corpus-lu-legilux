@@ -20,15 +20,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/12/1988 : R\u00E8glement minist\u00E9riel du 11 ao\u00FBt 1983 d\u00E9terminant les modalit\u00E9s de l\u0027appr\u00E9ciation et du d\u00E9roulement des \u00E9preuves \u00E0 l\u0027Institut de formation administrative, section de la carri\u00E8re sup\u00E9rieure de l\u0027administration.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/1983/08/11/n1/consolide/19890611/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1989-a36-fr-pdf.pdf",
+          "sha256": "a06d1bfd622c38bc46c54a7b7ce40b2c76023ae98f4c33cd8b25d33752802071",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1989/a36/fr/pdf/eli-etat-leg-memorial-1989-a36-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/1983/08/11/n1/consolide/19890611/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c228d51af503f295604ac5e4484863baf1dc6ed0ca89915d61efce43c137798e"
+  "record_sha256": "190037ee9a4f4428d51190e2bda4ec0c945d9380278bb2c1c3860c407d37b883"
 }

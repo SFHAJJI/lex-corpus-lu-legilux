@@ -19,15 +19,22 @@
       "valid_to": "2027-01-01",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20260802",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "42febf685b0fba3fef2b48ce547da87cb0f716ed1bd96a151eb3f351c6f38521",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20260802/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20260802"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2004/06/08/n4/consolide/20260802/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "6303e14df3bc59a9e7d63cb9bdad2201c4f4d3fcb90a41528b946f3809d211de"
+  "record_sha256": "7eb8f1d9335f9b3966a803519756bf5ae1e6f6fdcb25f2cc04cee148c45b62e8"
 }

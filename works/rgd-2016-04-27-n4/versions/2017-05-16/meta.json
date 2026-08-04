@@ -22,15 +22,22 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 16/05/2017 : R\u00E8glement grand-ducal du 27 avril 2016 relatif \u00E0 la pulv\u00E9risation a\u00E9rienne.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/consolide/20170516/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "2d26fa0e19eb68d9b0f82341e716b48b86261b8839c02e2124422f773afdf7c5",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/consolide/20170516/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2016/04/27/n4/consolide/20170516/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "cb72b4312aae53ec1f0706211944280ddf55dfbfce120b444330441aa6ac6f69"
+  "record_sha256": "8f31f8e1b6bcf846151c30dc12da311937b9d55596c177ba0244426f5cdc315e"
 }

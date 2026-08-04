@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/10/1989 : R\u00E8glement du Gouvernement en Conseil du 7 d\u00E9cembre 1989 concernant l\u0027octroi d\u0027une subvention aux particuliers pour l\u0027am\u00E9lioration du rendement de la combustion des installations de combustion au mazout et au gaz.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgc/1989/12/07/n1/consolide/19901012/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1990-a53-fr-pdf.pdf",
+          "sha256": "d616faa92eac802076ca5d7dc0333103c38af20244e205078597e393851ed313",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1990/a53/fr/pdf/eli-etat-leg-memorial-1990-a53-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgc/1989/12/07/n1/consolide/19901012/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1acafe62f89dd3797f9c495ed72a8371740aa0797e497be6cc764a87ee660bed"
+  "record_sha256": "326628afcc66fcbdf04bbef70747302d7c90d0880e1327869ea5361823aee88f"
 }

@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/1981 : Loi du 30 juin 1976 portant\n1. cr\u00E9ation d\u0027un fonds de ch\u00F4mage;\n2. r\u00E9glementation de l\u0027octroi des indemnit\u00E9s de ch\u00F4mage complet.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/19820412/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1982-a38-fr-pdf.pdf",
+          "sha256": "775f2f0849f39b32c03ce248ff20149e35107858907fa8c6fc23e4a649f03195",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1982/a38/fr/pdf/eli-etat-leg-memorial-1982-a38-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1976/06/30/n1/consolide/19820412/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c43183f775fd65a5247610ccd4a9715e8fceecf54f4c1d97f7fa5fe82c177ff6"
+  "record_sha256": "e878d86efaeeed8907f97505bc31fd0b255d3786ed27b239f30ccb4a80fb5676"
 }

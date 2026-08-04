@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 07/12/1988 : Loi du 26 juillet 1986 portant\na) cr\u00E9ation du droit \u00E0 un revenu minimum garanti;\nb) cr\u00E9ation d\u0027un service national d\u0027action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la cr\u00E9ation d\u0027un fonds national de solidarit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19890704/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1989-a64-fr-pdf.pdf",
+          "sha256": "1d56f17e2b9089a519e98267293af97df40140c7a3755db295f9fd9032622224",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1989/a64/fr/pdf/eli-etat-leg-memorial-1989-a64-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19890704/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "488239e26c5f1b617ac16acce44a34a22cfb44732e65e4c9f53bb63cf9d61c00"
+  "record_sha256": "277ef483d9594cf79e69a3ffa63a47a83926b3c7dc62a5f47722e011d984a42d"
 }

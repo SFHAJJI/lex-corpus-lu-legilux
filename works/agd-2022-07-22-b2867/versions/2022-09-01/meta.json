@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:agd-2022-07-22-b2867:2022-09-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867",
+  "publisher": "lu-legilux",
+  "document_type": "AGD",
+  "valid_from": "2022-09-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2022-10-12",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T09:28:09Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2022-09-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/09/2022 : Arr\u00EAt\u00E9 grand-ducal du 22 juillet 2022 portant nomination des membres du Conseil des observateurs et du pr\u00E9sident de l\u2019Observatoire national de la sant\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a93e52d4940eb5e797c6596b9994b11c1e3e74ef2ab34665dd506ef52ff86bd7",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/adm/agd/2022/07/22/b2867/consolide/20220901/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8d9835bba12d070a5462cefe8ba0bab4b7116e3a4147e5bbfe881e95717c949a"
+}

@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/2000 : Loi du 27 juillet 1991 sur les m\u00E9dias \u00E9lectroniques.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20010418/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-2001-a88-fr-pdf.pdf",
+          "sha256": "c34fc33105680dd94060c766b0c3f7d38fbcb1c0109ba51c03c9181fc50ae6c9",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/2001/a88/fr/pdf/eli-etat-leg-memorial-2001-a88-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1991/07/27/n1/consolide/20010418/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "1b823921b361b83b8da0a1a80b269380e04c34589e1e63cdd5dd8d24cbd0ccce"
+  "record_sha256": "233e672e6b66b4b5cd89fd984f57b17e8f34a9140619fb21b40d30e4341aad99"
 }

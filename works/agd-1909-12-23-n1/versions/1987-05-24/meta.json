@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/12/1986 : Arr\u00EAt\u00E9 grand-ducal du 23 d\u00E9cembre 1909 concernant l\u0027ex\u00E9cution de la loi sur le registre aux firmes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/agd/1909/12/23/n1/consolide/19870524/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1987-a84-fr-pdf.pdf",
+          "sha256": "876299648f9ebef6bbcee60a224e141a5491cae7962d081631c427c30427c019",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1987/a84/fr/pdf/eli-etat-leg-memorial-1987-a84-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/agd/1909/12/23/n1/consolide/19870524/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d5882382bbdd2d9e101ae6476472c4a42556feca40727da77615c4903ee85576"
+  "record_sha256": "81b9b536b8b0dda060311c956548a6831caefb8f55cc6b946122272b3519c515"
 }

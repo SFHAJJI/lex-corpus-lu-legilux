@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/1996 : Loi du 27 juillet 1993 ayant pour objet\n1. le d\u00E9veloppement et la diversification \u00E9conomiques \n2. l\u0027am\u00E9lioration de la structure g\u00E9n\u00E9rale et de l\u0027\u00E9quilibre r\u00E9gional de l\u0027\u00E9conomie.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/19970328/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1997-a16-fr-pdf.pdf",
+          "sha256": "cdf4ee642d6e8172f94421965e21825dc166048974e31c1b7821ebec155e6cef",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1997/a16/fr/pdf/eli-etat-leg-memorial-1997-a16-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1993/07/27/n2/consolide/19970328/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aacbe0ee93ac72b6935c6dc0b435abff7f4c19fca776fe160d2e2e088bdca339"
+  "record_sha256": "30938b4920073ed5fd7bde81849771034970f096f7ab70bfa964d64cfc4a01ee"
 }

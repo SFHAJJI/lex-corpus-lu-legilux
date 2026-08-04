@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:agc-2024-09-04-b3521:2026-06-15",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/agc/2024/09/04/b3521",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-06-15",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T09:28:09Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-06-15",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/agc/2024/09/04/b3521/consolide/20260615",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://legilux.public.lu/eli/etat/adm/agc/2024/09/04/b3521/consolide/20260615"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "1ae5315a67836b190d428d799ef0b3db415b6ec84775cc3533eb3aff129f77a9"
+}

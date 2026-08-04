@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 06/12/1978 : Loi du 7 juin 1937, ayant pour objet la r\u00E9forme de la loi du 31 octobre 1919, portant r\u00E8glement l\u00E9gal du louage de service des employ\u00E9s priv\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/consolide/19790605/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1980-a2-fr-pdf.pdf",
+          "sha256": "32bf10da794f02e902f313cad3afcbafb4de8d9473e720c077d16077b692b9fb",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1980/a2/fr/pdf/eli-etat-leg-memorial-1980-a2-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1937/06/07/n1/consolide/19790605/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d13d72ad873fce13801f778f108f9d23081def7c3bd72609ddb29024cddecfef"
+  "record_sha256": "2f401360b7e61542defe0643a8b6c3d6b44184654efb695d591fddd8711921ab"
 }

@@ -20,15 +20,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 04/12/1981 : Loi du 10 mai 1974 instituant des mesures de reconversion \u00E9conomique et sociale dans l\u0027agriculture, le commerce et l\u0027artisanat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1974/05/10/n1/consolide/19820404/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1982-a29-fr-pdf.pdf",
+          "sha256": "806e83dcab3cf53f0e758575e597634f86681690f035e05950b0c6d85ee6385c",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1982/a29/fr/pdf/eli-etat-leg-memorial-1982-a29-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1974/05/10/n1/consolide/19820404/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a2ee1edbf1bd0d49e4ce4150fc1c4e6d8c1e351511fb23926803b48e0a353c11"
+  "record_sha256": "0da2c149cc747fbc6a980bbd285a111f562f8de068bf296c0a703ecd87720f02"
 }

@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/10/1992 : R\u00E8glement grand-ducal du 6 avril 1990 relatif aux d\u00E9barcad\u00E8res sur la Moselle qui ne sont pas soumis \u00E0 l\u0027approbation de la Commission de la Moselle.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1990/04/06/n1/consolide/19931012/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1993-a82-fr-pdf.pdf",
+          "sha256": "60168c98482f6b1e15e14fa5d89dc446a1ffdd4bddb11f9d5ad4d96767b06489",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1993/a82/fr/pdf/eli-etat-leg-memorial-1993-a82-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1990/04/06/n1/consolide/19931012/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4c671b3266dfa0dc4a6b9d5214f6bde3aca6da3e788a93c167f309d739663af1"
+  "record_sha256": "dd7b45c5257ce0772600116e59a208ddc41112fb199613311c5e20643c0ca04a"
 }

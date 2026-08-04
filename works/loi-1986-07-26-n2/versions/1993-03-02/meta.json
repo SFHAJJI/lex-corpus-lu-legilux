@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/1992 : Loi du 26 juillet 1986 portant\na) cr\u00E9ation du droit \u00E0 un revenu minimum garanti;\nb) cr\u00E9ation d\u0027un service national d\u0027action sociale;\nc) modification de la loi du 30 juillet 1960 concernant la cr\u00E9ation d\u0027un fonds national de solidarit\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19930302/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1993-a23-fr-pdf.pdf",
+          "sha256": "556edda9aa6cc3cf46127b107b7b44e301eb3393881d74ba0e1e8984d777f938",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1993/a23/fr/pdf/eli-etat-leg-memorial-1993-a23-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1986/07/26/n2/consolide/19930302/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "96067f66ad0dfd7a22f1e8c0fcad924e396fe0b656255a8789d1a8d46b590f90"
+  "record_sha256": "c4e8dccac44a41c56ee88a3d6622f6a7d1cc31b1f37d708798428b61bb70b9d3"
 }

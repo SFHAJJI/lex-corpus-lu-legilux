@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 08/12/2003 : R\u00E8glement grand-ducal du 17 juillet 2001 instituant un r\u00E9gime d\u2019aides pour la promotion de l\u2019utilisation rationnelle de l\u2019\u00E9nergie et la mise en valeur des sources d\u2019\u00E9nergie renouvelables.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2001/07/17/n1/consolide/20040801/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-2004-a135-fr-pdf.pdf",
+          "sha256": "9661052eb63f316b6e8f727eddada20edef3769b43eeaa2b1472e6365ca72dcb",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/2004/a135/fr/pdf/eli-etat-leg-memorial-2004-a135-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2001/07/17/n1/consolide/20040801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "fb8c9a9997dcd5b7475d691f6aa5196f486455ccda1815f324d5116698234c7f"
+  "record_sha256": "fdd10ca7f1aab2bbb8db135a3740894b89b988efd7cd5c636408abe480f501d0"
 }

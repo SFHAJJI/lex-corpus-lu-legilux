@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/1995 : R\u00E8glement grand-ducal du 27 janvier 1994 portant application en droit luxembourgeois des directives CEE relatives aux march\u00E9s publics de travaux, de fournitures et de services.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1994/01/27/n5/consolide/19960309/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1996-a37-fr-pdf.pdf",
+          "sha256": "7d0fc6d1c04d6cc8df9d16602f354ed4c9d22b25845831b3ab0061ca34788948",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1996/a37/fr/pdf/eli-etat-leg-memorial-1996-a37-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1994/01/27/n5/consolide/19960309/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "acd9e0048a9f59f4ef1e82e592ed17a2e65eacb29c77c1954c3b0e26265b1dea"
+  "record_sha256": "fd582f7697da6eb8915bf91c2d53b239113f18490ebe81f7d84d71b240332570"
 }

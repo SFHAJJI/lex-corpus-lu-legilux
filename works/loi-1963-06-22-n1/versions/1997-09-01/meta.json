@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/1996 : Loi du 22 juin 1963 fixant le r\u00E9gime des traitements des fonctionnaires de l\u0027Etat.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/19970901/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1997-a85-fr-pdf.pdf",
+          "sha256": "41556fd4445e643251ac63aba1308752129ed3cc8ec7d7164ee9408eb759e9ff",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1997/a85/fr/pdf/eli-etat-leg-memorial-1997-a85-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1963/06/22/n1/consolide/19970901/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "04ddc01f2285886fdae0eb755c212c0bdade5d1949f57ca94b28b2e27257cc9c"
+  "record_sha256": "799552f937e95f655449cff292548a51a5870e4ad8392240df06837687d219ed"
 }

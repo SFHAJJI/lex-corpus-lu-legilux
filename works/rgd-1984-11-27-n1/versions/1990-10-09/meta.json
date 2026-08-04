@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 31/10/1989 : R\u00E8glement grand-ducal du 27 novembre 1984 portant coordination des dispositions l\u00E9gales et r\u00E9glementaires relatives \u00E0 la surveillance du secteur financier.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1984/11/27/n1/consolide/19901009/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1991-a1-fr-pdf.pdf",
+          "sha256": "4913e4f6f43006aec39398160426f285014a6d4485199653e681ccfa4eb92934",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1991/a1/fr/pdf/eli-etat-leg-memorial-1991-a1-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1984/11/27/n1/consolide/19901009/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a032e1582472e7a1a2bdbfa87bfaab49bb52498534bc8c88ff3f531dc1c0e01d"
+  "record_sha256": "aa6f7011d4d1f1685d956f93f32e158f1b9339f1fd8e9c7e93ce2a7d2d46d1f0"
 }

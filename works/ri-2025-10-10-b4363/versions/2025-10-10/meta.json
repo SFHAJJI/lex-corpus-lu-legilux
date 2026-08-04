@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:ri-2025-10-10-b4363:2025-10-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363",
+  "publisher": "lu-legilux",
+  "document_type": "RI",
+  "valid_from": "2025-10-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-01-23",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T09:28:09Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2025-10-10",
+      "valid_time_source": "publisher",
+      "title": "Version rectifi\u00E9e applicable au 10/10/2025 : R\u00E8glement d\u2019ordre int\u00E9rieur de la Commission nationale pour la protection des donn\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/consolide/20251010/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "fe8f999626985393af98ad60c216dc3f0182f73caba992599b78d126bea8ba7d",
+          "source_uri": "https://legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/consolide/20251010/fr",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/adm/ri/2025/10/10/b4363/consolide/20251010/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "bf04f6695d427565a05662a9fc6d669b62f1cc9f21efb385effddfd6b77782c2"
+}

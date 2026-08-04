@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/1981 : R\u00E8glement grand-ducal du 30 novembre 1978 portant r\u00E9glementation du stage de formation pratique du m\u00E9decin et de la formation de sp\u00E9cialisation du m\u00E9decin-sp\u00E9cialiste.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1978/11/30/n1/consolide/19820316/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1983-a5-fr-pdf.pdf",
+          "sha256": "c4be8b8360b8d45225f244a92bda8d4fd0378aeac525d5d32218c09d97c387ac",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1983/a5/fr/pdf/eli-etat-leg-memorial-1983-a5-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1978/11/30/n1/consolide/19820316/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "31e1387490d59ffd1bb012a9e162553d68ab55d098eb7b827b81d1cbd0de3872"
+  "record_sha256": "8409a1af9e1e6532327fc204a718e5c17192f44d6035966ec4dfe7c957324ebc"
 }

@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/1974 : Loi du 22 avril 1966 portant r\u00E9glementation uniforme du cong\u00E9 annuel pay\u00E9 des salari\u00E9s du secteur priv\u00E9.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/consolide/19750316/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1979-a77-fr-pdf.pdf",
+          "sha256": "e3cac24cb8ee27454337573bb3dbb9fb8392c6d1dd189c2bf581cf3b0751071f",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1979/a77/fr/pdf/eli-etat-leg-memorial-1979-a77-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1966/04/22/n1/consolide/19750316/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a4e26ab219c09924f6c3f410e1d1fb507b872e3b69d7d0d1d44bac2731e056e2"
+  "record_sha256": "6fa88b3f556ef142476d92cfc59b2e5698a73d52728c0416eaf313ff865a44a6"
 }

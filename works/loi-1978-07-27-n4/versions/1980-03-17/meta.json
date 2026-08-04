@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 03/12/1979 : Loi du 27 juillet 1978 portant diverses mesures en faveur de l\u0027emploi des jeunes.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1978/07/27/n4/consolide/19800317/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1980-a25-fr-pdf.pdf",
+          "sha256": "f10b5d910d295375ddae126a58d790414e8655313299219b18ceae83cc971cc0",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1980/a25/fr/pdf/eli-etat-leg-memorial-1980-a25-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1978/07/27/n4/consolide/19800317/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f32537fea03e3c4dc6598e6e5289869f97db5050e981c786368c7dfb84c5e582"
+  "record_sha256": "f309ce80a140451ed77d98174b816b829dd7a7d01ce4754c69ede3fa150e0288"
 }

@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 09/12/1992 : R\u00E8glement grand-ducal du 8 septembre 1988 portant r\u00E9glementation de la police et de la s\u00E9curit\u00E9 sur les cours et plans d\u0027eau.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1988/09/08/n2/consolide/19930926/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1993-a82-fr-pdf.pdf",
+          "sha256": "60168c98482f6b1e15e14fa5d89dc446a1ffdd4bddb11f9d5ad4d96767b06489",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1993/a82/fr/pdf/eli-etat-leg-memorial-1993-a82-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/1988/09/08/n2/consolide/19930926/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "32d7183789e330a3c9be78ee9410ca50db43edefbb42907bb19daa0356fb3032"
+  "record_sha256": "dd9b8d2ae875d661cdd6d146e6eae3c26e782e64c64ebf21c4faaa740c1f4c48"
 }

@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 05/12/1964 : Loi du 5 mars 1922 portant approbation de la Convention d\u0027Union \u00E9conomique sign\u00E9e \u00E0 Bruxelles le 25 juillet 1921 entre le Luxembourg et la Belgique.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1922/03/05/n1/consolide/19650531/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf-memorial/eli-etat-leg-memorial-1965-a45-fr-pdf.pdf",
+          "sha256": "fab4cf8db3ae44912d6b89e8ac1e609711a81cbea3598f5e9e05c8e2c47d60b4",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/memorial/1965/a45/fr/pdf/eli-etat-leg-memorial-1965-a45-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T09:28:09Z",
+          "observed_from": "2026-08-04T09:28:09Z",
+          "format": "pdf-memorial"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1922/03/05/n1/consolide/19650531/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c010009d98e0c3578878552e461c8eac7fc46c25a35f02bb43a8c7faa2eec116"
+  "record_sha256": "1f4a82ff840279f1d96fd25d417d5108b29db98b664b36c432d63df7a41fbe21"
 }
