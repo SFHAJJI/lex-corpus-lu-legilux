@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "lex-corpus-lu-legilux, verbatim consolidated Luxembourg law"
+message: "If you use this corpus, please cite it, and cite Legilux as the source of the texts."
+type: dataset
+authors:
+  - family-names: Hajji
+    given-names: Soufien
+repository-code: "https://github.com/SFHAJJI/lex-corpus-lu-legilux"
+url: "https://law.soufien.lu"
+abstract: >-
+  Every consolidated version of Luxembourg law that Legilux publishes, stored as the
+  publisher's own bytes with no reformatting, plus dated JSON metadata carrying the
+  publisher-asserted validity interval, an append-only observation chain, and a SHA-256 over
+  the record itself. Append-only: the repository only ever gains commits. The tree is laid
+  out by work and validity date, so it reads as a legislative history; the commit log is an
+  ingest log, and the two are deliberately not the same.
+keywords:
+  - legal-data
+  - legislation
+  - luxembourg
+  - consolidated-legislation
+  - point-in-time
+  - open-data
+  - akoma-ntoso
+license: CC-BY-4.0

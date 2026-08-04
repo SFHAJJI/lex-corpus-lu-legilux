@@ -18,12 +18,21 @@ before; isolated snapshots back to 1849; forward to 2030.* Only ~6% of lois and
 
 ## Why a git repository?
 
-Because the questions people actually ask about law are *time* questions, and
-git answers them natively: `git log` is the legislative history, `git diff` is
-"what changed between these two states", and a clone is a complete,
-tamper-evident copy nobody can silently edit, every byte is covered by a
-sha256 recorded inside the content itself. No API, no account, no database
-server: the format outlives any website built on top of it.
+Because a clone is a complete, tamper-evident copy that nobody can silently
+edit: every byte is covered by a sha256 recorded inside the content itself. No
+API, no account, no database server, and the format outlives any website built
+on top of it.
+
+What git is **not** here is the timeline. A commit records when this corpus
+observed a version, never when the law applied, and publishers routinely
+backfill older consolidations and issue texts dated years ahead. So both time
+axes live inside the hashed content, in each version's `meta.json`, and never
+in mutable commit metadata. The tree is laid out by work and by validity date,
+so it reads as a history without tooling, while `git log` reads as an ingest
+log, which is a different and much less interesting thing.
+
+The full argument, and what that choice cost, is written up at
+[law.soufien.lu/decisions](https://law.soufien.lu/decisions).
 
 ## What a work looks like
 
@@ -39,8 +48,8 @@ works/rgd-1998-08-03-n4/            ← Nouveau Code de procédure civile
 Each `meta.json` carries the publisher-asserted validity interval, the
 first-sighting timestamp (append-only event chain, transaction time lives
 *inside* hashed content, never in mutable commit metadata), a record sha256,
-and the link to the official text. **`git log` on this tree reads as a
-legislative history without tooling.**
+and the link to the official text. **The tree reads as a legislative history
+without tooling; `git log` reads as the ingest log.**
 
 ## Full text, from the official channel
 
