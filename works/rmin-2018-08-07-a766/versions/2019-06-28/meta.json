@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 28/06/2019 : R\u00E8glement minist\u00E9riel du 7 ao\u00FBt 2018 fixant le calendrier des vacances et cong\u00E9s dans l\u2019enseignement musical pour les ann\u00E9es scolaires 2018/2019, 2019/2020 et 2020/2021.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rmin/2018/08/07/a766/consolide/20190628/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-rmin-2018-08-07-a766-consolide-20190628-fr-pdf.pdf",
+          "sha256": "2f23c16b5dcb913cc5bfdeb530e2dc692b86d026ea0bc3f93a2152ad6edd35b3",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/rmin/2018/08/07/a766/consolide/20190628/fr/pdf/eli-etat-leg-rmin-2018-08-07-a766-consolide-20190628-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rmin/2018/08/07/a766/consolide/20190628/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "da80bacebe09fc9ee6573febcfb9d342ba329fbdf26e96d6e089d5015c4fa062"
+  "record_sha256": "8c36436819575677fe5b0a5cf4da25d0e77e7eac2872689a8f7d374c6ba19aea"
 }

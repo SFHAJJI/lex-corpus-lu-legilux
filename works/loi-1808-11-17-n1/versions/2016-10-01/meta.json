@@ -23,15 +23,23 @@
       "title": "Code d\u0027Instruction Criminelle",
       "title_short": "Code d\u0027Instruction Criminelle",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/instruction_criminelle/20161001/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-code-instruction_criminelle-20161001-fr-pdf.pdf",
+          "sha256": "77ba4b473797e61c3a940f416b7915a27ad029131d778f82e5037f5f6f1f4c31",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/code/instruction_criminelle/20161001/fr/pdf/eli-etat-leg-code-instruction_criminelle-20161001-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/instruction_criminelle/20161001/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "d5a35bed5c16f7ecbcf18079030c512766215b5d7ae8ecae10bf76ec7d4fc256"
+  "record_sha256": "0d1f42f4d68d555fef90e4f0aa10084b5310db2073d0d7312183876832081b6a"
 }

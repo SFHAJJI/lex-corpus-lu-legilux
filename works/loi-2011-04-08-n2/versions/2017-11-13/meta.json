@@ -23,15 +23,23 @@
       "title": "Code de la consommation",
       "title_short": "Code de la consommation",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/consommation/20171113/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-code-consommation-20171113-fr-pdf.pdf",
+          "sha256": "c9b3563120172672c1dabe8a362fe0c09bb69c0b0cbc645faf9fc79434004797",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/code/consommation/20171113/fr/pdf/eli-etat-leg-code-consommation-20171113-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/consommation/20171113/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "39ae7ec528a6a298fd6dd7449eb509475631d2fa74f38b968b6aefc2d59e8731"
+  "record_sha256": "0a4bda2efdd3d3ac69a5bcf2319d576e4bfb7cdd1cf3772c93069ecd4af6ccff"
 }

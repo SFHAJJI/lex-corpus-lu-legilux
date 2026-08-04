@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 11/05/2020 : R\u00E8glement grand-ducal du 8 avril 2020 portant d\u00E9rogation \u00E0 l\u2019article L.551-2 du Code du travail.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a265/consolide/20200511/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-rgd-2020-04-08-a265-consolide-20200511-fr-pdf.pdf",
+          "sha256": "86b5d5021ebd57735914a2a02ea0158447eb2b2d6a45889fbd42faea2bd973ea",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/rgd/2020/04/08/a265/consolide/20200511/fr/pdf/eli-etat-leg-rgd-2020-04-08-a265-consolide-20200511-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/04/08/a265/consolide/20200511/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "881ed9391a15b5dafae9dbce71c7dcfe86912c06b6d8b8c067c1843d28c39527"
+  "record_sha256": "4866c15ffb54ddc9d57f9fe95710e906fbae39573b1b5425fe0fe218939d4bca"
 }

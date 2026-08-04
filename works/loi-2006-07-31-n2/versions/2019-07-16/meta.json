@@ -23,15 +23,23 @@
       "title": "Code du travail",
       "title_short": "Code du travail",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/travail/20190716/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-code-travail-20190716-fr-pdf.pdf",
+          "sha256": "81c75a6def2f74b4a8c972be4a7e954698a8048528aa97d4032b7d15ceda7dfa",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/code/travail/20190716/fr/pdf/eli-etat-leg-code-travail-20190716-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/travail/20190716/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "55537da48ed50899227fab45440dfcbd5b193101c10eb5d47c8d9c0f2303776d"
+  "record_sha256": "29483834acf7d84bb70b22ef7136447984765ca8f5adfce0b1d6e66f767422fe"
 }

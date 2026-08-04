@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 20/03/2020 : R\u00E8glement grand-ducal du 18 mars 2020 portant introduction d\u2019une s\u00E9rie de mesures dans le cadre de la lutte contre le Covid-19.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/18/a165/consolide/20200320/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-rgd-2020-03-18-a165-consolide-20200320-fr-pdf.pdf",
+          "sha256": "bc760ab596c8392225936d7e37c96385dca09ecd77bb40b8d01880e03bd3cbea",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/rgd/2020/03/18/a165/consolide/20200320/fr/pdf/eli-etat-leg-rgd-2020-03-18-a165-consolide-20200320-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2020/03/18/a165/consolide/20200320/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "12990db1bc7c2fff472a0465927a1947321b254c303445895c0bc6985613db79"
+  "record_sha256": "d406be18d04d5e856398ebcac455d655f36c1b9b7e6fdbcb128ff5ebd9b12c17"
 }

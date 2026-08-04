@@ -16,15 +16,22 @@
       "valid_from": "2026-08-02",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20260802",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "1f470b601c7fe571e663929c5f969a7408454b3bd4422b4ef351f4ec39d604f8",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20260802/fr",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20260802"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883/consolide/20260802/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3f38f4e6c3f0915206fe8745d1e321ea3d1f3e465535438853cf1254c762fd19"
+  "record_sha256": "db2610864aa4ba5a4d6ecccefaf54f162725366ca92d6032387eacd0f63f5147"
 }

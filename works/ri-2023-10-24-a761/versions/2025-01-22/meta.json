@@ -22,15 +22,23 @@
       "valid_time_source": "publisher",
       "title": "Version consolid\u00E9e applicable au 22/01/2025 : R\u00E8glement de la Chambre des D\u00E9put\u00E9s.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20250122/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-ri-2023-10-24-a761-consolide-20250122-fr-pdf.pdf",
+          "sha256": "6971868ff360e2b8317c840b6394e21ecd34201f56d9f8b1b3c189f4ee6cd930",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/ri/2023/10/24/a761/consolide/20250122/fr/pdf/eli-etat-leg-ri-2023-10-24-a761-consolide-20250122-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/ri/2023/10/24/a761/consolide/20250122/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "a77f278d27ca6d69a89c66c0907fa00b4d4ee21f3ce488ba47caf4ea65bba4b2"
+  "record_sha256": "412fdb94379a9cdb371732a9e1c613044c0eeab1ea018db1577e2483065b287d"
 }

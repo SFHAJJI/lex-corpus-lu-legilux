@@ -23,15 +23,23 @@
       "title": "Code du travail",
       "title_short": "Code du travail",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/travail/20110221/fr",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-code-travail-20110221-fr-pdf.pdf",
+          "sha256": "dc09ba6b26a00ae8d5b1c08a6a13e3d82b3cd1b00383a7cd94e4bb2d042a20aa",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/code/travail/20110221/fr/pdf/eli-etat-leg-code-travail-20110221-fr-pdf.pdf",
+          "retrieved_at": "2026-08-04T07:47:06Z",
+          "observed_from": "2026-08-04T07:47:06Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/code/travail/20110221/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e747e0a4e1946e89e50ecb4eb0f9fe4e96e598d206aa95fe3b51ca809ce3d736"
+  "record_sha256": "59835d2499a5359ef753b2b6074f56664aa84c0cdd347fab31366bcda1ec9897"
 }
