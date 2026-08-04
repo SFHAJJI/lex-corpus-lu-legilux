@@ -19,15 +19,22 @@
       "valid_to": "2026-09-16",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260705",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "98c8a67c5b8d2213b58a4064e20b5a612eb368079cd336a8c7df1d41cc14e6f3",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260705/fr",
+          "retrieved_at": "2026-08-04T05:27:06Z",
+          "observed_from": "2026-08-04T05:27:06Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260705"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260705/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "2a63a7ee42bd2068f78f292d24bf8055c703b0f59b0aa51980e2c984d34fcff7"
+  "record_sha256": "489d76a67e5b4355295f25da82daa62b60e6c7235f8a1ee8e3bb03853a47e92a"
 }

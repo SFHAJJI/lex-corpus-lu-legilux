@@ -1,0 +1,30 @@
+{
+  "lex_id": "lu-legilux:rgd-1992-10-15-n2:2026-08-04",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2",
+  "publisher": "lu-legilux",
+  "valid_from": "2026-08-04",
+  "valid_time_source": "publisher",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-04T05:27:06Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-04",
+      "valid_time_source": "publisher",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "71b8d9172d800c5b0f6106a4480f14977b9afd3381ca060073ea609e6a1ddf99"
+}

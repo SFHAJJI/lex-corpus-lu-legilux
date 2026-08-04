@@ -16,15 +16,22 @@
       "valid_from": "2027-09-15",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591/consolide/20270915",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7e4c6be5b016f56a1ffb860a757ec5d1e91d760ff585bf6b02a46ea8407d9384",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591/consolide/20270915/fr",
+          "retrieved_at": "2026-08-04T05:27:06Z",
+          "observed_from": "2026-08-04T05:27:06Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591/consolide/20270915"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2025/12/19/a591/consolide/20270915/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "517af684bc44cb310955e7667f5941c78d45eadeba0454f34030fd5487613398"
+  "record_sha256": "4564b4f2d237f449ba2d57b0ead8e754219cd74e8c724fae9e1970696ba34804"
 }

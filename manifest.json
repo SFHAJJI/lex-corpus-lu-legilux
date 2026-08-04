@@ -15,7 +15,7 @@
   "document_types": [
     {
       "code": "LOI",
-      "versions": 1492
+      "versions": 1494
     },
     {
       "code": "RGD",
@@ -113,7 +113,7 @@
     "lb"
   ],
   "works": 1399,
-  "versions": 4631,
+  "versions": 4633,
   "valid_from_earliest": "1849-03-14",
   "valid_to_latest": "2030-09-15",
   "history_begins": "publisher",
