@@ -16,15 +16,23 @@
       "valid_from": "2026-02-15",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/17/n2/consolide/20260215",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-rgd-2000-07-17-n2-consolide-20260215-fr-pdf.pdf",
+          "sha256": "9b2152125434458203fa870d01ea64eb37c0b4dc26bcd8316e7b4055f47b1f89",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/rgd/2000/07/17/n2/consolide/20260215/fr/pdf/eli-etat-leg-rgd-2000-07-17-n2-consolide-20260215-fr-pdf.pdf",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2000/07/17/n2/consolide/20260215"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "83699b4abcab6f996522fe52318f0f87efeb391654cb2eda81519d61cd09a4d3"
+  "record_sha256": "8a3caa73b5bf9e1f58b4722cc873146efc6187d9923a6dc1ee158e01d44f04a5"
 }

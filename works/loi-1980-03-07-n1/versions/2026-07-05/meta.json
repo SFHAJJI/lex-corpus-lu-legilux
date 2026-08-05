@@ -3,20 +3,26 @@
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1",
   "publisher": "lu-legilux",
   "valid_from": "2026-07-05",
-  "valid_to": "2026-09-16",
+  "valid_to": "2026-08-08",
   "valid_time_source": "publisher",
   "in_force_status": "applicable",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "validity_revised",
+      "observed_from": "2026-08-05T05:26:49Z",
+      "scope": "version",
+      "detail": "valid_to: 2026-09-16 -\u003E 2026-08-08"
     }
   ],
   "expressions": [
     {
       "language": "fr",
       "valid_from": "2026-07-05",
-      "valid_to": "2026-09-16",
+      "valid_to": "2026-08-08",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260705",
       "observations": [
@@ -36,5 +42,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "489d76a67e5b4355295f25da82daa62b60e6c7235f8a1ee8e3bb03853a47e92a"
+  "record_sha256": "dec601325f76f7141ca621d8fc562cb6352afad57aa9b3535ff405aade0ac966"
 }

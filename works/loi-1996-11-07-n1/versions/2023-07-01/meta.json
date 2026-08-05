@@ -19,15 +19,23 @@
       "valid_to": "2023-08-22",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230701",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-loi-1996-11-07-n1-consolide-20230701-fr-pdf.pdf",
+          "sha256": "63028df74036cb6856633cd13482102053ce40a564d61def385c49f1fab45089",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1996/11/07/n1/consolide/20230701/fr/pdf/eli-etat-leg-loi-1996-11-07-n1-consolide-20230701-fr-pdf.pdf",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20230701"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "51f8cd5947bc57b17d32d899209b492d0812b21a2adc2d2474ab037e195cf38f"
+  "record_sha256": "bbbb4c9f53571f5d4c34695639b5ecb255a22daa89d24fd4c38a4bc100c123c5"
 }

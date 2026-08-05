@@ -4,6 +4,7 @@
   "publisher": "lu-legilux",
   "document_type": "CODE_RECUEIL",
   "valid_from": "2026-01-01",
+  "valid_to": "2026-08-01",
   "valid_time_source": "publisher",
   "in_force_status": "applicable",
   "publication_date": "2026-01-15",
@@ -11,12 +12,18 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-05T05:26:49Z",
+      "detail": "valid_to=2026-08-01"
     }
   ],
   "expressions": [
     {
       "language": "fr",
       "valid_from": "2026-01-01",
+      "valid_to": "2026-08-01",
       "valid_time_source": "publisher",
       "title": "Code communal\\n\\nCETTE VERSION NE CONTIENT PAS ENCORE LES MODIFICATIONS R\u00C9TROACTIVES INTRODUITES PAR LE RGD du 2 AVRIL 2026\\nPUBLI\u00C9 AU M\u00C9MORIAL A - 201 DU 15 AVRIL 2026.",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/communal/20260101/fr",
@@ -30,5 +37,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "930d3d436138f1d356febc70478acf51fcf37900f3b284db313ef82899daa9ef"
+  "record_sha256": "e146921e1360a2a9d1b75b032fcdd073da42ce4e746e79f306e383004c9e80a0"
 }

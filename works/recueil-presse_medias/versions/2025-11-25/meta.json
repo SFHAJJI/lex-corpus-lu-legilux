@@ -4,6 +4,7 @@
   "publisher": "lu-legilux",
   "document_type": "RECUEIL",
   "valid_from": "2025-11-25",
+  "valid_to": "2026-08-02",
   "valid_time_source": "publisher",
   "in_force_status": "applicable",
   "publication_date": "2025-11-28",
@@ -11,12 +12,18 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "interval_closed",
+      "observed_from": "2026-08-05T05:26:49Z",
+      "detail": "valid_to=2026-08-02"
     }
   ],
   "expressions": [
     {
       "language": "fr",
       "valid_from": "2025-11-25",
+      "valid_to": "2026-08-02",
       "valid_time_source": "publisher",
       "title": "Presse et M\u00E9dias \u00E9lectroniques",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20251125/fr",
@@ -37,5 +44,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "51bb5c3de879c928cbd0ecdeac6c4363403929a6bbba30e91c7f84632b71a850"
+  "record_sha256": "0c8c9130ca3f27883efb9c83b134cc943e4a416166c0a6f98ce5517a8ac228a1"
 }

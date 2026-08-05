@@ -16,15 +16,23 @@
       "valid_from": "2026-04-01",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/20260401",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-rgd-2023-02-21-a95-consolide-20260401-fr-pdf.pdf",
+          "sha256": "7172a804bcd3aa2068a43b75163af66d046bf97b2072873711104982f1752048",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/rgd/2023/02/21/a95/consolide/20260401/fr/pdf/eli-etat-leg-rgd-2023-02-21-a95-consolide-20260401-fr-pdf.pdf",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95/consolide/20260401"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8026e4c2cbc6435b87fdf443ad041cd01a3c6db45a92e1d3eb1c05c4fd7247fd"
+  "record_sha256": "f79f13c9df1990836505bca563602a756c4332d319af8c5c1f6cff1543e953c7"
 }

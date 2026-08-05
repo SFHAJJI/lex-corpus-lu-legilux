@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:rgd-2004-10-07-n1:2026-07-31",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1",
+  "publisher": "lu-legilux",
+  "document_type": "RGD",
+  "valid_from": "2026-07-31",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-08-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-05T05:26:49Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-07-31",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 31/07/2026 : R\u00E8glement grand-ducal du 7 octobre 2004 portant ex\u00E9cution de la loi du 12 septembre 2003 relative aux personnes handicap\u00E9es.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20260731/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "19fba5472f5dff2c1409763ce2548b38d01d52e3961e908422507d8891f4b7cb",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20260731/fr",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/2004/10/07/n1/consolide/20260731/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "01a1e848bd505ea54b5ac35a0884adc398fafaf59293e35b3ca3d75b98258ad4"
+}

@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:recueil-presse_medias:2026-08-02",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/recueil/presse_medias",
+  "publisher": "lu-legilux",
+  "document_type": "RECUEIL",
+  "valid_from": "2026-08-02",
+  "valid_time_source": "publisher",
+  "in_force_status": "applicable",
+  "publication_date": "2026-08-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-05T05:26:49Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-02",
+      "valid_time_source": "publisher",
+      "title": "Presse et M\u00E9dias \u00E9lectroniques",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20260802/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "632f0aed66103041ce3bb99576124968d9f3c07915319fa42dbec3d41e9282df",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20260802/fr",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/recueil/presse_medias/20260802/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "8a40a274c95d3d6cb1d26838a86616179cf67dfd2e00b82c5e11adac1a500a26"
+}

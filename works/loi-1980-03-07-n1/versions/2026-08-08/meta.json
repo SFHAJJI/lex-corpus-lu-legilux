@@ -1,0 +1,43 @@
+{
+  "lex_id": "lu-legilux:loi-1980-03-07-n1:2026-08-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-08-08",
+  "valid_to": "2026-09-16",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-08-04",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-05T05:26:49Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-08",
+      "valid_to": "2026-09-16",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 08/08/2026 : Loi du 7 mars 1980 sur l\u0027organisation judiciaire.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260808/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "a674c6799c42bbd045e3015477dd869f8ba4c386bacab45b25882a54ad6e4a9f",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260808/fr",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1/consolide/20260808/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "eea6cc13b7202b8de85c20bfc230b7297b24a126eea8d2b1d19130bb504fa6bb"
+}

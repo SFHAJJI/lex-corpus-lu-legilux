@@ -15,19 +15,19 @@
   "document_types": [
     {
       "code": "LOI",
-      "versions": 1496
+      "versions": 1503
     },
     {
       "code": "RGD",
-      "versions": 1181
+      "versions": 1184
     },
     {
       "code": "RECUEIL",
-      "versions": 747
+      "versions": 748
     },
     {
       "code": "CODE_RECUEIL",
-      "versions": 708
+      "versions": 709
     },
     {
       "code": "CODE",
@@ -113,7 +113,7 @@
     "lb"
   ],
   "works": 1399,
-  "versions": 4633,
+  "versions": 4637,
   "valid_from_earliest": "1849-03-14",
   "valid_to_latest": "2030-09-15",
   "history_begins": "publisher",

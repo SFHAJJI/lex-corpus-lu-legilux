@@ -16,15 +16,23 @@
       "valid_from": "2025-09-16",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20250916",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.pdf/eli-etat-leg-loi-1996-11-07-n1-consolide-20250916-fr-pdf.pdf",
+          "sha256": "50042ad828fdc8dc35f1c67a6a8556ffebf2e78b4605f94d93931b184a4e64b2",
+          "source_uri": "https://legilux.public.lu/filestore/eli/etat/leg/loi/1996/11/07/n1/consolide/20250916/fr/pdf/eli-etat-leg-loi-1996-11-07-n1-consolide-20250916-fr-pdf.pdf",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z",
+          "format": "pdf"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
+        "available": true,
         "url": "https://legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1/consolide/20250916"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "ef0ae0965ec86b330e61506e7710eaa9e5b81c6693fe1d7dded9ac25a540bca7"
+  "record_sha256": "eb04cbbdbbb78ab93cf5b102aa0edf97c4ea83789041a221a7b93274c5224b3a"
 }

@@ -16,15 +16,22 @@
       "valid_from": "2026-08-01",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n1/consolide/20260801",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "b1964d558205527e2592c79fcc59f6fc3b29eae6ff84b2c1b5d5772dd8e2efec",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n1/consolide/20260801/fr",
+          "retrieved_at": "2026-08-05T05:26:49Z",
+          "observed_from": "2026-08-05T05:26:49Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n1/consolide/20260801"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2014/07/24/n1/consolide/20260801/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "8c31663f493b5d727ce13d219bdda205fb0b72a8b0d91ee45a2098edfa9a431f"
+  "record_sha256": "0daca63ecc94e5bd866c821d2b5d0640aa63080e4954ff35d4aec4581fa2d7fd"
 }
