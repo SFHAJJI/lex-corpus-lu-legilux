@@ -2,6 +2,7 @@
   "lex_id": "lu-legilux:loi-1996-11-07-n1:2023-09-16",
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1996/11/07/n1",
   "publisher": "lu-legilux",
+  "document_type": "LOI",
   "valid_from": "2023-09-16",
   "valid_to": "2024-09-16",
   "valid_time_source": "publisher",
@@ -10,6 +11,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=document_type"
     }
   ],
   "expressions": [
@@ -37,5 +44,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "3c7f5299aa7ac56390a5dc97188db418a4844f5c661ac61b7d7ffda19d9d2006"
+  "record_sha256": "753b1b33af0bcb6ba6a755fb4706111842ef0409ff6bf947bda73757679c092f"
 }

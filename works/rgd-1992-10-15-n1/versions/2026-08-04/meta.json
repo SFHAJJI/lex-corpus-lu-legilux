@@ -4,10 +4,17 @@
   "publisher": "lu-legilux",
   "valid_from": "2026-08-04",
   "valid_time_source": "publisher",
+  "in_force_status": "applicable",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-04T05:27:06Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=in_force_status"
     }
   ],
   "expressions": [
@@ -26,5 +33,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "e0a124f506a04551fad43f43a36565121849c5c8db34808b94c7ddea1c17c8ac"
+  "record_sha256": "24b8989ffa4aee8cfd1cf4ab1813b92be78012d1dad2f7b316a0906d5f385c23"
 }

@@ -2,12 +2,20 @@
   "lex_id": "lu-legilux:rgd-2023-02-21-a95:2026-04-01",
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/2023/02/21/a95",
   "publisher": "lu-legilux",
+  "document_type": "RGD",
   "valid_from": "2026-04-01",
   "valid_time_source": "publisher",
+  "in_force_status": "applicable",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=document_type,in_force_status"
     }
   ],
   "expressions": [
@@ -34,5 +42,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f79f13c9df1990836505bca563602a756c4332d319af8c5c1f6cff1543e953c7"
+  "record_sha256": "018f21270aa6ea384548d441f0f535a25dd5ff3bbe44227d42d2697eebcab115"
 }

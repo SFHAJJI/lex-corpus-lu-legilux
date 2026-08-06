@@ -2,6 +2,7 @@
   "lex_id": "lu-legilux:loi-1980-03-07-n1:2026-07-05",
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1980/03/07/n1",
   "publisher": "lu-legilux",
+  "document_type": "LOI",
   "valid_from": "2026-07-05",
   "valid_to": "2026-08-08",
   "valid_time_source": "publisher",
@@ -16,6 +17,12 @@
       "observed_from": "2026-08-05T05:26:49Z",
       "scope": "version",
       "detail": "valid_to: 2026-09-16 -\u003E 2026-08-08"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=document_type"
     }
   ],
   "expressions": [
@@ -42,5 +49,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "dec601325f76f7141ca621d8fc562cb6352afad57aa9b3535ff405aade0ac966"
+  "record_sha256": "c798af4f75c0c9631910baebd126fc0e19f9e6c74fe2f7845df5ca6b89901fa0"
 }

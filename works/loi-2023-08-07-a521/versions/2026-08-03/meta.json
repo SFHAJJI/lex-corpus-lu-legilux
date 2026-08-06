@@ -5,12 +5,18 @@
   "document_type": "LOI",
   "valid_from": "2026-08-03",
   "valid_time_source": "publisher",
-  "in_force_status": "not-yet-applicable",
+  "in_force_status": "applicable",
   "publication_date": "2026-07-31",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=in_force_status"
     }
   ],
   "expressions": [
@@ -38,5 +44,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0d406b8a1c69050675e12d4bb052855b354623da7358a3c1afcca48f8536748b"
+  "record_sha256": "bf19674526e6582487eb71eaacad14480036364907959e33a315160f123eaa52"
 }

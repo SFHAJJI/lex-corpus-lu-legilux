@@ -2,12 +2,20 @@
   "lex_id": "lu-legilux:loi-1807-09-15-n2:2026-08-03",
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1807/09/15/n2",
   "publisher": "lu-legilux",
+  "document_type": "CODE",
   "valid_from": "2026-08-03",
   "valid_time_source": "publisher",
+  "in_force_status": "applicable",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=document_type,in_force_status"
     }
   ],
   "expressions": [
@@ -33,5 +41,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "97a4d230a3493f3a81c01f84a8039b8da8979d218d01b9b1287c08b4bcc6f9bf"
+  "record_sha256": "5855401f6c1e665570a7c7c9bb103847e0c8a97442cb44fc6ef3e3ffc33a6d2e"
 }

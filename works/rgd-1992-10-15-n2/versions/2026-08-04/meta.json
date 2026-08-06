@@ -2,12 +2,20 @@
   "lex_id": "lu-legilux:rgd-1992-10-15-n2:2026-08-04",
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2",
   "publisher": "lu-legilux",
+  "document_type": "RGD",
   "valid_from": "2026-08-04",
   "valid_time_source": "publisher",
+  "in_force_status": "applicable",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-04T05:27:06Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=document_type,in_force_status"
     }
   ],
   "expressions": [
@@ -33,5 +41,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "5b31c02010a87685b37002c10f1f230d0f97a4a253b5d6fc2146a3d572624b5b"
+  "record_sha256": "490f0e72012424da0b2cd464ea5148b19baf0dd306e57f1f234a16cc13d15d53"
 }

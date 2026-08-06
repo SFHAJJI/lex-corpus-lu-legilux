@@ -5,12 +5,18 @@
   "document_type": "CODE_RECUEIL",
   "valid_from": "2026-08-01",
   "valid_time_source": "publisher",
-  "in_force_status": "not-yet-applicable",
+  "in_force_status": "applicable",
   "publication_date": "2026-07-28",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=in_force_status"
     }
   ],
   "expressions": [
@@ -30,5 +36,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "f186ee33f9eee07bb636029f8b8c9fa772d627d4586eab9d49e3f673eb3fd981"
+  "record_sha256": "ffab266b84302f2cf4884a090509296a5a6c36d8045265592b36d3c45080cf05"
 }

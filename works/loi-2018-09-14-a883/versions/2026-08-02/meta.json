@@ -2,12 +2,20 @@
   "lex_id": "lu-legilux:loi-2018-09-14-a883:2026-08-02",
   "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2018/09/14/a883",
   "publisher": "lu-legilux",
+  "document_type": "LOI",
   "valid_from": "2026-08-02",
   "valid_time_source": "publisher",
+  "in_force_status": "applicable",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=document_type,in_force_status"
     }
   ],
   "expressions": [
@@ -33,5 +41,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "db2610864aa4ba5a4d6ecccefaf54f162725366ca92d6032387eacd0f63f5147"
+  "record_sha256": "4e09bea9a3239e6d4edb025557ccecb3a7d944d10d1c694d199a83424f66b14f"
 }

@@ -6,7 +6,7 @@
   "valid_from": "2025-11-25",
   "valid_to": "2026-08-02",
   "valid_time_source": "publisher",
-  "in_force_status": "applicable",
+  "in_force_status": "not-applicable",
   "publication_date": "2025-11-28",
   "events": [
     {
@@ -17,6 +17,12 @@
       "event": "interval_closed",
       "observed_from": "2026-08-05T05:26:49Z",
       "detail": "valid_to=2026-08-02"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=in_force_status"
     }
   ],
   "expressions": [
@@ -44,5 +50,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "0c8c9130ca3f27883efb9c83b134cc943e4a416166c0a6f98ce5517a8ac228a1"
+  "record_sha256": "135f2cf9feff455a99fb63321d82244a8623a70f50df835f8c8402fa7c5214ef"
 }

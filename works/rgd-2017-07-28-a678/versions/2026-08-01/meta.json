@@ -5,12 +5,18 @@
   "document_type": "RGD",
   "valid_from": "2026-08-01",
   "valid_time_source": "publisher",
-  "in_force_status": "not-yet-applicable",
+  "in_force_status": "applicable",
   "publication_date": "2026-07-14",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T13:44:31Z",
+      "scope": "version",
+      "detail": "fields=in_force_status"
     }
   ],
   "expressions": [
@@ -37,5 +43,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "c44d051cd3a84cae79e65a73eed53ab12c5d4653774580b48067b33d60ab65ca"
+  "record_sha256": "2f2114b3490b413cdeec97379049a43f427b134a23c70078d19445117a7bcc5a"
 }
