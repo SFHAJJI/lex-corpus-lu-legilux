@@ -10,6 +10,12 @@
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "withdrawn_from_source",
+      "observed_from": "2026-08-06T20:49:52Z",
+      "scope": "version",
+      "detail": "publisher record absent from the current enumeration"
     }
   ],
   "expressions": [
@@ -29,5 +35,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "4520ca00d9efc976f2cc5daaad1f4799c82a39deaa2d61b662db70360b213399"
+  "record_sha256": "df21f63e79c28bcda86e12894c3aaa51386b87a0482d83827e965b4e65be96a9"
 }

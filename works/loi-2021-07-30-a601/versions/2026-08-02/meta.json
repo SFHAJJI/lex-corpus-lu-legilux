@@ -22,6 +22,12 @@
       "observed_from": "2026-08-06T13:44:31Z",
       "scope": "version",
       "detail": "fields=document_type,in_force_status"
+    },
+    {
+      "event": "expression_added",
+      "observed_from": "2026-08-06T20:49:52Z",
+      "scope": "en",
+      "detail": "language=en"
     }
   ],
   "expressions": [
@@ -31,15 +37,36 @@
       "valid_to": "2027-01-01",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "7cb1485e78425a42cddc2855e145c2f33341c8a84228299b4101e62348b4381c",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802/fr",
+          "retrieved_at": "2026-08-06T20:49:52Z",
+          "observed_from": "2026-08-06T20:49:52Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802/fr"
+      }
+    },
+    {
+      "language": "en",
+      "valid_from": "2026-08-02",
+      "valid_to": "2027-01-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 02/08/2026 : Loi du 30 juillet 2021 relative \u00E0 un r\u00E9gime d\u2019aides en faveur du journalisme professionnel.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802/en",
       "observations": [],
       "text": {
         "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802"
+        "reason": "not-fetched",
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2021/07/30/a601/consolide/20260802/en"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "526a16d73f7585d11208239b30aa2fd2afd95d999ea41864f3b506b23cdfe80a"
+  "record_sha256": "1f40d6c507ab14b71aaaef3e1ef2712039ab234dba50e9e8140d00a84e6cbb44"
 }

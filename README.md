@@ -17,7 +17,10 @@ counts and date ranges.
 Honest coverage claim: *dense and reliable from 2017 onward; real but sparse
 before; isolated historical and future-dated snapshots exist.* Acts that Legilux
 never places in its consolidated collection are **not** in this repository; that
-gap is stated explicitly rather than folded into a completeness claim.
+gap is stated explicitly rather than folded into a completeness claim. The
+[measured catalogue boundary and proposed normative-act increment](https://github.com/SFHAJJI/lex/blob/main/docs/luxembourg-scope.md)
+explain why expanding beyond consolidations requires document-class semantics,
+not a blind import of every resource labelled `Act`.
 
 **[Per-article dataset](https://github.com/SFHAJJI/lex-articles)** ·
 **[Live demo](https://law.soufien.lu)** ·
