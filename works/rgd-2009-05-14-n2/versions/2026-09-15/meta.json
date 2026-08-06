@@ -6,12 +6,18 @@
   "valid_from": "2026-09-15",
   "valid_to": "2027-09-15",
   "valid_time_source": "publisher",
-  "in_force_status": "not-yet-applicable",
+  "in_force_status": "not-applicable",
   "publication_date": "2026-04-01",
   "events": [
     {
       "event": "first_sighting",
       "observed_from": "2026-08-01T00:00:00Z"
+    },
+    {
+      "event": "metadata_revised",
+      "observed_from": "2026-08-06T14:07:24Z",
+      "scope": "version",
+      "detail": "fields=in_force_status"
     }
   ],
   "expressions": [
@@ -39,5 +45,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "65de757d844ad7677994c11ed01fb42432dd29cfefafdfdda802016ec26ca39e"
+  "record_sha256": "a1415ac8a02f6cfb4c0807001e2056608c469ef2f5693d3e75fa83adb44b1544"
 }
