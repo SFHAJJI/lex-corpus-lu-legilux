@@ -106,10 +106,11 @@ JSON; bodies stored verbatim as retrieved; no text altered. See
 ## Consume it
 
 - Browse: any `works/<slug>/versions/<date>/meta.json`
-- The release contains lex-index/3 and its canonical whole-artifact manifest.
-  The manifest binds every released file by hash and size and is signed with a
+- The lex-index/3 release contract uses a canonical whole-artifact manifest.
+  It binds every released file by hash and size and is signed with a
   non-exportable Azure Key Vault P-256 key. The embedded index stamp remains
-  public provenance, not the runtime trust root.
+  public provenance, not the runtime trust root. The live rollout state is
+  reported at [law.soufien.lu/verify](https://law.soufien.lu/verify).
 - MCP server + web demo: https://github.com/SFHAJJI/lex
 
 ## How this repository stays current
