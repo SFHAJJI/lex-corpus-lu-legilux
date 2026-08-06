@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-CC--BY--4.0-blue?style=flat-square)](LICENSE)
 [![Source](https://img.shields.io/badge/source-Legilux-e0705f?style=flat-square)](https://legilux.public.lu)
-[![Corpus](https://img.shields.io/badge/corpus-1%2C399%20works%20%C2%B7%204%2C649%20versions-brightgreen?style=flat-square)](https://law.soufien.lu/coverage)
+[![Corpus](https://img.shields.io/badge/corpus-live%20coverage-brightgreen?style=flat-square)](https://law.soufien.lu/coverage)
 [![Evidence](https://img.shields.io/badge/evidence-verbatim%20%C2%B7%20append--only%20%C2%B7%20sha256-24292f?style=flat-square)](https://law.soufien.lu/verify)
 [![Live](https://img.shields.io/badge/live-law.soufien.lu-6f42c1?style=flat-square)](https://law.soufien.lu)
 
@@ -11,11 +11,13 @@ Regulators publish the current rule; this repository keeps every consolidated
 state Legilux has published, so *"what applied on 15 March 2022?"* is a file
 read, not an archaeology project.
 
-**1,399 works · 4,632 versions · 1849-03-14 → 2030-09-15.**
+The generated [manifest](manifest.json) and the
+[live coverage page](https://law.soufien.lu/coverage) are the source of truth for
+counts and date ranges.
 Honest coverage claim: *dense and reliable from 2017 onward; real but sparse
-before; isolated snapshots back to 1849; forward to 2030.* Only ~6% of lois and
-~4% of RGD are ever consolidated, the ≈24,579 never-consolidated acts are
-**not** in this repository (their date coverage is unmeasured).
+before; isolated historical and future-dated snapshots exist.* Acts that Legilux
+never places in its consolidated collection are **not** in this repository; that
+gap is stated explicitly rather than folded into a completeness claim.
 
 **[Per-article dataset](https://github.com/SFHAJJI/lex-articles)** ·
 **[Live demo](https://law.soufien.lu)** ·
@@ -69,8 +71,7 @@ CC-BY … utilisations commerciales ou non », plus a machine-readable
 and append-only**, the sha256 in each `meta.json` covers the exact retrieved
 file; no text is ever altered or overwritten. Where a body is not yet fetched,
 the version says so explicitly (`text.available: false`) and links out.
-Languages: 4,501 French expressions plus the publisher's three singleton
-de/en/lb expressions, all ingested.
+Every language expression in the consolidated collection is retained.
 
 ## The six intake answers (spec §1.5)
 
@@ -105,14 +106,17 @@ JSON; bodies stored verbatim as retrieved; no text altered. See
 ## Consume it
 
 - Browse: any `works/<slug>/versions/<date>/meta.json`
-- The signed SQLite index (`index-lu-legilux.db`) is published as a release
-  asset, filter-first queries, FTS over titles, ECDSA-P256-signed stamp.
+- The release contains lex-index/3 and its canonical whole-artifact manifest.
+  The manifest binds every released file by hash and size and is signed with a
+  non-exportable Azure Key Vault P-256 key. The embedded index stamp remains
+  public provenance, not the runtime trust root.
 - MCP server + web demo: https://github.com/SFHAJJI/lex
 
 ## How this repository stays current
 
 One scheduled job runs nightly and drives every publisher in the fleet. There is
-no manual step, and deliberately one cron and one credential for all of them.
+no manual publication step. GitHub Actions uses OIDC and short-lived Azure
+authorization; the signing private key never leaves Key Vault.
 
 1. **Ingest**, ask the publisher which versions exist, download any not seen
    before, write them *verbatim*. An existing body file is never reopened for
@@ -124,14 +128,16 @@ no manual step, and deliberately one cron and one credential for all of them.
    [lex-articles](https://github.com/SFHAJJI/lex-articles).
 4. **Determinism guard**, if derived output changed while no source file did,
    the extractor is non-deterministic: fail loudly, **commit nothing**.
-5. **Index & publish**, rebuild the SQLite index, sign it (ECDSA P-256),
-   attach it to a release, regenerate the JSONL/Parquet datasets.
-6. **Report**, write a three-state outcome per publisher
+5. **Index & sign**, build lex-index/3 and the benchmark evidence, sign the
+   canonical artifact manifests, and verify every file before release.
+6. **Deploy safely**, build an immutable image, start a zero-traffic Container
+   App revision, exercise health, MCP, Luxembourg and EU search, then promote it.
+7. **Report**, write a three-state outcome per publisher
    (`ran_committed` / `ran_no_change` / `failed_*`) and open an issue on failure.
 
-Every index carries a signed stamp recording **when it was built and from which
-corpus commit**, and every MCP tool response returns it, so freshness is a
-property of the data, not a claim on a webpage. Live status:
+Every index carries a provenance stamp recording **when it was built and from
+which corpus commit**, and every MCP tool response returns it. Runtime trust is
+reported separately from the pinned whole-artifact manifest. Live status:
 <https://law.soufien.lu/built>
 
 ## Support
