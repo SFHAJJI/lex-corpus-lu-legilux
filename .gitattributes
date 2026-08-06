@@ -1,6 +1,6 @@
 # Publisher evidence is byte-addressed by SHA-256 in version metadata. Git must
 # never rewrite line endings in legal bodies or structural manifestations.
-works/** -text
+works/** -text -diff
 
 # Generated metadata is canonical JSON rather than publisher-verbatim evidence.
 # Keep its repository representation reviewable and platform-independent.
