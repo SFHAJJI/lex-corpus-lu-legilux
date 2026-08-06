@@ -47,7 +47,7 @@
     },
     {
       "code": "RI",
-      "versions": 19
+      "versions": 20
     },
     {
       "code": "AMIN",
@@ -113,7 +113,7 @@
     "lb"
   ],
   "works": 1399,
-  "versions": 4637,
+  "versions": 4638,
   "valid_from_earliest": "1849-03-14",
   "valid_to_latest": "2030-09-15",
   "history_begins": "publisher",
