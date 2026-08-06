@@ -16,15 +16,22 @@
       "valid_from": "2026-08-03",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/code/commerce/20260803",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "26f4cc36a2f049eb7ed3f8ef3d82f158763069602a150d1a3e05041dcaa135cd",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/code/commerce/20260803/fr",
+          "retrieved_at": "2026-08-06T03:27:43Z",
+          "observed_from": "2026-08-06T03:27:43Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "pending-gate",
-        "url": "https://legilux.public.lu/eli/etat/leg/code/commerce/20260803"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/code/commerce/20260803/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "aecd726e517e1c03d93e0d5e94878b4735b737faa8233026e65d1aad8e266275"
+  "record_sha256": "97a4d230a3493f3a81c01f84a8039b8da8979d218d01b9b1287c08b4bcc6f9bf"
 }

@@ -16,15 +16,22 @@
       "valid_from": "2026-08-04",
       "valid_time_source": "publisher",
       "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804",
-      "observations": [],
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "c476195c0159904ebaff2d300b8075ca784796374a25ee05579238fad762ad91",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804/fr",
+          "retrieved_at": "2026-08-06T03:27:43Z",
+          "observed_from": "2026-08-06T03:27:43Z"
+        }
+      ],
       "text": {
-        "available": false,
-        "reason": "not-fetched",
-        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804"
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/rgd/1992/10/15/n2/consolide/20260804/fr"
       }
     }
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "71b8d9172d800c5b0f6106a4480f14977b9afd3381ca060073ea609e6a1ddf99"
+  "record_sha256": "5b31c02010a87685b37002c10f1f230d0f97a4a253b5d6fc2146a3d572624b5b"
 }
