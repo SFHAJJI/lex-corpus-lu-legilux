@@ -15,7 +15,7 @@
   "document_types": [
     {
       "code": "LOI",
-      "versions": 1503
+      "versions": 1505
     },
     {
       "code": "RGD",
@@ -27,7 +27,7 @@
     },
     {
       "code": "CODE_RECUEIL",
-      "versions": 709
+      "versions": 710
     },
     {
       "code": "CODE",
@@ -47,7 +47,7 @@
     },
     {
       "code": "RI",
-      "versions": 20
+      "versions": 21
     },
     {
       "code": "AMIN",
@@ -113,10 +113,10 @@
     "lb"
   ],
   "works": 1399,
-  "versions": 4638,
-  "expressions": 4642,
-  "expressions_with_text": 3151,
-  "expressions_without_text": 1491,
+  "versions": 4642,
+  "expressions": 4646,
+  "expressions_with_text": 3154,
+  "expressions_without_text": 1492,
   "valid_from_earliest": "1849-03-14",
   "valid_to_latest": "2030-09-15",
   "history_begins": "publisher",

@@ -17,6 +17,12 @@
       "observed_from": "2026-08-06T20:49:52Z",
       "scope": "version",
       "detail": "publisher record absent from the current enumeration"
+    },
+    {
+      "event": "resighted",
+      "observed_from": "2026-08-08T02:58:46Z",
+      "scope": "version",
+      "detail": "publisher record returned to the current enumeration"
     }
   ],
   "expressions": [
@@ -43,5 +49,5 @@
   ],
   "relations": [],
   "raw": {},
-  "record_sha256": "37e877efe4a5c8698ba62da73aade322ee994727f66446d7922a022ac7a7c6a4"
+  "record_sha256": "5e1e4d9c01ed3d96929c7562f23ea7cd8668df0f3dd80575f585cb4f5ecb3c5d"
 }

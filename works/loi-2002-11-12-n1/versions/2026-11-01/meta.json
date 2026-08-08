@@ -1,0 +1,43 @@
+{
+  "lex_id": "lu-legilux:loi-2002-11-12-n1:2026-11-01",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-11-01",
+  "valid_to": "2027-02-01",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-08-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-08T02:58:46Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-11-01",
+      "valid_to": "2027-02-01",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 01/11/2026 : Loi du 12 novembre 2002 relative aux activit\u00E9s priv\u00E9es de gardiennage et de surveillance.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20261101/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "eb4416d32468234028c6d54ca4bdd3db0e86ef0646a40204fb0bd0d899aeafc2",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20261101/fr",
+          "retrieved_at": "2026-08-08T02:58:46Z",
+          "observed_from": "2026-08-08T02:58:46Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/2002/11/12/n1/consolide/20261101/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "c44759c73aff07b5517143e578e82b298277ca0a912f6f80bc001c749d34fcc4"
+}

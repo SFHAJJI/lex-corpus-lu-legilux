@@ -1,0 +1,41 @@
+{
+  "lex_id": "lu-legilux:loi-1992-03-26-n1:2026-08-10",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1",
+  "publisher": "lu-legilux",
+  "document_type": "LOI",
+  "valid_from": "2026-08-10",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-08-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-08T02:58:46Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-10",
+      "valid_time_source": "publisher",
+      "title": "Version consolid\u00E9e applicable au 10/08/2026 : Loi modifi\u00E9e du 26 mars 1992 sur l\u2019exercice et la revalorisation de certaines professions de sant\u00E9.",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20260810/fr",
+      "observations": [
+        {
+          "file": "fr.xml",
+          "sha256": "86e0f741c585162c20a96382679cba27e45c6778b70a7dbb548689bb1e07d5c9",
+          "source_uri": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20260810/fr",
+          "retrieved_at": "2026-08-08T02:58:46Z",
+          "observed_from": "2026-08-08T02:58:46Z"
+        }
+      ],
+      "text": {
+        "available": true,
+        "url": "https://legilux.public.lu/eli/etat/leg/loi/1992/03/26/n1/consolide/20260810/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "3b404613df49f570b9874fd6ea2c716dc5c15233d54eb2114301e2ef55920873"
+}

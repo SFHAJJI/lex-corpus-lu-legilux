@@ -1,0 +1,34 @@
+{
+  "lex_id": "lu-legilux:code-environnement:2026-08-08",
+  "work_identifier": "http://data.legilux.public.lu/eli/etat/leg/code/environnement",
+  "publisher": "lu-legilux",
+  "document_type": "CODE_RECUEIL",
+  "valid_from": "2026-08-08",
+  "valid_time_source": "publisher",
+  "in_force_status": "not-yet-applicable",
+  "publication_date": "2026-08-07",
+  "events": [
+    {
+      "event": "first_sighting",
+      "observed_from": "2026-08-08T02:58:46Z"
+    }
+  ],
+  "expressions": [
+    {
+      "language": "fr",
+      "valid_from": "2026-08-08",
+      "valid_time_source": "publisher",
+      "title": "Code de l\u0027environnement",
+      "source_uri": "https://legilux.public.lu/eli/etat/leg/code/environnement/20260808/fr",
+      "observations": [],
+      "text": {
+        "available": false,
+        "reason": "not-fetched",
+        "url": "https://legilux.public.lu/eli/etat/leg/code/environnement/20260808/fr"
+      }
+    }
+  ],
+  "relations": [],
+  "raw": {},
+  "record_sha256": "cf6f5a2a2ba7150456df352819c65dc7d3f3d0ead2d8a6d5025700bcfdb952a4"
+}
